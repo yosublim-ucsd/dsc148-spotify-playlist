@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,357 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,352 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
 | 50 | [Pick Me](https://open.spotify.com/track/02Vncg7BGazGARW9CMVstt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pick Me](https://open.spotify.com/album/04wIPzs14Kuqk3OBbhcB3U) | 2:58 |
 
-Snapshot ID: `ZvXZYAAAAACuaRU9kNgOFxft1l21gU8a`
+Snapshot ID: `ZvXZYAAAAABC6sYQFzElbMkH7vI6W0qL`

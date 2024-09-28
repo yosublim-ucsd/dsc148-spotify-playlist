@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,575 likes - 57 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,652 likes - 57 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 56 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 | 57 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 |
 
-Snapshot ID: `ZvLS8wAAAAAmYanvBhJ0Ay2BLWMb1JkP`
+Snapshot ID: `ZvLS8wAAAAB+6lDEUUTjOn4kftyi81p0`

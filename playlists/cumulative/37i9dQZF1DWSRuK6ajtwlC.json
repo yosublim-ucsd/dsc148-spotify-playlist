@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Fiera de Ojinaga en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Primos del Este, Nivel en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "album": {
+        "name": "Al Sur de Tu Ombligo",
+        "url": "https://open.spotify.com/album/5lTWb6kzFwNDqbwPtTPRK4"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "Al Sur de Tu Ombligo",
+      "url": "https://open.spotify.com/track/0lrovHM0S4gSFtHyscyLwv"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 163925,
       "name": "Coraz\u00f3n Jodido",
       "url": "https://open.spotify.com/track/22RHmkbByjdDFGX31OC3Al"
@@ -1055,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "El Son del Cora",
+        "url": "https://open.spotify.com/album/4b9MiwhBfYUIRJb3JFNaCI"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        },
+        {
+          "name": "El Patrimonio De M\u00e9xico",
+          "url": "https://open.spotify.com/artist/6iW64lYKahegx6V67osAJc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188152,
+      "name": "El Son del Cora",
+      "url": "https://open.spotify.com/track/3mFfdpz27GjQhzuD2qhU8p"
+    },
+    {
+      "album": {
         "name": "El Son Del Tlacololero",
         "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
       },
@@ -1401,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Juan Ayon",
+        "url": "https://open.spotify.com/album/3ElfgDqD8nuLTKb7s8sXOZ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216967,
+      "name": "Juan Ayon",
+      "url": "https://open.spotify.com/track/6BQjnXrMGzoJy43vEnO3jz"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
       },
@@ -1531,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
+    },
+    {
+      "album": {
         "name": "Puro Note Primo / En Vivo Vol.1",
         "url": "https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu"
       },
@@ -1607,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "La Ronera",
+        "url": "https://open.spotify.com/album/1ZGHFCdBvGraw6C3kZT8k4"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        },
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "La Ronera",
+      "url": "https://open.spotify.com/track/7sAC9TROPoYntl1aXo44i4"
+    },
+    {
+      "album": {
         "name": "La V\u00edbora Ponzo\u00f1osa",
         "url": "https://open.spotify.com/album/68m60RCa0E2H6z1rr00rKt"
       },
@@ -1654,7 +1752,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181000,
       "name": "Lecci\u00f3n de Vida",
       "url": "https://open.spotify.com/track/7nlpSPCAATD6WFv3KFgQlc"
@@ -1958,6 +2056,24 @@
       "duration_ms": 169993,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
+    },
+    {
+      "album": {
+        "name": "Miel Pura",
+        "url": "https://open.spotify.com/album/1Y8hcftS1DfvJCzWfmSCPf"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179105,
+      "name": "Miel Pura",
+      "url": "https://open.spotify.com/track/3mpB8AiOMz5DwZmGKN88w9"
     },
     {
       "album": {
@@ -2380,7 +2496,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 173761,
       "name": "Por Amarte Tanto",
       "url": "https://open.spotify.com/track/1CU4kIdtvDjtrf1zXgTyLG"
@@ -2526,6 +2642,28 @@
       "duration_ms": 207679,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+    },
+    {
+      "album": {
+        "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174210,
+      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
     },
     {
       "album": {
@@ -3162,7 +3300,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 191703,
       "name": "Volvamos a Empezar",
       "url": "https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1"
@@ -3354,6 +3492,28 @@
       "duration_ms": 167666,
       "name": "Yo te quiero",
       "url": "https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/22x5FPlXuDbTpIAp8LUlgw"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Manuel Reza",
+          "url": "https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159707,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/1WtZlFw2PcWFD0h1NoTS3i"
     },
     {
       "album": {

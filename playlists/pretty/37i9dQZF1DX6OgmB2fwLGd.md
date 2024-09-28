@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > BNYX®\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,672 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,611 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [City of screams](https://open.spotify.com/track/2gHldblsOfeXI9xitoINhy) | [J4y](https://open.spotify.com/artist/1gX9ZzZnjjI19QrSgW9Xkc) | [1.4.3](https://open.spotify.com/album/36nQ7UFHKL3u0lGZfjWsA6) | 1:48 |
 | 100 | [all the time](https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD) | [Bayymack](https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [all the time](https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ) | 1:51 |
 
-Snapshot ID: `Zu33awAAAACPpgBo+v7SbvGk761L6rNk`
+Snapshot ID: `Zu33awAAAABe+rjaVuOtUOhiCQpN2N5B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Virginie B
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,898 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,936 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Club Story](https://open.spotify.com/track/3cMJgBX1cFE9Mpfum5KxCR) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Club Story](https://open.spotify.com/album/4hXyiCoTVRpFD1PDtaYjac) | 2:16 |
 | 75 | [Static](https://open.spotify.com/track/2mmZEYQ0GuT4DlOL5vIasb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Static](https://open.spotify.com/album/4qTTfS4win0HDAPpeJhYlz) | 3:35 |
 
-Snapshot ID: `ZvXNGgAAAADr8dZWp4qSXSMOYJf2UIhi`
+Snapshot ID: `ZvXNGgAAAAAksylv29IqHaIQmqk19Li3`

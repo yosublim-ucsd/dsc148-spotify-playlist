@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Alisa Xayalith
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,524 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,546 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [call me](https://open.spotify.com/track/5pKlgSvAaVLVweSNIiw9PF) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [call me](https://open.spotify.com/album/2jKwpuzU9BaWFjNFbeJ5kY) | 2:19 |
 | 100 | [Spooky](https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO) | [soft star](https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E) | [Spooky](https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS) | 3:55 |
 
-Snapshot ID: `ZvLF4AAAAABoYKwB/SirMLy+qbmNiucz`
+Snapshot ID: `ZvLF4AAAAAAzxXNL83yjSmLlSY//J5NE`

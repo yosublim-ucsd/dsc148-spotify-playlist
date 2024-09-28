@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-143 songs - 7 hr 18 min
+144 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 | 2023-06-22 |  |
 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 | 2022-02-11 | 2024-09-07 |
 | [Auntie Martha](https://open.spotify.com/track/7KJk6qepGGM1Nl8gsLZhW3) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Best of El](https://open.spotify.com/album/5kH9iKfsMVoHfl9UgZhh5d) | 4:28 | 2022-02-11 | 2023-03-25 |
-| [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2022-02-11 |  |
+| [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2022-02-11 | 2024-09-28 |
 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-02-11 |  |
 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 |  |
 | [Bad and Boujee](https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Bad and Boujee](https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp) | 3:35 | 2022-10-14 | 2023-12-21 |
@@ -117,6 +117,7 @@
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-03 |  |
 | [perfect union](https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [perfect union](https://open.spotify.com/album/53HnNVVIVvgsRMNI49KLip) | 3:30 | 2024-09-20 |  |
 | [Plans](https://open.spotify.com/track/0WoT1vggiErQBlgzft2X77) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Plans](https://open.spotify.com/album/6rCRtmadXMUoZgJYZ3RtsN) | 2:52 | 2023-03-24 | 2024-03-01 |
+| [Queen N More](https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Batife](https://open.spotify.com/artist/0vZXn2hA5WFpwe2q88qv5B) | [Queen N More](https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc) | 2:23 | 2024-09-27 |  |
 | [Rara](https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Waje 2.0](https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH) | 2:04 | 2022-07-22 | 2023-08-01 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 |  |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2024-04-19 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 575339,
+  "num_followers": 575372,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAD4+LQqytJbkoBsigqeVUYp",
+  "snapshot_id": "ZvYtwAAAAABoGEFLix3H5Tkffsxgo+K7",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Homesick - Marble Sun Remix",
+        "url": "https://open.spotify.com/album/5ybFXsD5KEXOH3Oh1OcdCz"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Marble Sun",
+          "url": "https://open.spotify.com/artist/59LnVNZ53Em2V1GvHKuo9f"
+        }
+      ],
+      "duration_ms": 317923,
+      "name": "Homesick - Marble Sun Remix",
+      "url": "https://open.spotify.com/track/0iMcKjVSpKZc9UWS6l7JJZ"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -3711,26 +3731,6 @@
       "duration_ms": 209501,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
-    },
-    {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Peaks (Remixed)",
-        "url": "https://open.spotify.com/album/5pYrtC0MRa8XVNQX6UlbOr"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
-        }
-      ],
-      "duration_ms": 310573,
-      "name": "When We Could Dance Together - Sampology Remix",
-      "url": "https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp"
     },
     {
       "added_at": "2022-06-17 04:01:00",

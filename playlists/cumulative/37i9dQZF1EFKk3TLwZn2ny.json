@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Pleasure Shop - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/1L3tUdD47eusTrxQRnr7IK"
+    },
+    {
+      "album": {
         "name": "Gone Clear",
         "url": "https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF"
       },

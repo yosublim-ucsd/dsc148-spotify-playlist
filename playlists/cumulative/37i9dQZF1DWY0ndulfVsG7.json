@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: XPOSE, Dina Nadzir",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Candy",
   "name": "Berjiran",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 240280,
       "name": "Akhir Cerita Cinta",
       "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Dusta",
+        "url": "https://open.spotify.com/album/0L2BSiF3Zq82ayk5Yt08pE"
+      },
+      "artists": [
+        {
+          "name": "Ukays",
+          "url": "https://open.spotify.com/artist/7y3tizrdDAAfh7BWCYLXcI"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255638,
+      "name": "Dusta",
+      "url": "https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt"
+    },
+    {
+      "album": {
         "name": "GILA KUASA",
         "url": "https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
@@ -996,10 +1014,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
+    },
+    {
+      "album": {
+        "name": "PHANTOM FREQUENCIES",
+        "url": "https://open.spotify.com/album/5HYKK49luKagRpfDQUijAP"
+      },
+      "artists": [
+        {
+          "name": "Pop Shuvit",
+          "url": "https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196789,
+      "name": "Melaju",
+      "url": "https://open.spotify.com/track/6UkHi6djHWEonwdBT6M4r5"
     },
     {
       "album": {
@@ -1509,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Setia2u",
+        "url": "https://open.spotify.com/album/35kGA8zxW141ye4p4J4Kji"
+      },
+      "artists": [
+        {
+          "name": "Candy",
+          "url": "https://open.spotify.com/artist/5YKtQxW27hc10L9zoUts00"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Setia2u",
+      "url": "https://open.spotify.com/track/1eca4fNdl0LJiYu5HdU79w"
+    },
+    {
+      "album": {
         "name": "Phobia Phoney",
         "url": "https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl"
       },
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 258331,
       "name": "Sudah Ku Tahu",
       "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 185865,
       "name": "Terbang",
       "url": "https://open.spotify.com/track/4wJ22xEjV2XeHUcrPafZUz"

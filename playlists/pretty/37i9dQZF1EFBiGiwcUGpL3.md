@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 79 | [Tu Compania](https://open.spotify.com/track/2CkkSaKYrvf5KplpndBSnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:10 |
 | 80 | [You're The Only One](https://open.spotify.com/track/3IM1MvonbidNaGyFWEndp5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:54 |
 | 81 | [Desiree](https://open.spotify.com/track/0nUwGtFqcCIy451vhZzAQ3) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [The Sound Of A Million Dreams](https://open.spotify.com/album/2xrlbLf3n1i0VHR66acqty) | 4:52 |
-| 82 | [I Thought You Knew](https://open.spotify.com/track/5fpWN2wZCCa2oYNDQZOTpY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:51 |
-| 83 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 82 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 83 | [I Thought You Knew](https://open.spotify.com/track/5fpWN2wZCCa2oYNDQZOTpY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:51 |
 | 84 | [If You Wanna Stay](https://open.spotify.com/track/1g0lBsLQnlJaW1HhrSfE9s) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:29 |
 | 85 | [Homespun Love](https://open.spotify.com/track/2e5OXt1xlzwdSV5PIZUlTi) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 2:44 |
 | 86 | [Used To The Pain](https://open.spotify.com/track/0o7LYztO3clVrcUvHGaENR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 99 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 
-Snapshot ID: `AbdNaAAAAADBUcR7jHyGJp7rkUZQHpuZ`
+Snapshot ID: `AbdTCAAAAABN2sN0up7Blw8lCk0dv+zD`

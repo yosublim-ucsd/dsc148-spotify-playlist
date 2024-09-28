@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: George Strait
 
-297 songs - 17 hr 24 min
+298 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Over and Over](https://open.spotify.com/track/1qMujJpda7A5NGWxbR3jeQ) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Over and Over](https://open.spotify.com/album/6WQIQXFnUUDASxfg0WygI9) | 3:44 | 2024-05-17 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
+| [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/3s5J9EMC6T3ILzUO98Ovho) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/album/3X3yUZB4Mj01slhTurM4tJ) | 3:48 | 2024-09-27 |  |
 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-07 |  |
 | [Pretty Dang Good](https://open.spotify.com/track/35HIkkB8nnZcTqy1mwhz8Y) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Pretty Dang Good](https://open.spotify.com/album/19bExMYQXy9nlNNIr5LXkf) | 2:54 | 2024-05-03 |  |
 | [Pride](https://open.spotify.com/track/6rrGwk0tMib7jcDm4iKTVE) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Pride](https://open.spotify.com/album/5j2EBpH7Ihjnz5ZN9ApSdh) | 3:42 | 2024-03-29 |  |

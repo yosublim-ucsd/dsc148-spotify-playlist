@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 189513,
       "name": "10 Days in July",
       "url": "https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ"
@@ -200,10 +200,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186008,
       "name": "Blinding Lights - Country Version",
       "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+    },
+    {
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
     },
     {
       "album": {
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 211426,
       "name": "Church",
       "url": "https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 159030,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/0XxhokC94hjSP49A9NbKWZ"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 184104,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/6TMTDBM1PS4uyeoMh8ydw8"
@@ -666,6 +684,24 @@
       "duration_ms": 183360,
       "name": "Five Beers From Now",
       "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
+    },
+    {
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227322,
+      "name": "Flower Tattoos",
+      "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
     },
     {
       "album": {
@@ -1171,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Love Me Or Leave Me (Day Or Night Mix)",
+        "url": "https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za"
+      },
+      "artists": [
+        {
+          "name": "Chad Brownlee",
+          "url": "https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223870,
+      "name": "Love Me Or Leave Me (Day Or Night Mix)",
+      "url": "https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq"
       },
@@ -1182,7 +1236,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 189035,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4"
@@ -1406,7 +1460,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 218219,
       "name": "One Beer Away",
       "url": "https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk"
@@ -1428,6 +1482,24 @@
       "duration_ms": 176610,
       "name": "One More",
       "url": "https://open.spotify.com/track/2Pl5M4e1slMK9WM8eqrt2p"
+    },
+    {
+      "album": {
+        "name": "Outliving (For Mom)",
+        "url": "https://open.spotify.com/album/49L9I4n7kIxGBOjakpxuCo"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228981,
+      "name": "Outliving",
+      "url": "https://open.spotify.com/track/1yLUBXYa3r768BBzp63duL"
     },
     {
       "album": {
@@ -1612,7 +1684,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 161017,
       "name": "Right Around Sundown",
       "url": "https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6"
@@ -1634,6 +1706,24 @@
       "duration_ms": 228101,
       "name": "River Runnin' Wide",
       "url": "https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m"
+    },
+    {
+      "album": {
+        "name": "Rodeo Junkies",
+        "url": "https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216617,
+      "name": "Rodeo Junkies",
+      "url": "https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6"
     },
     {
       "album": {
@@ -1710,6 +1800,24 @@
       "duration_ms": 200746,
       "name": "She Knows Better",
       "url": "https://open.spotify.com/track/5qShJOuogy2eaOyO6B5wsL"
+    },
+    {
+      "album": {
+        "name": "She Stole My Harley",
+        "url": "https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC"
+      },
+      "artists": [
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192950,
+      "name": "She Stole My Harley",
+      "url": "https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY"
     },
     {
       "album": {
@@ -1970,6 +2078,24 @@
       "duration_ms": 205970,
       "name": "To Be Honest",
       "url": "https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l"
+    },
+    {
+      "album": {
+        "name": "today",
+        "url": "https://open.spotify.com/album/51NB0c3HmIOHwF5XAX5Hmr"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153121,
+      "name": "today",
+      "url": "https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk"
     },
     {
       "album": {
@@ -2278,6 +2404,24 @@
       "duration_ms": 173018,
       "name": "Your Mama Would Hate Me",
       "url": "https://open.spotify.com/track/375dfgV3eOlNGGtPXrorXG"
+    },
+    {
+      "album": {
+        "name": "Your Time to Stay",
+        "url": "https://open.spotify.com/album/3kIPmiOQBUlVuTKcTykGvl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goodvin",
+          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161943,
+      "name": "Your Time to Stay",
+      "url": "https://open.spotify.com/track/0xb6hOMY4KxjoSEHgeslZQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo"

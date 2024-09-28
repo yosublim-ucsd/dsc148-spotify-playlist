@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 77 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 | 78 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 
-Snapshot ID: `ZtH1+wAAAAA1vzw8xjt/GYXn3+5nQac9`
+Snapshot ID: `ZtH1+wAAAABRMXPlnAgJKcJ0F43R7hUC`

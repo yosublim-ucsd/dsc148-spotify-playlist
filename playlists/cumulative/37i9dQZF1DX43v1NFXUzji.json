@@ -231,6 +231,36 @@
     },
     {
       "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160399,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
+    },
+    {
+      "album": {
         "name": "Romances de una Nota 2021, Vol.2",
         "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
       },
@@ -1383,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "UNA SEMANA INCRE\u00cdBLE",
+        "url": "https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1ZdhuKXOw9e2YxFdAZaUhC"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -2088,7 +2136,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 139376,
       "name": "CARNET",
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
@@ -7039,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "LENNY",
+        "url": "https://open.spotify.com/album/5yAUQ3y3uSAYmVRfzFua0X"
+      },
+      "artists": [
+        {
+          "name": "ABHIR",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "LENNY",
+      "url": "https://open.spotify.com/track/4RrQ5RCOOWNjhpWwNBTYAT"
+    },
+    {
+      "album": {
         "name": "Ley Seca",
         "url": "https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn"
       },
@@ -7486,7 +7552,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 199551,
       "name": "Loquita",
       "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
@@ -12798,7 +12864,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"

@@ -1,12 +1,12 @@
 {
-  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151380,
+  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
+  "num_followers": 151415,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAABNYd50ksZ6R3G/FMdfTq9E",
+  "snapshot_id": "ZvSkAAAAAADlpOkranyoOA/LJp6QyL+q",
   "tracks": [
     {
       "added_at": null,
@@ -711,46 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -775,6 +735,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troca",
-        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
+        "name": "Desde la Azotea - Fase II",
+        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 147235,
-      "name": "Troca",
-      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+      "duration_ms": 242429,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
     },
     {
       "added_at": null,
@@ -835,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde la Azotea - Fase II",
-        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
+        "name": "Troca",
+        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 242429,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
+      "duration_ms": 147235,
+      "name": "Troca",
+      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
     },
     {
       "added_at": null,

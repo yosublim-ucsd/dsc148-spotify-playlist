@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring charlotte plank  ☁️  art: @doolittleillustrations
 
-193 songs - 9 hr 36 min
+194 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bedbugs](https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Bedbugs](https://open.spotify.com/album/5s6HqHbHK8PDnsSHtBUivO) | 2:56 | 2024-06-27 | 2024-08-09 |
 | [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 | 2024-07-11 | 2024-08-30 |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-09-13 |
+| [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 | 2024-09-27 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 | 2024-09-21 |
 | [Black Girls Wanna Have Fun](https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Black Girls Wanna Have Fun](https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm) | 1:45 | 2024-06-27 | 2024-08-30 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 |  |

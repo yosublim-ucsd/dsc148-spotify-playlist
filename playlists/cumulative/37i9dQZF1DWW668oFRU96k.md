@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dimitri Vegas x Like Mike x NMIXX
 
-1,363 songs - 2 day 20 hr 44 min
+1,364 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Collide](https://open.spotify.com/track/57gY3wAnqf97Wz0HLgUtY8) | [Home By Dawn](https://open.spotify.com/artist/6g747HiZMhVxVcQS1t8LI4), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Collide](https://open.spotify.com/album/0Y57roTSoU88n3CdHMrMsd) | 3:15 | 2024-05-23 | 2024-06-28 |
 | [Collide](https://open.spotify.com/track/7u6wJwraBiFVMEA4mmZi56) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j), [Elle Sloan](https://open.spotify.com/artist/1Liaz4mjUNzD2SGhSTCitp), [AndyBear](https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc) | [Collide](https://open.spotify.com/album/0Sf9qAKgsLXrBfFuNdBowK) | 2:34 | 2024-06-27 | 2024-08-04 |
 | [Come Close](https://open.spotify.com/track/2IXVuAMYYSslZ2bdkGKlxN) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp), [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX) | [Come Close](https://open.spotify.com/album/0ZawOXRNNUiTmg8nJJjrs2) | 3:12 | 2023-03-30 | 2023-05-05 |
+| [Come On](https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h) | 2:26 | 2024-09-26 |  |
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-17 | 2023-09-22 |
 | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/track/4kj39oq6LXxu4FgJg8bHT0) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/album/6YA9lFjba4jca76mAkYUAl) | 3:32 | 2024-06-27 | 2024-08-04 |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-22 | 2023-08-04 |

@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Beginning of Something",
+        "url": "https://open.spotify.com/album/4EkwCZta27L1fKf4DWny0v"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221070,
+      "name": "Beginning of Something",
+      "url": "https://open.spotify.com/track/6EHME1dvYCYL1pJxOnNfv7"
+    },
+    {
+      "album": {
         "name": "Behind The Counter",
         "url": "https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6"
       },
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 199559,
       "name": "Glowing Embrace",
       "url": "https://open.spotify.com/track/23J40P2PR17aTY31MHMsol"
@@ -3236,6 +3254,24 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "album": {
+        "name": "Greetings",
+        "url": "https://open.spotify.com/album/0D3DY6mh9O7VytBTGRZees"
+      },
+      "artists": [
+        {
+          "name": "The Urban Trio",
+          "url": "https://open.spotify.com/artist/64HWGZP6BojFjQ7P8y5Zn9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227274,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/2nzSZbNLSwdOAQZXqk7ITn"
     },
     {
       "album": {
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 251893,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0"
@@ -7154,7 +7190,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 176560,
       "name": "Our Time Together",
       "url": "https://open.spotify.com/track/4AZcQolMBIHrcm0GevPB00"
@@ -7652,6 +7688,24 @@
       "duration_ms": 240480,
       "name": "Ripples of a Stream",
       "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
+    },
+    {
+      "album": {
+        "name": "Rue Cler",
+        "url": "https://open.spotify.com/album/6YBskAeSjooasuR5EufMSI"
+      },
+      "artists": [
+        {
+          "name": "Gjermund Skar",
+          "url": "https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Rue Cler",
+      "url": "https://open.spotify.com/track/6lh2GskB3nwoDHKar5wTAQ"
     },
     {
       "album": {
@@ -8586,7 +8640,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201625,
       "name": "Spring is Here",
       "url": "https://open.spotify.com/track/691OLPPJwrHLCPsvryQpOh"
@@ -9018,7 +9072,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 212829,
       "name": "The bag with cash",
       "url": "https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi"
@@ -9270,7 +9324,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 215000,
       "name": "The Lights",
       "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,019 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,039 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 11 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 |
 | 12 | [Hello Hello](https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:36 |
 | 13 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
-| 14 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
-| 15 | [Break Up Bye Bye \- Frock Destroyers Version](https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS) | [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc), [Frock Destroyers](https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1) | [Break Up Bye Bye \(Frock Destroyers Version\)](https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6) | 2:31 |
+| 14 | [Break Up Bye Bye \- Frock Destroyers Version](https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS) | [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc), [Frock Destroyers](https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1) | [Break Up Bye Bye \(Frock Destroyers Version\)](https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6) | 2:31 |
+| 15 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
 | 16 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
 | 17 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 18 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 79 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 |
 | 80 | [God Save This Queen](https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40) | 3:14 |
 
-Snapshot ID: `ZloPIwAAAADq8BW72hvOj+uMjfPYGGWh`
+Snapshot ID: `ZloPIwAAAACOwXG5Jtgw/+HZeWcjXCgh`

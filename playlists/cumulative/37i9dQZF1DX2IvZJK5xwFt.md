@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-627 songs - 1 day 14 hr 56 min
+629 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-10 | 2023-06-25 |
 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-13 | 2024-03-08 |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-10 | 2023-04-17 |
+| [80 Proof](https://open.spotify.com/track/7ilPwFu8bGT0xvvmKERG2r) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn \- Deluxe Edition](https://open.spotify.com/album/25hWfDvrgbUWNjTgA3s3fK) | 3:25 | 2024-09-27 |  |
 | [A Line](https://open.spotify.com/track/73gS8oIeBx85oEDce2Mkgg) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-22 | 2023-10-06 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-05-06 | 2024-03-08 |
@@ -109,6 +110,7 @@
 | [Council Skies](https://open.spotify.com/track/5fySmz9Qx8cpKaacHxEYN9) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:42 | 2023-06-01 | 2024-03-15 |
 | [Council Skies](https://open.spotify.com/track/7mx6gWyqk2vbm2WfqwXX2G) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies \(The Reflex Revision\)](https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP) | 4:42 | 2023-05-04 | 2023-06-05 |
 | [Countdown To Shutdown](https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Countdown To Shutdown](https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk) | 3:13 | 2023-06-15 | 2024-04-27 |
+| [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-27 |  |
 | [Crawling My Way Back To You](https://open.spotify.com/track/5RxxF9fL7SQDgHKi1LR1WS) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Crawling My Way Back To You](https://open.spotify.com/album/0vEfqjzKBIc1GPky8cCfgw) | 3:17 | 2024-06-27 | 2024-09-13 |
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-07 | 2023-09-15 |
 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 | 2023-02-16 | 2023-08-11 |
@@ -361,7 +363,7 @@
 | [Needless Nostalgia](https://open.spotify.com/track/3Gk4iUoMXNL5YkaTVbvL8r) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [Needless Nostalgia](https://open.spotify.com/album/52kj1wmCLXVlVsjdkAle9k) | 4:38 | 2022-05-06 | 2022-08-12 |
 | [Nerve Flip](https://open.spotify.com/track/3cIRhs4twfgki25wLPhUqA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Nerve Flip](https://open.spotify.com/album/4k2RZA376JAZ9XOIQlyzae) | 3:06 | 2022-06-02 | 2022-06-17 |
 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 | 2023-05-25 | 2023-06-02 |
-| [NERVOUS](https://open.spotify.com/track/5eCi0WNi38vEKZeXr5kEAs) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [NERVOUS](https://open.spotify.com/album/6SfV67IBJwVEm2aJDkJ51x) | 3:25 | 2024-06-27 |  |
+| [NERVOUS](https://open.spotify.com/track/5eCi0WNi38vEKZeXr5kEAs) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [NERVOUS](https://open.spotify.com/album/6SfV67IBJwVEm2aJDkJ51x) | 3:25 | 2024-06-27 | 2024-09-28 |
 | [NEW LOVE](https://open.spotify.com/track/4jxLWRKAzXyV8xmUJg7fpF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [NEW LOVE](https://open.spotify.com/album/2lFihMx6pGcLNn6glKRvwM) | 3:43 | 2023-09-22 | 2023-09-29 |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-27 | 2023-09-22 |
 | [Nice Guys Finish Last \- Live at the Electric Factory, Philadelphia 11/14/97](https://open.spotify.com/track/5lpnKms51XfMY4XZVNfZkp) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nice Guys Finish Last \(Live at the Electric Factory, Philadelphia 11/14/97\)](https://open.spotify.com/album/4jeeRrN9SDSJ9kNqjxC52R) | 2:57 | 2022-12-02 | 2023-03-25 |
@@ -596,7 +598,7 @@
 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 | 2024-09-19 |  |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-02 | 2023-08-18 |
 | [We Die Alone \- Bonus Track](https://open.spotify.com/track/3ueBfJBpd8lQQyW3F1iD9N) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 4:38 | 2024-06-13 | 2024-06-21 |
-| [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 |  |
+| [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 | 2024-09-28 |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-09 | 2022-12-03 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-25 | 2023-07-28 |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-06-30 | 2023-07-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Margaritas Podridas en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 203320,
       "name": "Amiga - Bonus Track",
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186520,
       "name": "Cerca De Ti",
       "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
@@ -1851,6 +1851,28 @@
     },
     {
       "album": {
+        "name": "Dafne",
+        "url": "https://open.spotify.com/album/1P1nJ5pey3YdfEvftQJosT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Dafne",
+      "url": "https://open.spotify.com/track/3Uw6XT2xJzEddDVd3bor1E"
+    },
+    {
+      "album": {
         "name": "Dame Una Oportunidad",
         "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
       },
@@ -1884,6 +1906,24 @@
       "duration_ms": 223047,
       "name": "Daria",
       "url": "https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL"
+    },
+    {
+      "album": {
+        "name": "De Este Amor No Sabr\u00e1s Huir",
+        "url": "https://open.spotify.com/album/1cFLFtdZCFNtIsHYJlPrgu"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243655,
+      "name": "De Este Amor No Sabr\u00e1s Huir",
+      "url": "https://open.spotify.com/track/3rJ0tQEQLKkqefeqCmpVx6"
     },
     {
       "album": {
@@ -2086,7 +2126,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151596,
       "name": "Despierta y Repite",
       "url": "https://open.spotify.com/track/18Lt6WvbdZethSYHm1Jd7c"
@@ -3400,7 +3440,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
@@ -3508,7 +3548,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
@@ -3598,7 +3638,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166476,
       "name": "Hijo Pr\u00f3digo",
       "url": "https://open.spotify.com/track/79tWSWQ8VPeXNxuZlvPmJt"
@@ -3932,7 +3972,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 133500,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/7nqHyPFnsV9brqNdcz7gg1"
@@ -5580,7 +5620,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 213152,
       "name": "Mirando al techo - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm"
@@ -5602,6 +5642,24 @@
       "duration_ms": 147731,
       "name": "Mis Discos",
       "url": "https://open.spotify.com/track/5dKzwCh0X3snBbMGxjHqbt"
+    },
+    {
+      "album": {
+        "name": "Misil",
+        "url": "https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173991,
+      "name": "Misil",
+      "url": "https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M"
     },
     {
       "album": {
@@ -6099,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Dark Guapachoso",
+        "url": "https://open.spotify.com/album/4F9d1jRNOoKIlbRoc2aV7F"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237841,
+      "name": "Necesito una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/4TyeFbefCu1TiyjzOjK7c6"
+    },
+    {
+      "album": {
         "name": "nena",
         "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
       },
@@ -6204,6 +6280,24 @@
       "duration_ms": 176335,
       "name": "No les Dire La verdad",
       "url": "https://open.spotify.com/track/2kVAt63gbF3zsZeNVg9dRo"
+    },
+    {
+      "album": {
+        "name": "No Me Arrastres",
+        "url": "https://open.spotify.com/album/29bmbVzByvwzq8jlDVFBAE"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181125,
+      "name": "No Me Arrastres",
+      "url": "https://open.spotify.com/track/6BSLEpGqB90VNIC1mFmeGT"
     },
     {
       "album": {
@@ -7118,6 +7212,36 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "album": {
+        "name": "Quiero Ver Todo Arder (Claaaro, todxs son pendejxs menos t\u00fa)",
+        "url": "https://open.spotify.com/album/3KRt8TsHViYZbHqZNLybvD"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        },
+        {
+          "name": "Tim Picchetti",
+          "url": "https://open.spotify.com/artist/7c3k9kUFXmsCzzTvCwli0b"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Quiero Ver Todo Arder (Claaaro, todxs son pendejxs menos t\u00fa)",
+      "url": "https://open.spotify.com/track/3uUxkzOIEZC2NcdOyDRqxY"
     },
     {
       "album": {
@@ -9378,6 +9502,28 @@
       "duration_ms": 158300,
       "name": "Woman Sobbing",
       "url": "https://open.spotify.com/track/24sZJVKllZwuYRCUuntJFf"
+    },
+    {
+      "album": {
+        "name": "Ya lo sabemos",
+        "url": "https://open.spotify.com/album/6Iinc2JYChVvpVELnjMZYl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157913,
+      "name": "Ya lo sabemos",
+      "url": "https://open.spotify.com/track/2IAERyyXkVlVB2y5fCyMEC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Najlepsze alternatywne kawałki 2023 roku\. Cover: Nosowska \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,484 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,481 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 | 49 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 |
 | 50 | [Podobno](https://open.spotify.com/track/2gavBqqDIXy5qaGeQpQ3db) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk) | [Podobno](https://open.spotify.com/album/1rtA7Phnxo5k1pisrUT3mt) | 3:39 |
 
-Snapshot ID: `ZWcrgAAAAAD95ysGlXcG1MuNEnUMR0mQ`
+Snapshot ID: `ZWcrgAAAAAAy8AnujlIZlNApPup/m2yp`

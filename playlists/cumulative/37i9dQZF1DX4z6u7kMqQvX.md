@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-513 songs - 1 day 4 hr 58 min
+514 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [INFINITO](https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [INFINITO](https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8) | 3:05 | 2022-06-03 | 2023-11-04 |
 | [Instante Eterno de Felicidad](https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Instante Eterno de Felicidad](https://open.spotify.com/album/5yhABD33uH530lInv5JqFB) | 3:08 | 2023-06-23 | 2024-08-23 |
 | [Inteligencia Emocional](https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:36 | 2023-03-03 | 2024-04-19 |
-| [Inteligencia Emocional](https://open.spotify.com/track/5FFvcX40HqoqrPOYrHEqM4) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Inteligencia Emocional](https://open.spotify.com/album/5az0siocJizRVYeojIUlqt) | 3:36 | 2022-01-07 |  |
+| [Inteligencia Emocional](https://open.spotify.com/track/5FFvcX40HqoqrPOYrHEqM4) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Inteligencia Emocional](https://open.spotify.com/album/5az0siocJizRVYeojIUlqt) | 3:36 | 2022-01-07 | 2024-09-28 |
 | [Intensidad](https://open.spotify.com/track/6iPtkv6lx36MQYEMQxAbyy) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Intensidad](https://open.spotify.com/album/52uUolZcp6tWFmEXK63dKC) | 3:55 | 2022-01-07 | 2022-07-27 |
 | [Intensidad](https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:55 | 2022-07-15 | 2023-10-06 |
 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 | 2024-09-26 |  |
@@ -471,6 +471,7 @@
 | [Trueno](https://open.spotify.com/track/6xy9QC9gzq1svvnkpbqFk6) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Trueno](https://open.spotify.com/album/0kcIOQIumDdPdU8JH8UrGS) | 3:36 | 2022-01-07 | 2022-07-16 |
 | [Tu Cabeza](https://open.spotify.com/track/24ZePEqPyCvc2jT2TwLUWA) | [Bleckance](https://open.spotify.com/artist/7g3enk0PeZO2E1vqtVn6UD) | [Tu Cabeza](https://open.spotify.com/album/0o20muf7fSEktMPvoDCPp9) | 2:07 | 2022-04-01 | 2022-07-16 |
 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 |  |
+| [Tu Falta De Querer](https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx) | [Jacinta](https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB), [Santiago Manrique](https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h) | [Cantamos en mi terraza? \#2](https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3) | 4:34 | 2024-09-26 |  |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2022-01-07 | 2023-03-03 |
 | [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 | 2022-01-28 | 2024-08-17 |
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-13 | 2023-09-22 |

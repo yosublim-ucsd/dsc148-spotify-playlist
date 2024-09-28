@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Cécil Yang
 
-171 songs - 10 hr 2 min
+172 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Lord](https://open.spotify.com/track/5fQgdQVocpLazUUuGi6rIN) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Lord](https://open.spotify.com/album/35Agdm0pdanvTKfdUYRJXM) | 3:41 | 2024-06-27 | 2024-09-06 |
 | [lost house](https://open.spotify.com/track/3t5AKlTYNJtTSX37YMJeZa) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [lost house](https://open.spotify.com/album/4XXvzEo31hxbfgayRWWE2R) | 3:57 | 2024-06-27 | 2024-09-06 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-06-27 | 2024-08-10 |
+| [Lost Satellite](https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ) | [Hanif Andarevi](https://open.spotify.com/artist/46jG6QBzEDi15k17UjJCQS) | [RECEIVER](https://open.spotify.com/album/3kxtHT2VcwsHiSbISsEahV) | 4:21 | 2024-09-27 |  |
 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 | 2024-09-05 |  |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-06-27 | 2024-09-27 |
 | [Love in Stereo](https://open.spotify.com/track/5ePhbCEsINvj1ZfX1CUnCX) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Love in Stereo](https://open.spotify.com/album/0OHHtLLMll4D0G67U48vb8) | 3:03 | 2024-07-25 |  |

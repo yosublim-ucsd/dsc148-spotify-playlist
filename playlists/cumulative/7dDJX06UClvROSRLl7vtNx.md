@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-576 songs - 1 day 1 hr 13 min
+578 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Brighter Than The Sun](https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM) | [MAESTRI](https://open.spotify.com/artist/1j3mntc3HJeQXRj7dSdvE4), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [GHALIA](https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc) | [Brighter Than The Sun](https://open.spotify.com/album/505KMTrlprZnZOjEY6DIGb) | 2:15 | 2024-02-18 | 2024-03-25 |
 | [Broken Waves](https://open.spotify.com/track/7ID9hY0L3R4GKtvUThHa0q) | [Indigo Pool](https://open.spotify.com/artist/7LL3pitjQODebuukupE8b9), [Mushroom People](https://open.spotify.com/artist/4ziIr4aQsNzHu1uJssQAUJ) | [Broken Waves](https://open.spotify.com/album/5Kckn5zh0h4wKGsu7jgcq6) | 2:26 | 2023-09-22 | 2024-05-13 |
 | [Brown Eyed Girl](https://open.spotify.com/track/6vqqKcmf2gV1qcR3tfvULK) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Brown Eyed Girl](https://open.spotify.com/album/16zEG3fRYo75oTNtUdcJ3o) | 2:37 | 2023-10-16 | 2024-01-28 |
+| [By My Side](https://open.spotify.com/track/6OwqOXRaBzVcaHLsyVnDuv) | [Matt Steep](https://open.spotify.com/artist/1gcV4SDOC9BYNV4PNEdgaN), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [By My Side](https://open.spotify.com/album/0icgaKoNR01UBKAuoxGWfl) | 2:15 | 2024-09-27 |  |
 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 | 2024-05-14 | 2024-07-31 |
 | [By Your Side](https://open.spotify.com/track/4LPOVVZeYoNaSOkGrIMZeJ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [By Your Side](https://open.spotify.com/album/7JdFmJlsQuvljXo5KksdCY) | 2:15 | 2024-05-27 | 2024-06-23 |
 | [California Dreamin'](https://open.spotify.com/track/4y0wgwic6vFqUBN6Y1mkDR) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [California Dreamin'](https://open.spotify.com/album/6axSDPUcBzLMuOtg7kwxK4) | 4:05 | 2023-09-22 |  |
@@ -578,6 +579,7 @@
 | [You And I](https://open.spotify.com/track/3J217Q4UxPawt2p0ldy419) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [You And I](https://open.spotify.com/album/0wqjtQh6JElawszfoGejhC) | 2:16 | 2024-07-05 | 2024-08-10 |
 | [You Bring Me Up](https://open.spotify.com/track/4BoKz5vu9cPFA8hcBBi5HS) | [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [You Bring Me Up](https://open.spotify.com/album/4TKDFj9O3YSUSFkUqw1JgH) | 2:33 | 2024-04-15 |  |
 | [You Might](https://open.spotify.com/track/1oinzBaNm1f9ekaMB3dfKs) | [Gktrk](https://open.spotify.com/artist/2hoTdea8RAt8OxW7RIcR6d), [Raïko](https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4) | [You Might](https://open.spotify.com/album/46eBS54UdLP5VuqTuhQ21G) | 3:23 | 2024-06-11 | 2024-07-14 |
+| [You'll Be Calling Me](https://open.spotify.com/track/0Z7GvNuGtRfi5nJsx4hdmT) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [You'll Be Calling Me](https://open.spotify.com/album/4uiUWMgRWLWRk0NDRVKKmG) | 2:54 | 2024-09-27 |  |
 | [You're Somebody Else](https://open.spotify.com/track/2wLIUEezoxZDKBtK3Qzmbk) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [You're Somebody Else](https://open.spotify.com/album/7rfuNg4YLJnnAOCni8HEfq) | 2:38 | 2024-02-10 |  |
 | [You're The One](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [You're The One](https://open.spotify.com/album/5b0KyQO9kGU0w9z4nmWU8A) | 2:53 | 2024-05-04 | 2024-07-05 |
 | [You've Got the Love](https://open.spotify.com/track/0VYbWQ55gP8h8WepmgJjHI) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [You've Got the Love](https://open.spotify.com/album/0qRHUIyo4izAh674KJrMe2) | 3:00 | 2023-09-22 | 2024-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Ian Ojeda\.  Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,484 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,507 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Yo Soy Hijo Del 7](https://open.spotify.com/track/2qdeM45IZhRglUCQ8eFEPq) | [SUBLXME](https://open.spotify.com/artist/00EwB9FkCrgoGSe4xTHDsO) | [Unpl4gged](https://open.spotify.com/album/4QBGFxV2piwgrTCEoVUemN) | 2:50 |
 | 79 | [La Gavilaniza](https://open.spotify.com/track/6NwBW2cYcxXINfm4rV3GaS) | [Los Plebes de la Cuadra](https://open.spotify.com/artist/6oQFhaNvHdvBznlkDEOs6A) | [La Gavilaniza](https://open.spotify.com/album/0IqmDnnvd7FQAh8nGOyHDa) | 3:30 |
 
-Snapshot ID: `ZutRKAAAAADdcT4+Y095Tb6RpSEywhn/`
+Snapshot ID: `ZutRKAAAAABkSfa3uqHzHQaQkKY/U7li`

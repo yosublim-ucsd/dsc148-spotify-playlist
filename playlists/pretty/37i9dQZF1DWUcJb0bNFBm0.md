@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: envy\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: The Whisperer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,743 likes - 104 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,753 likes - 104 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 103 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 |
 | 104 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 |
 
-Snapshot ID: `ZvWFAAAAAAA7McrGI2kfNyWIr5Sv8cR9`
+Snapshot ID: `ZvZGeAAAAAAkWEvT2lrKWBKSv6s79jP4`

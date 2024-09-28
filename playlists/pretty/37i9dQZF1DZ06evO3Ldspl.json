@@ -1,12 +1,12 @@
 {
   "description": "This Is Binomio de Oro. Los temas esenciales, todos en una lista.",
-  "num_followers": 9080,
+  "num_followers": 9086,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADc2KbeARBNmxe+P5DGmOR3",
+  "snapshot_id": "ZvSkAAAAAADriuVkRmIobdj7zJP/WoD6",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Dime Pajarito",
+      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 256293,
       "name": "El Higuer\u00f3n",
       "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Dime Pajarito",
-      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Exportaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "El Amor Es M\u00e1s Grande Que Yo",
+      "url": "https://open.spotify.com/track/65b7BwU67oXr2I10I9LzZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 341333,
       "name": "Mi Novia y Mi Pueblo",
       "url": "https://open.spotify.com/track/4SYjWNFpwOyYXLER9XalBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Exportaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "El Amor Es M\u00e1s Grande Que Yo",
-      "url": "https://open.spotify.com/track/65b7BwU67oXr2I10I9LzZM"
     },
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 30 Mejores",
-        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
-      },
-      "artists": [
-        {
-          "name": "Rafael Orozco",
-          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
-        },
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "D\u00e9jame Quererte",
-      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 291313,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 30 Mejores",
+        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
+      },
+      "artists": [
+        {
+          "name": "Rafael Orozco",
+          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
+        },
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "D\u00e9jame Quererte",
+      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 316760,
+      "name": "El Llanto de un Rey",
+      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 317626,
       "name": "Estar Enamorado",
       "url": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 316760,
-      "name": "El Llanto de un Rey",
-      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 230520,
+      "name": "Decid\u00ed Cambiar",
+      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 272133,
       "name": "Porque No Te Tengo",
       "url": "https://open.spotify.com/track/4uIZhkCVK25JJ0KyPqGq2k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 230520,
-      "name": "Decid\u00ed Cambiar",
-      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "Mi Mejor Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superior",
         "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 250933,
       "name": "Miedo Al Amor",
       "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorado Como Siempre",
+        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "Mi Mejor Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
     },
     {
       "added_at": null,

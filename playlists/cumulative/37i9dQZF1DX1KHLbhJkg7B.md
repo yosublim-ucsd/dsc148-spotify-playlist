@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-403 songs - 1 day 1 hr 11 min
+404 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chasing Cars](https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Chasing Cars](https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ) | 4:25 | 2023-09-15 |  |
 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 | 2023-03-10 |  |
 | [Circles](https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Circles](https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy) | 3:18 | 2023-01-06 | 2023-06-03 |
-| [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 | 2021-12-10 |  |
+| [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 | 2021-12-10 | 2024-09-28 |
 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 | 2023-12-01 | 2024-09-07 |
 | [Come Fly with Me](https://open.spotify.com/track/7C1HA5sMYMZAZ1yvIOZ1Qw) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:10 | 2022-01-07 | 2022-07-29 |
 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 | 2021-12-10 | 2022-09-10 |
@@ -306,6 +306,7 @@
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2022-03-25 | 2022-04-19 |
 | [Sparks Fly](https://open.spotify.com/track/5vdvzc4drsamBYXaSF8l5u) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Sparks Fly](https://open.spotify.com/album/4zprx6Kbn9U7ca2JxakMxh) | 4:21 | 2022-03-25 | 2022-07-26 |
 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 | 2022-12-16 | 2023-06-03 |
+| [State Trooper](https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [State Trooper / 10\-38 \(Full Band Version\)](https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm) | 3:53 | 2024-09-27 |  |
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 | 2024-08-03 |
 | [Stay](https://open.spotify.com/track/7HCpV8ksGTbXRRq91RceRl) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/0QoBtGuvBvCZirZiPPYxpB) | 3:45 | 2023-11-03 | 2024-04-19 |

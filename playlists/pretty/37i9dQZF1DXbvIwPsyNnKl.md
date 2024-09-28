@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: ALLMO$T
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,612 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,178 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Real Talk](https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Real Talk](https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu) | 3:12 |
 | 50 | [Yes Hello](https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Training Day](https://open.spotify.com/album/1vm29cEdbgKVxwFHFztmKB) | 3:05 |
 
-Snapshot ID: `ZvTJ+AAAAABYuwCunUa7LctcgaCWTdm6`
+Snapshot ID: `ZvTJ+AAAAADk4pmpwDb2zUOQs3HOObYC`

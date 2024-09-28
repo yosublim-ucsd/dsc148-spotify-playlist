@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Future, Doechii, Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,363 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,378 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
 | 50 | [Separate the Rams](https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY) | [Separate the Rams](https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd) | 2:35 |
 
-Snapshot ID: `Zuz2xAAAAAAq1EAnuqmUZ5L5XuPzJRrq`
+Snapshot ID: `Zuz2xAAAAAAlQMw0NhrWhnQ9m7wiwbLz`

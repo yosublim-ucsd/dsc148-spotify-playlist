@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I",
+  "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
   "name": "Reggae al Sur",
   "tracks": [
     {
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 250243,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247785,
       "name": "Flaca huella",
       "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Hombres De Hierro",
+        "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279625,
+      "name": "Hombres De Hierro",
+      "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
+    },
+    {
+      "album": {
         "name": "If only they know",
         "url": "https://open.spotify.com/album/1CseeGug2MPdx9uVydvs16"
       },
@@ -1878,6 +1900,24 @@
       "duration_ms": 228000,
       "name": "If only they know",
       "url": "https://open.spotify.com/track/7ulWnQhdPJL8hNOAToQyFF"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Im gonna come back to",
+      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
     },
     {
       "album": {
@@ -1968,7 +2008,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166036,
       "name": "Km 0",
       "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
@@ -3912,7 +3952,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
@@ -4494,7 +4534,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 264278,
       "name": "Trinchera",
       "url": "https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5"
@@ -4772,7 +4812,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
@@ -4874,7 +4914,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 314491,
       "name": "Waitin en Vano",
       "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"

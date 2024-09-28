@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is George Michael. Los temas esenciales, todos en una lista.",
-  "name": "This Is George Michael",
+  "description": "This is \u30b8\u30e7\u30fc\u30b8\u30fb\u30de\u30a4\u30b1\u30eb\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30b8\u30e7\u30fc\u30b8\u30fb\u30de\u30a4\u30b1\u30eb",
   "tracks": [
     {
       "album": {
@@ -580,10 +580,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 323320,
       "name": "How Do You Keep the Music Playing? (with George Michael)",
       "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
+    },
+    {
+      "album": {
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318804,
+      "name": "I Can't Make You Love Me - Studio Version",
+      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
     },
     {
       "album": {

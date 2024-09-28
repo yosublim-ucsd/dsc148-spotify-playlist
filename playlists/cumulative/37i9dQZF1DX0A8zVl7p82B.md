@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-256 songs - 14 hr 9 min
+257 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/7d2iMQMa1HAJJm6RcsOjYK) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp) | 3:51 | 2021-12-24 | 2022-10-13 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-24 |  |
 | [Mistletoe \- Recorded at Electric Lady Studios NYC.](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 | 2021-12-24 | 2022-10-26 |
-| [My Favorite Things](https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 2:49 | 2021-12-24 |  |
+| [My Favorite Things](https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 2:49 | 2021-12-24 | 2024-09-28 |
 | [My Kind Of Present](https://open.spotify.com/track/3LOfU1kaplBBNd2jeiGa0N) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7kaFsOsRsco4FP5y9Cx0Yf) | 2:41 | 2022-10-25 |  |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-24 |  |
 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 | 2021-12-24 | 2022-10-26 |
@@ -262,6 +262,7 @@
 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 | 2021-12-24 | 2022-07-29 |
 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2023-11-20 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2021-12-24 |  |
+| [You For Christmas](https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [You For Christmas](https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q) | 2:54 | 2024-09-27 |  |
 | [You Make It Feel Like Christmas \(with Blake Shelton\)](https://open.spotify.com/track/3SjaE7SExrVnRZi45KXT3O) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:36 | 2021-12-24 |  |
 | [You’re A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TXAjof8V0Gr4zFoY00zHR) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 2:46 | 2022-12-07 |  |
 

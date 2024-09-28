@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Michael Bublé
 
-415 songs - 23 hr 47 min
+416 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2021-12-03 | 2023-01-28 |
 | [Off The Ground](https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0) | 4:02 | 2021-12-03 | 2022-07-24 |
 | [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-19 |  |
-| [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 | 2023-10-13 |  |
+| [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 | 2023-10-13 | 2024-09-28 |
 | [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 | 2022-10-14 | 2024-02-03 |
 | [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 | 2024-02-16 |  |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-12-13 |
@@ -302,6 +302,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 |  |
 | [Poems](https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [Poems](https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9) | 3:09 | 2022-09-23 |  |
 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 | 2022-02-11 | 2024-03-09 |
+| [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-09-27 |  |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-28 |  |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2023-09-08 |  |
 | [Promises](https://open.spotify.com/track/4mnro1IKkQNQ4QMHgW1Qkf) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:59 | 2022-04-08 | 2023-03-18 |

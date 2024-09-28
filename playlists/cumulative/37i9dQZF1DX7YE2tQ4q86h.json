@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Ava Max",
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Kylie Minogue",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -8767,7 +8767,7 @@
     },
     {
       "album": {
-        "name": "I Forgive You - Chromeo Remix (radio edit)",
+        "name": "I Forgive You [(Chromeo Remix) [radio edit]]",
         "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
       },
       "artists": [
@@ -10907,6 +10907,24 @@
     },
     {
       "album": {
+        "name": "Lights Camera Action",
+        "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
+    },
+    {
+      "album": {
         "name": "Like A Saviour",
         "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
       },
@@ -12353,6 +12371,24 @@
     },
     {
       "album": {
+        "name": "Midnight Cowboy",
+        "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211020,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT OIL",
         "url": "https://open.spotify.com/album/6Jb0lh95dtrWjRcfgVLY17"
       },
@@ -12394,7 +12430,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
@@ -12872,10 +12908,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181146,
       "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
+    },
+    {
+      "album": {
+        "name": "Girlie Pop: Encore",
+        "url": "https://open.spotify.com/album/1Zf8vlF2PYYCuxXhmfNSUN"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Chlapecka",
+          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Only Dream Is To Be Loved",
+      "url": "https://open.spotify.com/track/6z1dZbCFtcpEfxv8lQ0FW8"
     },
     {
       "album": {
@@ -16290,7 +16344,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190666,
       "name": "SOMETHING AIN'T RIGHT",
       "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
@@ -18110,7 +18164,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190413,
       "name": "The Same Mistake",
       "url": "https://open.spotify.com/track/5hPecn0mRsCHWBfU1kWrji"

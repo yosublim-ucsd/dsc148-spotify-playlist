@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 69919,
+  "num_followers": 69947,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxVUAAAAAB8UIu9PhGcvnBpGbxXYNGv",
+  "snapshot_id": "ZIxVUAAAAACDWMKPRYoYrYLzmbDzrhnT",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Baby Baby (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Mok Saib",
-          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Baby Baby - Acoustic Version",
-      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Baby Baby (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
+      },
+      "artists": [
+        {
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Baby Baby - Acoustic Version",
+      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "W3od",
         "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
+        "url": "https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+          "name": "Mahasneh",
+          "url": "https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX"
         }
       ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+      "duration_ms": 164691,
+      "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
+      "url": "https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -679,22 +695,6 @@
       "duration_ms": 294402,
       "name": "Bshi Yom",
       "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
-        "url": "https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk"
-      },
-      "artists": [
-        {
-          "name": "Mahasneh",
-          "url": "https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX"
-        }
-      ],
-      "duration_ms": 164691,
-      "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
-      "url": "https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq"
     },
     {
       "added_at": "2022-05-09 08:05:11",

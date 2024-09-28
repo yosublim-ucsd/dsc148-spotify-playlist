@@ -1,12 +1,12 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Ellinoora.",
-  "num_followers": 128775,
+  "num_followers": 128783,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXLjAAAAABs9DQtoHAAe1vi692pXH/g",
+  "snapshot_id": "ZvXLjAAAAABeMMZeTqIPqF0RufqFMCMt",
   "tracks": [
     {
       "added_at": "2024-09-26 21:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Laula se ulos (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0AMQLR7derE34sKMxWueot"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 195627,
+      "name": "Laula se ulos (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/4JS8uLJcLlUW7OR819OFbu"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Pysyv\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG"
       },
@@ -691,6 +707,26 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Madafakin darra (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/2DHSHnAqoul440iPK7PkWA"
+      },
+      "artists": [
+        {
+          "name": "Popeda",
+          "url": "https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P"
+        },
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 189069,
+      "name": "Madafakin darra (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/6IhLLRJweEsiL86bKgCBbY"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Likimain",
         "url": "https://open.spotify.com/album/1wQRmzwKNg6nDCnD0HjqPT"
       },
@@ -771,6 +807,26 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Sen pituinen se (feat. Costello) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
+        "url": "https://open.spotify.com/album/0KTuaQFZ2xfEH8MmWIPNQJ"
+      },
+      "artists": [
+        {
+          "name": "Waldo's People",
+          "url": "https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF"
+        },
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 130322,
+      "name": "Sen pituinen se (feat. Costello) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
+      "url": "https://open.spotify.com/track/1dbfa5w9FFZJIo91XR7kxf"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/3YyytiCzrlXr0OZk7Pl07V"
       },
@@ -783,6 +839,22 @@
       "duration_ms": 296931,
       "name": "Adam ja Eve",
       "url": "https://open.spotify.com/track/7gvBlbVPVHMnGuUwwAuhu8"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Diskosisko (Vain El\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/103upZL4Ay2ZWKpccxKGyv"
+      },
+      "artists": [
+        {
+          "name": "Eini",
+          "url": "https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "Diskosisko - Vain El\u00e4m\u00e4\u00e4 kausi 15",
+      "url": "https://open.spotify.com/track/3MUzPy2rkCCtG4UM9HMWiN"
     },
     {
       "added_at": "2024-09-26 21:01:00",
@@ -855,6 +927,22 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Karavaani (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/6o0PGSXdafWro6CTqHHeFO"
+      },
+      "artists": [
+        {
+          "name": "Hanna Pakarinen",
+          "url": "https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Karavaani (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3OrqsdVBITn4HmPmAuqmzw"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Vaisto (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5"
       },
@@ -911,6 +999,26 @@
       "duration_ms": 163645,
       "name": "Kaikki hyvin (feat. Pikku G)",
       "url": "https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Pid\u00e4 p\u00e4\u00e4 ylh\u00e4\u00e4l (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0Wmop2r2G6ajgpNwHLF8ao"
+      },
+      "artists": [
+        {
+          "name": "Jussi Rainio",
+          "url": "https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD"
+        },
+        {
+          "name": "Neon 2",
+          "url": "https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Pid\u00e4 p\u00e4\u00e4 ylh\u00e4\u00e4l (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/57a7XxhyCJ1NiJQVU3KJxw"
     },
     {
       "added_at": "2024-09-26 21:01:00",

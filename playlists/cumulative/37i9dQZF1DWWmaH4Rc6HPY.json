@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "A C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "A C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
+    },
+    {
+      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -480,7 +502,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186266,
       "name": "Canciones Tristes",
       "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
@@ -1511,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Los de Siempre",
+        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Los de Siempre",
+      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
+    },
+    {
+      "album": {
         "name": "Tienes Talento Para Deprimirme",
         "url": "https://open.spotify.com/album/5lH5x55Q0ewyKEXTyLuBt8"
       },
@@ -1970,7 +2010,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
@@ -2448,7 +2488,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
@@ -3174,6 +3214,24 @@
       "duration_ms": 191526,
       "name": "YO VISTO AS\u00cd",
       "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
+    },
+    {
+      "album": {
+        "name": "ZEPPELIN",
+        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192815,
+      "name": "ZEPPELIN",
+      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
     },
     {
       "album": {

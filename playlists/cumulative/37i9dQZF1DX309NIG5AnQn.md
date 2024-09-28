@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 DOJO
+> rock alternativo argentino\. <br/>📷 Mora y los Metegoles
 
-234 songs - 13 hr 22 min
+236 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-09 | 2024-09-14 |
 | [31 de Diciembre](https://open.spotify.com/track/7eVPt0ywVYz2CgRYUOGC4G) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/4AB7LBCxKAdf96i5IOYUPl) | 5:12 | 2024-04-26 | 2024-05-17 |
 | [40](https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TRES PUNTOS SUSPENSIVOS](https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ) | 1:05 | 2022-03-25 | 2023-03-25 |
-| [Abrazo Telepático](https://open.spotify.com/track/2nPDLelRg7W8IYxZs67VX1) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Sonido Velado](https://open.spotify.com/album/3DpNPGaoosGx7WXffTI6Re) | 4:34 | 2023-07-28 |  |
+| [Abrazo Telepático](https://open.spotify.com/track/2nPDLelRg7W8IYxZs67VX1) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Sonido Velado](https://open.spotify.com/album/3DpNPGaoosGx7WXffTI6Re) | 4:34 | 2023-07-28 | 2024-09-28 |
 | [Abstinencia](https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Abstinencia](https://open.spotify.com/album/4qACZqHGBIQvjcB5OLnzDJ) | 4:44 | 2023-03-23 | 2024-02-03 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-03-25 | 2023-08-26 |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-03-25 | 2023-03-25 |
@@ -83,7 +83,7 @@
 | [DOSMILUNO](https://open.spotify.com/track/2enGfhz9AAN3i2ixcNv7ay) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [DOSMILUNO](https://open.spotify.com/album/6uoua1Avho6zNGkzBXYQHP) | 4:08 | 2024-07-12 | 2024-07-16 |
 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 | 2022-03-25 | 2023-03-25 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-03-25 | 2023-03-25 |
-| [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 | 2024-07-19 |  |
+| [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 | 2024-07-19 | 2024-09-28 |
 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 | 2022-03-25 | 2023-03-25 |
 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 | 2023-06-30 | 2024-07-27 |
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
@@ -120,6 +120,7 @@
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
 | [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-21 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 |  |
+| [Imaginación](https://open.spotify.com/track/3VJSyskDmUm115nQaDhlHr) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 3:21 | 2024-09-27 |  |
 | [Invisible](https://open.spotify.com/track/4KH1jzECxhbmwF60qh2un7) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [CLASE B](https://open.spotify.com/album/1jI8Ey2uycaiqlDy71xysm) | 3:12 | 2023-10-13 |  |
 | [Jalls](https://open.spotify.com/track/3LkuzuyI9d5deRWN55qvH4) | [Picnic Al Costado Del Camino](https://open.spotify.com/artist/5xCEgRCcF7ZfMaB14ygI1S) | [Primer Día](https://open.spotify.com/album/1MoyLjBwF2ebR8SsItDFtU) | 3:15 | 2024-05-16 |  |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 | 2024-07-19 |
@@ -235,6 +236,7 @@
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-03-25 | 2023-03-25 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-03-25 | 2024-02-03 |
 | [Y no me digan nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y no me digan nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 | 2023-05-19 |  |
+| [ya nada es igual](https://open.spotify.com/track/1wazR5obN3REn4RM70n0py) | [sunlid](https://open.spotify.com/artist/2hC9i9ExbMJICVFHLRV1hF) | [no mires atrás](https://open.spotify.com/album/5frDRBOmPziPlEkD6JuLD4) | 3:07 | 2024-09-27 |  |
 | [Ya No Quiero Bailar](https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Varias Paredes Pintadas](https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6) | 3:59 | 2024-07-26 |  |
 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 | 2024-07-26 |  |
 | [Yoyaki](https://open.spotify.com/track/5WvRtLWuwBTUfGB0spXFqC) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 3:15 | 2022-03-25 | 2023-03-25 |

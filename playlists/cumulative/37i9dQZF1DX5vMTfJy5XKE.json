@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 267390,
       "name": "Amazing Grace [Feat. The Tabernacle Choir at Temple Square, Mack Wilberg]",
       "url": "https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 252368,
       "name": "Christmas Dirtbag",
       "url": "https://open.spotify.com/track/05lLXO1gallwajxAD4aTvE"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192100,
       "name": "Christmas Isn't Christmas",
       "url": "https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 234341,
       "name": "Christmas Wish",
       "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 225640,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 250000,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/4CCAfHFJfeUDNhKJT9IvIh"
@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Joy To The World // It's Christmas",
+        "url": "https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295601,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx"
+    },
+    {
+      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/4AOvgUzxjWOG7S8s2pLZa6"
       },
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 153200,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
@@ -6873,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas (Welcome to the Family)",
+        "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Merry Christmas (Welcome to the Family)",
+      "url": "https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Baby",
         "url": "https://open.spotify.com/album/1ZySrUUAGLFmf5kq2wMqNR"
       },
@@ -7308,7 +7344,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 204125,
       "name": "My Favorite Christmas",
       "url": "https://open.spotify.com/track/07wXKpcO4yJggnbTM6kEHW"
@@ -8284,7 +8320,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192639,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/1R1uA0lt0yz9o6U1v0XrZb"
@@ -9084,6 +9120,28 @@
       "duration_ms": 310783,
       "name": "Sunshine for Christmas",
       "url": "https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4"
+    },
+    {
+      "album": {
+        "name": "Sweet December (feat. Kelly Clarkson)",
+        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Sweet December (feat. Kelly Clarkson)",
+      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
     },
     {
       "album": {
@@ -11218,6 +11276,24 @@
       "duration_ms": 198626,
       "name": "You Deserve It All",
       "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"
+    },
+    {
+      "album": {
+        "name": "You For Christmas",
+        "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174004,
+      "name": "You For Christmas",
+      "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
     },
     {
       "album": {

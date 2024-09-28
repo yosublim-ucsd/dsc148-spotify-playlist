@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="spotify:artist:6BjTMFkrQJF8cQlVsLFbUh">Mowalola</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,359 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,367 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Hunnid$](https://open.spotify.com/track/2KvkCF1UfofHxmprCy05eq) | [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Hunnid$](https://open.spotify.com/album/5vaok8XsXS4TTHufFEKbgH) | 2:39 |
 | 50 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
 
-Snapshot ID: `ZusKeQAAAAA2rLHyLmMpTJZSTR8oBdrq`
+Snapshot ID: `ZusKeQAAAAAArkt87vHM7Unw+uvWnQAA`

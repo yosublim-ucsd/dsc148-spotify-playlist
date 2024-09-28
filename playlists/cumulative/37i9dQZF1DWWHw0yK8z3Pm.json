@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Charley Crockett",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Owen Riegling",
   "name": "Renegades",
   "tracks": [
     {
@@ -1056,6 +1056,24 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
     },
     {
       "album": {
@@ -5017,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/75vo08Xe1zfo5PNvzd663o"
+    },
+    {
+      "album": {
         "name": "Love Thy Neighbor",
         "url": "https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz"
       },
@@ -6100,7 +6136,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210546,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/6JbtptJaHLabnevNBcvRLV"
@@ -6754,7 +6790,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 220454,
       "name": "Rocky Mountain Son",
       "url": "https://open.spotify.com/track/0yMofXux1vP1T1TnIP9xYT"

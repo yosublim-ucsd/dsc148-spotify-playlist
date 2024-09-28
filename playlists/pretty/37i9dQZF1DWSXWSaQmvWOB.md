@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Michael Kiwanuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,233 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,259 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Brother](https://open.spotify.com/track/2Sf8zOw0J5qRxxaRYGknzC) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Natalie Lindi](https://open.spotify.com/artist/6nXILNJclmemd6XXq6u7Fv) | [Blue Eclipse](https://open.spotify.com/album/2veHkCq3sm8RAedI04bDlG) | 3:48 |
 | 100 | [More Grace](https://open.spotify.com/track/01OZZ6TtohuvmWKWGYmizc) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers & Sisters](https://open.spotify.com/album/5Ys1u4T4mUIIcruYNart3T) | 2:42 |
 
-Snapshot ID: `ZuP2PAAAAADrU/n5KwIltkPJ0FCd/ZX9`
+Snapshot ID: `ZuP2PAAAAAAAKOhFHYFCAjkXQxDQAX+s`

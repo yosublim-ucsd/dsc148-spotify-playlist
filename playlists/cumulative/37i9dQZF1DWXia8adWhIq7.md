@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: José Jr
 
-185 songs - 10 hr 49 min
+186 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dono do Tempo](https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Dono do Tempo](https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD) | 3:41 | 2022-08-05 | 2023-02-25 |
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2022-08-05 | 2024-08-31 |
 | [Ele Pode Fazer](https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ele Pode Fazer](https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V) | 2:30 | 2024-08-30 |  |
-| [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 | 2022-08-05 |  |
+| [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 | 2022-08-05 | 2024-09-28 |
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-03-17 | 2023-07-15 |
 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 | 2024-06-21 |  |
 | [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 | 2022-08-05 | 2023-06-03 |
@@ -152,6 +152,7 @@
 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 |  |
 | [Sinal de Aviso](https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Sinal de Aviso](https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4) | 3:15 | 2023-11-03 | 2024-04-19 |
 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 | 2022-08-05 |  |
+| [Sol inteiro](https://open.spotify.com/track/0L1MqPbLHeF2IWivOclJT8) | [José Jr](https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6) | [das coisas que carrego dentro](https://open.spotify.com/album/6DiX9DyyRnNZBVRoAnyXa5) | 3:32 | 2024-09-27 |  |
 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 | 2023-11-03 |  |
 | [Sopro de Deus](https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Sopro de Deus](https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c) | 4:21 | 2022-08-05 | 2024-04-20 |
 | [sua colheita](https://open.spotify.com/track/4IMf9Kwx8CfO5rlaqDjlg3) | [LARAIAN](https://open.spotify.com/artist/6d7FoULORaLQORWSXoPVn3) | [SEMENTES](https://open.spotify.com/album/3JYgncdrjqEgyqJwWHDXgx) | 3:44 | 2023-10-06 | 2023-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Reyna Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,680 likes - 128 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,767 likes - 128 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 127 | [Strong Stuff](https://open.spotify.com/track/23s3bRv964KvfEvaH3AxmF) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Strong Stuff](https://open.spotify.com/album/4JQepaQFm9y7VpYzfgID8j) | 2:57 |
 | 128 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
 
-Snapshot ID: `ZuzzQAAAAADYplXrdWHGLOKiWLqcoSP8`
+Snapshot ID: `ZuzzQAAAAAB1xwo8gw9GPHhRudrCoRa/`

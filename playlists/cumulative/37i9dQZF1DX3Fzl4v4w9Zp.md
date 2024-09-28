@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Drew Holcomb & The Neighbors
+> Keep your finger on the pulse of Americana\. Cover: Billy Strings
 
-726 songs - 1 day 20 hr 42 min
+727 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Get What You Want](https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Get What You Want](https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd) | 4:31 | 2022-02-04 | 2022-06-25 |
 | [Getaway Girl](https://open.spotify.com/track/1ccxtzRRQ4CgrxS4X8TTkd) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Into the Wild](https://open.spotify.com/album/1TIRgTkATEZjcKJK4MDneh) | 3:45 | 2024-09-20 |  |
 | [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 | 2024-03-08 | 2024-07-13 |
+| [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 | 2024-09-27 |  |
 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-12-17 | 2022-01-22 |
 | [Gloryland](https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 4:12 | 2022-05-13 | 2023-08-05 |
 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 | 2023-01-27 | 2024-07-19 |
@@ -530,7 +531,7 @@
 | [San Joaquin](https://open.spotify.com/track/7nP9n9SA5ciXDfO9b23FVK) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [San Joaquin](https://open.spotify.com/album/0fLgwVBGuJd8E3NcMyBhiG) | 2:37 | 2023-06-30 | 2023-07-22 |
 | [Sanctuary](https://open.spotify.com/track/4w5nZwiTpDMTVQdugsXWW7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Sanctuary](https://open.spotify.com/album/20lfleUVkws7cTsMiPD1aF) | 4:26 | 2021-12-17 | 2022-02-23 |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-06-24 | 2022-12-03 |
-| [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 |  |
+| [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 | 2024-09-28 |
 | [Save the World](https://open.spotify.com/track/6ZSDpQ9SjjH0zvbj6DQtWT) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Save the World](https://open.spotify.com/album/2UFaxDNc4afGwqV26fOeQ7) | 5:09 | 2023-06-02 | 2023-06-10 |
 | [Scared of the Dark](https://open.spotify.com/track/2YJAJWHMixHd9XAV5kI9ZM) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Scared of the Dark](https://open.spotify.com/album/5ZbN2Qdtckm45fbMUCBHsK) | 3:30 | 2024-05-03 | 2024-08-03 |
 | [Searching For My Love](https://open.spotify.com/track/4r7q81d4NQGRPixkZWKR7e) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:03 | 2022-02-22 | 2023-11-11 |

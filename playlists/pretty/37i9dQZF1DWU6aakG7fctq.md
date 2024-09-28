@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: PJ Sin Suela
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,328 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,323 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 59 | [MI ÁNGEL](https://open.spotify.com/track/4XbBw1wkTHK6NRshu4qa69) | [Javier Arce](https://open.spotify.com/artist/2WW13i9QlHkOZ0Iy2kk0iw), [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [MI ÁNGEL](https://open.spotify.com/album/6doouIwPgaxcL7vTm7f6Pj) | 2:56 |
 | 60 | [O FE](https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [O FE](https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS) | 2:03 |
 
-Snapshot ID: `ZuzzQAAAAABPGUYRE9af/rE1c1Mgu16G`
+Snapshot ID: `ZuzzQAAAAAD1AZeDSpJ/pp5mtCYNiT3M`

@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Songs of Origin",
+        "url": "https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194478,
+      "name": "Bird cage blue and yellow",
+      "url": "https://open.spotify.com/track/3qhyW08FypET71F65dYZZc"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,946 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,056 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 13 | [How ?](https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Sabrina Chyld](https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU) | [Bruno & The Birds](https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD) | 6:37 |
 | 14 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
 | 15 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |
-| 16 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 |
-| 17 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
+| 16 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
+| 17 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 |
 | 18 | [Unprepared](https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e) | [Zinyo](https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Unprepared](https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3) | 6:45 |
 | 19 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |
 | 20 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 35 | [Story](https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2) | [The AquaBlendz](https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA) | [Timeless Tales Ep](https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug) | 6:38 |
 | 36 | [Little Me \- Kaidi Tatham Remix](https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Little Me \(Kaidi Tatham Remix\)](https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U) | 5:32 |
 | 37 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
-| 38 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
-| 39 | [Lo'Mthwalo \- Original Mix](https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9) | [Mandaba](https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8), [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ) | [Lomthwalo](https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a) | 6:06 |
+| 38 | [Lo'Mthwalo \- Original Mix](https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9) | [Mandaba](https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8), [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ) | [Lomthwalo](https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a) | 6:06 |
+| 39 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
 | 40 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 41 | [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 |
 | 42 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
 | 50 | [Unity](https://open.spotify.com/track/420jof4z72NlObyrANPnjx) | [RamsTeque](https://open.spotify.com/artist/4cMqUzaxGaCeXVhw8008WB), [Mega BT](https://open.spotify.com/artist/3MfzVTk6dH9KKe459heRZo), [Citizen Sthee](https://open.spotify.com/artist/6YZptCuMUkBBUvj2sXdd8p) | [Unity](https://open.spotify.com/album/2oLa1ncgPpOsMsmXj5Sa4p) | 7:19 |
 
-Snapshot ID: `ZqwoEQAAAAD1KutkjquNC2/TOnA4Yl/2`
+Snapshot ID: `ZqwoEQAAAABzKdADFw/tAY6R3VaWqE/q`

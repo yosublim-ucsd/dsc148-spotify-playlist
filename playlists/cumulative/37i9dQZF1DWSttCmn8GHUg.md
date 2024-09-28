@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-149 songs - 8 hr 59 min
+150 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [American by Birth](https://open.spotify.com/track/5TGg3uFXsVvsEJwAOCCXFw) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Heroes](https://open.spotify.com/album/6hMgnweGhql8JcZ85nq0Mb) | 2:32 | 2021-11-12 | 2022-04-04 |
 | [American Child](https://open.spotify.com/track/4e5YuvuzIgS8ZrAWpFrvOx) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Child](https://open.spotify.com/album/7a7o3iMmU7MtDJfJ3wZkOt) | 3:13 | 2021-11-12 | 2022-04-04 |
 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:19 | 2021-11-12 |  |
-| [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 | 2021-11-12 |  |
+| [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 | 2021-11-12 | 2024-09-28 |
 | [American Heartbreaker](https://open.spotify.com/track/6Tkgsv5ONibvcwtCA0YrCf) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/4brZz1xyqMDQJ1pIvldtrC) | 2:48 | 2023-08-21 | 2024-04-19 |
 | [American Honey](https://open.spotify.com/track/0KZ7a5L9Q9aBLAINBgDsWq) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:44 | 2021-11-12 |  |
 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 | 2021-11-12 |  |
@@ -69,6 +69,7 @@
 | [Heart Of A Small Town](https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Heart Of A Small Town](https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5) | 3:17 | 2022-06-03 | 2023-08-21 |
 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 | 2021-11-12 |  |
 | [Heroes](https://open.spotify.com/track/2ZqAZ0AcpHoy8VDhknlmdA) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Heroes](https://open.spotify.com/album/5VqDoau8rREO2OPaJUOrMc) | 3:13 | 2021-11-12 | 2022-04-04 |
+| [Heroes](https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heroes](https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj) | 3:04 | 2024-09-27 |  |
 | [Home](https://open.spotify.com/track/6q5nAr2JniAHj1gKheejE0) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:58 | 2021-11-12 |  |
 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 | 2021-11-12 |  |
 | [I Love My Country](https://open.spotify.com/track/5blHL2xSCGv00fr1DGuvEf) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:04 | 2021-11-12 |  |

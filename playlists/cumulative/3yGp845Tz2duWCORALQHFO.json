@@ -2949,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Calma EP",
+        "url": "https://open.spotify.com/album/7CMGjr5affLP6aUFHwrIM9"
+      },
+      "artists": [
+        {
+          "name": "Lucas Frota",
+          "url": "https://open.spotify.com/artist/1MFVvBHsjqm9aWQhV1bETk"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225803,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4UcJN6HJWDMVq6bIcIOUEh"
+    },
+    {
+      "album": {
         "name": "Can We Do Better?",
         "url": "https://open.spotify.com/album/5JRyvw1k2uzy1QFppSSjnL"
       },
@@ -4432,6 +4454,28 @@
       "duration_ms": 225111,
       "name": "Dark Heart Breaks",
       "url": "https://open.spotify.com/track/5VBmaHrhhefLH8gaQUWfba"
+    },
+    {
+      "album": {
+        "name": "Dark Sides",
+        "url": "https://open.spotify.com/album/2PxqrwZFZ2BeoRU4rURE34"
+      },
+      "artists": [
+        {
+          "name": "Rino Esposito",
+          "url": "https://open.spotify.com/artist/5bpUl3oE6Ju4brOF7cAFuZ"
+        },
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7Exg5XmCo3Es3UphHiJ99H"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197073,
+      "name": "Dark Sides",
+      "url": "https://open.spotify.com/track/1Dy3hmS6cqIBnF1hUxs2gf"
     },
     {
       "album": {
@@ -16203,6 +16247,24 @@
     },
     {
       "album": {
+        "name": "Play This Rhythm",
+        "url": "https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA"
+      },
+      "artists": [
+        {
+          "name": "Matt Stone",
+          "url": "https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Play This Rhythm",
+      "url": "https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM"
+    },
+    {
+      "album": {
         "name": "Played You",
         "url": "https://open.spotify.com/album/4YeE818PX0PJAxzoS7G0Kz"
       },
@@ -22988,6 +23050,28 @@
       "duration_ms": 281904,
       "name": "With You",
       "url": "https://open.spotify.com/track/1GLEzzAEti1U4LlT7xDT7O"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3X689HFp3ej5xDl9dCqEGg"
+      },
+      "artists": [
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        },
+        {
+          "name": "MVNA",
+          "url": "https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1hXp0bP954r2Ro0jIyvZGM"
     },
     {
       "album": {

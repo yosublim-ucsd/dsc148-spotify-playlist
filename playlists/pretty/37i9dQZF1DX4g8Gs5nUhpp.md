@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: MONO
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,287 likes - 53 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,304 likes - 53 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Vừa Hận Vừa Yêu](https://open.spotify.com/track/1oVbTGLd8EgyeWBoqAYBD0) | [Trung Tu](https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg) | [Vừa Hận Vừa Yêu](https://open.spotify.com/album/0PUR1NmDoTbqBPD9Uxa54N) | 2:37 |
 | 53 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 |
 
-Snapshot ID: `ZvFe6gAAAAB+6xdMAByp/9IlX9ogG+Lf`
+Snapshot ID: `ZvFe6gAAAAAjkStwtsIqTKmkxdH3dHTl`

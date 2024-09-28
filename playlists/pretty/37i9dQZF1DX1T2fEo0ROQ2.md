@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,785 likes - 224 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,847 likes - 224 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 223 | [Tempered Moon](https://open.spotify.com/track/5cK8BiZ9mdqO4gQbdb4ZzM) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Tempered Moon](https://open.spotify.com/album/1tUhnUIDFje9mfl2IxGU0Y) | 3:40 |
 | 224 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 |
 
-Snapshot ID: `ZusX2gAAAACYKWImwrQrI+Ta7IeBkg96`
+Snapshot ID: `ZusX2gAAAADNHgJH5vNNYllO5q/Ndzk3`

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Brian Fuller, Artwork: Fanélie Muselier
 
-2,658 songs - 6 day 0 hr 3 min
+2,660 songs - 6 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Good for You](https://open.spotify.com/track/4p3oWf0tvGvaDFTkiyBKyy) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Good for You](https://open.spotify.com/album/44v5lE6CY9eyedwIRQIYk3) | 3:06 | 2022-10-26 | 2022-12-01 |
 | [Good God](https://open.spotify.com/track/6AQdjbl1CFNJHiryoYA0Pu) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Good God](https://open.spotify.com/album/0ZDwTmZWqTalYqBmOOQlZg) | 2:31 | 2024-09-06 |  |
 | [Good God](https://open.spotify.com/track/6S1wPupgZUdODD91wr031I) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Good God](https://open.spotify.com/album/6LvgBVxY4gPUdpr9uJKiYY) | 2:38 | 2024-06-12 | 2024-08-22 |
+| [Good God](https://open.spotify.com/track/35pdFRNVk9RqIxZjsfc9I3) | [Micah Fletcher](https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth) | [Good God](https://open.spotify.com/album/5oYLS2ONrRu0CSb7u6MMtt) | 3:43 | 2024-09-27 |  |
 | [Good Graces](https://open.spotify.com/track/4bQk9GkOywGnU1ExaJh4Zc) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Western Amerijuana \(Pt\. 1\)](https://open.spotify.com/album/2B9wUq37HzOXEiIKvHzkPT) | 3:03 | 2024-04-24 | 2024-07-11 |
 | [Good in Goodbye](https://open.spotify.com/track/67q84XH88D8bekcUveWIxW) | [Jessica Sole](https://open.spotify.com/artist/0S38ck3DCcecDbFedRPWfZ) | [Good in Goodbye](https://open.spotify.com/album/2FCf3P8ppMiekKLVlKwFeQ) | 3:02 | 2022-10-05 | 2022-12-01 |
 | [Good Liar](https://open.spotify.com/track/7td9zkCVDSn51GXEfGMsDy) | [Joey Green](https://open.spotify.com/artist/4xlGJGo6v3IVOkJVYyskKa) | [Good Liar](https://open.spotify.com/album/022dE0m6nktpQRinQ025Wl) | 3:18 | 2022-03-23 | 2022-05-05 |
@@ -2556,6 +2557,7 @@
 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 | 2024-04-17 | 2024-05-16 |
 | [Wild](https://open.spotify.com/track/6l3bRfHOeki9Qvwtto6gvJ) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild](https://open.spotify.com/album/1ySXth9CvYhao5POMImYYL) | 3:36 | 2023-05-10 | 2023-06-22 |
 | [Wild](https://open.spotify.com/track/1mwAQdUh9kDs56b9LbXBAC) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Wild](https://open.spotify.com/album/2YzCA39PbS4Ygt1kKgFWzn) | 3:06 | 2024-02-21 | 2024-04-11 |
+| [Wild and Free](https://open.spotify.com/track/7qeUUsXC4iKNLFGJwK4UUL) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Wild and Free](https://open.spotify.com/album/1ETVcqAFduBMynBXTcrGFX) | 3:18 | 2024-09-27 |  |
 | [Wild Girl](https://open.spotify.com/track/53xGmd7YTCjhnLbXA6gJjF) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Wild Girl](https://open.spotify.com/album/3P4lIZtD0cCjeb4ktNHGY2) | 3:08 | 2022-03-02 | 2022-04-14 |
 | [Wild Horses](https://open.spotify.com/track/6tBALk4ahcGGRgeBouZQMz) | [Jesse Dayne & The Sagebrush Drifters](https://open.spotify.com/artist/6vVi1GPGePRW1QnIOnYeVW) | [Poison Creek](https://open.spotify.com/album/0Yrgn6X31Suc82L1GsY1fL) | 4:26 | 2022-06-29 | 2022-07-28 |
 | [Wild One](https://open.spotify.com/track/3lLIyllbwvwOEijZpsNQzM) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Wild One](https://open.spotify.com/album/0Dp7jXKiexuMf8j2p75LVF) | 3:27 | 2022-02-16 | 2022-03-31 |

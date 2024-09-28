@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem, nationaal in elke taal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,924 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,931 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 49 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 |
 | 50 | [Tankstation](https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3) | 3:22 |
 
-Snapshot ID: `ZvJ08AAAAACnIuoY3tKTRFBN1AeCfRqX`
+Snapshot ID: `ZvJ08AAAAAA+9J4JlnopWjOK1WtAJzZJ`

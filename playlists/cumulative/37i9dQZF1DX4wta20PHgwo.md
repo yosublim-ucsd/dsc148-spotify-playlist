@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-481 songs - 1 day 19 hr 52 min
+482 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All the Things You Are](https://open.spotify.com/track/3TSdkwPeUfvgLwNTF8gfC0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Another Day \(Remastered Anniversary Edition\)](https://open.spotify.com/album/2j5Cb61i6HgSUQlwSj7y8a) | 6:10 | 2020-05-02\* | 2021-08-20 |
 | [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 | 2023-03-28 |  |
 | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/track/1sj18gBQAKZ8onvZx0awSw) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP) | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/album/1JYmZVumPmo72c3sZFwmCP) | 5:44 | 2022-04-14 | 2022-06-09 |
-| [Alternate Summer](https://open.spotify.com/track/08uejV02ReXbbGK8cJoGXj) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Alternate Summer](https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C) | 4:17 | 2024-08-23 |  |
+| [Alternate Summer](https://open.spotify.com/track/08uejV02ReXbbGK8cJoGXj) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Alternate Summer](https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C) | 4:17 | 2024-08-23 | 2024-09-28 |
 | [Amanecer](https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [El Camino de los Vientos](https://open.spotify.com/album/4j9GcZi0kQHgDsFXDLJIF1) | 6:32 | 2022-07-21 | 2024-04-19 |
 | [Amanecer](https://open.spotify.com/track/7z6F8O9kR3n3g7zyc1wiAO) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [Amanecer](https://open.spotify.com/album/6vrgvSFiOv12tsg3JslQ05) | 6:32 | 2020-05-06 | 2022-07-29 |
 | [An Offering](https://open.spotify.com/track/0QR75xVGBWvn2VmX2aHH0J) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Octava](https://open.spotify.com/album/2wmDzmLXD8HlRAh56FSUE8) | 6:09 | 2023-11-15 | 2024-04-19 |
@@ -45,6 +45,7 @@
 | [Arrival](https://open.spotify.com/track/3nz3KvhNBeOSQkI0Crt7Y5) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Morning Sun / Arrival](https://open.spotify.com/album/6NWneRZlucq241KpkW4ZeB) | 5:21 | 2024-09-06 |  |
 | [As It Were](https://open.spotify.com/track/0FHn2vcDngtc4qmVLwKbNx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [76](https://open.spotify.com/album/0XPAgAYpLScInEGM92pWj2) | 5:07 | 2024-01-19 | 2024-06-15 |
 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 | 2023-08-03 |  |
+| [Ashé](https://open.spotify.com/track/6yzCdriVjWu7XIfah04DpU) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Ashé](https://open.spotify.com/album/7tWlyVquYTtIwZXTwGHNty) | 4:31 | 2024-09-27 |  |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-10 | 2022-07-29 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-08-20 | 2022-06-01 |
 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 | 2022-07-21 | 2024-04-19 |

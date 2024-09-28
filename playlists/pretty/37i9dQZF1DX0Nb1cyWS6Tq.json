@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 819153,
+  "num_followers": 819468,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsO0hAAAAABSPcX5ZsJbSR+KUXO/pmoM",
+  "snapshot_id": "ZsO0hAAAAABn07TN+i/ynVudec3fvBwC",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Selected Scenes from the End of the World",
         "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 455853,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2023-01-06 06:22:16",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Scott 3",
-        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
-      },
-      "artists": [
-        {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
-        }
-      ],
-      "duration_ms": 86333,
-      "name": "30 Century Man",
-      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Is Nothing Sacred?",
         "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205693,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Scott 3",
+        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "duration_ms": 86333,
+      "name": "30 Century Man",
+      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
     },
     {
       "added_at": "2021-10-15 04:04:50",

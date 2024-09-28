@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 15358,
+  "num_followers": 15371,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZLbWXwAAAABSyMfc2ESM4/ktoA3Fwvcl",
+  "snapshot_id": "ZLbWXwAAAAA91qJ8/q2kO2C3X24otgfg",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5PZN71yON3rzA8OaEidrIo"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5PZN71yON3rzA8OaEidrIo"
     },
     {
       "added_at": "2023-07-18 18:13:51",
@@ -475,7 +475,7 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
-        "name": "Not Your Muse - Deluxe",
+        "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3xdG9ztDWLaxfNupAPMflO"
       },
       "artists": [

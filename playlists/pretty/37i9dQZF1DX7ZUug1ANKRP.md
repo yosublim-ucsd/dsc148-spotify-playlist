@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: BENNETT, Mentissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,843,770 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,843,811 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
 | 50 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 |
 
-Snapshot ID: `ZvQ7PAAAAAAY7vLyyXflrmiPyA841x2C`
+Snapshot ID: `ZvQ7PAAAAAAWM7sry6Z4p2USqmWi2Pbt`

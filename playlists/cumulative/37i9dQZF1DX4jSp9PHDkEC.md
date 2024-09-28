@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-573 songs - 1 day 14 hr 36 min
+574 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2024-04-19 |
 | [Seahorse](https://open.spotify.com/track/4ZKZcRKlWxRtQlocxtWVQu) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Seahorse](https://open.spotify.com/album/4IpkbmtpbeMRZ3GVSG5N1b) | 2:33 | 2023-01-17 |  |
 | [See Me](https://open.spotify.com/track/3Pvv1THse5T4dAa2niaFYv) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:50 | 2023-01-17 | 2024-04-19 |
-| [See Me](https://open.spotify.com/track/4akuE3uBD4t5HTXaAEm88t) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [See Me](https://open.spotify.com/album/3dxbBloSBjw2C9uiVKm5tD) | 3:50 | 2023-01-17 |  |
+| [See Me](https://open.spotify.com/track/4akuE3uBD4t5HTXaAEm88t) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [See Me](https://open.spotify.com/album/3dxbBloSBjw2C9uiVKm5tD) | 3:50 | 2023-01-17 | 2024-09-28 |
 | [See Us](https://open.spotify.com/track/6dmvic5s3LHMDgT3S13A2W) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:10 | 2023-01-17 | 2024-04-19 |
 | [Self Proclaimed](https://open.spotify.com/track/7K2JPgaNkqwBpySfK5C0Lm) | [WADLEY](https://open.spotify.com/artist/15JDX4IGnsAAoy8SOkzTVu) | [Self Proclaimed](https://open.spotify.com/album/7phLBqCwADj7iNStjVY3xs) | 3:16 | 2023-01-17 |  |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2023-01-17 |  |
@@ -426,6 +426,7 @@
 | [Seventy Times Seven](https://open.spotify.com/track/5PwwZUhywNKH8PEzF5NAwY) | [Peace Chord](https://open.spotify.com/artist/6O1ajgv9wU9ZGlW7U1d2u3) | [Peace Chord](https://open.spotify.com/album/1XKgHpPklX1IqgLk1MwbRW) | 5:08 | 2023-01-17 |  |
 | [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 | 2023-01-17 | 2024-04-19 |
 | [Silhouette](https://open.spotify.com/track/4riNlzZh1Xd4xqbIWy7zfM) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Have You In My Wilderness](https://open.spotify.com/album/0EiGGBzF9wzJn2X8F0Yvjh) | 3:53 | 2023-01-17 |  |
+| [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2023-01-17 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-17 | 2024-04-19 |
 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-24 | 2024-04-19 |
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-24 | 2024-08-10 |

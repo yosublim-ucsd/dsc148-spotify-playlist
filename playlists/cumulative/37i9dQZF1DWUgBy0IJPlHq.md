@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: MJ Lenderman
 
-592 songs - 1 day 12 hr 12 min
+593 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2022-11-25 |  |
 | [Last Call](https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 3:28 | 2024-04-12 | 2024-04-19 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-01-28 |
+| [Leadfoot](https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Leadfoot](https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35) | 2:45 | 2024-09-27 |  |
 | [Leave Those Memories Alone](https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Leave Those Memories Alone](https://open.spotify.com/album/7msXVoRJVs6hDHlPXqfurp) | 3:52 | 2021-12-17 | 2022-01-22 |
 | [Lexington](https://open.spotify.com/track/4dIcb5I16OPzHYuMKITDEj) | [Nicholas Jamerson](https://open.spotify.com/artist/5u27YZ9t9VGMtL74l4GeZO), [The Morning Jays](https://open.spotify.com/artist/3bziZiFvdHHfWu7cF2kFXi) | [Lexington](https://open.spotify.com/album/0SYux5SUpI5iGTZ5ll3uAN) | 4:03 | 2022-10-14 | 2023-05-06 |
 | [Life Ain't Fair](https://open.spotify.com/track/2FppkjDbrBZE8AxsJGcWho) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:48 | 2022-11-25 | 2023-09-30 |

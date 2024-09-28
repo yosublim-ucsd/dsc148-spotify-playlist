@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-446 songs - 1 day 1 hr 9 min
+447 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Out Of Time](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Out Of Time](https://open.spotify.com/album/1iJBdf1kJWRMDewaQG5CbV) | 3:47 | 2022-12-02 | 2023-02-04 |
 | [Outta Time](https://open.spotify.com/track/17K2RsIj5xRgVsUlZurwB3) | [Julian Collet](https://open.spotify.com/artist/7cJOqT5WeCAwIbL8NKtWkC), [Jakob Oschmann](https://open.spotify.com/artist/7x81rTKIpNGOeTNaUBDLvJ) | [Outta Time](https://open.spotify.com/album/3RHmRUm9MZ7Cwg0QTGVJrr) | 5:27 | 2021-03-06 | 2021-06-12 |
 | [Over My Shoulder](https://open.spotify.com/track/0PZMLgwtacSHiNwAkH2A9B) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Over My Shoulder](https://open.spotify.com/album/5i4kFt6MXHt2O5PLpIluHd) | 2:40 | 2022-03-10 |  |
+| [Over The Edge](https://open.spotify.com/track/2CpJixMi6A00UWxzLiHh1Q) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Over The Edge](https://open.spotify.com/album/1pQpnHJS5cHXGgQZgUuMge) | 3:54 | 2024-09-27 |  |
 | [Overdose](https://open.spotify.com/track/3naob59kPRRxTV12jhIU68) | [Pascal Junior](https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w) | [Overdose](https://open.spotify.com/album/46pbfEVTqzFnjIWk1NnHy4) | 5:54 | 2020-09-13\* | 2021-03-06 |
 | [Overthinking](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Overthinking](https://open.spotify.com/album/4WW15b27U7dmRi92xGjtDh) | 2:40 | 2022-02-25 |  |
 | [Pain](https://open.spotify.com/track/7zsjp5WelstlzIIOkLIJQh) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Pain](https://open.spotify.com/album/6oiIQeKfMvVDsAcP6bsTGc) | 2:15 | 2024-09-20 |  |
@@ -385,7 +386,7 @@
 | [Tell Me](https://open.spotify.com/track/1a7cfiQEKupoCr4WtAU4vS) | [Little Sun](https://open.spotify.com/artist/3EySQrEH4VSKbvIPccBUAQ) | [Tell Me](https://open.spotify.com/album/4Pel2dkewJUM0HXHGXJ6sP) | 3:13 | 2020-12-18 | 2021-03-06 |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-04-24 | 2022-06-18 |
 | [Tell Them](https://open.spotify.com/track/2PrvOdgchKwyrzt6z7S2Jk) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Tell Them](https://open.spotify.com/album/5XpJD4YZlpCIQoZwZEliF0) | 2:32 | 2021-03-14 | 2021-06-26 |
-| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-12-08 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-12-08 | 2024-09-28 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2022-11-11 |  |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-07-26 | 2024-09-21 |
 | [The Darkside](https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [The Darkside](https://open.spotify.com/album/3cBZZRepesMW2Umf7NrZGJ) | 2:44 | 2023-02-17 | 2024-02-24 |

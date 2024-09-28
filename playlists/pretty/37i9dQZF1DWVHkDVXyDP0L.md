@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Greta Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,321 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,318 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Chauffeur](https://open.spotify.com/track/04WQHNaGaWlrMuFqSoRqNK) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Chauffeur](https://open.spotify.com/album/2k3KwbsVIBw8j6v02HptXJ) | 3:04 |
 | 100 | [The Middle](https://open.spotify.com/track/6ChEyRFhfN4EpSszR0LBRo) | [Bad Neighbour](https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B) | [The Middle](https://open.spotify.com/album/1vhSF1eVKC78HllyjIS1ui) | 3:01 |
 
-Snapshot ID: `ZvVo4AAAAAAwg2LUHM9z6bKLVvvKoToy`
+Snapshot ID: `ZvVo4AAAAADQXhF8UCjSJHxauaFoSDf5`

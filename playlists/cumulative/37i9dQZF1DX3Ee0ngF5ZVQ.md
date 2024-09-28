@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-660 songs - 1 day 15 hr 21 min
+661 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Hell of a Storm](https://open.spotify.com/track/7Dw60lMEJwAUWC9jn8Aqmy) | [Cory Morrow](https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC) | [Hell of a Storm](https://open.spotify.com/album/2CwRVAihirfrlt59ebBq1f) | 3:42 | 2023-08-18 | 2023-10-21 |
 | [Hellbent For Leather](https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Hellbent For Leather](https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z) | 3:08 | 2022-01-21 | 2022-03-18 |
 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 | 2023-09-01 |  |
+| [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 | 2024-09-27 |  |
 | [Her Again](https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Her Again](https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx) | 3:24 | 2024-03-01 | 2024-03-17 |
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-03-19 |
 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 | 2021-12-17 | 2022-03-19 |
@@ -408,7 +409,7 @@
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |
 | [One of 'Em](https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [One of 'Em](https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM) | 2:38 | 2023-03-24 | 2023-04-22 |
-| [One of Those Things](https://open.spotify.com/track/1CDfvsnNnGEk5gbB9PKPN9) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [One of Those Things](https://open.spotify.com/album/4DWLXRplK1fPQ0kv1vfSPj) | 3:38 | 2024-08-23 |  |
+| [One of Those Things](https://open.spotify.com/track/1CDfvsnNnGEk5gbB9PKPN9) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [One of Those Things](https://open.spotify.com/album/4DWLXRplK1fPQ0kv1vfSPj) | 3:38 | 2024-08-23 | 2024-09-28 |
 | [One Two Step Away](https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Two Step Away](https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs) | 3:14 | 2023-01-06 | 2023-03-18 |
 | [Only Need One](https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Only Need One](https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil) | 3:33 | 2022-02-04 | 2022-07-27 |
 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 | 2022-04-29 | 2022-07-15 |

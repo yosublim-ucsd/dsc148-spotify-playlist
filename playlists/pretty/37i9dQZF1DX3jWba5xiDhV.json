@@ -1,12 +1,12 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 252787,
+  "num_followers": 253026,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZroKawAAAAAf0UmWvGnyAjq+7yAhqPYc",
+  "snapshot_id": "ZroKawAAAAAbmN8o2hEgzls9cvDCXXIC",
   "tracks": [
     {
       "added_at": "2024-08-12 13:13:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2024-08-12 13:13:15",

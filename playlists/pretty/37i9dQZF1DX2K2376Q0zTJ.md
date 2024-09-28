@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: NENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,992 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,997 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 |
 | 50 | [Kung\-Fu](https://open.spotify.com/track/3VMMT6mr9WxmZvqjHxBGnL) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Orca](https://open.spotify.com/album/2VrTtwRYJgE8c6Xug3QeRH) | 3:02 |
 
-Snapshot ID: `ZvLmOQAAAACuXxr3Rqqu+2JcmPTyvrC2`
+Snapshot ID: `ZvLmOQAAAAAXf93SVXzMcaT6Zbmqxw05`

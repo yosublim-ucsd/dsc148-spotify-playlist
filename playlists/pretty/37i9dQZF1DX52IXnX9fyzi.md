@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,655 likes - 255 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,747 likes - 255 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 254 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 |
 | 255 | [Romance No 2 'Normandie'](https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Romance No 2 'Normandie'](https://open.spotify.com/album/6DEdXVTwC9oIO4DVvIqT7s) | 3:14 |
 
-Snapshot ID: `ZvKlbAAAAADF6LvnlZ7BOnelwBqtwxVD`
+Snapshot ID: `ZvKlbAAAAACSzxUZSPzRHUkI2l2ch2CL`

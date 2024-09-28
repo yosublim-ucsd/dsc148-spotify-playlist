@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Olly, Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,351 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,339 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 64 | [OSSIDIANA](https://open.spotify.com/track/2ll9xrio2Xg0xoyDqDj8zX) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [JOSEPH](https://open.spotify.com/album/2bGQIcZXN3a4OwqLtIfCiW) | 2:46 |
 | 65 | [TEMPO \(all the things she said\)](https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [TEMPO \(all the things she said\)](https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI) | 2:49 |
 
-Snapshot ID: `ZvXZnAAAAAAPeqaoM0zYGH+BwQqiAy4a`
+Snapshot ID: `ZvXZnAAAAABSUc8b1Ftn3h3S4ehBigtg`

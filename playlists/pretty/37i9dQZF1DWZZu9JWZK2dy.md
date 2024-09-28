@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,236 likes - 61 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,315 likes - 61 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 60 | [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 |
 | 61 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `ZueGPgAAAAAdeK6H5KTtluaYshgoZfUA`
+Snapshot ID: `ZueGPgAAAADEljTrgzVpcWiWsmEzqDI9`

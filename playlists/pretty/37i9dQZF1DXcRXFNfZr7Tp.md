@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,911,772 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,911,863 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 100 | [Drive ft\. KIDDO](https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Drive ft\. KIDDO](https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU) | 2:19 |
 
-Snapshot ID: `ZuzzQAAAAACTqCS1BxKMbZn78DIHSwzW`
+Snapshot ID: `ZuzzQAAAAADgEI4D3rbuvoEIRIJ9kEux`

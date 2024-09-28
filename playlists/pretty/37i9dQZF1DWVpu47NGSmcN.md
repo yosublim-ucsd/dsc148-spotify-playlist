@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,582 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,581 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:14 |
+| 1 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 |
 | 2 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 |
 | 3 | [LAURA \- From "Laura Movie"](https://open.spotify.com/track/2ZssqMaDKBntWIrPw2AwWX) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [LAURA \- From "Laura Movie"](https://open.spotify.com/album/04uLbUZ031riEIXGnT2Kvk) | 3:40 |
 | 4 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De) | 2:50 |
 | 50 | [F Yo Love Song](https://open.spotify.com/track/4DMaj2iE8FV1oGADMHPqwX) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [F Yo Love Song](https://open.spotify.com/album/2G3VerHuEeipHliQM7TwYJ) | 3:25 |
 
-Snapshot ID: `ZtfctAAAAAAHXPeOyKOLUVYmV5GsWGbA`
+Snapshot ID: `ZtfctAAAAADa/q7SgjLf9SdhnMpxlszm`

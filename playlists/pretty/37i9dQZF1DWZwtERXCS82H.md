@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,061 likes - 230 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,259 likes - 230 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 229 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
 | 230 | [Why Talk](https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Why Talk](https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu) | 2:34 |
 
-Snapshot ID: `ZvKmuAAAAACjoUtOPJewO2xxdnJQDZbH`
+Snapshot ID: `ZvKmuAAAAADgJAtTwOVTg+8hGFdKvQ+1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,574 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,564 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 79 | [How Beautiful \(she is\)](https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [How Beautiful \(she is\)](https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys) | 3:27 |
 | 80 | [Afrofuturista](https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Afrofuturista](https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs) | 2:04 |
 
-Snapshot ID: `Znt24AAAAABjIUf+a3Gwr8ws8Uj1obwh`
+Snapshot ID: `Znt24AAAAAC6HfOsnP7+Znc2IgeYK7Ls`

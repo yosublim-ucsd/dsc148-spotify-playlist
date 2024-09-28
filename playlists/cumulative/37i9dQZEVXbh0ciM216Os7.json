@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 153648,
       "name": "3333",
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
@@ -3621,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Round Midnight 79 (Remastered Version)",
+        "url": "https://open.spotify.com/album/2OZOhvyC7tRrRVb87jCgtA"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279013,
+      "name": "Blues For Inge",
+      "url": "https://open.spotify.com/track/3wqYoiZAtCtqjoCWDMVI86"
+    },
+    {
+      "album": {
         "name": "Blues For Mama (Live)",
         "url": "https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR"
       },
@@ -4439,6 +4457,28 @@
     },
     {
       "album": {
+        "name": "Bumblebee Tuna (with Andy Frasco)",
+        "url": "https://open.spotify.com/album/0xOXAk7QKVFqKq2LneMIFb"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Andy Frasco & The U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101626,
+      "name": "Bumblebee Tuna (with Andy Frasco)",
+      "url": "https://open.spotify.com/track/3AHz579I1l0csbP89u5B70"
+    },
+    {
+      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -4661,6 +4701,32 @@
     },
     {
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/4EUQcPnVCp4vk9TaufMX6d"
+    },
+    {
+      "album": {
         "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
         "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
       },
@@ -4680,7 +4746,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 266866,
       "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
       "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
@@ -6162,6 +6228,28 @@
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
+    },
+    {
+      "album": {
+        "name": "Cracc Era",
+        "url": "https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118554,
+      "name": "Cracc Era",
+      "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
     },
     {
       "album": {
@@ -7746,7 +7834,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 216000,
       "name": "Do it All Again",
       "url": "https://open.spotify.com/track/7s62mYqs8RVpozHlLYijEn"
@@ -8292,7 +8380,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195474,
       "name": "Dopeman",
       "url": "https://open.spotify.com/track/6yzA0fI78IyGh69GF2n65e"
@@ -8742,6 +8830,36 @@
       "duration_ms": 237483,
       "name": "Drippy Drop",
       "url": "https://open.spotify.com/track/4oEI2mD2s80Enl3BLqLOZj"
+    },
+    {
+      "album": {
+        "name": "Drug Plots",
+        "url": "https://open.spotify.com/album/72PPLh4qmaaVfIwwdqGB2W"
+      },
+      "artists": [
+        {
+          "name": "DJ Deadeye",
+          "url": "https://open.spotify.com/artist/0GiOxdyfnwyAmEEkK9xrAE"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156673,
+      "name": "Drug Plots",
+      "url": "https://open.spotify.com/track/2iXUOz1Ol32B840snmOfwk"
     },
     {
       "album": {
@@ -11182,7 +11300,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 260571,
       "name": "Forever",
       "url": "https://open.spotify.com/track/71weanEoaxtIlkHt4EkZ5j"
@@ -11775,6 +11893,24 @@
     },
     {
       "album": {
+        "name": "From Your Own Eyes",
+        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105466,
+      "name": "From Your Own Eyes",
+      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
+    },
+    {
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -12322,6 +12458,32 @@
       "duration_ms": 182047,
       "name": "George Stinney Jr.",
       "url": "https://open.spotify.com/track/3rnuDuBhRwkNYwXtgbQQaH"
+    },
+    {
+      "album": {
+        "name": "ONE FORTY SEVEN",
+        "url": "https://open.spotify.com/album/65FJtAQ4ofC37tzYVPlIt8"
+      },
+      "artists": [
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Give Em Soul",
+          "url": "https://open.spotify.com/artist/5qv7CppA7BG7CJnyi6yZEv"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228286,
+      "name": "George Wall (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/0EugrM4GUfdG2f8RIX0zpp"
     },
     {
       "album": {
@@ -13250,6 +13412,32 @@
       "duration_ms": 962852,
       "name": "Greensleeves (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/1hTLpqSaXhyJrZZmtaSZU8"
+    },
+    {
+      "album": {
+        "name": "Guardians Of Time",
+        "url": "https://open.spotify.com/album/0huLazla7SzUmZcLdKiiwt"
+      },
+      "artists": [
+        {
+          "name": "Empires Of Eden",
+          "url": "https://open.spotify.com/artist/2BpHzsWMGLEFNuon5ZCyBs"
+        },
+        {
+          "name": "Rob Rock",
+          "url": "https://open.spotify.com/artist/6ARY3ssPrsJCd9KdHN0YBY"
+        },
+        {
+          "name": "John Gallagher",
+          "url": "https://open.spotify.com/artist/3SdmYL7oUhaUFwJhBGp2D6"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262170,
+      "name": "Guardians Of Time",
+      "url": "https://open.spotify.com/track/52ciEgOT9msJ3r0YTnquhT"
     },
     {
       "album": {
@@ -17862,10 +18050,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 252799,
       "name": "Kyrie & Luka",
       "url": "https://open.spotify.com/track/6AgMzkvClobScVCFOyxGDD"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
+        "url": "https://open.spotify.com/album/0QtBah0Q1bBJG9wQlBfRWS"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252799,
+      "name": "Kyrie & Luka",
+      "url": "https://open.spotify.com/track/6CPiv7pghf7tYXcg961Pch"
     },
     {
       "album": {
@@ -18937,6 +19147,36 @@
     },
     {
       "album": {
+        "name": "Lion in The ZOO",
+        "url": "https://open.spotify.com/album/1aRYNEwNqq9CX5OMJzafAC"
+      },
+      "artists": [
+        {
+          "name": "J-Toon",
+          "url": "https://open.spotify.com/artist/7iz2MwYC2pb4OYG3ZbyZNR"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "Lion in The ZOO",
+      "url": "https://open.spotify.com/track/2JFblRwJkn1BsJsi4D7Eaw"
+    },
+    {
+      "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
       },
@@ -19948,6 +20188,32 @@
       "duration_ms": 187494,
       "name": "Many Hats",
       "url": "https://open.spotify.com/track/6pe89GWj5gnG3nPEhAxiti"
+    },
+    {
+      "album": {
+        "name": "Marathon Racing",
+        "url": "https://open.spotify.com/album/7yQW3zLypi8fMyzB6hocOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Squires",
+          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184390,
+      "name": "Marathon Racing",
+      "url": "https://open.spotify.com/track/31vW5iPfBge4raNU2Uy2xQ"
     },
     {
       "album": {
@@ -22318,6 +22584,36 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "album": {
+        "name": "Neverender (Remixes)",
+        "url": "https://open.spotify.com/album/166m4twTzvOpUzPD2SUbwL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384062,
+      "name": "Neverender - Rampa Remix",
+      "url": "https://open.spotify.com/track/3TEGAc9a24MrEU6PTbzomO"
     },
     {
       "album": {
@@ -30079,6 +30375,28 @@
     },
     {
       "album": {
+        "name": "Staccs vs Starks (feat. Ghostface Killah)",
+        "url": "https://open.spotify.com/album/2rLNrZU0DTSj66MoyFPbUU"
+      },
+      "artists": [
+        {
+          "name": "Stacctonio",
+          "url": "https://open.spotify.com/artist/3ZBy9MMMp8zEEVB24dofOd"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181295,
+      "name": "Staccs vs Starks (feat. Ghostface Killah)",
+      "url": "https://open.spotify.com/track/5s06VoSp0h0Q0azM5LEiyh"
+    },
+    {
+      "album": {
         "name": "Staffan (Var En Stalledr\u00e4ng)",
         "url": "https://open.spotify.com/album/2b2R85okYevKxo6D8LzqlA"
       },
@@ -31272,7 +31590,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205000,
       "name": "Swingin' Swordz",
       "url": "https://open.spotify.com/track/1KoCqUBLF5VJQOW8PSGKXy"
@@ -35723,6 +36041,28 @@
     },
     {
       "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
       },
@@ -38322,7 +38662,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 274708,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/0FlJ0wxfgVZpZV15JKnRyK"

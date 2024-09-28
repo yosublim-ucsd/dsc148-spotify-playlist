@@ -1,12 +1,12 @@
 {
-  "description": "This Is El de La Guitarra. Los temas esenciales, todos en una lista.",
-  "num_followers": 90408,
+  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
+  "num_followers": 90410,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAABiAoJcd11+no2JnRYBdDao",
+  "snapshot_id": "ZvSkAAAAAABJ+bd1qgdTQVj4YROEYMT4",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 192395,
       "name": "Que Linda Se Le Ve",
       "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tra Trakas",
+        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Alexander Zavala",
+          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Tra Trakas",
+      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 206701,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/5b7UcPpRAGQ8fc9d8jvq64"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tra Trakas",
-        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Alexander Zavala",
-          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Tra Trakas",
-      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
     },
     {
       "added_at": null,

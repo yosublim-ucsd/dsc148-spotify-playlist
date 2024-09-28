@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Chechi de Marcos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,705 likes - 106 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,716 likes - 106 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 105 | [Oh my goth](https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Creo que necesito ir a dar una vuelta](https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee) | 3:12 |
 | 106 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 |
 
-Snapshot ID: `Zu2e1wAAAAAAXVLOSon1JIFbbXSIw++M`
+Snapshot ID: `Zu2e1wAAAAA9gk5wo0pnVXJgoQnAJKY9`

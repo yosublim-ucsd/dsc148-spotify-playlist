@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-103 songs - 5 hr 34 min
+104 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/1KGp2BlcVSKohhH5u7ZIXu) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:04 | 2023-11-24 |  |
 | [Lit](https://open.spotify.com/track/4MaDMS6c4NIOznjrSyDZXV) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Lit](https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS) | 2:39 | 2023-11-24 |  |
 | [Mary Did You Know](https://open.spotify.com/track/1bf7ob93MJ60M2ulx10Un3) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Mary Did You Know](https://open.spotify.com/album/0VELGihA2e22w7jFeAHCCU) | 3:20 | 2023-11-24 |  |
+| [Merry Christmas \(Welcome to the Family\)](https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Merry Christmas \(Welcome to the Family\)](https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3) | 4:33 | 2024-09-27 |  |
 | [Mistletoe](https://open.spotify.com/track/5ovR9RmMqYzWrzVYKwRttk) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Mistletoe](https://open.spotify.com/album/5yKrfiqUnysdF0pEJYbZ8V) | 2:53 | 2023-11-24 |  |
 | [My Favorite Christmas](https://open.spotify.com/track/07wXKpcO4yJggnbTM6kEHW) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 3:24 | 2023-11-24 |  |
 | [O Christmas Tree](https://open.spotify.com/track/18k5cXsmyfv8zQjY7KManB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [O Christmas Tree](https://open.spotify.com/album/2G29sODSfS34dFxpBSGrdu) | 2:44 | 2023-11-24 |  |

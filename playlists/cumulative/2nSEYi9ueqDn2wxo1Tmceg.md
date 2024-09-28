@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ">Porches</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,079 songs - 3 day 1 hr 56 min
+1,080 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Upon My Soul](https://open.spotify.com/track/1E1MGS38KymkCJOENDPWlf) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [Brothers & Sisters](https://open.spotify.com/album/6TraNOBSSA3snFw5gtbwwt) | 3:44 | 2023-03-04 | 2023-04-27 |
 | [Ursula](https://open.spotify.com/track/1M3MkQsyHneKRo2LRlBrg3) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [Ursula](https://open.spotify.com/album/2i5WAeVCa9hnHoPi29ahah) | 6:58 | 2024-05-08 | 2024-06-06 |
 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-05-10 | 2023-06-29 |
+| [V.](https://open.spotify.com/track/0CDs5ETJyRZ40uePXFuNDA) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Ness](https://open.spotify.com/album/5tVYhHkaCA2YBXhJV2SCPU) | 4:20 | 2024-09-27 |  |
 | [Vajkoczy](https://open.spotify.com/track/1pK6RicHm4ZNku9wFq7T5I) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 4:10 | 2023-11-01 | 2023-12-07 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-08-02 | 2023-09-21 |
 | [Vampire Tongues](https://open.spotify.com/track/4xrf1X5xuovNQbFbpgdvGE) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Vampire Tongues](https://open.spotify.com/album/1mzUcrfYKr2gNX2Re6CnqG) | 3:54 | 2024-06-13 | 2024-08-08 |

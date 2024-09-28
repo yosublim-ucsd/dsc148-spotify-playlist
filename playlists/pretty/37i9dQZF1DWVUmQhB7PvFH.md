@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡健雅 \(Tanya Chau\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,776 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,817 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [寂寞沙洲冷](https://open.spotify.com/track/7IcHz4fREJdi4VeoObI1Uh) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [星空下的傳說](https://open.spotify.com/album/5S8QxvrpupSYAJiFgMUr0S) | 4:37 |
 | 50 | [我要的只是愛](https://open.spotify.com/track/52S3iijs5gstMqPu9rURtp) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [心口不一](https://open.spotify.com/album/7eILUICAAnjuai7b7pNtcM) | 4:21 |
 
-Snapshot ID: `Zue2UgAAAACTjJEJsJAYO24KnC3Nk7hA`
+Snapshot ID: `Zue2UgAAAAC0TbPD48MHZXkAZ+qzCucg`

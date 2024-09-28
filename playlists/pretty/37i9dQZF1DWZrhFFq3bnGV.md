@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,074 likes - 96 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,096 likes - 96 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 95 | [Waktuku Hampa](https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Detik Waktu Quartet](https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK) | [Waktuku Hampa](https://open.spotify.com/album/367KtX1YYymKFcjfN847nC) | 3:17 |
 | 96 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `ZvWTEAAAAACUvLMF9SK2tADOeNyeE6MB`
+Snapshot ID: `ZvWTEAAAAAAHb0eUYP5ELZoQ/UDp4uIH`

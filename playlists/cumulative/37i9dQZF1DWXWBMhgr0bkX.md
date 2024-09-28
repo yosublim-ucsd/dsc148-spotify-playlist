@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Your future favourite pop stars, fresh for the UK\. Cover: Victor Ray
+> Your future favourite pop stars, fresh for the UK\. Cover: Henry Moodie
 
-97 songs - 4 hr 57 min
+103 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,17 +41,18 @@
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-04 | 2024-09-13 |
 | [erase u](https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [erase u](https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM) | 3:03 | 2024-09-12 |  |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-08 |  |
-| [Everything](https://open.spotify.com/track/07QBu6WtJhsuCQDmL8SwI5) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [The Death Of A Troubadour](https://open.spotify.com/album/2aaKgTHj3rXwbLIbjKXEVN) | 2:58 | 2024-06-04 |  |
+| [Everything](https://open.spotify.com/track/07QBu6WtJhsuCQDmL8SwI5) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [The Death Of A Troubadour](https://open.spotify.com/album/2aaKgTHj3rXwbLIbjKXEVN) | 2:58 | 2024-06-04 | 2024-09-28 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-05 |  |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 |  |
 | [find your own](https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [find your own](https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC) | 3:16 | 2024-08-16 | 2024-09-13 |
 | [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-06-04 | 2024-09-20 |
 | [Following My Heart](https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Following My Heart](https://open.spotify.com/album/1qo7PGE11c3aZtTJnn96py) | 4:19 | 2024-06-04 | 2024-09-20 |
-| [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-06-04 |  |
+| [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-06-04 | 2024-09-28 |
 | [Gelato](https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Gelato](https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS) | 2:29 | 2024-09-12 |  |
 | [Ghost Town](https://open.spotify.com/track/4OgLQctGaqePQNdXJbBIoT) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Ghost Town](https://open.spotify.com/album/0wSeMLx1GYnWaznBhcAZq9) | 2:48 | 2024-09-05 |  |
 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 | 2024-06-04 |  |
-| [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-06-04 |  |
+| [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-06-04 | 2024-09-28 |
+| [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 | 2024-09-27 |  |
 | [Good timing](https://open.spotify.com/track/2qCclaB0iPpmd5XhdyKpDq) | [Aaria Tae](https://open.spotify.com/artist/1uRoYTKiCf6kiZMYI1wyjm) | [Good timing](https://open.spotify.com/album/2ZiCzlbHfcd2SovHTlgHNi) | 2:47 | 2024-06-04 | 2024-08-09 |
 | [Got to Let Go](https://open.spotify.com/track/0QOoHq0f7kM5j68yF0DkSk) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Got To Let Go](https://open.spotify.com/album/5urvF8XzZ5cO17GRPVZd4u) | 3:58 | 2024-06-04 | 2024-09-13 |
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2024-09-19 |  |
@@ -62,6 +63,7 @@
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-06-04 | 2024-08-31 |
 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-09-05 |  |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 |  |
+| [I've Got Feelings](https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [I've Got Feelings](https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1) | 4:01 | 2024-09-27 |  |
 | [IDOL](https://open.spotify.com/track/0mnq2lTY2XvbZB8ioo7kCS) | [Ruby Duff](https://open.spotify.com/artist/7arrmC5cRDHLESNxZmUax1) | [IDOL](https://open.spotify.com/album/1u600odm5reUOVxzAV8zOH) | 2:53 | 2024-09-19 |  |
 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 | 2024-08-30 |  |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-04 |  |
@@ -73,13 +75,17 @@
 | [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-12 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-04 |  |
 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-05 |  |
-| [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-06-04 |  |
-| [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-04 |  |
+| [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-27 |  |
+| [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-06-04 | 2024-09-28 |
+| [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-04 | 2024-09-28 |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-06-04 | 2024-08-17 |
 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 | 2024-06-04 |  |
+| [New Normal](https://open.spotify.com/track/5zs5O9cifU84KU5IBIpYZY) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [TALES OF A TWENTY SOMETHING](https://open.spotify.com/album/6jDtAj8nk7ppFmcaZ8AqZC) | 2:54 | 2024-09-27 |  |
 | [oh my](https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [oh my](https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb) | 3:23 | 2024-09-19 |  |
 | [Out of Body](https://open.spotify.com/track/14Wopt56iX9RUJ7a15Fydj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [Out of Body](https://open.spotify.com/album/128ykHJFCEiD0lfdyQ9RW2) | 2:44 | 2024-06-04 | 2024-08-09 |
+| [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 | 2024-09-27 |  |
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-06-04 | 2024-09-20 |
+| [Postcards](https://open.spotify.com/track/47MvHHZhOpAMMVjqQnnPmw) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Postcards](https://open.spotify.com/album/0fl2hYmuzhRRWjkxaoNsJQ) | 2:13 | 2024-09-27 |  |
 | [Pretend](https://open.spotify.com/track/1R8ot3FsHvOWiekAkn2sZ9) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Pretend](https://open.spotify.com/album/2kVxxNLrZRBPGJXeYYp9vC) | 1:45 | 2024-09-12 |  |
 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 | 2024-06-04 | 2024-08-09 |
 | [Queen](https://open.spotify.com/track/4fidflpyukTVL9kPG0f1xj) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Queen](https://open.spotify.com/album/4clewFmbeplurLGqTVcoVT) | 3:01 | 2024-06-04 | 2024-09-13 |
@@ -99,7 +105,7 @@
 | [Teenage Kinda Love](https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Wings](https://open.spotify.com/album/4yvBDAt1TOrdW0gPYgZJ3T) | 3:42 | 2024-06-04 | 2024-09-06 |
 | [The One That You Call](https://open.spotify.com/track/3VeSUTrht19Ecb6BnHh5ld) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [The One That You Call](https://open.spotify.com/album/1amzwTCEfiGcehQLIFu4M1) | 1:50 | 2024-08-16 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
-| [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 |  |
+| [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 | 2024-09-28 |
 | [Understand U](https://open.spotify.com/track/2CBJwJn2AlPGxQuN3QgTKT) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Understand U](https://open.spotify.com/album/2dSAZJWjqx1a44v6Twypqh) | 2:58 | 2024-06-04 |  |
 | [What Happened?](https://open.spotify.com/track/1jOvqIzgRTqPwWGzbmeEqh) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [What Happened?](https://open.spotify.com/album/5fGUfEHc0AWpvjqD32NFvI) | 2:29 | 2024-06-04 | 2024-09-13 |
 | [Wingman](https://open.spotify.com/track/553ChZNK0odFJhu4aYNh63) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Wingman](https://open.spotify.com/album/4Woi2Ikh8raJvjMGPNrdZG) | 3:07 | 2024-06-04 | 2024-09-13 |

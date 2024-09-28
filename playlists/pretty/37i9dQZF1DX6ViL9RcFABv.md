@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Ana Moura
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,635 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,662 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 74 | [Flash](https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Flash](https://open.spotify.com/album/48CCNFMg4Mw7GOiL66oRvG) | 3:24 |
 | 75 | [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 |
 
-Snapshot ID: `ZvXncAAAAACobSo1BMx/uEbFLfn63kew`
+Snapshot ID: `ZvXncAAAAABT2f7z342mUpwH5pXUFgPq`

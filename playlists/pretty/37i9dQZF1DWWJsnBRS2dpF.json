@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 55221,
+  "num_followers": 55252,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsTwAAAAACKNpea08P1p4tN6Zn45LSo",
+  "snapshot_id": "ZIsTwAAAAAAP5EUMdBbIlAsLPnNG04DB",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Are You That Somebody",
+        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Are You That Somebody",
-        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
     },
     {
       "added_at": "2022-10-01 16:21:24",

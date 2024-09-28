@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Cover: Vale Lambo, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,069 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,123 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 |
 | 50 | [YOU](https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [Young Donghito](https://open.spotify.com/artist/4Ll4sOvxN7VHLMX7d04FB4) | [YOU](https://open.spotify.com/album/2GYnr5RUWwCWMQuyY6xUNO) | 3:01 |
 
-Snapshot ID: `ZvXZnAAAAACAuCoRZKPdF7McaVYsKFyj`
+Snapshot ID: `ZvXZnAAAAABawhaplK4L65NwdzHTIkOq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,227 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,242 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Gynaikes Eimaste](https://open.spotify.com/track/6i7DazANsgFtd6tSLEBOiJ) | [Ioulia Karapataki](https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG), [Danai Papadopoulou](https://open.spotify.com/artist/7moApbJ63BuGI9rTXRUQW3) | [Gynaikes Eimaste](https://open.spotify.com/album/0b9E96EhO9shesn3QhyyNP) | 4:13 |
 | 50 | [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 |
 
-Snapshot ID: `Ztd40AAAAADUg4yTraXnDP+Nsasf+FM8`
+Snapshot ID: `Ztd40AAAAAAaJ40xBMSb0Br1k2ApIhsX`

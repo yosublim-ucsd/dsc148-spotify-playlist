@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-433 songs - 1 day 0 hr 50 min
+434 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [She Got the Best of Me](https://open.spotify.com/track/6AwPEpVjrWnJ0Avv5Krvgr) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/647lxKs8GjylCNbAE32Lyn) | 3:03 | 2019-08-09 | 2019-08-10 |
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2023-03-10 |  |
 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 | 2019-06-25 |  |
+| [She's Somebody's Daughter](https://open.spotify.com/track/7dQ9151STgBvjSxz8FM28m) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [She's Somebody's Daughter](https://open.spotify.com/album/655M0y2ab0r8OFlhkXIOc5) | 2:56 | 2024-09-27 |  |
 | [Shoot Me Straight \- Radio Edit](https://open.spotify.com/track/0ya80Qhw7hgeJp2L6zvxcj) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Shoot Me Straight \(Radio Edit\)](https://open.spotify.com/album/4ztVwViw52VMDwUtCuKAt6) | 3:27 | 2022-03-25 | 2022-04-19 |
 | [Shut Up Kenny](https://open.spotify.com/track/6tn2Atd1S4DVoQnls5x4SR) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:00 | 2019-05-25\* | 2021-12-04 |
 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 | 2022-05-13 | 2024-04-19 |
@@ -426,7 +427,7 @@
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2019-06-21 | 2019-06-27 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2024-02-16 |  |
 | [Worth It](https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:26 | 2019-05-28 | 2022-04-19 |
-| [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2019-05-25\* |  |
+| [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2019-05-25\* | 2024-09-28 |
 | [Wrong Baby Wrong Baby Wrong](https://open.spotify.com/track/0F9BbXn7zjDkM6SRJvkBOd) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Shine](https://open.spotify.com/album/3fsnDG0DJWt651edtDhqoz) | 3:41 | 2019-10-26 | 2021-01-15 |
 | [Wrong Side of a Sunrise](https://open.spotify.com/track/2iEhrJwK2glWAvqtyuulgq) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Wrong Side of a Sunrise](https://open.spotify.com/album/12It5FS5HApJv54o6hfawf) | 3:15 | 2023-11-10 | 2024-02-03 |
 | [You Ain't Here To Kiss Me](https://open.spotify.com/track/4wwZnclbrUX7EBGfkFclmP) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 | 2019-06-23 | 2022-04-19 |

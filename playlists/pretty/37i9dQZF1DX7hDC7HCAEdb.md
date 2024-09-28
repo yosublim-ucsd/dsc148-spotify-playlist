@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 
 > The best new alternative sounds from Scotland\. Cover: Franz Ferdinand
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,520 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hDC7HCAEdb.md) - [plain]
 | 69 | [glass](https://open.spotify.com/track/7FvHQZTPcdHpuv5azyEQSg) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [glass](https://open.spotify.com/album/1d7imDVfJ5Ic0fPo4EKbEx) | 3:24 |
 | 70 | [EMPTY FEELING.](https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd) | [mouse.](https://open.spotify.com/artist/2KddRhT1xqFnWJeAJEPhQX) | [EMPTY FEELING.](https://open.spotify.com/album/78DkibCvvDGG7QHIddCFeX) | 3:18 |
 
-Snapshot ID: `ZuQfKQAAAABkWeCEMnmzr+7CWNx6pDJK`
+Snapshot ID: `ZuQfKQAAAAAkH9R8Rp56Dptitpz8oFjx`

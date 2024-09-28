@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Merrily We Roll Along
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,102 likes - 79 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,139 likes - 79 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 78 | [Land of Lola](https://open.spotify.com/track/6zwCy9ZNn6cQNcOzP0aYkS) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Kinky Boots Ensemble](https://open.spotify.com/artist/4RLUtUZh8bb6wfoMfwjO9q) | [Kinky Boots \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0VfNZpKsykX5WPuyEdBilR) | 3:07 |
 | 79 | [Heart of Stone](https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Natalie Paris](https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:11 |
 
-Snapshot ID: `ZrJwkAAAAAB5WPbjsHkRKXjKVmfZ7RbX`
+Snapshot ID: `ZrJwkAAAAADWNY75lr9XQulO2cvzlBil`

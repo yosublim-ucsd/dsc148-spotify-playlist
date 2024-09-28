@@ -1521,6 +1521,44 @@
     },
     {
       "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV"
+      },
+      "artists": [
+        {
+          "name": "BMSG GAIA",
+          "url": "https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI"
+        },
+        {
+          "name": "BMSG ALLSTARS",
+          "url": "https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        },
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        },
+        {
+          "name": "TAIKI",
+          "url": "https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4"
+    },
+    {
+      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
       },
@@ -2348,7 +2386,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 187613,
       "name": "Lemon Candy",
       "url": "https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk"

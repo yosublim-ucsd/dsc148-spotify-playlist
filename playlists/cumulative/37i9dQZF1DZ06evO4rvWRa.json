@@ -399,6 +399,32 @@
     },
     {
       "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/1fpWGsEKLeyf5rk6HkpBu4"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197912,
+      "name": "Children of the Sun",
+      "url": "https://open.spotify.com/track/7L3Y2DoJ1RMicH5X2GnFEZ"
+    },
+    {
+      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },

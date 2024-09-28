@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,329 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,343 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Drive](https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Drive](https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn) | 4:38 |
 | 80 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 |
 
-Snapshot ID: `ZvXncAAAAACgB2ZVL8JzLppsQJ+oIFU1`
+Snapshot ID: `ZvXncAAAAADT0HbsgC7SBB709qDeq6w0`

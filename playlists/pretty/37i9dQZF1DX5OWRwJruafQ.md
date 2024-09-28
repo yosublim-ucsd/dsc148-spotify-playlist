@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,177 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,191 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 |
 | 100 | [Fight](https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Fight](https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0) | 3:03 |
 
-Snapshot ID: `Zuu7xgAAAACBWP525gvIRvTDUDmtlMQ7`
+Snapshot ID: `Zuu7xgAAAACxu0VcndSJpydCpG9gLWVd`

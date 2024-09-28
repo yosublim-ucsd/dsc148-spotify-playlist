@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-323 songs - 18 hr 59 min
+324 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Can I Get An Amen](https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Can I Get An Amen](https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N) | 3:40 | 2024-09-20 |  |
 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 | 2022-07-29 | 2024-07-19 |
 | [Can't Stay Away](https://open.spotify.com/track/0KAOUetWwOlmQIbZ5eMoXB) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Purple BLUE](https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh) | 2:47 | 2021-06-11 | 2022-05-07 |
+| [Carry My Name](https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Time Is A Thief](https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c) | 3:47 | 2024-09-27 |  |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 | 2024-08-31 |
 | [Change Of Heart](https://open.spotify.com/track/17QfmXLHBHOJJqZV6eZSJO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Change Of Heart](https://open.spotify.com/album/1kW1CVItMkSjknwIoPpSWu) | 3:44 | 2024-05-10 | 2024-06-08 |
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2021-08-20 | 2022-07-29 |
@@ -74,7 +75,7 @@
 | [Crazy](https://open.spotify.com/track/1KGvEErtxbETDsTo958th4) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Crazy](https://open.spotify.com/album/4tGjdCaZWqmnpZKutjMO41) | 4:29 | 2021-07-30 | 2022-07-29 |
 | [Crazy About You](https://open.spotify.com/track/0rsOjOujuzph8cXH3ba7Ea) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao) | [Strange Times](https://open.spotify.com/album/72Jr6CcXW3iKlyI3Dc0Vmp) | 4:59 | 2024-02-13 |  |
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-02-12 | 2022-03-26 |
-| [Cuttin' In](https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Roddie Romero](https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:00 | 2023-03-03 |  |
+| [Cuttin' In](https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Roddie Romero](https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:00 | 2023-03-03 | 2024-09-28 |
 | [Darkness I Feel](https://open.spotify.com/track/43haQPyxARYypn8u8ocsym) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Darkness I Feel](https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj) | 3:11 | 2022-02-25 | 2023-11-18 |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2023-03-03 | 2023-04-25 |
 | [Demon Lover](https://open.spotify.com/track/0TrMFfw1e4g0BcvEX4JWhe) | [Barry Adamson](https://open.spotify.com/artist/4xoV3kh3rwrWaPc17zyDyY) | [Demon Lover](https://open.spotify.com/album/6XFP8wU9hmuuqAxBbAXxTM) | 3:53 | 2024-04-19 |  |

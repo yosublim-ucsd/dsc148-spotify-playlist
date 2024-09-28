@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195093,
       "name": "100 bux",
       "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
+    },
+    {
+      "album": {
         "name": "Back For The Funeral",
         "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196577,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
@@ -1483,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "album": {
         "name": "comatose",
         "url": "https://open.spotify.com/album/6ogAdVYy0rIrNP1tTBF9vi"
       },
@@ -1758,6 +1794,28 @@
       "duration_ms": 198054,
       "name": "dead end.",
       "url": "https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ"
+    },
+    {
+      "album": {
+        "name": "Deadbeat Blues",
+        "url": "https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        },
+        {
+          "name": "Bel",
+          "url": "https://open.spotify.com/artist/0F5UHQlF4zGjLv3XKbfkWS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154295,
+      "name": "Deadbeat Blues (feat. Bel)",
+      "url": "https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW"
     },
     {
       "album": {
@@ -2718,7 +2776,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 270448,
       "name": "Galina",
       "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
@@ -3064,7 +3122,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
@@ -3392,7 +3450,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171757,
       "name": "her",
       "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
@@ -3678,7 +3736,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 206277,
       "name": "Hottest Summer on Record",
       "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
@@ -4692,7 +4750,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 208823,
       "name": "Lonely with Our Love",
       "url": "https://open.spotify.com/track/7I0lIzNjPrvnqLp7AQHW5o"
@@ -5042,6 +5100,24 @@
       "duration_ms": 136733,
       "name": "METHOD ACTING",
       "url": "https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF"
+    },
+    {
+      "album": {
+        "name": "Midnight Cowboy",
+        "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211020,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
     },
     {
       "album": {
@@ -5907,6 +5983,24 @@
     },
     {
       "album": {
+        "name": "Fabrics",
+        "url": "https://open.spotify.com/album/7buSjpIxgQ1zNvWtVdFoJ5"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Pick My Pockets",
+      "url": "https://open.spotify.com/track/4m8GEreu4bGUsUBJOcAiGD"
+    },
+    {
+      "album": {
         "name": "BLOODY",
         "url": "https://open.spotify.com/album/3klnJAeDk9wozwILY0QGoD"
       },
@@ -6134,7 +6228,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
@@ -6290,6 +6384,24 @@
       "duration_ms": 211840,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/7p46jopEVdyoabBoen57VI"
+    },
+    {
+      "album": {
+        "name": "Rosy",
+        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196944,
+      "name": "Rosy",
+      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     },
     {
       "album": {
@@ -8159,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "What A Ride",
+        "url": "https://open.spotify.com/album/6cj4ZgAtbw7Ohp8a8o1iMn"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "What a Ride",
+      "url": "https://open.spotify.com/track/6TEBV3dt61W1x39HfFZOgC"
+    },
+    {
+      "album": {
         "name": "What Do You Believe In?",
         "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
       },
@@ -8232,6 +8362,24 @@
       "duration_ms": 168736,
       "name": "Who The Hell Am I?",
       "url": "https://open.spotify.com/track/6c3Yq5A0jHVNLJvMMb0KWI"
+    },
+    {
+      "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB"
     },
     {
       "album": {

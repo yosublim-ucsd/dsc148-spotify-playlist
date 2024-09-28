@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: اميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,275 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,292 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Fargah](https://open.spotify.com/track/3YgMfaDg1HgnS9gDyasPYm) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Meshari Alawadhi](https://open.spotify.com/artist/1ml7Su9BEo7jUsnStP7DgG) | [Fargah](https://open.spotify.com/album/62w7X2wwf3TgPOPcteaRpN) | 3:35 |
 | 50 | [Tekfa La Tezaal](https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 4:10 |
 
-Snapshot ID: `ZvXQRAAAAAD4HHc8cj8fIL3owiTuvcWh`
+Snapshot ID: `ZvXQRAAAAABWg1nupjUz9camPZsM3M7g`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Irina Barros, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,987 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,989 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Marcha da Paridade](https://open.spotify.com/track/7cELNbtcpYWj1Qa23XztTM) | [Bia Maria](https://open.spotify.com/artist/5XA2sW4LpcNfWGhk4OPXfk) | [Marcha da Paridade](https://open.spotify.com/album/6NLa147IoN2ubSJBlKac8r) | 3:18 |
 | 50 | [Luz no Escuro](https://open.spotify.com/track/3wZ0wW5EcqvRkV24BwIFdm) | [MaZela](https://open.spotify.com/artist/2KCWe56PKgmzKXrl1Rrzd8) | [Luz no Escuro](https://open.spotify.com/album/52hUkIuMdezKCnylKKrRqb) | 5:19 |
 
-Snapshot ID: `ZteU8AAAAACuRsmsIX3JeB6LlUxkZZg/`
+Snapshot ID: `ZteU8AAAAAB060PKVNPV5n6PIXuuP1MA`

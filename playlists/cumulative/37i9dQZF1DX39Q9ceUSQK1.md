@@ -4,12 +4,12 @@
 
 > Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
 
-142 songs - 8 hr 2 min
+143 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-24 | 2024-07-10 |
-| [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-06-24 |  |
+| [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-06-24 | 2024-09-28 |
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-13 |  |
 | [A Note About Time](https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI) | [Daryll\-Ann](https://open.spotify.com/artist/671hK274ypvrV5RiWyxjk7) | [A Note About Time](https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF) | 3:20 | 2024-07-11 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-07-09 | 2024-09-25 |
@@ -97,7 +97,7 @@
 | [Painkiller](https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Painkiller](https://open.spotify.com/album/45D55zXNlh80oV6hRXc8LP) | 2:26 | 2024-09-13 |  |
 | [Parked Car Conversations](https://open.spotify.com/track/1xLoBwOKMtCq3tALgb8F6A) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/7Fd6t1WZxaDy7A5Cxl9K1b) | 3:11 | 2024-06-24 | 2024-09-06 |
 | [Plant Healing](https://open.spotify.com/track/68qM3SnT7JDA7VW49gIxQc) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Plant Healing](https://open.spotify.com/album/5oD9VkmU5ZUzEw9Plvovmz) | 3:11 | 2024-07-26 | 2024-09-14 |
-| [Power](https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Power](https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx) | 3:17 | 2024-06-24 |  |
+| [Power](https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Power](https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx) | 3:17 | 2024-06-24 | 2024-09-28 |
 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 | 2024-07-26 |  |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-06-27 | 2024-08-02 |
 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-07-26 |  |
@@ -112,7 +112,7 @@
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-24 | 2024-07-27 |
 | [She Likes Me](https://open.spotify.com/track/1PRTvqpZHSxsTIRQMgoFNo) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [She Likes Me](https://open.spotify.com/album/2YnT8eUlDz0lAYxmuoxu3h) | 3:47 | 2024-06-24 | 2024-07-05 |
 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 | 2024-07-09 | 2024-09-14 |
-| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-26 |  |
+| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-26 | 2024-09-28 |
 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 | 2024-08-27 |  |
 | [Society's Fixation Seeker](https://open.spotify.com/track/5qQwPmOwM1yIHadiimVqjW) | [LIGHTSPEED](https://open.spotify.com/artist/6AKqwXVRN32svEj6t8gD3Q) | [Society's Fixation Seeker](https://open.spotify.com/album/0RuIqeRNLcpZJ2JtfZsPeo) | 3:06 | 2024-07-26 |  |
 | [Sound Of Age](https://open.spotify.com/track/3IaPpzSeQbjD6J3knuC3Nd) | [Paceshifters](https://open.spotify.com/artist/7maCRjdG5xFuQZ7AxINpAN) | [Sound of Age](https://open.spotify.com/album/5WZA5adjYE2IFYcErJGLOP) | 3:24 | 2024-08-30 |  |
@@ -124,6 +124,7 @@
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 |  |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-26 |  |
 | [Tata's Lie](https://open.spotify.com/track/6KEbPvohiPRqky2TcYFwQG) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Tata's Lie](https://open.spotify.com/album/0u0r2SIoz7i5dgD5Ctw9LF) | 4:20 | 2024-06-24 | 2024-07-12 |
+| [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/album/1OHKmjvGBdmlj6hZDiYCON) | 3:14 | 2024-09-27 |  |
 | [The Cause](https://open.spotify.com/track/2F7eZfbL4ANiCs3Z8KXawS) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [The First Exit](https://open.spotify.com/album/7rFOgNWw2iOOCpIPbxQo8c) | 3:43 | 2024-09-24 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-06-24 | 2024-09-06 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-13 |  |
@@ -137,7 +138,7 @@
 | [Trapped Under Nice](https://open.spotify.com/track/6USWG3CNM00MQ9zxpiTgdZ) | [Tusky](https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr) | [Trapped Under Nice](https://open.spotify.com/album/1pdIvCKWmGcg2a7HCJ8TQe) | 1:22 | 2024-09-24 |  |
 | [Trash Blanket](https://open.spotify.com/track/3crOykl82l9i6NtkzTsM8G) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Trash Blanket](https://open.spotify.com/album/5nSMOh9sxfJOLlDZP7rcXR) | 3:14 | 2024-07-26 | 2024-09-14 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-06-24 | 2024-09-06 |
-| [Undertow](https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Undertow](https://open.spotify.com/album/5wdaz6mmb6s74ZZOzLHhnG) | 4:23 | 2024-06-24 |  |
+| [Undertow](https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Undertow](https://open.spotify.com/album/5wdaz6mmb6s74ZZOzLHhnG) | 4:23 | 2024-06-24 | 2024-09-28 |
 | [Wait For You](https://open.spotify.com/track/4L0JZOuOKjmVgGdkNH16si) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/6HtAL6Jnrl8brPPiZALH0o) | 2:45 | 2024-06-24 | 2024-08-31 |
 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 | 2024-08-30 |  |
 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 | 2024-06-24 |  |

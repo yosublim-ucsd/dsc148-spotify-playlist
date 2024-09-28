@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Boy You Got Me",
+        "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Boy You Got Me",
+      "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
+    },
+    {
+      "album": {
         "name": "Brave New World",
         "url": "https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw"
       },
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 368054,
       "name": "Candela",
       "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 334426,
       "name": "DIKEBO - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d"
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
@@ -7158,7 +7176,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 449093,
       "name": "L.I.F.E",
       "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
@@ -7406,7 +7424,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 255612,
       "name": "Learning To Love",
       "url": "https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2"
@@ -7538,7 +7556,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 313174,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K"
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222080,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
@@ -8144,6 +8162,28 @@
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
+    },
+    {
+      "album": {
+        "name": "Love Come Through",
+        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199458,
+      "name": "Love Come Through",
+      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
     },
     {
       "album": {
@@ -9852,6 +9892,36 @@
       "duration_ms": 287039,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd"
+    },
+    {
+      "album": {
+        "name": "Neverender (Rampa Remix)",
+        "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384062,
+      "name": "Neverender - Rampa Remix",
+      "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
     },
     {
       "album": {
@@ -12339,6 +12409,28 @@
     },
     {
       "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/004HrUsnT6v50zlNn2g153"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk"
+    },
+    {
+      "album": {
         "name": "Seve 2.0 (Luch Rework)",
         "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
       },
@@ -13203,6 +13295,24 @@
     },
     {
       "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
+    },
+    {
+      "album": {
         "name": "Sunrise To The Morning",
         "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
       },
@@ -13754,7 +13864,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
@@ -13816,7 +13926,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 273719,
       "name": "The Light",
       "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
@@ -13900,7 +14010,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 417812,
       "name": "The Rapture Pt.III",
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
@@ -14348,7 +14458,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 189677,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"

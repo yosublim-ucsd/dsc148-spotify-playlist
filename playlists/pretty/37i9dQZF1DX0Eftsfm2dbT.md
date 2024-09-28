@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: OMSB, JJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,360 likes - 84 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,376 likes - 84 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bro](https://open.spotify.com/track/7Eedf4Hu7q0Z6fbA6CC3H8) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Bro](https://open.spotify.com/album/6brj1boxfg5TEsI3Sr0jBf) | 3:37 |
 | 2 | [My Resort Pt\. 2](https://open.spotify.com/track/1CrUop1zksxw9VxI27NQiU) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle 2](https://open.spotify.com/album/6I0goKP22jU9Sa28xCrfPH) | 2:07 |
-| 3 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
+| 3 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
 | 4 | [Live in Tokyo](https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Live in Tokyo](https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607) | 2:07 |
 | 5 | [Day'N'Nite 2](https://open.spotify.com/track/6xlPpo5gJscYfXti2lwRCD) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc) | [Day'N'Nite 2](https://open.spotify.com/album/1MrfMnB8TE8tXECFZRZ33K) | 2:56 |
 | 6 | [N64](https://open.spotify.com/track/57ZEnKxB1ZOsahrd6nfqTQ) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [N64](https://open.spotify.com/album/67hqEMyPxnIVgmFDHXZJgn) | 3:08 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 83 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 84 | [Anata Watashi \- Remix](https://open.spotify.com/track/6SRfxONpZwPbE8p2W5lkbp) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Anata Watashi \(Remix\)](https://open.spotify.com/album/0wcSHfTMd5481IBncYW1hk) | 3:22 |
 
-Snapshot ID: `ZvV28AAAAAC5pBZXgOxXZiDofuuZgGrR`
+Snapshot ID: `ZvV28AAAAAAMEJF8htXl9nr0/B2cFPHE`

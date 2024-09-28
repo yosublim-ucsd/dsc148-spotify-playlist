@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 59907,
+  "num_followers": 59922,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAB+CnlQAyhJL5pjyxqzsKxT",
+  "snapshot_id": "ZvSkAAAAAACsbnDn5inuP3NV9G5XrT1i",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "De Nada Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197026,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "De Nada Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Jefes",
         "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Corridos",
-        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Leonardo Reyes",
-      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
     },
     {
       "added_at": null,
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
-        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+        "name": "12 Corridos",
+        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Bajo Mil Llaves - En Vivo",
-      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+      "duration_ms": 174013,
+      "name": "Leonardo Reyes",
+      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 199173,
       "name": "Lucio Pe\u00f1a",
       "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
+        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "Bajo Mil Llaves - En Vivo",
+      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
     },
     {
       "added_at": null,

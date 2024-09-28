@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Future )",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: The Weeknd, Playboy Carti)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 289504,
       "name": "530",
       "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 200933,
       "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
       "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
@@ -3853,6 +3853,28 @@
     },
     {
       "album": {
+        "name": "BABY I'M BACK (Remix)",
+        "url": "https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230540,
+      "name": "BABY I'M BACK - Remix",
+      "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
+    },
+    {
+      "album": {
         "name": "BACH TO BACH",
         "url": "https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0"
       },
@@ -3952,6 +3974,28 @@
       "duration_ms": 128227,
       "name": "Back Out The Knocks",
       "url": "https://open.spotify.com/track/2vB9wFBldFEBvGPWwYmjrY"
+    },
+    {
+      "album": {
+        "name": "back2thestart",
+        "url": "https://open.spotify.com/album/1ZheUlSnHeNtNRCDpxQmlF"
+      },
+      "artists": [
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        },
+        {
+          "name": "KAY-O",
+          "url": "https://open.spotify.com/artist/6GEopoAVOPexISvnu5Cu9a"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117906,
+      "name": "back2thestart",
+      "url": "https://open.spotify.com/track/1ExefDwQMXC5x5DtuRmmt2"
     },
     {
       "album": {
@@ -4818,6 +4862,40 @@
       "duration_ms": 169889,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0qCl8lKO7hLPmcNvi2dSbs"
+    },
+    {
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/7vZLA8bYAwdR4QtwaglEyc"
+      },
+      "artists": [
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186450,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/7JWIRBVWIxbFEI1CwtNhKM"
     },
     {
       "album": {
@@ -6057,6 +6135,28 @@
     },
     {
       "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+    },
+    {
+      "album": {
         "name": "BLOW!",
         "url": "https://open.spotify.com/album/2xX8q9GzY7xM00hMSCiPkn"
       },
@@ -7072,6 +7172,28 @@
       "duration_ms": 175199,
       "name": "Bring Some Mo (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu"
+    },
+    {
+      "album": {
+        "name": "Bro",
+        "url": "https://open.spotify.com/album/6brj1boxfg5TEsI3Sr0jBf"
+      },
+      "artists": [
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217445,
+      "name": "Bro",
+      "url": "https://open.spotify.com/track/7Eedf4Hu7q0Z6fbA6CC3H8"
     },
     {
       "album": {
@@ -8222,7 +8344,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201363,
       "name": "Cell 245 - Prison Tapes",
       "url": "https://open.spotify.com/track/64URMxToWOIrQ5yzNTePnS"
@@ -14756,7 +14878,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
@@ -16730,6 +16852,24 @@
       "duration_ms": 331040,
       "name": "GLYSD",
       "url": "https://open.spotify.com/track/5gRaCIFgC5h6nT3GcoFiVs"
+    },
+    {
+      "album": {
+        "name": "GM",
+        "url": "https://open.spotify.com/album/6LGxkU1xC5qlrNmmNCk02Q"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "GM",
+      "url": "https://open.spotify.com/track/2HzdPkPYNxtqHQT2g30zrf"
     },
     {
       "album": {
@@ -19444,7 +19584,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186692,
       "name": "Housekeeping Knows (feat. Latto)",
       "url": "https://open.spotify.com/track/1b8Uy52q8fZUBTlRkoXoT5"
@@ -21355,6 +21495,24 @@
     },
     {
       "album": {
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "album": {
         "name": "Curtain Call 2",
         "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },
@@ -22282,6 +22440,28 @@
       "duration_ms": 127500,
       "name": "karma",
       "url": "https://open.spotify.com/track/5IiAywUOYNbh0K5mXOly3h"
+    },
+    {
+      "album": {
+        "name": "WONDER BOY'S AKUMU CLUB",
+        "url": "https://open.spotify.com/album/3VnHOAsrH9dBq8TbVmHkGL"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        },
+        {
+          "name": "J.I.D",
+          "url": "https://open.spotify.com/artist/7bTn84XuezOf5kzCED8UCK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212692,
+      "name": "KATATOKI",
+      "url": "https://open.spotify.com/track/3glLtPjGGpTXPk5CSJ2MVJ"
     },
     {
       "album": {
@@ -24652,7 +24832,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 214228,
       "name": "LOVE MAKE",
       "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
@@ -27276,7 +27456,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 121053,
       "name": "My Best",
       "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
@@ -28070,7 +28250,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 136666,
       "name": "New Black History (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
@@ -28282,7 +28462,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166368,
       "name": "NIGHTS LIKE THIS PT 2",
       "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
@@ -29813,7 +29993,7 @@
     },
     {
       "album": {
-        "name": "Off White Rozay",
+        "name": "Off White Rozay (feat. Voice of Harlem)",
         "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
       },
       "artists": [
@@ -29826,7 +30006,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149313,
-      "name": "Off White Rozay",
+      "name": "Off White Rozay (feat. Voice of Harlem)",
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {
@@ -30252,7 +30432,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 150763,
       "name": "On Up",
       "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
@@ -33150,7 +33330,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219715,
       "name": "Proclivities (feat. Saweetie)",
       "url": "https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh"
@@ -35690,6 +35870,24 @@
       "duration_ms": 214807,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/6ESrmKdVVA03lWp0vuP93X"
+    },
+    {
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/7F0839SpQjAoApf64i4HQS"
+      },
+      "artists": [
+        {
+          "name": "CLARY",
+          "url": "https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/1CbQcoDHvCLPl55q4mu7zi"
     },
     {
       "album": {
@@ -40317,6 +40515,24 @@
     },
     {
       "album": {
+        "name": "SUMN PRETTY",
+        "url": "https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158937,
+      "name": "SUMN PRETTY",
+      "url": "https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb"
+    },
+    {
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 0",
         "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
       },
@@ -41780,6 +41996,24 @@
       "duration_ms": 133999,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
+    },
+    {
+      "album": {
+        "name": "Test",
+        "url": "https://open.spotify.com/album/4cFcmuZqpUYkroiPVQtSfa"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148716,
+      "name": "Test",
+      "url": "https://open.spotify.com/track/6AfRavwy4mVaixO29wfyco"
     },
     {
       "album": {
@@ -43315,6 +43549,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
         "name": "timezones",
         "url": "https://open.spotify.com/album/4Kq8tS6e0AplUcR3ZZFEp7"
       },
@@ -44666,6 +44922,24 @@
       "duration_ms": 219183,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6cFn46erk6PtVxU1MUmFB0"
+    },
+    {
+      "album": {
+        "name": "Turn Up A Notch",
+        "url": "https://open.spotify.com/album/2ahiulnzUjr6TQtJ61OJO6"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141878,
+      "name": "Turn Up A Notch",
+      "url": "https://open.spotify.com/track/25iuEho6akUyl3aufmXHqy"
     },
     {
       "album": {
@@ -47638,7 +47912,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 224262,
       "name": "Wish I Never Met You - Prison Tapes",
       "url": "https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12"
@@ -48330,7 +48604,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 367539,
       "name": "Xtra McNasty (Feat. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO)",
       "url": "https://open.spotify.com/track/1uUbO4jTqULg0l0FDdVGmn"

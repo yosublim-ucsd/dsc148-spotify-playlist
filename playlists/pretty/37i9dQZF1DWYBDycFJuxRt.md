@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: imase + なとり \*👉 <a href="https://spice.eplus.jp/articles/332168?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,808 likes - 94 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,822 likes - 94 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 6 | [ファンタジスト](https://open.spotify.com/track/0BWp5zMQgZ4gLozJuiYyqv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [MANSTER](https://open.spotify.com/album/6y5AL4LKPS32cPafNJ18NI) | 4:16 |
 | 7 | [Hard work](https://open.spotify.com/track/21LClr5fRDBJSEnArdK18P) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Ai no Ubugoe, Ai no Nakigoe](https://open.spotify.com/album/5xfP0RaptOkznxJ2gcpyKz) | 3:03 |
 | 8 | [Bro](https://open.spotify.com/track/7Eedf4Hu7q0Z6fbA6CC3H8) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Bro](https://open.spotify.com/album/6brj1boxfg5TEsI3Sr0jBf) | 3:37 |
-| 9 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
+| 9 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
 | 10 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 |
 | 11 | [Kakumei Zenya](https://open.spotify.com/track/1rvR8AGfqhPdvhgb6ZCG4F) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Kakumei Zenya](https://open.spotify.com/album/0eYDALWDP59GFCypPr1VMJ) | 3:08 |
 | 12 | [KATATOKI](https://open.spotify.com/track/3glLtPjGGpTXPk5CSJ2MVJ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [J.I.D](https://open.spotify.com/artist/7bTn84XuezOf5kzCED8UCK) | [WONDER BOY'S AKUMU CLUB](https://open.spotify.com/album/3VnHOAsrH9dBq8TbVmHkGL) | 3:32 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 47 | [Earthian\(Our Sweet Home\)](https://open.spotify.com/track/4bG006vnx1N9oKN6sudQmr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Earthian\(Our Sweet Home\)](https://open.spotify.com/album/7KnVgl8qHyLtaDAfPV6EvB) | 3:17 |
 | 48 | [ムジナ](https://open.spotify.com/track/3JAQsJDpBf5Aqad2YPo1Q9) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [ムジナ](https://open.spotify.com/album/7bUrYKEqodcRSD0Bkqhlw8) | 3:16 |
 | 49 | [夏をかえして](https://open.spotify.com/track/7ev8sHSvx2AvFukSKUTWRP) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夏をかえして](https://open.spotify.com/album/1UIUFh6tWULOtLigaZhWfU) | 3:24 |
-| 50 | [Summer Crazy Days](https://open.spotify.com/track/2ac7479JiPcg72grAeAw73) | [JINTANA & EMERALDS](https://open.spotify.com/artist/7snZZXktojahPBXT5CW6eM) | [Summer Crazy Days c/w A MOMENT OF SILENCE](https://open.spotify.com/album/4KzSqbnqfp57Ctc1EqfqNv) | 4:55 |
+| 50 | [Summer Crazy Days](https://open.spotify.com/track/2ac7479JiPcg72grAeAw73) | [JINTANA & EMERALDS](https://open.spotify.com/artist/7snZZXktojahPBXT5CW6eM), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Kaoru Kami](https://open.spotify.com/artist/1BRzQbU1sUvl0csEhRSsPn), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [Summer Crazy Days c/w A MOMENT OF SILENCE](https://open.spotify.com/album/4KzSqbnqfp57Ctc1EqfqNv) | 4:55 |
 | 51 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 52 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 |
 | 53 | [VENDER WOH!](https://open.spotify.com/track/3eNTFzTkuKnfy1cyhQIN9K) | [U\-zhaan × mabanua](https://open.spotify.com/artist/10n68AxWiZKeuM0aPkvwww), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS) | [VENDER WOH!](https://open.spotify.com/album/7dAGJCz6iYSReIt1bZo1HY) | 5:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 93 | [NEWHEAD](https://open.spotify.com/track/05sr3dTw0TpF7LjW4vAVSq) | [吉田凜音](https://open.spotify.com/artist/1PPw17aNcM7kLaKmuyyx4E) | [NEWHEAD](https://open.spotify.com/album/4uIj0hMYCWeiQfxkIEtOHc) | 3:19 |
 | 94 | [天使乃恥部](https://open.spotify.com/track/3LsvaeGXncWNyOICOPphrK) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv), [ペペ・トルメント・アスカラール](https://open.spotify.com/artist/6oBZiNmjO9gjqGcS5Hk2VU) | [天使乃恥部](https://open.spotify.com/album/1EoAkbRqP8HtjYog5DwX9C) | 5:46 |
 
-Snapshot ID: `ZvQnHwAAAAAooYZydP8MKLTSj3fTdeHn`
+Snapshot ID: `ZvQnHwAAAABRcKY7C0RVkS8xKWM/CUpn`

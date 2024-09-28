@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KISS OF LIFE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,462 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,463 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 |
 | 50 | [Summer Dream](https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:09 |
 
-Snapshot ID: `Zo0g7QAAAADR7yAcy5tVMe+W+v1zAz2L`
+Snapshot ID: `Zo0g7QAAAAC2ukX7jyLxfD7DQKjaRIMY`

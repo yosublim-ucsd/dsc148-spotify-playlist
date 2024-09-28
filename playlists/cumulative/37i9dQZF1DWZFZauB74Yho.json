@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: The Po' Ramblin' Boys",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
   "name": "New Grass",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 207000,
       "name": "Aced",
       "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
+    },
+    {
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
     },
     {
       "album": {
@@ -142,7 +160,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 197706,
       "name": "Baby I Just Do",
       "url": "https://open.spotify.com/track/56ktHoJih7TlM2VO9ZL67J"
@@ -254,6 +272,24 @@
       "duration_ms": 246000,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/0E5Xg5SpLNfsrhizdoiJN5"
+    },
+    {
+      "album": {
+        "name": "Black Muddy River",
+        "url": "https://open.spotify.com/album/60dyRHRGrAEPYlDE3WA7AO"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300575,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
     },
     {
       "album": {
@@ -1003,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Everywhere a Mountain",
+        "url": "https://open.spotify.com/album/6OdcLvhNjQp2537SLupcHA"
+      },
+      "artists": [
+        {
+          "name": "Tim Stafford",
+          "url": "https://open.spotify.com/artist/5yX1miY4VIySXNpldnJyZ9"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168579,
+      "name": "Everywhere a Mountain",
+      "url": "https://open.spotify.com/track/46KGJSvEAxaB8AE11GgJvG"
+    },
+    {
+      "album": {
         "name": "Tenkiller",
         "url": "https://open.spotify.com/album/1XVoJ98MjMuJyIzoJmU7Wp"
       },
@@ -1188,6 +1246,24 @@
       "duration_ms": 207734,
       "name": "Get Me Where I'm Going",
       "url": "https://open.spotify.com/track/594asLg22yfJs0845XFRak"
+    },
+    {
+      "album": {
+        "name": "Highway Prayers",
+        "url": "https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305543,
+      "name": "Gild the Lily",
+      "url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
     },
     {
       "album": {
@@ -1790,7 +1866,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196775,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/4E0BAnuJWZNDCxGCtT0Jps"
@@ -2566,7 +2642,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 203999,
       "name": "Petunia",
       "url": "https://open.spotify.com/track/4XPNALw92r7ahWOWMeSqEj"
@@ -2668,6 +2744,24 @@
       "duration_ms": 316425,
       "name": "Poor Davey",
       "url": "https://open.spotify.com/track/41IKwf5EgWh066nQ7a9FVi"
+    },
+    {
+      "album": {
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "album": {
@@ -2840,6 +2934,24 @@
       "duration_ms": 237000,
       "name": "R-26",
       "url": "https://open.spotify.com/track/7Mq4NE0YAnAHpU89XRx6YG"
+    },
+    {
+      "album": {
+        "name": "Rag Mama Rag",
+        "url": "https://open.spotify.com/album/30F9hYbHnYFvRj5ZB6xjpw"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170067,
+      "name": "Rag Mama Rag",
+      "url": "https://open.spotify.com/track/6jIXbMura1pfTnTsyCfDFS"
     },
     {
       "album": {
@@ -3068,7 +3180,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 213191,
       "name": "Sin",
       "url": "https://open.spotify.com/track/1OkBrHgvXwQF88bjqx79ho"
@@ -3937,6 +4049,28 @@
     },
     {
       "album": {
+        "name": "West Virginia",
+        "url": "https://open.spotify.com/album/7ctbnQKt3qxA5koY26fSiS"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236089,
+      "name": "West Virginia",
+      "url": "https://open.spotify.com/track/7F8UYoDlJFScdSK1ZgPgLO"
+    },
+    {
+      "album": {
         "name": "What if You're Wrong",
         "url": "https://open.spotify.com/album/3Vinp0LVm9a214BkrqWDiT"
       },
@@ -3979,7 +4113,7 @@
       "artists": [
         {
           "name": "Jerron Paxton",
-          "url": "https://open.spotify.com/artist/55AXvXsYcSs54rz9XDtc0V"
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
         }
       ],
       "date_added": "2024-08-23",

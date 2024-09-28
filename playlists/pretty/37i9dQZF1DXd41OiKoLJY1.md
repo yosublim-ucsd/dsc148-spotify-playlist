@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Angelika Sam Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,717 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,741 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 65 | [Hanggang sa huli](https://open.spotify.com/track/6fZGVYOvQ7OK1OT68QdrOQ) | [Pataka](https://open.spotify.com/artist/4XiqbFzU6Q5hdUwoswmPDx) | [Hanggang sa Huli](https://open.spotify.com/album/4T3feT6UVhAS1sWPJaGFx7) | 5:09 |
 | 66 | [Kara Krus](https://open.spotify.com/track/3YzZOOoW78GJGjmfSpkcAi) | [Breydcap](https://open.spotify.com/artist/0YZ2ezw8xEwhdF1tCCWLpg) | [Barya sa Balon](https://open.spotify.com/album/01S9oNmRvjvXEd1fU9VrhK) | 3:06 |
 | 67 | [Come Through](https://open.spotify.com/track/62LyNWQWYjSagTMuFeCdkO) | [FCKITWEGOOD](https://open.spotify.com/artist/2hJ0D621HyKWs7J2c3tqam), [mndy](https://open.spotify.com/artist/0gRyedZ76AVwrw1FA9Rjr2), [Wyno](https://open.spotify.com/artist/6JivsO2F1klvrpfemicWe2) | [Come Through](https://open.spotify.com/album/0ImjvXQJfqljri9sLDLRdD) | 3:21 |
-| 68 | [Soredemo \- Kahit Na](https://open.spotify.com/track/3o4MzauCVr2hLl63lnVMnU) | [SKYGARDEN](https://open.spotify.com/artist/6bd1xlTpnocDeNG9QHJTbe), [Jillian Ward](https://open.spotify.com/artist/26dzCeIvzEBis2thw0Nncq) | [Soredemo \- Kahit Na](https://open.spotify.com/album/43ogSjllDBSQftSBYhCSpG) | 5:29 |
+| 68 | [Soredemo \- Kahit Na](https://open.spotify.com/track/3o4MzauCVr2hLl63lnVMnU) | [SKYGARDEN](https://open.spotify.com/artist/6bd1xlTpnocDeNG9QHJTbe), [Jillian Ward](https://open.spotify.com/artist/26dzCeIvzEBis2thw0Nncq) | [Soredemo \(Kahit Na\)](https://open.spotify.com/album/43ogSjllDBSQftSBYhCSpG) | 5:29 |
 | 69 | [Notice](https://open.spotify.com/track/4aT1GPWQgrRk4dKVXQ7q08) | [Pauline Anne](https://open.spotify.com/artist/4n5v9PHXMujNYfl8gcMyGo) | [Notice](https://open.spotify.com/album/3haTsPKvSD500neJSadqdQ) | 2:56 |
 | 70 | [Ecstasy](https://open.spotify.com/track/03tBYVZYatCOWX1kedQz4s) | [Yhuan](https://open.spotify.com/artist/3Dw1lH0mmEb3kx6qJXEN53) | [Ecstasy](https://open.spotify.com/album/4DtM1VFHwmNPYON3jFCwl2) | 4:11 |
 | 71 | [Storm Like Me](https://open.spotify.com/track/6DchQkMZ77EECt7ks2vjDk) | [Kai del Rio](https://open.spotify.com/artist/5cicp4VpheNjTeBg5xZAwv) | [Storm Like Me](https://open.spotify.com/album/06wc2uv6HGB2gQRfrt2DCS) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [amuse me](https://open.spotify.com/track/1wG4UWgcizVNjWTfjkoQZG) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [amuse me](https://open.spotify.com/album/2lzE9S58nSIxZvapH1BBsU) | 2:55 |
 | 100 | [literally so dumb](https://open.spotify.com/track/2Up8DexlXbMBnAECfB0iUE) | [Bianca Tañega](https://open.spotify.com/artist/0wik0zLYLHsIQFNAzsbILB) | [literally so dumb](https://open.spotify.com/album/2op7iGeaaxtobbNfbTNtLL) | 1:58 |
 
-Snapshot ID: `ZvWFAAAAAADQTQXTRw/7krXZwRztGYE7`
+Snapshot ID: `ZvWFAAAAAADlLqSJjmsAwxqilePOiKxR`

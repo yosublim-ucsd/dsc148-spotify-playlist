@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: AUDREY NUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299,566 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,490 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 97 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 |
 | 98 | [Try Again](https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Try Again](https://open.spotify.com/album/7LikYERyfpoxZdjyezrJiN) | 3:31 |
 
-Snapshot ID: `ZuzzQAAAAADn3CxRqwrXxJ8iIoSbV1NB`
+Snapshot ID: `ZuzzQAAAAAB8bBNxZHzCdjxLRX+KZ3eE`

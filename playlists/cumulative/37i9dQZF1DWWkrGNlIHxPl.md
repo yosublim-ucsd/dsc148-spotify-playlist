@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Lana Lubany
+> Global crossovers by/with Arab artists\. Cover: Llunr
 
-347 songs - 19 hr 5 min
+348 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 | 2022-02-25 | 2022-12-08 |
 | [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 | 2022-10-08 | 2023-06-27 |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-01-09 | 2023-01-26 |
-| [Haifa Wehbe](https://open.spotify.com/track/17b1DCO3Fp60x4Ri8iK1rQ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Haifa Wehbe](https://open.spotify.com/album/5tPaBF7H4a8YMLSzy01yHS) | 3:20 | 2024-06-29 |  |
+| [Haifa Wehbe](https://open.spotify.com/track/17b1DCO3Fp60x4Ri8iK1rQ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Haifa Wehbe](https://open.spotify.com/album/5tPaBF7H4a8YMLSzy01yHS) | 3:20 | 2024-06-29 | 2024-09-28 |
 | [Hair Up](https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o) | [Nadine](https://open.spotify.com/artist/4UnznusdX9MEldtlPuh5Oq) | [Hair Up](https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S) | 3:07 | 2021-12-16 | 2022-02-22 |
 | [Hala Walla](https://open.spotify.com/track/4eEFZc50WNQxyrJWY9jCru) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Hala Walla](https://open.spotify.com/album/04kLge4bJNgLW6Hot5Dik3) | 2:47 | 2022-12-07 | 2023-04-01 |
 | [Hasni](https://open.spotify.com/track/5CarMlAJR0q27OKXoShOAk) | [Ihan X Twelve](https://open.spotify.com/artist/1c35SkrlVOC3HsHbcCAhQz) | [Hasni](https://open.spotify.com/album/1wuzmewgorfbBPCvVEO9nJ) | 3:25 | 2022-06-06 | 2022-06-24 |
@@ -282,7 +282,7 @@
 | [Sidi Mansour](https://open.spotify.com/track/6sNVx9BBrsA2IzwYSDfLOM) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sidi Mansour](https://open.spotify.com/album/3ZONjiIIQLz72jYob5rhDM) | 4:41 | 2022-06-06 | 2022-06-24 |
 | [Sirens](https://open.spotify.com/track/4Y2UCKOJ7jvvgasA7FJSNE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Sirens](https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv) | 2:39 | 2023-09-18 |  |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-12-16 | 2022-03-30 |
-| [So Stupid](https://open.spotify.com/track/2j1tKfploZmluiqyMcciGw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [So Stupid](https://open.spotify.com/album/40K9kUwPgXae7VTlfhyf74) | 2:35 | 2024-07-17 |  |
+| [So Stupid](https://open.spotify.com/track/2j1tKfploZmluiqyMcciGw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [So Stupid](https://open.spotify.com/album/40K9kUwPgXae7VTlfhyf74) | 2:35 | 2024-07-17 | 2024-09-28 |
 | [SOLD](https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [SOLD](https://open.spotify.com/album/2FZStBhAxT7X2hJaPsUXDm) | 2:38 | 2022-08-04 | 2023-04-29 |
 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 | 2023-04-07 | 2023-05-27 |
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |
@@ -308,6 +308,7 @@
 | [The First Disciple](https://open.spotify.com/track/5mbeR5Kz4A1wfZsU9bXUJt) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/0Tq5p3TGrec8ZKEh68JNWO) | 6:02 | 2022-05-26 | 2022-07-29 |
 | [The First Disciple](https://open.spotify.com/track/7jEuDXkFXtE5LKnq4SMTM7) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 6:02 | 2022-10-08 | 2023-04-01 |
 | [The Pen & The Sword](https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [The Pen & The Sword](https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW) | 2:55 | 2023-09-19 |  |
+| [The Route](https://open.spotify.com/track/3AzfHcA5mmjkg04BBXBoiE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:43 | 2024-09-27 |  |
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-14 | 2022-12-08 |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-20 | 2023-05-27 |
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-12-07 | 2023-03-14 |
@@ -335,7 +336,7 @@
 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 | 2023-08-20 |
 | [WATER](https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [WATER](https://open.spotify.com/album/6Q7Q1IbhWKDthIVE6CF2ud) | 3:37 | 2022-12-07 | 2023-04-25 |
 | [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 | 2024-03-11 |  |
-| [WE PRAY \- \(Elyanna Version\)](https://open.spotify.com/track/4rYYAWSdgENNINui9wK3O1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(Elyanna Version\)](https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6) | 3:53 | 2024-09-20 |  |
+| [WE PRAY \- \(Elyanna Version\)](https://open.spotify.com/track/4rYYAWSdgENNINui9wK3O1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(Elyanna Version\)](https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6) | 3:53 | 2024-09-20 | 2024-09-28 |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-12-07 | 2023-02-25 |
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-12-07 | 2023-06-25 |

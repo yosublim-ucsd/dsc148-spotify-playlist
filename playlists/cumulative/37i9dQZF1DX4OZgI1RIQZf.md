@@ -4,13 +4,14 @@
 
 > The best indie songs from all decades for your Halloween party
 
-153 songs - 9 hr 20 min
+154 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Girl Like You](https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [These Dreams EP](https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg) | 3:12 | 2023-10-27 | 2024-04-19 |
 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 | 2022-10-26 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-10-16 |  |
+| [Apollon](https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Apollon](https://open.spotify.com/album/0udUblWUl05uR1ELebTbra) | 3:13 | 2024-09-27 |  |
 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 | 2022-10-26 | 2024-04-19 |
 | [Attack of the Ghost Riders](https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack Of The Ghost Riders](https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4) | 2:31 | 2023-10-27 |  |
 | [Back From The Dead](https://open.spotify.com/track/7dLHVUNArVpdxHpjFiNwcp) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [JLX](https://open.spotify.com/artist/30YbWj2izYk5WstzBLszvq) | [Back From The Dead](https://open.spotify.com/album/13IepB92VQjx7CSAbLhJ8K) | 4:57 | 2022-10-26 | 2022-11-03 |
@@ -47,7 +48,7 @@
 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 | 2023-10-27 |  |
 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 | 2023-02-09 | 2024-04-19 |
 | [Found Love in a Graveyard](https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g) | 3:59 | 2022-10-26 | 2023-04-29 |
-| [Found Love In A Graveyard](https://open.spotify.com/track/3m618q0h93ttQXlyCiyOm7) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/2c6YLa2rbTEHgsVbRX7Rjx) | 4:00 | 2023-10-27 |  |
+| [Found Love In A Graveyard](https://open.spotify.com/track/3m618q0h93ttQXlyCiyOm7) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/2c6YLa2rbTEHgsVbRX7Rjx) | 4:00 | 2023-10-27 | 2024-09-28 |
 | [Frankenstein](https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Frankenstein](https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB) | 4:28 | 2023-07-31 |  |
 | [Ghost Town](https://open.spotify.com/track/1CzooskJKgUN9XLGibPTWw) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come of Age](https://open.spotify.com/album/5BLZlz2ujARzae0RLIqkZ5) | 2:20 | 2023-10-27 |  |
 | [Ghost Town](https://open.spotify.com/track/347OA86TbdeTydHhy90blH) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 2:20 | 2022-10-26 | 2024-04-19 |

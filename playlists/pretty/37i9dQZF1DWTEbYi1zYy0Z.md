@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,272 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,314 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 |
-| 2 | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0) | 4:26 |
+| 1 | [Slide](https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slide](https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I) | 3:55 |
+| 2 | [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 |
 | 3 | [Twenty \(feat\. Michael Broening\)](https://open.spotify.com/track/1U3hZGaKKOsJzCJikh2v6A) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Twenty](https://open.spotify.com/album/70SDL3x5FCRVLJXQJPCVe6) | 4:12 |
 | 4 | [Impulse](https://open.spotify.com/track/0nV7T8aDzUGJ0RQ417uAMJ) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Impulse](https://open.spotify.com/album/5LazfoIN28eaJqAy2Bi03s) | 4:03 |
 | 5 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 |
 | 100 | [Reasons](https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Reasons](https://open.spotify.com/album/5VxTgmfCEn2I9YmuoCEuqt) | 2:57 |
 
-Snapshot ID: `ZuzzQAAAAABLS1824S0Iay/sqax4dJlX`
+Snapshot ID: `ZvYtwAAAAAB3zZ2FYC8PZeYszZ61Q4lc`

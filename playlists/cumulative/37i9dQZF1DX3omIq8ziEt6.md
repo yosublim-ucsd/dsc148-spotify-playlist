@@ -2,7 +2,7 @@
 
 ### [Esenciales](https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6)
 
-> Timeless Latin hits\. A 20 años de Barrio Fino\. Cover: Daddy Yankee
+> Timeless Latin hits\. A 20 años de 'Mi Sangre'\. Cover: Juanes
 
 558 songs - 1 day 11 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,788 likes - 160 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,802 likes - 160 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 159 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 |
 | 160 | [160 DOWN THE A406](https://open.spotify.com/track/7k8Wwp8qQqRCue2bmnxRLv) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 Down the A406](https://open.spotify.com/album/0CVtPqXrBxfenbojDmt7ts) | 6:02 |
 
-Snapshot ID: `ZuHUaQAAAADWkEcYMl2at26yt+3mk+ss`
+Snapshot ID: `ZuHUaQAAAAAuzMFItV3u2aT+RKj9+tne`

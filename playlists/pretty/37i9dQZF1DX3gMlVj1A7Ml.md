@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Alexandra Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,810 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,811 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 48 | [eRAI](https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [eRAI](https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7) | 2:44 |
 | 49 | [Haide](https://open.spotify.com/track/6ku4rF1Cf0dnIBULuHfswR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Haide](https://open.spotify.com/album/0Wp1s08Nkns1U7cRy9ynk4) | 2:19 |
 
-Snapshot ID: `Ztd40AAAAACDA+gapvQuBVjG6La2sWfT`
+Snapshot ID: `Ztd40AAAAAAt+fW8rOsJr/qRBbdFSSTY`

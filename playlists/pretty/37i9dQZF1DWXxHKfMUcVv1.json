@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 117426,
+  "num_followers": 117444,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmtfUgAAAAAFVqMmm5AyQU6D5TeVGQKE",
+  "snapshot_id": "ZmtfUgAAAAC/WSCZWt0879+9z+6Wsokp",
   "tracks": [
     {
       "added_at": "2024-06-13 21:06:26",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 212591,
       "name": "Mi Mujer",
       "url": "https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 192786,
       "name": "Si Yo Fuera El",
       "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-06-13 21:06:26",

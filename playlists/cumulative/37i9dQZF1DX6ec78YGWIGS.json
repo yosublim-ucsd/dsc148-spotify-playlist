@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: LIT killah y Nicki Nicole.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Lali",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 197000,
       "name": "A Mi Lado",
       "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 137131,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162139,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -2640,6 +2658,24 @@
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
     },
     {
       "album": {
@@ -3822,7 +3858,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 152250,
       "name": "MALA",
       "url": "https://open.spotify.com/track/5IF3wRy67JqKEMLduiSSFX"
@@ -4034,7 +4070,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -4172,6 +4208,24 @@
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "album": {
+        "name": "mi mundo entero",
+        "url": "https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192625,
+      "name": "mi mundo entero",
+      "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
     },
     {
       "album": {
@@ -5171,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266787,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
+    },
+    {
+      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
@@ -5472,7 +5548,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 177151,
       "name": "Que Me Falta",
       "url": "https://open.spotify.com/track/6AQrzHhuvZDmVuyqV2htJU"
@@ -6114,6 +6190,24 @@
       "duration_ms": 175920,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
       "album": {

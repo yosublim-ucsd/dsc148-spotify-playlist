@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Berrin Keklikler
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,114 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,112 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 58 | [Üşümesin](https://open.spotify.com/track/58Itf4cKXMiwOT5Su6Ioix) | [Meyra](https://open.spotify.com/artist/31SY4y5GZLDRrW7GIswamU) | [Üşümesin](https://open.spotify.com/album/7ka1RIWFhOMH6mkHMCsxF1) | 3:31 |
 | 59 | [Filmin Sonu](https://open.spotify.com/track/0JTXaxm5G0Hwt498Lm2Xvt) | [Seran Bilgi](https://open.spotify.com/artist/0lPzpQeTJrWSbAjsmvrZar) | [Filmin Sonu](https://open.spotify.com/album/4p5pRa1sJDyjqfuzf05QaG) | 4:05 |
 
-Snapshot ID: `ZuFNgwAAAADizR9MjRTZIIsZ1+S7r4AH`
+Snapshot ID: `ZuFNgwAAAAC/oQCOs3yi7Bkrr7vEt4U8`

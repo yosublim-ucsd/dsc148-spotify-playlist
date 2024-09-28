@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,461 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,573 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 |
-| 2 | [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 |
-| 3 | [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 |
-| 4 | [Can’t Explain This Love](https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can’t Explain This Love](https://open.spotify.com/album/4Tu4MPRJiKFalIgGn5mi1L) | 3:01 |
+| 1 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
+| 2 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 |
+| 3 | [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 |
+| 4 | [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 |
 | 5 | [Hip Replacement](https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 4:13 |
 | 6 | [Full Circle](https://open.spotify.com/track/56RlwQy5HsHbf6guHUMluq) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Full Circle](https://open.spotify.com/album/5p12lpNSgfFD9mYuuLzgMK) | 3:44 |
 | 7 | [Move Your Body](https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Move Your Body](https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg) | 1:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 |
 | 100 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 
-Snapshot ID: `Zuhm8QAAAADqOQNN95AlvlHq89z+9FUg`
+Snapshot ID: `ZvYtwAAAAAAsSi5+fQkh3LAZyHb/jmPU`

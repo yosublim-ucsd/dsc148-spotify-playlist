@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Bby Lean.",
+  "description": "La casa del trap chileno al mando de Lleflight & Jairo Vera.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 148621,
       "name": "GTA",
       "url": "https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY"
@@ -4286,6 +4286,28 @@
       "duration_ms": 127075,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/0FbkSDNKB2taxGSmaYedox"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/71pvU5AxbEBVcoQBqxdzkS"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179081,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4UutKgioPfaMRFhLiGJcN7"
     },
     {
       "album": {

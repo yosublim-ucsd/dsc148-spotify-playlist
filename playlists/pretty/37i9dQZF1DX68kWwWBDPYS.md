@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Vesica Piscis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,088 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,074 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 |
 | 50 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
 
-Snapshot ID: `Zu0PYAAAAADySLn4OVf3dItZfNP1lv+/`
+Snapshot ID: `Zu0PYAAAAAAGI1DY5Cp+TPRvQA0uRHul`

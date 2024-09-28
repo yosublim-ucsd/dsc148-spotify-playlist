@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Livin' life! cover: Alemeda",
+  "description": "Livin' life! cover: Remy Bond",
   "name": "young & free",
   "tracks": [
     {
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
@@ -4589,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Starlet",
+        "url": "https://open.spotify.com/album/5QlDhL6EuESEOokqeRPva6"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "Brand New Bitch",
+      "url": "https://open.spotify.com/track/6kWYrk7tealTEXUAsXFYCL"
+    },
+    {
+      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 217509,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/17YCVCHb36D7lZ5p0gOOni"
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 243952,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
@@ -7518,7 +7536,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171214,
       "name": "Crazier Best Friend",
       "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
@@ -7724,7 +7742,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195573,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
@@ -10006,7 +10024,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 121533,
       "name": "Drain Me!",
       "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
@@ -11712,7 +11730,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192226,
       "name": "FAR AWAY",
       "url": "https://open.spotify.com/track/5yytQ1fzofNj5YcWX6jgcL"
@@ -12696,7 +12714,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 164206,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
@@ -13754,7 +13772,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
@@ -14194,7 +14212,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 194005,
       "name": "Good Bi",
       "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
@@ -14526,7 +14544,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173739,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp"
@@ -14674,6 +14692,24 @@
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "album": {
+        "name": "Ground Control",
+        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203908,
+      "name": "Ground Control",
+      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
     },
     {
       "album": {
@@ -19350,7 +19386,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 117430,
       "name": "Jennifer's Body",
       "url": "https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j"
@@ -20424,7 +20460,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186666,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
@@ -21130,7 +21166,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
@@ -23533,6 +23569,24 @@
     },
     {
       "album": {
+        "name": "Midnight Cowboy",
+        "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211020,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
+    },
+    {
+      "album": {
         "name": "Midnight Magic (feat. Karra)",
         "url": "https://open.spotify.com/album/3y3OHgPeQN4miAmXKAk0Z1"
       },
@@ -25704,7 +25758,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 194848,
       "name": "Not My Man",
       "url": "https://open.spotify.com/track/0ZSaXFpNU4MTxb69rdoNyl"
@@ -25834,7 +25888,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
@@ -26360,7 +26414,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 152727,
       "name": "omg (guess I had it coming)",
       "url": "https://open.spotify.com/track/1CmwcMdVNDaW2ebS2QCHPM"
@@ -28940,7 +28994,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 198436,
       "name": "QUARTER LIFE CRISIS",
       "url": "https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw"
@@ -29038,7 +29092,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
@@ -33243,6 +33297,24 @@
     },
     {
       "album": {
+        "name": "Star Shaped Baby",
+        "url": "https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169423,
+      "name": "Star Shaped Baby",
+      "url": "https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3oCkgF8JN5ZsxAKGZU4U1f"
       },
@@ -33644,7 +33716,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 208923,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2CITpCGqUIWmV0Zg8h18Lj"
@@ -34494,7 +34566,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
@@ -36023,6 +36095,24 @@
     },
     {
       "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD"
+    },
+    {
+      "album": {
         "name": "The Maze",
         "url": "https://open.spotify.com/album/3PPaBeyg3p9bKAsgU3uBRW"
       },
@@ -36662,7 +36752,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 224000,
       "name": "Time",
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
@@ -37232,7 +37322,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 129032,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz"
@@ -40668,6 +40758,24 @@
       "duration_ms": 128500,
       "name": "Young, Drunk & In Love",
       "url": "https://open.spotify.com/track/1Fd5LiCVx2ZeUXgvJGWwSg"
+    },
+    {
+      "album": {
+        "name": "Young-Girl (Illusion)",
+        "url": "https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189822,
+      "name": "Young-Girl (Illusion)",
+      "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SPIRITSAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,706 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,705 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 |
 | 50 | [PROBLEM CHILD](https://open.spotify.com/track/6vrSi7x0dJQYiMBPNsTJq2) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [PROBLEM CHILD](https://open.spotify.com/album/5K3UgW1ru3z3WW23nosGA2) | 2:37 |
 
-Snapshot ID: `Ztp+QAAAAABEs+bmSEVwOA04z3n5SR6G`
+Snapshot ID: `Ztp+QAAAAADkOJbiWy86fAzpD8TDxcUY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: LAUNDRY DAY, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,796 likes - 201 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,898 likes - 201 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 200 | [Sleep Tonight](https://open.spotify.com/track/2944dK6sVcflROZykZRYFQ) | [harf.](https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX) | [Sleep Tonight](https://open.spotify.com/album/6aWqKJgGIkGKuIyr7UITuK) | 2:57 |
 | 201 | [Gentle](https://open.spotify.com/track/0Sd5l14i8CKGHGKIKjsJXe) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Gentle](https://open.spotify.com/album/5DotSnfsg0nGoscvQbMDi4) | 4:43 |
 
-Snapshot ID: `ZvSozgAAAADJ2NJub7C+a/6Gl+MhLuWz`
+Snapshot ID: `ZvSozgAAAACsUV7ySWaoXAlJ7oPhfHJo`

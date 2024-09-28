@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Dillon Francis & Julian Jordan",
-  "num_followers": 448546,
+  "num_followers": 448579,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAA//mdEtEvMfWFwGMIcyzMW",
+  "snapshot_id": "ZuzzQAAAAAB9zBtBesqAw/oa2iVVM3jY",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1045,26 +1045,6 @@
       "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
     },
     {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "ANITA",
-        "url": "https://open.spotify.com/album/1Ih0ZdvWVSmNmVt14zLCbT"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 165077,
-      "name": "ANITA",
-      "url": "https://open.spotify.com/track/0NkBIQwCGngcIQWash96NH"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Seismic",
@@ -1087,6 +1067,26 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "ANITA",
+        "url": "https://open.spotify.com/album/1Ih0ZdvWVSmNmVt14zLCbT"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 165077,
+      "name": "ANITA",
+      "url": "https://open.spotify.com/track/0NkBIQwCGngcIQWash96NH"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1181,6 +1181,26 @@
       "url": "https://open.spotify.com/track/3U0vLlZQHzdrSQL2TWanom"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "duration_ms": 171585,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Lights On",
@@ -1221,26 +1241,6 @@
       "url": "https://open.spotify.com/track/6ISdwYvLVjNfxHXhCefeXi"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "The Don",
@@ -1265,44 +1265,40 @@
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
       "artists": [
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 171585,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "NIGHTMARE",
-        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
+        "name": "Bass In Yo Face",
+        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
       },
       "artists": [
         {
-          "name": "Cody Ko",
-          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
-        },
-        {
-          "name": "Young Nut",
-          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
         }
       ],
-      "duration_ms": 159241,
-      "name": "NIGHTMARE",
-      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
+      "duration_ms": 187683,
+      "name": "Bass In Yo Face",
+      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bass In Yo Face",
-        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
       },
       "artists": [
         {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+          "name": "Cody Ko",
+          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
+        },
+        {
+          "name": "Young Nut",
+          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
         }
       ],
-      "duration_ms": 187683,
-      "name": "Bass In Yo Face",
-      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
+      "duration_ms": 159241,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2085,26 +2085,6 @@
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Mud Season",
@@ -2139,6 +2119,26 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -2181,42 +2181,6 @@
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Underground Bass",
-        "url": "https://open.spotify.com/album/7s7xPtkRUBwwd1hng1mFtu"
-      },
-      "artists": [
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        }
-      ],
-      "duration_ms": 139077,
-      "name": "Underground Bass",
-      "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Swagger Feet",
-        "url": "https://open.spotify.com/album/7LXd9hQxk9DkCqVYI3Yr6I"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Swagger Feet",
-      "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Selecta",
@@ -2235,6 +2199,50 @@
       "duration_ms": 151846,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6JYFNzWzXX4JwppMki3Y8q"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Underground Bass",
+        "url": "https://open.spotify.com/album/7s7xPtkRUBwwd1hng1mFtu"
+      },
+      "artists": [
+        {
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        }
+      ],
+      "duration_ms": 139077,
+      "name": "Underground Bass",
+      "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mobbing",
+        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Big Tone",
+          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
+        },
+        {
+          "name": "A-Wax",
+          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mobbing",
+      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2259,22 +2267,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "A Prayer",
         "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
@@ -2293,20 +2285,20 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
       "artists": [
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2327,6 +2319,22 @@
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2367,8 +2375,24 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Mobbing",
-        "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Swagger Feet",
+        "url": "https://open.spotify.com/album/7LXd9hQxk9DkCqVYI3Yr6I"
       },
       "artists": [
         {
@@ -2376,21 +2400,13 @@
           "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Big Tone",
-          "url": "https://open.spotify.com/artist/6tsUXFsa7L3tIMCjzOEEdP"
-        },
-        {
-          "name": "A-Wax",
-          "url": "https://open.spotify.com/artist/4uUpfGMXZlncCRFtvUzh3O"
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Mobbing",
-      "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
+      "duration_ms": 209523,
+      "name": "Swagger Feet",
+      "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2407,22 +2423,6 @@
       "duration_ms": 201600,
       "name": "Mr Machine",
       "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     }
   ],
   "unique_name": "Nasty Bits",

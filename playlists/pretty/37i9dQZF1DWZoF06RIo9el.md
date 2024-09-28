@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2024\. Cover: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,071 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,032 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 50 | [LOS CUADROS](https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LOS CUADROS](https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz) | 2:40 |
 
-Snapshot ID: `ZumsDgAAAACsrguoloDEYgWnv7t4oo0h`
+Snapshot ID: `ZumsDgAAAACgpFxVR6paK2prTcelWvvP`

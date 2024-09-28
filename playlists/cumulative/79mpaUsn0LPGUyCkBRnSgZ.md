@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-747 songs - 2 day 1 hr 13 min
+748 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Kemp's Jig](https://open.spotify.com/track/3o0XLKK0sKaoAeGCWYKB7q) | [Gryphon](https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR) | [Gryphon](https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8) | 3:09 | 2024-08-19 |  |
 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-12-14 |  |
 | [Kim Cattrall](https://open.spotify.com/track/2JPh5kSNgX79mgaMmUQPFN) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Rabbit Rabbit](https://open.spotify.com/album/5RWNHToyEel7qS5CZmYOms) | 3:18 | 2024-01-18 |  |
+| [Knew You Once](https://open.spotify.com/track/6RvaFiaownh238E6ACEDaE) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [I Call Out to Myself](https://open.spotify.com/album/5wsdUVANSHU75WRBB1J4BD) | 2:34 | 2024-09-27 |  |
 | [Knotty Pine](https://open.spotify.com/track/6OVrzpbprJutSZeJGAfm5F) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 2:22 | 2023-12-03 | 2023-12-23 |
 | [Knower Forever](https://open.spotify.com/track/59jK0jEezHsYddaOpeUC8p) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [KNOWER FOREVER](https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L) | 2:26 | 2024-01-15 |  |
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |

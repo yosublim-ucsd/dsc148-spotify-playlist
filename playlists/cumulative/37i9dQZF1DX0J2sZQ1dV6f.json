@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Ganggy, Victor Medivil & El Padrinito Toys",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: DannyLux",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -4081,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "GOET",
+        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "GOET",
+      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
+    },
+    {
+      "album": {
         "name": "Golosa",
         "url": "https://open.spotify.com/album/64S31vTCp48dMWxOTwtB3R"
       },
@@ -6230,6 +6248,24 @@
       "duration_ms": 166105,
       "name": "Mi real lova",
       "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
+    },
+    {
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "album": {

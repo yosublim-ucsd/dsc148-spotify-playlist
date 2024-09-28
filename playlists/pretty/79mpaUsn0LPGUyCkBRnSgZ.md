@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 526 songs - 1 day 10 hr 51 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 527 songs - 1 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -534,5 +534,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 524 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 525 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
 | 526 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
+| 527 | [Knew You Once](https://open.spotify.com/track/6RvaFiaownh238E6ACEDaE) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [I Call Out to Myself](https://open.spotify.com/album/5wsdUVANSHU75WRBB1J4BD) | 2:34 |
 
-Snapshot ID: `AAAGhZUKhaIknFUqE7tiZE0h+8cop9+6`
+Snapshot ID: `AAAGhjIw0GUWzTkHLz8R1suapstw5rnq`

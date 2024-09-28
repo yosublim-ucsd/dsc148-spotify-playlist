@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,645 likes - 40 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,661 likes - 40 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 39 | [Athra Ishq Ni Saon Denda](https://open.spotify.com/track/4Q9rdsluj3EWB9A41vO2K6) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Top 50 Punjabi Qawwalies](https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0) | 15:25 |
 | 40 | [Kivain Gori Chalni Ae](https://open.spotify.com/track/48qsTL4KxMPkaCJJRWQpiz) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 |
 
-Snapshot ID: `Zo5nLQAAAACH49FLRwySuIPcUgs1So9P`
+Snapshot ID: `Zo5nLQAAAAC9Ug+MX2E3TNRxzKGdczxg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover:  Czeslo, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,538 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Bizarre](https://open.spotify.com/track/2C4R9w75EB2L0WtikmZhqz) | [Grundeis](https://open.spotify.com/artist/7KvUT9udHg6tPuKWwPdQ4p) | [Bizarre](https://open.spotify.com/album/18IXtlSgWQFWk3Pb7L6P7X) | 2:49 |
 | 80 | [Valentina](https://open.spotify.com/track/1DPnUYdhwU4zZzSjFbJ3vX) | [Die Jugend von Gestern](https://open.spotify.com/artist/4YifxvYJn6lvPKqwpySXuP) | [Valentina](https://open.spotify.com/album/0wwkLAnqYFb8CkbKn1AYO9) | 3:07 |
 
-Snapshot ID: `ZvPfIAAAAACRYMuH46Gvr7kKYVdZ5BgI`
+Snapshot ID: `ZvPfIAAAAAAAn5LSSITYMSDU3lVTBwoO`

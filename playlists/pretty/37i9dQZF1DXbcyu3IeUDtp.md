@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,380 likes - 41 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 41 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 40 | [Circle Game](https://open.spotify.com/track/3WsZapEbeN6YmvpfWtyyxU) | [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Circle Game](https://open.spotify.com/album/1mtgrM7P4mC7Ed67wvNN4B) | 4:14 |
 | 41 | [Promises](https://open.spotify.com/track/02bDs4bBbp7qzW5E62JMu5) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 2:37 |
 
-Snapshot ID: `ZsOpfQAAAACqx+Or2NuIAPW1BcBw/rkv`
+Snapshot ID: `ZsOpfQAAAABbv3TXtoCaT1EmIaVm5Ruu`

@@ -1,15 +1,79 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Funky Beatz ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Ian Asher ",
   "num_followers": 32546,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAArQFDPK52tusvO4dpF9c7dK6dNjt/X",
+  "snapshot_id": "AAArW0ZMOA1oDUPE0t6uLWaQRlzeYjXh",
   "tracks": [
     {
-      "added_at": "2024-09-20 11:51:34",
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+        "url": "https://open.spotify.com/album/4VXJXevslm1e6dndc6tD5k"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "url": "https://open.spotify.com/track/03bA59As8j2ODRyZRE3X7X"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Caigo (Stumblin' In)",
+        "url": "https://open.spotify.com/album/6DZLdaSUl1uuhGTd4WAhe3"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Essa Gante",
+          "url": "https://open.spotify.com/artist/3dYgPy7idZRW4mnP9P05aK"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Caigo (Stumblin' In)",
+      "url": "https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
       "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0"
@@ -25,23 +89,7 @@
       "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
     },
     {
-      "added_at": "2024-09-19 12:01:41",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
-    },
-    {
-      "added_at": "2024-09-19 12:02:34",
+      "added_at": "2024-09-27 14:32:44",
       "album": {
         "name": "Monaco (Live Acoustic)",
         "url": "https://open.spotify.com/album/1KRdnsgZNQnqDV9Agt4bEG"
@@ -57,51 +105,151 @@
       "url": "https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd"
     },
     {
-      "added_at": "2024-09-13 09:00:04",
+      "added_at": "2024-09-27 14:32:44",
       "album": {
-        "name": "Teufel",
-        "url": "https://open.spotify.com/album/7DN6ucZjue4uXoFmJtLjQ6"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "ORYMA",
-          "url": "https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5"
-        },
-        {
-          "name": "danzen",
-          "url": "https://open.spotify.com/artist/4FeLGx97hUMscWvgzmAAE9"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW"
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
-      "added_at": "2024-09-13 09:00:07",
+      "added_at": "2024-09-27 14:32:44",
       "album": {
-        "name": "D\u00e9senchant\u00e9e",
-        "url": "https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL"
+        "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
+        "url": "https://open.spotify.com/album/293qHAJCL1zaqYDLQpPC3d"
       },
       "artists": [
         {
-          "name": "Funky Beatz",
-          "url": "https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+          "name": "Mike Waters",
+          "url": "https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq"
         }
       ],
-      "duration_ms": 162461,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD"
+      "duration_ms": 155075,
+      "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
+      "url": "https://open.spotify.com/track/6jJOhHyOgpIOHWq3DaFiyM"
     },
     {
-      "added_at": "2024-09-19 12:04:05",
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Elbows (feat. Troz\u00e9)",
+        "url": "https://open.spotify.com/album/65ebxZ9lVdUnhWT94Okw7K"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Troze",
+          "url": "https://open.spotify.com/artist/55P3gPnko8eY36IyUHC5gF"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Elbows (feat. Troz\u00e9)",
+      "url": "https://open.spotify.com/track/3p0z5sooMDJyprzbm9JD3N"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "I'm Too Sexy (Eric Kupper Remix)",
+        "url": "https://open.spotify.com/album/3zeM8aaMzhu4imh09FQ5fi"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "I'm Too Sexy (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/79luzgoRfJUmHakzks602J"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a"
+      },
+      "artists": [
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/047UnCFE2OuyfRR2kx0o5j"
+        },
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
+        },
+        {
+          "name": "Crasca",
+          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
+        }
+      ],
+      "duration_ms": 158015,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/3RAfb3xCWXRVo9m77hFwqQ"
+      },
+      "artists": [
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
+        },
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Girls Just Wanna Have Fun",
+      "url": "https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
+      "album": {
+        "name": "Junglin",
+        "url": "https://open.spotify.com/album/6GsZ9H6JpOaHIsyI8A8E3c"
+      },
+      "artists": [
+        {
+          "name": "Angel Janson",
+          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Junglin",
+      "url": "https://open.spotify.com/track/55m5dkip1lCp6DPeVnj07C"
+    },
+    {
+      "added_at": "2024-09-27 14:32:44",
       "album": {
         "name": "The Chant (feat. Savage) - Anderex Remix",
         "url": "https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz"
@@ -129,51 +277,27 @@
       "url": "https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ"
     },
     {
-      "added_at": "2024-09-19 12:05:14",
+      "added_at": "2024-09-27 14:32:44",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a"
+        "name": "Dominvs",
+        "url": "https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R"
       },
       "artists": [
         {
-          "name": "Lion",
-          "url": "https://open.spotify.com/artist/047UnCFE2OuyfRR2kx0o5j"
+          "name": "Raffaele Del Zingaro",
+          "url": "https://open.spotify.com/artist/7H5kcgVjOBdswviEpDMNgF"
         },
         {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
-        },
-        {
-          "name": "Crasca",
-          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
+          "name": "Jumphertz",
+          "url": "https://open.spotify.com/artist/0I91neoDzmKeuzbXTJwCW5"
         }
       ],
-      "duration_ms": 158015,
-      "name": "Knock",
-      "url": "https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx"
+      "duration_ms": 182189,
+      "name": "Dominvs",
+      "url": "https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh"
     },
     {
-      "added_at": "2024-09-19 12:06:12",
-      "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/3RAfb3xCWXRVo9m77hFwqQ"
-      },
-      "artists": [
-        {
-          "name": "Weekend Wonders",
-          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
-        },
-        {
-          "name": "Bianca Tilici",
-          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Girls Just Wanna Have Fun",
-      "url": "https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG"
-    },
-    {
-      "added_at": "2024-09-19 12:06:53",
+      "added_at": "2024-09-27 14:33:42",
       "album": {
         "name": "Chan Chan",
         "url": "https://open.spotify.com/album/0JrTNFTEiCBo2UPKtgMSHQ"
@@ -189,7 +313,7 @@
       "url": "https://open.spotify.com/track/1I5gFwsDUOcIJoz0sdfHAs"
     },
     {
-      "added_at": "2024-09-19 12:07:27",
+      "added_at": "2024-09-27 14:32:44",
       "album": {
         "name": "Favorite Mistakes (feat. Victoria Nadine) [VIP Mixes]",
         "url": "https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA"
@@ -213,600 +337,28 @@
       "url": "https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr"
     },
     {
-      "added_at": "2024-09-19 12:08:17",
+      "added_at": "2024-09-27 19:05:08",
       "album": {
-        "name": "Hours and Hours (Remixes)",
-        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
+        "name": "I Love The Way (feat. LEVi & Toddla T)",
+        "url": "https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         },
         {
-          "name": "Dropack",
-          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Hours and Hours - Dropack Remix",
-      "url": "https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF"
-    },
-    {
-      "added_at": "2024-09-19 12:08:17",
-      "album": {
-        "name": "Hours and Hours (Remixes)",
-        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
         },
         {
-          "name": "Parallel Lines",
-          "url": "https://open.spotify.com/artist/7fnYvZsEKXKoJtnsu7mgnU"
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
         }
       ],
-      "duration_ms": 283814,
-      "name": "Hours and Hours - Parallel Lines Remix",
-      "url": "https://open.spotify.com/track/5HJp6xSFqoANcH1i6UHaWI"
-    },
-    {
-      "added_at": "2024-09-19 12:08:17",
-      "album": {
-        "name": "Hours and Hours (Remixes)",
-        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Sonnero",
-          "url": "https://open.spotify.com/artist/1UCmm2m2khcmuvzJ0tuqBU"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Hours and Hours - Sonnero Remix",
-      "url": "https://open.spotify.com/track/0vdOEq5yJhtNrpzn2Tx8Xl"
-    },
-    {
-      "added_at": "2024-09-19 12:03:13",
-      "album": {
-        "name": "Dominvs",
-        "url": "https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R"
-      },
-      "artists": [
-        {
-          "name": "Raffaele Del Zingaro",
-          "url": "https://open.spotify.com/artist/7H5kcgVjOBdswviEpDMNgF"
-        },
-        {
-          "name": "Jumphertz",
-          "url": "https://open.spotify.com/artist/0I91neoDzmKeuzbXTJwCW5"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "Dominvs",
-      "url": "https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "VHS RAVE",
-        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "VHS RAVE",
-      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2024-09-13 09:00:13",
-      "album": {
-        "name": "U Got My Body (Remixes)",
-        "url": "https://open.spotify.com/album/7H4GP8h8RHS4nUEZv7Ak6g"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "U Got My Body (L_cio Remix)",
-      "url": "https://open.spotify.com/track/2INmTNt4RJ6MIv0LnG72qK"
-    },
-    {
-      "added_at": "2024-09-13 09:00:11",
-      "album": {
-        "name": "Feel What You Want - Robert Falcon Remix",
-        "url": "https://open.spotify.com/album/26X9kHIRrI7eGMosrfNkwi"
-      },
-      "artists": [
-        {
-          "name": "Floris van Oranje",
-          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Feel What You Want - Robert Falcon Remix",
-      "url": "https://open.spotify.com/track/4yR2MUdhnM7WzSuABMhiDa"
-    },
-    {
-      "added_at": "2024-09-13 09:00:11",
-      "album": {
-        "name": "Oh My (Dimitri K Remix)",
-        "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Oh My (Dimitri K Remix)",
-      "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
-    },
-    {
-      "added_at": "2024-09-13 08:33:02",
-      "album": {
-        "name": "Teufel",
-        "url": "https://open.spotify.com/album/7DN6ucZjue4uXoFmJtLjQ6"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "ORYMA",
-          "url": "https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5"
-        },
-        {
-          "name": "danzen",
-          "url": "https://open.spotify.com/artist/4FeLGx97hUMscWvgzmAAE9"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Teufel",
-      "url": "https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW"
-    },
-    {
-      "added_at": "2024-09-13 08:33:02",
-      "album": {
-        "name": "D\u00e9senchant\u00e9e",
-        "url": "https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL"
-      },
-      "artists": [
-        {
-          "name": "Funky Beatz",
-          "url": "https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r"
-        },
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD"
-    },
-    {
-      "added_at": "2024-09-13 08:33:02",
-      "album": {
-        "name": "Oh My (Dimitri K Remix)",
-        "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Oh My (Dimitri K Remix)",
-      "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
-    },
-    {
-      "added_at": "2024-09-13 08:33:02",
-      "album": {
-        "name": "Feel What You Want - Robert Falcon Remix",
-        "url": "https://open.spotify.com/album/26X9kHIRrI7eGMosrfNkwi"
-      },
-      "artists": [
-        {
-          "name": "Floris van Oranje",
-          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Feel What You Want - Robert Falcon Remix",
-      "url": "https://open.spotify.com/track/4yR2MUdhnM7WzSuABMhiDa"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/0usMuGjQfwmGga0W9Udqw6"
-      },
-      "artists": [
-        {
-          "name": "DAMIANO",
-          "url": "https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO"
-        },
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        }
-      ],
-      "duration_ms": 233709,
-      "name": "Kosmos",
-      "url": "https://open.spotify.com/track/3fewHPIXttoyGSA6Uhxege"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "A Horse With No Name (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 126681,
-      "name": "Dance Like U (with Riley Pearce)",
-      "url": "https://open.spotify.com/track/542RlSOC0TWXKX5H9k3Oiq"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Take Yo' Praise",
-        "url": "https://open.spotify.com/album/6LrJuyI8NRxTi8st02apst"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 169007,
-      "name": "Take Yo' Praise",
-      "url": "https://open.spotify.com/track/0okW8DpLYyl4oPfDAFZsiT"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/3pFB9jB2dvhtEmPppxWZkG"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 144517,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "SHADY (Side Of The Moon)",
-        "url": "https://open.spotify.com/album/2zBbEyeVF6mHL4mZDtKxAY"
-      },
-      "artists": [
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Shibui",
-          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "SHADY (Side Of The Moon)",
-      "url": "https://open.spotify.com/track/6gW0R1YE6L8rHB9b0SnCFq"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "P.A.R.T.Y.",
-        "url": "https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 172702,
-      "name": "P.A.R.T.Y.",
-      "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R"
-      },
-      "artists": [
-        {
-          "name": "Carneyval",
-          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Niet Te Lang Doen",
-        "url": "https://open.spotify.com/album/05UL8lTrxIZb4loPfAdtpx"
-      },
-      "artists": [
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 135547,
-      "name": "Niet Te Lang Doen",
-      "url": "https://open.spotify.com/track/0PQKIBxujfbN7GYp20dH56"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG"
-      },
-      "artists": [
-        {
-          "name": "Taurus",
-          "url": "https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K"
-        }
-      ],
-      "duration_ms": 181406,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 260997,
-      "name": "just stand there",
-      "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2024-09-10 09:59:56",
-      "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny"
-      },
-      "artists": [
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        },
-        {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
-        }
-      ],
-      "duration_ms": 172369,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs"
-    },
-    {
-      "added_at": "2024-09-10 12:22:06",
-      "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi"
-    },
-    {
-      "added_at": "2024-09-20 10:23:49",
-      "album": {
-        "name": "Talk About Us",
-        "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Talk About Us",
-      "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
-    },
-    {
-      "added_at": "2024-09-20 12:30:45",
-      "album": {
-        "name": "Here I Am EP",
-        "url": "https://open.spotify.com/album/7GQPdmanLRRL6HCI4ygzPg"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 187534,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/5nhejmamkDcQVumjP28eOg"
+      "duration_ms": 162207,
+      "name": "I Love The Way (feat. LEVi & Toddla T)",
+      "url": "https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7"
     }
   ],
   "unique_name": "New Dance Music Friday",

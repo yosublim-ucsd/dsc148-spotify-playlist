@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,263 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,273 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 23 | [beltane](https://open.spotify.com/track/5L4tNblwhlJJXKbx0yw63s) | [faery](https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a) | [beltane](https://open.spotify.com/album/0XljW2Zj1v9V8Yrm0qkfx7) | 3:53 |
 | 24 | [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 |
 | 25 | [These Days](https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [These Days](https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt) | 3:14 |
-| 26 | [Spring In Reverse](https://open.spotify.com/track/2Vb8n3TRMTGIqRRJqB9lmb) | [Momi](https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY) | [MOMI001](https://open.spotify.com/album/60RX6Y2tAFi22qvx5y8zo9) | 4:44 |
+| 26 | [Spring In Reverse](https://open.spotify.com/track/2Vb8n3TRMTGIqRRJqB9lmb) | [MOMI](https://open.spotify.com/artist/5GgLUiZY4n2L5XWPhp3heM) | [MOMI001](https://open.spotify.com/album/60RX6Y2tAFi22qvx5y8zo9) | 4:44 |
 | 27 | [Day Of Conquest](https://open.spotify.com/track/4aRUShwBYzKTub81apNczL) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Day Of Conquest](https://open.spotify.com/album/4fJgmPJsicQfiQld8WcE9c) | 2:57 |
 | 28 | [nothing to prove](https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/6KBKOiiUG7akDFH4J0mQDT) | 4:14 |
 | 29 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 |
 | 100 | [All 2 of Us](https://open.spotify.com/track/6Qzh9H5JQhM2t8ReA0Bs3J) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [All 2 of Us](https://open.spotify.com/album/35slanWlSyjXNIgcRmySV0) | 4:10 |
 
-Snapshot ID: `ZvVo4AAAAACfcVsMOgvNjQI9FJd8zKy/`
+Snapshot ID: `ZvVo4AAAAACZ0HzddQJGbfW+1fcmbh7l`

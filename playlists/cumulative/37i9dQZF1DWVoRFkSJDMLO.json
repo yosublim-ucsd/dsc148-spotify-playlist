@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums... welcome to the function. Cover: Oxlade \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums... welcome to the function. Cover: Bolu Ajibade \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 157714,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/6cW2VpTs5knXZy1wlF06ul"
@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196339,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3"
@@ -4733,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Dating Szn",
+        "url": "https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175698,
+      "name": "Dating Szn",
+      "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
+    },
+    {
+      "album": {
         "name": "Dats Gadzilla",
         "url": "https://open.spotify.com/album/0DmqZPBWat944nB0vuvWRN"
       },
@@ -5490,7 +5508,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201583,
       "name": "Drift (Remix)",
       "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
@@ -9239,6 +9257,24 @@
     },
     {
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/699GsKyuJ2KyXSmx4mVtNv"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0U0902JWMuTvmuDp7Am2qw"
+    },
+    {
+      "album": {
         "name": "Incoming",
         "url": "https://open.spotify.com/album/29IgCJBPJyr5pbhOB7MIvS"
       },
@@ -9589,6 +9625,28 @@
     },
     {
       "album": {
+        "name": "JEJEREJE (with Ginton)",
+        "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184722,
+      "name": "JEJEREJE (with Ginton)",
+      "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
+    },
+    {
+      "album": {
         "name": "JELO",
         "url": "https://open.spotify.com/album/4zyiP8Ik1unh9IeaW32Zb3"
       },
@@ -9862,7 +9920,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -10460,7 +10518,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 170666,
       "name": "Lalalala",
       "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
@@ -13315,6 +13373,24 @@
     },
     {
       "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169843,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
+    },
+    {
+      "album": {
         "name": "1DA SHALL NEVER END",
         "url": "https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT"
       },
@@ -15362,6 +15438,24 @@
       "duration_ms": 189307,
       "name": "Pon Di Toll",
       "url": "https://open.spotify.com/track/1rP09P2T8ByyxGOtDiZ5Iq"
+    },
+    {
+      "album": {
+        "name": "PON MY MIND",
+        "url": "https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100812,
+      "name": "PON MY MIND",
+      "url": "https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO"
     },
     {
       "album": {
@@ -17439,6 +17533,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3NI0wO8r93MQrdYrvsvQe9"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0Un7faRDF3UYaLXTL6Whce"
+    },
+    {
+      "album": {
         "name": "Shu-Peru",
         "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
       },
@@ -18764,7 +18876,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 187642,
       "name": "Sweat (Island File)",
       "url": "https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT"
@@ -21709,6 +21821,28 @@
     },
     {
       "album": {
+        "name": "Wheel Up (feat. Byron Messia)",
+        "url": "https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Wheel Up (feat. Byron Messia)",
+      "url": "https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9"
+    },
+    {
+      "album": {
         "name": "When I Wake Up (feat. Moliy)",
         "url": "https://open.spotify.com/album/0vtcPSUCkDWJoEFYgVVeTS"
       },
@@ -22288,7 +22422,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"

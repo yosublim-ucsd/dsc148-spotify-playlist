@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3B9VKbPLFpY.md) - [plain]
 
 > Encore une année passée avec une poussière dans l'œil...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,170 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,169 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3B9VKbPLFpY.md) - [plain]
 | 49 | [One More](https://open.spotify.com/track/1gKP4Zbl5niLgdBjV38kdD) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [One More](https://open.spotify.com/album/4CzjPP4j0ZSvYw1srrssLN) | 4:26 |
 | 50 | [Love Outside The Lines](https://open.spotify.com/track/6hOdoHA7FclK2uSPhUwxKF) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Double Vision](https://open.spotify.com/album/5ZcAnjx9IIxiJqqQIxpYMa) | 3:20 |
 
-Snapshot ID: `ZWcrgAAAAABz+6RWBvuLgh44MOixRQ/9`
+Snapshot ID: `ZWcrgAAAAAAvBNMG8OK/V+Nm0t3ytlwK`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: NotL\u00f6",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Levity",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
@@ -1590,6 +1590,24 @@
       "duration_ms": 161760,
       "name": "IF YOU JUST A PUNK",
       "url": "https://open.spotify.com/track/3nNLXUWa47wFoICvbDC1jb"
+    },
+    {
+      "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
     },
     {
       "album": {
@@ -2853,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "WARTYPE",
+        "url": "https://open.spotify.com/album/7JZQdnIDCbjzcru5K8KJNk"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "WARTYPE",
+      "url": "https://open.spotify.com/track/51Ao1TuzuVa8lB7aW4ovEe"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -2938,7 +2978,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"

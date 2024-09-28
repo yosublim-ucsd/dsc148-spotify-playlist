@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240677,
+  "num_followers": 240662,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAAuG87Nd8X0eB5DyC23hekh",
+  "snapshot_id": "ZvYtwAAAAACOQXWwlDbrNQqRv9Lvr4lm",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "PLEASE",
+        "url": "https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz"
+      },
+      "artists": [
+        {
+          "name": "Red Rosamond",
+          "url": "https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3"
+        }
+      ],
+      "duration_ms": 265861,
+      "name": "PLEASE",
+      "url": "https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -1625,30 +1657,6 @@
       "url": "https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/0aMLtqYaHjMKS4NeOw91Ug"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        },
-        {
-          "name": "The California Jet Club",
-          "url": "https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022"
-        },
-        {
-          "name": "Maino",
-          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
-        }
-      ],
-      "duration_ms": 177925,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "All She Wanna Do",
@@ -1731,30 +1739,6 @@
       "duration_ms": 144588,
       "name": "Earworm",
       "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Chicken Wings (Remix)",
-        "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
-        }
-      ],
-      "duration_ms": 165565,
-      "name": "Chicken Wings - Remix",
-      "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
     },
     {
       "added_at": "2022-03-25 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,219 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,401 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 99 | [Green River](https://open.spotify.com/track/1ckVrHITCk9BMhyRcsnblh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:34 |
 | 100 | [Proud Mary](https://open.spotify.com/track/6mv76kovZyVB0UHbqUsee0) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(40th Anniversary Edition\)](https://open.spotify.com/album/04CGA9H5xjYGnGMB8cLYRv) | 3:07 |
 
-Snapshot ID: `ZoiBPQAAAAD9DPejHImvZjBB6Z/VDgQP`
+Snapshot ID: `ZoiBPQAAAACh7dWcZ1NLr7VF5/5Hz1JY`

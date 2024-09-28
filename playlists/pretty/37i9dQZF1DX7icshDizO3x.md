@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > Stray Kids LIVE Blu\-ray 『Stray Kids 5\-STAR Dome Tour 2023』発売記念。プレイリストで公演を振り返ろう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,388 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,484 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 24 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
 | 25 | [Haven](https://open.spotify.com/track/2rvrEiO3OFHxjfnVYNVG0y) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 3:19 |
 
-Snapshot ID: `ZvEuEAAAAABEz8NqRY+mdXAwPyvJJPWa`
+Snapshot ID: `ZvEuEAAAAADdZ746lOCMQ2bmR6dNgFrs`

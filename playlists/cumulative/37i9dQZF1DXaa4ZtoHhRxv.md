@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-209 songs - 11 hr 14 min
+210 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Backroad Flyin' \- Matthew Parker Remix](https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Backroad Flyin' \(Matthew Parker Remix\)](https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL) | 3:02 | 2022-08-20 |  |
 | [Barefoot Blue Jean Night \(Dee Jay Silver Remix\)](https://open.spotify.com/track/71WQp27TidhDZeSDly2JHN) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 3:14 | 2021-12-10 |  |
 | [Be Like That \(feat\. Swae Lee & Khalid\) \[Matt Medved Remix\]](https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Matt Medved](https://open.spotify.com/artist/5xmKSoBLGN455TjWbaFcZa) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:24 | 2021-12-10 |  |
+| [Beautiful As U \- VAVO Remix](https://open.spotify.com/track/0U9u17dJx9paokliaszAEr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Beautiful As U](https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL) | 2:17 | 2024-09-27 |  |
 | [Beautiful Drug \(feat\. Avicii\) \- Remix](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Beautiful Drug \(feat\. Avicii\) \[Remix\]](https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo) | 2:44 | 2024-02-16 |  |
 | [Best Shot \(Heyder Remix\)](https://open.spotify.com/track/7aIgbYK51uT3Z98lUiUmiR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Best Shot \(The Remixes\)](https://open.spotify.com/album/7LqFArCOW2x8pDqInfY7AM) | 3:02 | 2023-09-15 | 2024-04-19 |
 | [Best Shot \- Heyder Remix](https://open.spotify.com/track/1ulAkhZoituHjFJS14BwFp) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Best Shot \(The Remixes\)](https://open.spotify.com/album/5LKLx3GBnQx2i6WOaAGQ59) | 3:02 | 2021-12-10 |  |

@@ -1,28 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis",
-  "num_followers": 52260,
+  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
+  "num_followers": 52270,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAAjdjiiauzBpUKYAvO61cud",
+  "snapshot_id": "ZvYtwAAAAAD/flSsadoPwh8MhKcFGSHS",
   "tracks": [
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "SAFE FLIGHT",
-        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 164064,
-      "name": "2242",
-      "url": "https://open.spotify.com/track/7FwFDboPE2UeUkRgYgSc8g"
+      "duration_ms": 247607,
+      "name": "SLO MO",
+      "url": "https://open.spotify.com/track/3FYaHKp86M6wx5OnnqU4PO"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -71,6 +71,62 @@
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Take Your Time (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 235461,
+      "name": "Take Your Time (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 154729,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/11kfqOJ8n6BcUrTBkFgeZO"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3iwoxLMGL99GcxkrgoPYm1"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -125,6 +181,26 @@
       "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Passenger Princess (Remix)",
+        "url": "https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 220122,
+      "name": "Passenger Princess (feat. Aqyila)",
+      "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "LOVE/HATE Pt. 2",
@@ -139,6 +215,38 @@
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/21zXRipIC8QKCDRhKtE9zN"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4gkAGUK1KaWJp6IDBZNyWs"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 164064,
+      "name": "2242",
+      "url": "https://open.spotify.com/track/7FwFDboPE2UeUkRgYgSc8g"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -265,6 +373,22 @@
       "url": "https://open.spotify.com/track/7uOLj1Vo41c6NTYGeaCFlY"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Pivot//",
@@ -339,6 +463,22 @@
       "duration_ms": 186848,
       "name": "pussy suicide",
       "url": "https://open.spotify.com/track/2PQYnziyuyOhMKc8hISt11"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
     },
     {
       "added_at": "2024-08-23 05:24:21",
@@ -1903,26 +2043,6 @@
     {
       "added_at": "2024-06-07 12:03:07",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
-    },
-    {
-      "added_at": "2024-06-07 12:03:07",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/3oPRTBwivYD0ppPh7vaGYl"
       },
@@ -2125,38 +2245,6 @@
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
     },
     {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/6WlivRKfQyk9vLeG8ljV3R"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 252809,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
-    },
-    {
-      "added_at": "2024-05-31 07:31:18",
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 236904,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
-    },
-    {
       "added_at": "2024-05-24 07:18:06",
       "album": {
         "name": "5 Minutes",
@@ -2261,26 +2349,6 @@
       "url": "https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p"
     },
     {
-      "added_at": "2024-05-24 07:18:06",
-      "album": {
-        "name": "Like Dat (feat. Ambr\u00e9)",
-        "url": "https://open.spotify.com/album/1qP8ynOHPVFbG1Un3aY7xR"
-      },
-      "artists": [
-        {
-          "name": "LARA'",
-          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Like Dat (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/1Th19MzhiHUJ61zfzr4sNH"
-    },
-    {
       "added_at": "2024-04-12 04:01:00",
       "album": {
         "name": "nowhere, fast",
@@ -2317,22 +2385,6 @@
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
     },
     {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "Im Him (First Quarter)",
-        "url": "https://open.spotify.com/album/7a6k7rlAAlCF0euKrR8vL3"
-      },
-      "artists": [
-        {
-          "name": "Papa Jay",
-          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5OickbLkupQS7ox3Jy3OLt"
-    },
-    {
       "added_at": "2024-03-22 08:51:00",
       "album": {
         "name": "The Honeymoon Phase",
@@ -2347,22 +2399,6 @@
       "duration_ms": 207128,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9"
-    },
-    {
-      "added_at": "2024-04-05 04:05:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4BBpdqlRq8hF7MRZhFSLyY"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 162730,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4rECYXCCge21CsrgAilQ46"
     },
     {
       "added_at": "2024-03-29 07:17:40",
@@ -2455,38 +2491,6 @@
       "duration_ms": 183333,
       "name": "Don't Want A Love Song",
       "url": "https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
-        "name": "Stealin' Love",
-        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 140768,
-      "name": "Stealin' Love",
-      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/3cCbOPhkQHY2CEtowc1qMw"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4qOJorQ4s6GXLbChKSIhzP"
     },
     {
       "added_at": "2024-03-15 04:00:00",

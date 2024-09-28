@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 22912,
+  "num_followers": 22918,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADGLNtYDJQnxWR53nZ6fhp8",
+  "snapshot_id": "ZvSkAAAAAABJubhobCqZ0IS3VX2eC05s",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Orar e Adorar: O Cora\u00e7\u00e3o de Quem Adora",
+        "url": "https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 356053,
+      "name": "A Do\u00e7ura do Teu Falar",
+      "url": "https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doce Presen\u00e7a",
         "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 247104,
       "name": "Doce Presen\u00e7a",
       "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar: O Cora\u00e7\u00e3o de Quem Adora",
-        "url": "https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 356053,
-      "name": "A Do\u00e7ura do Teu Falar",
-      "url": "https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Deus Conhece",
-      "url": "https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
         "url": "https://open.spotify.com/album/2EporWTpdlfym5M0bUye72"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 375800,
       "name": "O Consolo para o Inconsol\u00e1vel",
       "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/5PmmggoakMGj00jQPJbOVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 348893,
       "name": "S\u00f3 o Senhor \u00e9 Deus",
       "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/5PmmggoakMGj00jQPJbOVz"
     },
     {
       "added_at": null,

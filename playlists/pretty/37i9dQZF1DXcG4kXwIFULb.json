@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 173389,
+  "num_followers": 173494,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFVWQAAAAAjHONao7a3cZvzUjsRpDdv",
+  "snapshot_id": "ZpFVWQAAAABBcGKavQKpAHKbFoyxFrhQ",
   "tracks": [
     {
       "added_at": "2024-07-12 16:10:01",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        }
+      ],
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Parts of the Process",
-        "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "Part of the Process",
-      "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Electric Lazyland",
         "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Parts of the Process",
+        "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "Part of the Process",
+      "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Beyond Orange",
-        "url": "https://open.spotify.com/album/2Zlbe3OlqEYiNHUB1qZbhF"
-      },
-      "artists": [
-        {
-          "name": "Beyond Orange",
-          "url": "https://open.spotify.com/artist/25nW1bRGLdYp1YBmHGzrbH"
-        }
-      ],
-      "duration_ms": 263778,
-      "name": "Cafe Blackjack",
-      "url": "https://open.spotify.com/track/1sVySdRgpGjiQErUUzuXri"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Parts of the Process",
         "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 331626,
       "name": "Trigger Hippie",
       "url": "https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Beyond Orange",
+        "url": "https://open.spotify.com/album/2Zlbe3OlqEYiNHUB1qZbhF"
+      },
+      "artists": [
+        {
+          "name": "Beyond Orange",
+          "url": "https://open.spotify.com/artist/25nW1bRGLdYp1YBmHGzrbH"
+        }
+      ],
+      "duration_ms": 263778,
+      "name": "Cafe Blackjack",
+      "url": "https://open.spotify.com/track/1sVySdRgpGjiQErUUzuXri"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Hyena",
-        "url": "https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ"
-      },
-      "artists": [
-        {
-          "name": "Red Snapper",
-          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
-        }
-      ],
-      "duration_ms": 329578,
-      "name": "Village Tap",
-      "url": "https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Chillout Album 3",
         "url": "https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 287293,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Hyena",
+        "url": "https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ"
+      },
+      "artists": [
+        {
+          "name": "Red Snapper",
+          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+        }
+      ],
+      "duration_ms": 329578,
+      "name": "Village Tap",
+      "url": "https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Psyence Fiction",
         "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Slip Into Something More Comfortable",
-        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
-      },
-      "artists": [
-        {
-          "name": "Kinobe",
-          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
-        }
-      ],
-      "duration_ms": 287776,
-      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
-      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Radio Retaliation",
         "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 288933,
       "name": "Sweet Tides",
       "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Slip Into Something More Comfortable",
+        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+      },
+      "artists": [
+        {
+          "name": "Kinobe",
+          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+        }
+      ],
+      "duration_ms": 287776,
+      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
+      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1455,62 +1455,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        },
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
-      "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Simple Science EP",
-        "url": "https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Danny Pratt",
-          "url": "https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo"
-        }
-      ],
-      "duration_ms": 463399,
-      "name": "Simple Science - 12\" Version",
-      "url": "https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Nouvelle Vague",
         "url": "https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh"
       },
@@ -1523,22 +1467,6 @@
       "duration_ms": 198026,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "London Funk Volume 1",
-        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
-      },
-      "artists": [
-        {
-          "name": "London Funk Allstars",
-          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Chun Li vs. Wah Wah Man",
-      "url": "https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1575,6 +1503,78 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
+      "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Simple Science EP",
+        "url": "https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Danny Pratt",
+          "url": "https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo"
+        }
+      ],
+      "duration_ms": 463399,
+      "name": "Simple Science - 12\" Version",
+      "url": "https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "London Funk Volume 1",
+        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Chun Li vs. Wah Wah Man",
+      "url": "https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Play & Play: The B Sides",
         "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 358213,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1655,22 +1671,6 @@
       "duration_ms": 286386,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     },
     {
       "added_at": "2024-07-12 16:10:01",

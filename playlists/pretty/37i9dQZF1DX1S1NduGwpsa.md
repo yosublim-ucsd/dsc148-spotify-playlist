@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,167 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,226 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
 | 50 | [Fly Baby](https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Fly Baby](https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR) | 5:40 |
 
-Snapshot ID: `ZvXZYAAAAAAEpaXVK8dEMYEJ6RXu3YGs`
+Snapshot ID: `ZvXZYAAAAAA3UWIDn592eCowc4y7KwoR`

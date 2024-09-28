@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Delicatoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,749 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,752 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 69 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 |
 | 70 | [VICOLI DI NAPOLI](https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [VICOLI DI NAPOLI](https://open.spotify.com/album/6zAL24UJp5gLtB22jpSn6d) | 2:38 |
 
-Snapshot ID: `ZvXZnAAAAADg84k8lvT4r6bnx8PISxrt`
+Snapshot ID: `ZvXZnAAAAAB3TjF3vl7CgkpB4ewWghEI`

@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Souldier",
+        "url": "https://open.spotify.com/album/1qlfzN8ITUS58EU0T7PAWX"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/44ahv3Zj4FOJoy8gJLZF9B"
+    },
+    {
+      "album": {
         "name": "AMBER",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
       },
@@ -472,6 +490,24 @@
       "duration_ms": 227026,
       "name": "Amour plastique",
       "url": "https://open.spotify.com/track/3vTQ939Tlk6CXYtQgMOFUR"
+    },
+    {
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/6ag1Md5xNt3VvOdN0UbQDh"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Amour X",
+      "url": "https://open.spotify.com/track/28K0Hw0zB40U4yLiRaaxmS"
     },
     {
       "album": {
@@ -672,6 +708,24 @@
       "duration_ms": 201426,
       "name": "Awa",
       "url": "https://open.spotify.com/track/6WWOAUl2LhG9PG9UcQPVUi"
+    },
+    {
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
     },
     {
       "album": {
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172368,
       "name": "DANS MON MONDE",
       "url": "https://open.spotify.com/track/0R3uBKGyMHv8loHPX1X4hz"
@@ -4298,7 +4352,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 184984,
       "name": "Je fais le sourd",
       "url": "https://open.spotify.com/track/2c5V0zLWBGh6qg15AJZOAn"
@@ -4374,6 +4428,24 @@
       "duration_ms": 258946,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/1nVXhoO493AbkHvdbdYjQY"
+    },
+    {
+      "album": {
+        "name": "Ateyaba",
+        "url": "https://open.spotify.com/album/5t6841R6FNAGkEqqLb6OC4"
+      },
+      "artists": [
+        {
+          "name": "Ateyaba",
+          "url": "https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272853,
+      "name": "Jen Selter",
+      "url": "https://open.spotify.com/track/0lS7ahEMzhAt0cwcMjFWJa"
     },
     {
       "album": {
@@ -4896,7 +4968,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181942,
       "name": "La trace",
       "url": "https://open.spotify.com/track/0E18hNahhPTSipvzAF31BB"
@@ -5078,7 +5150,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 117165,
       "name": "las vegas",
       "url": "https://open.spotify.com/track/1IQ7K7VlR6vbATMo5Tt7SB"
@@ -5645,6 +5717,24 @@
     },
     {
       "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
+    },
+    {
+      "album": {
         "name": "Mahmouma",
         "url": "https://open.spotify.com/album/0B1kHxnsb0xVsu2zee5U2u"
       },
@@ -6118,7 +6208,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 223141,
       "name": "Michael Jordan",
       "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
@@ -9179,6 +9269,24 @@
     },
     {
       "album": {
+        "name": "Jesuispass\u00e9chezSo",
+        "url": "https://open.spotify.com/album/0lhoVQfxS85IViefuzVTxl"
+      },
+      "artists": [
+        {
+          "name": "Sofiane",
+          "url": "https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "Tout l'monde s'en fout",
+      "url": "https://open.spotify.com/track/7syABtsvHvD3nO7OG91Ani"
+    },
+    {
+      "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
@@ -9362,6 +9470,28 @@
       "duration_ms": 217000,
       "name": "Tu Me Donne Des Id\u00e9es",
       "url": "https://open.spotify.com/track/0nMl1BkJR6d9SwhrKEzq5C"
+    },
+    {
+      "album": {
+        "name": "Johnny Niuum ne meurt jamais",
+        "url": "https://open.spotify.com/album/0Va85Zfy8njcGaq7mvk3Ph"
+      },
+      "artists": [
+        {
+          "name": "Sadek",
+          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
+        },
+        {
+          "name": "Brulux",
+          "url": "https://open.spotify.com/artist/1LYOKaB67uPrzpNMIk10k9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240535,
+      "name": "Tu vas rien faire",
+      "url": "https://open.spotify.com/track/3A3D6xWNthYOn1utv5NfwH"
     },
     {
       "album": {
@@ -9622,7 +9752,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 150733,
       "name": "Wayeh",
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"

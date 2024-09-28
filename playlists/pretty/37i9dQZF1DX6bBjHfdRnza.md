@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Megra\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,832 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,861 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [All My Friends Are Hot](https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All My Friends Are Hot](https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0) | 2:59 |
 | 100 | [The Auction](https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw) | 2:56 |
 
-Snapshot ID: `ZvSoFgAAAADw+xPCoqyovkPwmx0YbAaY`
+Snapshot ID: `ZvSoFgAAAAAcSEYNm9cFSIm6VTH+QEfX`

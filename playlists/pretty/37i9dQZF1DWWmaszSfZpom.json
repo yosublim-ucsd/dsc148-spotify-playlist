@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 956820,
+  "num_followers": 956784,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZJmbewAAAABv3PoLYZP1JZcr0xEMouhS",
+  "snapshot_id": "ZJmbewAAAAD1+gEWu/R81yyGbit+k0hX",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1639,6 +1639,46 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "MTG \u00c9 Sempre Assim",
+        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
+      },
+      "artists": [
+        {
+          "name": "DJ ARTHUZIIN",
+          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
+        },
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
+        },
+        {
+          "name": "Mc Faelzin",
+          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        },
+        {
+          "name": "Dj Vitin do Pc",
+          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "MTG \u00c9 Sempre Assim",
+      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
         "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
       },
@@ -1787,42 +1827,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "MTG \u00c9 Sempre Assim",
-        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
       },
       "artists": [
         {
-          "name": "DJ ARTHUZIIN",
-          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
-        },
-        {
-          "name": "Dj Lv Mdp",
-          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
-        },
-        {
-          "name": "Mc Faelzin",
-          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "DJ PH DA SERRA",
-          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
-        },
-        {
-          "name": "Dj Vitin do Pc",
-          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         }
       ],
-      "duration_ms": 162461,
-      "name": "MTG \u00c9 Sempre Assim",
-      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1843,22 +1859,6 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
     },
     {
       "added_at": "2023-06-26 14:06:50",

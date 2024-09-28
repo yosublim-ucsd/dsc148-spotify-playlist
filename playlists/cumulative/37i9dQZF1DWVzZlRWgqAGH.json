@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Duckwrth",
+  "description": "Music for your soul. Cover: WILLOW",
   "name": "BUTTER",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "album": {
         "name": "souvenir",
         "url": "https://open.spotify.com/album/7A0N0maEJ8ZwVAPKzYS416"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 264133,
       "name": "b i g f e e l i n g s",
       "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
@@ -3647,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/57EyuWqjZnFtpUpONrCVWK"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/0Xa178cLLO8OMGoZWGje8P"
+    },
+    {
+      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/01zYlBVi10la41vL2xMsJ0"
       },
@@ -4464,6 +4500,28 @@
       "duration_ms": 168244,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam"
+    },
+    {
+      "album": {
+        "name": "Centigrade. (feat. Nao)",
+        "url": "https://open.spotify.com/album/3U6jOiUiOZS7q8WAZmt2H3"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Centigrade. (feat. Nao)",
+      "url": "https://open.spotify.com/track/3cQLR1SFDxoJ8LTHYmFALQ"
     },
     {
       "album": {
@@ -6084,7 +6142,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 342670,
       "name": "Dey",
       "url": "https://open.spotify.com/track/3sdmC4XD7vCmiZmrljv6jO"
@@ -6474,7 +6532,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
@@ -12307,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176785,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
+    },
+    {
+      "album": {
         "name": "The View / In My Head",
         "url": "https://open.spotify.com/album/0dI9CNhsq619IK9WiXwHDf"
       },
@@ -12623,6 +12699,24 @@
     },
     {
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181780,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "album": {
         "name": "I\u00b4m Not Tryna Be Your Girl",
         "url": "https://open.spotify.com/album/0hMu3QPM2PavI2I1joETvf"
       },
@@ -12638,6 +12732,24 @@
       "duration_ms": 169014,
       "name": "I\u00b4m Not Tryna Be Your Girl",
       "url": "https://open.spotify.com/track/4lVharwL6BNgHX9BnsBesl"
+    },
+    {
+      "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "I\u2019ll Go Anywhere",
+      "url": "https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi"
     },
     {
       "album": {
@@ -12674,7 +12786,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190623,
       "name": "JAI'S SONG (FALLING)",
       "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
@@ -13400,7 +13512,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151765,
       "name": "LEMON TREES",
       "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
@@ -14496,6 +14608,24 @@
       "duration_ms": 215611,
       "name": "Love That Never",
       "url": "https://open.spotify.com/track/0v0zkrAqWZZwok2ulshRHt"
+    },
+    {
+      "album": {
+        "name": "LOVE, but WHATEVER",
+        "url": "https://open.spotify.com/album/5Nja266FYwEurQxlKKiH2t"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LOVE, but WHATEVER",
+      "url": "https://open.spotify.com/track/1hYujx1xDEHOtbqCA36mM2"
     },
     {
       "album": {
@@ -16257,6 +16387,28 @@
     },
     {
       "album": {
+        "name": "Mystery ft. PJ Morton",
+        "url": "https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194184,
+      "name": "Mystery ft. PJ Morton",
+      "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -16676,6 +16828,28 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
     },
     {
       "album": {
@@ -17272,7 +17446,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 180720,
       "name": "Old Life",
       "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
@@ -18348,7 +18522,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 159818,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
@@ -21560,7 +21734,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 271502,
       "name": "Something",
       "url": "https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh"
@@ -21816,6 +21990,24 @@
       "duration_ms": 199411,
       "name": "southside",
       "url": "https://open.spotify.com/track/46JqXZXv89HG8ibQsMNg7n"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228420,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR"
     },
     {
       "album": {
@@ -22444,7 +22636,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174908,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/1dvXEFLw3OtyMSRBsNFS3s"
@@ -22484,7 +22676,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 145846,
       "name": "STYLE",
       "url": "https://open.spotify.com/track/5IGpfCdiMkLhJEN9hU8WYo"
@@ -25436,7 +25628,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 144429,
       "name": "want",
       "url": "https://open.spotify.com/track/0fuglRZh54xvwLKAbnFAKE"
@@ -25462,6 +25654,28 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+    },
+    {
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "album": {
@@ -26038,6 +26252,28 @@
       "duration_ms": 157466,
       "name": "Where Did the Night Go",
       "url": "https://open.spotify.com/track/69lWznHbSlGRz7ZpW48rVt"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/32WNLxseDfN8zB41XBp4IB"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251453,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/6MaFqd6VkIl3s9r1t2Jmzg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,502 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 75 | [Kattida Kanaja](https://open.spotify.com/track/6nByxU4WMi5sUiipyRQlCv) | [Basavaraj Narendra](https://open.spotify.com/artist/4q7mP1jGEu5xvxJ5aFPFYj), [Manjula Gururaj](https://open.spotify.com/artist/75HAL44LxgiktGqiyaf1B9) | [Kattida Kanaja \- Single](https://open.spotify.com/album/4kwYsDa2ybRP83vnYqGc2Y) | 8:15 |
 | 76 | [AMADA](https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [AMADA](https://open.spotify.com/album/12q9qvqT21dpZAr3z4sMY3) | 4:24 |
 
-Snapshot ID: `ZvEBwQAAAABFGdjpjuChD+/Tgti1Zx3K`
+Snapshot ID: `ZvEBwQAAAAB9yP/+cRzz7wBCUQWgeP9w`

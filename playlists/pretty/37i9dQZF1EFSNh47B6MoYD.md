@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 142 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 142 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 48 | [A Tiempo](https://open.spotify.com/track/1sq9qmnFtqHredKwbGnp2W) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [A Tiempo](https://open.spotify.com/album/6wni7QWK8sOUguXBe37mAz) | 3:10 |
 | 49 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
 | 50 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
-| 51 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
-| 52 | [Enséñame a Vivir Sin Ti \- Bolero Version](https://open.spotify.com/track/0IC8wEVWUTXycJDQUTlTE4) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:03 |
+| 51 | [Enséñame a Vivir Sin Ti \- Bolero Version](https://open.spotify.com/track/0IC8wEVWUTXycJDQUTlTE4) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:03 |
+| 52 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
 | 53 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
 | 54 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
 | 55 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 104 | [Até Logo](https://open.spotify.com/track/5GN0ecahtja4wD7mpjvSyw) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:54 |
 | 105 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4rkr5Irpn5fRwwkgGSiGdl) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:18 |
 | 106 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 |
-| 107 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 |
-| 108 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
+| 107 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
+| 108 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 |
 | 109 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
 | 110 | [En Exclusiva](https://open.spotify.com/track/2DjMvChCKP3nOoQ9VlKcxW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:26 |
 | 111 | [Back to the Basics](https://open.spotify.com/track/1u3e9Vhg9LYv6GvLN6xqUD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/6foXmtdGJFnpyzdolnSTpM) | 3:28 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbdNaAAAAACLOUaN8nALZDmgi0n6rFj1`
+Snapshot ID: `AbdTCAAAAACBaViyt+KopAQxqDZXiI/V`

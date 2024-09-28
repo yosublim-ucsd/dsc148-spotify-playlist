@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "A Glance Across the Room",
+        "url": "https://open.spotify.com/album/4tXlHGMflBX6647ppnPqVI"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228398,
+      "name": "A Glance Across the Room",
+      "url": "https://open.spotify.com/track/1OaBvkhFNk15BH5C13vPgc"
+    },
+    {
+      "album": {
         "name": "A Golden Hue",
         "url": "https://open.spotify.com/album/3kTxzI9MZSEBWccFriUQif"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 202769,
       "name": "A Wondrous Day at Sea",
       "url": "https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr"
+    },
+    {
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2XTaewXMZQDcjVpQk8KvP6"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208937,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2DC3SUlKd9xV04eGFntdv5"
     },
     {
       "album": {
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 212579,
       "name": "All Is Well Now",
       "url": "https://open.spotify.com/track/0VPgJ6NZ9EQ9gBa7w61Aom"
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 225946,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
@@ -4088,7 +4124,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 244733,
       "name": "Confidant",
       "url": "https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE"
@@ -6037,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Feeling Free",
+        "url": "https://open.spotify.com/album/0kkW65G61JSguzObTSRQuk"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/4R50lEb49kbdbzMQHg16RP"
+    },
+    {
+      "album": {
         "name": "Ferocious Beauty",
         "url": "https://open.spotify.com/album/6x09MEb3T8f6MJx8cEE3lG"
       },
@@ -6750,7 +6804,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 197279,
       "name": "French books",
       "url": "https://open.spotify.com/track/6MWz69gBN3Es6dEk3OeMZF"
@@ -7194,6 +7248,24 @@
       "duration_ms": 212768,
       "name": "Grasslands",
       "url": "https://open.spotify.com/track/49AapllCCkhi3AsZ7lW5Tp"
+    },
+    {
+      "album": {
+        "name": "Greetings",
+        "url": "https://open.spotify.com/album/0D3DY6mh9O7VytBTGRZees"
+      },
+      "artists": [
+        {
+          "name": "The Urban Trio",
+          "url": "https://open.spotify.com/artist/64HWGZP6BojFjQ7P8y5Zn9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227274,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/2nzSZbNLSwdOAQZXqk7ITn"
     },
     {
       "album": {
@@ -7910,7 +7982,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 279206,
       "name": "How She Walks",
       "url": "https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk"
@@ -9132,7 +9204,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 204617,
       "name": "Impressive-looking",
       "url": "https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2"
@@ -12558,7 +12630,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182563,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
@@ -16833,6 +16905,24 @@
     },
     {
       "album": {
+        "name": "She Said Goodbye to Me",
+        "url": "https://open.spotify.com/album/2DnRDmh354iJaNfqFkde8c"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211617,
+      "name": "She Said Goodbye to Me",
+      "url": "https://open.spotify.com/track/1NZhSVsiZblW5AlaaLsMX3"
+    },
+    {
+      "album": {
         "name": "She Skirts Away",
         "url": "https://open.spotify.com/album/3C88Osqdhy7MjzcUsM5bW8"
       },
@@ -17694,6 +17784,24 @@
       "duration_ms": 219069,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
+    },
+    {
+      "album": {
+        "name": "Song for Us",
+        "url": "https://open.spotify.com/album/4JQRaH0ERIPpqLVQm0bpqi"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221137,
+      "name": "Song for Us",
+      "url": "https://open.spotify.com/track/2zmhqzFeagL6yry1kEvGT5"
     },
     {
       "album": {
@@ -19839,6 +19947,24 @@
     },
     {
       "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/5JkyU3K3UiykUp8xluYvnC"
+      },
+      "artists": [
+        {
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/71R9uY40h8SwfXdwelSH81"
+    },
+    {
+      "album": {
         "name": "The Turning Point",
         "url": "https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP"
       },
@@ -21276,7 +21402,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 200000,
       "name": "Walk Beside Me",
       "url": "https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al"

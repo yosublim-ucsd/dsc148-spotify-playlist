@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Autumn Nocturne",
+        "url": "https://open.spotify.com/album/4Ba6gHR346eUIFoPnu4mxI"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226880,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
+    },
+    {
+      "album": {
         "name": "Baby Won't You Please Come Home",
         "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
       },
@@ -1285,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
@@ -2194,7 +2230,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
@@ -2694,6 +2730,32 @@
       "duration_ms": 249541,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
+    },
+    {
+      "album": {
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/6SmfZ5wFGLNLUh5EF9PA2s"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Cy Leo \u4f55\u5353\u5f65",
+          "url": "https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206862,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/7Eix6KfprSgokDRf0vZ8KK"
     },
     {
       "album": {
@@ -4286,7 +4348,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 154871,
       "name": "The Lemonade Song",
       "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"

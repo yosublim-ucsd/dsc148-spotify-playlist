@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Slow Burn - Deluxe Edition",
+        "url": "https://open.spotify.com/album/25hWfDvrgbUWNjTgA3s3fK"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205616,
+      "name": "80 Proof",
+      "url": "https://open.spotify.com/track/7ilPwFu8bGT0xvvmKERG2r"
+    },
+    {
+      "album": {
         "name": "Everything Is Dangerous But Nothing's Surprising",
         "url": "https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD"
       },
@@ -1924,6 +1942,24 @@
       "duration_ms": 193557,
       "name": "Countdown To Shutdown",
       "url": "https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt"
+    },
+    {
+      "album": {
+        "name": "Country Mile / Picture Of You (X+W)",
+        "url": "https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298246,
+      "name": "Country Mile",
+      "url": "https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0"
     },
     {
       "album": {
@@ -6670,7 +6706,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205782,
       "name": "NERVOUS",
       "url": "https://open.spotify.com/track/5eCi0WNi38vEKZeXr5kEAs"
@@ -11076,7 +11112,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195099,
       "name": "We Made It Look Easy",
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"

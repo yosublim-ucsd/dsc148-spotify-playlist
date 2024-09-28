@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30231,
+  "num_followers": 30233,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPdddTP5KbIK7xARG3QJJXOJ/xe7j1",
+  "snapshot_id": "AAAPe7spLJ7iSMGrTKUlNo0WG95ZzkaE",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-09-27 16:17:12",
+      "album": {
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "duration_ms": 99927,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
     },
     {
       "added_at": "2024-09-25 10:47:54",
@@ -127,6 +147,22 @@
       "duration_ms": 166521,
       "name": "Just A Western - Edit",
       "url": "https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ"
+    },
+    {
+      "added_at": "2024-09-27 09:20:07",
+      "album": {
+        "name": "New Internationale",
+        "url": "https://open.spotify.com/album/1ZPLPEVm0f3SSBiDPJZjfx"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/3HQtrJOoNZjIzIxxNMev0b"
     },
     {
       "added_at": "2024-09-24 16:52:02",
@@ -711,46 +747,6 @@
       "duration_ms": 224316,
       "name": "KY\u014cFUNOHOSHI",
       "url": "https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU"
-    },
-    {
-      "added_at": "2024-07-15 17:57:23",
-      "album": {
-        "name": "nothing",
-        "url": "https://open.spotify.com/album/0v16yMWDVFuWw2atNvUbEJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "nothing",
-      "url": "https://open.spotify.com/track/1kUDl1JDC3GSIsoWQNzp0L"
-    },
-    {
-      "added_at": "2024-07-10 16:26:41",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/1XYby0uDKyROqB5nWWdSOv"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

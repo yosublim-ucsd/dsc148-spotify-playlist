@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,879 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,877 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [生命ある者へ](https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター3 \(tri\-\) オリジナル・サウンドトラック](https://open.spotify.com/album/34a2F897NiFXJry79ahuz3) | 3:09 |
 | 50 | [閃烈なる蒼光/ジンオウガ](https://open.spotify.com/track/02PIKRaYBRtfJ2s7LBbBCj) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集III ～モンスターハンターポータブル 3rd&レアトラック～](https://open.spotify.com/album/2plfcB6X4MfuNqmFohiK2t) | 2:47 |
 
-Snapshot ID: `ZIsPAwAAAAAka20aEYn9dkOAgkAoL52/`
+Snapshot ID: `ZIsPAwAAAACbhuAbaGIFBHVDpu2LOSfh`

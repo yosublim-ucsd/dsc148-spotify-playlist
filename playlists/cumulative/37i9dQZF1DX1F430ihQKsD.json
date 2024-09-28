@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
@@ -2024,6 +2024,32 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb"
     },
     {
       "album": {
@@ -4403,6 +4429,28 @@
     },
     {
       "album": {
+        "name": "Juste amis",
+        "url": "https://open.spotify.com/album/1Gg71kuPnvS7BuFvfaTb2U"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        },
+        {
+          "name": "Simon Proulx",
+          "url": "https://open.spotify.com/artist/6bvvFMUBVyfipeElZuVysQ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185572,
+      "name": "Juste amis",
+      "url": "https://open.spotify.com/track/2SidL8c6kAfNJCSmSoTlvD"
+    },
+    {
+      "album": {
         "name": "karoshi",
         "url": "https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY"
       },
@@ -6524,7 +6572,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 218453,
       "name": "Panneaux",
       "url": "https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN"
@@ -9240,7 +9288,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 164307,
       "name": "Vague de Chaleur",
       "url": "https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S"

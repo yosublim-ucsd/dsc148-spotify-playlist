@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Mitchell Tenpenny",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Dylan Marlowe",
   "name": "New Boots",
   "tracks": [
     {
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160173,
       "name": "Burn My Summer",
       "url": "https://open.spotify.com/track/3kGmuSkIEgrwNujhUeywsf"
@@ -8868,7 +8868,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 133124,
       "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
@@ -13426,7 +13426,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 202000,
       "name": "Goodnight Into Good Morning",
       "url": "https://open.spotify.com/track/5gG9NdRDVie8Ylxe0ZQ5DL"
@@ -14061,6 +14061,24 @@
     },
     {
       "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
+    },
+    {
+      "album": {
         "name": "Happy in This Bar",
         "url": "https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl"
       },
@@ -14412,7 +14430,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166000,
       "name": "HEART LIKE A HOMETOWN",
       "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
@@ -15157,6 +15175,28 @@
     },
     {
       "album": {
+        "name": "Hello Shitty Day",
+        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264456,
+      "name": "Hello Shitty Day",
+      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "album": {
         "name": "Hello, You Up",
         "url": "https://open.spotify.com/album/6N2El4W1kyYio8Ak8zAW5J"
       },
@@ -15298,6 +15338,24 @@
       "duration_ms": 261200,
       "name": "Here On Earth",
       "url": "https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184450,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
     },
     {
       "album": {
@@ -15494,6 +15552,24 @@
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/3RqAMGLj3hnSCHUGXpcuIG"
     },
     {
       "album": {
@@ -18210,6 +18286,28 @@
       "duration_ms": 187680,
       "name": "I'm On It",
       "url": "https://open.spotify.com/track/3HjtXqCMdMpmrUYoHIZU87"
+    },
+    {
+      "album": {
+        "name": "I've Been Drinking (feat. Hannah McFarland)",
+        "url": "https://open.spotify.com/album/3DpaVejfdvvZ5eJELYSzvJ"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "I've Been Drinking (feat. Hannah McFarland)",
+      "url": "https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD"
     },
     {
       "album": {
@@ -21677,6 +21775,28 @@
     },
     {
       "album": {
+        "name": "LOW ROAD (feat. Avery Anna)",
+        "url": "https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "LOW ROAD (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1pbWkKLJUUFyEBJ82Ha26S"
+    },
+    {
+      "album": {
         "name": "Come Get Your Wife",
         "url": "https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5"
       },
@@ -25040,7 +25160,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 257372,
       "name": "No One Else Like Me",
       "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
@@ -25622,6 +25742,24 @@
       "duration_ms": 178106,
       "name": "Oh Ohio",
       "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
+    },
+    {
+      "album": {
+        "name": "Oh Susannah",
+        "url": "https://open.spotify.com/album/5gl1rOU7MUwP8iwtL9lNEs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244286,
+      "name": "Oh Susannah",
+      "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
     },
     {
       "album": {
@@ -29138,7 +29276,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210639,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
@@ -29532,6 +29670,24 @@
       "duration_ms": 185427,
       "name": "Say It",
       "url": "https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o"
+    },
+    {
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0MS2yJBndggAEHUtlz83MS"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202337,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/6FgTg9bfG505KTGzTcV953"
     },
     {
       "album": {
@@ -30018,7 +30174,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 176360,
       "name": "She's Somebody's Daughter",
       "url": "https://open.spotify.com/track/7dQ9151STgBvjSxz8FM28m"
@@ -31092,7 +31248,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186253,
       "name": "Some Things Just Stick",
       "url": "https://open.spotify.com/track/0u2dsFLhpu0KpCJnA9cxT1"
@@ -31396,7 +31552,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210891,
       "name": "Somethin' 'Bout A Woman",
       "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
@@ -36250,6 +36406,24 @@
       "duration_ms": 188039,
       "name": "truck on fire",
       "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
+    },
+    {
+      "album": {
+        "name": "Truck Still Works",
+        "url": "https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212954,
+      "name": "Truck Still Works",
+      "url": "https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Bones Owens
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,165 likes - 81 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 81 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 80 | [Hole In Your Life](https://open.spotify.com/track/0VjeeXPbknaaigohYV3vRs) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [Hole In Your Life](https://open.spotify.com/album/2dYljcz63vy1HHivOPb7lM) | 3:24 |
 | 81 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
 
-Snapshot ID: `ZtHRsAAAAABFPGSjcSexCv+IFVOg17ZO`
+Snapshot ID: `ZtHRsAAAAAA5RSCWYYbPmlLupdlMDQim`

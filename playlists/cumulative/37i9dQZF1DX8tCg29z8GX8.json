@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 291439,
       "name": "13 POS (Ke Bo Mang)",
       "url": "https://open.spotify.com/track/3broQqYTmS1ctbl5mvFAKc"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 203429,
       "name": "Abronoma",
       "url": "https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195423,
       "name": "ALLOW ME",
       "url": "https://open.spotify.com/track/5Dam9aujbkNspHvYJf8sfz"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "Apotheke",
       "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 274800,
       "name": "Auntie Ama",
       "url": "https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 135203,
       "name": "Born In Hell",
       "url": "https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 221176,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/09yRCMD4zQW5oSPoCv3eku"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151282,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 158771,
       "name": "Denge II",
       "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 161982,
       "name": "DIAMOND (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/3oNcEDXZ31B8yyvkdml1g8"
@@ -3036,6 +3036,28 @@
       "duration_ms": 222222,
       "name": "EKELEBE (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
+    },
+    {
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
     },
     {
       "album": {
@@ -3368,7 +3390,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 195434,
       "name": "Fly Girl (feat. Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
@@ -4144,7 +4166,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 211764,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/7KkSiagM2WlBmDblmbyGwu"
@@ -4430,7 +4452,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 197894,
       "name": "Hypertension",
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
@@ -4456,7 +4478,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
@@ -4474,7 +4496,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 157541,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 152999,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
@@ -4746,7 +4768,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 147428,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh"
@@ -4858,7 +4880,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
@@ -5262,7 +5284,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 202352,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR"
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -5692,7 +5714,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
@@ -5762,7 +5784,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
@@ -5978,7 +6000,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 230124,
       "name": "Lose",
       "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
@@ -6058,7 +6080,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
@@ -6098,7 +6120,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 172941,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
@@ -6296,7 +6318,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201931,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS"
@@ -6444,7 +6466,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
@@ -6550,7 +6572,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 149518,
       "name": "METU",
       "url": "https://open.spotify.com/track/3AyBILZ8DEk6tfUjgMluj9"
@@ -6742,7 +6764,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 177931,
       "name": "Mood (feat. Khaid)",
       "url": "https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT"
@@ -7410,7 +7432,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Odo Bi Ye Bad",
       "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
@@ -7892,7 +7914,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 147641,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
@@ -8210,7 +8232,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 142997,
       "name": "Pim",
       "url": "https://open.spotify.com/track/7qLk2zXIhpF2IjZQyj1KBk"
@@ -8864,7 +8886,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
@@ -9138,7 +9160,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 175922,
       "name": "Sika",
       "url": "https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52"
@@ -9334,7 +9356,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
@@ -10204,7 +10226,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 182047,
       "name": "Ting Ting",
       "url": "https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs"
@@ -10464,7 +10486,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
@@ -11170,7 +11192,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
@@ -11366,7 +11388,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
@@ -11570,7 +11592,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181621,
       "name": "Zanzibar (Alubarika)",
       "url": "https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H"

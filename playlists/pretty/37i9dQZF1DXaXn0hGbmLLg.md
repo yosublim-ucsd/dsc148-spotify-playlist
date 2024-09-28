@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,716 likes - 32 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,717 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 31 | [The Crying Room](https://open.spotify.com/track/1eI3ZMVBhaqVKaBsAPJvaT) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [The Crying Room](https://open.spotify.com/album/0AJUcdvl9KQEemaaHHQ7kR) | 5:15 |
 | 32 | [Distraction](https://open.spotify.com/track/6qohcGUuSMLT9QRaDBoV9Y) | [SAFRAN](https://open.spotify.com/artist/7vEksAfgUuvza552VUDJmg) | [Distraction](https://open.spotify.com/album/6DQ3RluSVpZbfPDpahmxsP) | 3:29 |
 
-Snapshot ID: `Zuye4AAAAADs9B97YuGL88XB6bD6ENfy`
+Snapshot ID: `Zuye4AAAAACvNLxwRWx8marKwzSPYkGv`

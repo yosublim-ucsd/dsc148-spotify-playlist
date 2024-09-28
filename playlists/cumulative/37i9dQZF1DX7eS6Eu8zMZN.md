@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-103 songs - 6 hr 7 min
+104 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-09-01 |  |
 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 | 2021-05-13 |  |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-08 |  |
-| [Lárgueme](https://open.spotify.com/track/2pGELYVHsXOR5OwIIXmakP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El propio junte](https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v) | [Lárgueme](https://open.spotify.com/album/5Cm08nSsQpVAJyQueHapAo) | 3:25 | 2023-07-21 |  |
+| [Lárgueme](https://open.spotify.com/track/2pGELYVHsXOR5OwIIXmakP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El propio junte](https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v) | [Lárgueme](https://open.spotify.com/album/5Cm08nSsQpVAJyQueHapAo) | 3:25 | 2023-07-21 | 2024-09-28 |
 | [Mala Vida](https://open.spotify.com/track/6YPVWJkwsO3DgMDR0aPQc0) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Mala Vida](https://open.spotify.com/album/74fKOeEpG9lrN5AAWGqIit) | 2:07 | 2021-05-13 |  |
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-05-13 |  |
 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 | 2021-05-13 |  |
@@ -106,6 +106,7 @@
 | [TRAUMADOS](https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 3:35 | 2024-07-19 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |
+| [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \- acústico](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 | 2024-09-27 |  |
 | [Veneno Vil](https://open.spotify.com/track/5Tuesi0A7MxD6nU2UoHt00) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Veneno Vil](https://open.spotify.com/album/0DzCTqhV9LpnFSYYNVAgsE) | 3:13 | 2021-05-13 |  |
 | [Vuelvo a ser](https://open.spotify.com/track/6qbqw8UEeW7uASjgqZ71B7) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Vuelvo a ser](https://open.spotify.com/album/3Ze9vfK4F0H2SaLCUknEyH) | 2:43 | 2024-09-20 |  |
 | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/track/340jugUb06Yq0CwiUnZT50) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/album/61P20Js8bZj20akjMyHqdY) | 2:49 | 2024-05-03 |  |

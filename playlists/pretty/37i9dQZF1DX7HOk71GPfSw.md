@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring HARU NEMURI and Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,223 likes - 173 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,261 likes - 173 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 172 | [Not There Anymore](https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Not There Anymore](https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB) | 3:09 |
 | 173 | [I Could Be](https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [I Could Be](https://open.spotify.com/album/7k5IlcbMDi2Txa1LvsabET) | 3:18 |
 
-Snapshot ID: `Zu35PgAAAADmedfHM7EVrKi9DPidsa9o`
+Snapshot ID: `Zu35PgAAAABlGI7eF/qjhA/7Ouj9JCMC`

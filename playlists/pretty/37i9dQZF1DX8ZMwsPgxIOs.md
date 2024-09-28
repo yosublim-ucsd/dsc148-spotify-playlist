@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: KAS:ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,162 likes - 109 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,172 likes - 109 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 108 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 |
 | 109 | [Take Off](https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Off](https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc) | 3:57 |
 
-Snapshot ID: `ZvXncAAAAAAR8wkkgRoYjjhStkvrd8Am`
+Snapshot ID: `ZvXncAAAAACdQzmq/hFlEQFg8SFoUEws`

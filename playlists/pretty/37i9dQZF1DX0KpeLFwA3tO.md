@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: FIDLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,416 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,467 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Ruby Church](https://open.spotify.com/track/7d9bg99WJBoQ8HPR0EYolU) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Ruby Church](https://open.spotify.com/album/1Auma4ZcBNLbw6GkdDneEA) | 2:07 |
 | 100 | [Dreams Aren't Enough](https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Dreams Aren't Enough](https://open.spotify.com/album/1RhlvRwVVjKKC29gg5BCrS) | 3:16 |
 
-Snapshot ID: `Zu1PWAAAAABZDrBoxt23S+EUG2mx3CVF`
+Snapshot ID: `Zu1PWAAAAAD4YEY9e83pV+wyhhluM2mO`

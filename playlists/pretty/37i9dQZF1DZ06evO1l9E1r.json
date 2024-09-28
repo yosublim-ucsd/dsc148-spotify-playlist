@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2062,
+  "num_followers": 2066,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADwf+REe2jA8OONi8jniM2M",
+  "snapshot_id": "ZvSkAAAAAAC4flE5Wk2Gl4ikZ4tMTvX7",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Defeated Clown",
+      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 125826,
       "name": "A Deal with Chaos",
       "url": "https://open.spotify.com/track/4CujYYusMQgARvGuS9saAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Defeated Clown",
-      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 95520,
-      "name": "He Died for All of Us",
-      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
+      "duration_ms": 139174,
+      "name": "Examining the Body",
+      "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
     },
     {
       "added_at": null,
@@ -544,37 +544,25 @@
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 139174,
-      "name": "Examining the Body",
-      "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
+      "duration_ms": 95520,
+      "name": "He Died for All of Us",
+      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
     },
     {
       "added_at": null,
       "album": {
-        "name": "In Transmediale",
-        "url": "https://open.spotify.com/album/0xrUFnfyh9Ght2YJImO8xp"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
-        {
-          "name": "Angel & Hildur Gudnadottir",
-          "url": "https://open.spotify.com/artist/2YzYM2i9NHVLiASvUxHNWy"
-        },
-        {
-          "name": "Dirk Dresselhaus",
-          "url": "https://open.spotify.com/artist/1gvlyHhMgWmJSei85ArqM9"
-        },
-        {
-          "name": "Ilpo V\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/4UJLCrifQfI4rByJfIXoAe"
-        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 4251253,
-      "name": "In Transmediale",
-      "url": "https://open.spotify.com/track/7qpKM8EVFv9V7RH9uWxpbG"
+      "duration_ms": 150213,
+      "name": "Alejandro Saves Isabelle",
+      "url": "https://open.spotify.com/track/399IMeqnuZS65Hrs7lK2Vs"
     },
     {
       "added_at": null,
@@ -615,18 +603,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+        "name": "In Transmediale",
+        "url": "https://open.spotify.com/album/0xrUFnfyh9Ght2YJImO8xp"
       },
       "artists": [
+        {
+          "name": "Angel & Hildur Gudnadottir",
+          "url": "https://open.spotify.com/artist/2YzYM2i9NHVLiASvUxHNWy"
+        },
+        {
+          "name": "Dirk Dresselhaus",
+          "url": "https://open.spotify.com/artist/1gvlyHhMgWmJSei85ArqM9"
+        },
+        {
+          "name": "Ilpo V\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/4UJLCrifQfI4rByJfIXoAe"
+        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 150213,
-      "name": "Alejandro Saves Isabelle",
-      "url": "https://open.spotify.com/track/399IMeqnuZS65Hrs7lK2Vs"
+      "duration_ms": 4251253,
+      "name": "In Transmediale",
+      "url": "https://open.spotify.com/track/7qpKM8EVFv9V7RH9uWxpbG"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 124541,
       "name": "A Political Murder",
       "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 96893,
+      "name": "The Execution",
+      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -1004,37 +1020,21 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         },
         {
-          "name": "Paul Corley",
-          "url": "https://open.spotify.com/artist/2UWEYphdFL39QM1jhXA527"
-        },
-        {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
         },
         {
           "name": "Viktor Orri \u00c1rnason",
           "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 227836,
-      "name": "A Move to Neptune",
-      "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
-      },
-      "artists": [
+        },
         {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+          "name": "Morris Kliphuis",
+          "url": "https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl"
         }
       ],
-      "duration_ms": 96893,
-      "name": "The Execution",
-      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+      "duration_ms": 174269,
+      "name": "A New Doom",
+      "url": "https://open.spotify.com/track/45FZRpLPmRuMqNtC7Qrwah"
     },
     {
       "added_at": null,

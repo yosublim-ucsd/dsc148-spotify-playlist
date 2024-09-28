@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,378 likes - 53 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,392 likes - 53 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 52 | [Ginger & Fred](https://open.spotify.com/track/2RTMAscRZBum7QS2dWHI5c) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [On The Green Again](https://open.spotify.com/album/1ASGNkMTcydM6JMFOWzMmD) | 6:59 |
 | 53 | [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 |
 
-Snapshot ID: `Zmmi3AAAAABHIjq8yhbhhLF5bBNP663k`
+Snapshot ID: `Zmmi3AAAAAC7wg+h975DaWG/DZiKvXk/`

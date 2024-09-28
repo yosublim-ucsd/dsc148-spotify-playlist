@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "Rendering Feelings",
+        "url": "https://open.spotify.com/album/1jNM2tS1InKernhB1sAgF3"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210206,
+      "name": "1986",
+      "url": "https://open.spotify.com/track/7I50shuEk9lCKFkz5rLPN1"
+    },
+    {
+      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/6Zt0WBvkIvqzQfpdYR3uut"
       },
@@ -252,6 +270,24 @@
       "duration_ms": 215593,
       "name": "A Beautiful Life",
       "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
+    },
+    {
+      "album": {
+        "name": "A Few Good Moments",
+        "url": "https://open.spotify.com/album/617djkfZnybmoRqCJ9a2oV"
+      },
+      "artists": [
+        {
+          "name": "Burton Cummings",
+          "url": "https://open.spotify.com/artist/5ziVRv2caoBDNG2fythJ2n"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262228,
+      "name": "A Few Good Moments",
+      "url": "https://open.spotify.com/track/4m4ETbRF4y4UPHWlAA0mzC"
     },
     {
       "album": {
@@ -616,7 +652,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
@@ -894,6 +930,24 @@
       "duration_ms": 165792,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/7Ji5WgryQfftdi7zN4BPUM"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
     },
     {
       "album": {
@@ -3992,7 +4046,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 141506,
       "name": "Do One",
       "url": "https://open.spotify.com/track/2rQTiDllzGwt9BD1puj6v9"
@@ -4699,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Every Little Crumb",
+        "url": "https://open.spotify.com/album/5mZTUDt70dKaRgZ8LksFHX"
+      },
+      "artists": [
+        {
+          "name": "PONY",
+          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "Every Little Crumb",
+      "url": "https://open.spotify.com/track/6GBFno6vbln13PRAE0fIPM"
+    },
+    {
+      "album": {
         "name": "everybody hates me",
         "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
@@ -5180,7 +5252,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 199840,
       "name": "Famous",
       "url": "https://open.spotify.com/track/6bxCiUDKmjKK1mEaUWM6cJ"
@@ -5760,7 +5832,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 176586,
       "name": "Freezer",
       "url": "https://open.spotify.com/track/6PWCPoB0xiAp86DA2zSURR"
@@ -6526,6 +6598,24 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa"
+    },
+    {
+      "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "album": {
@@ -8134,7 +8224,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 223375,
       "name": "KILLING ME",
       "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
@@ -8174,6 +8264,24 @@
       "duration_ms": 183873,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175852,
+      "name": "Kiss Me Again",
+      "url": "https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt"
     },
     {
       "album": {
@@ -10369,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "mr. mole",
+        "url": "https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "mr. mole",
+      "url": "https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ"
+    },
+    {
+      "album": {
         "name": "The Human Animal",
         "url": "https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD"
       },
@@ -11856,7 +11982,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
@@ -12080,7 +12206,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219964,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
@@ -12440,7 +12566,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219064,
       "name": "Pretty Little Heartbreak",
       "url": "https://open.spotify.com/track/7sl5SGYEjDVhSWKWabdjxY"
@@ -13036,7 +13162,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 118603,
       "name": "ROLE MODEL",
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
@@ -17535,6 +17661,24 @@
     },
     {
       "album": {
+        "name": "What A Ride",
+        "url": "https://open.spotify.com/album/68drhawpnjdg4hjF1i171a"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "What A Ride",
+      "url": "https://open.spotify.com/track/3cBF4HDE9gQiXTejZOVw9o"
+    },
+    {
+      "album": {
         "name": "What a Ride",
         "url": "https://open.spotify.com/album/3WITfyz7MJFwJtAi3ojCbC"
       },
@@ -17712,6 +17856,24 @@
       "duration_ms": 197058,
       "name": "whatever you want",
       "url": "https://open.spotify.com/track/5efqMW9Qh0vwU8ZVlVZLmH"
+    },
+    {
+      "album": {
+        "name": "Have You Heard?",
+        "url": "https://open.spotify.com/album/0NOqZlffmP7hAlefLgTf48"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167471,
+      "name": "When I'm Not With You I'm High",
+      "url": "https://open.spotify.com/track/0auKiolKCWY1JsO0N92w2h"
     },
     {
       "album": {

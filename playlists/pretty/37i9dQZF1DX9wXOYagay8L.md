@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=4ijqsDRgTdCb8WO1xgpkWw">Halo Yagami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,699 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,801 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 59 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 60 | [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 |
 
-Snapshot ID: `ZvXncAAAAACXhtyiP/jBzoKo2AMh3oOT`
+Snapshot ID: `ZvXncAAAAACKUwtXI404+uWQHZx05W/p`

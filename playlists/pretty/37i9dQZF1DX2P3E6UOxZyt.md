@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: Majin
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,698 likes - 33 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,699 likes - 33 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 32 | [Fuck You & Your Friends](https://open.spotify.com/track/1eYS3LGdTJQjZh980Y9RbS) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Fuck You & Your Friends](https://open.spotify.com/album/0BG3z0bswF2kzXUlUBVeSy) | 3:09 |
 | 33 | [Could Say](https://open.spotify.com/track/5qQNqnKAxjG60Dt8Iv4c4m) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:23 |
 
-Snapshot ID: `ZvWFAAAAAACmiGGQI0/mFM/4X7izCtM+`
+Snapshot ID: `ZvWFAAAAAAALKU2VdPH4ZFufGJnzWt0H`

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-450 songs - 1 day 2 hr 27 min
+451 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Can't Stay Away](https://open.spotify.com/track/0kCDVx0CUreSrv87CUt6fY) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/6KMagDFExzgx5x4AhZ8Sdh) | 3:00 | 2021-05-28 | 2022-07-30 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-05-28 | 2022-07-29 |
 | [Can't Steal My Heaven](https://open.spotify.com/track/5O5zZIKZRKwwNDlg8oJz4q) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Preshow Music](https://open.spotify.com/album/5IObpymLC1NwUeVDV3Jw3e) | 3:54 | 2023-04-14 |  |
-| [Can’t Explain This Love](https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can’t Explain This Love](https://open.spotify.com/album/4Tu4MPRJiKFalIgGn5mi1L) | 3:01 | 2024-08-23 |  |
+| [Can’t Explain This Love](https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can’t Explain This Love](https://open.spotify.com/album/4Tu4MPRJiKFalIgGn5mi1L) | 3:01 | 2024-08-23 | 2024-09-28 |
 | [Catch Me If You Can](https://open.spotify.com/track/4D04v6javNlEsTHjFvxkxZ) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu) | [Catch Me If You Can](https://open.spotify.com/album/7MdPrJm69q7pETDcm0iYht) | 2:34 | 2022-09-23 | 2023-05-06 |
 | [Caught Up \(feat\. Phony Ppl\)](https://open.spotify.com/track/0rvxWzdAmOr6hzBPyLxFvR) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:01 | 2021-02-09 | 2022-01-29 |
 | [Celebrate](https://open.spotify.com/track/4pWR6adQpusvmqyZyUqc3q) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Celebrate](https://open.spotify.com/album/0Tc9B9e1zH824KxL380K34) | 3:14 | 2023-05-23 | 2023-10-21 |
@@ -285,6 +285,7 @@
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2023-03-04 |
 | [My Brother \- Frank Booker & Nathan Haines Remix](https://open.spotify.com/track/5BzqDmHDbC8OFOiSiSf3mr) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Michal Martyniuk](https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC), [Frank Booker](https://open.spotify.com/artist/4YRVEzWxX3wUH29czw0IiU), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [My Brother](https://open.spotify.com/album/1muD8cnFzYX594Irtz0aBh) | 6:54 | 2021-06-11 | 2022-07-02 |
 | [My Kinda Love](https://open.spotify.com/track/4N9Zjl1E4QLDrLnDslJkdO) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [rynjae](https://open.spotify.com/artist/5IZyhABCE3PaMrBL14PNKM) | [My Kinda Love](https://open.spotify.com/album/7uF4FtmG3tHDW7ChMu0nFo) | 3:24 | 2021-07-23 | 2022-10-22 |
+| [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 | 2024-09-27 |  |
 | [Mélange](https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Mélange](https://open.spotify.com/album/70ayx5Ku8J56Hw12VhrQ34) | 2:54 | 2021-07-16 | 2022-08-27 |
 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 | 2023-03-03 | 2024-03-09 |
 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 | 2022-02-25 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > Brand new music from SOPHIE \(pictured\), Lady Gaga,  Nines and more!
 
-12,623 songs - 28 day 9 hr 32 min
+12,625 songs - 28 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3438,6 +3438,7 @@
 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 | 2024-07-04 | 2024-07-12 |
 | [Fall Again](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Fall Again](https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0) | 3:26 | 2023-10-26 | 2023-11-03 |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-11 | 2024-07-19 |
+| [Fall Fast in Love](https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fall Fast in Love](https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo) | 2:52 | 2024-09-27 |  |
 | [fall in love](https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [fall in love](https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd) | 3:49 | 2023-02-10 | 2023-02-17 |
 | [Fall In Luv](https://open.spotify.com/track/18HZTpbyL8VIqiZaJKtypu) | [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Fall In Luv](https://open.spotify.com/album/34OUNPsuPzYCE7jkBY5bY5) | 2:25 | 2022-10-28 | 2022-11-04 |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-11 | 2024-07-19 |
@@ -11197,6 +11198,7 @@
 | [Timekeepers](https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Timekeepers](https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP) | 2:53 | 2024-08-01 | 2024-08-09 |
 | [Timelapse](https://open.spotify.com/track/1Cppjn0ioEQjIVBEYbfQ6R) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Timelapse](https://open.spotify.com/album/3giOPjknBklt7Ck1AxttGU) | 2:41 | 2024-06-27 | 2024-07-05 |
 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 | 2023-10-26 | 2023-11-03 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [Times Change](https://open.spotify.com/track/5BmLX8NdUtJZvanDta96dx) | [Seething Akira](https://open.spotify.com/artist/6UxRNE2TDlQP0GFEGJyvSQ) | [Times Change](https://open.spotify.com/album/44qhZVKMcawuh5cv4L8miP) | 3:33 | 2024-09-19 | 2024-09-27 |
 | [Timothée Chalamet](https://open.spotify.com/track/4EYN4h7IYWS1JxvYPrGf7w) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Timothée Chalamet](https://open.spotify.com/album/4lzAhIeBxCOJdbq5A7OCZT) | 2:39 | 2023-10-19 | 2023-10-27 |
 | [Tina's Son](https://open.spotify.com/track/1l8hClYeHrq9f2GPffLg9V) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Tina's Son](https://open.spotify.com/album/3bzRPRdSZOSLtpCZHrC5QP) | 4:02 | 2024-02-09 | 2024-02-10 |

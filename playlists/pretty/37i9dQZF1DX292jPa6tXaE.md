@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover new Punjabi artists! Cover: Naina Layal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,462 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,470 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [YOUTH WAVE](https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr) | [Lovenoor](https://open.spotify.com/artist/1PLbOK3g7lqOANtCK1y4tw), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [YOUTH WAVE](https://open.spotify.com/album/4G8QmbeLMFwNbhC7WY3aol) | 2:35 |
 | 50 | [Sharafat](https://open.spotify.com/track/1qOe5HePibypL6IHBL8sKv) | [Jaswant Seerha](https://open.spotify.com/artist/4Lgt39Z3ManC75u9XeWIlU), [Yodha](https://open.spotify.com/artist/6UsPVTGOJePJomZKhVG4d7), [ellde fazilika](https://open.spotify.com/artist/3Od7H2yD7FTn4a4ug05oyl) | [Sharafat](https://open.spotify.com/album/2leFIh2HSTVsHaK89lT1KL) | 3:11 |
 
-Snapshot ID: `ZvOR6QAAAAC8DapCm4IffX0+LZSDq0yb`
+Snapshot ID: `ZvOR6QAAAADklrKHE4vpX9nUsuUM80bG`

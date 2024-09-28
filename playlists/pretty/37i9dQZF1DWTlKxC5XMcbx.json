@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zue6cwAAAACLni1/WrLKrTe2ClitrEA+",
+  "snapshot_id": "Zue6cwAAAAD4MdLjMutW6nvewCJrDv82",
   "tracks": [
     {
       "added_at": "2024-09-16 04:56:19",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "The Great Ennui",
-        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
-      },
-      "artists": [
-        {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
-        }
-      ],
-      "duration_ms": 201153,
-      "name": "The Great Ennui",
-      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 426800,
       "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "The Great Ennui",
+        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 201153,
+      "name": "The Great Ennui",
+      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -363,6 +363,22 @@
       "duration_ms": 566133,
       "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414240,
+      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -439,22 +455,6 @@
       "duration_ms": 372786,
       "name": "I'm A Fool To Want You - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 414240,
-      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "Timelines",
+        "url": "https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY"
+      },
+      "artists": [
+        {
+          "name": "Howard Alden",
+          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
+        },
+        {
+          "name": "Helmut Nieberle",
+          "url": "https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Timelines",
-        "url": "https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY"
-      },
-      "artists": [
-        {
-          "name": "Howard Alden",
-          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
-        },
-        {
-          "name": "Helmut Nieberle",
-          "url": "https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "When It's Sleepy Time Down South",
-      "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2024-09-16 04:56:19",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2024-09-16 04:56:19",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "Tranquillo II",
-        "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "PianoBasso",
-          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
-      "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
+      "duration_ms": 333346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
     },
     {
       "added_at": "2024-09-16 04:56:19",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2024-09-16 04:56:19",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+        "name": "Tranquillo II",
+        "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
       "artists": [
         {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "PianoBasso",
+          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
         }
       ],
-      "duration_ms": 333346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+      "duration_ms": 212640,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
+      "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
     },
     {
       "added_at": "2024-09-16 04:56:19",

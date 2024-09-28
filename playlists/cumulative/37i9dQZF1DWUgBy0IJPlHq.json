@@ -5721,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
+    },
+    {
+      "album": {
         "name": "Leave Those Memories Alone",
         "url": "https://open.spotify.com/album/7msXVoRJVs6hDHlPXqfurp"
       },

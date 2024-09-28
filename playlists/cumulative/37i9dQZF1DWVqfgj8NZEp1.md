@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-319 songs - 1 day 5 hr 15 min
+320 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Answer Me](https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Answer Me](https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv) | 3:30 | 2024-03-08 |  |
 | [Anthem](https://open.spotify.com/track/7FApprsHm8hTyI7Ks4I1AX) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [New Standards](https://open.spotify.com/album/506fHBZgoF2BO7bMdNj0fW) | 4:32 | 2021-12-03 | 2022-02-25 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-01-22 |  |
+| [Ask Me Now](https://open.spotify.com/track/0Qm0L18LAmHX7Pza1iMBul) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Ask Me Now](https://open.spotify.com/album/77LSpK2AcfgsWmHdHmZWCj) | 5:39 | 2024-09-27 |  |
 | [At Dawning](https://open.spotify.com/track/4JKre2anIXOgrSjvUbqISI) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [At Dawning](https://open.spotify.com/album/05rJBiIt8xuNSjKFLnGPye) | 5:43 | 2021-10-08 | 2022-02-18 |
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2020-10-09 | 2022-02-18 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2020-10-09 | 2022-09-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Badoxa",
-  "num_followers": 208654,
+  "num_followers": 208675,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXncAAAAADVY4chrVG3zu6IZyZ9skEf",
+  "snapshot_id": "ZvXncAAAAACNf6LTqJzsSMi+n8UdFkek",
   "tracks": [
     {
       "added_at": "2024-09-26 23:00:00",
@@ -567,30 +567,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "O Lamento",
-        "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "O Lamento",
-      "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 214814,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "O Lamento",
+        "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "O Lamento",
+      "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Tarraxinha",
-        "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
-      },
-      "artists": [
-        {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "Black Vision",
-          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
-        }
-      ],
-      "duration_ms": 144255,
-      "name": "Tarraxinha",
-      "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 182608,
       "name": "Te Amo Tanto",
       "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Tarraxinha",
+        "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "duration_ms": 144255,
+      "name": "Tarraxinha",
+      "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 248913,
       "name": "Jaj\u00e3o (feat. Eddy Flow)",
       "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1595,22 +1595,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "TROMPETE",
-        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
+        "name": "The Gentleman",
+        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
         },
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
         }
       ],
-      "duration_ms": 257137,
-      "name": "TROMPETE",
-      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+      "duration_ms": 226626,
+      "name": "Nha Rainha (feat. Dino D'Santiago)",
+      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "TROMPETE",
+        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "TROMPETE",
+      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -1655,22 +1675,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Gentleman",
-        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
       },
       "artists": [
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
         },
         {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+          "name": "Filho do Zua",
+          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Nha Rainha (feat. Dino D'Santiago)",
-      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
+      "duration_ms": 192702,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1691,26 +1711,6 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Filho do Zua",
-          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
-        }
-      ],
-      "duration_ms": 192702,
-      "name": "Sentimento",
-      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Nha beb\u00e9",
+        "url": "https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        }
+      ],
+      "duration_ms": 205181,
+      "name": "Nha beb\u00e9",
+      "url": "https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Novinha",
         "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 210379,
       "name": "Novinha",
       "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Nha beb\u00e9",
-        "url": "https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        }
-      ],
-      "duration_ms": 205181,
-      "name": "Nha beb\u00e9",
-      "url": "https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🔥 Kannessa NOTO ja KIKI.
 
-405 songs - 20 hr 14 min
+406 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Dementia](https://open.spotify.com/track/4l6yk9CYDBXmPZLngUdPUW) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Dementia](https://open.spotify.com/album/6ydNn48knmj2us7w0VE3Y2) | 3:07 | 2024-08-29 | 2024-09-06 |
 | [Demon in Disguise](https://open.spotify.com/track/4zDGVgxu7irQ6N3f2Gtjru) | [Damian Axel](https://open.spotify.com/artist/6iblShfnq8xFcOy00rnyvx), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Demon in Disguise](https://open.spotify.com/album/0diPZEwgTuyx5DmSJzDoat) | 2:30 | 2024-09-12 | 2024-09-27 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-09-27 |
-| [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-09-27 |
+| [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 |  |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-22 | 2024-09-20 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-07-02 | 2024-07-22 |
@@ -166,6 +166,7 @@
 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 | 2024-08-22 |  |
 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-12 |  |
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-18 | 2024-09-13 |
+| [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-26 |  |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2024-08-22 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-12 |  |
 | [Jealousy \- From the Vault](https://open.spotify.com/track/44jX2MFYW9vDayWo94q6TA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds: X](https://open.spotify.com/album/0cOURyRiI1HI6BEyhH9ktH) | 3:44 | 2024-09-26 |  |
@@ -375,7 +376,7 @@
 | [täydellinen](https://open.spotify.com/track/1WGQTj0FPCXzPQI07UcDqm) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [täydellinen](https://open.spotify.com/album/6IbpsKDTLFSIoCABryUsrl) | 3:02 | 2024-07-11 | 2024-07-19 |
 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 | 2024-09-26 |  |
 | [Una Velita](https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Una Velita](https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6) | 3:59 | 2024-09-20 |  |
-| [Unconditional](https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Unconditional](https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq) | 2:51 | 2024-08-08 |  |
+| [Unconditional](https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Unconditional](https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq) | 2:51 | 2024-08-08 | 2024-09-28 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 | 2024-09-27 |
 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 | 2024-09-13 |
 | [Valentine](https://open.spotify.com/track/2wtFX3sqT1n2vqNXomQuPz) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Valentine](https://open.spotify.com/album/0KSyqpwyyp2hl3CEFbY0sg) | 2:46 | 2024-09-05 | 2024-09-13 |

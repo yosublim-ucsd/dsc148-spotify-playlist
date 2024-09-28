@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Se Me Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Perdona Mi Franqueza",
+      "url": "https://open.spotify.com/track/3enF9m98BImHABaF7vcC3A"
+    },
+    {
+      "album": {
         "name": "Simplemente Arrolladora",
         "url": "https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv"
       },

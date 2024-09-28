@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,937 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,987 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 70 | [639 Hz Rhythm of Kin](https://open.spotify.com/track/2dB2RfoX4Lb3DrK0aJF4NG) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz Rhythm of Kin](https://open.spotify.com/album/5VpIVjuu07WdJarvN8A5Lp) | 2:34 |
 | 71 | [639 Hz Ode to Togetherness](https://open.spotify.com/track/1Jox4HvDJ7drTxXNZRPtXN) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [639 Hz Ode to Togetherness](https://open.spotify.com/album/4QMwLj6lw3ovT7WCPEzRCk) | 2:55 |
 
-Snapshot ID: `Zs3q1AAAAAAjyDi7RCXGNPnsso/+DkXR`
+Snapshot ID: `Zs3q1AAAAAB8+bmMt9+rt+qkQw/2VTJI`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Grupo Marca Registrada y Deorro en portada.
+> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Gera MX y Alemán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,575 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,388 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 94 | [Las Solicitudes](https://open.spotify.com/track/51kLagUGoJepiE2VjK8xoR) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Las Solicitudes](https://open.spotify.com/album/2wLx6AguseKODAAwsetCHR) | 3:42 |
 | 95 | [Mantis](https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:31 |
 
-Snapshot ID: `ZvXcFAAAAADU+wuxOhbkRTTRSuNckyH0`
+Snapshot ID: `ZvbKiQAAAAC1GBiV7H/1svT8SzZbT2VU`

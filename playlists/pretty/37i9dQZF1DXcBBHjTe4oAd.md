@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > Mi toro, aquí una playlist perrona para dar el fucking roll por el barril con el Lalito y el Josuesy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,390 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,430 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 49 | [Dios Te Bendiga](https://open.spotify.com/track/7dBOVQQroOv3hReDvA1poe) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia Y Maldad](https://open.spotify.com/album/3jdYDg5KQ9d8uBGleBlGYY) | 2:42 |
 | 50 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
 
-Snapshot ID: `ZqL4fAAAAADJrcDbHIG6raZX9OSp8G9d`
+Snapshot ID: `ZqL4fAAAAACn1kTh711f2G/vCaefITL8`

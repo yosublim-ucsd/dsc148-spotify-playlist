@@ -1,13 +1,65 @@
 {
-  "description": "Latinoam\u00e9rica baila al ritmo de Nicki Nicole & LIT killah.",
-  "num_followers": 514822,
+  "description": "Latinoam\u00e9rica baila al ritmo de Ryan Castro y Hamilton",
+  "num_followers": 514838,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0PYAAAAABqN++4nRapZZRgPwKWqKI/",
+  "snapshot_id": "ZvYtwAAAAABt032/CscHk4vd2+gENtq+",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "CASUALIDAD",
+      "url": "https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "VENENOSA",
+      "url": "https://open.spotify.com/track/2OB5m65koEqJlXAIUBh5qq"
+    },
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
@@ -105,36 +157,28 @@
       "url": "https://open.spotify.com/track/4KGfuJfd0pDwyJz2tOPkGg"
     },
     {
-      "added_at": "2024-09-20 06:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "LA PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+        "name": "HULA",
+        "url": "https://open.spotify.com/album/71HVfAoBeTxVaMz9h82CJh"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "VENENOSA",
-      "url": "https://open.spotify.com/track/2OB5m65koEqJlXAIUBh5qq"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yexay TMM",
+          "url": "https://open.spotify.com/artist/6W5QFI6K8P7rxXiYW3n4qu"
         }
       ],
-      "duration_ms": 183709,
-      "name": "CASUALIDAD",
-      "url": "https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu"
+      "duration_ms": 187346,
+      "name": "HULA",
+      "url": "https://open.spotify.com/track/3NPlbFQa7N26HK8mVQF0NG"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -383,6 +427,46 @@
       "duration_ms": 173906,
       "name": "Musika Bellakona",
       "url": "https://open.spotify.com/track/0xzmquQRefAWG6u7bHaKf8"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Bellaqueando",
+        "url": "https://open.spotify.com/album/7HFoXn6uPCEaIFBYQvqvi1"
+      },
+      "artists": [
+        {
+          "name": "Samir Guerrero",
+          "url": "https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU"
+        },
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Daizak",
+          "url": "https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        }
+      ],
+      "duration_ms": 252244,
+      "name": "Bellaqueando",
+      "url": "https://open.spotify.com/track/6VzR7rdNug7P1oVxSPp8vk"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1383,22 +1467,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "D\u00edmelo Mike",
-        "url": "https://open.spotify.com/album/41WR10toKUqWeWMACVJXzK"
-      },
-      "artists": [
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "D\u00edmelo Mike",
-      "url": "https://open.spotify.com/track/4d2x3rUeiEbizZOqJdICWs"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "MALVIAJE - N.01",
         "url": "https://open.spotify.com/album/6wuvEEjAYRkN76kjNdWEnF"
       },
@@ -1571,54 +1639,6 @@
       "duration_ms": 171206,
       "name": "Europa",
       "url": "https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "SAFARI",
-        "url": "https://open.spotify.com/album/37WljwNgtWeyshstDf6qLr"
-      },
-      "artists": [
-        {
-          "name": "Dimeloking",
-          "url": "https://open.spotify.com/artist/4LVVm4QddeluNJAUuiCqRz"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Lion Fiah",
-          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
-        }
-      ],
-      "duration_ms": 145472,
-      "name": "SAFARI",
-      "url": "https://open.spotify.com/track/5MQrirTlxlBohGx7Pt7TdQ"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Cristalina",
-        "url": "https://open.spotify.com/album/6HASLmK5MjT2CWLHjERBK3"
-      },
-      "artists": [
-        {
-          "name": "Dostrescinco",
-          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
-        },
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "BALTA",
-          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
-        }
-      ],
-      "duration_ms": 210785,
-      "name": "Cristalina",
-      "url": "https://open.spotify.com/track/2ZHNyCDwtKIotmE2mpN8nM"
     },
     {
       "added_at": "2024-09-20 06:00:00",

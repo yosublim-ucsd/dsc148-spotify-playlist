@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1162694,
+  "num_followers": 1162670,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsij6gAAAAC5WCNn3nKNweEEgr5DkAJ7",
+  "snapshot_id": "Zsij6gAAAACGCqSrDiWUyJsLnBJLiGkp",
   "tracks": [
     {
       "added_at": "2024-08-23 14:59:54",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Jacob Slade",
         "url": "https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 183529,
       "name": "However You May",
       "url": "https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-08-23 14:59:54",

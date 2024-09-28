@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Ellui, Richboy Hardy, minlee\)
+> New & best K\-Electronic music is here\. \(Cover: Peggy Gou\)
 
-208 songs - 11 hr 43 min
+209 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-06-28 |  |
 | [1 Billion Views \- Mar Vista Remix](https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [iScreaM Vol.4 : 1 Billion Views Remix](https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT) | 4:25 | 2024-04-05 |  |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-05 | 2024-08-17 |
+| [1+1=11 \- Spray Remix](https://open.spotify.com/track/7e19IpBFv1ZS0navRtitY8) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Spray](https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf) | [I Hear You – Bonus Tracks Edition](https://open.spotify.com/album/5EGfRfeXfcrx6la5ZYNmjx) | 6:27 | 2024-09-27 |  |
 | [2](https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm) | [Byul.org](https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP) | [Secret Stories Heard From A Girl In An Opium Den](https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N) | 5:27 | 2024-04-05 | 2024-06-29 |
 | [2 Baddies \- Biicla Remix](https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [iScreaM Vol.21 : 2 Baddies Remixes](https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx) | 2:46 | 2024-04-05 | 2024-06-29 |
 | [2 Baddies \- No Identity Remix](https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [No Identity](https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI) | [iScreaM Vol.21 : 2 Baddies Remixes](https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx) | 3:20 | 2024-05-09 | 2024-06-29 |
@@ -32,7 +33,7 @@
 | [Armageddon \(Mount XLR Remix\)](https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:44 | 2024-09-24 |  |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2024-04-05 | 2024-06-29 |
 | [Back for More \(with Anitta\) \(House Remix\)](https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:19 | 2024-06-28 |  |
-| [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 |  |
+| [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 | 2024-09-28 |
 | [Bad Boy \- nomad Remix](https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [nomad](https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:31 | 2024-04-05 |  |
 | [Bad Boy \- PREP Remix](https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:41 | 2024-04-05 |  |
 | [Bad Boy \- Slom Remix](https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:34 | 2024-04-05 |  |

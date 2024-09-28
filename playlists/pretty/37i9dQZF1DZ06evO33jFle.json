@@ -1,12 +1,12 @@
 {
   "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 477311,
+  "num_followers": 477373,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAACXHuaycoL05cMaolMtjSp/",
+  "snapshot_id": "ZvSkAAAAAAAuQLW8c950ZEefig/EvKEo",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 200081,
-      "name": "Sufriendo a Solas - En Vivo",
-      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
+      "duration_ms": 277653,
+      "name": "Detr\u00e1s de Mi Ventana - Banda",
+      "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Detr\u00e1s de Mi Ventana - Banda",
-      "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
+      "duration_ms": 200081,
+      "name": "Sufriendo a Solas - En Vivo",
+      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
     },
     {
       "added_at": null,

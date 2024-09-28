@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 330458,
+  "num_followers": 330966,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoudagAAAABhV6F3+tVVC+zX/3kq6oUA",
+  "snapshot_id": "ZoudagAAAABbulKW9ROfsJzHoDnhxsNc",
   "tracks": [
     {
       "added_at": "2024-07-08 08:03:54",
@@ -403,7 +403,7 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Composer of Black Orpheus Plays and Sings Bossa Nova",
+        "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
       "artists": [
@@ -412,12 +412,12 @@
           "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         },
         {
-          "name": "Oscar Castro-Neves",
-          "url": "https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9"
-        },
-        {
           "name": "Lalo Schifrin",
           "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Oscar Castro-Neves",
+          "url": "https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9"
         }
       ],
       "duration_ms": 200426,

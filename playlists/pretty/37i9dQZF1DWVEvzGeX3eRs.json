@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2603140,
+  "num_followers": 2603252,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxbOAAAAABrj/gX7pWFLmUrzOFN+ZJC",
+  "snapshot_id": "ZIxbOAAAAADhd9g+XNigb1Cu59dfp2dW",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Fever for da Flavor",
-        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
-      },
-      "artists": [
-        {
-          "name": "H-Town",
-          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
-        }
-      ],
-      "duration_ms": 330945,
-      "name": "Knockin' da Boots",
-      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Age Ain't Nothing But A Number",
         "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 291400,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Fever for da Flavor",
+        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+      },
+      "artists": [
+        {
+          "name": "H-Town",
+          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+        }
+      ],
+      "duration_ms": 330945,
+      "name": "Knockin' da Boots",
+      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Freak Me",
-      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Blackstreet",
         "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
-      "added_at": "2023-02-12 15:56:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Tyrese",
-        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 266533,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
+      "duration_ms": 276000,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     }
   ],
   "unique_name": "Love Deluxe",

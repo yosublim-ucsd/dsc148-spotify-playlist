@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92200,
+  "num_followers": 92190,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAACdTDYPlhQ2oDYo4JLGtA1j",
+  "snapshot_id": "ZvXZYAAAAABL+DaQWMmNwsgSwkCFNWYU",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Private Blizzard",
-        "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Den jag kunde blivit - Den jag blev",
         "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 177479,
       "name": "Den jag kunde blivit - Den jag blev",
       "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Private Blizzard",
+        "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "I Wrote Your Name (Upon My Heart)",
         "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 200932,
       "name": "I Wrote Your Name (Upon My Heart)",
       "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 239173,
       "name": "Fading Like A Rose (Original +2 bpm)",
       "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "S\u00e5nger om dig",
         "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "En v\u00e4n till mig",
         "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 157261,
       "name": "En v\u00e4n till mig",
       "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Sally/Hungry Eyes",
+        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
+      },
+      "artists": [
+        {
+          "name": "June Vide",
+          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Sally/Hungry Eyes",
+      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
@@ -1059,18 +1075,38 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+        "name": "V\u00e5r v\u00e4nskap best\u00e5r",
+        "url": "https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Anna Stadling",
+          "url": "https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
+      "duration_ms": 170453,
+      "name": "V\u00e5r v\u00e4nskap best\u00e5r",
+      "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1095,22 +1131,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Del av dig",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 221418,
       "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "V\u00e5r v\u00e4nskap best\u00e5r",
-        "url": "https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x"
-      },
-      "artists": [
-        {
-          "name": "Helen Sj\u00f6holm",
-          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
-        },
-        {
-          "name": "Anna Stadling",
-          "url": "https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "V\u00e5r v\u00e4nskap best\u00e5r",
-      "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Elaine",
-        "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
-      },
-      "artists": [
-        {
-          "name": "Hags\u00e4tra Sport",
-          "url": "https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua"
-        },
-        {
-          "name": "Niklas Str\u00f6mstedt",
-          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
-        },
-        {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Elaine",
-      "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Wasting Years",
         "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
       },
@@ -1467,22 +1443,6 @@
       "duration_ms": 225976,
       "name": "Wasting Years",
       "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Peaceful Easy Feeling",
-        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
-      },
-      "artists": [
-        {
-          "name": "Birds are better",
-          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
-        }
-      ],
-      "duration_ms": 171038,
-      "name": "Peaceful Easy Feeling",
-      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1519,6 +1479,46 @@
       "duration_ms": 191229,
       "name": "Du \u00e4r inte ensam",
       "url": "https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Elaine",
+        "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
+      },
+      "artists": [
+        {
+          "name": "Hags\u00e4tra Sport",
+          "url": "https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua"
+        },
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        },
+        {
+          "name": "Andreas Johnson",
+          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Elaine",
+      "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Peaceful Easy Feeling",
+        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
+      },
+      "artists": [
+        {
+          "name": "Birds are better",
+          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Peaceful Easy Feeling",
+      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     }
   ],
   "unique_name": "Aktuellt",

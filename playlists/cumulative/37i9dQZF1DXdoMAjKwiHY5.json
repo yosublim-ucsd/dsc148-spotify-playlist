@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-09",
-  "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: Train",
+  "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: The Fray",
   "name": "Jupiter",
   "tracks": [
     {
@@ -812,6 +812,24 @@
       "duration_ms": 298666,
       "name": "Inside Of Love",
       "url": "https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz"
+    },
+    {
+      "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "album": {

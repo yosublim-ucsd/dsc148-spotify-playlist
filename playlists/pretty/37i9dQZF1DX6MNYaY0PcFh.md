@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,278 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,294 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 19 | [TEMPORARY FRIENDS](https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [TEMPORARY FRIENDS](https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2) | 3:01 |
 | 20 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
 | 21 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 |
-| 22 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 |
+| 22 | [Beamin’](https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’](https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa) | 2:20 |
 | 23 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 |
-| 24 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
-| 25 | [Beamin’](https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’](https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa) | 2:20 |
+| 24 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 |
+| 25 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
 | 26 | [Pretty Little Raver](https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Pretty Little Raver](https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk) | 2:23 |
 | 27 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
 | 28 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
 | 57 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
 | 58 | [Business As Usual \(night shift mix\)](https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Business As Usual](https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH) | 4:13 |
-| 59 | [Higher \- Prozak Remix](https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Higher \(Prozak Remix\)](https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp) | 4:29 |
-| 60 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
+| 59 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
+| 60 | [Higher \- Prozak Remix](https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Higher \(Prozak Remix\)](https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp) | 4:29 |
 
-Snapshot ID: `ZvXncAAAAABJEvabAlhRdNeCMKK48VTF`
+Snapshot ID: `ZvXncAAAAAAEe/+EzetoBhISkbPebJHO`

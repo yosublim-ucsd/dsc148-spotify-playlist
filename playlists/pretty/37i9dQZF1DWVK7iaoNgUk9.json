@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 526838,
+  "num_followers": 526853,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZumomwAAAAA5U5DwsU90MPffAKp17rl8",
+  "snapshot_id": "ZumomwAAAADhGgPYqa4bJh1kGT7rQwuK",
   "tracks": [
     {
       "added_at": "2024-09-17 16:04:43",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-17 16:04:43",
       "album": {
+        "name": "Senhas",
+        "url": "https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr"
+    },
+    {
+      "added_at": "2024-09-17 16:04:43",
+      "album": {
         "name": "Lay Me Down (feat. IZA)",
         "url": "https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 253681,
       "name": "Lay Me Down (feat. IZA)",
       "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"
-    },
-    {
-      "added_at": "2024-09-17 16:04:43",
-      "album": {
-        "name": "Senhas",
-        "url": "https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr"
     }
   ],
   "unique_name": "Cora\u00e7\u00e3o Partido",

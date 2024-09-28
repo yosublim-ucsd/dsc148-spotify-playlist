@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Keni Titus
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,190 likes - 111 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,241 likes - 111 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 110 | [Colorado](https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Colorado](https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN) | 4:27 |
 | 111 | [down the falls](https://open.spotify.com/track/4uD3YUPqv2iqwz5puK7xru) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [down the falls](https://open.spotify.com/album/1SZljZSRYNXAfMy1vi7Atq) | 2:25 |
 
-Snapshot ID: `ZvSpVAAAAABe+TOF3j0X41uIdFuFnZNv`
+Snapshot ID: `ZvSpVAAAAADLkSbYa06KMNTJLrcH+75X`

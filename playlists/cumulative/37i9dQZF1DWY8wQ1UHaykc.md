@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-176 songs - 12 hr 4 min
+177 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cinta Luar Biasa](https://open.spotify.com/track/1Hy1CBFRXYvFL7eJT5MLlG) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta Luar Biasa](https://open.spotify.com/album/3mSFi7iJudi9yOVxedBZxC) | 4:15 | 2024-04-19 |  |
 | [Cinta Luar Biasa](https://open.spotify.com/track/4TPtPQIPMjWoRuZj4JLPDw) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta Luar Biasa](https://open.spotify.com/album/5mCUtD20kAyTi6gmsYwxHt) | 4:17 | 2024-01-05 | 2024-04-19 |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2024-01-05 |  |
+| [Cinta Sejati \- Remastered 2024](https://open.spotify.com/track/3rsTUQcZbCWlH2CSGP4s48) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/album/5MX0MzRa7G6inW4qBA0UUt) | 5:01 | 2024-09-27 |  |
 | [Cinta Sendiri](https://open.spotify.com/track/5EkdegwaCNMhVdMwF6b7wZ) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Cerita Cinta 25 Tahun Kahitna](https://open.spotify.com/album/139rp11ERodJI2teyNKkkN) | 4:13 | 2024-01-05 |  |
 | [Cinta Tak Mungkin Berhenti](https://open.spotify.com/track/4xthpyTiqIwZMJzX6UmLtK) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 4:22 | 2024-03-14 |  |
 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman NOAH](https://open.spotify.com/artist/7cqkPIDgCi7INzyMFzvB1w), [Reza NOAH](https://open.spotify.com/artist/3t8gr6iE3A2xnvkc249oRK), [David Noah](https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 | 2024-01-05 |  |

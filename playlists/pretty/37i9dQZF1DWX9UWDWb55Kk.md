@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,313 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,299 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -396,7 +396,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 386 | [Dawn](https://open.spotify.com/track/2fe4NRpKS1Tvi3hUXSxvCe) | [IMPULSIVA](https://open.spotify.com/artist/1kIW9lFv6n9muELVZiDWZ3) | [Dusk / Dawn](https://open.spotify.com/album/1wHJpPKeAyAIe8R2J0RsBk) | 4:59 |
 | 387 | [Club Level](https://open.spotify.com/track/0LnxJ7YeHpssVGmc1FasZk) | [79.5](https://open.spotify.com/artist/2czOrtIVegf3rq5pabX21O) | [Club Level](https://open.spotify.com/album/1JrvfaFTNFnWbwGJTGUlWe) | 4:17 |
 | 388 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 |
-| 389 | [Fresh](https://open.spotify.com/track/3yVBidLF7bN2ZUeRAX7nMj) | [neumodel](https://open.spotify.com/artist/4wiTMr3PA4rslJzqx4QO5f), [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Mechanical \- EP](https://open.spotify.com/album/1eP0frM1FVcB2KDZdAKoHh) | 3:23 |
+| 389 | [Fresh](https://open.spotify.com/track/3yVBidLF7bN2ZUeRAX7nMj) | [neumodel](https://open.spotify.com/artist/4wiTMr3PA4rslJzqx4QO5f), [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Mechanical \- EP](https://open.spotify.com/album/1eP0frM1FVcB2KDZdAKoHh) | 3:23 |
 | 390 | [Vapor](https://open.spotify.com/track/6tn3fIfyGXs1CZFv9zPdc8) | [Da Octopusss](https://open.spotify.com/artist/5ZVaaZrPK9OKNjH3D6SnDC) | [The Rise \- EP](https://open.spotify.com/album/2BQcvFYf6lfHTLTUTHxe3N) | 3:54 |
 | 391 | [Heaven Only Knows](https://open.spotify.com/track/0HQVh6bWPXDgp0CYpee6ID) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Back Down](https://open.spotify.com/album/2Rybx2qf5xtQreVTeYvjYO) | 4:22 |
 | 392 | [Jackie Junior \(Junior Boys Remix\)](https://open.spotify.com/track/34BX9Kif91ZnODTmRrtfHE) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M), [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Remix Romance, Vol\. 1 & 2 \(Expanded Edition\)](https://open.spotify.com/album/7MoyJJnwA6EzDmzbpXXCNj) | 5:05 |
@@ -482,4 +482,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 472 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 | 473 | [Traaa](https://open.spotify.com/track/5m6FDR8GHXfBhWFay9KE5K) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [SUAVE](https://open.spotify.com/album/1opXwV1C5lL7PsH7AWXjVP) | 5:31 |
 
-Snapshot ID: `ZqrpawAAAAB2FswyqDeI7bCiie3sQoTj`
+Snapshot ID: `ZqrpawAAAACvB6Q7z/DZBh+dReIZXow2`

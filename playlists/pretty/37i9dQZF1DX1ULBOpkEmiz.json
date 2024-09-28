@@ -1,12 +1,12 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 5264,
+  "num_followers": 5267,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZI+0zAAAAAC0CfLactMmE/9UHQBVkwg3",
+  "snapshot_id": "ZI+0zAAAAADW0MfQTJ0ZhOu14Wu6YVQs",
   "tracks": [
     {
       "added_at": "2023-06-19 01:52:12",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 209120,
       "name": "Rock Wit U (Awww Baby)",
       "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Love/Hate",
-        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
-      },
-      "artists": [
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "I Luv Your Girl",
-      "url": "https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 265026,
       "name": "Wanna Get To Know You",
       "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "I Luv Your Girl",
+      "url": "https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Southern Hummingbird",
         "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-06-19 01:52:12",

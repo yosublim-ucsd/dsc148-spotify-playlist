@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy and breezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,791 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,782 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 99 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
 | 100 | [I Came For You](https://open.spotify.com/track/7GzMPJZYGgWW7VbcHYG21I) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Came For You](https://open.spotify.com/album/0XJRGHbpVofHp14XgEpQHv) | 2:37 |
 
-Snapshot ID: `ZvXZYAAAAAD8gPseuBvsuvSb30BAPnqQ`
+Snapshot ID: `ZvXZYAAAAAB5esCsaEgu5RjKvWO3WnM6`

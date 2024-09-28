@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,574,807 likes - 204 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,575,360 likes - 204 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 203 | [Portraits](https://open.spotify.com/track/3v9b94v3ja4RL480ZrJ6bI) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Portraits](https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt) | 2:20 |
 | 204 | [Florence](https://open.spotify.com/track/0TID2XzKx1DFybP338IxkU) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Florence](https://open.spotify.com/album/5HHbM8l9wGabUeDTFkQn4f) | 2:11 |
 
-Snapshot ID: `ZvF9/gAAAADPtdPFmSIXjwqmwmrlZWia`
+Snapshot ID: `ZvF9/gAAAAADJf/lYL4vlikWnhZf0+DP`

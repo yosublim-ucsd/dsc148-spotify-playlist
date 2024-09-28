@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Caloncho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,148 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,147 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 |
 | 100 | [Fuerza Vocal](https://open.spotify.com/track/4feH6J8GiazximCINmxvxa) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF), [Zara Monrroy](https://open.spotify.com/artist/3aowb82qA25g96n68zJIIx), [DJ Rakalku](https://open.spotify.com/artist/0zumQDPW1fSzDNRZV0NXVy) | [Fuerza Vocal](https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys) | 4:10 |
 
-Snapshot ID: `ZtqaYAAAAAAWB3KBjTbfEsat25uCh0iV`
+Snapshot ID: `ZtqaYAAAAAAfWrV9oOopTXUsfR2WBWp1`

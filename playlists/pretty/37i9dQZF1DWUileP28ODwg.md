@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:5FxshnB3eJ2YDn8xN8zDKq">Hannah Kerr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,608 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,663 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 69 | [Missing Jesus](https://open.spotify.com/track/1QJrfybxiLTlRvlkzlKMdU) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Missing Jesus](https://open.spotify.com/album/3Tff2Ny5CaAhXaknxptafB) | 3:05 |
 | 70 | [Good Man](https://open.spotify.com/track/2lKe5e14qf4NQKH0cxWVh9) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Man](https://open.spotify.com/album/5HiOaHTajjhYIPIbrvnXAN) | 3:51 |
 
-Snapshot ID: `Ztp+QAAAAAB8aERx8TtEYSWUWvRnBaOq`
+Snapshot ID: `Ztp+QAAAAACHuQlg7CVfjLMGKPf5bKRZ`

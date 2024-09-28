@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319064,
+  "num_followers": 319079,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk9qSQAAAAARf3/Nd/QJK1kGnZNfYELK",
+  "snapshot_id": "Zk9qSQAAAAB/H1xPm4VR0I59IxbT5o8Q",
   "tracks": [
     {
       "added_at": "2024-05-23 16:09:45",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Couleur menthe \u00e0 l'eau",
-      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Fragile (Remastered)",
         "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
         }
       ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -467,6 +451,22 @@
       "duration_ms": 249333,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "D'Eux",
         "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 226800,
       "name": "L'amour \u00e0 la machine",
       "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "La montagne 1964",
-        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Que serais-je sans toi",
-      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "PYRAMIDE",
         "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 233800,
       "name": "Tomb\u00e9",
       "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "La montagne 1964",
+        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Que serais-je sans toi",
+      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Nonchalances",
-        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
-      },
-      "artists": [
-        {
-          "name": "Philippe Lavil",
-          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
-      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Disque D'or",
         "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 192666,
       "name": "Que reste-t-il de nos amours ?",
       "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Nonchalances",
+        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
+      },
+      "artists": [
+        {
+          "name": "Philippe Lavil",
+          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
+      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
     },
     {
       "added_at": "2024-05-23 16:09:45",

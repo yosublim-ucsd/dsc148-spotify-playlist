@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største dk rap lige nu 🌊🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,217 likes - 67 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,234 likes - 67 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 66 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 |
 | 67 | [Vi Har Den](https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Vi Har Den](https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4) | 2:15 |
 
-Snapshot ID: `ZvX1gAAAAAA1bn9+/KhX4ZSZs8vPD0ct`
+Snapshot ID: `ZvX1gAAAAAA8gDdBbxxUBAYhxTq2GXGQ`

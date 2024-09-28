@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Milo j is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,432 likes - 20 songs - 55 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,568 likes - 20 songs - 55 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [casado con €l ju€go](https://open.spotify.com/track/2XdjGsiMcHP7sekNOT4FyB) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [blu€s](https://open.spotify.com/album/4w81uLwtHNI0rgoLYBJCIT) | 3:20 |
 | 20 | [Me trae loco](https://open.spotify.com/track/61RA6u9ooSW5Wpm5kdQQ0f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cranesito y Robotín](https://open.spotify.com/album/3WGFe29ltEHQfEkXCRORXD) | 2:22 |
 
-Snapshot ID: `ZvTcQAAAAABBTHKuhH8kg17pUBNhohqs`
+Snapshot ID: `ZvTcQAAAAADyhT5+wv/0I//OkNGSE0ks`

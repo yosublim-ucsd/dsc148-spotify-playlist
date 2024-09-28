@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,196 likes - 161 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,238 likes - 161 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 17 | [dopamine](https://open.spotify.com/track/1kOylvQAHwZPhZkYOeH70f) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [dopamine](https://open.spotify.com/album/3zZD6Y3GxAQOtuz9lDxE52) | 2:41 |
 | 18 | [Dollar Bill Bar \- Alternate Version](https://open.spotify.com/track/2SlB2Dx1DSOFYK6Qjwlw1f) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar \(Alternate Version\)](https://open.spotify.com/album/2c11HqT5RmqyYVyqen7BGQ) | 4:13 |
 | 19 | [Wall of Death \(From Twisters: The Album\)](https://open.spotify.com/track/6i8dQTwb7E4waCPMcsalDP) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI), [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z) | [Wall of Death \(From Twisters: The Album\)](https://open.spotify.com/album/1lLyBWo1fLPpf5EN6iQRp0) | 2:29 |
-| 20 | [What's Gonna Become of Me](https://open.spotify.com/track/3gdOwcqtYHUyw1FuU0hIxG) | [Jerron Paxton](https://open.spotify.com/artist/55AXvXsYcSs54rz9XDtc0V) | [What's Gonna Become of Me](https://open.spotify.com/album/0JDaQznWdFuq9Aem2CWTn0) | 3:48 |
+| 20 | [What's Gonna Become of Me](https://open.spotify.com/track/3gdOwcqtYHUyw1FuU0hIxG) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [What's Gonna Become of Me](https://open.spotify.com/album/0JDaQznWdFuq9Aem2CWTn0) | 3:48 |
 | 21 | [Annabelle June](https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Appalachian Picking Society](https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg) | 3:33 |
 | 22 | [On My Mind](https://open.spotify.com/track/0my8X86ZfdxmeGbq6c2LhB) | [J.M\. Clifford](https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY) | [On My Mind](https://open.spotify.com/album/6FDUreRHzEIhD9H4KUmHIX) | 2:03 |
 | 23 | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/3xePjad1SGw3noniehfKRe) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/1bnTtiLFHJbx0kvhLeDibN) | 6:27 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 160 | [Ocean Bed](https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 4:00 |
 | 161 | [The Crow and The Raven \(III\)](https://open.spotify.com/track/23ET0QBqjrlDjxau5lf8Hx) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [The Crow and The Raven \(III\)](https://open.spotify.com/album/4UUIZjLtkjxMEeCAH8d3Cu) | 5:52 |
 
-Snapshot ID: `ZuO5OAAAAACvvyxdluzeAGcViqfO7seW`
+Snapshot ID: `ZuO5OAAAAADGuxo5FZjcZF5p2ZdttHKi`

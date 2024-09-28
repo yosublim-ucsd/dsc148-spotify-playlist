@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Are you ready ZEROSE?!\. Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,721 likes - 24 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,688 likes - 24 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 23 | [Take My Hand](https://open.spotify.com/track/2fpul5lhD5I0fHQrwliJku) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 3:35 |
 | 24 | [YURA YURA \- Korean Version](https://open.spotify.com/track/1f9mgpjuSsEs0gCq2OfjCV) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 3:04 |
 
-Snapshot ID: `Zu7tgAAAAAAujjzw/WXp1aeJb1ZjXxL2`
+Snapshot ID: `Zu7tgAAAAACH6DHKyRnRBTL2aYUUyHUC`

@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 136986,
       "name": "Abierturient",
       "url": "https://open.spotify.com/track/4Q8DY4NXY25r3s16PQy0aq"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
@@ -1450,6 +1450,24 @@
       "duration_ms": 202895,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/7pdDdKVMm14RuRrEmNNN7X"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/5C6mPpGNlw6ovkuO0WMADa"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206779,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/2ukSB6kFcvZ0CgIYvuqfgK"
     },
     {
       "album": {
@@ -2256,6 +2274,24 @@
       "duration_ms": 330106,
       "name": "Dan\u00e7a do Sol (Sundance)",
       "url": "https://open.spotify.com/track/2m0Hw4vkuUk7XX0G8JElSX"
+    },
+    {
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "album": {
@@ -3260,7 +3296,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 225880,
       "name": "Forza St. Pauli",
       "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
@@ -5576,6 +5612,28 @@
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "album": {
+        "name": "Me Sem Rom",
+        "url": "https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg"
+      },
+      "artists": [
+        {
+          "name": "Fanfare Ciocarlia",
+          "url": "https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg"
+        },
+        {
+          "name": "Iulian Canaf",
+          "url": "https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "Me Sem Rom",
+      "url": "https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk"
     },
     {
       "album": {
@@ -9647,6 +9705,28 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6omrGZ7xQ9qJubMzXIPknM"
+      },
+      "artists": [
+        {
+          "name": "Joe Samba",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        },
+        {
+          "name": "Jarv",
+          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Surfside Live (feat. Jarv)",
+      "url": "https://open.spotify.com/track/09UrOdUN6sNiSKkqGGpL5o"
+    },
+    {
+      "album": {
         "name": "Reggae gordo for days and extra days",
         "url": "https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC"
       },
@@ -10130,7 +10210,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 216933,
       "name": "The Last Ninja",
       "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"

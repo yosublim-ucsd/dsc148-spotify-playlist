@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: KANGDANIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,185 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,188 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 51 | [티라미수 케익 \(Original Mix\)](https://open.spotify.com/track/6usxxPfhLIRJag1y96XcxE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [티라미수 케익](https://open.spotify.com/album/4rVYtLBY7RlDr4EOXz6w6T) | 3:14 |
 | 52 | [LOVE and FEAR](https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.2](https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH) | 3:07 |
 
-Snapshot ID: `ZvYa6AAAAAC7RRqxuIPkIBgvvYeIqIE9`
+Snapshot ID: `ZvYa6AAAAAA9tv4GEXgNkzShggx6vl7E`

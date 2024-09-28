@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,106 likes - 253 songs - 21 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,104 likes - 253 songs - 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 252 | [In 10,000 Places](https://open.spotify.com/track/2MThJYGRpWfPmfdK04VrjQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In 10,000 Places](https://open.spotify.com/album/7F67kb9cW8j6aT5OksMoCS) | 6:35 |
 | 253 | [Hustle do Brasil](https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS) | [Aroop Roy](https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ) | [Hustle do Brasil](https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78) | 4:28 |
 
-Snapshot ID: `ZuLjIgAAAACg0SMayWlSE+jP+odCnXbE`
+Snapshot ID: `ZuLjIgAAAADcW8liz2qBINZWWh3iETgR`

@@ -4325,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Veneno Delicioso",
+        "url": "https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202756,
+      "name": "Veneno Delicioso",
+      "url": "https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI"
+    },
+    {
+      "album": {
         "name": "Verano En NY",
         "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
       },

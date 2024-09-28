@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Maafkan Aku Mencintai Kekasihmu - Remastered 2024",
+        "url": "https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Reijman",
+          "url": "https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295707,
+      "name": "Maafkan Aku Mencintai Kekasihmu - Remastered 2024",
+      "url": "https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO"
+    },
+    {
+      "album": {
         "name": "Everlast",
         "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
       },
@@ -3507,7 +3525,7 @@
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254125,
+      "duration_ms": 251931,
       "name": "Tangan-Tangan Ucap Perpisahan",
       "url": "https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban"
     },
@@ -3528,6 +3546,28 @@
       "duration_ms": 212205,
       "name": "Tanpa Bicara",
       "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
+    },
+    {
+      "album": {
+        "name": "Teman Tapi Mesra",
+        "url": "https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM"
+      },
+      "artists": [
+        {
+          "name": "Andre Taulany",
+          "url": "https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw"
+        },
+        {
+          "name": "Andre Taulany & Friends",
+          "url": "https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259315,
+      "name": "Teman Tapi Mesra",
+      "url": "https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx"
     },
     {
       "album": {

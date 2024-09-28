@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with JON VINYL from Toronto, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Dylan Sinclair from Thornhill, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 213300,
       "name": "4am",
       "url": "https://open.spotify.com/track/1yM0dE07jBAkAYKQHzaInk"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 169795,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE"
@@ -1068,6 +1068,24 @@
       "duration_ms": 134012,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0VNw1hLu0iVvSd6EFqlzcQ"
+    },
+    {
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
       "album": {
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/759KqKQyDmTWJape4odo21"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 145212,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/6XKh5DQ1V5ZFvbG64SFIBY"
@@ -6686,7 +6704,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 269055,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
@@ -6810,7 +6828,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 170666,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/2W94QEfuuHs3LfriXQhFJ2"
@@ -7048,7 +7066,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 220585,
       "name": "Get to You",
       "url": "https://open.spotify.com/track/2Ka7ipcvtIMb5TsvDm4rzc"
@@ -7520,6 +7538,24 @@
       "duration_ms": 204260,
       "name": "Half Empty",
       "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
+    },
+    {
+      "album": {
+        "name": "Halfway Broken",
+        "url": "https://open.spotify.com/album/6roIpbmKIBVXtsFHN4vrg0"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Halfway Broken",
+      "url": "https://open.spotify.com/track/5U9WcuBcbcI4mIXvv175On"
     },
     {
       "album": {
@@ -8666,7 +8702,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 179104,
       "name": "I Need",
       "url": "https://open.spotify.com/track/3MQNYASnna86zXaQE45uZT"
@@ -9082,10 +9118,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 169310,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
+    },
+    {
+      "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176785,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
     },
     {
       "album": {
@@ -11130,7 +11184,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162560,
       "name": "Loup\u00e9",
       "url": "https://open.spotify.com/track/3AgM4kVYWIKloPx1KkTr1m"
@@ -11166,7 +11220,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 209353,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/1t43A2SrVfO5rMLwwVuoYM"
@@ -11340,7 +11394,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151794,
       "name": "Love pour toi",
       "url": "https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN"
@@ -11362,6 +11416,24 @@
       "duration_ms": 190728,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/315xARxP9thkSVmWoM8Dwu"
+    },
+    {
+      "album": {
+        "name": "LOVE, but WHATEVER",
+        "url": "https://open.spotify.com/album/5Nja266FYwEurQxlKKiH2t"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LOVE, but WHATEVER",
+      "url": "https://open.spotify.com/track/1hYujx1xDEHOtbqCA36mM2"
     },
     {
       "album": {
@@ -11616,7 +11688,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 229491,
       "name": "MANYENM",
       "url": "https://open.spotify.com/track/45Qk7p2boALkUaDRMzEXJC"
@@ -13516,7 +13588,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 243648,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/250silbq0oLwCAubCaSA8l"
@@ -14542,7 +14614,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 142855,
       "name": "Painting",
       "url": "https://open.spotify.com/track/5IXBsobNA9LI84TOgPKuea"
@@ -14604,6 +14676,28 @@
       "duration_ms": 202380,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw"
+    },
+    {
+      "album": {
+        "name": "Passenger Princess (Remix)",
+        "url": "https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220122,
+      "name": "Passenger Princess (feat. Aqyila)",
+      "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
     },
     {
       "album": {
@@ -14700,6 +14794,24 @@
       "duration_ms": 160426,
       "name": "Pause",
       "url": "https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf"
+    },
+    {
+      "album": {
+        "name": "War&Peace",
+        "url": "https://open.spotify.com/album/1ty3W8po9fRjvOcrSwu3Xa"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177447,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/3LqO6oyw9GdcfqK9JGnDHN"
     },
     {
       "album": {
@@ -15200,7 +15312,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 198857,
       "name": "Pour My Love",
       "url": "https://open.spotify.com/track/0IjbZrUQoSQJJVYT56TSE4"
@@ -16840,7 +16952,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 233312,
       "name": "Show You Why",
       "url": "https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ"
@@ -17014,6 +17126,24 @@
       "duration_ms": 156285,
       "name": "SKINTIGHT",
       "url": "https://open.spotify.com/track/0zLK4Z6jlrZlHdYBcMl9iO"
+    },
+    {
+      "album": {
+        "name": "Pretty Red Bird",
+        "url": "https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB"
+      },
+      "artists": [
+        {
+          "name": "Tia Wood",
+          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176317,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/7F9K69ywGHjiuiXfkdrG2P"
     },
     {
       "album": {
@@ -18665,6 +18795,24 @@
     },
     {
       "album": {
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/2T8jpZMyfULf3ZH1Jt9coG"
+      },
+      "artists": [
+        {
+          "name": "Janette King",
+          "url": "https://open.spotify.com/artist/77KRcsLbRizUbGjctloC8a"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223152,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/4txNXB5e6RabXlWaWQvOsI"
+    },
+    {
+      "album": {
         "name": "ALPHA (Deluxe)",
         "url": "https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL"
       },
@@ -19355,6 +19503,24 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/21zXRipIC8QKCDRhKtE9zN"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4gkAGUK1KaWJp6IDBZNyWs"
+    },
+    {
+      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/7rkN6aKoETjoXjtvOUCh0Z"
       },
@@ -19796,7 +19962,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 199390,
       "name": "Till We're Halos",
       "url": "https://open.spotify.com/track/0jMgJfzNi56zdxoEsoXda1"
@@ -20976,7 +21142,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 301466,
       "name": "Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy"

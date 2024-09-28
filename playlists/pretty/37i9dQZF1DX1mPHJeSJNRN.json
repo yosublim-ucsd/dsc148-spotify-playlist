@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 16804,
+  "num_followers": 16806,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmrtHgAAAABHOamM1jAnz1Fvqiqs+x5H",
+  "snapshot_id": "ZmrtHgAAAABYGnk4CkUt2Twb/NwS0cBx",
   "tracks": [
     {
       "added_at": "2024-06-13 12:59:10",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 226658,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Duke Ellington Meets Coleman Hawkins",
-        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "Limbo Jazz",
-      "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Spring Waltz",
         "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Duke Ellington Meets Coleman Hawkins",
+        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "Limbo Jazz",
+      "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "In a Deeper Sense",
+        "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 288877,
+      "name": "Spring Is in the Air",
+      "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 231502,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "In a Deeper Sense",
-        "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 288877,
-      "name": "Spring Is in the Air",
-      "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "My Shining Hour",
-      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 310505,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Take a Giant Step",
-      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "The Sound the Rhythm",
         "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 444573,
       "name": "Tangorrus Field",
       "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Take a Giant Step",
+      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "Just Us, Just We",
+        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
+      },
+      "artists": [
+        {
+          "name": "Shaymus Hanlin Quartet",
+          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
+        }
+      ],
+      "duration_ms": 202570,
+      "name": "Almost Like Being in Love",
+      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Caity Gyorgy Quartet",
         "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 347088,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Just Us, Just We",
-        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
-      },
-      "artists": [
-        {
-          "name": "Shaymus Hanlin Quartet",
-          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1411,18 +1411,38 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "No Bounds",
-        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
         }
       ],
-      "duration_ms": 287680,
-      "name": "East of The Sun",
-      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
+      "duration_ms": 192726,
+      "name": "Keep It in Your Dreams",
+      "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1439,6 +1459,22 @@
       "duration_ms": 248666,
       "name": "Who's Lily?",
       "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "No Bounds",
+        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 287680,
+      "name": "East of The Sun",
+      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1467,42 +1503,6 @@
       "duration_ms": 187400,
       "name": "Dont Rain on My Parade",
       "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        }
-      ],
-      "duration_ms": 192726,
-      "name": "Keep It in Your Dreams",
-      "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
     },
     {
       "added_at": "2024-06-13 12:59:10",

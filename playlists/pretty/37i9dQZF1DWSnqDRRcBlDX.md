@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,855 likes - 59 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,919 likes - 59 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 58 | [Emotional \- 2023 Edit](https://open.spotify.com/track/24h4FVqzZl31rgUWd9NLZC) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu) | [Emotional EP](https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN) | 6:35 |
 | 59 | [Syren \- Amelie Lens Remix](https://open.spotify.com/track/2CAWDnsgQ5zIXef4ONWmUK) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:49 |
 
-Snapshot ID: `ZqN+QwAAAABC/pP2OxYYTfDhOpD+EFQc`
+Snapshot ID: `ZqN+QwAAAAAZFABm/zvznz9rLpWP4ctK`

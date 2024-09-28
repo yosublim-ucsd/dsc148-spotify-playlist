@@ -4,7 +4,7 @@
 
 > Ceneri e Chiello sulla cover della playlist con il meglio dell’indie italiano!
 
-99 songs - 5 hr 3 min
+100 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 | 2024-07-27 |
 | [Aqaba](https://open.spotify.com/track/07beED77Z5oF7NyIN9HZ7f) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Aqaba](https://open.spotify.com/album/0ZVpRPD70kqEAAQrlXfduI) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 |  |
+| [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 |  |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 |  |

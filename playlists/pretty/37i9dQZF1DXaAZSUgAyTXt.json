@@ -1,12 +1,12 @@
 {
   "description": "when life gives you lemons \u00af\\_(\u30c4)_/\u00af",
-  "num_followers": 116869,
+  "num_followers": 116857,
   "original_name": "Lemonade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmuIAAAAAACiLzDqXQGw5q/lmFI7fjK+",
+  "snapshot_id": "ZmuIAAAAAABFoKVM9zCuF9o+W9pFEZoF",
   "tracks": [
     {
       "added_at": "2024-06-14 00:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 280016,
-      "name": "Showtime",
-      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
         "name": "The Modern Western World",
         "url": "https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 161773,
       "name": "Nosebleed Seats",
       "url": "https://open.spotify.com/track/3zREOGri6ic2vk6Dt2NJWk"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
     },
     {
       "added_at": "2024-06-14 00:00:00",

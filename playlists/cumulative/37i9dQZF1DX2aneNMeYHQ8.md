@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Michael Kiwanuka
 
-503 songs - 1 day 6 hr 43 min
+504 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-09-16 |  |
 | [Feel Good](https://open.spotify.com/track/5BUPmSpZnwMOmdhmm2kqRC) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Feel Good](https://open.spotify.com/album/0SZQ6wLElyi6n2BbPkkV0z) | 2:47 | 2021-10-01 | 2022-01-22 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-28 |  |
-| [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-09-16 |  |
+| [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-09-16 | 2024-09-28 |
 | [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 | 2024-06-07 | 2024-09-21 |
 | [Find Another Reason Why](https://open.spotify.com/track/69K5FXo7lvM6lyiudqJWni) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Find Another Reason Why](https://open.spotify.com/album/47dBDQRH04eRYA4lKByNMF) | 3:18 | 2021-11-12 | 2022-03-12 |
 | [First Day](https://open.spotify.com/track/0dbRGcPxCuv2l9l1V6OFFA) | [KidEyes](https://open.spotify.com/artist/1aS62nHtge1lUvAMWNm6zy) | [First Day](https://open.spotify.com/album/2Xsp1mnpvRBazUTi8ZYjSG) | 3:59 | 2021-08-20 | 2022-04-23 |
@@ -271,6 +271,7 @@
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2023-02-24 | 2023-04-03 |
 | [Mercy](https://open.spotify.com/track/1eUkDg4v2xomoSRQkV7XWp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway \(Deluxe\)](https://open.spotify.com/album/24nX5Ge2Wx9S1W4jfH3TG7) | 3:22 | 2024-06-14 | 2024-07-13 |
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 | 2024-09-21 |
+| [Mess To Make](https://open.spotify.com/track/0nH27MHmWfVe3RFI9ADq9k) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Vices](https://open.spotify.com/album/721xgb2DpiQbycWZsicBLL) | 2:39 | 2024-09-20 |  |
 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 | 2023-12-08 | 2024-04-06 |
 | [Miami](https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Miami](https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n) | 4:44 | 2023-02-10 | 2023-05-04 |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-07-01 |  |

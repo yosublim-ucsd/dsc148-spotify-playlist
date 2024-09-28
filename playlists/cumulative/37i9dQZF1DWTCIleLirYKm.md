@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-116 songs - 6 hr 47 min
+117 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 | 2023-04-14 |  |
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2023-04-14 |  |
 | [Born to Run](https://open.spotify.com/track/4HbtLU2CeVrHKeGtRVttuV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cimarron](https://open.spotify.com/album/0wtXDQCcBFvLcOVgNzFtIO) | 3:46 | 2023-04-14 |  |
+| [Bury My Bones](https://open.spotify.com/track/6sQdTn9Xm8g0jlTlQkFQ1l) | [Tennessee Jet](https://open.spotify.com/artist/4J43elh6UdRXtM89al1iiY), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Bury My Bones](https://open.spotify.com/album/19naWWaWnC5b56XPKX2j2y) | 3:40 | 2024-09-27 |  |
 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 | 2023-04-14 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2023-04-14 |  |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2023-04-14 |  |
@@ -51,7 +52,7 @@
 | [Hurtin' \(On the Bottle\)](https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:12 | 2023-04-14 |  |
 | [I Been to Georgia on a Fast Train](https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Billy Joe Shaver](https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9) | 2:56 | 2023-04-14 |  |
 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 | 2023-04-14 |  |
-| [I Thought I Heard You Calling My Name](https://open.spotify.com/track/3qJoCMoxXZh0AolRncuxh4) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Diamond In The Rough](https://open.spotify.com/album/1Dbj64OM6NQLB9X9ga6U4L) | 3:56 | 2023-04-14 |  |
+| [I Thought I Heard You Calling My Name](https://open.spotify.com/track/3qJoCMoxXZh0AolRncuxh4) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Diamond In The Rough](https://open.spotify.com/album/1Dbj64OM6NQLB9X9ga6U4L) | 3:56 | 2023-04-14 | 2024-09-28 |
 | [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:47 | 2023-04-14 |  |
 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 | 2023-04-14 |  |
 | [I'm Looking for Blue Eyes](https://open.spotify.com/track/6tpFpiVY3o657S33Nz22pD) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 2:16 | 2023-04-14 |  |
@@ -111,7 +112,7 @@
 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 | 2023-04-14 |  |
 | [The Road Goes On Forever](https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Road Goes On Forever](https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l) | 4:41 | 2023-04-14 |  |
 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 | 2023-04-14 |  |
-| [This Room For Rent](https://open.spotify.com/track/1MxmR2rNvBxSKSycjqKPXm) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Country Sweetheart](https://open.spotify.com/album/1gcBE0IYqQVzK2z3zCJrib) | 2:56 | 2023-04-14 |  |
+| [This Room For Rent](https://open.spotify.com/track/1MxmR2rNvBxSKSycjqKPXm) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Country Sweetheart](https://open.spotify.com/album/1gcBE0IYqQVzK2z3zCJrib) | 2:56 | 2023-04-14 | 2024-09-28 |
 | [Today I Started Loving You Again](https://open.spotify.com/track/6vGlkVwnCLh7Q5JRueDQ2y) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 3:28 | 2023-04-14 |  |
 | [Travelin' Kind](https://open.spotify.com/track/23Q7PvHDBsfGPcCrWBT6cx) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 2:57 | 2023-04-14 |  |
 | [Under Your Spell Again \(with Jessi Colter\)](https://open.spotify.com/track/6PyQp5EO05bC0XOcjLzvX5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 2:52 | 2023-04-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,029 likes - 190 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,045 likes - 190 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 189 | [Badbye Goodbye](https://open.spotify.com/track/6bI5nqX8BhWMk9AhTrUXnh) | [Bellemule](https://open.spotify.com/artist/3qHNZZTUee8CsSsCzcpTwP), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [DOK](https://open.spotify.com/album/5CfijvhPHh0En1EvJFPKql) | 3:16 |
 | 190 | [心斎橋エイリアン](https://open.spotify.com/track/1xDmXHMiR556cChLgMZ5Bl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [虎丸笑万\(CV:Lico\)](https://open.spotify.com/artist/0vsKwg9qupfYuYgYoX7igD), [飴村音凛\(CV:Noa\)](https://open.spotify.com/artist/0lFXZD9gGS5IzBWv1KZhf6), [東海林桃々子\(CV:Mone\)](https://open.spotify.com/artist/10ItJwGJ85nKGk1LfHtCMh) | [心斎橋エイリアン](https://open.spotify.com/album/4oNVbwgMw0QDHF0Zvau84W) | 3:10 |
 
-Snapshot ID: `Zqj/8AAAAAC03PQiSch2c1cu9OyyktmD`
+Snapshot ID: `Zqj/8AAAAAAvJXJpEq2e2fbQwkNvda19`

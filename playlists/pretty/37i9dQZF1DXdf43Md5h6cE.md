@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,967 likes - 215 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,087 likes - 215 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 214 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 |
 | 215 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
 
-Snapshot ID: `Zs9JxwAAAABLN8sWWcGhBGs3q20cPXMo`
+Snapshot ID: `Zs9JxwAAAACe5RaBXk5oLPG2XgBxXMk2`

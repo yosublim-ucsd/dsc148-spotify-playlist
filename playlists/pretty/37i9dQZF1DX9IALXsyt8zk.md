@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,779 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,774 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [POSE!](https://open.spotify.com/track/3go5iX7Ad1IqlBXrIzYexX) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [POSE!](https://open.spotify.com/album/1ffrAg0MhHxp6YZtiwWCB4) | 2:34 |
 | 50 | [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 |
 
-Snapshot ID: `ZuEhdwAAAAAW3dAPR1PkvS8mC9Q6n/cc`
+Snapshot ID: `ZuEhdwAAAADn6fX6FMUJJIC93ic/hNZ5`

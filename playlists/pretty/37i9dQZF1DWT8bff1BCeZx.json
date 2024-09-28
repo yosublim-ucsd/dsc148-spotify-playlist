@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 17896,
+  "num_followers": 17909,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1vAAAAADeRi2OeKJYBshvADzOfiRL",
+  "snapshot_id": "ZvX1vAAAAABvFIoogm3WTxsXjHYH68AT",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -525,20 +525,28 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-04-26 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "El-Roi",
-        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+        "name": "Altar (Hosanna)",
+        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
       },
       "artists": [
         {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 224070,
-      "name": "El-Roi",
-      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+      "duration_ms": 172035,
+      "name": "Altar (Hosanna)",
+      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -581,6 +589,22 @@
       "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
     },
     {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "El-Roi",
+        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224070,
+      "name": "El-Roi",
+      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Big God",
@@ -599,30 +623,6 @@
       "duration_ms": 150000,
       "name": "Big God",
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Altar (Hosanna)",
-        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Altar (Hosanna)",
-      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
     },
     {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Grace Story",
+        "url": "https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        },
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "duration_ms": 423093,
+      "name": "Grace Story",
+      "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
+    },
+    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -963,22 +983,6 @@
       "duration_ms": 237479,
       "name": "Regular (feat. Fiokee)",
       "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 628354,
-      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
-      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
     }
   ],
   "unique_name": "Higher",

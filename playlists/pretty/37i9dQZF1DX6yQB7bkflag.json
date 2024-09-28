@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Ghea Indrawari",
-  "num_followers": 116184,
+  "num_followers": 116183,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYDPQAAAAAsp6P0Gz166B6fbijsfJBo",
+  "snapshot_id": "ZvYxBAAAAAClV3sujdrcZ+IYh2zSmVAA",
   "tracks": [
     {
       "added_at": "2024-09-26 17:56:18",
@@ -23,6 +23,26 @@
       "duration_ms": 239992,
       "name": "Setengah Mati - From \"Bila Esok Ibu Tiada\"",
       "url": "https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit"
+    },
+    {
+      "added_at": "2024-09-26 17:56:18",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2024-09-26 17:56:18",
@@ -469,6 +489,22 @@
       "url": "https://open.spotify.com/track/77Rclu7W7JH0sUdaaFNfN7"
     },
     {
+      "added_at": "2024-09-27 04:13:56",
+      "album": {
+        "name": "RECEIVER",
+        "url": "https://open.spotify.com/album/3kxtHT2VcwsHiSbISsEahV"
+      },
+      "artists": [
+        {
+          "name": "Hanif Andarevi",
+          "url": "https://open.spotify.com/artist/46jG6QBzEDi15k17UjJCQS"
+        }
+      ],
+      "duration_ms": 261358,
+      "name": "Lost Satellite",
+      "url": "https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ"
+    },
+    {
       "added_at": "2024-09-27 00:58:36",
       "album": {
         "name": "9 to 5",
@@ -779,6 +815,26 @@
     {
       "added_at": "2024-09-26 17:56:18",
       "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 146228,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN"
+    },
+    {
+      "added_at": "2024-09-26 17:56:18",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm"
       },
@@ -807,6 +863,22 @@
       "duration_ms": 173453,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+    },
+    {
+      "added_at": "2024-09-27 04:13:56",
+      "album": {
+        "name": "GOLDEN AGE",
+        "url": "https://open.spotify.com/album/6t3KgJK2GFnbVgNIk9vwat"
+      },
+      "artists": [
+        {
+          "name": "KATHMANDU",
+          "url": "https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi"
+        }
+      ],
+      "duration_ms": 262608,
+      "name": "TAKE YOU HOME",
+      "url": "https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo"
     },
     {
       "added_at": "2024-09-26 17:56:18",
@@ -1372,7 +1444,7 @@
           "url": "https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f"
         }
       ],
-      "duration_ms": 333500,
+      "duration_ms": 333044,
       "name": "Durasi",
       "url": "https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4"
     },
@@ -2071,26 +2143,6 @@
       "duration_ms": 181158,
       "name": "Eksplorasi",
       "url": "https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ"
-    },
-    {
-      "added_at": "2024-09-26 17:56:18",
-      "album": {
-        "name": "LETTER",
-        "url": "https://open.spotify.com/album/1Wb8EidxCeTwyZgarKF2uv"
-      },
-      "artists": [
-        {
-          "name": "KATHMANDU",
-          "url": "https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi"
-        },
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 269165,
-      "name": "LETTER",
-      "url": "https://open.spotify.com/track/6kWE9VM6FocJQlwvNSo0Yg"
     },
     {
       "added_at": "2024-09-26 17:56:18",

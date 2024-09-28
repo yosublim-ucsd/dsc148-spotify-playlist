@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-242 songs - 17 hr 44 min
+243 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bound](https://open.spotify.com/track/7tVdSMa3NTUkLP5swHLJ67) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Bound](https://open.spotify.com/album/3R8BezH0zYvW7MIgtdD0bx) | 4:37 | 2021-01-05 | 2022-04-27 |
 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 | 2021-03-17 |  |
 | [Breathing](https://open.spotify.com/track/1SpPYZXLuUJ7BxiK16PNeb) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/6PkMBdWyPN8jeNtyHcB3N2) | 3:42 | 2020-06-07 | 2022-05-31 |
-| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2021-03-16 |  |
+| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2021-03-16 | 2024-09-28 |
 | [Burst](https://open.spotify.com/track/61lptJvdOLbF0CICC5K74l) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Burst](https://open.spotify.com/album/5zmdoVs8pjlNgOGuRfPqOz) | 4:31 | 2024-05-16 | 2024-08-19 |
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2020-06-08 | 2022-07-27 |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2022-05-30 | 2024-04-19 |
@@ -120,6 +120,7 @@
 | [Looking Back](https://open.spotify.com/track/1o7oX9vAT7pdED3vaZ035C) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Bahasa](https://open.spotify.com/album/0ZHcB7ypGVPQPolTROtl4c) | 5:37 | 2021-02-15 | 2022-07-27 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-01-05 |  |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2020-06-05\* |  |
+| [Lost Without You](https://open.spotify.com/track/2aBChGNbGqlYmqbOrVqMBp) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Lost Without You](https://open.spotify.com/album/7kdH6aQMnPMhpLwJCxiS4f) | 3:24 | 2024-09-19 |  |
 | [Loud \- Shura Remix](https://open.spotify.com/track/4hn5Ey6jVFtsD9tYMKPpM0) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Loud \(Shura Remix\)](https://open.spotify.com/album/6z945ZfXHDb3eCNmgEJ5yC) | 3:30 | 2021-01-05 | 2022-06-25 |
 | [Loud Places](https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 4:43 | 2021-03-21 | 2022-07-29 |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-05-30 | 2024-04-19 |

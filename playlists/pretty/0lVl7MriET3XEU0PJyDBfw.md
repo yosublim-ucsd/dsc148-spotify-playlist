@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,011 likes - 67 songs - 3 hr 26 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,010 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,13 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 65 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 |
 | 66 | [Never Us \- BYOR Remix](https://open.spotify.com/track/5yYMcLmvNXFSCdVtHgEI5d) | [Menew](https://open.spotify.com/artist/5Y68Dd9lWKLEZv2b4IhnVL), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Never Us \- BYOR Remix](https://open.spotify.com/album/4V0gFk2glr4YUZSW2GOEKg) | 2:40 |
 | 67 | [Sunshine](https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Sunshine](https://open.spotify.com/album/59WhNZGVeVT6FFypPFU2GV) | 3:26 |
+| 68 | [Breathe](https://open.spotify.com/track/3Y9GBFqtPcU1U2eJyZ6P6D) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Breathe](https://open.spotify.com/album/4U2SOY0Si1AlgQ5DGKTgNj) | 2:50 |
+| 69 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/50ixUxOy4WLhdcUITYOyXo) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/5233HXvjmNEuh5bwyOkzlt) | 3:13 |
+| 70 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |
+| 71 | [Feel Da](https://open.spotify.com/track/5FENDRMYTDXzlEP0JaUU6k) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Feel Da / Im Ready](https://open.spotify.com/album/5QKxHHk1HHlTsKEDaJgaan) | 2:53 |
+| 72 | [Headrush](https://open.spotify.com/track/0Bf9IX8gZR56GhldKbiCn1) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Headrush](https://open.spotify.com/album/2updjCHOE9KFhZgiZKD6P2) | 2:58 |
+| 73 | [Freaky Feed Me \(feat\. Leven Kali\)](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Freaky Feed Me \(feat\. Leven Kali\) / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 |
+| 74 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 |
+| 75 | [Set It Off](https://open.spotify.com/track/18wTTWD0M8FHb7wrFv5tQF) | [Codes](https://open.spotify.com/artist/3FBxzgzGPs9XUfSYZgG1vX) | [This Is It](https://open.spotify.com/album/14IDAF13x4wAsD1GGXa6yQ) | 4:53 |
 
-Snapshot ID: `AAAZNOGKqVmMrc4EUQ7axlyTjIx7WmG8`
+Snapshot ID: `AAAZPBNsdHb5mkuKX62otpvDeVHLWE9/`

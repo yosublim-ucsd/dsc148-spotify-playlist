@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Mau y Ricky, Arcángel
+> Aquí está el sonido urbano de Venezuela\. Cover: Flow Morati, Junior Caldera y Louis BPM
 
-162 songs - 8 hr 43 min
+163 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cuchi](https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU), [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc) | [Cuchi](https://open.spotify.com/album/3smXUWOg26SSZj907yXF2Z) | 2:38 | 2023-04-21 |  |
 | [Culpable](https://open.spotify.com/track/0iH52C7k07HUibOHBsxRta) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Young Tiller](https://open.spotify.com/artist/6LELaB0TSkf5DuYbhHYYiQ) | [Honesto](https://open.spotify.com/album/3Ou22NCBta6IMiRhr0YuSK) | 3:10 | 2023-12-01 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 | 2023-10-07 |
-| [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 |  |
+| [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 | 2024-09-28 |
 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 | 2022-04-22 | 2023-04-22 |
 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 | 2023-11-18 |
 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 | 2023-10-27 | 2024-03-23 |
@@ -111,6 +111,7 @@
 | [No La Supero](https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx) | [No La Supero](https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux) | 2:44 | 2022-04-08 | 2022-09-09 |
 | [No Me Quiero Bañar](https://open.spotify.com/track/18SgLagyHDasjpxuoCl6OY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [No Me Quiero Bañar](https://open.spotify.com/album/52nWdtSQbxoXqNbiPJEEXE) | 3:28 | 2022-03-11 |  |
 | [No Me Quiero Bañar](https://open.spotify.com/track/3s5vf5jFE3CD8M8ek5vms8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Comida para Llevar \(2ª Season\)](https://open.spotify.com/album/0lqmZ6ftPXsDJKw1xVEXw7) | 3:28 | 2024-04-05 | 2024-04-19 |
+| [No se pica torta](https://open.spotify.com/track/3WVqwQjKQvC15983z1Jgxe) | [Flow Morati](https://open.spotify.com/artist/2SHH3i2VerGwmbgivxGxd4), [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [No se pica torta](https://open.spotify.com/album/6wOCZWVVXAw4gCYRQ0L94n) | 3:51 | 2024-09-27 |  |
 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 | 2023-11-24 |  |
 | [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 | 2022-03-11 | 2022-06-11 |
 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 | 2022-03-11 |  |

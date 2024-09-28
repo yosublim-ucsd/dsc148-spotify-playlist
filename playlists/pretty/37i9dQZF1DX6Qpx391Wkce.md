@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,882 likes - 62 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,899 likes - 62 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 61 | [Talking To My Self \- 19:26 Remix](https://open.spotify.com/track/4o7LwQCPCvMjAWSs0V0GKF) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p), [Pôngo](https://open.spotify.com/artist/5MdQkQHcQwFNM9spXSqjdv), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX) | [Talking To Myself \(Remixes\)](https://open.spotify.com/album/1Hn8pGBXYELpHroKfu1XSr) | 2:55 |
 | 62 | [Stellar \- ANNA Remix](https://open.spotify.com/track/3eZAKySvQ3VBUlGdSmI7SD) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Stellar \- ANNA Remix](https://open.spotify.com/album/6QT8IOUeqAPMQ3mmO3uuvg) | 3:32 |
 
-Snapshot ID: `Zu0ehwAAAAD8sa6HCxXqYKcUUDD592VC`
+Snapshot ID: `Zu0ehwAAAADNVpAxw77lHuIOow0Ayn2R`

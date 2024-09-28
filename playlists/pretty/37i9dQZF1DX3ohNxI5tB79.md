@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,795 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,886 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 8 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
 | 9 | [Bat \(For You\)](https://open.spotify.com/track/2vC2SmmDqsXEIK6JL29siK) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [ElectroSoul](https://open.spotify.com/album/7asruEMSmzaLp7FPOJEs32) | 2:49 |
 | 10 | [Miss Universe](https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [UPRISE](https://open.spotify.com/album/4GjHhGjiJZTlctbH6DKp0E) | 4:15 |
-| 11 | [I Feel Alright](https://open.spotify.com/track/1OCanjTF96osCOy1nmFCRx) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Oli\-J](https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj), [Glen Turner II](https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [I Feel Alright](https://open.spotify.com/album/7sNv0KlEAlfQ0TYVeE0Do2) | 2:25 |
+| 11 | [I Feel Alright](https://open.spotify.com/track/1OCanjTF96osCOy1nmFCRx) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Oli\-J](https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj), [Glen Turner II](https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s) | [I Feel Alright](https://open.spotify.com/album/7sNv0KlEAlfQ0TYVeE0Do2) | 2:25 |
 | 12 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 |
 | 13 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 |
 | 14 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 79 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 |
 | 80 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 |
 
-Snapshot ID: `Zu0i3AAAAAAstjV7UH3Gl0pwxEChcsj4`
+Snapshot ID: `Zu0i3AAAAADZ2rj5MHCDfVJZ9I66NgtE`

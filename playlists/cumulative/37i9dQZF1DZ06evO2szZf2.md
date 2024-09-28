@@ -2,9 +2,9 @@
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-94 songs - 5 hr 42 min
+95 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Mochila nas Costas / Empurra Empurra](https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0) | [DJ Felipe Único](https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Mochila nas Costas / Empurra Empurra](https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9) | 4:01 | 2024-08-03 |  |
 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 | 2024-01-14 | 2024-04-08 |
 | [Na Party](https://open.spotify.com/track/0b98Ip9fvY2y7LieTWBwsL) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 3:03 | 2024-06-25 | 2024-07-25 |
+| [No Sigilo \(Medley Delas\)](https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo) | [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Central dos Bailes](https://open.spotify.com/artist/3fpAxSkLRgqGWNW2VxX15i) | [No Sigilo \(Medley Delas\)](https://open.spotify.com/album/2E5N59Rpxao35WYArCIEzo) | 3:45 | 2024-09-28 |  |
 | [Nosso Flow](https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Nosso Flow](https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY) | 4:41 | 2023-12-30 | 2024-07-04 |
 | [Nosso Flow](https://open.spotify.com/track/6ZnuZCWtUOQQhO3iZRP6Ix) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Nosso Flow](https://open.spotify.com/album/23PQic09eUSgs6yrFmMmFc) | 4:41 | 2024-07-11 | 2024-09-25 |
 | [Only Fan$](https://open.spotify.com/track/2WKciZdNlja4UfSoonkCaE) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:40 | 2024-06-11 | 2024-06-24 |

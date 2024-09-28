@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,340 likes - 89 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,396 likes - 89 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 88 | [Most High](https://open.spotify.com/track/1RR8q4IepBoQwVFmbOizQM) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Most High](https://open.spotify.com/album/5qIAugNLiLPeNzugJB3wTs) | 2:58 |
 | 89 | [One Of Them Ones](https://open.spotify.com/track/0EcL8667UQIGNCqJG5AlWh) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [Childhood Trauma](https://open.spotify.com/album/0GMP21tyFRTv74Fcstcnhf) | 3:22 |
 
-Snapshot ID: `Zu4WgAAAAACOgOeqJcsVnceb47VFueee`
+Snapshot ID: `Zu4WgAAAAAA2qDg+ZhYDyD9GPC7gVu6C`

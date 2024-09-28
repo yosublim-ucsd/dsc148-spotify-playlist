@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,253 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,250 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 |
 | 25 | [If Looks Could Kill](https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [If Looks Could Kill](https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j) | 3:08 |
 | 26 | [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 |
-| 27 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
+| 27 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 |
 | 28 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 |
-| 29 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 |
+| 29 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
 | 30 | [Shame](https://open.spotify.com/track/1mUciZNK2olURLMvqzkkZo) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:34 |
 | 31 | [Out Of This World](https://open.spotify.com/track/0UcLSSdeAeNCn4T28S0EKO) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Out Of This World](https://open.spotify.com/album/78R8e1C824Qo6335JT41FD) | 3:36 |
 | 32 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 42 | [Stronger Than You Know](https://open.spotify.com/track/3I16kAch3NaddHKq3Z9CcO) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Echo](https://open.spotify.com/album/0T8JaGsEsukQVp9oo2Md9Y) | 2:17 |
 | 43 | [Can't You See](https://open.spotify.com/track/2qOOIfzwvUkKNAXS3fIptP) | [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Can't You See](https://open.spotify.com/album/0NSfYdKMZgMfWAKx54ukEB) | 3:15 |
 
-Snapshot ID: `ZtsXDQAAAACToNwsE13yQuug2miAAi/4`
+Snapshot ID: `ZtsXDQAAAADNIkThjxYmpKebqpHgX2D1`

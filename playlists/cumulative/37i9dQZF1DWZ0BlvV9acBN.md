@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Resgate
 
-168 songs - 12 hr 59 min
+169 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Coração de Pedra](https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Coração de Pedra](https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo) | 3:45 | 2023-08-18 | 2023-09-26 |
 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 | 2023-04-15 |  |
 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 | 2022-09-02 |  |
-| [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 |  |
+| [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 | 2024-09-28 |
 | [Derrama Fogo \- Ao Vivo](https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Atitud Ao Vivo, Vol\. 2](https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp) | 5:37 | 2024-03-08 | 2024-06-22 |
 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 | 2022-09-02 |  |
 | [Deserto 2.0](https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Deserto 2.0](https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR) | 3:38 | 2023-07-21 | 2023-10-07 |
@@ -128,6 +128,7 @@
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 | 2022-09-02 | 2024-04-19 |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/6lVXZ4l8g3rm2WXOTAFHAV) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS) | 6:22 | 2024-04-19 | 2024-06-08 |
 | [Onde Está \- Ao Vivo](https://open.spotify.com/track/5VMjo4JUWyByKT3CC3IqGL) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Humanos Tour \(Ao Vivo\)](https://open.spotify.com/album/2OFNDyf4xI5tATMjLjV87T) | 5:07 | 2024-05-10 | 2024-06-29 |
+| [ONDE O MEL É MAIS DOCE](https://open.spotify.com/track/2xR7kLS3UaCgrNwvb3AdUf) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [Arele](https://open.spotify.com/artist/5xzpcH7QlPDbBinEa2s348) | [ONDE O MEL É MAIS DOCE](https://open.spotify.com/album/5GipGJnJt75xXx4O4faAf4) | 5:04 | 2024-09-27 |  |
 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 | 2022-09-02 |  |
 | [Os Que Confiam \- Live](https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 5:38 | 2023-04-15 |  |
 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 | 2022-09-02 |  |

@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
+      "album": {
         "name": "all the bands",
         "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192317,
       "name": "Birdwatcher",
       "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
@@ -1760,6 +1778,28 @@
       "duration_ms": 206829,
       "name": "Blacklist (with Matisyahu)",
       "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
+    },
+    {
+      "album": {
+        "name": "BLEU",
+        "url": "https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188330,
+      "name": "BLEU",
+      "url": "https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn"
     },
     {
       "album": {
@@ -5833,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "GM",
+        "url": "https://open.spotify.com/album/6LGxkU1xC5qlrNmmNCk02Q"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "GM",
+      "url": "https://open.spotify.com/track/2HzdPkPYNxtqHQT2g30zrf"
+    },
+    {
+      "album": {
         "name": "Go Higher",
         "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
@@ -6214,7 +6272,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 241160,
       "name": "ground in your hands",
       "url": "https://open.spotify.com/track/3rpwGidGWLzwiYlXRbNwk6"
@@ -6272,7 +6330,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 115759,
       "name": "HAPPY ENDING",
       "url": "https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ"
@@ -8582,7 +8640,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210472,
       "name": "LET IT GO",
       "url": "https://open.spotify.com/track/2oDxup8QDQZJ10LLdoq7qZ"
@@ -9154,7 +9212,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
@@ -9516,7 +9574,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -10036,7 +10094,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 155131,
       "name": "Million Billion Trillion",
       "url": "https://open.spotify.com/track/5Mj2za2W4PZ3NDN3d1NYdR"
@@ -10748,6 +10806,24 @@
       "duration_ms": 224888,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq"
+    },
+    {
+      "album": {
+        "name": "No upstream",
+        "url": "https://open.spotify.com/album/02H6pG00aPWtSubJgQgdwg"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151858,
+      "name": "No upstream",
+      "url": "https://open.spotify.com/track/7m5X4TXfY2YpUAAOOdTlsY"
     },
     {
       "album": {
@@ -11824,6 +11900,24 @@
       "duration_ms": 178000,
       "name": "Raspberry Tongue",
       "url": "https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO"
+    },
+    {
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/6ZzZBkpGHRxmmPwYXwwH2G"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/2IehkByzIu1b7iaq21L4Qo"
     },
     {
       "album": {
@@ -13191,6 +13285,24 @@
     },
     {
       "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180850,
+      "name": "Slugger",
+      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
       },
@@ -14159,6 +14271,24 @@
     },
     {
       "album": {
+        "name": "Sunny Blue",
+        "url": "https://open.spotify.com/album/5cMWIjtOAzw8xV5RPfZuuB"
+      },
+      "artists": [
+        {
+          "name": "Serena Sun",
+          "url": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "Sunny Blue",
+      "url": "https://open.spotify.com/track/2B7Ue5xy6nCHNPnWUKnl7a"
+    },
+    {
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -14959,6 +15089,24 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1HuOAu4VK1usRAUcip0WhY"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/4XQ3KhcNJ1FYTVMb4honlK"
+    },
+    {
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -15148,7 +15296,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210428,
       "name": "think you're falling",
       "url": "https://open.spotify.com/track/4Yi4sBLH09aqGq5J6dzl3W"
@@ -15730,7 +15878,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 149600,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
@@ -15854,6 +16002,24 @@
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
+        "name": "Undercover Plan",
+        "url": "https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0"
+      },
+      "artists": [
+        {
+          "name": "Yokkorio",
+          "url": "https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Undercover Plan",
+      "url": "https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC"
     },
     {
       "album": {
@@ -16336,7 +16502,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"

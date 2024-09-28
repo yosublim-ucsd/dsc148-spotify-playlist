@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 54 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 54 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 | 53 | [I’ll Get You \- Instrumental](https://open.spotify.com/track/2IV2a2WFAyuuTs5VXP9WB6) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [DNA Lover \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3i932Ysorg1UeMSCgQvHEn) | 3:19 |
 | 54 | [Caged \- Instrumental](https://open.spotify.com/track/7CQtYAScrUbwp1jknhJ199) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 |
 
-Snapshot ID: `ZvDKogAAAABDSXP/9iZDL0+/mueHN9DX`
+Snapshot ID: `ZvDKogAAAAA825eV99JQYsmxX1DprPr/`

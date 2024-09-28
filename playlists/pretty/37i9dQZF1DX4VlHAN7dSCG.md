@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Blueburn
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,066 likes - 57 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,069 likes - 57 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 56 | [一顆星的寂寞](https://open.spotify.com/track/5cXzcmgK4lODSlU2gOnibA) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV) | [一顆星的寂寞](https://open.spotify.com/album/3gARKYrgSYebjKHG79zwFI) | 4:04 |
 | 57 | [臺灣文蛤 Huh?](https://open.spotify.com/track/6X9nCVKtcG1DLvXhSE9EVo) | [A Root 同根生](https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE) | [臺灣文蛤 Huh?](https://open.spotify.com/album/525cf7buiKibRJ9160tpg0) | 3:08 |
 
-Snapshot ID: `ZvWFAAAAAAB1azm+LOadvnuQr8GuWoL7`
+Snapshot ID: `ZvWFAAAAAABSlr5c8F3K8QLhYyFU7wHK`

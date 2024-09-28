@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,018 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,033 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 99 | [Silk Lounge](https://open.spotify.com/track/2hkE1MEvLpo7vwbtyTi9Bg) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Silk Lounge](https://open.spotify.com/album/4LJfGRZoCxg2Q1yF7P8gia) | 3:34 |
 | 100 | [Temple \- Kermesse Remix](https://open.spotify.com/track/3CfWjRakHy5ZoI7oh7wO4B) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Temple](https://open.spotify.com/album/7cXNPxFqvsqKw3s71dTFM3) | 6:04 |
 
-Snapshot ID: `ZuQ5QQAAAACmPHBgfqaK4kmwLxryqGHC`
+Snapshot ID: `ZuQ5QQAAAAC7neauSAAjePnijGVXJ6Sv`

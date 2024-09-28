@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,016 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,110 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Shoot](https://open.spotify.com/track/6aUsMZk5RinEkocINXOBZX) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:29 |
 | 49 | [Don't](https://open.spotify.com/track/3WEbhtkGe986Nuw6hnq4VR) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV) | [Don't](https://open.spotify.com/album/7viWe4pQ7XpLMFUJNQ3wtv) | 2:53 |
 
-Snapshot ID: `ZvXZYAAAAACDxxolTcVgivAmONBlOFCs`
+Snapshot ID: `ZvbWNgAAAADXUayTtSKhmCj7XVB87NP9`

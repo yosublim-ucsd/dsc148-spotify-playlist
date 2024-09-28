@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Future,Central Cee, Ice Spice, Childish Gambino, and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from The Weeknd, Future, Central Cee, Ice Spice, Childish Gambino, and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 147746,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -672,6 +672,28 @@
       "duration_ms": 175357,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
+    },
+    {
+      "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
       "album": {
@@ -2414,7 +2436,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 234586,
       "name": "H.Y.B. (feat. Bas & Central Cee)",
       "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
@@ -3991,7 +4013,7 @@
     },
     {
       "album": {
-        "name": "Off White Rozay",
+        "name": "Off White Rozay (feat. Voice of Harlem)",
         "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
       },
       "artists": [
@@ -4004,7 +4026,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149313,
-      "name": "Off White Rozay",
+      "name": "Off White Rozay (feat. Voice of Harlem)",
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {
@@ -5903,6 +5925,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },
@@ -6109,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Turn Up A Notch",
+        "url": "https://open.spotify.com/album/2ahiulnzUjr6TQtJ61OJO6"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141878,
+      "name": "Turn Up A Notch",
+      "url": "https://open.spotify.com/track/25iuEho6akUyl3aufmXHqy"
+    },
+    {
+      "album": {
         "name": "Twin (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz"
       },
@@ -6224,7 +6286,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"

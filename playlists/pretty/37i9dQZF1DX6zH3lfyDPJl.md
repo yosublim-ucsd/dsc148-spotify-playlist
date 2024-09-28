@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 강렬하면서도 섬세한 감정을 담고 있는 얼터네이티브 록 음악을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769 likes - 111 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,768 likes - 111 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 97 | [daisy.](https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou) | 3:38 |
 | 98 | [L](https://open.spotify.com/track/08yMOmydumplen59qUD4zf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [L](https://open.spotify.com/album/6m2BgbFl4IgJf7zJ48sxko) | 3:36 |
 | 99 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 |
-| 100 | [a will \(feat\. Car the garden\)](https://open.spotify.com/track/6NsRPpK8eXNY1gJAY5QXBo) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [a will](https://open.spotify.com/album/1nchrXiaAT5HZBSdnBAent) | 3:39 |
+| 100 | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/track/6NsRPpK8eXNY1gJAY5QXBo) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/album/1nchrXiaAT5HZBSdnBAent) | 3:39 |
 | 101 | [Deranged](https://open.spotify.com/track/4nvwl26KP8LtXaztmBjxPp) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 4:24 |
 | 102 | [Breakfast](https://open.spotify.com/track/1vbL5qt2ngwEBHATWXb14U) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [bright \#8](https://open.spotify.com/album/3x5JPubOZ28pGepd3EKmYW) | 2:58 |
 | 103 | [All in Vain](https://open.spotify.com/track/53SLgPGQoOR0zlc4FUmvzG) | [Mot](https://open.spotify.com/artist/1tpzH7XBT9sUJx4CMB4hCp) | [Ashcraft](https://open.spotify.com/album/5FBwf71FG9KX6PnweeTbBg) | 3:56 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 110 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 |
 | 111 | [Inner Eden](https://open.spotify.com/track/3WUq4X29XbjWDDN3i6ALnk) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 4:21 |
 
-Snapshot ID: `ZtfBmAAAAAAuVvH94A3t8oTokMc6WNvW`
+Snapshot ID: `ZtfBmAAAAACivaybZBpfJX/GoaePWXVu`

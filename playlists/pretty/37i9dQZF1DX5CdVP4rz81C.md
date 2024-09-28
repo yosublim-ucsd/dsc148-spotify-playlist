@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,266 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,228 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [Co\-Pathetic](https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Collapse List](https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB) | 3:55 |
 | 100 | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 |
 
-Snapshot ID: `ZuzzQAAAAABd0d3Wl4DNjNYN4Mq/b/EX`
+Snapshot ID: `ZuzzQAAAAAAvQ31n2Nh3MnU9toxuf/hA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:1FYE37rOHOrxO1lHAQUkCl">Antoine Bradford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,535 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,556 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 89 | [In Between](https://open.spotify.com/track/7znhYJ3efuOx1P3vpoIxIe) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Breakthrough](https://open.spotify.com/album/013O6wEINTw8EV61nxGA2z) | 2:20 |
 | 90 | [WON'T LET TOMORROW](https://open.spotify.com/track/0PFlqBbPx0Yszs1deYB5uH) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [WON'T LET TOMORROW](https://open.spotify.com/album/304o5rOyRwgbSuHOhlqttH) | 2:40 |
 
-Snapshot ID: `ZvSo6gAAAAA8zrAZCSyqVs1nbLloBZOY`
+Snapshot ID: `ZvSo6gAAAACJAYcEQbra5ZY23pPErhfZ`

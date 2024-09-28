@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Skullpresser
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,042 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,090 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 |
 | 100 | [The Prophets and Doom](https://open.spotify.com/track/66fnVLmFtoCSAyHApc7H6f) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Tools of Oppression/Rule by Deception](https://open.spotify.com/album/2Y56ReIba9GSXFIIMGCrw9) | 3:05 |
 
-Snapshot ID: `ZuO4wAAAAAC/liVykXAMVN1IK1SHJjTG`
+Snapshot ID: `ZuO4wAAAAABKQFBOtqqN8bao2/eX1I4M`

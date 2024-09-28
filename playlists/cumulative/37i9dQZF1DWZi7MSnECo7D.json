@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: DAPARTE, Ana Caetano",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Dani Bessa",
   "name": "alt BR",
   "tracks": [
     {
@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Verana",
+        "url": "https://open.spotify.com/album/1S7CkXu5LfjcyBU8L43d3K"
+      },
+      "artists": [
+        {
+          "name": "Lila",
+          "url": "https://open.spotify.com/artist/4JMUFi0rRIYoyOo7sDZUoY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140242,
+      "name": "Bonde das Onri\u00e7ada",
+      "url": "https://open.spotify.com/track/2iMmCHAkh92esr7gM9JP8z"
+    },
+    {
+      "album": {
         "name": "Borda da Linha",
         "url": "https://open.spotify.com/album/1BRsFlURPkZr5gVWSCCv4P"
       },
@@ -2851,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/0Ky85K9YsToTW5baHDRpKl"
+      },
+      "artists": [
+        {
+          "name": "Momboj\u00f3",
+          "url": "https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Cora\u00e7\u00e3o Bobo",
+      "url": "https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY"
+    },
+    {
+      "album": {
         "name": "Cora\u00e7\u00e3o Cometa",
         "url": "https://open.spotify.com/album/6KMPJESfNAtBd9ktST28yl"
       },
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 307589,
       "name": "Corrida!",
       "url": "https://open.spotify.com/track/7dn7kstmJzGEIWKvDG1ZqC"
@@ -3152,7 +3188,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201057,
       "name": "De ponta cabe\u00e7a",
       "url": "https://open.spotify.com/track/22kGdSLK3uos6nXIvrCzBZ"
@@ -3666,7 +3702,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 202000,
       "name": "Dolores Prestes a Levitar",
       "url": "https://open.spotify.com/track/7n24CsLROsiawSHA3pnhHf"
@@ -3876,6 +3912,24 @@
       "duration_ms": 252959,
       "name": "Electric Fish",
       "url": "https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF"
+    },
+    {
+      "album": {
+        "name": "Elefantes",
+        "url": "https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Elefantes",
+      "url": "https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz"
     },
     {
       "album": {
@@ -5010,7 +5064,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 284834,
       "name": "Fossa",
       "url": "https://open.spotify.com/track/1pDUewwwYjxsfUeFpOHtPe"
@@ -5178,6 +5232,24 @@
       "duration_ms": 150320,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/5gWer2Q0jgZo2VHgt3akHr"
+    },
+    {
+      "album": {
+        "name": "Hiperdrama",
+        "url": "https://open.spotify.com/album/1c6vK2tA3ysL1eVrp26viF"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Hiperdrama",
+      "url": "https://open.spotify.com/track/05ydEpbmq9hREtvEa06vWd"
     },
     {
       "album": {
@@ -6655,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Medo De Beijar",
+        "url": "https://open.spotify.com/album/7JazG2fpXueGkzXZj6rkSN"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Medo De Beijar",
+      "url": "https://open.spotify.com/track/3EDvrf8q0U53TAbT9O2TCE"
+    },
+    {
+      "album": {
         "name": "Medo de Ser",
         "url": "https://open.spotify.com/album/6fY0Q0QUlP21Gr6lZlVcLP"
       },
@@ -7699,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "Iconoclasta",
+        "url": "https://open.spotify.com/album/0YZzL5pIPXuM4UTl6FdEfE"
+      },
+      "artists": [
+        {
+          "name": "Matheus Who",
+          "url": "https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "No Esta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1fFsTut42ASFoCZRKdzuLr"
+    },
+    {
+      "album": {
         "name": "noiada indoor",
         "url": "https://open.spotify.com/album/5imRZ16LnB9olJx5algmTV"
       },
@@ -8200,7 +8308,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 224028,
       "name": "O Fio",
       "url": "https://open.spotify.com/track/2ZTXsvn3TKYAYIq5jPdYWx"
@@ -8334,6 +8442,24 @@
       "duration_ms": 239635,
       "name": "O Que Eu Vou Levar Quando Eu For",
       "url": "https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp"
+    },
+    {
+      "album": {
+        "name": "O Que Nos Aproxima",
+        "url": "https://open.spotify.com/album/41XpzZ40MlPBY19F7cY0lR"
+      },
+      "artists": [
+        {
+          "name": "Mundo Video",
+          "url": "https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232262,
+      "name": "O Que Nos Aproxima",
+      "url": "https://open.spotify.com/track/3mAwxVmoAVnpMWUxD9VcEN"
     },
     {
       "album": {
@@ -9192,7 +9318,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182805,
       "name": "pois bem - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/4jAgdIeBtsTFXApCOqKxUH"
@@ -10566,7 +10692,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 248254,
       "name": "Selvagem Sil\u00eancio",
       "url": "https://open.spotify.com/track/7m3PiVSwPtOpTnydpxQzH0"
@@ -11189,6 +11315,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Eu",
+        "url": "https://open.spotify.com/album/16Dd56EizDRwaObFWpvzqx"
+      },
+      "artists": [
+        {
+          "name": "Jova",
+          "url": "https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw"
+        },
+        {
+          "name": "Amado",
+          "url": "https://open.spotify.com/artist/21rgwNeSwlvcpANKjC0a1J"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "S\u00f3 Eu",
+      "url": "https://open.spotify.com/track/2HyXdfQI7gpKykyXu2uQbM"
+    },
+    {
+      "album": {
         "name": "S\u00f3 mais um cafezinho",
         "url": "https://open.spotify.com/album/28ZAQdt6ZPbHw39GFahUen"
       },
@@ -11378,7 +11526,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201572,
       "name": "Tempo de Mist\u00e9rio",
       "url": "https://open.spotify.com/track/6Tca1NDEg2WAItq6KtVNSd"

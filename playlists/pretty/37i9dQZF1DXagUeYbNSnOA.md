@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Paul Higgs\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,421 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,416 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [El Bufón](https://open.spotify.com/track/7rV3VfuEeQpPGOb4WtwV6r) | [Cata Henning](https://open.spotify.com/artist/0C5PMoDXfg7JxC39yKPCpz) | [Todas las Cosas](https://open.spotify.com/album/3yfKaGfm0YorY8oezdWZNm) | 2:27 |
 | 50 | [Así Será](https://open.spotify.com/track/5ajj2mzJc4vRa3ib9VLEeT) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Así Será](https://open.spotify.com/album/0LvIRZFPYOL3oxnGMfNVuZ) | 4:36 |
 
-Snapshot ID: `ZvO0zwAAAAAtX5Bge4+pSVsOPAD2K+dN`
+Snapshot ID: `ZvO0zwAAAABib4DiMnRJG1vJPN0OBrep`

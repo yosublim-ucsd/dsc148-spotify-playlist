@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,168 likes - 88 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,177 likes - 88 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 87 | [Tell Me Daddy](https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Tell Me Daddy](https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs) | 2:49 |
 | 88 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
 
-Snapshot ID: `ZuMX6gAAAAApp4KkqxnpGZDVOinsVlHc`
+Snapshot ID: `ZuMX6gAAAABcMFB60TL/tNrwhomJ2I7Z`

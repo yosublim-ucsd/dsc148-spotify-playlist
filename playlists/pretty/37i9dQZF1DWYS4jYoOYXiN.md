@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,520 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,547 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Son Cuero Y Boogaloo](https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live at the Red Garter Vol 2](https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS) | 8:30 |
 | 50 | [It's Not What You Say](https://open.spotify.com/track/2e5coCHCulu84SddM2ripp) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T) | 2:56 |
 
-Snapshot ID: `ZpmB1gAAAABWO/m8krtgIAzOBorn5Ver`
+Snapshot ID: `ZpmB1gAAAACGjd1pKUxl1uCnLuw7dllG`

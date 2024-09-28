@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Tkay Maidza
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,323 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,358 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Deep Scene](https://open.spotify.com/track/3hbLGYn8bCeOMhFoknul7k) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Deep Scene](https://open.spotify.com/album/0nJr15igzbLH7s1AsAa2pn) | 4:19 |
 | 75 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 
-Snapshot ID: `ZvVo4AAAAAAcoKMnOksTlUtAURCWwgyU`
+Snapshot ID: `ZvVo4AAAAADSUE/2ug+MKhrIDCCXcsWM`

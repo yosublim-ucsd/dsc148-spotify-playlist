@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:5KGTTFuyg5XfMMep5hTokE">Christian Singleton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,766 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,798 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 |
 | 80 | [Deathgrip](https://open.spotify.com/track/5hC0PHHxcPJnhg6Mnncub4) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1wuARmufRqgapPJIM888SU) | 4:14 |
 
-Snapshot ID: `ZtGjYQAAAAClFcfDwA0Cu1JZYEDAHABL`
+Snapshot ID: `ZtGjYQAAAAAF6L6iQ2vXJqLnGAOy1tli`

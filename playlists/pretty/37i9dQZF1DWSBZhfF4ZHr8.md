@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Amir
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,582 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,606 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Plein le coeur](https://open.spotify.com/track/5sH61fRKG9VzemeLCnEQy7) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Plein le coeur](https://open.spotify.com/album/7643FMfOT2OILHDQJaaeve) | 2:45 |
 | 50 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 |
 
-Snapshot ID: `ZvXZYAAAAAAT+JBHxdlni+IrA+wpdSeh`
+Snapshot ID: `ZvXZYAAAAAAwRYD/tTy1E3L0/zTcw3Z4`

@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "VALID (THE EP)",
+        "url": "https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V"
+      },
+      "artists": [
+        {
+          "name": "Yvng Chriis",
+          "url": "https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE"
+        },
+        {
+          "name": "Prod. Valdo",
+          "url": "https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169482,
+      "name": "BAD GYAL",
+      "url": "https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI"
+    },
+    {
+      "album": {
         "name": "Bad S.L.U.T",
         "url": "https://open.spotify.com/album/6DuWhnSyE8YAWbA8L7Qjtj"
       },
@@ -1682,7 +1704,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 165745,
       "name": "BEBE",
       "url": "https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I"
@@ -1890,6 +1912,24 @@
       "duration_ms": 132000,
       "name": "BLACK SHEEP",
       "url": "https://open.spotify.com/track/3LTn2xJNo1bjXTGPWzBm2m"
+    },
+    {
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/4UeIGRcGHjtrzfbU8RWlFB"
+      },
+      "artists": [
+        {
+          "name": "OLOOT\u00d9",
+          "url": "https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/3brIQFWT3uH1qBiHwXgJID"
     },
     {
       "album": {
@@ -3747,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/0kBF3qqZJXTShw1ciBy2nz"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3JA0kbj6KphgPEEUbA0oCK"
+    },
+    {
+      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/2yp6BWxIzvaJCSsWgrc3f8"
       },
@@ -4892,6 +4950,28 @@
       "duration_ms": 199331,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
+    },
+    {
+      "album": {
+        "name": "SOFT STEPS",
+        "url": "https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "hihi",
+          "url": "https://open.spotify.com/artist/13KQydMRX3mIb9SN5whvYF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0"
     },
     {
       "album": {
@@ -6365,6 +6445,28 @@
     },
     {
       "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/44UAVInXQ5C3pk6kxcTmsW"
+      },
+      "artists": [
+        {
+          "name": "Remy Baggins",
+          "url": "https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/3QupBIOjJOXenWum5BTr6s"
+    },
+    {
+      "album": {
         "name": "IDT",
         "url": "https://open.spotify.com/album/3vIVvdalZDCFdjxAUzV5rY"
       },
@@ -7288,6 +7390,28 @@
       "duration_ms": 144000,
       "name": "Korokoro",
       "url": "https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10"
+    },
+    {
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/0nXDWcHl2M46QgRJzQep5c"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125179,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/69osM3SWBJRW2UshVtsz9X"
     },
     {
       "album": {
@@ -9772,7 +9896,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 188000,
       "name": "OFF",
       "url": "https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D"
@@ -11150,7 +11274,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174222,
       "name": "RESURRECT",
       "url": "https://open.spotify.com/track/4eovq4Ubecp361Ls97DWdZ"
@@ -12462,7 +12586,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166857,
       "name": "Some Kind Things (feat. PsychoYP & Minz)",
       "url": "https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur"
@@ -12778,7 +12902,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 138113,
       "name": "Star",
       "url": "https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1"
@@ -14912,7 +15036,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 177235,
       "name": "What Do They Know",
       "url": "https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2"

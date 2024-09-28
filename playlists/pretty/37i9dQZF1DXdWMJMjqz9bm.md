@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,759 likes - 33 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,760 likes - 33 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 32 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 |
 | 33 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 |
 
-Snapshot ID: `ZmB9tgAAAACY89Br42W6IbdvD0Qn+W+t`
+Snapshot ID: `ZmB9tgAAAAAlSb7cfML7xRHvALJCANLq`

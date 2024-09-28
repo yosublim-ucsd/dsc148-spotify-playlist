@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,215 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,245 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,17 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 67 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 68 | [El Mundo Arder \- Versión 2024](https://open.spotify.com/track/2xLzcyPj970wUwExqxu4c2) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [El Mundo Arder \(Versión 2024\)](https://open.spotify.com/album/3ESvrH1oACPDwKuTXMPXgH) | 2:42 |
 | 69 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 70 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
-| 71 | [Generación Enferma](https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Generación Enferma](https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb) | 2:46 |
-| 72 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 |
+| 70 | [Generación Enferma](https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Generación Enferma](https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb) | 2:46 |
+| 71 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
+| 72 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 | 73 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
-| 74 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
+| 74 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 |
 | 75 | [Ansiedad](https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Ansiedad](https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4) | 3:12 |
 | 76 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 77 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
-| 78 | [ANIMAL](https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANIMAL](https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w) | 4:52 |
-| 79 | [No tengas miedo](https://open.spotify.com/track/3y58bmBOOQeEUnU7wg5VsV) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT), [Mayi Knibal](https://open.spotify.com/artist/3ZTW6joStghadAOAV49weW) | [No tengas miedo](https://open.spotify.com/album/3CB3ovIgQUIzHDgceDsCIa) | 3:08 |
-| 80 | [Arderán](https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Arderán](https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC) | 3:02 |
+| 78 | [No tengas miedo](https://open.spotify.com/track/3y58bmBOOQeEUnU7wg5VsV) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT), [Mayi Knibal](https://open.spotify.com/artist/3ZTW6joStghadAOAV49weW) | [No tengas miedo](https://open.spotify.com/album/3CB3ovIgQUIzHDgceDsCIa) | 3:08 |
+| 79 | [Arderán](https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Arderán](https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC) | 3:02 |
+| 80 | [ANIMAL](https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANIMAL](https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w) | 4:52 |
 | 81 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 |
 | 82 | [No tengo solucion para ese problema](https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [No tengo solucion para ese problema](https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa) | 2:55 |
 | 83 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 99 | [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 |
 | 100 | [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 |
 
-Snapshot ID: `ZvXZYAAAAAApdadfCl3hYCVctDJzhrN2`
+Snapshot ID: `ZvXZYAAAAAD8EM9He7O+MkssjWiaAg0B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: MPHO.WAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,201 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,202 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 7 | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [Nomvula \(feat\. Nia Pearl & Bontle Smith\)](https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM) | 4:22 |
 | 8 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 9 | [God's Calling](https://open.spotify.com/track/2YKWrbHso3MViCrzcY8Qsk) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Nomtha Welanga](https://open.spotify.com/artist/2gQO2FY0yGBiFZUhXuAGJ0), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7) | [God's Calling](https://open.spotify.com/album/66bCCLeNNd58izphT50VwP) | 6:00 |
-| 10 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \- Chromeo Remix \(radio edit\)](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
+| 10 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \[\(Chromeo Remix\) \[radio edit\]\]](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
 | 11 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 12 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 |
 | 13 | [J'oublierai tout](https://open.spotify.com/track/78cTZ1y6VMYEQxZMpjPuaq) | [Streys De DJ](https://open.spotify.com/artist/1w5Xfcrnnu7EjXeVpD9RAw), [Afro Wizardz](https://open.spotify.com/artist/3h5Zmn53SiU7O81ZZBxJwq), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [J'oublierai tout](https://open.spotify.com/album/1N9oQv561k9x70SdhrHt2w) | 5:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 59 | [Pretoria](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Pretoria](https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO) | 3:27 |
 | 60 | [Think Twice](https://open.spotify.com/track/5Pkpb4N9wLNpPnsQMQ5Wqh) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [4 The Floor](https://open.spotify.com/album/20rihG99JT6P30hUW9RM8I) | 5:02 |
 
-Snapshot ID: `ZvXncAAAAAB/KVldK31a8CBQfkVxVD5A`
+Snapshot ID: `ZvXncAAAAAARihpS5/o2+M89hbJqMkQx`

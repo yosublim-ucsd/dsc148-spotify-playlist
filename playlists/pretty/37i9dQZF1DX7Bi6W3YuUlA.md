@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover:  <a href="spotify:artist:7sP4SQ0WY6jfps1I19Ot7i">Fridayy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,116 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,134 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 74 | [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 |
 | 75 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 |
 
-Snapshot ID: `ZtaFPAAAAADXARZPSphI7F82B4/K9Fqz`
+Snapshot ID: `ZtaFPAAAAABvjack/z9e8HTok/wXHfnv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 86023,
+  "num_followers": 86028,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADQ0v8dHiu+pqoNfO9PaNNM",
+  "snapshot_id": "ZvSkAAAAAACXj/WHDN24e/avvaAwrQLa",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard",
-        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Tifa Chen",
-          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
-        }
-      ],
-      "duration_ms": 172728,
-      "name": "Billboard",
-      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 200694,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Tifa Chen",
+          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
+        }
+      ],
+      "duration_ms": 172728,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,957 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,977 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 50 | [feel the same](https://open.spotify.com/track/1lvK8Y6Zt4od4CWj82rLhE) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [feel the same \(sped up\)](https://open.spotify.com/album/3zfTd0IoMYBZ5v70d6pEql) | 2:11 |
 
-Snapshot ID: `ZvLiAAAAAAClchhkHNLm0aXfNE1C3/Ng`
+Snapshot ID: `ZvLiAAAAAABDyQVuYSkDc+lI40zjrOKP`

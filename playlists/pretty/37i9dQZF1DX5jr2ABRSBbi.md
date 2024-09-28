@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,071 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [never/forever](https://open.spotify.com/track/1a3E4tIoitO9ykvfOXiR87) | [Barbora Hora](https://open.spotify.com/artist/4Rtwe6M9J4GQcnpyNsxK1h) | [never/forever](https://open.spotify.com/album/4icetfS5QCSUR3sHn6NKFw) | 3:37 |
 | 50 | [Come and Get It](https://open.spotify.com/track/7zSPmYyo0hviUCTpuf0pHr) | [Lash & Grey](https://open.spotify.com/artist/10s63xyA30oEH9Dx1Vj4H9) | [Come and Get It](https://open.spotify.com/album/6ISiryZkXg2UjJ9c68mY3w) | 3:27 |
 
-Snapshot ID: `ZteG4AAAAAA7Lj2NWjFbgo4o9VDLodVB`
+Snapshot ID: `ZteG4AAAAAD5SDS52TnbU+t7ifQydsoN`

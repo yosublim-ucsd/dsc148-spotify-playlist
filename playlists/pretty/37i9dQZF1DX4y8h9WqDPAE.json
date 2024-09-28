@@ -1,18 +1,54 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: TOMMY RICHMAN",
-  "num_followers": 1747286,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Amaarae",
+  "num_followers": 1747242,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAADo0+Q1vXmgavx0oL31U2ep",
+  "snapshot_id": "Zva2WQAAAAAwi0UV6KRhufr2dfTbfIyl",
   "tracks": [
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-06-28 17:36:18",
       "album": {
-        "name": "WHITNEY",
-        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
+        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
+        "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 184805,
+      "name": "this!",
+      "url": "https://open.spotify.com/track/0TpZlEJiAgYGCLIQSCNiSL"
+    },
+    {
+      "added_at": "2024-09-27 13:42:49",
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 171605,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4"
+    },
+    {
+      "added_at": "2024-08-30 04:49:06",
+      "album": {
+        "name": "THOUGHT YOU WERE THE ONE",
+        "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
       },
       "artists": [
         {
@@ -20,9 +56,29 @@
           "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 164021,
-      "name": "WHITNEY",
-      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
+      "duration_ms": 178218,
+      "name": "THOUGHT YOU WERE THE ONE",
+      "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
+    },
+    {
+      "added_at": "2024-09-27 13:42:49",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2024-08-30 04:49:06",
@@ -83,6 +139,22 @@
       "duration_ms": 196040,
       "name": "Leave My Baby Tonight (feat. GloRilla)",
       "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
+    },
+    {
+      "added_at": "2024-09-27 13:42:49",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 228420,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR"
     },
     {
       "added_at": "2024-08-30 04:49:06",
@@ -169,6 +241,26 @@
       "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
     },
     {
+      "added_at": "2024-09-27 13:42:49",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Want U / Safe To Say",
@@ -183,22 +275,6 @@
       "duration_ms": 136062,
       "name": "Want U",
       "url": "https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk"
-    },
-    {
-      "added_at": "2024-08-30 04:49:06",
-      "album": {
-        "name": "THOUGHT YOU WERE THE ONE",
-        "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "THOUGHT YOU WERE THE ONE",
-      "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -427,22 +503,6 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2024-06-28 17:36:18",
-      "album": {
-        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
-        "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 184805,
-      "name": "this!",
-      "url": "https://open.spotify.com/track/0TpZlEJiAgYGCLIQSCNiSL"
     },
     {
       "added_at": "2024-09-13 08:51:44",

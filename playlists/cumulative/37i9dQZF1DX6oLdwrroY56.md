@@ -2,9 +2,9 @@
 
 ### [alt.ph](https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56)
 
-> pinoy alternative music \. Cover: ONE CLICK STRAIGHT
+> pinoy alternative music \. Cover: ST\. WOLF
 
-139 songs - 9 hr 3 min
+142 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-19 |  |
 | [KELAN](https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KELAN](https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns) | 4:10 | 2024-02-09 | 2024-08-17 |
 | [Kita Kita](https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO) | [7th](https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN) | [Kita Kita](https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW) | 5:45 | 2023-10-13 | 2024-06-22 |
-| [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 | 2024-06-22 |
+| [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 |  |
 | [Lalaluv](https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Lalaluv](https://open.spotify.com/album/2TYz0hh3NKf6BEFTo4Kf8l) | 2:22 | 2024-06-21 |  |
 | [Langit at Lupa](https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Langit at Lupa](https://open.spotify.com/album/0zjLI9aNRNmwY08F2p0LIx) | 4:12 | 2024-07-26 |  |
 | [Lara](https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Lara](https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB) | 3:45 | 2023-11-10 | 2024-07-19 |
+| [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 | 2024-09-27 |  |
 | [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 |  |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 |  |
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
@@ -76,6 +77,7 @@
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-08-30 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-08-30 |  |
 | [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2024-06-03 |  |
+| [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-27 |  |
 | [Nabuang](https://open.spotify.com/track/2nECVQQNx0wAZjaGKBt3qD) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nabuang](https://open.spotify.com/album/3tXum3jn5NnXQRCnyQyfrM) | 3:20 | 2024-07-19 | 2024-08-31 |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 | 2024-07-19 |
 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 | 2024-07-19 |  |
@@ -119,6 +121,7 @@
 | [Sinking](https://open.spotify.com/track/4CahHrjGuxr1WwYHzDSRgR) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Sinking](https://open.spotify.com/album/0VEMK0KM5oMMzTvD0YesvV) | 3:41 | 2024-06-28 |  |
 | [SINTA](https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [SINTA](https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI) | 3:56 | 2024-02-09 | 2024-07-19 |
 | [Sinulit](https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Sinulit](https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw) | 3:36 | 2023-10-13 | 2024-02-10 |
+| [Sinungaling Ka Nanaman](https://open.spotify.com/track/3u1LytEGN0vAS26tczBpf0) | [ST\. WOLF](https://open.spotify.com/artist/09rLA0cKyHsr41JVjhgJ2O) | [Sinungaling Ka Nanaman](https://open.spotify.com/album/31hkuIET0P8S2RqcCUjHc6) | 3:03 | 2024-09-27 |  |
 | [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 |  |
 | [SOLO](https://open.spotify.com/track/6DKHHYoy7phuVMfslvrx11) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [SOLO](https://open.spotify.com/album/3zP1wbbIaPHHT3VS3kPUSY) | 3:12 | 2024-05-03 |  |
 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 | 2023-11-10 | 2024-04-27 |

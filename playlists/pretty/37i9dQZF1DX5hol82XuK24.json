@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 442973,
+  "num_followers": 443111,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuRBhQAAAAA2bDX4fXsvFvYZ2X8caqeP",
+  "snapshot_id": "ZuRBhQAAAAA7LYh+EPvXZRNw/HUM+6/D",
   "tracks": [
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Knee Deep",
-        "url": "https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg"
-      },
-      "artists": [
-        {
-          "name": "BONES UK",
-          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
-        }
-      ],
-      "duration_ms": 317421,
-      "name": "Knee Deep",
-      "url": "https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Coolshit Bullshit",
         "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Serfs Up!",
-        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
+        "name": "Knee Deep",
+        "url": "https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg"
       },
       "artists": [
         {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
         }
       ],
-      "duration_ms": 342538,
-      "name": "Tastes Good With The Money",
-      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+      "duration_ms": 317421,
+      "name": "Knee Deep",
+      "url": "https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1079,6 +1063,22 @@
       "duration_ms": 162000,
       "name": "Way Past Three",
       "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Serfs Up!",
+        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 342538,
+      "name": "Tastes Good With The Money",
+      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Wife Once",
-        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
-      },
-      "artists": [
-        {
-          "name": "Memory of Speke",
-          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
-        }
-      ],
-      "duration_ms": 225036,
-      "name": "Wife Once",
-      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+      },
+      "artists": [
+        {
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+        }
+      ],
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "The Rocky Road to Dublin (Edit)",
         "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
       },
@@ -1159,6 +1159,26 @@
       "duration_ms": 246125,
       "name": "The Rocky Road to Dublin - Edit",
       "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Dancing with Ghosts",
+        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "Dancing with Ghosts",
+      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1191,26 +1211,6 @@
       "duration_ms": 205786,
       "name": "Your Love Is It Real?",
       "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Dancing with Ghosts",
-        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "Dancing with Ghosts",
-      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "When I say, we're alone.",
-        "url": "https://open.spotify.com/album/0tlTmd4tEEhv4A2RCOZbem"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 273288,
-      "name": "When I say, we're alone.",
-      "url": "https://open.spotify.com/track/72nCZUytj1FKy7Gf6G8SfK"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Toner",
         "url": "https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 340813,
       "name": "Exhaust / Surroundings",
       "url": "https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "When I say, we're alone.",
+        "url": "https://open.spotify.com/album/0tlTmd4tEEhv4A2RCOZbem"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 273288,
+      "name": "When I say, we're alone.",
+      "url": "https://open.spotify.com/track/72nCZUytj1FKy7Gf6G8SfK"
     },
     {
       "added_at": "2024-09-13 13:43:33",

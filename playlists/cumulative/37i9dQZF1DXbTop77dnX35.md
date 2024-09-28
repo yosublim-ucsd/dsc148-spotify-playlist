@@ -4,7 +4,7 @@
 
 > New Music from Kizz Daniel and more
 
-900 songs - 1 day 20 hr 14 min
+901 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [Time & Space](https://open.spotify.com/track/1xmLl23KESbXHI9yCnentg) | [CONTINENTAL](https://open.spotify.com/artist/4uXlh74oqh9MX0NJfj28J9), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [Time & Space](https://open.spotify.com/album/4JELfmz4hgyPzBmkM2u3NE) | 3:19 | 2024-08-02 | 2024-08-09 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 |  |
 | [Time Traveler](https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Time Traveler](https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS) | 2:46 | 2024-09-06 | 2024-09-13 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-27 |  |
 | [Tingrado](https://open.spotify.com/track/7MK10tIFcj1MMIaBDQWZhV) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Tingrado](https://open.spotify.com/album/5WQCcxpKsC6CKUqeP30X5G) | 3:15 | 2024-09-27 |  |
 | [TINGS](https://open.spotify.com/track/4icHR1saSUnb7g5VWpsdew) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [ENERGY IS EVERYTHING](https://open.spotify.com/album/4G02arsAMsEaGFfb2e9Fyf) | 3:15 | 2024-08-23 | 2024-08-30 |
 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-06-21 | 2024-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,271 likes - 257 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,262 likes - 257 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 256 | [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 |
 | 257 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 |
 
-Snapshot ID: `Ztp+QAAAAADdBFqPgSljr2MKMz1cbkkZ`
+Snapshot ID: `Ztp+QAAAAAAmfrlbtBCGCs9fwH4dhRyQ`

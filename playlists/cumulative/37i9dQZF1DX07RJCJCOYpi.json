@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: NATTI NATASHA, Play-N-Skillz & Deorro ",
+  "description": "The wave of Latin Electronic music. Cover: 2DEEP",
   "name": "mint Latin",
   "tracks": [
     {
@@ -1769,6 +1769,32 @@
     },
     {
       "album": {
+        "name": "El Rat\u00f3n (Jay Fase Remix)",
+        "url": "https://open.spotify.com/album/3muZg2JpmuzGPr0Smtsg2k"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367741,
+      "name": "El Rat\u00f3n (Jay Fase Remix)",
+      "url": "https://open.spotify.com/track/3vkmRV8jk6OxcDWiyFBHug"
+    },
+    {
+      "album": {
         "name": "El Ritmo (La Noche)",
         "url": "https://open.spotify.com/album/6Sdi8BIyvZq3v86vgNRC0w"
       },
@@ -2107,6 +2133,40 @@
     },
     {
       "album": {
+        "name": "Fiesta En La Ciudad (feat. KRZ & Diana Landa)",
+        "url": "https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        },
+        {
+          "name": "Fux Beat",
+          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
+        },
+        {
+          "name": "KRZ",
+          "url": "https://open.spotify.com/artist/4zXYopQxFWB8DCsjm6nOM8"
+        },
+        {
+          "name": "Diana Landa",
+          "url": "https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Fiesta En La Ciudad (feat. KRZ & Diana Landa)",
+      "url": "https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl"
+    },
+    {
+      "album": {
         "name": "Fiesta Forever (Produced by Cuban Deejays)",
         "url": "https://open.spotify.com/album/0fwWbAUwfLJnH4xSvIn82x"
       },
@@ -2224,7 +2284,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 230000,
       "name": "FOCO",
       "url": "https://open.spotify.com/track/2sA928RMlgA2BIpI3VF4vu"
@@ -2512,7 +2572,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 142734,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/6PUPw7KK0kCRf3FquYdDyB"
@@ -3557,6 +3617,32 @@
     },
     {
       "album": {
+        "name": "Las Gatas (feat. Jory Boy & The Good Son)",
+        "url": "https://open.spotify.com/album/4plKxzj6CfQNPlDDfBTkfn"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "The Good Son",
+          "url": "https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142093,
+      "name": "Las Gatas (feat. Jory Boy & The Good Son)",
+      "url": "https://open.spotify.com/track/5Y273bqlD01aozcKujkLIZ"
+    },
+    {
+      "album": {
         "name": "Las Monjitas (Guaracha Remix)",
         "url": "https://open.spotify.com/album/4FiJRlYud9Z3J5smkUFEuU"
       },
@@ -4192,6 +4278,24 @@
       "duration_ms": 173280,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/66me76ApwjNVXMaI8EgJca"
+    },
+    {
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "album": {

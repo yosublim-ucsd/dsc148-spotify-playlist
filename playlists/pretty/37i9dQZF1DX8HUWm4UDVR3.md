@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Olympe Chabert
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,883 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,901 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 14 | [Allô Maman](https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Allô Maman](https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO) | 2:40 |
 | 15 | [Mille morceaux](https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf) | [Basile Palace](https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh) | [Mille morceaux](https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD) | 3:03 |
 | 16 | [Les Armes](https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Les Armes](https://open.spotify.com/album/7lWeyEno9C9MCDlOEFeGq1) | 3:07 |
-| 17 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 |
+| 17 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 |
 | 18 | [boomerang](https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [boomerang](https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY) | 2:57 |
 | 19 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 |
 | 20 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [La Bonne](https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [La Bonne](https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l) | 3:06 |
 | 50 | [Amertume](https://open.spotify.com/track/5gq6AxT0hDXKkfjsupliAz) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Amertume](https://open.spotify.com/album/7q3XF5A9rc8IzGBSb6JUlX) | 3:41 |
 
-Snapshot ID: `ZvXZYAAAAAAYunkMbz1aLbmf0B9AMtio`
+Snapshot ID: `ZvXZYAAAAAAqnzt29RaLy2RxcqJiABon`

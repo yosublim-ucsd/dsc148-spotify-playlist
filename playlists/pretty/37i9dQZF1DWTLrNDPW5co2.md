@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,600 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,666 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 69 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 |
 | 70 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
 
-Snapshot ID: `ZuzzQAAAAACQGjs/wgMsjSaRlNNgZr+R`
+Snapshot ID: `ZuzzQAAAAADKRuyUWPHGUULv4QLVJYMP`

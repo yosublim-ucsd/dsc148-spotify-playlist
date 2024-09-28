@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: BAND-MAID",
-  "num_followers": 288894,
+  "num_followers": 288943,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvV28AAAAADEfZJ2fZN8YO54+MuqFW9b",
+  "snapshot_id": "ZvV28AAAAAAL0iNpM4c6SycituDch4G4",
   "tracks": [
     {
       "added_at": "2024-09-26 15:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-09-26 15:00:00",
       "album": {
-        "name": "\u5fd8\u30ec\u30ca\u5504",
-        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 176406,
-      "name": "\u5fd8\u30ec\u30ca\u5504",
-      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
-    },
-    {
-      "added_at": "2024-09-26 15:00:00",
-      "album": {
         "name": "01",
         "url": "https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186706,
       "name": "01",
       "url": "https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T"
+    },
+    {
+      "added_at": "2024-09-26 15:00:00",
+      "album": {
+        "name": "\u5fd8\u30ec\u30ca\u5504",
+        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 176406,
+      "name": "\u5fd8\u30ec\u30ca\u5504",
+      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
     },
     {
       "added_at": "2024-09-26 15:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-09-26 15:00:00",
       "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk"
-      },
-      "artists": [
-        {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "\u9752\u3044\u306e\u3002",
-      "url": "https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM"
-    },
-    {
-      "added_at": "2024-09-26 15:00:00",
-      "album": {
         "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
         "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 296119,
       "name": "\u6211\u611b\u4f60",
       "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
+    },
+    {
+      "added_at": "2024-09-26 15:00:00",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "\u9752\u3044\u306e\u3002",
+      "url": "https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM"
     },
     {
       "added_at": "2024-09-26 15:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-09-26 15:00:00",
       "album": {
-        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
-      },
-      "artists": [
-        {
-          "name": "My Hair is Bad",
-          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
-    },
-    {
-      "added_at": "2024-09-26 15:00:00",
-      "album": {
         "name": "miss you",
         "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
+    },
+    {
+      "added_at": "2024-09-26 15:00:00",
+      "album": {
+        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
     },
     {
       "added_at": "2024-09-26 15:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-09-26 15:00:00",
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
       "artists": [
         {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+      "duration_ms": 327920,
+      "name": "Koino Mega Lover",
+      "url": "https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ"
     }
   ],
   "unique_name": "Big in Japan",

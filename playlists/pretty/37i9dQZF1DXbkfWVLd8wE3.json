@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 223846,
+  "num_followers": 223895,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZOLhQAAAAADYyCa1LvjF9Ez0keTkrjfV",
+  "snapshot_id": "ZOLhQAAAAABUAvxmcjlybILBk0qPTZSQ",
   "tracks": [
     {
       "added_at": "2023-08-21 04:00:00",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "House of Pain (Fine Malt Lyrics)",
-        "url": "https://open.spotify.com/album/2z37UnazitI7yDEF0IjE0v"
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/6cpp6a0RDlZhHUa2C1ArN3"
       },
       "artists": [
         {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Jump Around",
-      "url": "https://open.spotify.com/track/3TZwjdclvWt7iPJUnMpgcs"
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/70ludZZEUJy1aFVkPI0Kpi"
     }
   ],
   "unique_name": "Hip-Hop Classics Party",

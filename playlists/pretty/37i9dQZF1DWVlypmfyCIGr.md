@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: CHIANZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,378 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,381 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [影を追う](https://open.spotify.com/track/5fIVgeD3shDeVaAdxZNY4j) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [自然とコンピューター](https://open.spotify.com/album/0nrX05qD6XeI9e2ZgVxsuj) | 3:40 |
 | 80 | [恋は桃色](https://open.spotify.com/track/5jkiA46eVOIPxdUNtFBBgy) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [恋は桃色](https://open.spotify.com/album/64odrxlQfXvCNbWnphWXCo) | 4:59 |
 
-Snapshot ID: `ZvGCcAAAAABUmnuSrcnhuBdzuUtC+Mcu`
+Snapshot ID: `ZvGCcAAAAACeo0hVy9oQX7PIsIx4EaYF`

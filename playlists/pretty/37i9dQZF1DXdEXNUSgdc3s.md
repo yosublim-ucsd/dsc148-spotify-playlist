@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,597 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,644 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 78 | [Binaural Alpha Focus \(119\-127 Hz\)](https://open.spotify.com/track/37odfI6yMYDixRskdTBzvf) | [Sassani](https://open.spotify.com/artist/4pSqmGRy49ZNSXzbOKfXol) | [Binaural Alpha Focus \(119\-127 Hz\)](https://open.spotify.com/album/0NyBTPWs6xOVk8N0gAA5xK) | 2:32 |
 | 79 | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/track/7510hFPI8vVEJhyp5gNHPk) | [Sun Pixel](https://open.spotify.com/artist/1pHiSwRuACzlyf5hP6P011) | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/album/77SOSiQ8GtREeX4NXLLJpC) | 4:10 |
 
-Snapshot ID: `ZtFDwAAAAAAh31mXoXeVMoaIPw8ESr6h`
+Snapshot ID: `ZtFDwAAAAAB3XuUbl1I5WgctBWhzOxDo`

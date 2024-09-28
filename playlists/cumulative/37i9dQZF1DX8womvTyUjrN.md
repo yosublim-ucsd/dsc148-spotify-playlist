@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Marcelo Rubio
+> Fresh Latin pop on the rise\. Cover: Humbe
 
-758 songs - 1 day 13 hr 58 min
+760 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 | 2024-07-19 | 2024-09-14 |
 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 | 2022-04-01 | 2022-12-10 |
 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 | 2023-10-13 | 2024-04-27 |
-| [Especial](https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Especial](https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF) | 3:27 | 2024-08-09 |  |
+| [Especial](https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Especial](https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF) | 3:27 | 2024-08-09 | 2024-09-28 |
 | [Espero Que Bailemos](https://open.spotify.com/track/5jgLBPZ6iBR0oKsbnzKSlh) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Renata Toscano](https://open.spotify.com/artist/1TgxtRgOepkV1lu8eqzoiq), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN), [patin mac](https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8) | [Espero Que Bailemos](https://open.spotify.com/album/6XCfmb9qj3ygplSsMWpGUo) | 3:06 | 2024-01-12 | 2024-01-20 |
 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 | 2024-03-01 | 2024-04-06 |
 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 | 2022-07-25 | 2022-10-29 |
@@ -333,6 +333,7 @@
 | [Juro Que](https://open.spotify.com/track/0XQr7djQbD7KWO5u4T2OkD) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Juro Que](https://open.spotify.com/album/33IGyasi0i4Ksw34yVG6Y1) | 2:39 | 2022-03-21 | 2022-06-13 |
 | [KAI](https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [KAI](https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO) | 2:56 | 2024-04-19 | 2024-06-22 |
 | [KATAN](https://open.spotify.com/track/52LzkfgpSfBvf3EF9Xfya0) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [KATAN](https://open.spotify.com/album/0QMamEWq0KIRemCbcaogcd) | 2:52 | 2022-10-07 | 2022-12-10 |
+| [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-09-27 |  |
 | [Kokeo](https://open.spotify.com/track/3ae5wSGD2kCCnUdPb0TmoS) | [Erubey](https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Kokeo](https://open.spotify.com/album/5Zsf7H9Z5QMKV8GcXjQ3wC) | 3:26 | 2022-05-09 | 2022-07-29 |
 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-26 |  |
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-06 | 2022-06-18 |
@@ -349,6 +350,7 @@
 | [La Mexicana](https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [La Mexicana](https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA) | 2:29 | 2024-01-26 | 2024-04-06 |
 | [La Mitad](https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Mitad](https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn) | 2:56 | 2023-05-12 | 2023-06-17 |
 | [LA NOCHE](https://open.spotify.com/track/4wDkJJwpQsY6QVzHdn2Fcd) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LA NOCHE](https://open.spotify.com/album/6JmFvNb4g0aGU7yp21pzkj) | 2:42 | 2024-06-21 | 2024-08-10 |
+| [LA NOSTALGIA](https://open.spotify.com/track/3kezPeLt6ePJAj9Q7ZfqRO) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [LA NOSTALGIA](https://open.spotify.com/album/09F4Y5cIGGhx9VqmwWcPZV) | 2:59 | 2024-09-27 |  |
 | [La Ouija](https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [La Ouija](https://open.spotify.com/album/0gCaJMGkjfvuMPOxIZpJS4) | 2:33 | 2024-08-02 | 2024-09-14 |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-10 | 2023-04-01 |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2023-01-13 | 2023-01-28 |

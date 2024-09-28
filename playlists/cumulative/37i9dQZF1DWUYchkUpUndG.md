@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ?si=aldOr8I9RVC1j0PguzRxug>Matt Redman</a>
 
-3,565 songs - 10 day 19 hr 27 min
+3,567 songs - 10 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Bigger RMX 3](https://open.spotify.com/track/3sjDGGSvXviMLCklCOoGpG) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Becky Nicholas](https://open.spotify.com/artist/0pYkNxSWzPY7a88OfshRe3) | [BIGGER](https://open.spotify.com/album/4dlBD7ySys8xrBBqOjGnBP) | 2:53 | 2023-11-24 | 2023-12-01 |
 | [Biggie God](https://open.spotify.com/track/5aWzE094axeDe5yYh9Y6A1) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Biggie God](https://open.spotify.com/album/6CmPwAGrY2eQUKAG4pkk9h) | 2:34 | 2023-09-22 | 2023-10-06 |
 | [Bijoux](https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Why Not](https://open.spotify.com/album/2Al5aGkwsloF2jOfRnnTnM) | 3:21 | 2023-07-14 | 2023-07-28 |
+| [Bills on Jireh](https://open.spotify.com/track/1ncWYX3bppuPWGWfrVcrm3) | [Ossy Vybz](https://open.spotify.com/artist/2EWrUxppYGQJbO2TKGZy0A), [CLEVER EVER](https://open.spotify.com/artist/2nxz0EWQenMEKDQwY1rHNI) | [Bills on Jireh](https://open.spotify.com/album/2lyovfvpQE96QgzVeyBqPv) | 3:17 | 2024-09-27 |  |
 | [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 | 2023-09-01 | 2023-09-15 |
 | [Birthday Thanksgiving Praise](https://open.spotify.com/track/6eIlROvbyNZ58H4cIWlb7R) | [Kidamrproducer](https://open.spotify.com/artist/381cD0cV1gKQO9450pDGRx), [Kida Praise Crew](https://open.spotify.com/artist/1F2Vpu8yyro7Se0ziyQcfV), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7) | [Birthday Thanksgiving Praise](https://open.spotify.com/album/4fEigKbfLBvHzXMK85vxeQ) | 17:58 | 2024-09-27 |  |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2024-02-09 |
@@ -1744,6 +1745,7 @@
 | [Last Days](https://open.spotify.com/track/0BSDlzBejodTYTv6FCnyxG) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Last Days](https://open.spotify.com/album/21Z0n2gL3a3IZOazT8mpLU) | 2:09 | 2024-07-19 | 2024-08-02 |
 | [Last man standing](https://open.spotify.com/track/4lACuE9j7fmSiOVoIKndOt) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Ur Flames](https://open.spotify.com/artist/47DUzSmetavSyS5Ukxt9lR), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [Last man standing](https://open.spotify.com/album/4hXvkA15rf8RAYnGP1zT9b) | 3:03 | 2023-06-02 | 2023-06-16 |
 | [Late Nite \- Remix](https://open.spotify.com/track/7wOAQU4d6IMejhMAwuuC9E) | [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [Obby Judah](https://open.spotify.com/artist/3dGdwJNjUkGQmkUIXHbRFo) | [Late Nite \(Remix\)](https://open.spotify.com/album/2p1DVXQLqnQix3FygOOUZ1) | 3:21 | 2024-03-01 | 2024-03-08 |
+| [LAVIDA](https://open.spotify.com/track/2RS6MgwvIpGyn4vddPwFBM) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE) | [LAVIDA](https://open.spotify.com/album/274xoa9pXptduz2al4aFuC) | 2:45 | 2024-09-27 |  |
 | [Lay It Down](https://open.spotify.com/track/5HFewCh0K1EdwjmhgyAH0X) | [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Lay It Down](https://open.spotify.com/album/2GYftGVcMMjCz3ZjibNYvl) | 3:08 | 2024-03-15 | 2024-03-29 |
 | [Lay it down](https://open.spotify.com/track/2uyeONGVoJI9MbQNfjEDpW) | [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [Lay it down](https://open.spotify.com/album/1hdzah7MNrrLXvJU37yBe8) | 3:34 | 2024-04-12 | 2024-04-26 |
 | [Lazarus Come Forth](https://open.spotify.com/track/4nCAD6i84hUUqjBneXuEwN) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lazarus Come Forth](https://open.spotify.com/album/08lLxsjeww4s57gkgPGs4X) | 1:40 | 2023-09-15 | 2023-09-22 |

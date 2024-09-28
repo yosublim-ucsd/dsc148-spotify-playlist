@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,442 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,495 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Ngeke \- Radio Edit](https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22) | [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa) | [Ngeke](https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL) | 3:54 |
 | 50 | [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 |
 
-Snapshot ID: `ZuOmvgAAAAAxULgsor0rgMn1ZC9zOk7t`
+Snapshot ID: `ZuOmvgAAAABUPxEl2gVNvB60Wv2WEGsx`

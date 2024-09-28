@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-504 songs - 1 day 4 hr 9 min
+505 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Um Misto de Todas as Coisas \- Ao Vivo](https://open.spotify.com/track/14sAbxIENb9GRkguBkD40p) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Paulo Miklos \(Ao Vivo\)](https://open.spotify.com/album/0HC3ob9uPttytd4XObdUdv) | 3:15 | 2024-05-03 | 2024-08-31 |
 | [um novo jeito de se machucar](https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [um novo jeito de se machucar](https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F) | 3:09 | 2023-08-04 |  |
 | [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 | 2022-11-05 |
+| [Um Sonho](https://open.spotify.com/track/2khoFTxsVy8Y0crHrk6GRq) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Um Sonho](https://open.spotify.com/album/60kEJlOilsLPCTNA5CXM3T) | 2:31 | 2024-09-27 |  |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |
 | [UMA BAD UMA FARRA](https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 3:05 | 2022-05-06 | 2022-08-06 |
 | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 | 2023-11-03 | 2024-03-16 |
@@ -505,7 +506,7 @@
 | [Volta Pra Mim](https://open.spotify.com/track/5WBGraMuV2Zb7mODUPSvRL) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Banda AL9](https://open.spotify.com/album/5agyY1IhTHqDC42g8ww23g) | 2:14 | 2022-09-02 | 2022-11-12 |
 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 | 2023-10-20 |  |
 | [Vou Ter Que Me Virar \- LIVE](https://open.spotify.com/track/7DvnCk6kKiFG4aticoxJFR) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A) | 3:44 | 2023-05-19 | 2023-08-19 |
-| [Vou Ventando Pra Você](https://open.spotify.com/track/6QIPCBOEX10m3ohIK33Ihf) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tobogã](https://open.spotify.com/album/23LwLPzhwt2Mi2aWKYLno7) | 3:38 | 2024-08-30 |  |
+| [Vou Ventando Pra Você](https://open.spotify.com/track/6QIPCBOEX10m3ohIK33Ihf) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tobogã](https://open.spotify.com/album/23LwLPzhwt2Mi2aWKYLno7) | 3:38 | 2024-08-30 | 2024-09-28 |
 | [W3](https://open.spotify.com/track/7JvJm2vwRiEbwV5Dq1704F) | [Ed Santos](https://open.spotify.com/artist/2ipBIcb8PsfZScGStySRtv) | [W3](https://open.spotify.com/album/2U6MI9weROcDcasmcOE1Lw) | 3:12 | 2024-04-26 | 2024-06-29 |
 | [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 | 2022-08-12 | 2023-08-26 |
 | [Órfãos Bastardos](https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Órfãos Bastardos](https://open.spotify.com/album/5F2J20m1i5S4sAUq21Ms5J) | 2:37 | 2022-11-11 | 2023-07-08 |

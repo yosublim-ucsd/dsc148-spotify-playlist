@@ -5885,6 +5885,32 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Symphony No. 3 \"Schottische\" & A Midsummer Night's Dream - Remastered 2024",
+        "url": "https://open.spotify.com/album/3In3kNSJdfxLJw6HJe0jMV"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Baltimore Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1w77QW6t2p7zrCEbgwk256"
+        },
+        {
+          "name": "Sergiu Comissiona",
+          "url": "https://open.spotify.com/artist/1x6lRhTQJ9XYrHTor5zTPo"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259972,
+      "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 \"Schottische\": II. Scherzo. Vivace non troppo - Remastered 2024",
+      "url": "https://open.spotify.com/track/5k925nu8zEPEmtQzy3Pn4w"
+    },
+    {
+      "album": {
         "name": "Saint-Saens: Organ Symphony; Poulenc: Organ Concerto",
         "url": "https://open.spotify.com/album/589nusTZeRu1Nxxk303f5p"
       },

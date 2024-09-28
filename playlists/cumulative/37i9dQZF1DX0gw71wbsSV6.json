@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u5e83\u672b\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/7FqoF2JA7MLgUBWyBIacxk"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Deep Breath (feat. Ryoko Hirosue)",
+      "url": "https://open.spotify.com/track/2TUKM10uN43OysfBV2MbRT"
+    },
+    {
+      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
       },
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 195277,
       "name": "Little Runaway",
       "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
@@ -2952,6 +2974,24 @@
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "album": {
+        "name": "Town Dune",
+        "url": "https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ"
+      },
+      "artists": [
+        {
+          "name": "Oh Shu",
+          "url": "https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152915,
+      "name": "Machibito",
+      "url": "https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS"
     },
     {
       "album": {
@@ -4374,7 +4414,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 188653,
       "name": "Thanks again",
       "url": "https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk"
@@ -4792,7 +4832,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 221000,
       "name": "Two Bodies In A Bed",
       "url": "https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE"
@@ -5104,7 +5144,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 270113,
       "name": "You & I",
       "url": "https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: CADEJO(\uae4c\ub370\ud638))",
+  "description": "All about Korean Jazz hits & new (Cover: U.BAR.E(\uc720\ubc1c\uc774))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -1242,6 +1242,24 @@
       "duration_ms": 135000,
       "name": "Finale (feat. Kihun Park)",
       "url": "https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21"
+    },
+    {
+      "album": {
+        "name": "Fine waltz",
+        "url": "https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99"
+      },
+      "artists": [
+        {
+          "name": "U.BAR.E",
+          "url": "https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194197,
+      "name": "Fine waltz",
+      "url": "https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT"
     },
     {
       "album": {

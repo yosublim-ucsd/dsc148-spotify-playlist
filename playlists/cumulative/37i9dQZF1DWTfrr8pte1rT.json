@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
@@ -3423,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Forget My Name",
+        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254896,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
+    },
+    {
+      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn"
       },
@@ -4948,7 +4974,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 296250,
       "name": "Liar (with OST)",
       "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
@@ -7970,6 +7996,24 @@
       "duration_ms": 185600,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX"
+    },
+    {
+      "album": {
+        "name": "sometimes i want to die",
+        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
+      },
+      "artists": [
+        {
+          "name": "FRND",
+          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143793,
+      "name": "sometimes i want to die",
+      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
     },
     {
       "album": {

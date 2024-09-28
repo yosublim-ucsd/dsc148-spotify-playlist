@@ -4,7 +4,7 @@
 
 > SDM au top des nouveautés de la semaine !
 
-1,888 songs - 4 day 3 hr 16 min
+1,889 songs - 4 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1705,6 +1705,7 @@
 | [Time](https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 4:09 | 2024-09-12 | 2024-09-20 |
 | [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-25 | 2024-08-02 |
 | [Time Will Tell](https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Time Will Tell](https://open.spotify.com/album/3PbDdReywktWEnHMcU7TF4) | 4:04 | 2024-05-09 | 2024-05-17 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-20 | 2024-06-28 |
 | [TITULAIRE](https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:36 | 2024-05-23 | 2024-06-01 |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-06-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFKOkH8OzoKeF?si=1012a09322de4dfb">Ali Stone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,454 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,462 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Bad Body Double](https://open.spotify.com/track/2rkQtnknRZivK7saBryrjm) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Ellipse](https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO) | 4:06 |
 | 40 | [Lúmina](https://open.spotify.com/track/6ZyBAPmOlhapBgpMkRX5SW) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:30 |
 
-Snapshot ID: `Ztmt6wAAAABrr7TOv9wV6XYOi8LL7/Nj`
+Snapshot ID: `Ztmt6wAAAABjqB7AvnzxX9kKshvUfv8L`

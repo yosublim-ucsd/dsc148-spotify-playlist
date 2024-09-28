@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 66272,
+  "num_followers": 66314,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAABLS1824S0Iay/sqax4dJlX",
+  "snapshot_id": "ZvYtwAAAAAB3zZ2FYC8PZeYszZ61Q4lc",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -27,30 +43,6 @@
       "duration_ms": 263895,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
       "added_at": "2024-09-20 04:00:00",

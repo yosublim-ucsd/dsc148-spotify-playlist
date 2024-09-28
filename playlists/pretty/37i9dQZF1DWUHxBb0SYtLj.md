@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Sally Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,277 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,281 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [ma come sto facendo?](https://open.spotify.com/track/4k5PKgHzQ1vfRA9SQAYq9H) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [ma come sto facendo?](https://open.spotify.com/album/4EEu5UyWwsmelQxxmW7mBl) | 2:41 |
 | 50 | [Lacrime Moët](https://open.spotify.com/track/340Ci6iQEILoPT1tL0Eqf5) | [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [Lacrime Moët](https://open.spotify.com/album/5vLqRJY0uIrIo7iSIm9TZd) | 2:45 |
 
-Snapshot ID: `Ztgo4QAAAADbqR80Js//hdp5/VSKb4eC`
+Snapshot ID: `Ztgo4QAAAADnXR12sjMFBObIXC3gtBHt`

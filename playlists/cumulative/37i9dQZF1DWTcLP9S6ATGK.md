@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: giring ganesha
 
-206 songs - 13 hr 21 min
+208 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Legawa](https://open.spotify.com/track/03AwH2SWxG5euxufW8vjlS) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Legawa](https://open.spotify.com/album/2e3TFjXcUvnjcYaaXkUU27) | 5:11 | 2024-08-15 |  |
 | [Luka Yang Kusengaja](https://open.spotify.com/track/5pzndYkzTrj6iyX07dubxn) | [GITA](https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q) | [Luka Yang Kusengaja](https://open.spotify.com/album/6lz0kmrqmPpiJmKz9L8V7F) | 3:19 | 2024-09-05 |  |
 | [maaf, aku gak romantis](https://open.spotify.com/track/5LiSqq9ulrceYCexBJ68YD) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [maaf, aku gak romantis](https://open.spotify.com/album/1qqRD7YHoplWYZDM53OR8M) | 3:50 | 2024-09-05 |  |
+| [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa) | 4:55 | 2024-09-27 |  |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-06-27 |  |
 | [Malam Biru](https://open.spotify.com/track/0dPZRzIVqBlXJluOGOyRFW) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Malam Biru](https://open.spotify.com/album/1IXD6scCPR16lgCHSWpuhB) | 2:50 | 2024-08-01 | 2024-09-27 |
 | [Malam Tolong Sampaikan](https://open.spotify.com/track/6SgC81ohpNeR4Mxne8B3Oh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Malam Tolong Sampaikan](https://open.spotify.com/album/5roabvYPq1EIjBRoBXlPu8) | 3:33 | 2024-06-27 | 2024-09-13 |
@@ -193,8 +194,9 @@
 | [Tak Pernah Cukup](https://open.spotify.com/track/62xkvlY0eeT6Utko8jmtNm) | [Jolene Marie](https://open.spotify.com/artist/6e9LDbLaImTys3UZE9XUkF) | [Tak Pernah Cukup](https://open.spotify.com/album/5COpA8B8noKIQ66PHbsdgn) | 4:23 | 2024-06-27 | 2024-07-05 |
 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 | 2024-09-12 |  |
 | [Tak Sehebat Dulu](https://open.spotify.com/track/20QZAN1Cc9v8piHeAoGkm8) | [ACYUTA](https://open.spotify.com/artist/3OB0l92TmjSGDLGVyaiY8s) | [Tak Sehebat Dulu](https://open.spotify.com/album/4mBpp8hGA5oj6fkmmdrxtX) | 4:00 | 2024-07-04 | 2024-08-16 |
-| [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:14 | 2024-07-25 |  |
+| [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 | 2024-07-25 |  |
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-07-25 |  |
+| [Teman Tapi Mesra](https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Andre Taulany & Friends](https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt) | [Teman Tapi Mesra](https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM) | 4:19 | 2024-09-27 |  |
 | [Tempat Bercerita](https://open.spotify.com/track/6OtJBSqTlc2cPGDcijNutb) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Tempat Bercerita](https://open.spotify.com/album/55oqvPYAmWa0XTH96IrLqh) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-08-15 |  |
 | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5A6PgWbDitOtH5eTVZ3Md3) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aGfcjEwK1Zgrz6OepRES5) | 4:38 | 2024-06-27 |  |

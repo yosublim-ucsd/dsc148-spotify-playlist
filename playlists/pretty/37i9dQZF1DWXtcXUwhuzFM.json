@@ -1,12 +1,12 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Robin Packalen.",
-  "num_followers": 95914,
+  "num_followers": 95984,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXLjAAAAAABVuxARGzhv3k/hpzwtGBO",
+  "snapshot_id": "ZvXLjAAAAAApjBFsRVTM5AmbdNMjkL61",
   "tracks": [
     {
       "added_at": "2024-09-26 21:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 184884,
       "name": "T\u00e4ydellinen ex",
       "url": "https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2024-09-26 21:01:00",
@@ -383,6 +403,26 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Madafakin darra (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/2DHSHnAqoul440iPK7PkWA"
+      },
+      "artists": [
+        {
+          "name": "Popeda",
+          "url": "https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P"
+        },
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 189069,
+      "name": "Madafakin darra (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/6IhLLRJweEsiL86bKgCBbY"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Koti-isk\u00e4",
         "url": "https://open.spotify.com/album/6JmmJJpNsUPPGn0MzGAqfc"
       },
@@ -531,6 +571,22 @@
       "duration_ms": 159200,
       "name": "wanted (feat. kamasi washington)",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Laula se ulos (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0AMQLR7derE34sKMxWueot"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 195627,
+      "name": "Laula se ulos (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/4JS8uLJcLlUW7OR819OFbu"
     },
     {
       "added_at": "2024-09-26 21:01:00",
@@ -763,6 +819,26 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Sen pituinen se (feat. Costello) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
+        "url": "https://open.spotify.com/album/0KTuaQFZ2xfEH8MmWIPNQJ"
+      },
+      "artists": [
+        {
+          "name": "Waldo's People",
+          "url": "https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF"
+        },
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 130322,
+      "name": "Sen pituinen se (feat. Costello) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
+      "url": "https://open.spotify.com/track/1dbfa5w9FFZJIo91XR7kxf"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Elohopeaa",
         "url": "https://open.spotify.com/album/2uBmA6IHmJINUvl7Tn2qcE"
       },
@@ -879,6 +955,22 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Karavaani (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/6o0PGSXdafWro6CTqHHeFO"
+      },
+      "artists": [
+        {
+          "name": "Hanna Pakarinen",
+          "url": "https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Karavaani (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3OrqsdVBITn4HmPmAuqmzw"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "Star Shaped Baby",
         "url": "https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9"
       },
@@ -907,6 +999,22 @@
       "duration_ms": 250272,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Diskosisko (Vain El\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/103upZL4Ay2ZWKpccxKGyv"
+      },
+      "artists": [
+        {
+          "name": "Eini",
+          "url": "https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "Diskosisko - Vain El\u00e4m\u00e4\u00e4 kausi 15",
+      "url": "https://open.spotify.com/track/3MUzPy2rkCCtG4UM9HMWiN"
     },
     {
       "added_at": "2024-09-26 21:01:00",
@@ -1043,6 +1151,42 @@
     {
       "added_at": "2024-09-26 21:01:00",
       "album": {
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Pid\u00e4 p\u00e4\u00e4 ylh\u00e4\u00e4l (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0Wmop2r2G6ajgpNwHLF8ao"
+      },
+      "artists": [
+        {
+          "name": "Jussi Rainio",
+          "url": "https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD"
+        },
+        {
+          "name": "Neon 2",
+          "url": "https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Pid\u00e4 p\u00e4\u00e4 ylh\u00e4\u00e4l (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/57a7XxhyCJ1NiJQVU3KJxw"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
         "name": "darling, he lied",
         "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
       },
@@ -1167,6 +1311,26 @@
       "duration_ms": 175212,
       "name": "MVP",
       "url": "https://open.spotify.com/track/2kStGGddSJhbob6hSyUkPn"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
       "added_at": "2024-09-26 21:01:00",
@@ -1555,6 +1719,26 @@
       "duration_ms": 195000,
       "name": "bread",
       "url": "https://open.spotify.com/track/1MVBUE7zVwZaCbZDVqz1PX"
+    },
+    {
+      "added_at": "2024-09-26 21:01:00",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": "2024-09-26 21:01:00",

@@ -3933,6 +3933,28 @@
     },
     {
       "album": {
+        "name": "Play Something Country (with Lainey Wilson)",
+        "url": "https://open.spotify.com/album/3X3yUZB4Mj01slhTurM4tJ"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228323,
+      "name": "Play Something Country (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3s5J9EMC6T3ILzUO98Ovho"
+    },
+    {
+      "album": {
         "name": "Terri Clark: Take Two",
         "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
       },

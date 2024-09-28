@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: MAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,436 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,409 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 34 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 |
 | 35 | [87 Cutlass](https://open.spotify.com/track/6lGflWI0Ql5OBDT28M1oHU) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [87 Cutlass](https://open.spotify.com/album/47NGsYLUrcZubdvMbGohIA) | 4:32 |
 | 36 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
-| 37 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 |
-| 38 | [Dope Sellers](https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Dope Sellers](https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb) | 3:16 |
+| 37 | [Dope Sellers](https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Dope Sellers](https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb) | 3:16 |
+| 38 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 |
 | 39 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
 | 40 | [Kitchen Table](https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Summertime Butch](https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR) | 2:12 |
 | 41 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
 | 50 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 
-Snapshot ID: `ZvG1mAAAAAA4aJ1rssVdc957KnDOGmCB`
+Snapshot ID: `ZvYtwAAAAABX0ZUNH8rseGkC8PkETY2H`

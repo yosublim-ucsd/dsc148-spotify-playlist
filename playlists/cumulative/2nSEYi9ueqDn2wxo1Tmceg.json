@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ\">Porches</a>",
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB-dGT7KaWKZCA\">Hayden Thorpe</a>",
   "name": "Domino Sound System",
   "tracks": [
     {
@@ -19336,6 +19336,24 @@
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
+      "album": {
+        "name": "Ness",
+        "url": "https://open.spotify.com/album/5tVYhHkaCA2YBXhJV2SCPU"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "V.",
+      "url": "https://open.spotify.com/track/0CDs5ETJyRZ40uePXFuNDA"
     },
     {
       "album": {

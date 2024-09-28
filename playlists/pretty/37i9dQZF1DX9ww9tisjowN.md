@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Cover: Aimyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,897 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,275 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [PAIN KILLER](https://open.spotify.com/track/5jq0a8bH5oQUqvlssMlrpS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [PAIN KILLER](https://open.spotify.com/album/7dZK9rI6hBSqnaUNM1epP1) | 3:22 |
 | 75 | [WANI](https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [WANI](https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK) | 2:20 |
 
-Snapshot ID: `ZvV28AAAAAA1u84xae003SVdLn+8l0VK`
+Snapshot ID: `ZvV28AAAAAAIBbbkOm7nfe+y5av8s5Jy`

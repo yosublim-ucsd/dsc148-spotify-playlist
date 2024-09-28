@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: MONGEEYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,773 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,772 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Just Friends \- Acoustic](https://open.spotify.com/track/4v78hkPGHrH0LJJCFNBEt9) | [ELEEA](https://open.spotify.com/artist/2kVM4Rp9li48qYyzlkAQYx) | [Just Friends \(Acoustic\)](https://open.spotify.com/album/5gi4iK8hdjGPEfwzzxqVFY) | 3:04 |
 | 50 | [Guwaag \(Rainbird\)](https://open.spotify.com/track/4RgBR4No4i6MiE2Clmf3M6) | [Ngulmiya](https://open.spotify.com/artist/33RGbkZKz62Yb6Rv1wGvQT), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [Guwaag \(Rainbird\)](https://open.spotify.com/album/4xc7xusKHsHfF2ISxXMARk) | 3:46 |
 
-Snapshot ID: `ZrAquAAAAABiB0Q06DbBrhjLpLNH/MoC`
+Snapshot ID: `ZrAquAAAAAAP3JNcKzbXvIxTtVWsiRDe`

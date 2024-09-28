@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 266079,
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "num_followers": 266179,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADJqnV6lbVc+L+2Mkk7MgOH",
+  "snapshot_id": "ZvSkAAAAAAC5W8czicPi7SpXzbfw5jGL",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Obvious - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor - Edici\u00f3n Especial En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
@@ -555,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mulan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Reflection - Pop Version",
+      "url": "https://open.spotify.com/track/1haQRuZnoggW6U6l5jFIj9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -579,38 +611,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mulan (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Reflection - Pop Version",
-      "url": "https://open.spotify.com/track/1haQRuZnoggW6U6l5jFIj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Obvious - Live - Spotify Anniversaries Version",
-      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Por Siempre T\u00fa",
-      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+      "duration_ms": 176960,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 176960,
-      "name": "Falsas Esperanzas",
-      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
+      "duration_ms": 244933,
+      "name": "Por Siempre T\u00fa",
+      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AGUILERA",
-        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 206542,
-      "name": "Cuando Me D\u00e9 la Gana",
-      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
     },
     {
       "added_at": null,
@@ -867,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
     },
     {
       "added_at": null,

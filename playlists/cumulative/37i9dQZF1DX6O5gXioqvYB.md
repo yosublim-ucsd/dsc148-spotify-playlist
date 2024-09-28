@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Rondine
 
-155 songs - 7 hr 30 min
+156 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
 | [compleanni degli altri](https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [ambiente protetto](https://open.spotify.com/album/4OsUEE4jaj1K3fQ53AgJzE) | 2:44 | 2024-06-27 | 2024-07-19 |
+| [cose un po' scontate](https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [cose un po' scontate](https://open.spotify.com/album/4tdx6A1dKAEkwbmDfmYIed) | 2:47 | 2024-09-26 |  |
 | [Costellazione](https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/3gUebY15KykhIStuskHmpM) | 3:15 | 2024-07-11 | 2024-08-23 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 |  |
 | [DIMEDITE](https://open.spotify.com/track/3ZdJA0Fcf7UtlCOjSPLP1N) | [PVTRA](https://open.spotify.com/artist/2nGnEStqjgEw2wGpVk7GMX) | [DIMEDITE](https://open.spotify.com/album/5cI9Q2szBMyGNlQXctG08e) | 3:19 | 2024-06-27 | 2024-07-05 |
@@ -129,7 +130,7 @@
 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 | 2024-09-05 |  |
 | [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 |  |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 |  |
-| [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 |  |
+| [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Scatoloni](https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Scatoloni](https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |

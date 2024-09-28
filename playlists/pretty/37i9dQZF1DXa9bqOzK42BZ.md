@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q">BELLA KOMBO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,938 likes - 104 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 104 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 103 | [Design](https://open.spotify.com/track/2sRh4c16w9ouLKDsxST41G) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Design](https://open.spotify.com/album/6dqPT2VdkhAmRL0BITqIFJ) | 2:34 |
 | 104 | [Kwa Maombi](https://open.spotify.com/track/6vrlnd03PjPB5UGdHJTT14) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Kwa Maombi](https://open.spotify.com/album/6qppeKr28BhCBT464qRsF0) | 2:43 |
 
-Snapshot ID: `ZvX1vAAAAADcr0mMY2rhswakiHHcFUiv`
+Snapshot ID: `ZvX1vAAAAABALewWWn9SoO297Nw91byL`

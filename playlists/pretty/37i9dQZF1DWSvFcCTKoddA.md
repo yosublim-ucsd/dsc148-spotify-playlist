@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,747 likes - 10 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 10 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 9 | [Cher journal \(update life omg\)](https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 41:14 |
 | 10 | [Soirée d’été 7 \- Vos histoires d'amitié](https://open.spotify.com/episode/6aAdHetRIXdAjradckSW6o) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 43:52 |
 
-Snapshot ID: `ZvFcbAAAAADGtpgYg2G1/m75gI8TAQYl`
+Snapshot ID: `ZvFcbAAAAAA+An6NmmEOjoP9Ul1A3Xgp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,131 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,152 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 18 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
 | 19 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
 | 20 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
-| 21 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 |
+| 21 | [Punta Power Mix \#1](https://open.spotify.com/track/6ShPz1zUeNRSvqd1PEDbGA) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc), [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP), [Los Gatos Bravos](https://open.spotify.com/artist/23x4x5UNEViCHjSH5OjBFL), [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3), [Los Profesionales](https://open.spotify.com/artist/1TqVXHYQ9N6jdjW0cWDbzs) | [Batalla de Puntas 3: Power Mix](https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT) | 6:52 |
 | 22 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
-| 23 | [Punta Power Mix \#1](https://open.spotify.com/track/6ShPz1zUeNRSvqd1PEDbGA) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc), [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP), [Los Gatos Bravos](https://open.spotify.com/artist/23x4x5UNEViCHjSH5OjBFL), [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3), [Los Profesionales](https://open.spotify.com/artist/1TqVXHYQ9N6jdjW0cWDbzs) | [Batalla de Puntas 3: Power Mix](https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT) | 6:52 |
+| 23 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 |
 | 24 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
 | 25 | [Pobre Marinero](https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 5:08 |
 | 26 | [Metela Sacala](https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4) | [Metela Sacala](https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho) | 3:01 |
 | 27 | [Cartel Mix](https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 6:13 |
 | 28 | [Swing Latino](https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Saben Quien Llego](https://open.spotify.com/album/78w7svKazglFlKTtHOYht7) | 5:02 |
 | 29 | [El Pato y la Gallina](https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C) | 4:59 |
-| 30 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 |
-| 31 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
+| 30 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
+| 31 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 |
 | 32 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI) | 3:12 |
 | 33 | [Pai](https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:23 |
 | 34 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Mete y Saca](https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 5:25 |
 | 38 | [Catalina La Coja](https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [La Guerra De Las Puntas](https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8) | 4:09 |
 
-Snapshot ID: `ZpGu/AAAAAAy3yeVeI0Uvwp4yS44C6vJ`
+Snapshot ID: `ZpGu/AAAAAB2BbMRzgYowGm9maUeH6xP`

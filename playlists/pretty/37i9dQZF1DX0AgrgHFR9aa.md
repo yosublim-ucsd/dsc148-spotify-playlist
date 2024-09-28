@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,287 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,301 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [Jubilee Year](https://open.spotify.com/track/37xT591ePNYFZiEuz7Bzu8) | [Tito Prince](https://open.spotify.com/artist/0noD1tUbBty2LsLBQncdU8) | [Jubilee Year](https://open.spotify.com/album/5lka9WpJIbeiJiOQ2kl6ML) | 2:42 |
 | 40 | [Un monde meilleur](https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV) | [Sentin’l](https://open.spotify.com/artist/49eWq2JOL6lBj9ELT70IWi), [Yamoy](https://open.spotify.com/artist/39pzhf6yFUFgGzUdwk4sne) | [Unique & ordinaire, Vol\. 2](https://open.spotify.com/album/5r5IoJl8UNIiUxbrGL7Zw1) | 3:30 |
 
-Snapshot ID: `ZvXZYAAAAADbScsXUPZ1tj7YCP+cMCb/`
+Snapshot ID: `ZvXZYAAAAADhY1H+xayD/aGb7myV/Mkz`

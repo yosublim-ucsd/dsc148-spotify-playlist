@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Simba, Vale Lambo, Kuremino e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,583 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,577 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [STEPPIN](https://open.spotify.com/track/6N6COGpLrxBZWAJ9i2fVdI) | [BHG Rich](https://open.spotify.com/artist/0oQoakhuWlElIuMe2sZwrl) | [STEPPIN](https://open.spotify.com/album/6uBJv2z62xKlVnH3S6ZNlD) | 2:48 |
 | 85 | [Afroitaliano](https://open.spotify.com/track/54MPOaMzUUqdJtAmZF8cxE) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [Afroitaliano](https://open.spotify.com/album/2CoGTM23rlZGN81Qk9iPXA) | 3:07 |
 
-Snapshot ID: `ZvXnrAAAAAD1c8FRHKsAL6bh+wOaMICv`
+Snapshot ID: `ZvXnrAAAAACLsSaVq+xNHA4lHDYa2x61`

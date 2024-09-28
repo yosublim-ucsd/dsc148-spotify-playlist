@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-581 songs - 1 day 4 hr 39 min
+582 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2023-03-23 | 2024-02-09 |
 | [Easy](https://open.spotify.com/track/07Z7LOrZp0NwtVhe2b8GcS) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Easy](https://open.spotify.com/album/76urwUuayLvhccasn4G6z6) | 2:50 | 2024-05-04 |  |
 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-08 |  |
+| [Edenora](https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Edenora](https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9) | 2:57 | 2024-09-13 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2023-03-23 | 2024-01-18 |
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 |  |
 | [Ella](https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ella](https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7) | 2:32 | 2024-05-20 |  |
@@ -207,7 +208,7 @@
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 |  |
 | [Expand](https://open.spotify.com/track/1jNIpsh1YfqUWNYmn6ajio) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Expand](https://open.spotify.com/album/24ILC50IPCP0rTdG8p5PLH) | 3:02 | 2024-03-06 | 2024-03-21 |
 | [Expectancy](https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Expectancy](https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn) | 2:51 | 2024-07-09 |  |
-| [Expired Thoughts](https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Expired Thoughts](https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE) | 3:05 | 2024-04-05 |  |
+| [Expired Thoughts](https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Expired Thoughts](https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE) | 3:05 | 2024-04-05 | 2024-09-28 |
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2023-03-23 | 2024-01-18 |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2023-03-23 | 2024-03-21 |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-03-23 | 2024-01-18 |

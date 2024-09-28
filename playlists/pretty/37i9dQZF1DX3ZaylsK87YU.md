@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover recent songs that define modern hymns and new takes on the classics\.  Cover: <a href="spotify:artist:0bz9hDpUbAw5JElgEiuIYZ">Matt Redman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,258 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,262 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 149 | [Come Thou Fount](https://open.spotify.com/track/6xm33FNagGQqZAawkJSFkh) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH), [John Rhee](https://open.spotify.com/artist/7kdZdS2FP5Eo3W4Y6H76wr), [Yuris Yoon](https://open.spotify.com/artist/4CJebvyrxoOaB8vFTkPQSh) | [Laus Deo](https://open.spotify.com/album/0Ti83UJsThYXnvVBRBJVAz) | 4:25 |
 | 150 | [There is None Like You](https://open.spotify.com/track/0oi07YXgBicA4G5giginkF) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [There is None Like You](https://open.spotify.com/album/55rXFks0RZ98ejM9iXQMF9) | 3:08 |
 
-Snapshot ID: `ZpsI1QAAAAB/fKlTVfrj+M6Gr2Oagu/b`
+Snapshot ID: `ZpsI1QAAAABg6mdEGbEkDTkDcu7bFwHT`

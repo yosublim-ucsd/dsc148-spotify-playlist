@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: Psycho YP",
+  "description": "Drilling through Naij. Cover: Apex Village, Laime  &  Psycho YP",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -152,6 +152,32 @@
       "duration_ms": 161118,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
+    },
+    {
+      "album": {
+        "name": "Blood on My Hands",
+        "url": "https://open.spotify.com/album/0OzjJ6qBaDig8Aw1N9U9ot"
+      },
+      "artists": [
+        {
+          "name": "Apex Village",
+          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113841,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/0VaFr38OtY9nqx0HPBJhEz"
     },
     {
       "album": {
@@ -1192,7 +1218,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 158590,
       "name": "Raba",
       "url": "https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm"
@@ -1323,6 +1349,32 @@
     },
     {
       "album": {
+        "name": "She Knows (Blas\u00e9)",
+        "url": "https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        },
+        {
+          "name": "Elizabeth Olowo",
+          "url": "https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174628,
+      "name": "She Knows (Blas\u00e9)",
+      "url": "https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68"
+    },
+    {
+      "album": {
         "name": "YPSZN3",
         "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
@@ -1374,7 +1426,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210000,
       "name": "Steady Trapping",
       "url": "https://open.spotify.com/track/1ZU2go4uBwksTVkzcuZG2E"

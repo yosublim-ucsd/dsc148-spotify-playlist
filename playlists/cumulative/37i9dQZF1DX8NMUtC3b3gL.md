@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-581 songs - 22 hr 42 min
+585 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [arise](https://open.spotify.com/track/4KZvJKxqVcN4W2ZEWv87Lv) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [arise](https://open.spotify.com/album/5o5ZzmhIA3qie7Xvri32iM) | 2:03 | 2024-02-09 |  |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-05-27 |  |
 | [Aruba Nights](https://open.spotify.com/track/72T0k8wtYvPmKpszZ2KqQS) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Aruba Nights](https://open.spotify.com/album/0DusIpWGwwWliJ3mO06pWS) | 2:25 | 2024-07-26 | 2024-08-10 |
+| [Ascension](https://open.spotify.com/track/5GYVPAZ4BOSjp6OcST1gAu) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Ascension](https://open.spotify.com/album/0f9Z4iB2eWqtNvwf13TmYk) | 2:08 | 2024-09-27 |  |
 | [at the blue hour](https://open.spotify.com/track/5PXW1rFIHsKhU0LMSkinZn) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [at the blue hour](https://open.spotify.com/album/3bNe0OcNAuOCnbINzUx6Sh) | 1:44 | 2024-09-06 |  |
 | [Away from Home](https://open.spotify.com/track/37bo8gV7ZEXkHonzp0uLxB) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Away from Home](https://open.spotify.com/album/36IP2eLXnaTKHw9KBbBkEN) | 2:21 | 2024-05-13 |  |
 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 | 2022-07-29 | 2023-09-16 |
@@ -162,6 +163,7 @@
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
 | [Elegua](https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Elegua](https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka) | 2:02 | 2022-12-09 | 2023-08-04 |
 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 | 2022-05-27 | 2023-10-05 |
+| [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 | 2024-09-27 |  |
 | [Encore](https://open.spotify.com/track/3HzvkY0HzN5PDlWXkgX9qs) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Encore](https://open.spotify.com/album/622tAIkMJlUCGH556jdZAI) | 2:24 | 2023-04-20 | 2024-07-27 |
 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 | 2022-10-29 |
 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 | 2024-08-30 |  |
@@ -302,6 +304,7 @@
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 | 2024-08-24 |
 | [Matcha Crumbs](https://open.spotify.com/track/0m3pLMVoCRIcyzmoRPeghN) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Matcha Crumbs](https://open.spotify.com/album/5Ef6dKmeasMNdEdrYAYzC6) | 2:19 | 2022-10-28 | 2024-01-05 |
 | [Mayfair](https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Mayfair](https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0) | 2:11 | 2024-07-05 |  |
+| [Meditation](https://open.spotify.com/track/5rOfiupihqwPKK0Abikxqi) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Meditation](https://open.spotify.com/album/7rojaIxCtL8NdCPA5a8Duw) | 2:49 | 2024-09-27 |  |
 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 | 2022-06-03 | 2022-06-24 |
 | [Midnight Mirage](https://open.spotify.com/track/6aWTPDfnex83b0LJc5wXid) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Midnight Mirage](https://open.spotify.com/album/41rUzFjUFhrEc44CqHxpUA) | 2:17 | 2024-09-13 |  |
 | [mighty fine](https://open.spotify.com/track/6mRQfIW4Z9Kgiz469aaMbk) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [mighty fine](https://open.spotify.com/album/6cUYQS3spIKTw2lDkOO2Pr) | 1:54 | 2024-06-28 |  |
@@ -350,6 +353,7 @@
 | [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 | 2022-07-29 | 2022-10-29 |
 | [Old Days](https://open.spotify.com/track/5yf2mbyU1UHPut39eAuOCX) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Old Days](https://open.spotify.com/album/4A4ypbUWFAceSJcPKXni70) | 2:18 | 2022-08-05 | 2022-09-23 |
 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 | 2022-07-15 | 2024-01-12 |
+| [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-09-27 |  |
 | [One](https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [One](https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv) | 2:40 | 2022-12-16 | 2023-09-22 |
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-09-29 | 2024-08-10 |
 | [Other Way Around](https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Other Way Around](https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t) | 1:52 | 2022-07-08 | 2023-09-29 |

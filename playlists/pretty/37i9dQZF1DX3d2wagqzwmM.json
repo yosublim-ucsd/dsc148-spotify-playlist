@@ -1,12 +1,12 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 546189,
+  "num_followers": 546407,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAAABypW7S+YMg2DYlE6pB1Xr",
+  "snapshot_id": "ZvXZYAAAAAAQ3dPCiY5n4DgEpc2yC0fY",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -771,26 +771,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Gonna Dance with Somebody",
-        "url": "https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh"
+        "name": "Insurgence",
+        "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         },
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Noel Holler",
-          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
         }
       ],
-      "duration_ms": 187655,
-      "name": "Gonna Dance with Somebody",
-      "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
+      "duration_ms": 221142,
+      "name": "Insurgence",
+      "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -819,6 +815,50 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Love Takes Over",
+        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Love Takes Over",
+      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Gonna Dance with Somebody",
+        "url": "https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        }
+      ],
+      "duration_ms": 187655,
+      "name": "Gonna Dance with Somebody",
+      "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
       },
@@ -839,46 +879,6 @@
       "duration_ms": 152727,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Insurgence",
-        "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Insurgence",
-      "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Love Takes Over",
-        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Love Takes Over",
-      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "F#CK THE DJ",
         "url": "https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC"
       },
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Adrenalina (Minha Gasolina)",
-        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Adrenalina (Minha Gasolina)",
-      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
       },
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Pyramid Rave / Feel The Energy",
-        "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        }
-      ],
-      "duration_ms": 156808,
-      "name": "Pyramid Rave",
-      "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Pull Me In",
         "url": "https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 147397,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Pyramid Rave / Feel The Energy",
+        "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "duration_ms": 156808,
+      "name": "Pyramid Rave",
+      "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Party With The Cops (feat. Haley Maze)",
         "url": "https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB"
       },
@@ -1243,26 +1219,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Komodo",
-        "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
       },
       "artists": [
         {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
         },
         {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
         },
         {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
         }
       ],
-      "duration_ms": 155836,
-      "name": "Komodo",
-      "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
+      "duration_ms": 192000,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1287,6 +1263,30 @@
       "duration_ms": 144933,
       "name": "Samba De Janeiro",
       "url": "https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Komodo",
+        "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "duration_ms": 155836,
+      "name": "Komodo",
+      "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "JUMP AND RAVE",
+        "url": "https://open.spotify.com/album/6gO207P5ORSgyFxwoO2Foq"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 138214,
+      "name": "JUMP AND RAVE",
+      "url": "https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Beautiful Life (Faustix RMX)",
         "url": "https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 142352,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "JUMP AND RAVE",
-        "url": "https://open.spotify.com/album/6gO207P5ORSgyFxwoO2Foq"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        }
-      ],
-      "duration_ms": 138214,
-      "name": "JUMP AND RAVE",
-      "url": "https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+      "duration_ms": 164404,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1523,6 +1527,22 @@
       "duration_ms": 175781,
       "name": "Control",
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1567,26 +1587,6 @@
       "duration_ms": 128274,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Aria",
-        "url": "https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy"
-      },
-      "artists": [
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        }
-      ],
-      "duration_ms": 164404,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK"
     },
     {
       "added_at": "2024-09-26 22:00:00",

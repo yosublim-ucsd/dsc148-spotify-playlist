@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Post Nebbia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,282 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,289 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 |
 | 95 | [Rapide](https://open.spotify.com/track/0u1dTvTc1HGMOOFw1chrj6) | [Real Timpani](https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA) | [RX4XT](https://open.spotify.com/album/4dVKyxmriQC92cax9rHMpp) | 4:51 |
 
-Snapshot ID: `ZvXZnAAAAABSwt83WMRGptxPnCPqJqv7`
+Snapshot ID: `ZvXZnAAAAADwrF0SiZv33F2jRHGm4Lx/`

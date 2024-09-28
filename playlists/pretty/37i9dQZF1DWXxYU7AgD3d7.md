@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,328 likes - 36 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,341 likes - 36 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 35 | [Under the Moon and Over the Sky](https://open.spotify.com/track/6EFagSx8kOmHnXnryCnnEW) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [Angie \(Expanded Edition\)](https://open.spotify.com/album/7KYOGBzyo40slOc0EJGOsb) | 5:43 |
 | 36 | [Za\-Za Solo](https://open.spotify.com/track/5uBTjPNku2eE4TF6Rjbajb) | [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [My Field Recordings from Across the Planet](https://open.spotify.com/album/3EmUGs6NPCzWB4JOMsmyk7) | 1:18 |
 
-Snapshot ID: `Zu1yxwAAAAAZ0u5PStgq7Jc1jszGZecB`
+Snapshot ID: `Zu1yxwAAAACqBq4gq+aN15U2yuGZBGXC`

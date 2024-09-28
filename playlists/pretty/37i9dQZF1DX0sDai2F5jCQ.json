@@ -1,12 +1,12 @@
 {
   "description": "Your shortcut to the best new Hip Hop. Cover: ONEFOUR, Headie One",
-  "num_followers": 441651,
+  "num_followers": 441669,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvVo4AAAAADkRbNy0igz9D/TuJF6kJDW",
+  "snapshot_id": "ZvVo4AAAAAAfLxMcDftFzz5Fio0o7zhW",
   "tracks": [
     {
       "added_at": "2024-09-19 22:52:37",
@@ -59,6 +59,26 @@
       "duration_ms": 137000,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/4BjEz7HIK0Ja4tsyNj65HV"
+    },
+    {
+      "added_at": "2024-09-26 14:00:00",
+      "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
       "added_at": "2024-09-19 22:52:37",
@@ -179,7 +199,7 @@
     {
       "added_at": "2024-09-26 14:00:00",
       "album": {
-        "name": "Off White Rozay",
+        "name": "Off White Rozay (feat. Voice of Harlem)",
         "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
       },
       "artists": [
@@ -189,7 +209,7 @@
         }
       ],
       "duration_ms": 149313,
-      "name": "Off White Rozay",
+      "name": "Off White Rozay (feat. Voice of Harlem)",
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {

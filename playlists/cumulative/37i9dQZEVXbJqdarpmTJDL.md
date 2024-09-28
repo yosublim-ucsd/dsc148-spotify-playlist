@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,780 songs - 3 day 22 hr 14 min
+1,781 songs - 3 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Koala](https://open.spotify.com/track/1JbxABWzusKkMdr1QYsGsi) | [Jims](https://open.spotify.com/artist/06jHkKDkgO3OnF1XTok0CM), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Koala](https://open.spotify.com/album/6BoQha7B01JMYRCyytTHQF) | 2:30 | 2022-06-04 | 2022-06-12 |
 | [Kobe](https://open.spotify.com/track/5pJs3IQxlt8OjtXmTeVlJu) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:30 | 2022-01-14 | 2022-04-07 |
 | [Koini Gnomi](https://open.spotify.com/track/5EsL43VnjUAmzWOT5iBVqT) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX), [Dj Moya](https://open.spotify.com/artist/56CAZLbzUvyYZir1iwtfhQ) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 2:55 | 2021-04-04 | 2021-04-05 |
+| [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 | 2024-09-27 |  |
 | [Koita](https://open.spotify.com/track/1KAaObDxDCla6jEHslBsjk) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Koita](https://open.spotify.com/album/0OSg5s7nyVhzKhKbeCj2sy) | 4:29 | 2021-03-27 | 2021-03-29 |
 | [Koita Me](https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Koita Me](https://open.spotify.com/album/28Fclov99SuAnq1kEgxtVk) | 2:06 | 2023-09-15 | 2024-01-24 |
 | [Kokaina](https://open.spotify.com/track/3hS4HC5mTbBqIZkTGP6ETx) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Kokaina](https://open.spotify.com/album/5oMbffz4Pibodz9dlzYNcb) | 2:32 | 2021-05-15 | 2021-05-27 |
@@ -842,7 +843,7 @@
 | [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2023-07-08 | 2023-10-04 |
 | [Kolpa](https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Kolpa](https://open.spotify.com/album/45Hyq3XbOFG3Gi0BgmTyWA) | 2:21 | 2023-12-13 | 2024-01-14 |
 | [Kommatia](https://open.spotify.com/track/0q2se8fpWUpJVSo55JsinP) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Kommatia](https://open.spotify.com/album/3EOVfwi7uWOxu6MB2MvpNu) | 2:33 | 2024-01-10 | 2024-01-14 |
-| [KOPRITIS](https://open.spotify.com/track/26iieiRiqhzXfBquk8sm6N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:44 | 2024-08-09 |  |
+| [KOPRITIS](https://open.spotify.com/track/26iieiRiqhzXfBquk8sm6N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:44 | 2024-08-09 | 2024-09-28 |
 | [Kotera](https://open.spotify.com/track/3f7zVrAcCZ1BVlArmg8wzr) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Kotera](https://open.spotify.com/album/4rOLWCGPB8eSh3EMqMNPVQ) | 2:52 | 2021-09-04 | 2021-09-17 |
 | [Kounato Siga](https://open.spotify.com/track/4ieIAiWQcFLpcCPJeDbLRm) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [Kounato Siga](https://open.spotify.com/album/7CdGoSJvzSztwatsY89TYV) | 2:10 | 2022-04-06 | 2022-05-21 |
 | [Krima](https://open.spotify.com/track/4TmbxbKtpVuCtpuJ8em5xg) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Fthina Tricks 2](https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU) | 3:10 | 2024-06-01 | 2024-06-10 |

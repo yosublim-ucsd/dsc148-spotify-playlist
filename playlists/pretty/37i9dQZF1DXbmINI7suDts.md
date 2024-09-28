@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,674 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,684 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Angel of Mine](https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 3:15 |
 | 60 | [Bounce](https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 2:50 |
 
-Snapshot ID: `ZpmsRAAAAAD4iPGlhbcigtUEjy4WnScS`
+Snapshot ID: `ZpmsRAAAAAApfsaLcOPukXwYFgqHFa73`

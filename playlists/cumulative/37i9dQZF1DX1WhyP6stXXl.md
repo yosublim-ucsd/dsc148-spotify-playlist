@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Lady Gaga
 
-375 songs - 19 hr 0 min
+378 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 | 2024-06-28 | 2024-07-12 |
 | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 | 2024-08-22 | 2024-09-20 |
 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-12 |  |
+| [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-27 |  |
 | [Midnight Trash](https://open.spotify.com/track/5ObKcQ3nao0S6E9q9xeioY) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Midnight Trash](https://open.spotify.com/album/5MMvK6ekgSYZlYnGGkrAsa) | 2:52 | 2024-08-22 | 2024-09-20 |
 | [Mindset](https://open.spotify.com/track/10oE9653NIrmAtbzcb7mZ1) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Mindset](https://open.spotify.com/album/23FgNkUlrdyxGS6yTBFmDb) | 2:35 | 2024-07-05 | 2024-08-02 |
 | [MONEY](https://open.spotify.com/track/0TfIUn5NqD0cJUVtynM2RP) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/1B7p5jOJpHqdEBg0n7s8us) | 3:01 | 2024-06-28 | 2024-07-19 |
@@ -302,6 +303,7 @@
 | [Set Me Free](https://open.spotify.com/track/6idYm6kt2C1ZuW9ZL53o4g) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Set me free](https://open.spotify.com/album/3u6HkVsfrWF56eVEj73uE1) | 3:05 | 2024-07-25 | 2024-08-23 |
 | [SEXY 4EVER \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3Cg4NbE8zV595nlroqOkuc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:45 | 2024-09-12 |  |
 | [Sick To My Stomach](https://open.spotify.com/track/4KB58JqZXzjyIurknDDeR6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/3QL8nTb3M34sU2Yb03z7kM) | 2:11 | 2024-08-15 | 2024-09-13 |
+| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 |  |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-08-09 |
 | [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-28 | 2024-07-27 |
 | [Sleep Alone](https://open.spotify.com/track/27YJuELVY3sguJMXcRGd4z) | [Iggi Kelly](https://open.spotify.com/artist/4SrQdK7LahnrRiz1g10kNN) | [Sleep Alone](https://open.spotify.com/album/4TYw0zXoPTmdAxlVEA4RuB) | 2:45 | 2024-06-28 | 2024-07-12 |
@@ -322,6 +324,7 @@
 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 | 2024-07-18 | 2024-08-16 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 |  |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-26 |  |
+| [Still Alive](https://open.spotify.com/track/6qHpOFvi7fxmz6ZsnGAHec) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Still Alive](https://open.spotify.com/album/695Glguk9UBEmdqBAr2zw0) | 2:41 | 2024-09-27 |  |
 | [summer crush](https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [summer crush](https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM) | 2:56 | 2024-08-15 | 2024-09-13 |
 | [Summer Of Love](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer Of Love](https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU) | 2:03 | 2024-07-18 | 2024-08-16 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-18 | 2024-08-16 |

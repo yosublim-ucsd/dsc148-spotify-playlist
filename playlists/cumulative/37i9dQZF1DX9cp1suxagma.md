@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-238 songs - 12 hr 35 min
+239 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Una Vez Más \(feat\. Muerdo\)](https://open.spotify.com/track/4LE64C6oFzCooTAlNjuoLI) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Una Vez Más](https://open.spotify.com/album/1k4MyRE1UrSvytq0dcZibo) | 3:53 | 2023-08-25 | 2023-09-16 |
 | [Una Y Otra Vez](https://open.spotify.com/track/0jsFD6MLc7yZ2FqHvArjaW) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:49 | 2023-02-17 | 2023-07-01 |
 | [Vas A Encontrarme](https://open.spotify.com/track/3wwbgv83ZFwYlPa2zlRQJ9) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Vas A Encontrarme](https://open.spotify.com/album/78Pv0kAljrB27H31Vmpdcl) | 2:48 | 2023-02-17 |  |
+| [Veneno Delicioso](https://open.spotify.com/track/2HHhdtmVdn7kY0pbOVb6OI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Veneno Delicioso](https://open.spotify.com/album/0Tw8Tq4hjCuyxQ1P1vycVt) | 3:22 | 2024-09-27 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 |  |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-02-17 | 2023-06-24 |
 | [Vivir Bailando](https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivir Bailando](https://open.spotify.com/album/6uSCXro7r0QMTSgMLnSAbP) | 3:34 | 2023-02-17 | 2023-08-26 |

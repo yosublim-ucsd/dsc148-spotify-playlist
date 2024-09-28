@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=YK719CUwT0KOKLbBeuY0kA>Dumi Mkokstad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,724 likes - 104 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,858 likes - 104 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 103 | [Isinqumo](https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Isinqumo](https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg) | 6:07 |
 | 104 | [ikhwezi \- Live at Covenant House / 2023](https://open.spotify.com/track/3orFXQMpJxy5Z2MRQONBA7) | [Khana Mhlongo](https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj) | [iKhwezi \(Live at Covenant House / 2023\)](https://open.spotify.com/album/33XuMBMDf2vf7GOrcP0sTP) | 4:47 |
 
-Snapshot ID: `ZvX1vAAAAAAthNq4X9I9IBM8D9nJnkdm`
+Snapshot ID: `ZvX1vAAAAAABvinob3tDjPM/LtKml9fh`

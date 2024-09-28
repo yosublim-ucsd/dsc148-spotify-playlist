@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Famoso
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: pOd
 
-98 songs - 7 hr 8 min
+100 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [ถ้าเธอต้องไป](https://open.spotify.com/track/0sfYqbTSE8OWu8ZzcLHlKF) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ถ้าเธอต้องไป](https://open.spotify.com/album/6Eg48wAsh9LdmHDoZvbebA) | 4:11 | 2024-06-21 | 2024-07-20 |
 | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd) | 2:59 | 2024-08-23 | 2024-09-14 |
 | [ถ้าไม่อยากให้ฉันเสียใจ \(Gone\)](https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [When you cry, I cry](https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk) | 4:39 | 2024-07-05 | 2024-07-27 |
-| [ทางหนีไป](https://open.spotify.com/track/5tB7mKJL5Jvgny7c8NNa2u) | [Rosette](https://open.spotify.com/artist/6SEpVjvHFU9KqfS9p0Cvnc) | [ทางหนีไป](https://open.spotify.com/album/332m7zrV4LtO0nv4XXlNsS) | 5:26 | 2024-09-06 |  |
+| [ทางหนีไป](https://open.spotify.com/track/5tB7mKJL5Jvgny7c8NNa2u) | [Rosette](https://open.spotify.com/artist/6SEpVjvHFU9KqfS9p0Cvnc) | [ทางหนีไป](https://open.spotify.com/album/332m7zrV4LtO0nv4XXlNsS) | 5:26 | 2024-09-06 | 2024-09-28 |
 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 | 2024-06-21 | 2024-09-14 |
 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 | 2024-06-21 |  |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 |  |
@@ -59,7 +59,7 @@
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 | 2024-09-20 |  |
-| [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 | 2024-08-30 |  |
+| [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 | 2024-08-30 | 2024-09-28 |
 | [รู้ได้ไงว่าไม่คิดถึง \(nostalgia\)](https://open.spotify.com/track/2acaYxjO80y9TfRTqytenB) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l), [Pumpkins At Alaska](https://open.spotify.com/artist/0t8SCeZxq3k0MrqlvBdyJv) | [from time to time](https://open.spotify.com/album/0QF3MC2PVQg0BeBKZS0Hzn) | 4:28 | 2024-06-21 |  |
 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 | 2024-09-13 |  |
 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 | 2024-06-28 | 2024-08-24 |
@@ -79,6 +79,7 @@
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |
 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 | 2024-06-28 | 2024-08-03 |
+| [เธอมองนาฬิกา](https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [เธอมองนาฬิกา](https://open.spotify.com/album/1YqHbNnhb02QHuv6T0Nr8W) | 3:43 | 2024-09-27 |  |
 | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/track/6paXQeuhshazXjplp6OTXX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/album/3XJDmq6lMLE9FbvTdqiw4T) | 3:39 | 2024-08-02 | 2024-09-14 |
 | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X) | [MANASSAVEE](https://open.spotify.com/artist/7oXUJG49XQHHix0Awcq293) | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/album/2RLygclvx8ooOm6w0hJVlC) | 4:44 | 2024-06-21 | 2024-08-24 |
 | [เพียงอยากขอ](https://open.spotify.com/track/6VnYs6uSFxyHF5Pt8FIwSe) | [Laika](https://open.spotify.com/artist/3vHLiSEszIgPRLxivAPHO9) | [เพียงอยากขอ](https://open.spotify.com/album/7udF2bEMlmbpi9ufEiDneK) | 4:47 | 2024-06-21 | 2024-07-20 |
@@ -96,6 +97,7 @@
 | [ใครในโลกนั้น \(Keep in Touch\)](https://open.spotify.com/track/5AZiY2IUDSchIwYHkekMxm) | [Ta anawin](https://open.spotify.com/artist/7nOkRJCyhpodlxce1s6XZj) | [ใครในโลกนั้น \(Keep in Touch\)](https://open.spotify.com/album/3C5WFK9bOOqGoGRrET1Pjg) | 4:20 | 2024-06-21 | 2024-07-20 |
 | [ในฝัน \(Krueger\)](https://open.spotify.com/track/5Kt6NUklWl2rzexBr07KBC) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [ในฝัน \(Krueger\)](https://open.spotify.com/album/65S7j4KnZY8nQSDqUIhJo6) | 4:02 | 2024-08-02 |  |
 | [ในวันที่ไม่เหลือใคร](https://open.spotify.com/track/3th5V3ADNe1y8K9Vf6H3aR) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ในวันที่ไม่เหลือใคร \(Lost it all\)](https://open.spotify.com/album/5LpBEKIcnhqpslAWcZAmS8) | 4:52 | 2024-06-21 |  |
+| [ในวันและเวลาที่ฉัน \(My World\)](https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ในวันและเวลาที่ฉัน](https://open.spotify.com/album/0gRpXkp9LssvvjdC7hq8H0) | 4:33 | 2024-09-27 |  |
 | [ในเวลานี้](https://open.spotify.com/track/3KjSED3yuZ7MKpXJPYK0W2) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ในเวลานี้](https://open.spotify.com/album/2ZVV64XxjuWQcroyJhISN8) | 3:10 | 2024-06-21 | 2024-07-06 |
 | [ให้ฉันปลอบเธอ \(Kindness\)](https://open.spotify.com/track/3eenD2b7MtpKqOJjmyy10X) | [Kindness Message](https://open.spotify.com/artist/3GP8iyMzfDrIkxAB3iZtz3) | [ให้ฉันปลอบเธอ \(Kindness\)](https://open.spotify.com/album/5SRoUoABPIt0wyGPjsjF2M) | 5:16 | 2024-08-02 | 2024-08-10 |
 | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM) | 3:41 | 2024-08-23 |  |

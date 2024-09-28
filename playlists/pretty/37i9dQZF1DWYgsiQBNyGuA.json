@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 86905,
+  "num_followers": 86928,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuQFTQAAAACgzENVn+hNpAvOWZgo00cq",
+  "snapshot_id": "ZvbwKQAAAABq2uK/fiCytx4+2PeKMCIa",
   "tracks": [
     {
       "added_at": "2024-03-08 13:51:25",
@@ -105,6 +105,26 @@
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
+      "added_at": "2024-09-27 17:49:29",
+      "album": {
+        "name": "Mystery ft. PJ Morton",
+        "url": "https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 194184,
+      "name": "Mystery ft. PJ Morton",
+      "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Trouble In Paradise",
@@ -173,22 +193,6 @@
       "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Gossip in the Grain",
-        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are The Best Thing",
-      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
-    },
-    {
       "added_at": "2024-09-13 09:24:57",
       "album": {
         "name": "Waiting on the Right Time",
@@ -207,18 +211,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+        "name": "Gossip in the Grain",
+        "url": "https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
+      "duration_ms": 231840,
+      "name": "You Are The Best Thing",
+      "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -251,6 +255,22 @@
       "duration_ms": 226373,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -447,18 +467,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "Ben L'Oncle Soul",
+        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+      "duration_ms": 222466,
+      "name": "Soulman - New English Version",
+      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -479,34 +499,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -527,6 +531,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -589,42 +609,6 @@
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 311038,
-      "name": "Bedroom Bully (feat. October London)",
-      "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Look At Me",
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 273893,
       "name": "Cornbread, Fish & Collard Greens",
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 311038,
+      "name": "Bedroom Bully (feat. October London)",
+      "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1107,22 +1127,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "(Your Love Keeps Lifting Me) Higher and Higher",
-        "url": "https://open.spotify.com/album/3IicDehq8uY2vpCFK5hZFe"
-      },
-      "artists": [
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
-      "url": "https://open.spotify.com/track/0qbg3HFwPSMmN0BlrdW5qW"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
@@ -1135,6 +1139,22 @@
       "duration_ms": 265560,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "(Your Love Keeps Lifting Me) Higher and Higher",
+        "url": "https://open.spotify.com/album/3IicDehq8uY2vpCFK5hZFe"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 187924,
+      "name": "(Your Love Keeps Lifting Me) Higher and Higher",
+      "url": "https://open.spotify.com/track/0qbg3HFwPSMmN0BlrdW5qW"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1351,22 +1371,6 @@
       "duration_ms": 339813,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/45qbfUvlCkVIAMnHuZpbmU"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Seven: VII",
-        "url": "https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu"
-      },
-      "artists": [
-        {
-          "name": "Conya Doss",
-          "url": "https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R"
-        }
-      ],
-      "duration_ms": 273137,
-      "name": "Love's Not",
-      "url": "https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4"
     }
   ],
   "unique_name": "Soulful Day",

@@ -2,9 +2,9 @@
 
 ### [Jupiter](https://open.spotify.com/playlist/37i9dQZF1DXdoMAjKwiHY5)
 
-> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Train
+> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: The Fray
 
-83 songs - 5 hr 22 min
+84 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [If I Am](https://open.spotify.com/track/0yA6uXukVZbi29GcmtK6i5) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 4:18 | 2023-06-08 | 2023-07-07 |
 | [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 | 2023-06-08 | 2024-04-19 |
 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 | 2023-06-08 |  |
+| [Known You Always](https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray Is Back](https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq) | 3:19 | 2024-09-27 |  |
 | [Live Like We're Dying](https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Kris Allen](https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP) | 3:32 | 2023-07-06 |  |
 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 | 2023-07-06 |  |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-04-26 |  |

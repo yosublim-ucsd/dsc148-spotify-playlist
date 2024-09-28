@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 218969,
+  "num_followers": 219010,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjMTHAAAAACJLH1DWcZcipNbpaTcpG6Q",
+  "snapshot_id": "ZjMTHAAAAAB909c7l0P1FSmfOsUgqvaT",
   "tracks": [
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Llegaste A Mi Vida",
         "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 220466,
       "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
       "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2024-05-02 04:14:20",

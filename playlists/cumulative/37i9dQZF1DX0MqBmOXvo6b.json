@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Friend From The Past",
+        "url": "https://open.spotify.com/album/0Nf8EN7Tc0d0dt1GfmKYs3"
+      },
+      "artists": [
+        {
+          "name": "Lester Milton",
+          "url": "https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142315,
+      "name": "A Friend From The Past",
+      "url": "https://open.spotify.com/track/1AgJFFggbVgZdBNzpWCwgL"
+    },
+    {
+      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -11956,7 +11974,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186711,
       "name": "Yellow Man",
       "url": "https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81"

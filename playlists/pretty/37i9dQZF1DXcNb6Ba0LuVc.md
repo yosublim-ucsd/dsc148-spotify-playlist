@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,520 likes - 234 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,624 likes - 234 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 233 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 |
 | 234 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 |
 
-Snapshot ID: `ZuO4wAAAAAA0QYgB0mMRrDCX8Vfbx3CH`
+Snapshot ID: `ZuO4wAAAAAAnsrc3JSqHYpZ8Bh44zDGv`

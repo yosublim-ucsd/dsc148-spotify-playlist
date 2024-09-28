@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,233 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,218 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 10 | [Longe Daqui](https://open.spotify.com/track/6ORUiT6jhNRVPH3jUCGZnL) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Longe Daqui](https://open.spotify.com/album/5tBucvS2pdQTKKGEQikSkK) | 2:30 |
 | 11 | [Seja Quem Você Quiser](https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [Seja Quem Você Quiser](https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT) | 3:57 |
 | 12 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
-| 13 | [Vou Ventando Pra Você](https://open.spotify.com/track/6QIPCBOEX10m3ohIK33Ihf) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tobogã](https://open.spotify.com/album/23LwLPzhwt2Mi2aWKYLno7) | 3:38 |
+| 13 | [Um Sonho](https://open.spotify.com/track/2khoFTxsVy8Y0crHrk6GRq) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Um Sonho](https://open.spotify.com/album/60kEJlOilsLPCTNA5CXM3T) | 2:31 |
 | 14 | [Fora de Controle \- Acústico](https://open.spotify.com/track/158xy5kYAXVHLSHJEOm3Bj) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Fora de Controle \(Acústico\)](https://open.spotify.com/album/2TUwLAo4r0VEmcs4SjTSvm) | 3:19 |
 | 15 | [Não te quero mais \(Marte\)](https://open.spotify.com/track/2F7JJHOoEX23uSpyClSoH3) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Não te quero mais \(Marte\)](https://open.spotify.com/album/6A1jGleeIH2RtjqU1k3hGX) | 3:22 |
 | 16 | [Mais uma vez](https://open.spotify.com/track/79VJmKsxklamRPSDusWmms) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico \(Deluxe\)](https://open.spotify.com/album/0mHk0k9Nh9hKhrVB9trJQa) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 79 | [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 |
 | 80 | [Teoria](https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Teoria](https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf) | 1:53 |
 
-Snapshot ID: `ZttaTQAAAACPpGfzesmKDAC4JMCc2YfF`
+Snapshot ID: `ZvazlQAAAAAuT48/TS9S6OxHez+DtAAi`

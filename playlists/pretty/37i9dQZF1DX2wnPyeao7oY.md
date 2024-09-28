@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Silly Goose \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,610 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,697 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [Radiant](https://open.spotify.com/track/1WsNQUIHDgya2psMeRVoG5) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Second Sun](https://open.spotify.com/album/1OQwuRnYVMlHwZQVDomb8f) | 4:19 |
 | 75 | [Chemicals](https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP) | [The Dark](https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6) | [Chemicals](https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh) | 3:03 |
 
-Snapshot ID: `ZvOtjAAAAAA2bkvWXlTqxqcqma+aDiUS`
+Snapshot ID: `ZvOtjAAAAAAjga9jNVq0i7DTseCPXvTY`

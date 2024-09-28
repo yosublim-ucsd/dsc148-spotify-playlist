@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør alle låtene fra Hver gang vi møtes 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,737 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,729 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 | 47 | [Easy to Love](https://open.spotify.com/track/4SqBAvlEZY4Hf95rBqWn1X) | [Mari Boine](https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Easy to Love](https://open.spotify.com/album/5S3Vitj9zF3LVJjXnsOcCH) | 3:13 |
 | 48 | [Falsk Alarm](https://open.spotify.com/track/27yH7HlGXTDrHvwDbhmjtn) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Falsk Alarm](https://open.spotify.com/album/3umxWipT0zsERYj80YeU2y) | 2:59 |
 
-Snapshot ID: `ZnGEeAAAAADFdRUBOwOpaAKk1F3z1SwI`
+Snapshot ID: `ZnGEeAAAAABbpPSMqYDKm6vmIE+rXPj9`

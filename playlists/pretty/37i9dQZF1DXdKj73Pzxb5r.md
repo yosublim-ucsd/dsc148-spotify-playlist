@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Bedchamber
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,733 likes - 96 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,769 likes - 96 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 95 | [Dharma](https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Dharma](https://open.spotify.com/album/2cOXDoDjNw0xcKvTGajyf6) | 4:12 |
 | 96 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 |
 
-Snapshot ID: `ZvWiAQAAAACHLWYSAd79vLO8bPYgSbV9`
+Snapshot ID: `ZvWiAQAAAADeyCrqmFVslrGmLFL5u3Ze`

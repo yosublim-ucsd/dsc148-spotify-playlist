@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music!  Cover: <a href="spotify:artist:0XnterAMV09fuPjq4joR0c">Rita Springer<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,812 likes - 45 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,833 likes - 45 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 44 | [God Ain't Finished Yet](https://open.spotify.com/track/1rpfy3Gp4LxP5o1gzcpY5J) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [God Ain't Finished Yet](https://open.spotify.com/album/3O5C0Mqu9w04lfoFKUHmiE) | 3:07 |
 | 45 | [Highlands \(Song of Ascent\)](https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Songs I've Needed](https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO) | 6:31 |
 
-Snapshot ID: `ZqOAdAAAAAAWDhB80NnoP8r5WhkLMduo`
+Snapshot ID: `ZqOAdAAAAAAt5nfSgskwPEB10x4Ju7CO`

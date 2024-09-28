@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,067 likes - 96 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,140 likes - 96 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 95 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 96 | [Weeping Ghost](https://open.spotify.com/track/1OoU6dyZX6XWCpQTymP6He) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Weeping Ghost](https://open.spotify.com/album/65jZ8l9cpAjwv4H5Fw5UIS) | 3:33 |
 
-Snapshot ID: `ZpqPJwAAAADlgUyaRWN9RgObJzy1Tj0l`
+Snapshot ID: `ZpqPJwAAAACtM2SdamcP8HBHEm6T5VMi`

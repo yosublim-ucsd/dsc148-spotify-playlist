@@ -2,7 +2,7 @@
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is Ryan Adams\. Tutti i brani in un'unica playlist.
+> This is Ryan Adams\. The essential tracks, all in one playlist.
 
 236 songs - 14 hr 27 min
 

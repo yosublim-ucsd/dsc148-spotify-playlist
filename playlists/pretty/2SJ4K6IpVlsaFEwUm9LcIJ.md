@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,371 likes - 29 songs - 1 hr 30 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,376 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 27 | [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 |
 | 28 | [Dust To Dust](https://open.spotify.com/track/3XSlfc6P1mXb1L8E8LnP1r) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:37 |
 | 29 | [Routiner](https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Routiner / Postcard](https://open.spotify.com/album/76F53xQ0kSoAd9tgNFOg2o) | 3:22 |
+| 30 | [Impractical Joke](https://open.spotify.com/track/2sMEXl84bb1RaF92M8UrEI) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 2:16 |
+| 31 | [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 |
+| 32 | [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 |
+| 33 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 |
+| 34 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 |
 
-Snapshot ID: `AAALDoS1wVZIKE1BjkkxNLaWrjH+EdS9`
+Snapshot ID: `AAALE8QSp3Vr4tzNVNDPle5RYaglHQ+C`

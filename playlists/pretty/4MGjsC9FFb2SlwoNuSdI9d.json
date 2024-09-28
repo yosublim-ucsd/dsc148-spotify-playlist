@@ -1,12 +1,12 @@
 {
   "description": "Shake up your day at the office with this mix. Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_OfficeMusic_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
-  "num_followers": 34588,
+  "num_followers": 34587,
   "original_name": "Office Music (New & Old Hits!)",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAQayTFIUT54euvfwvQZHkjHsACblwG",
+  "snapshot_id": "AAAQbIaPwaULEy5BZIGh4gnKdOZN/Onx",
   "tracks": [
     {
       "added_at": "2024-09-20 18:28:13",
@@ -1831,6 +1831,22 @@
       "duration_ms": 284373,
       "name": "Meet Me Halfway",
       "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
+    },
+    {
+      "added_at": "2024-09-27 17:24:11",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
     }
   ],
   "unique_name": "Office Music (New & Old Hits!)",

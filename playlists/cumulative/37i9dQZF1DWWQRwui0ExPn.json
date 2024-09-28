@@ -9912,7 +9912,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 119127,
       "name": "Banjul",
       "url": "https://open.spotify.com/track/4jGz7wyQknFLmTgvvNJyrR"
@@ -18326,7 +18326,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 144067,
       "name": "Calm Euphoria",
       "url": "https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k"
@@ -27493,6 +27493,24 @@
     },
     {
       "album": {
+        "name": "curry stew",
+        "url": "https://open.spotify.com/album/5kcTMY8GlsXQlGxlF24NYd"
+      },
+      "artists": [
+        {
+          "name": "yellofish",
+          "url": "https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "curry stew",
+      "url": "https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD"
+    },
+    {
+      "album": {
         "name": "Curtis",
         "url": "https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme"
       },
@@ -33668,6 +33686,28 @@
       "duration_ms": 107019,
       "name": "Dust Off",
       "url": "https://open.spotify.com/track/4tBYkfHXgFCiMkFLViWNGh"
+    },
+    {
+      "album": {
+        "name": "Dusty Clouds",
+        "url": "https://open.spotify.com/album/1DHupYDJXv6BwbOoAY0aJ3"
+      },
+      "artists": [
+        {
+          "name": "Yedai",
+          "url": "https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU"
+        },
+        {
+          "name": "Goon Hugs",
+          "url": "https://open.spotify.com/artist/2y8HR60MymGr6SHVQYTfFU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135571,
+      "name": "Dusty Clouds",
+      "url": "https://open.spotify.com/track/0x9eZUZVebUHS7UPrwnqxG"
     },
     {
       "album": {
@@ -56552,7 +56592,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 102000,
       "name": "Indio Kitchen",
       "url": "https://open.spotify.com/track/7zWAPb4lfB1ablMT1J6OYq"
@@ -84818,7 +84858,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 128000,
       "name": "Ohkay",
       "url": "https://open.spotify.com/track/25TVeAkwi7ZfGIHqGpyV9Y"
@@ -87519,6 +87559,24 @@
     },
     {
       "album": {
+        "name": "outerspace",
+        "url": "https://open.spotify.com/album/2wIYGuVTGggDrzEMylRtOK"
+      },
+      "artists": [
+        {
+          "name": "rosis.",
+          "url": "https://open.spotify.com/artist/6U5KPUBAtm5dS5ukmj2mTb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100253,
+      "name": "outerspace",
+      "url": "https://open.spotify.com/track/7MB8UryJ9Bozm1Dcb0H5VV"
+    },
+    {
+      "album": {
         "name": "Outlands",
         "url": "https://open.spotify.com/album/3BQYqCDyafQR7vSBTuh9Uw"
       },
@@ -89176,7 +89234,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 125158,
       "name": "Past Bedtime",
       "url": "https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q"
@@ -93574,7 +93632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 143414,
       "name": "purity",
       "url": "https://open.spotify.com/track/5xiKbif0Y1vz8RddFxyyzo"
@@ -96830,7 +96888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 180538,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/0tKIh3OneNtKW30mI4yUOE"
@@ -125696,7 +125754,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 143095,
       "name": "Up In The Air",
       "url": "https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf"
@@ -130312,6 +130370,24 @@
       "duration_ms": 258064,
       "name": "West Lake",
       "url": "https://open.spotify.com/track/22D3kIP0ckACcHEPoZosVU"
+    },
+    {
+      "album": {
+        "name": "social detox",
+        "url": "https://open.spotify.com/album/0ThHVogZYaijgfzrq7LYxM"
+      },
+      "artists": [
+        {
+          "name": "hope mona",
+          "url": "https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179220,
+      "name": "west of dew",
+      "url": "https://open.spotify.com/track/7encaPzHJXQilEcPGHwU3H"
     },
     {
       "album": {

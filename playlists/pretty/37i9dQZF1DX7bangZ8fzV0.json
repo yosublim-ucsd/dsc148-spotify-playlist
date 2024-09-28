@@ -1,28 +1,28 @@
 {
   "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=2LwdgClJSy-LWkCQY29eeg\">Ivan Roux</a> ",
-  "num_followers": 110073,
+  "num_followers": 110158,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAABWuAcc97DmuBwOGRN1a4P7",
+  "snapshot_id": "ZvY8SQAAAAD/CPk+3y2KYnEYUGQ+ZwwH",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 05:00:52",
       "album": {
-        "name": "Klomp Keer Lekker",
-        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
+        "name": "Morsig",
+        "url": "https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Klomp Keer Lekker",
-      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
+      "duration_ms": 194062,
+      "name": "Morsig",
+      "url": "https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
     },
     {
-      "added_at": "2024-05-09 22:00:00",
+      "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Heito Potato",
-        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+        "name": "Klomp Keer Lekker",
+        "url": "https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 217342,
-      "name": "Heito Potato",
-      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+      "duration_ms": 185625,
+      "name": "Klomp Keer Lekker",
+      "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -151,6 +151,22 @@
       "duration_ms": 197250,
       "name": "Besonders",
       "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 213000,
       "name": "Madelein",
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "AVBOB Se Stoep",
-        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 208969,
-      "name": "AVBOB Se Stoep",
-      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -483,6 +483,22 @@
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "AVBOB Se Stoep",
+        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "duration_ms": 208969,
+      "name": "AVBOB Se Stoep",
+      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 197479,
       "name": "OASE",
       "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Haar Naam Was Somer",
-        "url": "https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Haar Naam Was Somer",
-      "url": "https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC"
     },
     {
       "added_at": "2024-02-15 22:00:00",

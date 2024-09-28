@@ -910,10 +910,28 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 293120,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/1XYby0uDKyROqB5nWWdSOv"
+    },
+    {
+      "album": {
+        "name": "New Internationale",
+        "url": "https://open.spotify.com/album/1ZPLPEVm0f3SSBiDPJZjfx"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/3HQtrJOoNZjIzIxxNMev0b"
     },
     {
       "album": {
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205000,
       "name": "nothing",
       "url": "https://open.spotify.com/track/1kUDl1JDC3GSIsoWQNzp0L"
@@ -4888,6 +4906,28 @@
       "duration_ms": 181546,
       "name": "S e x",
       "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
+    },
+    {
+      "album": {
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99927,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
     },
     {
       "album": {

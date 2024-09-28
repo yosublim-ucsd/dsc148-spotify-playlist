@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul.  Cover- Sona Mohapatra",
-  "num_followers": 70563,
+  "num_followers": 70581,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsbxswAAAAChIBHo9OmQUjrJBFhr2roU",
+  "snapshot_id": "ZsbxswAAAABdGyamPFblHz3MLvMo8Zx5",
   "tracks": [
     {
       "added_at": "2024-08-22 08:07:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-22 08:07:15",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
+    },
+    {
+      "added_at": "2024-08-22 08:07:15",
+      "album": {
         "name": "Radhe (From Songs of Faith)",
         "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2024-08-22 08:07:15",
@@ -1019,26 +1019,22 @@
     {
       "added_at": "2024-08-22 08:07:15",
       "album": {
-        "name": "Shakkar",
-        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
+        "name": "Yariyaan - Single",
+        "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
       },
       "artists": [
         {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
         },
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
         }
       ],
-      "duration_ms": 295135,
-      "name": "Shakkarpari",
-      "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
+      "duration_ms": 311186,
+      "name": "Yariyaan",
+      "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
     }
   ],
   "unique_name": "Fusion Finds",

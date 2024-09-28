@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Dani Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,250 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,242 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,18 +31,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 21 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 |
 | 22 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 |
 | 23 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
-| 24 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
-| 25 | [Nuestra Canción](https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nuestra Canción](https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0) | 3:07 |
-| 26 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 |
-| 27 | [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 |
+| 24 | [Nuestra Canción](https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nuestra Canción](https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0) | 3:07 |
+| 25 | [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 |
+| 26 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
+| 27 | [Cupido](https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Cupido](https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E) | 2:44 |
 | 28 | [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 |
 | 29 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 | 30 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 31 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
-| 32 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 |
-| 33 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
-| 34 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 |
-| 35 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 |
+| 32 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
+| 33 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 |
+| 34 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 |
+| 35 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 |
 | 36 | [Lo he intentado](https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Lo he intentado](https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0) | 3:07 |
 | 37 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 |
 | 38 | [no te deseo lo peor :\)](https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [no te deseo lo peor :\)](https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5) | 3:09 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 40 | [TODAVÍA](https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [TODAVÍA](https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw) | 2:50 |
 | 41 | [AMALFI](https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [AMALFI](https://open.spotify.com/album/7cCGN8rn9b3M72bdqHJEIc) | 2:16 |
 | 42 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
-| 43 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
-| 44 | [GARITO EN MALASAÑA](https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [GARITO EN MALASAÑA](https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV) | 2:35 |
-| 45 | [Lo Dejo Todo](https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Lo Dejo Todo](https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX) | 2:39 |
+| 43 | [GARITO EN MALASAÑA](https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [GARITO EN MALASAÑA](https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV) | 2:35 |
+| 44 | [Lo Dejo Todo](https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Lo Dejo Todo](https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX) | 2:39 |
+| 45 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
 | 46 | [Así](https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Así](https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE) | 3:43 |
 | 47 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 |
 
-Snapshot ID: `ZvGXjQAAAAAccRVVLRh31CcB+tQxi+g8`
+Snapshot ID: `ZvGXjQAAAABXyoQYOKUcgB/zBp1MyJAz`

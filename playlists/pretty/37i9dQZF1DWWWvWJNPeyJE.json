@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 314909,
+  "num_followers": 314982,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtWwXAAAAADJ+7qhmmWRjSmnl4jTY86x",
+  "snapshot_id": "ZtWwXAAAAAAU6fAYj0dWPK8Y+4fRkUZm",
   "tracks": [
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Easy (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
-      },
-      "artists": [
-        {
-          "name": "Next Town Down",
-          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Easy (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 211470,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Easy (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
+      },
+      "artists": [
+        {
+          "name": "Next Town Down",
+          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Easy (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
     },
     {
       "added_at": "2024-09-02 12:32:28",

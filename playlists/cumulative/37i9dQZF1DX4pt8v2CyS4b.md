@@ -2,7 +2,7 @@
 
 ### [National Geographic Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4pt8v2CyS4b)
 
-> Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
+> Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
 88 songs - 4 hr 21 min
 

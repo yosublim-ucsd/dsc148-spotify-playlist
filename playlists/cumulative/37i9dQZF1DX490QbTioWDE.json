@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Valentino Merlo, Paulo Londra & Luck Ra.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 180198,
       "name": "Anti Amor",
       "url": "https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4"
@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Aventura (En Vivo)",
+        "url": "https://open.spotify.com/album/0yXcCgUKJLkaCGsH9BiXfI"
+      },
+      "artists": [
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186187,
+      "name": "Aventura - En Vivo",
+      "url": "https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG"
+    },
+    {
+      "album": {
         "name": "A\u00fan Te Quiero",
         "url": "https://open.spotify.com/album/0QSc8pvSbZBkAJsGLSiB6h"
       },
@@ -924,7 +946,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 244325,
       "name": "Bella y Bestia / Miel / Pi\u00f1ata",
       "url": "https://open.spotify.com/track/3YO1KzqUr8v3OjH0h6FwBg"
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 190045,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
@@ -1678,7 +1700,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 500989,
       "name": "Cuarteto Sessions #3",
       "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 189032,
       "name": "El M\u00e1s Popular - Remix",
       "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
@@ -3080,7 +3102,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 156032,
       "name": "GPS de AMOR",
       "url": "https://open.spotify.com/track/12ymbhRD4PpQ8qVqJV27MQ"
@@ -3676,7 +3698,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 186232,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/1kJjTCNnD5rmKOy02dViQA"
@@ -5658,7 +5680,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
@@ -6170,7 +6192,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 183921,
       "name": "Pa",
       "url": "https://open.spotify.com/track/3D97m08eFf0OvXapPitq1p"
@@ -6886,6 +6908,28 @@
       "duration_ms": 256914,
       "name": "Que No Le Hago Falta",
       "url": "https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I"
+    },
+    {
+      "album": {
+        "name": "Que Otra Cosa",
+        "url": "https://open.spotify.com/album/5X9TBumrqRDB8HlZLGDEsA"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187604,
+      "name": "Que Otra Cosa",
+      "url": "https://open.spotify.com/track/14JS9qXw6KGU82swmt3d35"
     },
     {
       "album": {
@@ -7684,6 +7728,28 @@
       "duration_ms": 552844,
       "name": "Solo Contigo / Solterita / La Cabecita / El Negro / El Garronero / Borracha y Sin Bombacha",
       "url": "https://open.spotify.com/track/2QZUrLB3AFBKQra0WXpYnr"
+    },
+    {
+      "album": {
+        "name": "Solo Pa' Mi",
+        "url": "https://open.spotify.com/album/2CTFEimc0mKk6koJJUbvuj"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148117,
+      "name": "Solo Pa' Mi",
+      "url": "https://open.spotify.com/track/5YOFztPHWNBUhbz4rH2ILb"
     },
     {
       "album": {
@@ -8944,7 +9010,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"

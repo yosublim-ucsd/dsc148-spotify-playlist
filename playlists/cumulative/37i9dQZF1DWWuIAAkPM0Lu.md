@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a> udlever sin Harley Quinn aka\. Lee 🤡
 
-2,256 songs - 4 day 20 hr 37 min
+2,260 songs - 4 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Blir Her](https://open.spotify.com/track/1W7TNg6bgyHptwcFUm8TNE) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Blir Her](https://open.spotify.com/album/1GJPOt8M6vJLvhht7OdhPN) | 3:02 | 2024-05-16 | 2024-05-24 |
 | [Blood Sweat Tears](https://open.spotify.com/track/0zXNtzZZAE8SEAOuq6PEfY) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Blood Sweat Tears](https://open.spotify.com/album/6CBsLqPSsbikgdUINClZOO) | 2:47 | 2024-09-19 | 2024-09-27 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-08-30 |
+| [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 | 2024-09-26 |  |
 | [blue](https://open.spotify.com/track/3ZC6C2r3Mgc2ibUWn8JbG5) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [blue](https://open.spotify.com/album/28nCYvD0I21LuCYCcIO6wq) | 3:08 | 2024-09-12 | 2024-09-20 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-20 | 2024-06-28 |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-12 | 2024-09-20 |
@@ -389,6 +390,7 @@
 | [Come Around](https://open.spotify.com/track/0AMb8oicfXbM0u2FVHYbFM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Come Around](https://open.spotify.com/album/4ZDNJrvHXeLWqxrJmT1uFe) | 2:30 | 2024-06-27 | 2024-07-05 |
 | [Come As You](https://open.spotify.com/track/4llmA8QnpYEj3TXoVNRZfT) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Come As You](https://open.spotify.com/album/4eEVQPtN38OMzBFMVRhYKU) | 4:23 | 2024-07-04 | 2024-07-12 |
 | [Come Get Her](https://open.spotify.com/track/5YqdSkKIelP7dymy1jJ1kE) | [Vinny Vibe](https://open.spotify.com/artist/1Wk9TyI8QKcivUVkgcbjyo), [DEUX SAINTS](https://open.spotify.com/artist/44iewsGL35Do6lH81Isndl) | [Come Get Her](https://open.spotify.com/album/37cz7NYJI730qHM0tbBKqm) | 2:38 | 2024-07-11 | 2024-07-19 |
+| [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-09-26 |  |
 | [Comedown](https://open.spotify.com/track/5iDn05wrs0yVWihC5YFlZU) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Matt You](https://open.spotify.com/artist/54p0AZwrKT6Ua6W5P60IwG) | [Comedown](https://open.spotify.com/album/2TTwBbmPUodJEiDVEU9OLG) | 3:12 | 2024-06-06 | 2024-06-14 |
 | [Comes And Goes](https://open.spotify.com/track/0lodDVuFT4RB03q30x8KfD) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Comes And Goes](https://open.spotify.com/album/411P6ZV96ik2JZolk8FM95) | 2:47 | 2024-05-09 | 2024-05-17 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-06 | 2024-06-14 |
@@ -1088,6 +1090,7 @@
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-25 | 2024-08-02 |
 | [Irriterer Hinanden](https://open.spotify.com/track/0Kttd43aF25q3Ox6uMxyh9) | [Tina Dickow](https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe), [Annika Aakjær](https://open.spotify.com/artist/1xjy1n1rvPz3ud7iXNgveF) | [Lykken Er ...](https://open.spotify.com/album/0fNDGNvgIzRE8YhoKt8mYg) | 3:25 | 2024-08-01 | 2024-08-09 |
 | [Is it a Crime?](https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Is it a Crime?](https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc) | 3:20 | 2024-06-20 | 2024-06-28 |
+| [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-26 |  |
 | [is suicide too much?](https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [grey europe](https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5) | 3:09 | 2024-05-30 | 2024-06-07 |
 | [isaidimallfuck3dup](https://open.spotify.com/track/2etRYgi7IIzcHD9oKA0VO6) | [Gustav Boje](https://open.spotify.com/artist/48w6PvCd1MWYSegVsjJ2SA) | [isaidimallfuck3dup](https://open.spotify.com/album/1ADebPShaXa2lefOVwY3tw) | 2:35 | 2024-08-22 | 2024-08-30 |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2024-08-22 | 2024-08-30 |
@@ -2020,6 +2023,7 @@
 | [Tilbehør](https://open.spotify.com/track/4RJxCt4br514WPygJCuk0n) | [Mollý](https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw) | [Tilbehør](https://open.spotify.com/album/72Bv4Ew46x4H1iFX6pLp3F) | 2:47 | 2024-05-02 | 2024-05-10 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-07-05 |
 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 | 2024-08-01 | 2024-08-09 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [Timmy Turner](https://open.spotify.com/track/5haFrJVHpHqZUhjoVzDnuF) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Timmy Turner](https://open.spotify.com/album/3O2W7PqeD0fd10TvwEb3ax) | 1:49 | 2024-06-13 | 2024-06-21 |
 | [Tinfoil Hat](https://open.spotify.com/track/5bJExF3ZhsxOVD2xBUaQyR) | [Tobias Arbo](https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15) | [Tinfoil Hat](https://open.spotify.com/album/2i3tcEfbcr4P00nhmFytL3) | 3:18 | 2024-07-25 | 2024-08-02 |
 | [TING](https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [TING](https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p) | 3:26 | 2024-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,750 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,827 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Bring It Back](https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Bring It Back](https://open.spotify.com/album/3MuKzBvMDz5sFALpKA22CE) | 3:13 |
 | 40 | [Paradise](https://open.spotify.com/track/1azGAlMz4aaKg3CbiLSxjL) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Paradise](https://open.spotify.com/album/6obOtGQ9VkQEg8q73peY7d) | 2:27 |
 
-Snapshot ID: `ZunQ+gAAAAAyFUgZDBFT7rSUJN1kdxp4`
+Snapshot ID: `ZunQ+gAAAADDC3pto/eTfZbAdNZ8qvnA`

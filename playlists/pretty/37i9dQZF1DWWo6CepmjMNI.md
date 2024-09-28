@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Famoso
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: pOd
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,462 likes - 55 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,465 likes - 55 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
-| 2 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 |
-| 3 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
-| 4 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 5 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 |
+| 1 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
+| 2 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
+| 3 | [ในวันและเวลาที่ฉัน \(My World\)](https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ในวันและเวลาที่ฉัน](https://open.spotify.com/album/0gRpXkp9LssvvjdC7hq8H0) | 4:33 |
+| 4 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
+| 5 | [เธอมองนาฬิกา](https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [เธอมองนาฬิกา](https://open.spotify.com/album/1YqHbNnhb02QHuv6T0Nr8W) | 3:43 |
 | 6 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
-| 7 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [C h A 0 '' d i N g "](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 |
-| 8 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 |
-| 9 | [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 |
-| 10 | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM) | 3:41 |
-| 11 | [ทางหนีไป](https://open.spotify.com/track/5tB7mKJL5Jvgny7c8NNa2u) | [Rosette](https://open.spotify.com/artist/6SEpVjvHFU9KqfS9p0Cvnc) | [ทางหนีไป](https://open.spotify.com/album/332m7zrV4LtO0nv4XXlNsS) | 5:26 |
-| 12 | [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 |
+| 7 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 |
+| 8 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 |
+| 9 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [C h A 0 '' d i N g "](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 |
+| 10 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 |
+| 11 | [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 |
+| 12 | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM) | 3:41 |
 | 13 | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ), [Tuey Mary James](https://open.spotify.com/artist/7jgKL0O8B5dWb4sVDHINnb) | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/album/7Ecml94MuK1wscTGhB0vbT) | 4:26 |
 | 14 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 |
 | 15 | [ในฝัน \(Krueger\)](https://open.spotify.com/track/5Kt6NUklWl2rzexBr07KBC) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [ในฝัน \(Krueger\)](https://open.spotify.com/album/65S7j4KnZY8nQSDqUIhJo6) | 4:02 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 |
 | 55 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 |
 
-Snapshot ID: `Zu1M1AAAAADUPV+gPcIJ2oYs1YSazgBs`
+Snapshot ID: `ZvZt/QAAAACcnsqNiRjsRQ5RtmFmN3PL`

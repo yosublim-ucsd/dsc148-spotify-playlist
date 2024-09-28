@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,204 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,205 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 59 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 |
 | 60 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
 
-Snapshot ID: `ZpcmMgAAAABYoVG/I9oD830h/afD8gSX`
+Snapshot ID: `ZpcmMgAAAAAEw/bZY7T8V9woNI6DBuIj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,944 likes - 75 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,006 likes - 75 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 2 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 |
 | 3 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 4 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 |
-| 5 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 |
+| 5 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 |
 | 6 | [Separação / Meu Amor / Súbita Paixão \- Ao Vivo](https://open.spotify.com/track/1jJ4EDNRJtUf5nZn1KM4MD) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ) | [Na Pagodeira, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4p9tR7nV4IFwayMrw5ZStz) | 6:59 |
 | 7 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 |
 | 8 | [Vendaval \| Diz Pra Mim \| Cuidado, Cupido \| Homem\-Aranha \| Paciência \- Ao Vivo](https://open.spotify.com/track/3y7KBZag9XjlUWlzcrXOa8) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Pagodyando de Verão \- Ao Vivo](https://open.spotify.com/album/1RKj94vsJ1KDkMVRaHjWvh) | 9:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Teu Segredo / Duvido / Pra Não Dar Bandeira](https://open.spotify.com/track/6FxwOCgaBBUrL7pKi4nHEt) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R) | [Teu Segredo / Duvido / Pra Não Dar Bandeira](https://open.spotify.com/album/0RijaS9tnT22QnO0xcYpkM) | 4:58 |
 | 75 | [Sinto Sua Falta / Insegurança / Eu Nunca Amei Assim](https://open.spotify.com/track/2YCx4I27GMSixz9IEwGqGP) | [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sinto Sua Falta / Insegurança / Eu Nunca Amei Assim](https://open.spotify.com/album/5zvgnjWB1IHjW7ueREQ2a1) | 5:57 |
 
-Snapshot ID: `ZvYf7AAAAACmQI/y2PbDqxiukkW5m13Z`
+Snapshot ID: `ZvYf7AAAAAB4RUHThgqZn9L7n0EzuQE9`

@@ -16381,6 +16381,28 @@
     },
     {
       "album": {
+        "name": "\u0644\u0639\u0628\u0627\u0644\u064a \u0641\u064a \u062f\u0645\u0627\u063a\u064a",
+        "url": "https://open.spotify.com/album/4JMTHTkcUGTNpyRnmuV9ix"
+      },
+      "artists": [
+        {
+          "name": "yousef mohamed",
+          "url": "https://open.spotify.com/artist/4KGzrDuN7l1lrMNuio2fUe"
+        },
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142454,
+      "name": "\u0644\u0639\u0628\u0627\u0644\u064a \u0641\u064a \u062f\u0645\u0627\u063a\u064a",
+      "url": "https://open.spotify.com/track/3FVNcgfwm6kKK90GnPLbcs"
+    },
+    {
+      "album": {
         "name": "\u0644\u063a\u0628\u0637\u064a\u0637\u0627",
         "url": "https://open.spotify.com/album/2SrRqE53cNal5gW2FWD5Dz"
       },
@@ -17290,7 +17312,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 253894,
       "name": "\u0648 \u0627\u0641\u062a\u0643\u0631\u062a",
       "url": "https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o"

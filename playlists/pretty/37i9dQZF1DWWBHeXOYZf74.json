@@ -1,13 +1,49 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Jamie xx",
-  "num_followers": 1326785,
+  "description": "Genre-less. Quality first always. Cover: ROSAL\u00cdA & Ralphie Choo",
+  "num_followers": 1326793,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAACxSI8Dz2Kf2E7sKUR84KK7",
+  "snapshot_id": "ZvdGBwAAAADGWeWQEMv0U0Fd4Ak4+rub",
   "tracks": [
+    {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "If I Could Only Love You Again",
+        "url": "https://open.spotify.com/album/2VYzA2rVyWgzJNy6g56OIZ"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "If I Could Only Love You Again",
+      "url": "https://open.spotify.com/track/2ia06pgK7yUu09EtbOJ3lR"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -39,22 +75,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "If I Could Only Love You Again",
-        "url": "https://open.spotify.com/album/2VYzA2rVyWgzJNy6g56OIZ"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "If I Could Only Love You Again",
-      "url": "https://open.spotify.com/track/2ia06pgK7yUu09EtbOJ3lR"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "GEMS IN THE CORNERSTORE II",
         "url": "https://open.spotify.com/album/2KhWIDrrHqMEdXZsSj8vNk"
       },
@@ -79,6 +99,22 @@
       "duration_ms": 160490,
       "name": "MASHUP",
       "url": "https://open.spotify.com/track/70KlBBhGkQtuVICtZwt9zL"
+    },
+    {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "SPANK!",
+        "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
+      },
+      "artists": [
+        {
+          "name": "HiTech",
+          "url": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "SPANK!",
+      "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -113,6 +149,38 @@
       "url": "https://open.spotify.com/track/0U7UCdU3siyMoLuBgnU7qk"
     },
     {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
+    },
+    {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Pointy Heights",
@@ -143,6 +211,22 @@
       "duration_ms": 205638,
       "name": "Still Summer",
       "url": "https://open.spotify.com/track/27D9YN3uHPD3PTXvzNtbto"
+    },
+    {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "Rosy",
+        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 196944,
+      "name": "Rosy",
+      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -195,6 +279,22 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "added_at": "2024-09-27 23:55:36",
+      "album": {
+        "name": "Different Color Stones",
+        "url": "https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Different Color Stones",
+      "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"
     },
     {
       "added_at": "2024-09-20 04:00:00",

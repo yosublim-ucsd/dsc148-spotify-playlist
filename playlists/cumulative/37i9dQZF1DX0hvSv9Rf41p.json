@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ALLEYCVT",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Levity",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3859,6 +3859,28 @@
     },
     {
       "album": {
+        "name": "Crazy In The Club",
+        "url": "https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "DIMEPIECE",
+          "url": "https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149370,
+      "name": "Crazy In The Club",
+      "url": "https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr"
+    },
+    {
+      "album": {
         "name": "Creep Killa (Creeds Remix)",
         "url": "https://open.spotify.com/album/7gwZugjbDfh5B8A3Z3Fg00"
       },
@@ -4010,7 +4032,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222219,
       "name": "CUT ME OUT",
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
@@ -4566,7 +4588,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 247814,
       "name": "DESPAIR",
       "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
@@ -5122,7 +5144,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 175862,
       "name": "Don't Think I'm Ready",
       "url": "https://open.spotify.com/track/5IeRcDmJFhP0FHNPLGz8CG"
@@ -6841,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "feel U luv Me",
+        "url": "https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234158,
+      "name": "feel U luv Me",
+      "url": "https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5"
+    },
+    {
+      "album": {
         "name": "Feel Ur Touch",
         "url": "https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs"
       },
@@ -7244,7 +7284,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181655,
       "name": "Floot Loops",
       "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
@@ -7730,6 +7770,28 @@
       "duration_ms": 275156,
       "name": "GALACTICAL",
       "url": "https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ"
+    },
+    {
+      "album": {
+        "name": "Ganja Tape",
+        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254488,
+      "name": "Ganja Tape",
+      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "album": {
@@ -9779,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+    },
+    {
+      "album": {
         "name": "The Prophecy: Volume 9",
         "url": "https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42"
       },
@@ -10993,6 +11073,36 @@
     },
     {
       "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "Light In The Dark",
+      "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
+    },
+    {
+      "album": {
         "name": "Light of Mine",
         "url": "https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc"
       },
@@ -11284,7 +11394,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 273103,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3GUWJzkXw4nCkRvKXT1XkV"
@@ -12725,6 +12835,28 @@
     },
     {
       "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
+    },
+    {
+      "album": {
         "name": "huemor me",
         "url": "https://open.spotify.com/album/5OyhjTliq9NpOeGoeQMsaY"
       },
@@ -13008,6 +13140,28 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "NIGHTHAWK",
+      "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
     },
     {
       "album": {
@@ -13668,7 +13822,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 209556,
       "name": "On Forever",
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
@@ -14666,6 +14820,32 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "album": {
+        "name": "Power (feat. Grabbitz)",
+        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Power (feat. Grabbitz)",
+      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
     },
     {
       "album": {
@@ -15670,7 +15850,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 137622,
       "name": "RIPPLE",
       "url": "https://open.spotify.com/track/36BXjNnD0Vm6CYHf69K7zB"
@@ -16904,7 +17084,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160000,
       "name": "SHOWOFF",
       "url": "https://open.spotify.com/track/60vjmRkxPb4bu3Iv3yPgqb"
@@ -17344,6 +17524,32 @@
       "duration_ms": 250276,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+    },
+    {
+      "album": {
+        "name": "SKYLINE**",
+        "url": "https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "SKYLINE**",
+      "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
     },
     {
       "album": {
@@ -20244,7 +20450,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 281142,
       "name": "Von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"

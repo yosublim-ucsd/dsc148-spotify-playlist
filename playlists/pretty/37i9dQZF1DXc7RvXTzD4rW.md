@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: mona \(CV.夏川椎菜\) feat\. HoneyWorks
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,706 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,710 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [祝福 \- from CrosSing](https://open.spotify.com/track/7aaWlP48c7mks1iBWLKNej) | [Lynn](https://open.spotify.com/artist/7iahiuhBf7qJMnuR7ajESL) | [祝福 \- from CrosSing](https://open.spotify.com/album/2wlMhXc339aX7ofD0Ew97C) | 3:15 |
 | 50 | [READY STEADY GO \- from CrosSing](https://open.spotify.com/track/6Rd9yR409kY5ZwIeuwLC9X) | [Tatsuo Suzuki](https://open.spotify.com/artist/3mn49TFcMZ2NBV1RHsVNWQ) | [READY STEADY GO \- from CrosSing](https://open.spotify.com/album/73H6DFAN8MLI4ABiHRviOy) | 3:50 |
 
-Snapshot ID: `ZtUr6QAAAACsX2pH8JqGYmt+qMpQtt9S`
+Snapshot ID: `ZtUr6QAAAAAuMzU12DIU3CxFfnyypSi4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Manal en tête de la plus grande playlist au Maroc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,436 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,519 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [يا قلبي بركاك](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Moosive](https://open.spotify.com/artist/5E0P0Ibx5FnhyayYquKAup) | [يا قلبي بركاك](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 |
 | 50 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
 
-Snapshot ID: `Zu7gawAAAACNY94jDkV1j4+pu+tbaQL3`
+Snapshot ID: `Zu7gawAAAABWMIEv441nrKcm250dar+h`

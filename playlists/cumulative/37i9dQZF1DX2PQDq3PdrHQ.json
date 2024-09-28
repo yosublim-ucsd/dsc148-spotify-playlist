@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "As The Seasons Change",
+        "url": "https://open.spotify.com/album/6G0KFWW2zkzjvDOQuBSJMx"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144988,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/2RdMDlEQQLUna9XenWZsJN"
+    },
+    {
+      "album": {
         "name": "All About Mine",
         "url": "https://open.spotify.com/album/48Um81dxEkUzv2LPRLizNu"
       },
@@ -824,6 +842,28 @@
       "duration_ms": 109714,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3HJ6JN74qPgFyC396Qhxou"
+    },
+    {
+      "album": {
+        "name": "at peace",
+        "url": "https://open.spotify.com/album/5YkBnCIbQ2mPi7Vu5onFIv"
+      },
+      "artists": [
+        {
+          "name": "96 Zeus",
+          "url": "https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "at peace",
+      "url": "https://open.spotify.com/track/7M0GevQEZvEyWl35mzTB3r"
     },
     {
       "album": {
@@ -2137,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Coziness",
+        "url": "https://open.spotify.com/album/229NTUBVzCeTZkpeCf96vT"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Pierson Booth",
+          "url": "https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Coziness",
+      "url": "https://open.spotify.com/track/3ImDPdVam36fsjK1knH8sb"
+    },
+    {
+      "album": {
         "name": "Cozy Cabin",
         "url": "https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9"
       },
@@ -2568,7 +2630,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 88620,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3qJcs60nnXV49Bl3MwX3OH"
@@ -3042,7 +3104,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 117966,
       "name": "dozing off",
       "url": "https://open.spotify.com/track/1lyHccWPAZWPaT6QVSGVag"
@@ -3674,7 +3736,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 120500,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/6UcIRu1u50FezpREs0yesS"
@@ -4942,7 +5004,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 148965,
       "name": "Hammock break for two",
       "url": "https://open.spotify.com/track/4jCtYkTboDflF9Hh3DjMq4"
@@ -7417,6 +7479,24 @@
     },
     {
       "album": {
+        "name": "lullaby",
+        "url": "https://open.spotify.com/album/6pTuoO4bx3eY27Ag3aerJc"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q"
+    },
+    {
+      "album": {
         "name": "lulling",
         "url": "https://open.spotify.com/album/2xevJC3xQ7cn8H1MLD9QGV"
       },
@@ -7432,6 +7512,28 @@
       "duration_ms": 125714,
       "name": "lulling",
       "url": "https://open.spotify.com/track/3yY1F3ztumz6eZTVc7kuiz"
+    },
+    {
+      "album": {
+        "name": "luminescence",
+        "url": "https://open.spotify.com/album/6QoHfpdvlgwU1H2dLkpgPG"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "luminescence",
+      "url": "https://open.spotify.com/track/4C5PiNdh6l3qJZyXGZnzAr"
     },
     {
       "album": {
@@ -8364,7 +8466,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 209594,
       "name": "Morning Meditation",
       "url": "https://open.spotify.com/track/10v1ZDsA5iv7Ou1sakg9ta"
@@ -8466,7 +8568,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 92500,
       "name": "my girl",
       "url": "https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW"
@@ -8524,7 +8626,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 135500,
       "name": "my side",
       "url": "https://open.spotify.com/track/6Bn1WmXLKb3eoFxdHuk6qw"
@@ -8684,7 +8786,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 108500,
       "name": "nested",
       "url": "https://open.spotify.com/track/6H66oi7WlhEtUNCL5LzCvr"
@@ -8782,7 +8884,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174000,
       "name": "Night Hour",
       "url": "https://open.spotify.com/track/3wuLf5VkBSE1jqLnY2t5o0"
@@ -10160,6 +10262,24 @@
       "duration_ms": 93592,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/5KxgbOV1pF4d8lO0OwsCCP"
+    },
+    {
+      "album": {
+        "name": "quiet pond",
+        "url": "https://open.spotify.com/album/3KoqrbkByUE0zGFmMBx3GC"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "quiet pond",
+      "url": "https://open.spotify.com/track/6fforsE7dFgw2ahoqqEKCu"
     },
     {
       "album": {
@@ -11830,7 +11950,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 165551,
       "name": "Sometimes I Feel Lonely",
       "url": "https://open.spotify.com/track/0RHtuoOt8dc1p4raXn1BMX"
@@ -11928,6 +12048,28 @@
       "duration_ms": 188421,
       "name": "Soulmates",
       "url": "https://open.spotify.com/track/0a9L4nYYl9vuMaLQBo7BHQ"
+    },
+    {
+      "album": {
+        "name": "space mission",
+        "url": "https://open.spotify.com/album/1DdzVtFvenFO114Za7cHKA"
+      },
+      "artists": [
+        {
+          "name": "fofi",
+          "url": "https://open.spotify.com/artist/3RwGgeSBNBgs4pkiCM8Fqw"
+        },
+        {
+          "name": "Tyler.l",
+          "url": "https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143923,
+      "name": "space mission",
+      "url": "https://open.spotify.com/track/4xocKxe84rTS64xo1E17CY"
     },
     {
       "album": {
@@ -12828,7 +12970,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 150955,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"

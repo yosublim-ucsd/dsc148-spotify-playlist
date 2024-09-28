@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover: Emiway Bantai & Maninder Buttar
 
-427 songs - 21 hr 57 min
+428 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [God Bless You](https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [God Bless You](https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2) | 2:36 | 2024-07-29 | 2024-09-06 |
 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-03-31 | 2023-07-21 |
 | [Good Boy](https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Good Boy](https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK) | 2:41 | 2023-11-14 | 2024-06-08 |
-| [GT Durango](https://open.spotify.com/track/34BoTyzEDehR8HcNaYkiEA) | [HARRY PB65](https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE), [NZLDR](https://open.spotify.com/artist/5d9c84QTpcT6vYy5PRbFq4) | [GT Durango](https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ) | 2:47 | 2024-08-23 |  |
+| [GT Durango](https://open.spotify.com/track/34BoTyzEDehR8HcNaYkiEA) | [HARRY PB65](https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE), [NZLDR](https://open.spotify.com/artist/5d9c84QTpcT6vYy5PRbFq4) | [GT Durango](https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ) | 2:47 | 2024-08-23 | 2024-09-28 |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-29 | 2024-06-08 |
 | [Gucci](https://open.spotify.com/track/2HO5BnQD8wwPBGsd3qoRhz) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [xyshindo](https://open.spotify.com/artist/2hwSwt9WFfUjtwT87x9cXa) | [Gucci](https://open.spotify.com/album/6b85ebNc1I2Egw1qPIE0j2) | 3:22 | 2024-07-12 | 2024-08-27 |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-29 | 2023-04-17 |
@@ -191,6 +191,7 @@
 | [Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:46 | 2023-08-29 | 2024-07-13 |
 | [HOMIE LOG](https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [FlamboyBeatz](https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca) | [HOMIE LOG](https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk) | 3:20 | 2024-08-16 | 2024-09-18 |
 | [Hona Hi Tha](https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [dilliboy](https://open.spotify.com/artist/37KYCGXSG8pWVFC0fQbWoh) | [MEEN](https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu) | 4:22 | 2023-05-12 | 2024-06-18 |
+| [Hood Life](https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Hood Life](https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU) | 3:17 | 2024-09-27 |  |
 | [Hood Poetry](https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 3:15 | 2024-09-19 |  |
 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 | 2024-05-24 | 2024-07-13 |
 | [HOUSEPHULL!](https://open.spotify.com/track/3QZVea80dqvsQEtmewjP2J) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [HOUSEPHULL](https://open.spotify.com/album/4XlrrW7oSZJDjjiOGwpV2E) | 2:26 | 2024-06-03 | 2024-06-15 |

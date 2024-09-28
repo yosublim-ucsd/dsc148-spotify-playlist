@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover:  Gurriers
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,339 likes - 72 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,342 likes - 72 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 71 | [RAINBOWS](https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [RAINBOWS](https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj) | 3:44 |
 | 72 | [Tangerine](https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Where You'll Find Me](https://open.spotify.com/album/5uriQhRrYZbapUWJhsI0yg) | 4:39 |
 
-Snapshot ID: `ZuNycAAAAABcMjitV56dfB3ndak9yO1h`
+Snapshot ID: `ZuNycAAAAACykgHIDWi+tsu7/CxoPXb6`

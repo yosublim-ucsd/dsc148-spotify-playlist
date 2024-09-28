@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:60CbU4u8dlhoHzRCNhTA1S">Asha Elia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,892 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,985 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [5am in Miami](https://open.spotify.com/track/7vg439NsajOjDxvAJH7uGo) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Made](https://open.spotify.com/artist/3rpMFsPJ2Kz9diHGS0amYd) | [5am in Miami](https://open.spotify.com/album/2d45CmtgArAumE24Cjw4iw) | 2:08 |
 | 80 | [NITE\-N\-DAY](https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [NITE\-N\-DAY \- EP](https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC) | 2:29 |
 
-Snapshot ID: `ZrpBiQAAAAApzs0Kc6ARxGoL1frDdoaU`
+Snapshot ID: `ZrpBiQAAAACiYvpyxe8fioaoshGHFXeQ`

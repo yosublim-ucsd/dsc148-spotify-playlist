@@ -1,12 +1,12 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 148541,
+  "num_followers": 148535,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu2f4wAAAACVNjLkuD/fDX+RqAOZy9CM",
+  "snapshot_id": "Zu2f4wAAAAASCsxIYU5vet10YV25/j1o",
   "tracks": [
     {
       "added_at": "2024-09-20 16:16:35",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-20 16:16:35",
       "album": {
-        "name": "That's Christmas To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
-    },
-    {
-      "added_at": "2024-09-20 16:16:35",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "added_at": "2024-09-20 16:16:35",
+      "album": {
+        "name": "That's Christmas To Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
     },
     {
       "added_at": "2024-09-20 16:16:35",
@@ -1491,26 +1491,18 @@
     {
       "added_at": "2024-09-20 16:16:35",
       "album": {
-        "name": "A Different Christmas",
-        "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
+        "name": "Glow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 230577,
-      "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
-      "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
+      "duration_ms": 142840,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN"
     },
     {
       "added_at": "2024-09-20 16:16:35",
@@ -1531,18 +1523,26 @@
     {
       "added_at": "2024-09-20 16:16:35",
       "album": {
-        "name": "Glow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd"
+        "name": "A Different Christmas",
+        "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
         }
       ],
-      "duration_ms": 142840,
-      "name": "A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN"
+      "duration_ms": 230577,
+      "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
+      "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
     },
     {
       "added_at": "2024-09-20 16:16:35",

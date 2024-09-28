@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Alma Venus",
+        "url": "https://open.spotify.com/album/5ncJKZNuhW3nZGxIO82pYs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234914,
+      "name": "Alma Venus",
+      "url": "https://open.spotify.com/track/1qZySo9VsbwOOwz02MVMsb"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/5BzEDGuOG1SzGtBoVjyzJH"
       },
@@ -1873,6 +1895,44 @@
     },
     {
       "album": {
+        "name": "Bulgaria",
+        "url": "https://open.spotify.com/album/75CM38oTrrHy8RFzpQeiSc"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Clara B\u00fcsel",
+          "url": "https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O"
+        },
+        {
+          "name": "Leandro Hauxwell",
+          "url": "https://open.spotify.com/artist/05wR32yzOF9iIsXlmtiMRu"
+        },
+        {
+          "name": "Alona Khlevna",
+          "url": "https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s"
+        },
+        {
+          "name": "Gereon Theis",
+          "url": "https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv"
+        },
+        {
+          "name": "Vladislav Cojocaru",
+          "url": "https://open.spotify.com/artist/6cMbi1smxNWFnchraYE6gF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241086,
+      "name": "Bulgaria",
+      "url": "https://open.spotify.com/track/782rqTD0wtue0vqytqoQxk"
+    },
+    {
+      "album": {
         "name": "Cin\u00e9ma",
         "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
       },
@@ -2224,6 +2284,24 @@
       "duration_ms": 150791,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/0OQ2IDjcTCnOrVzrl55hIv"
+    },
+    {
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218325,
+      "name": "Chasing Yesterdays",
+      "url": "https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG"
     },
     {
       "album": {

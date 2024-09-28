@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Lady Gaga, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,523 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,518 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 50 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [ICON](https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ) | 2:47 |
 
-Snapshot ID: `ZvO3wQAAAACO15nP607FXZNRtdiJtBN+`
+Snapshot ID: `ZvO3wQAAAADu2fZvhf33KZMh7zxDwqT7`

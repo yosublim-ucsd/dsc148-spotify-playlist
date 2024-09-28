@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: THUS LOVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,461 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,505 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |
 | 125 | [\(Dis\)Connected](https://open.spotify.com/track/5EBbZEcTY3CgpxdpN8eO3F) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [\(Dis\)Connected](https://open.spotify.com/album/1ua6xwxUxdGGcqQBajpv1h) | 2:48 |
 
-Snapshot ID: `ZvOadwAAAAA/lkjgo3LpAAp02mY0K/Ji`
+Snapshot ID: `ZvOadwAAAADabrcsWmCWTfQra/aZfVip`

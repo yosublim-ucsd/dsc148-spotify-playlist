@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > ?! ft\. Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,849 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,882 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 59 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 |
 | 60 | [Gravity](https://open.spotify.com/track/730VcX0fDB9NDeuXB0PbtL) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/3SScH6k1ngWnC1B4Qanjm2) | 2:38 |
 
-Snapshot ID: `ZuiDsAAAAABNvYV5AqUEWJXucPnFY7T7`
+Snapshot ID: `ZuiDsAAAAABIsDXX6QTyzjXfkDPIVqa0`

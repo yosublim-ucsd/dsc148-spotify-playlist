@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-95 songs - 4 hr 47 min
+96 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 | 2024-03-08 |  |
 | [Patience](https://open.spotify.com/track/4dNzOobux32dS9pHkJMZgV) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Patience](https://open.spotify.com/album/4UMBCdetMsuG56lwioYP2R) | 1:42 | 2024-03-29 | 2024-06-21 |
 | [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 |  |
-| [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-09 |  |
+| [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-09 | 2024-09-28 |
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-02-09 |  |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2024-02-09 | 2024-04-26 |
 | [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 | 2024-02-23 | 2024-08-02 |
@@ -84,6 +84,7 @@
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 |  |
 | [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 | 2024-07-19 | 2024-09-13 |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2024-02-09 |  |
+| [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 | 2024-09-27 |  |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-12 | 2024-08-02 |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2024-02-09 | 2024-06-07 |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2024-02-09 |  |

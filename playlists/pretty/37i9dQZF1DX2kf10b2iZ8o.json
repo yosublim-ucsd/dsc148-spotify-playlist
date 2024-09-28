@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23369,
+  "num_followers": 23373,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZedXbwAAAAA6VByJ4FhXzL1fo7PpFDzx",
+  "snapshot_id": "ZedXbwAAAACc0CFoB/KvHv2zMNy3YMQ1",
   "tracks": [
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
+        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
+        }
+      ],
+      "duration_ms": 269253,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/0hEybez77yb70HAuNW0Sqi"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
         "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
       },
@@ -1279,30 +1295,6 @@
       "duration_ms": 289280,
       "name": "Sanctuary World",
       "url": "https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
-        },
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        },
-        {
-          "name": "THE \u864e\u7259\u9053",
-          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
-        }
-      ],
-      "duration_ms": 296440,
-      "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
-      "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",

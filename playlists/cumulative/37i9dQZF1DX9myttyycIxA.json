@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Lutalo",
+  "description": "Underground indie rock gems. Cover: Christian Lee Hutson",
   "name": "undercurrents",
   "tracks": [
     {
@@ -918,6 +918,32 @@
       "duration_ms": 148392,
       "name": "And Then Some",
       "url": "https://open.spotify.com/track/4yaYAiUOKMJejDQW7N9VpX"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/14JBamalIC4mq2Yy2oTlLT"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        },
+        {
+          "name": "$quib",
+          "url": "https://open.spotify.com/artist/2bvw5ZYK1LmNAikReUhJOc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124394,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/27sdas88SxiFN0UkYtTgR5"
     },
     {
       "album": {
@@ -3633,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276946,
+      "name": "Carousel Horses",
+      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
+    },
+    {
+      "album": {
         "name": "Read the Room",
         "url": "https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw"
       },
@@ -4217,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249761,
+      "name": "Circle Games",
+      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
+    },
+    {
+      "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/76GON9LRMBf8TbNBMjVy0z"
       },
@@ -4430,6 +4492,24 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "album": {
+        "name": "Colonel",
+        "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161389,
+      "name": "Colonel",
+      "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
     },
     {
       "album": {
@@ -5150,7 +5230,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 209695,
       "name": "Crow",
       "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
@@ -6206,6 +6286,24 @@
       "duration_ms": 164591,
       "name": "Dolonia",
       "url": "https://open.spotify.com/track/5oRlBYinsa2xdBJIFOtkTe"
+    },
+    {
+      "album": {
+        "name": "Don't Fall Back So Easily",
+        "url": "https://open.spotify.com/album/7MJV57idD9vzzzwiiU98eU"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190609,
+      "name": "Don't Fall Back So Easily",
+      "url": "https://open.spotify.com/track/0ThdoKmComU8pjuODaOxhH"
     },
     {
       "album": {
@@ -8199,6 +8297,24 @@
     },
     {
       "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252437,
+      "name": "Foolish and Fast",
+      "url": "https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN"
+    },
+    {
+      "album": {
         "name": "In the Store",
         "url": "https://open.spotify.com/album/2S4ZM2zLPEDxtxExcrJuGY"
       },
@@ -8675,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "Get a Life",
+        "url": "https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209922,
+      "name": "Get a Life",
+      "url": "https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG"
+    },
+    {
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/0stRso4qR86U0gBcmTpvae"
       },
@@ -8906,6 +9040,24 @@
       "duration_ms": 353272,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz"
+    },
+    {
+      "album": {
+        "name": "Giving Away An Inch Of",
+        "url": "https://open.spotify.com/album/2K61FiQJBUKQQBSgDbjoLb"
+      },
+      "artists": [
+        {
+          "name": "Silverbacks",
+          "url": "https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "Giving Away An Inch Of",
+      "url": "https://open.spotify.com/track/2Hfrhwr4oWrPAZLGcLd3lI"
     },
     {
       "album": {
@@ -13315,6 +13467,24 @@
     },
     {
       "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219562,
+      "name": "Lie In the Gutter",
+      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
+    },
+    {
+      "album": {
         "name": "Light Runner",
         "url": "https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c"
       },
@@ -14140,6 +14310,24 @@
       "duration_ms": 289761,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d"
+    },
+    {
+      "album": {
+        "name": "Feats of Engineering",
+        "url": "https://open.spotify.com/album/4diLNWTOBZPkqQsRYLgMxj"
+      },
+      "artists": [
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100800,
+      "name": "Mega",
+      "url": "https://open.spotify.com/track/5aFU5EnCiNyBhvZVdS1HLE"
     },
     {
       "album": {
@@ -17852,6 +18040,24 @@
       "duration_ms": 183960,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5xF5jZmbGJo9d4laWMwpox"
+      },
+      "artists": [
+        {
+          "name": "skirts",
+          "url": "https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3KHoIo3Kq71se6ZrGmOAnY"
     },
     {
       "album": {

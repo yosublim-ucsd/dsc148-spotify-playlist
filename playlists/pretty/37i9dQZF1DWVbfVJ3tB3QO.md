@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,523 likes - 78 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,544 likes - 78 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 77 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 78 | [Sunshine Inc\. \- Radio Edit](https://open.spotify.com/track/77qzZgkHqHoze2wukHqYxP) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Sunshine Inc.](https://open.spotify.com/album/0jYVg1Tdpd3Q1YCbmthrey) | 3:03 |
 
-Snapshot ID: `ZrTi+gAAAACEb80xCICKdG+k+NsNUTVU`
+Snapshot ID: `ZrTi+gAAAADNDtc6+ZzhlyWZ05FZDooB`

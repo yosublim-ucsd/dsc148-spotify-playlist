@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-281 songs - 15 hr 54 min
+282 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Ella Lo Sabe](https://open.spotify.com/track/67QJixbJX8M7Z4iVz7TJpR) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Ella Lo Sabe](https://open.spotify.com/album/7d2FJNpM4qaEg5fS5d9ulx) | 4:06 | 2024-01-19 |  |
 | [En una Nube](https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN) | [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [En una Nube](https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF) | 3:46 | 2024-08-02 |  |
 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2022-05-25 |  |
+| [Entre Mis Manos](https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih) | 3:40 | 2024-09-27 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2022-05-25 |  |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2022-05-25 |  |
 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 | 2022-05-25 |  |

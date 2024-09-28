@@ -1,12 +1,12 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: FINNEAS. ",
-  "num_followers": 165470,
+  "num_followers": 165485,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZbqhWAAAAAALM2wlM1BwX33pEzvnOIJP",
+  "snapshot_id": "ZbqhWAAAAAD1evGhynltvx/njq0cuHu8",
   "tracks": [
     {
       "added_at": "2023-11-07 19:09:25",
@@ -1384,22 +1384,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "Normal - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
       },
       "artists": [
@@ -1415,6 +1399,22 @@
       "duration_ms": 178466,
       "name": "I've Got The World On A String - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "Normal - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
     },
     {
       "added_at": "2023-01-11 22:26:00",

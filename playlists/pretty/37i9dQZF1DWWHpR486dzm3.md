@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Alma Alanko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,816 likes - 79 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,822 likes - 79 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 78 | [Black Dress](https://open.spotify.com/track/5ybqtX6Qx0Yihjdlc5nKn9) | [Eerie Deer](https://open.spotify.com/artist/2vOXTU0r9JcOpVXTowo9SM) | [Finally It's Tomorrow](https://open.spotify.com/album/6gFwayg9kOGgCRHJ9sJBGR) | 4:13 |
 | 79 | [Hoodoo\-mama](https://open.spotify.com/track/20bZr8LnlhUsZDvz5i4jEB) | [AK\-77](https://open.spotify.com/artist/6MvyUZ15BwWLM4xxJaqEgR) | [Amerihaka](https://open.spotify.com/album/5YJ87o01HUjPpvwkb3fct2) | 3:40 |
 
-Snapshot ID: `ZvXLjAAAAACoets5IDq/2gDeh2iJJpll`
+Snapshot ID: `ZvXLjAAAAACuZOCF2LzvnbXZOwpIOBXx`

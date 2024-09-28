@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con el Chencho Corleone.",
+  "description": "Perreando toda la noche con el Tony Dize.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -8273,6 +8273,28 @@
     },
     {
       "album": {
+        "name": "JEVA NUEVA (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/5QTKZarhjRORd0XV2R0QVk"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212393,
+      "name": "JEVA NUEVA (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/5yby0tCsSukRyFn7MMCenJ"
+    },
+    {
+      "album": {
         "name": "Jimmy Choo",
         "url": "https://open.spotify.com/album/2yOv15GKO10O4FqqtX32fB"
       },
@@ -10092,7 +10114,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205783,
       "name": "LUCES LED",
       "url": "https://open.spotify.com/track/4NLUPdPaw05ezEfnzB18tX"
@@ -12272,7 +12294,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190239,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/5R8UcwccsUN90aEYDFTNnW"
@@ -15645,6 +15667,24 @@
     },
     {
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/2pOw80D9yX5nKBrGTuJhQg"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/4iWuRqKMXizGoUmLJeG4i7"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
         "url": "https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw"
       },
@@ -16987,6 +17027,32 @@
     },
     {
       "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Si La Mami - Remix",
+      "url": "https://open.spotify.com/track/41M6xEzX7Rs46rNlzZPLEv"
+    },
+    {
+      "album": {
         "name": "Si Me Toca",
         "url": "https://open.spotify.com/album/3MArTs3zf0ZIi2ADWLp91P"
       },
@@ -17424,7 +17490,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 200000,
       "name": "Sisas Nada (feat. Hades66)",
       "url": "https://open.spotify.com/track/5nhCWPCsVXj0uyfSgeTEpk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Indie Italia presenta: il meglio dell'indie italiano nel 2023! Cover: Calcutta
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,148 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,144 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 | 49 | [Femmina](https://open.spotify.com/track/59RAUAmY8ypuTRCeCx5BDp) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [Femmina](https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6) | 2:44 |
 | 50 | [toglimi \(strati d'odio\)](https://open.spotify.com/track/0085SpSZHQMWrpGwor80Al) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [toglimi \(strati d'odio\)](https://open.spotify.com/album/1pCccBTz76jl4DrCWLIjeo) | 2:52 |
 
-Snapshot ID: `ZWcrgAAAAADpnCaOxjDqjrX4K3X4Jt+p`
+Snapshot ID: `ZWcrgAAAAAAVvBVOoUuJHWyHuNUkHk7z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月25日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,626 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,670 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 3 | [The White Lounge \- Live](https://open.spotify.com/track/4EXcrHRRhbyrdXfLoxywpm) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [The White Lounge in CINEMA \(Original Soundtrack\)](https://open.spotify.com/album/32kStBJwHA8nvQ0SmzeNXG) | 3:04 |
 | 4 | [I want tomorrow to come](https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come](https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ) | 4:13 |
 | 5 | [愛とU](https://open.spotify.com/track/6ZuVKevLRPlRAtywcr4Xp0) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 3:23 |
-| 6 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
+| 6 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
 | 7 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
 | 8 | [糸電話](https://open.spotify.com/track/6BPJod6d4ymhRcziURKoaM) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [糸電話](https://open.spotify.com/album/7BJiq1ZVbcSpRzfZH6B2qH) | 3:43 |
 | 9 | [ソウルズ](https://open.spotify.com/track/7yJ2irr6aDyXSD8An8s4tq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [ソウルズ](https://open.spotify.com/album/41ob2WhOjMIZHpq1SoDeHd) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [CHE.R.RY](https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [CAN'T BUY MY LOVE](https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd) | 3:29 |
 | 50 | [Hard work](https://open.spotify.com/track/7GyhVd3FG6DHz6NzvHPTK7) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [愛の産声、哀の鳴き声](https://open.spotify.com/album/2v3t0YRjdNqjO1yXJ0bhuk) | 3:03 |
 
-Snapshot ID: `ZvYEEgAAAAD2p6UEtu3kRZtnF7ehXe93`
+Snapshot ID: `ZvYEEgAAAADmxvHPzr/MVvucShKl3z1e`

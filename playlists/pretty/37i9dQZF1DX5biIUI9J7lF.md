@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > Opted out of strife
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,259 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,286 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 79 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 |
 | 80 | [SUMMER BUNNY](https://open.spotify.com/track/4rVsGP9aHXWyjk1OZNmEfR) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [SUMMER BUNNY](https://open.spotify.com/album/5u2qU4l0XTxrSEYBPbhjwe) | 2:57 |
 
-Snapshot ID: `ZuFGvQAAAADDqVvGKtEoDkItjlK4Ft5n`
+Snapshot ID: `ZuFGvQAAAAAhPd6ubtSAly7JdJSltYqp`

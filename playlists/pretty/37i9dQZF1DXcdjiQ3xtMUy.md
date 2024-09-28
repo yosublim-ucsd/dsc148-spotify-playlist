@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Elena Tsagrinou
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,498 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,501 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [XANA](https://open.spotify.com/track/70WlqksyNuh668wCoKD7zn) | [DJ PaCo](https://open.spotify.com/artist/6YxjAAOm4MVd55JQM8ijbG), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [XANA](https://open.spotify.com/album/6Bcx9bdDTMszmgSPcbeKzT) | 2:45 |
 | 50 | [XRONOS](https://open.spotify.com/track/0pj5UEo8SZSHlKkmKxURWo) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [TRUE LOVE STORY: Part 1](https://open.spotify.com/album/3EKby9F8OQyOKPZihUiFO5) | 3:11 |
 
-Snapshot ID: `ZvXLUAAAAAArrVYybZms2vXj8hx/rdnE`
+Snapshot ID: `ZvXLUAAAAAB3qTnIitI5gwHCC9PhnybH`

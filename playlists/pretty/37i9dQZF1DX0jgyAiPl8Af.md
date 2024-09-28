@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,192,149 likes - 196 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,192,293 likes - 196 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 195 | [Hymne](https://open.spotify.com/track/2QhRwV0zmaKmOYUZlMqKPa) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Hymne](https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W) | 2:53 |
 | 196 | [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 |
 
-Snapshot ID: `ZvPVjgAAAACVXlX/OruASuE2u67mWUpR`
+Snapshot ID: `ZvPVjgAAAAAL4JqEMsxhB8/t8TNsxVc5`

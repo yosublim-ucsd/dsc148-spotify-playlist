@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,789 likes - 112 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,010 likes - 112 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 111 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 112 | [Evening In Paris](https://open.spotify.com/track/3O2CJEVoOfVcwnXIq4PkNm) | [Richard Iacona](https://open.spotify.com/artist/0RJgmlCU4UAn0mIXFdQsSd) | [Local Color](https://open.spotify.com/album/0EIuXb7mEQEdfJpCgfS6x1) | 2:26 |
 
-Snapshot ID: `ZtW04gAAAACrCrrP0lBB9xtEo/VEik+e`
+Snapshot ID: `ZtW04gAAAABNZx3q5IitQWJfd/u6Zfwn`

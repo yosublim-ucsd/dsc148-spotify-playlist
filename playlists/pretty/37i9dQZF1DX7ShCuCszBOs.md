@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Listen to the setlist of the Zero Base One World Tour and relive those emotions! \(제로베이스원 월드투어의 셋리스트를 감상하며 그 때의 감동을 다시 느껴보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,413 likes - 29 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,820 likes - 29 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 | 28 | [Message from GYUVIN & JIWOONG & RICKY](https://open.spotify.com/track/5mE74FC30aZsdrHqqcFPaw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:23 |
 | 29 | [Message from GUNWOOK & YUJIN](https://open.spotify.com/track/3TKwPHx55ocYwJ6LBaMQew) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:18 |
 
-Snapshot ID: `Zu2N8AAAAADdUYxUusbURPkH6AOttvBH`
+Snapshot ID: `Zu2N8AAAAACAiJY6dT3n1EreRuFONToW`

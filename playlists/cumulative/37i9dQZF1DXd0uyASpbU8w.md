@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp?si=TrNdyYAzTLGkkHjXQ\-joEA">Shakes & Les</a>
 
-4,227 songs - 12 day 4 hr 17 min
+4,228 songs - 12 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3648,6 +3648,7 @@
 | [Time Traveller](https://open.spotify.com/track/6nDR6GyqwYJ0w1Fya7tmEM) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [A Great Exchange](https://open.spotify.com/album/6M6c0jstabGdNsfSDML9wI) | 3:42 | 2024-08-29 | 2024-09-06 |
 | [Time Zone](https://open.spotify.com/track/3uLWXmfqvleWZdSSjESzLG) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [Time Zone](https://open.spotify.com/album/2FIDaSPKlaLArbJQ4FBriZ) | 2:14 | 2024-08-15 | 2024-08-24 |
 | [Timeless \(feat\. Pcee, Justin99, Virgo Deep\)](https://open.spotify.com/track/68PmraC29iUUKIOXUCn6Wo) | [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Timeless \(feat\. Pcee, Justin99, Virgo Deep\)](https://open.spotify.com/album/5i2t89ifPlXBvpD5ln6IUJ) | 6:18 | 2023-11-09 | 2023-11-18 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [timing \(feat\. Blxckie\)](https://open.spotify.com/track/4vg4ouYt7n6tU5MGrQn695) | [BELO SALO](https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [timing \(feat\. Blxckie\)](https://open.spotify.com/album/0KW9EhLg0zd1bKYr8cHTlm) | 2:44 | 2023-06-30 | 2023-07-01 |
 | [Tip of the Spear \(Main Title\)](https://open.spotify.com/track/0wIv2LA8kJJt4KqDflnZGu) | [Zethu Mashika](https://open.spotify.com/artist/5He1X4RgcZuQ8J2LtstHvq), [ShabZi Madallion](https://open.spotify.com/artist/2wcGy5rVSwCIbgt9YCl4eZ) | [Classified: Music from the Original Series](https://open.spotify.com/album/0bgRR2yxWDSXtKIdpBbO1W) | 2:37 | 2024-08-23 | 2024-08-30 |
 | [Tirela \- Radio Edit](https://open.spotify.com/track/3XlnpystchmkVcIMIhQiiW) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [OX Sounds](https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy) | [Church Grooves Evolution](https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U) | 3:42 | 2023-07-28 | 2023-08-05 |

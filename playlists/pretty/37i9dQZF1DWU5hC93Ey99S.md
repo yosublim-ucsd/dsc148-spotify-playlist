@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,361 likes - 349 songs - 18 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,542 likes - 349 songs - 18 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 2 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 |
 | 3 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 |
-| 4 | [Sun Is Shining \- Lavern Remix / Radio Edit](https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sun Is Shining \- Lavern Remix](https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC) | 3:08 |
+| 4 | [Sun Is Shining \- Lavern Remix / Radio Edit](https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sun Is Shining \(Lavern Remix\)](https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC) | 3:08 |
 | 5 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
 | 6 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 7 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
@@ -358,4 +358,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 348 | [don’t say](https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [don’t say](https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7) | 3:30 |
 | 349 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 
-Snapshot ID: `ZvXZYAAAAAChJldCX5E5U1yC7ZfFVdvo`
+Snapshot ID: `ZvXZYAAAAAD4ou8YOtbJtL8bSOqEy3+f`

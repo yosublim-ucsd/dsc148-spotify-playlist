@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,604 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,627 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 12 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
 | 13 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
 | 14 | [Palo De Amigos](https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Palo De Amigos](https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF) | 2:56 |
-| 15 | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon) | 5:02 |
-| 16 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
+| 15 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
+| 16 | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon) | 5:02 |
 | 17 | [Mis Defectos](https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:00 |
 | 18 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 |
 | 19 | [Tumbao](https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Round 6](https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 6](https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W) | 3:36 |
 | 51 | [Mi corazón \(feat\. Mc Davo\)](https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq) | [Arsenal de Rimas](https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Cara o cruz, pt\. 1](https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM) | 4:32 |
 
-Snapshot ID: `ZvNSgAAAAACkGKTk6UkiORLV+UdySfYZ`
+Snapshot ID: `ZvSkAAAAAAD/SNC5Enm2KvWjjN67+SQE`

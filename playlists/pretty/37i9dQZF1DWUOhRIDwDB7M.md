@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,567 likes - 249 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,563 likes - 249 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 248 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 |
 | 249 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 |
 
-Snapshot ID: `ZsZR6wAAAAC1sg7IhMPhtaYwWF6bzMOy`
+Snapshot ID: `ZsZR6wAAAADmqHrZNwklhgg99mIJ+mIi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,726 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,785 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Ek Do Teen \(From "Baaghi 2"\)](https://open.spotify.com/track/6WGzckjnXgGvcTmCcETgIb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Parry G](https://open.spotify.com/artist/5LQ1ozi8ndtxAwvy1OuSDK), [Sandeep Shirodkar](https://open.spotify.com/artist/3Ma3jCLuyYvZCELx5WQHCd), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Ek Do Teen \(From "Baaghi 2"\)](https://open.spotify.com/album/1JkTJe8HE4pgwplXhyVL9M) | 4:03 |
 | 50 | [Kisi Se Pyar Ho Jaye](https://open.spotify.com/track/2RIFyeYTPMHesJsWPW2Z8v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 4:10 |
 
-Snapshot ID: `ZuvQTQAAAAAKv2s3KhLhEnOWH/UduWuV`
+Snapshot ID: `ZuvQTQAAAAD/yzXUzIj3gQfEJiBJ8quw`

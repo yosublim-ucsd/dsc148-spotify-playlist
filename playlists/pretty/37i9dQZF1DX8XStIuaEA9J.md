@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA＋Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,997 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,993 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
+| 1 | [Still Young More Rich \- feat\. Watson](https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Still Young More Rich \(feat\. Watson\)](https://open.spotify.com/album/21rKn4bNaoyPmIIhWJKwRS) | 3:20 |
 | 2 | [WHERE DO WE GO](https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO](https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc) | 2:37 |
 | 3 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
 | 4 | [Neverland](https://open.spotify.com/track/5aDUBw8yfIIB694lCS1zJl) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Neverland](https://open.spotify.com/album/5esdjxqilznu13mS3K1Fta) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [一難](https://open.spotify.com/track/5g1NQMBXXtH0LAw63aXECL) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [一難](https://open.spotify.com/album/6ntXhDOJp2qQ4gzf1KDiWW) | 3:35 |
 | 70 | [ジェラシー](https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ジェラシー](https://open.spotify.com/album/0XDavETO2DCvqnciTzdwMj) | 2:46 |
 
-Snapshot ID: `ZvLT8AAAAAAwdjBONj21DGdXKkWWVOUX`
+Snapshot ID: `ZvLT8AAAAADDiNjBvqvJcaQyCfhXCBap`

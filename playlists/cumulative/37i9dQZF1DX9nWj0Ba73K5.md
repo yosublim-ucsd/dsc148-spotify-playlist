@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Nicolle Galyon
 
-259 songs - 15 hr 7 min
+261 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Almost All Good](https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:17 | 2022-01-01 | 2024-08-31 |
 | [Alone With You](https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:24 | 2022-02-28 |  |
 | [American Kids](https://open.spotify.com/track/1YmSqK77t2bWp7FM1nmXZ6) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [The Songwriter Tapes, Vol\. 1](https://open.spotify.com/album/3io41Xcs5LdqCh45VV222L) | 2:56 | 2023-03-03 |  |
+| [American Kids](https://open.spotify.com/track/2rWrZr4snn3WrF8aR7NmxD) | [Rodney Clawson](https://open.spotify.com/artist/7etwQwzmdaax62i3ol2NXC) | [American Kids](https://open.spotify.com/album/5xcsC4NusB03pgWb4n8kTS) | 3:04 | 2024-09-27 |  |
 | [American Made](https://open.spotify.com/track/7tLgFHsGyklwaB0Wc10ERE) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:47 | 2022-01-01 | 2024-08-31 |
 | [Back Where I Come From](https://open.spotify.com/track/4wGVahECwLKG1gH3yjeMq3) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Simple Life](https://open.spotify.com/album/4cpelV3X4CopeKPvN6UNp2) | 3:31 | 2022-01-01 |  |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-05-06 |  |
@@ -224,6 +225,7 @@
 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 | 2022-02-11 |  |
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2022-01-01 |  |
 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 | 2022-01-01 |  |
+| [The Tunnel](https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [The Tunnel](https://open.spotify.com/album/44v9jy2Eu3R3lBXecU6iFo) | 4:52 | 2024-09-27 |  |
 | [The Wind](https://open.spotify.com/track/4NDrKPwZ8SzpFQ4vzFmx3w) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [The Wind](https://open.spotify.com/album/4WGI33Z228TG7kTA6yjlsB) | 3:42 | 2022-05-06 |  |
 | [The Woman I Am](https://open.spotify.com/track/18o4IcbzznZoc29dd7DjXW) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [The Woman I Am](https://open.spotify.com/album/288Wezo5nVXpnn7PU8shXM) | 3:02 | 2023-03-03 |  |
 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 | 2022-01-01 |  |

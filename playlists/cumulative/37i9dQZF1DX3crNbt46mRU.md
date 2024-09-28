@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Shakira
 
-14,182 songs - 29 day 12 hr 43 min
+14,185 songs - 29 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2503,6 +2503,7 @@
 | [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 | 2024-08-29 | 2024-09-06 |
 | [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 | 2022-09-22 | 2022-09-30 |
 | [Come Home](https://open.spotify.com/track/38UtnDE6G7pKCPYYPSInu9) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Come Home](https://open.spotify.com/album/6Y40W88p716y5DYBqLvJaW) | 3:17 | 2022-02-17 | 2022-02-25 |
+| [Come On](https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h) | 2:26 | 2024-09-27 |  |
 | [Come on Over](https://open.spotify.com/track/4wNOn0gwHKT4b0mDNPp3ke) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [HAUZ](https://open.spotify.com/artist/3deknuVSj6038SM4afSQpu) | [Come on Over](https://open.spotify.com/album/4RZJc7Cs3SamtsnNkC3GNV) | 2:31 | 2022-07-21 | 2022-07-29 |
 | [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf) | 3:23 | 2024-05-02 | 2024-05-10 |
 | [Come See Me](https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Come See Me](https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj) | 3:10 | 2023-08-31 | 2023-09-08 |
@@ -4491,6 +4492,7 @@
 | [fremde bleiben](https://open.spotify.com/track/13NEsNfkDiGiTxjVwYjVyc) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [fremde bleiben](https://open.spotify.com/album/6W0QVptzhOCFfluGSwEGb9) | 2:21 | 2024-05-09 | 2024-05-17 |
 | [French Kiss \(feat\. Naomi Lareine & Slimka\)](https://open.spotify.com/track/2cwkIKGpZ8sxGfkY5r1lwy) | [MYKEL COSTA](https://open.spotify.com/artist/5K9u03cGBr44enVvFqGzzK), [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i), [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Resilienz](https://open.spotify.com/album/4qgSQv4JKKOrd5IMqtM1B5) | 2:38 | 2023-05-11 | 2023-05-19 |
 | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/track/4UozTqtYZF22YTnCvloI2a) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/album/5wkRilmh3Wpy4RC0WpjUJO) | 2:51 | 2024-04-25 | 2024-05-03 |
+| [Freunde](https://open.spotify.com/track/24i5jHM9vCVeMl9wHbzda7) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Freunde](https://open.spotify.com/album/0rp6ggNbMBsYXp56OrOgbd) | 2:34 | 2024-09-27 |  |
 | [Freundschaft oder Liebe](https://open.spotify.com/track/1cjYckNfzzFE87u7rY8xS8) | [MC Bilal](https://open.spotify.com/artist/6YgNQsBEuLr4wrGBVZexN8), [JOLINA](https://open.spotify.com/artist/58vdNkkejf3z5dZh3hOrH8) | [Freundschaft oder Liebe](https://open.spotify.com/album/4gtaD8jS1SrQj3h5pjU3Hi) | 2:56 | 2022-06-16 | 2022-06-24 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-14 | 2024-03-22 |
 | [Frida](https://open.spotify.com/track/5cl856DWa5wwGbWJ6vnwFK) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Frida](https://open.spotify.com/album/2HWEoX0OU5XvZHEsR502gG) | 3:17 | 2022-04-28 | 2022-05-06 |
@@ -12399,6 +12401,7 @@
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-10-12 | 2023-10-20 |
 | [Time Will Tell](https://open.spotify.com/track/3soYJE0v7d9qaj3PAMo3Zf) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Out Of Mind](https://open.spotify.com/album/6eL41jNuLADGnjmCyUyS4d) | 2:58 | 2023-10-26 | 2023-11-03 |
 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 | 2023-10-26 | 2023-10-28 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-27 |  |
 | [Timeout](https://open.spotify.com/track/3CiAZWNRw0WFIjXAjCap1J) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Timeout](https://open.spotify.com/album/5L6FluwTqosoaRfV5Yoal7) | 2:27 | 2023-02-23 | 2023-03-03 |
 | [Timothée Chalamet](https://open.spotify.com/track/5JYKaqxrlGN0QiKMTud8Yn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fühlst du dich allein?](https://open.spotify.com/album/2uc22qiOh7uSDgdIx6Rmy0) | 3:37 | 2023-03-09 | 2023-03-18 |
 | [Tinder](https://open.spotify.com/track/5PrtCkZwlN0x5YUx9Npn4p) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Tinder](https://open.spotify.com/album/1fwLlH2ta2BwmtueMISfGU) | 2:36 | 2024-07-18 | 2024-07-27 |

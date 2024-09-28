@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 174431,
+  "num_followers": 174491,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAABUJZ5YrvvW8HOISQMQX4b6",
+  "snapshot_id": "Zk3QMAAAAABmFZ4Hznu/csJ2P5xQ1F3L",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Schwarzes Herz",
         "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 168146,
       "name": "Wei\u00dfes Haus",
       "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Halleluja (Remastered)",
-        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
-      },
-      "artists": [
-        {
-          "name": "Westernhagen",
-          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Weil ich dich liebe - Remastered",
-      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "F\u00fcr Immer",
         "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 128571,
       "name": "F\u00fcr Immer",
       "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Halleluja (Remastered)",
+        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
+      },
+      "artists": [
+        {
+          "name": "Westernhagen",
+          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Weil ich dich liebe - Remastered",
+      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
     },
     {
       "added_at": "2024-02-09 07:01:34",

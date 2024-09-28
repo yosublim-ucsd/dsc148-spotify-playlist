@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,248 likes - 54 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,550 likes - 54 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 53 | [Най триває літо](https://open.spotify.com/track/6zZlQlhFmQxjY10g3wPDKX) | [Kate Soul](https://open.spotify.com/artist/5JJIJ5ruatWLkSFCpWJME0) | [Най триває літо](https://open.spotify.com/album/7j6mPv8YwwuOyWZUdhQdGi) | 3:32 |
 | 54 | [Я ПІЗДАТА](https://open.spotify.com/track/7HUu198Y0flnqSx7T448e1) | [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8) | [Я ПІЗДАТА](https://open.spotify.com/album/6NJsVZfB72YoXaAHIqVs2h) | 1:54 |
 
-Snapshot ID: `ZuROBAAAAABt9I1zLKujag6s1IALo0RL`
+Snapshot ID: `ZuROBAAAAAAdwkydUVQRIzRnyHMU3N3i`

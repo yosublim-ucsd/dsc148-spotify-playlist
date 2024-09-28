@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Bandiera",
+        "url": "https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt"
+      },
+      "artists": [
+        {
+          "name": "Giulia Mei",
+          "url": "https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181523,
+      "name": "Bandiera",
+      "url": "https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k"
+    },
+    {
+      "album": {
         "name": "Bloody Mary (feat. PUGNI & Fudasca)",
         "url": "https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K"
       },

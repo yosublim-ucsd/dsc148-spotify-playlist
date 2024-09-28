@@ -2,7 +2,7 @@
 
 ### [Hip Hop Weekly](https://open.spotify.com/playlist/1E0cNUolZdz3hMZiGNUi8V)
 
-> 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
+> 🔥 All the hottest hip hop tracks in one spot!
 
 167 songs - 7 hr 56 min
 

@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: Sasha Keable, 6LACK
 
-348 songs - 18 hr 17 min
+349 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [EVERYTHING \- A COLORS SHOW](https://open.spotify.com/track/3YHWHbD0sa31BmwdjNNtwH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [EVERYTHING \(A COLORS SHOW\)](https://open.spotify.com/album/7m2UXRby4qg7d5majV2Cdk) | 3:04 | 2023-07-21 | 2023-09-23 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 |  |
 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 | 2024-05-10 | 2024-09-20 |
+| [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2024-09-26 |  |
 | [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-14 | 2023-07-22 |
 | [feels](https://open.spotify.com/track/56O1IiX4MTIzQNxUFoBWHu) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [allure](https://open.spotify.com/album/4fGVenw5TmETgwm1iR4upQ) | 3:55 | 2023-09-29 | 2024-04-19 |
 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 | 2023-05-24 | 2023-07-22 |

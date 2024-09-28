@@ -245,6 +245,32 @@
     },
     {
       "album": {
+        "name": "About A Love",
+        "url": "https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Nicholas Gunn",
+          "url": "https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245357,
+      "name": "About A Love",
+      "url": "https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK"
+    },
+    {
+      "album": {
         "name": "Adagio For Strings",
         "url": "https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR"
       },
@@ -4637,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191956,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
+    },
+    {
+      "album": {
         "name": "slash 010 - 5 Mins Of Acid",
         "url": "https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY"
       },
@@ -5076,6 +5120,24 @@
       "duration_ms": 222822,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/1CKS5yZ9XsAesSWW6obPzp"
+    },
+    {
+      "album": {
+        "name": "Electric Sky",
+        "url": "https://open.spotify.com/album/4BSO1lQKoaZbbitOXKsUP3"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Electric Sky",
+      "url": "https://open.spotify.com/track/3VLOElrKDHDVgksivgyyUU"
     },
     {
       "album": {
@@ -11037,6 +11099,24 @@
     },
     {
       "album": {
+        "name": "Lost Moments (Club Mix)",
+        "url": "https://open.spotify.com/album/5sK7TcWbwmTi2r1pv9wCMV"
+      },
+      "artists": [
+        {
+          "name": "Glenn Morrison",
+          "url": "https://open.spotify.com/artist/6rQCqpJwXe2ucpnXh85NJV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lost Moments - Radio Club Mix",
+      "url": "https://open.spotify.com/track/2du3qGxtt42YumWVdf62Ry"
+    },
+    {
+      "album": {
         "name": "Lost Without You (C&N Project SummerMix)",
         "url": "https://open.spotify.com/album/59Y27JkTArS69zFHpuiSRI"
       },
@@ -14374,6 +14454,24 @@
       "duration_ms": 184347,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/7ueZoo33QOSi6sZwa1YeEZ"
+    },
+    {
+      "album": {
+        "name": "Pulstar",
+        "url": "https://open.spotify.com/album/1x27Yb4yP62zbSWALlp443"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "Pulstar",
+      "url": "https://open.spotify.com/track/6XMiI90qhXlBXsupK4xIx1"
     },
     {
       "album": {

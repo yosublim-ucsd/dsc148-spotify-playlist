@@ -2,7 +2,7 @@
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Grupo Marca Registrada y Deorro en portada.
+> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Gera MX y Alemán en portada.
 
 611 songs - 1 day 8 hr 21 min
 

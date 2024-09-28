@@ -2,9 +2,9 @@
 
 ### [OPM Rising](https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf)
 
-> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
+> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Cup of Joe
 
-164 songs - 10 hr 25 min
+167 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-19 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-02 |  |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-19 |  |
+| [Kamehameha](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-09-27 |  |
 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-16 |  |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-07-02 | 2024-07-19 |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 |  |
@@ -162,6 +163,7 @@
 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 | 2024-08-30 |  |
 | [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2024-07-02 | 2024-09-07 |
 | [Tiger](https://open.spotify.com/track/2dLNWQzhAn3w9iBUVnXZb3) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Thanks For Everything](https://open.spotify.com/album/2x4KmypZUlBJ7YYsKYeYnr) | 4:21 | 2024-07-02 | 2024-08-10 |
+| [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 | 2024-09-27 |  |
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 |  |
 | [Umayos Ka](https://open.spotify.com/track/7gOF9CLCcGiEeqXx8VXkjM) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Umayos Ka](https://open.spotify.com/album/6gnBtAHsfwMsuJ9HzmyUw0) | 3:23 | 2024-07-02 | 2024-07-13 |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 |  |
@@ -169,6 +171,7 @@
 | [When I'm Gone](https://open.spotify.com/track/7HtYsjAAc4KRKSr6L5rZTS) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [When I'm Gone](https://open.spotify.com/album/4oCuzncGTimPrUv61BsXXN) | 2:48 | 2024-07-02 | 2024-09-07 |
 | [Wish I Could](https://open.spotify.com/track/0w6kfxne7qn6nfOj7DhBQF) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Wish I Could](https://open.spotify.com/album/7yaMxJccotaM04cWk4e8p2) | 5:17 | 2024-09-06 |  |
 | [Yakap](https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Yakap](https://open.spotify.com/album/2GXphqBra81VhHhrmwAN3G) | 4:28 | 2024-07-02 | 2024-08-03 |
+| [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2024-09-27 |  |
 | [Yoko Na](https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Yoko Na](https://open.spotify.com/album/3Gj12JsaJaFtbfBOroD8gN) | 3:32 | 2024-07-02 | 2024-07-19 |
 | [Your Universe \- GG Official Soundtrack](https://open.spotify.com/track/2jfU598QxlKwKwTaiPZhzp) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Your Universe \(GG Official Soundtrack\)](https://open.spotify.com/album/1L1usyi9r1Gce8geasjViJ) | 3:45 | 2024-07-08 | 2024-09-25 |
 | [‘Di Ko Masabi](https://open.spotify.com/track/3JEE0hhTI6u9CEZCZWalKe) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/2JPO2CrZXbL0LR92Z91KUt) | 4:18 | 2024-08-02 |  |

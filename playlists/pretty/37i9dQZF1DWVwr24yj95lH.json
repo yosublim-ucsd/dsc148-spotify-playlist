@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Creed",
-  "num_followers": 622851,
+  "num_followers": 622860,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoQ0wAAAAAB7ebwFDHX+Q3s5xoIHuoPB",
+  "snapshot_id": "ZoQ0wAAAAADo5V8/jjs/pM+l9G0bKN1Y",
   "tracks": [
     {
       "added_at": "2024-07-02 17:11:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
-    },
-    {
-      "added_at": "2024-07-02 17:11:28",
-      "album": {
         "name": "So Much For The Afterglow",
         "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 238133,
       "name": "I Will Buy You A New Life",
       "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
     },
     {
       "added_at": "2024-07-02 17:11:28",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
-    },
-    {
-      "added_at": "2024-07-02 17:11:28",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 283973,
       "name": "Shelf In The Room",
       "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 340106,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
       "added_at": "2024-07-02 17:11:28",

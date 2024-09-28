@@ -10205,6 +10205,24 @@
     },
     {
       "album": {
+        "name": "Hollon (Alternate Versions)",
+        "url": "https://open.spotify.com/album/5pCIoDaQSdBG4XBWS0ZwEe"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128858,
+      "name": "Hollon",
+      "url": "https://open.spotify.com/track/2AB83f5ztHiCFA6DIgodzc"
+    },
+    {
+      "album": {
         "name": "A Drillers Perspective 2.7",
         "url": "https://open.spotify.com/album/66VJMqcCT2UWLul7ZHyjvF"
       },
@@ -23428,6 +23446,28 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {

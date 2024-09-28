@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-295 songs - 15 hr 26 min
+300 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Evening In Paris](https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9) | [Lois](https://open.spotify.com/artist/2TPN3wAFNOE6VN1OLNLBwH) | [Strumpet](https://open.spotify.com/album/55qFoYA2utC3qhqmutvSRX) | 2:37 | 2024-04-18 | 2024-05-16 |
 | [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 | 2024-03-10 |
 | [Everglade](https://open.spotify.com/track/12Ly9pR2DxzNCWHauZWiYj) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/26QpVjamtdjHvXSfd7c7v7) | 4:26 | 2024-04-25 | 2024-05-16 |
+| [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 | 2024-09-27 |  |
 | [Everyone Else Is Ahead Far Ahead](https://open.spotify.com/track/4tNmcoZysizQT9Io7CIDQy) | [The Marshmallow Kisses](https://open.spotify.com/artist/4tzg961dC4xoU1YYGZeYud) | [I Wonder Why My Favorite Boy Leaves Me An EP](https://open.spotify.com/album/0tVIqiviChQkxeZoVC9aGq) | 2:41 | 2024-07-12 | 2024-09-08 |
 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-22 | 2024-04-25 |
 | [Extended Stay](https://open.spotify.com/track/2McIIeblzOucJCdqKUCeZ7) | [African\-American Sound Recordings](https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz) | [Tamika's Lodge](https://open.spotify.com/album/3hrGKo1YpKMkaTGHWkhLhj) | 1:46 | 2024-04-01 | 2024-05-16 |
@@ -104,6 +105,7 @@
 | [Glaze](https://open.spotify.com/track/4jkRnUuBruxsBxwGvljLTe) | [Hook\-Ups](https://open.spotify.com/artist/6FMudRfeeTt2SB4g7mIgDk) | [Glaze](https://open.spotify.com/album/6vQc9oS4OPg5QKkXZ5DvLA) | 3:09 | 2024-01-05 | 2024-03-10 |
 | [Gmaps](https://open.spotify.com/track/0lMhNqruBNotSF05zdntaC) | [cowboyy](https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh) | [Epic The Movie](https://open.spotify.com/album/6u4N8jsC3u7IYr7esQPICq) | 2:16 | 2024-04-18 | 2024-05-16 |
 | [Go Ahead](https://open.spotify.com/track/076CVTJ4mGoEROAnTtAQj2) | [Gap Dream](https://open.spotify.com/artist/1yZc7JDNtiB3ztNtCupSKq) | [Gap Dream](https://open.spotify.com/album/2uLgmG9rR2rrm0lLxgUJey) | 2:22 | 2024-01-05 | 2024-03-10 |
+| [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 | 2024-09-27 |  |
 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 | 2024-06-14 | 2024-07-12 |
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
 | [Grey Today](https://open.spotify.com/track/29iOKTPFn88YR889dSMrrH) | [Woody Simmons](https://open.spotify.com/artist/4umiRBYyqrPdYiyuHeYhDy) | [Oregon Mountains](https://open.spotify.com/album/2yKLdPLXBQKuEHqmxNJ78m) | 5:02 | 2024-07-29 | 2024-09-08 |
@@ -135,6 +137,7 @@
 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 | 2024-05-25 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
 | [Images](https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v) | [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Images](https://open.spotify.com/album/1ZijTOVIDEYinWZ9Wy0JRk) | 2:59 | 2024-04-25 | 2024-05-16 |
+| [Impractical Joke](https://open.spotify.com/track/2sMEXl84bb1RaF92M8UrEI) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 2:16 | 2024-09-27 |  |
 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 | 2024-06-12 | 2024-06-22 |
 | [In This City](https://open.spotify.com/track/65HFAlZSfeIKZgOlctCYgp) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 4:01 | 2024-07-12 | 2024-09-08 |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
@@ -184,6 +187,7 @@
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
 | [None But Shining Hours](https://open.spotify.com/track/5kHCk2CS3RURF57SUqU1Xt) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 2:43 | 2024-04-25 | 2024-05-16 |
 | [Nothing Stays the Same](https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [The Menace](https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9) | 2:44 | 2024-01-13 | 2024-03-10 |
+| [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 | 2024-09-27 |  |
 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 | 2024-08-12 | 2024-09-08 |
 | [Ohio](https://open.spotify.com/track/7CQvwewBvkpX67eLoYqetW) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [OH \(Ohio\)](https://open.spotify.com/album/6BQv93NiGNNikZ3QrHacFh) | 2:24 | 2024-04-25 | 2024-05-16 |
 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 | 2024-03-20 | 2024-05-16 |
@@ -213,6 +217,7 @@
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
 | [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 |  |
 | [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 | 2024-09-23 |  |
+| [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 | 2024-09-27 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
 | [Routiner](https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Routiner / Postcard](https://open.spotify.com/album/76F53xQ0kSoAd9tgNFOg2o) | 3:22 | 2024-09-24 |  |
 | [Rude Girl on Rotation](https://open.spotify.com/track/4EhV8FoOtNW8QfUelPoDhF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Lady On The Cusp](https://open.spotify.com/album/018Fb0iL812xrL5tR6MOzX) | 2:40 | 2024-07-12 | 2024-09-08 |

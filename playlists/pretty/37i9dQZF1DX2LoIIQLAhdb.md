@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Leslie x Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,435 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,472 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Passionné](https://open.spotify.com/track/1rd6wE2cYNkudR3CSXTCpW) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Passionné](https://open.spotify.com/album/5jLAtJNOtIRTOfe0DEPjyX) | 2:33 |
 | 40 | [Saison des pluies](https://open.spotify.com/track/6AUmKnJD1X3b73p0CuXsBE) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS) | [Saison des pluies](https://open.spotify.com/album/2WdH6bgzdLszSKCsZ4vEdZ) | 2:44 |
 
-Snapshot ID: `ZvXZYAAAAACF2L5/7F9SbVHbdEmiRl0X`
+Snapshot ID: `ZvXZYAAAAADIVcAaDNdvcgoQJGLa+ibl`

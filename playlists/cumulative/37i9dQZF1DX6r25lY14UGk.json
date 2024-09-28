@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Clean Up, Clean Up (From Barney's World: Vol. 1)",
+        "url": "https://open.spotify.com/album/5SUYTiBNO550mLf5OzjYne"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "Clean Up, Clean Up",
+      "url": "https://open.spotify.com/track/3gvXo2SmnHdhAp1OPOWItX"
+    },
+    {
+      "album": {
         "name": "Clipperty Clop",
         "url": "https://open.spotify.com/album/4gO2JdIdYWATxXsy8h04mn"
       },
@@ -8671,6 +8689,24 @@
     },
     {
       "album": {
+        "name": "Stomp and Roar like a Dinosaur",
+        "url": "https://open.spotify.com/album/2J4QgDASJmDnb5fdNNy3Sg"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Stomp and Roar like a Dinosaur",
+      "url": "https://open.spotify.com/track/2xU66vzMSu4yFQI2CNf52W"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK"
       },
@@ -9852,6 +9888,28 @@
       "duration_ms": 180413,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/0EGDSxAX1PpFnEMNO4lqPz"
+    },
+    {
+      "album": {
+        "name": "3, 2, 1, Go!",
+        "url": "https://open.spotify.com/album/04clncMXkS7xIOjl91UTt5"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        },
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90751,
+      "name": "Three Primary Colors (feat. OK Go)",
+      "url": "https://open.spotify.com/track/4uuMLEtSlaeQNc8b6cGDJP"
     },
     {
       "album": {

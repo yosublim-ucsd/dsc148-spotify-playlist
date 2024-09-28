@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0Cvrlm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0Cvrlm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0Cvrlm)
 
-### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
+### [This Is ジョージ・マイケル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This Is George Michael\. Los temas esenciales, todos en una lista.
+> This is ジョージ・マイケル。アーティストの代表曲をひとつのプレイリストに。
 
-67 songs - 5 hr 23 min
+68 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 | 2023-12-19 | 2024-07-17 |
 | [Heal the Pain \- Remastered](https://open.spotify.com/track/2EBWsH43kZsQd6MSPygouy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:39 | 2023-07-28 | 2023-12-17 |
 | [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 | 2024-01-24 |  |
-| [How Do You Keep the Music Playing? \(with George Michael\)](https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 5:23 | 2023-07-28 |  |
+| [How Do You Keep the Music Playing? \(with George Michael\)](https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 5:23 | 2023-07-28 | 2024-09-28 |
+| [I Can't Make You Love Me \- Studio Version](https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 5:18 | 2024-09-28 |  |
 | [I Can't Make You Love Me \- Studio Version](https://open.spotify.com/track/2w4a4ur2uRf530cbzyTlWo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:20 | 2023-07-28 | 2024-01-28 |
 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [ARETHA](https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H) | 4:00 | 2023-07-28 |  |
 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 | 2023-07-28 |  |

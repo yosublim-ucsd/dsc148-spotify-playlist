@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,321 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,355 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 99 | [Shopping Cart](https://open.spotify.com/track/57xHPifnfguNFDig9kHZOq) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/0Ehvg0k08rB3rpquQks9Vw) | 4:05 |
 | 100 | [Money](https://open.spotify.com/track/3mSLCR9IPyERRmvi47vXGu) | [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [Casual Encounter](https://open.spotify.com/album/4M0rxKyC5TgzKos1FFZOTr) | 3:24 |
 
-Snapshot ID: `ZkPCnAAAAAAvjqRmnh4rCLrH6iOzvKpj`
+Snapshot ID: `ZkPCnAAAAAB5vgKyW5YcK2utU+Cy6C+3`

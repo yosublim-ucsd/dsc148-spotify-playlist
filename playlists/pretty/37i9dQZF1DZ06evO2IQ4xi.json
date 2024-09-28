@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 12162,
+  "num_followers": 12187,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADC/+K120OYijFmDOWcLR4k",
+  "snapshot_id": "ZvSkAAAAAAAolRspHB7hSV0uSa+3Rn1y",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 121858,
-      "name": "BOILED PEANUTS",
-      "url": "https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb"
+      "duration_ms": 100646,
+      "name": "SKIPP",
+      "url": "https://open.spotify.com/track/4vy1EFZOSZ5yN0fdRaIG57"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 100646,
-      "name": "SKIPP",
-      "url": "https://open.spotify.com/track/4vy1EFZOSZ5yN0fdRaIG57"
+      "duration_ms": 121858,
+      "name": "BOILED PEANUTS",
+      "url": "https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Shit",
-      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 220472,
       "name": "Black Girl Memoir",
       "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Shit",
+      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 101040,
-      "name": "This Bitch Matters",
-      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 101040,
+      "name": "This Bitch Matters",
+      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 137038,
       "name": "Everything You Needed",
       "url": "https://open.spotify.com/track/1qn7230d9Ky4xkrV5eH0E7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 214899,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 214899,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe"
     },
     {
       "added_at": null,

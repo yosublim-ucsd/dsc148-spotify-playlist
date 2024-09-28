@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Black K
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,510 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,549 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Bio](https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [Bio](https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5) | 3:05 |
 | 40 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 |
 
-Snapshot ID: `ZvXZYAAAAAAwP/iqRhz1XEGBdE8e9Ce8`
+Snapshot ID: `ZvXZYAAAAABY4sYl+/aiJ3BYOiGtIZ7o`

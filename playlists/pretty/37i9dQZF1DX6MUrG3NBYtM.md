@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Alternative, Indie en Rock van nu! Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,706 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,689 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 49 | [Well, Actually](https://open.spotify.com/track/5luU51yytlFbX2LwsYCizD) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT) | [Well, Actually](https://open.spotify.com/album/6Lt5cUgg82xW0dRnEHpaua) | 4:57 |
 | 50 | [Dead On The Money](https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Dead On The Money](https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU) | 2:42 |
 
-Snapshot ID: `ZvXZYAAAAACjkgkp6L4hl0/20spT3T5S`
+Snapshot ID: `ZvXZYAAAAADwY7RYygIIz7vLLo04y9r3`

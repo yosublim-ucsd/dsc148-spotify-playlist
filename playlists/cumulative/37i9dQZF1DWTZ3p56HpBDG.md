@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Raf Saperra
 
-234 songs - 12 hr 15 min
+237 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 | 2021-11-10 | 2022-07-19 |
 | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 | 2022-10-06 |  |
 | [Control](https://open.spotify.com/track/2famriH3O9cb6LHu8iRpUI) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Control](https://open.spotify.com/album/4N7hL7GzcAfFYHr9zsLWJi) | 3:07 | 2021-11-10 | 2022-07-19 |
+| [COOLIN](https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [COOLIN](https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH) | 3:00 | 2024-09-27 |  |
 | [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 | 2021-11-10 | 2022-07-19 |
 | [DAME](https://open.spotify.com/track/47u4vlcqvJq0KCINnIZCFP) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba) | [DAME](https://open.spotify.com/album/0yPGdKFF3YJzbPcG9c6pe6) | 3:28 | 2024-07-17 | 2024-08-09 |
 | [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 | 2022-10-06 |  |
@@ -144,6 +145,7 @@
 | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2022-04-15 | 2022-07-19 |
 | [Melanin In The Hamptons](https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW) | [Dandila](https://open.spotify.com/artist/4o0fmWItqg6aEjvsDopr07) | [Melanin In The Hamptons](https://open.spotify.com/album/2GZcjgZBKZ4oPHDMYc4TLK) | 2:09 | 2021-11-10 | 2022-07-19 |
 | [Mercury](https://open.spotify.com/track/03AbZgjtzQaHFmp4UveeyX) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [SVDP 2](https://open.spotify.com/album/1Sd5W902T0uiG3wAcLqmso) | 1:16 | 2021-11-10 | 2022-01-21 |
+| [Meri Bangayi](https://open.spotify.com/track/1mDXPSD46zLa9rl0YrZLDb) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Meri Bangayi](https://open.spotify.com/album/71SEn3gweOwndFo1g6qCHx) | 3:04 | 2024-09-27 |  |
 | [Mirchi Anthem](https://open.spotify.com/track/7vJHyiAJMDZwUmbDWRsIKI) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Mirchi Anthem](https://open.spotify.com/album/78UwNMNUqcvuJ4Ji2RBM8m) | 2:52 | 2023-08-04 |  |
 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-07-18 | 2022-10-07 |
 | [Mitran Nu](https://open.spotify.com/track/1AITNgQZqUg2usEfvsxp18) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Mitran Nu](https://open.spotify.com/album/0KQq7DjJdE0OyNfhfgImL4) | 2:39 | 2024-07-17 | 2024-08-09 |
@@ -191,6 +193,7 @@
 | [Somebody to Love](https://open.spotify.com/track/3pdHWxpeFJqai3skQcRr41) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 4:10 | 2021-11-10 | 2022-06-21 |
 | [Something About You](https://open.spotify.com/track/7CWu5T6Pr3ELY1p0T5AqLq) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Something About You](https://open.spotify.com/album/5y1TMdHRjU5c23HKi5JLWi) | 2:54 | 2024-04-12 |  |
 | [Something In Common](https://open.spotify.com/track/26OTg2xFP2X2Bllzb2AIZM) | [Anushqa](https://open.spotify.com/artist/0IcLVlZlFJH2ifZjasaCVm) | [Something In Common](https://open.spotify.com/album/6Iwlg5fffwQFgYTDBzq6Ab) | 3:02 | 2021-11-10 | 2022-06-21 |
+| [Speak In The Dark](https://open.spotify.com/track/37pcSLdJ9GW4E0LN7B998Z) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Speak In The Dark](https://open.spotify.com/album/0b13zZwIhnVC4ODUZh5ilo) | 3:22 | 2024-09-27 |  |
 | [Sri Lanka](https://open.spotify.com/track/28zAYZ5BW3A9u6KAEFdPWM) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:06 | 2024-04-15 |  |
 | [Stardust](https://open.spotify.com/track/4MsivdlWVZA1srlWo2EmP4) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS \(Z SIDES\)](https://open.spotify.com/album/0fITnszcOkuUVYERV4XYOT) | 3:52 | 2024-07-02 |  |
 | [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 | 2022-07-18 | 2022-10-07 |

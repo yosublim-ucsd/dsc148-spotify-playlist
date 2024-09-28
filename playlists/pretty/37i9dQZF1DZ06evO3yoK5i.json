@@ -1,12 +1,12 @@
 {
-  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 231209,
+  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
+  "num_followers": 231233,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAAauCQI93TCJp9AT41Aws2K",
+  "snapshot_id": "ZvSkAAAAAADMerv/2tmjgek16wSciyJO",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros (Spanish Version)",
-        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 584573,
-      "name": "Musica \u00e8",
-      "url": "https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica \u00e8",
         "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 251893,
       "name": "Una storia importante - Remastered 2021",
       "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros (Spanish Version)",
+        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 584573,
+      "name": "Musica \u00e8",
+      "url": "https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn"
     },
     {
       "added_at": null,

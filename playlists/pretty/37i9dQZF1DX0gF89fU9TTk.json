@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 136112,
+  "num_followers": 136133,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zno5BwAAAAA5QRndLK7eQJFtYBP9IZHi",
+  "snapshot_id": "Zno5BwAAAAAOztd07bUj+2Et3NYV4Iph",
   "tracks": [
     {
       "added_at": "2024-06-25 03:27:03",
@@ -855,6 +855,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Eyes Up - EP",
+        "url": "https://open.spotify.com/album/6IQ0BcQsPrHltvsgP1Mbpv"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 156589,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/3Y1DoxV2IIPeiOkAB2YHp0"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Till the Earth",
         "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 243694,
       "name": "King of My Heart",
       "url": "https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Eyes Up - EP",
-        "url": "https://open.spotify.com/album/6IQ0BcQsPrHltvsgP1Mbpv"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 156589,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/3Y1DoxV2IIPeiOkAB2YHp0"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Standing In Your Light",
-        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Standing In Your Light",
-      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Listen More",
         "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 182857,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Standing In Your Light",
+        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Standing In Your Light",
+      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Quarantine Sessions",
-        "url": "https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 234969,
-      "name": "WE\u2019RE GOING PUBLIC (Acoustic)",
-      "url": "https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 213381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Quarantine Sessions",
+        "url": "https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 234969,
+      "name": "WE\u2019RE GOING PUBLIC (Acoustic)",
+      "url": "https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "What Else",
-        "url": "https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu"
-      },
-      "artists": [
-        {
-          "name": "Mainstream Worship",
-          "url": "https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3"
-        },
-        {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "What Else",
-      "url": "https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6uQDtiVknSKRo1QpnFCNoh"
       },
@@ -1247,6 +1227,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "What Else",
+        "url": "https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu"
+      },
+      "artists": [
+        {
+          "name": "Mainstream Worship",
+          "url": "https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "What Else",
+      "url": "https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 276006,
       "name": "You Are Here (Studio)",
       "url": "https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -2,7 +2,7 @@
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
-> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
+> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
 
 321 songs - 17 hr 26 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,369 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,373 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 69 | [Never end "Opus"](https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 5:05 |
 | 70 | [Delicious Delivery](https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO) | [Café Parade](https://open.spotify.com/artist/1PaypLC7a22JmHy4IHEKUh) | [THE IDOLM@STER SideM NEW STAGE EPISODE：04 Café Parade](https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA) | 4:07 |
 | 71 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
-| 72 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
-| 73 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
-| 74 | [Sanctuary World](https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/2FRTPqaf3Ov9swyGdP7Etq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:49 |
-| 75 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
+| 72 | [Resolution](https://open.spotify.com/track/0hEybez77yb70HAuNW0Sqi) | [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd) | [THE IDOLM@STER SideM 49 ELEMENTS \-06 THE 虎牙道](https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz) | 4:29 |
+| 73 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
+| 74 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
+| 75 | [Sanctuary World](https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/2FRTPqaf3Ov9swyGdP7Etq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:49 |
 
-Snapshot ID: `ZedXbwAAAAA6VByJ4FhXzL1fo7PpFDzx`
+Snapshot ID: `ZedXbwAAAACc0CFoB/KvHv2zMNy3YMQ1`

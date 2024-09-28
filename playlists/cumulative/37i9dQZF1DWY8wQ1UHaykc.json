@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Cinta Sejati - Remastered 2024",
+        "url": "https://open.spotify.com/album/5MX0MzRa7G6inW4qBA0UUt"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301053,
+      "name": "Cinta Sejati - Remastered 2024",
+      "url": "https://open.spotify.com/track/3rsTUQcZbCWlH2CSGP4s48"
+    },
+    {
+      "album": {
         "name": "Cerita Cinta 25 Tahun Kahitna",
         "url": "https://open.spotify.com/album/139rp11ERodJI2teyNKkkN"
       },

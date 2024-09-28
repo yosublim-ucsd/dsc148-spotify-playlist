@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,712 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,764 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 69 | [Dearly Departed \(feat\. Kardinal Offishall\)](https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP) | [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Rap Prime Minister](https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv) | 4:07 |
 | 70 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
 
-Snapshot ID: `ZuzzQAAAAAAEpya6t1yLLSNMY4Z3y/dJ`
+Snapshot ID: `ZuzzQAAAAABS6xE8KYjzohlLiA4+D+tb`

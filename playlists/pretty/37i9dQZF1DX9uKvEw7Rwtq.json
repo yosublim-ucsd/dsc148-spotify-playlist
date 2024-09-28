@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 103018,
+  "num_followers": 103089,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlYoAAAAAAAMghdjGSvGJBejRhzTFryI",
+  "snapshot_id": "ZlYoAAAAAADC61HHI6bIP3YdOK9+DuQk",
   "tracks": [
     {
       "added_at": "2024-05-28 18:52:48",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
+        "name": "sleepmakeswaves",
+        "url": "https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp"
       },
       "artists": [
         {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "sleepmakeswaves",
+          "url": "https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv"
         }
       ],
-      "duration_ms": 361760,
-      "name": "A Citizen's Dream",
-      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
+      "duration_ms": 290453,
+      "name": "It's Dark, It's Cold, It's Winter",
+      "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "sleepmakeswaves",
-        "url": "https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp"
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
       "artists": [
         {
-          "name": "sleepmakeswaves",
-          "url": "https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv"
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
         }
       ],
-      "duration_ms": 290453,
-      "name": "It's Dark, It's Cold, It's Winter",
-      "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
+      "duration_ms": 361760,
+      "name": "A Citizen's Dream",
+      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+      },
+      "artists": [
+        {
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 420330,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Lakeshore",
         "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 181333,
       "name": "Ineffable",
       "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+      },
+      "artists": [
+        {
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+        }
+      ],
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Bloodsport",
         "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
-        "name": "A Dream to Call My Own (feat. Janell Rosa)",
-        "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
-      },
-      "artists": [
-        {
-          "name": "Nature Feels",
-          "url": "https://open.spotify.com/artist/1ltepWinShlb0TKyJrNfEq"
-        },
-        {
-          "name": "Janell Rosa",
-          "url": "https://open.spotify.com/artist/1p9RwfShi3tpt02GuEs7HD"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "A Dream to Call My Own (feat. Janell Rosa)",
-      "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1267,6 +1247,26 @@
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "A Dream to Call My Own (feat. Janell Rosa)",
+        "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
+      },
+      "artists": [
+        {
+          "name": "Nature Feels",
+          "url": "https://open.spotify.com/artist/1ltepWinShlb0TKyJrNfEq"
+        },
+        {
+          "name": "Janell Rosa",
+          "url": "https://open.spotify.com/artist/1p9RwfShi3tpt02GuEs7HD"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "A Dream to Call My Own (feat. Janell Rosa)",
+      "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
-      },
-      "artists": [
-        {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
-        }
-      ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/0qLppbcnPxM0EcGFNZzAji"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 480000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+      },
+      "artists": [
+        {
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Into the Blue Again",
         "url": "https://open.spotify.com/album/3Xos06RQ2EgcIUC0Tqa73r"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 269066,
       "name": "The Light",
       "url": "https://open.spotify.com/track/4Qd40duKkAnE3XG0DN64Qy"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu"
     },
     {
       "added_at": "2024-05-28 18:52:48",

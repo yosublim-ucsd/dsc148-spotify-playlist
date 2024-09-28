@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: oceanfromtheblue)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Hannah Jang(\uc7a5\ud55c\ub098))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192772,
       "name": "BAD",
       "url": "https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 185473,
       "name": "bluelemonhighball",
       "url": "https://open.spotify.com/track/5NUrBAj2bMt5VzagE9ilPj"
@@ -1536,6 +1536,24 @@
       "duration_ms": 203953,
       "name": "Chi-Ka",
       "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
+    },
+    {
+      "album": {
+        "name": "chocolate love",
+        "url": "https://open.spotify.com/album/52u7FyTB3CSBb8l6zyDebj"
+      },
+      "artists": [
+        {
+          "name": "Lee Seojin",
+          "url": "https://open.spotify.com/artist/4P6UehecN74wOGkJKM77eW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "chocolate love",
+      "url": "https://open.spotify.com/track/4EHDIT0VwONdYdPZQJPgtn"
     },
     {
       "album": {
@@ -2188,6 +2206,24 @@
       "duration_ms": 212000,
       "name": "Diving (Piano by Seokwon Lee)",
       "url": "https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL"
+    },
+    {
+      "album": {
+        "name": "dlTwksgdk",
+        "url": "https://open.spotify.com/album/6qC7XYjWzqYmdLjjtzTmNB"
+      },
+      "artists": [
+        {
+          "name": "Sinae",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220353,
+      "name": "dlTwksgdk",
+      "url": "https://open.spotify.com/track/7ezo6D87hjNvCppZu0Adjb"
     },
     {
       "album": {
@@ -4679,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Me, Stranger",
+        "url": "https://open.spotify.com/album/6mwMDz7oz9yFxybYAszv4n"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160630,
+      "name": "Love Play",
+      "url": "https://open.spotify.com/track/4HNcU9jElAR8YM7yMyEI3H"
+    },
+    {
+      "album": {
         "name": "LOVE SONG",
         "url": "https://open.spotify.com/album/4XUwu4Mka4jhAKHCCD2pKT"
       },
@@ -5220,7 +5274,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174000,
       "name": "Nirvana Blues",
       "url": "https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn"
@@ -5446,7 +5500,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 129994,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/5RQreDiOgjXeIHbIaZaipY"

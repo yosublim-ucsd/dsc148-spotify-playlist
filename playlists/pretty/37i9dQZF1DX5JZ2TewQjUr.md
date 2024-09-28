@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,627 likes - 229 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,636 likes - 229 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 228 | [半空](https://open.spotify.com/track/3WQrsXin9ApgBiCvmbtfOg) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [半空](https://open.spotify.com/album/4u30oOR3tTkzO0QHrYteIu) | 4:26 |
 | 229 | [WANBAAU](https://open.spotify.com/track/2IzTDUiubt4vqGHRGH14NT) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd), [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee) | [A BRIEF MOMENT OF YOU \(BONUS\)](https://open.spotify.com/album/5ZlR1DCKdMAVKH64qVkltt) | 3:08 |
 
-Snapshot ID: `ZvWFAAAAAABDKb0l8ZtHJeNJxeuon4I9`
+Snapshot ID: `ZvWFAAAAAADDKWIP2QfNto289J01R7pZ`

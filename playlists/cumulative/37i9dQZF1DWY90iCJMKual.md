@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> 🇵🇭 vibin' 🥶 🔥 Cover: Elise Huang
+> 🇵🇭 vibin' 🥶 🔥 Cover: Illest Morena
 
-283 songs - 15 hr 55 min
+289 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Kuhang\-kuha](https://open.spotify.com/track/3FzXMyxc0liTGcajQLVMtb) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Kuhang\-kuha](https://open.spotify.com/album/5y2ojx3eChTA3TqYAdC6qs) | 3:37 | 2024-07-17 |  |
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
 | [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 | 2023-09-22 |
+| [Kuwago](https://open.spotify.com/track/211DoplTG2f2NPw8OcewAj) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Kuwago](https://open.spotify.com/album/1Cw0tWOqgT1Ynn8TEA1GP2) | 3:29 | 2024-09-27 |  |
 | [Labis](https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN) | [Ichan](https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA), [Lee](https://open.spotify.com/artist/3eQtpy0MqPUf6GNDIIut3T) | [Labis](https://open.spotify.com/album/05vUTwC0R27PEPwj91rZE3) | 4:17 | 2022-10-12 | 2023-05-18 |
 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-11-17 | 2024-04-19 |
 | [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-17 | 2024-06-04 |
@@ -155,6 +156,7 @@
 | [Like That](https://open.spotify.com/track/0VrigBxBqXXHARYZiunFe0) | [Rajondo](https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu), [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Like That](https://open.spotify.com/album/7oP0RAy1yQcj4HqX6eTOXL) | 3:15 | 2024-07-19 |  |
 | [LIME](https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [LIME](https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS) | 3:01 | 2023-07-28 | 2023-10-28 |
 | [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 | 2024-05-09 |
+| [LOOSE ENDS](https://open.spotify.com/track/4cOJY04AwBf4DdTj353PFW) | [Angelo Rudy](https://open.spotify.com/artist/4eiSJg18oMOiNVTDeywTJT), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [LOOSE ENDS](https://open.spotify.com/album/0TOaMYSFK1W1PN88sgJIYd) | 3:54 | 2024-09-27 |  |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
 | [Love You Right](https://open.spotify.com/track/7yYedhtxP8sx4lp4jg3NZo) | [Ianne Lloyd](https://open.spotify.com/artist/0GfN6i3LxvNJyaUFt2VEJB), [Vinlisa](https://open.spotify.com/artist/7KYW9cXOTU7ft4MlxdKuxK) | [Love You Right](https://open.spotify.com/album/5xgwCc6cpY6JFKzs5LeEw4) | 3:40 | 2024-02-06 | 2024-04-13 |
 | [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-02 |  |
@@ -180,6 +182,7 @@
 | [Megastar \- Interlude](https://open.spotify.com/track/0pG5wMHBJQjrORcSMv0TIb) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Sharon Cuneta](https://open.spotify.com/artist/3I5ONm7nnP1LpvqsnA5dBG) | [Megastar \(Interlude\)](https://open.spotify.com/album/28YClUSxdivOubLAoIfDRc) | 2:45 | 2023-10-02 | 2023-11-11 |
 | [MIDNYT SNACK](https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ) | [June Andreas](https://open.spotify.com/artist/7JQTgAQRFXE1eqB3AknKT0) | [MIDNYT SNACK](https://open.spotify.com/album/0hZ4QvaZHTWFkhomk9BZsc) | 3:00 | 2023-06-26 | 2023-10-14 |
 | [Mood Swings](https://open.spotify.com/track/5n40E9H40UX8b11g1y2D7o) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [Mood Swings](https://open.spotify.com/album/3hTb5O25Vx6QZsBs7eILkD) | 3:22 | 2023-10-11 | 2024-02-10 |
+| [morenita](https://open.spotify.com/track/33uxA28bUvEG6LkA5DtbkT) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [morenita](https://open.spotify.com/album/3gFgsuVf4OXdH2CBRsggsO) | 2:42 | 2024-09-27 |  |
 | [MRPK](https://open.spotify.com/track/0UdYNs08ZTqibIfnymqYPp) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [MRPK](https://open.spotify.com/album/3e6VpHi5NMjiBCGDdadyqd) | 3:38 | 2022-10-12 | 2023-05-18 |
 | [my bad](https://open.spotify.com/track/3pNF853kMhVlJvlnDu2ImB) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [my bad](https://open.spotify.com/album/5sJF9sBGpdn1p7BMNB7oR7) | 3:12 | 2023-10-13 | 2024-02-07 |
 | [My Boo](https://open.spotify.com/track/1TbkeE5t46kxqRXzGpQ60t) | [Jr Crown](https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr) | [My Boo](https://open.spotify.com/album/1WXRuW3UuCSp66ckCoZJFB) | 3:04 | 2024-07-01 |  |
@@ -218,6 +221,7 @@
 | [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |
 | [Playaz Diary](https://open.spotify.com/track/38aXG1JKhrtwp9W9nY80TI) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Playaz Diary](https://open.spotify.com/album/5IIqgH8FutgMzWsS8AxSUM) | 2:25 | 2024-02-06 | 2024-07-13 |
 | [Project 4](https://open.spotify.com/track/0vzeoCC3jhrWsZMRUBCR4m) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Project 4](https://open.spotify.com/album/10B0KRoGVm7Pufn2144epG) | 3:30 | 2024-03-29 | 2024-08-03 |
+| [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-27 |  |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-08 |  |
 | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/track/3tCYXh7yjlu45fXgq85LmF) | [Swizzy Max](https://open.spotify.com/artist/7cDiSfjL2vCN5RHjDZocrt), [Mojia](https://open.spotify.com/artist/402vcacHfl5PtJLptZ2N8L) | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/album/2JjEzLVaMzJxQkM8vslmYC) | 2:54 | 2022-10-12 | 2023-07-29 |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 | 2023-07-29 |
@@ -233,6 +237,7 @@
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-06-22 |
 | [Sabik](https://open.spotify.com/track/0NCkmYgdIkUd3iimgMHtfB) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Liwanag](https://open.spotify.com/album/3TvO2eqaYYjgzackJSY5rX) | 3:29 | 2022-10-12 | 2023-07-29 |
 | [SABLAY](https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SABLAY](https://open.spotify.com/album/7cKaus2PC0X7Rp1zY3p83M) | 3:49 | 2023-02-23 | 2023-07-29 |
+| [Safe Ka Sa’kin](https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Safe Ka Sa’kin](https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc) | 2:34 | 2024-09-27 |  |
 | [SAGUTIN](https://open.spotify.com/track/1rRrJj9BV4giRjuOJeQAIB) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP), [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Jake P](https://open.spotify.com/artist/2ArnGMiSAJewUhl6wSYzKw), [KXLE](https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg), [JSE](https://open.spotify.com/artist/2o2dvdiHGlvwfvFxhlxSii), [SV3](https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I) | [LANAI](https://open.spotify.com/album/5wOcfc6dDhsw1VcFeovOLN) | 4:16 | 2024-06-03 | 2024-08-31 |
 | [Samo](https://open.spotify.com/track/0l8XHdlqbOUfyEgVdufvei) | [Erik Villanueva](https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E) | [Samo](https://open.spotify.com/album/2nkOFTGKEYXOG1iQLuG4I9) | 3:17 | 2024-04-12 |  |
 | [Sana](https://open.spotify.com/track/7LXGp1yQglrJ7XQ5moII70) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Sana](https://open.spotify.com/album/4VHDMKDOyV8cWEcpscxPny) | 2:55 | 2024-08-30 |  |
@@ -275,6 +280,7 @@
 | [Tied](https://open.spotify.com/track/4w4AciHOoooypyBGTwMqu5) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Tied](https://open.spotify.com/album/1sxdh97ffeWcEa8zirwQXv) | 2:57 | 2024-02-09 | 2024-07-19 |
 | [Tingin Mo Ba?](https://open.spotify.com/track/3vZygQHyQ1y2w2UK1XJ2Eh) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Tingin Mo Ba?](https://open.spotify.com/album/0tyo6Aep1cj3Ab9p7p0eIt) | 2:40 | 2024-08-16 |  |
 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 | 2023-10-27 | 2024-02-07 |
+| [tipsy.](https://open.spotify.com/track/3gWDgkjxKK8YwwsaYkaAeI) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc) | [tipsy.](https://open.spotify.com/album/0O0MkoGxGLJq1iUzotkvuc) | 3:46 | 2024-09-27 |  |
 | [TRUTH SERUM](https://open.spotify.com/track/58sBIAQcrTqg2KXUlTlddz) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [TRUTH SERUM](https://open.spotify.com/album/2hbvVzco8KoNHw696LIia5) | 3:22 | 2023-11-03 | 2024-05-04 |
 | [Tulip](https://open.spotify.com/track/52bBI72Y91PaGnCoepZ5x0) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Jen Cee](https://open.spotify.com/artist/5PoQbQpAqs29uohdM1TwBc) | [Tulip](https://open.spotify.com/album/27UAK8r79VwN7i7gl1cesl) | 3:54 | 2024-02-06 |  |
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 |  |

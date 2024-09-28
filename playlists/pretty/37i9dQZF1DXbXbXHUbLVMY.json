@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28336,
+  "num_followers": 28340,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAABjoqe9LIKFV6ww9HULMzQ3",
+  "snapshot_id": "ZvXZYAAAAABlfxGZKbPUO+36OxUCNZgq",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "R\u00c4TT & FEL",
-        "url": "https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE"
-      },
-      "artists": [
-        {
-          "name": "Z.E",
-          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "R\u00c4TT & FEL",
-      "url": "https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 143520,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "R\u00c4TT & FEL",
+        "url": "https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "R\u00c4TT & FEL",
+      "url": "https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Dansar Med Demoner",
+        "url": "https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Oscar Blesson",
+          "url": "https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Dansar Med Demoner",
+      "url": "https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Dansar Med Demoner",
-        "url": "https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5"
-      },
-      "artists": [
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "Oscar Blesson",
-          "url": "https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Dansar Med Demoner",
-      "url": "https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Stikk I Brystet (Deluxe)",
-        "url": "https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA"
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Stikk i Brystet",
-      "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+        "name": "Stikk I Brystet (Deluxe)",
+        "url": "https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+      "duration_ms": 231666,
+      "name": "Stikk i Brystet",
+      "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
     },
     {
       "added_at": "2024-09-26 22:00:00",

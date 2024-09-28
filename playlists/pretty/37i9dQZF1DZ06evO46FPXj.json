@@ -1,12 +1,12 @@
 {
-  "description": "This Is Autechre. Los temas esenciales, todos en una lista.",
-  "num_followers": 7002,
+  "description": "This is Autechre\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 7004,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADtRJTNuo9B9noTNETSHEKD",
+  "snapshot_id": "ZvSkAAAAAADtNX+UgEHfn8QIyJSEkn13",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 81000,
-      "name": "SonDEremawe",
-      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
+      "duration_ms": 183480,
+      "name": "paralel Suns",
+      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 183480,
-      "name": "paralel Suns",
-      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
+      "duration_ms": 81000,
+      "name": "SonDEremawe",
+      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 416933,
-      "name": "VI Scose Poise",
-      "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EPs 1991 - 2002 (Part 2)",
         "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 416933,
+      "name": "VI Scose Poise",
+      "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 409488,
       "name": "Arch Carrier",
       "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 100946,
       "name": "Caliper Remote",
       "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 242899,
       "name": "Fold4,Wrap5",
       "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oversteps",
         "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 277280,
       "name": "see on see",
       "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exai",
+        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "jatevee C",
+      "url": "https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 281026,
       "name": "Bine",
       "url": "https://open.spotify.com/track/3PoWq2JUTFo5JNQbQkWhVU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exai",
-        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "jatevee C",
-      "url": "https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9"
     }
   ],
   "unique_name": "This Is Autechre",

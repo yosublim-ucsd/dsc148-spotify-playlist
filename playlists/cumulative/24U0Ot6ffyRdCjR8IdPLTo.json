@@ -2307,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/4Ki6DqWcTb4Wvhvndn23Xr"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        },
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120624,
+      "name": "inside",
+      "url": "https://open.spotify.com/track/7iHkEL7sNy60szyKI2Y7gO"
+    },
+    {
+      "album": {
         "name": "vert1go vol. 1",
         "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
       },
@@ -3308,6 +3330,24 @@
       "duration_ms": 167230,
       "name": "Noches IntimaXx",
       "url": "https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS"
+    },
+    {
+      "album": {
+        "name": "Not Crying Anymore",
+        "url": "https://open.spotify.com/album/4I9vVAYV94GpjUfhW7pFVp"
+      },
+      "artists": [
+        {
+          "name": "Lulu Simon",
+          "url": "https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237956,
+      "name": "Not Crying Anymore",
+      "url": "https://open.spotify.com/track/79nJ8bVMVNET1k4Z9zVdBJ"
     },
     {
       "album": {

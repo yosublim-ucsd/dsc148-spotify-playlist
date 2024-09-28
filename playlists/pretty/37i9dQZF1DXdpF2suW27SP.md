@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Julinho Ksd entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,003 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,038 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Pinta](https://open.spotify.com/track/0zrKh8JoMcb6qB2taFVIvj) | [Lousada](https://open.spotify.com/artist/3Amx0jG9HTa53On2WQ1UFr), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Pinta](https://open.spotify.com/album/12nSgkexnkXj8M9J3GIjts) | 2:40 |
 | 75 | [MATRIX](https://open.spotify.com/track/3Uj9JaYTnZiKBZEQHn3b41) | [Trinity 3nity](https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR), [Yb No Vision](https://open.spotify.com/artist/3eTcC5IOlcpwh98YUCeTJ6), [Kidy Wime](https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB), [Helcírio](https://open.spotify.com/artist/6fwTiHMUPldAs3pqihBD7H) | [MATRIX](https://open.spotify.com/album/7oougetug8XQJ7Yr238jIa) | 3:42 |
 
-Snapshot ID: `ZvXncAAAAABGmUomcL3HIvmCKl7EWdzT`
+Snapshot ID: `ZvXncAAAAACydXW9c4pp/6HMMEN3Kj1M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY?si=ulA3Bl9ZTJCO2232z1lDfw">CeekaRSA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,378 likes - 55 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,133 likes - 55 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 54 | [Bayazi \(feat\. Mellow & Sleazy, Nobantu Vilakazi, Cowboii\)](https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Bayazi \(feat\. Mellow & Sleazy, Nobantu Vilakazi, Cowboii\)](https://open.spotify.com/album/1e5djIrZtTfyunMxUvGAR1) | 6:20 |
 | 55 | [Xola](https://open.spotify.com/track/1KpHX3zexEHvYTw0dSyfgF) | [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Dot Mega](https://open.spotify.com/artist/0DnvMgwUAfLV06uffraoeJ) | [Xola](https://open.spotify.com/album/6SFID5UAjR9qBt95nxIUZy) | 7:08 |
 
-Snapshot ID: `ZvXncAAAAAB5P8HiWdo4bM9LE2uteJUa`
+Snapshot ID: `ZvXncAAAAAB/Q6Y0PwLKixioraS84aGC`

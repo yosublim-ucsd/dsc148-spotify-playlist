@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,480 likes - 231 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,620 likes - 231 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 230 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
 | 231 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 |
 
-Snapshot ID: `ZvPc/AAAAAATBccOzj1as9wu3X+6jtM+`
+Snapshot ID: `ZvPc/AAAAABn6bxPxr4lb4O7KxRXJ6SW`

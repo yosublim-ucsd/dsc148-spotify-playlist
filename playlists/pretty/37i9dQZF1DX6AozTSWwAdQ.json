@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60783,
+  "num_followers": 60787,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvC9kAAAAABE1G4tMPj8OkG7nKErchMj",
+  "snapshot_id": "ZvC9kAAAAACnumxt0Q0mpzgveXx2l7um",
   "tracks": [
     {
       "added_at": "2024-09-23 01:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-09-23 01:00:00",
       "album": {
-        "name": "No Sound Without Silence",
-        "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
-    },
-    {
-      "added_at": "2024-09-23 01:00:00",
-      "album": {
         "name": "Troubled Waters",
         "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 197775,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2024-09-23 01:00:00",
+      "album": {
+        "name": "No Sound Without Silence",
+        "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
     },
     {
       "added_at": "2024-09-23 01:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-23 01:00:00",
       "album": {
-        "name": "Easy Distraction",
-        "url": "https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Easy Distraction",
-      "url": "https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw"
-    },
-    {
-      "added_at": "2024-09-23 01:00:00",
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-09-23 01:00:00",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "Easy Distraction",
+        "url": "https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+      "duration_ms": 230217,
+      "name": "Easy Distraction",
+      "url": "https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw"
     },
     {
       "added_at": "2024-09-23 01:00:00",
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-09-23 01:00:00",
       "album": {
-        "name": "Fallin\u2019 (Adrenaline)",
-        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 216504,
-      "name": "Fallin\u2019 (Adrenaline)",
-      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": "2024-09-23 01:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 224310,
       "name": "Bobby Sox",
       "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "added_at": "2024-09-23 01:00:00",
+      "album": {
+        "name": "Fallin\u2019 (Adrenaline)",
+        "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 216504,
+      "name": "Fallin\u2019 (Adrenaline)",
+      "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
     },
     {
       "added_at": "2024-09-23 01:00:00",

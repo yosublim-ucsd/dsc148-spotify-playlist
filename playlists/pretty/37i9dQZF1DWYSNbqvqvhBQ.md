@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste en nieuwste liedjes van het moment\. Cover: Davina Michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,764 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,691 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Won't Let Go](https://open.spotify.com/track/1yV7mWA7FqYLxw4LMaeoX6) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [I Won't Let Go](https://open.spotify.com/album/3JrmfauG25tz4C5hmJED64) | 3:43 |
+| 1 | [I Won't Let Go](https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck) | 3:43 |
 | 2 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 3 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 4 | [It's A Man's Man's Man's World \- Live at Montreux Jazz Festival](https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Live at Montreux Jazz Festival](https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx) | 6:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Last Forever](https://open.spotify.com/track/7CjlUOK0YssYdpztbkoTvS) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/15fjrxcOmiF0hwQTf9P8sN) | 3:39 |
 | 60 | [All My Life](https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [All My Life](https://open.spotify.com/album/18L4eOWRTuUuJnTcvIbz6q) | 3:03 |
 
-Snapshot ID: `ZvVzbAAAAADu8WfAT2k9KwHRuYPqs3Y6`
+Snapshot ID: `Zvaa2gAAAADdJ5FZUFHfbx1bJt0wjU8g`

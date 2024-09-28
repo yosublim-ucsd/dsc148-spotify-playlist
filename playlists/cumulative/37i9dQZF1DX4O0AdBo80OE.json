@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Ariande / \u201c14 Besos\u201d",
+        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Ariande / \u201c14 Besos\u201d",
+      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
+    },
+    {
+      "album": {
         "name": "Atrapado en un Sue\u00f1o",
         "url": "https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ"
       },
@@ -826,10 +844,44 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151417,
       "name": "CADA VEZ QUE",
       "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
+    },
+    {
+      "album": {
+        "name": "Capuccino",
+        "url": "https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        },
+        {
+          "name": "Ibzen",
+          "url": "https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283566,
+      "name": "Capuccino",
+      "url": "https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8"
     },
     {
       "album": {
@@ -1362,7 +1414,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 165000,
       "name": "Entre Cales",
       "url": "https://open.spotify.com/track/6zLuA7apELI9k5N0mu86bR"
@@ -1570,7 +1622,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 184000,
       "name": "Gravy",
       "url": "https://open.spotify.com/track/65TMFo0m5namGIsUpNZ1ro"
@@ -2333,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Mi Versi\u00f3n De Ti",
+        "url": "https://open.spotify.com/album/4NasJuZLUWaOJqpYlxqhXS"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179524,
+      "name": "Mi Versi\u00f3n De Ti",
+      "url": "https://open.spotify.com/track/66tvAhNMsIrbIFos4P3VaN"
+    },
+    {
+      "album": {
         "name": "Mis Ojos No Pod\u00edan Ver",
         "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
       },
@@ -2388,7 +2458,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 191116,
       "name": "MPD",
       "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
@@ -3326,6 +3396,28 @@
       "duration_ms": 313600,
       "name": "Qu\u00e9 Onda Mija",
       "url": "https://open.spotify.com/track/4f6cNqzrxR4oRnvJ5sezLl"
+    },
+    {
+      "album": {
+        "name": "RAYBEN CAP 8: NI\u00d1A BUENA",
+        "url": "https://open.spotify.com/album/1erlRqM18ITnueaegtkRLQ"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163090,
+      "name": "RAYBEN CAP 8: NI\u00d1A BUENA",
+      "url": "https://open.spotify.com/track/2Ez8Ql5U4IPMecqM8Iyu69"
     },
     {
       "album": {

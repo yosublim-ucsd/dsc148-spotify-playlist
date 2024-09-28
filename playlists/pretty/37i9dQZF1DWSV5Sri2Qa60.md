@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Memory of Speke
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,712 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,716 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Falling Behind](https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Falling Behind](https://open.spotify.com/album/7dWVkkH0NcD2gE3qNSAPhY) | 2:44 |
 | 50 | [I Always Wish You Were Here \(With Me\)](https://open.spotify.com/track/7Jkgg3tdU7IRaDYi9acimW) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Participation Trophy](https://open.spotify.com/album/6vHzNXHRsDZiVzJTyIZhV2) | 3:33 |
 
-Snapshot ID: `ZuQn9AAAAACt6J4dtZmaY0dhDzXXYpsr`
+Snapshot ID: `ZuQn9AAAAAA/LK60Zns0ljJ4VSnE881M`

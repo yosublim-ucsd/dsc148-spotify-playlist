@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,747 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,767 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [So In Love](https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [So In Love](https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ) | 4:06 |
 | 79 | [Next Move](https://open.spotify.com/track/3NOVJtKOJd801BIBqHHVhK) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Next Move](https://open.spotify.com/album/3vf8aVe4MDzNQhRIhBIghb) | 4:02 |
 
-Snapshot ID: `ZvV28AAAAAC1rcaNP9Nk1JP4ma+EDWIV`
+Snapshot ID: `ZvV28AAAAADGdH95tiriJJBfC6yfYln+`

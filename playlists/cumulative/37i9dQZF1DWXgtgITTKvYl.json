@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of the best recent Prog Rock tracks. Cover: VOLA, Anders Friden",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/0n7JIhVkzmlHnGqaQtFEww"
+      },
+      "artists": [
+        {
+          "name": "Syncatto",
+          "url": "https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163714,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/3E8lH2eXKEItZsuCMMmjm1"
+    },
+    {
+      "album": {
         "name": "Break It All",
         "url": "https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 209773,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz"
@@ -780,6 +798,42 @@
       "duration_ms": 232933,
       "name": "EMINENT SLEAZE",
       "url": "https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ"
+    },
+    {
+      "album": {
+        "name": "Chasms",
+        "url": "https://open.spotify.com/album/37bq1IJGX3gp77Dq8cx9zD"
+      },
+      "artists": [
+        {
+          "name": "Soul Extract",
+          "url": "https://open.spotify.com/artist/1cEPAqNFhmARDe0HgKOD3h"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Entangled",
+      "url": "https://open.spotify.com/track/5FCpN8T0ibPP5aSIFfHRcp"
+    },
+    {
+      "album": {
+        "name": "Guitarscape",
+        "url": "https://open.spotify.com/album/2rodhwmgCYLbzSZksjbjCQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Howe",
+          "url": "https://open.spotify.com/artist/6W7XIO8Ua1RIisnSf0QIoI"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/1qPgT94mliL88XOww1hpjM"
     },
     {
       "album": {
@@ -1349,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "In the Shadows",
+        "url": "https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy"
+      },
+      "artists": [
+        {
+          "name": "Venamoris",
+          "url": "https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf"
+    },
+    {
+      "album": {
         "name": "Deloused in the Comatorium",
         "url": "https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89"
       },
@@ -1400,7 +1476,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 300181,
       "name": "It's Only Smiles - Acoustic",
       "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
@@ -1422,6 +1498,24 @@
       "duration_ms": 256890,
       "name": "Jainism",
       "url": "https://open.spotify.com/track/7o3rmtT5FdBISM6L3I9wTn"
+    },
+    {
+      "album": {
+        "name": "Has Anyone Here Seen Siegfried? - Remastered 2024",
+        "url": "https://open.spotify.com/album/578IZubZHf7j1HGiMH4W83"
+      },
+      "artists": [
+        {
+          "name": "Pavlov's Dog",
+          "url": "https://open.spotify.com/artist/3ZTpSMKKljfomqVgeJGwDL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Julia - David Surkamp Acoustic Version 2007 [Remastered]",
+      "url": "https://open.spotify.com/track/1iuiALZQQohm9Xgxn0LOPs"
     },
     {
       "album": {
@@ -2070,7 +2164,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 277586,
       "name": "Revel in Time",
       "url": "https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1"
@@ -2712,7 +2806,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 300333,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/6LIIqVZuBG7FjZiQfLJTfz"
@@ -2874,7 +2968,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 439874,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/4EYrwXmCcnCw9bRuFrK21W"
@@ -2986,7 +3080,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 233573,
       "name": "The Way Out",
       "url": "https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3"
@@ -3083,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Ocean Without A Shore",
+        "url": "https://open.spotify.com/album/4cFRMe9xsqQ47SmaSDklKb"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355241,
+      "name": "Untouchable Part 3",
+      "url": "https://open.spotify.com/track/6s9852tBFBI3DgKB0Wo12y"
+    },
+    {
+      "album": {
         "name": "Pattern Of Rebirth",
         "url": "https://open.spotify.com/album/74lRZTMzPU5XHk6CNEyGF9"
       },
@@ -3102,6 +3214,28 @@
       "duration_ms": 524655,
       "name": "We Who Lament",
       "url": "https://open.spotify.com/track/1QOh6wDKZqUXISc3UKLtEP"
+    },
+    {
+      "album": {
+        "name": "Against the Fall of Night",
+        "url": "https://open.spotify.com/album/1dixxA709bADWmK1rxnvug"
+      },
+      "artists": [
+        {
+          "name": "Sungazer",
+          "url": "https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346453,
+      "name": "Whalefall",
+      "url": "https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT"
     },
     {
       "album": {
@@ -3170,7 +3304,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 278652,
       "name": "Zeus in Chains",
       "url": "https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0"

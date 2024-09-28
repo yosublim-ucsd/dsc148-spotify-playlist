@@ -2,7 +2,7 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: envy\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: The Whisperer\)
 
 125 songs - 8 hr 53 min
 

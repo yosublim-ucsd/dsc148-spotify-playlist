@@ -1,13 +1,101 @@
 {
-  "description": "Underground indie rock gems. Cover: Lutalo",
-  "num_followers": 297121,
+  "description": "Underground indie rock gems. Cover: Christian Lee Hutson",
+  "num_followers": 297149,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAABzhwf6TNQFaN8MvO8efTPx",
+  "snapshot_id": "ZvYtwAAAAABiPp45zqG8Ogq8s6D+Yc5u",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 276946,
+      "name": "Carousel Horses",
+      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Feats of Engineering",
+        "url": "https://open.spotify.com/album/4diLNWTOBZPkqQsRYLgMxj"
+      },
+      "artists": [
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Mega",
+      "url": "https://open.spotify.com/track/5aFU5EnCiNyBhvZVdS1HLE"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Get a Life",
+        "url": "https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "duration_ms": 209922,
+      "name": "Get a Life",
+      "url": "https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/14JBamalIC4mq2Yy2oTlLT"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        },
+        {
+          "name": "$quib",
+          "url": "https://open.spotify.com/artist/2bvw5ZYK1LmNAikReUhJOc"
+        }
+      ],
+      "duration_ms": 124394,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/27sdas88SxiFN0UkYtTgR5"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 249761,
+      "name": "Circle Games",
+      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -23,6 +111,150 @@
       "duration_ms": 138133,
       "name": "Ganon",
       "url": "https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 252437,
+      "name": "Foolish and Fast",
+      "url": "https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Colonel",
+        "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "duration_ms": 161389,
+      "name": "Colonel",
+      "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 287226,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5xF5jZmbGJo9d4laWMwpox"
+      },
+      "artists": [
+        {
+          "name": "skirts",
+          "url": "https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3KHoIo3Kq71se6ZrGmOAnY"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Giving Away An Inch Of",
+        "url": "https://open.spotify.com/album/2K61FiQJBUKQQBSgDbjoLb"
+      },
+      "artists": [
+        {
+          "name": "Silverbacks",
+          "url": "https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4"
+        }
+      ],
+      "duration_ms": 177348,
+      "name": "Giving Away An Inch Of",
+      "url": "https://open.spotify.com/track/2Hfrhwr4oWrPAZLGcLd3lI"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Lie In the Gutter",
+      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Don't Fall Back So Easily",
+        "url": "https://open.spotify.com/album/7MJV57idD9vzzzwiiU98eU"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 190609,
+      "name": "Don't Fall Back So Easily",
+      "url": "https://open.spotify.com/track/0ThdoKmComU8pjuODaOxhH"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -57,38 +289,6 @@
       "url": "https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Crow",
-        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 209695,
-      "name": "Crow",
-      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 287226,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Ghost",
@@ -119,38 +319,6 @@
       "duration_ms": 264889,
       "name": "Anything For You",
       "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "One Trick Pony",
-        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "One Trick Pony",
-      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
     },
     {
       "added_at": "2024-09-13 04:01:00",

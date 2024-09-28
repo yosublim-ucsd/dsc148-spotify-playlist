@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 266866,
       "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
       "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
@@ -7070,6 +7070,24 @@
       "duration_ms": 251604,
       "name": "Slick - radio single",
       "url": "https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3"
     },
     {
       "album": {

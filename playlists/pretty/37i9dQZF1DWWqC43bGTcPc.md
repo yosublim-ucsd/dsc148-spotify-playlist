@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華 \(Hua Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,478 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,531 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [海陸風](https://open.spotify.com/track/1zwmRGkYuhJtfJKeK5bYwM) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [海陸風](https://open.spotify.com/album/2RvVTkObTRMs5bhoiwXNGS) | 4:45 |
 | 50 | [最后一页 \- Live](https://open.spotify.com/track/0ahuxmprOO8tfKpG5Sgkt2) | [王赫野](https://open.spotify.com/artist/2sAy0e2cL6jbo0ukxlxWNJ), [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL) | [天赐的声音第五季 第1期 \(Live\)](https://open.spotify.com/album/0915EFjJnl3w6S1XuRrmIG) | 4:40 |
 
-Snapshot ID: `ZvGQgAAAAADn45+AEyp2uHycNcft9d+c`
+Snapshot ID: `ZvGQgAAAAADj1C+ct9dyTCmbCSg8kGrD`

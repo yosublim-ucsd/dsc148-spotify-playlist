@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-980 songs - 2 day 22 hr 22 min
+981 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Distant Light](https://open.spotify.com/track/0mwp6nRewuBh0Nt9MAXGid) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Emergence](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) | 5:33 | 2019-06-22 | 2022-04-21 |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-03-01 | 2024-09-15 |
 | [Diving Birds](https://open.spotify.com/track/6b5Y2qdzMU6X9sK11UXouC) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 5:29 | 2021-07-23 | 2022-04-21 |
-| [Do Androids Dream Part 3 \- Original Mix](https://open.spotify.com/track/11zgbmLoSt0Yd48x13KCPn) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Do Androids Dream EP](https://open.spotify.com/album/2QYzzl1gA6gTyUbBbDi6Ft) | 3:47 | 2019-06-21 |  |
+| [Do Androids Dream Part 3 \- Original Mix](https://open.spotify.com/track/11zgbmLoSt0Yd48x13KCPn) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Do Androids Dream EP](https://open.spotify.com/album/2QYzzl1gA6gTyUbBbDi6Ft) | 3:47 | 2019-06-21 | 2024-09-28 |
 | [Dolphin Spray](https://open.spotify.com/track/2CdQczqbJ5LUe6qKbWY3ty) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dolphin Spray / Static](https://open.spotify.com/album/0kDT4DXD9W0gxu4kljVdeG) | 4:43 | 2024-04-26 | 2024-06-24 |
 | [don't forget to breathe today](https://open.spotify.com/track/46A20vecY2UQ9zXQuSbQa3) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/45rsmhncWE31vvKIeNYvvj) | 4:07 | 2020-08-26 | 2020-10-22 |
 | [Don't Leave](https://open.spotify.com/track/0STkNvBDD8mFcszWjbGaPA) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:17 | 2019-07-26 | 2020-10-22 |
@@ -844,6 +844,7 @@
 | [The Crab](https://open.spotify.com/track/1UTdsgXAFqyJjEERtaVT8r) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [The Crab](https://open.spotify.com/album/4w4QHtEa8uW6u0nANHjLNi) | 2:45 | 2019-06-19\* | 2020-10-22 |
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
+| [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 |  |
 | [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 | 2024-08-10 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |

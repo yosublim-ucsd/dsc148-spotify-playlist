@@ -2,7 +2,7 @@
 
 ### [This Is Danna Paola](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3grxzg)
 
-> This is Danna Paola\. Todos os maiores hits em uma só playlist.
+> This Is Danna Paola\. Los temas esenciales, todos en una lista.
 
 67 songs - 3 hr 30 min
 

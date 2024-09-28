@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: LISA, ROSAL\u00cdA",
-  "num_followers": 83882,
+  "num_followers": 83873,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuwuYAAAAAAOl/ACQpUT2G/5IfegCzs8",
+  "snapshot_id": "ZuwuYAAAAAARTZ2Rz6wT1xThSdMs1aFs",
   "tracks": [
     {
       "added_at": "2024-09-19 14:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "Dolls",
         "url": "https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "dramatic",
-        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
-      },
-      "artists": [
-        {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "dramatic",
-      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "counting crimes",
         "url": "https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182676,
       "name": "counting crimes",
       "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "dramatic",
+        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "dramatic",
+      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
+        "name": "Mailly",
+        "url": "https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Mailly",
+      "url": "https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
         "name": "The Saint And The Sinner",
         "url": "https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 222375,
       "name": "SALT (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
-        "name": "Mailly",
-        "url": "https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE"
-      },
-      "artists": [
-        {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Mailly",
-      "url": "https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Brad Pitt / Goosebumps",
-        "url": "https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR"
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
       },
       "artists": [
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 181706,
-      "name": "Brad Pitt",
-      "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     }
   ],
   "unique_name": "POP EDGE",

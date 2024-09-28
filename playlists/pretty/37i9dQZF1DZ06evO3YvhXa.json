@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 395872,
+  "num_followers": 395950,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAABQks2WKfONWbTblnIfvjn5",
+  "snapshot_id": "ZvSkAAAAAAAuXGZjmN65/6Wime/jBWQ4",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 349813,
-      "name": "Didjital Vibrations - Remastered 2013",
-      "url": "https://open.spotify.com/track/1a41Lzm8rtNJhQvOuS6RnN"
+      "duration_ms": 245573,
+      "name": "Goodbye To My Dancer",
+      "url": "https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 245573,
-      "name": "Goodbye To My Dancer",
-      "url": "https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK"
+      "duration_ms": 349813,
+      "name": "Didjital Vibrations - Remastered 2013",
+      "url": "https://open.spotify.com/track/1a41Lzm8rtNJhQvOuS6RnN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-176 songs - 10 hr 52 min
+177 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Geen Kind Meer](https://open.spotify.com/track/50icYQNGHdT8wLoIbMEpix) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/2BXUEUcVn8LbeQRh18aQfY) | 4:23 | 2023-10-12 | 2024-04-19 |
 | [Geen Sorry](https://open.spotify.com/track/3BMITetzGUWczLKsSf56Lb) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Geen Sorry](https://open.spotify.com/album/1MitPYDJbnyboKq21vLTby) | 3:09 | 2023-02-10 | 2024-09-27 |
 | [Heb Het Leven Lief](https://open.spotify.com/track/1A1GsoCvSUMh8Mlgf29eOP) | [NICCI NOVA](https://open.spotify.com/artist/57f3Vu62mKzV3EpyiqvOT4) | [Heb Het Leven Lief](https://open.spotify.com/album/0uSoMJU3QhZXTdqE7o1ILE) | 4:51 | 2023-02-10 | 2023-09-09 |
+| [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 | 2024-09-27 |  |
 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 | 2024-04-18 |  |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 | 2024-04-19 |
 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 |  |
@@ -173,7 +174,7 @@
 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 | 2024-07-18 | 2024-09-27 |
 | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/0Xo7vPmbVFIEgcyMHNH5sa) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm) | 3:45 | 2024-01-25 | 2024-03-08 |
 | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW) | [Henny Thijssen](https://open.spotify.com/artist/71MAww1vIzu0Akrk631fNB) | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/album/63xt6zuAjPG1nn26n7JHSb) | 2:58 | 2024-09-26 |  |
-| [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 | 2023-02-10 |  |
+| [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 | 2023-02-10 | 2024-09-28 |
 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5c22NmaEpqXh2PFzCBDGRJ) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Een Zomer Aan Het Eind Van De Twintigste Eeuw](https://open.spotify.com/album/2cExlOtCjJjz8xuuFobK9g) | 2:41 | 2023-02-10 |  |
 | [Zij Maakt Het Verschil](https://open.spotify.com/track/4ptF2Hvq7PdsDKXV0o7x2M) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:40 | 2023-02-10 | 2024-07-19 |
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/72PEd2qwD5t0p6MIj4i5HG) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Favorieten Expres](https://open.spotify.com/album/3g9av5u7zlnWVHzZe8H05A) | 3:49 | 2023-02-10 | 2023-06-20 |

@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-394 songs - 21 hr 50 min
+395 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-01-19 | 2022-11-21 |
 | [Better Love](https://open.spotify.com/track/3z8Eqq1mKTrYqwJaOPQyuL) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Katie](https://open.spotify.com/album/59Tge7eWAxLOCr5cqPvDHg) | 3:34 | 2021-08-05 | 2022-01-19 |
 | [Betty \(Fake It Till You Make It\)](https://open.spotify.com/track/6ZR1ndajXwoCrjmVmmkgBF) | [Lateshift](https://open.spotify.com/artist/1DCmLEfKCHDUG4ZplWUaQN) | [Betty \(Fake It Till You Make It\)](https://open.spotify.com/album/0eev2GV1vEAVZQfRHMleRT) | 2:06 | 2022-06-24 | 2022-07-02 |
-| [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 |  |
+| [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 | 2024-09-28 |
 | [BIG](https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:36 | 2022-10-14 | 2023-11-05 |
 | [BIG](https://open.spotify.com/track/3mDQ77Q75GikKUBfxcDoCt) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/6vyYj5PBZCQK4IWQnxDZZX) | 3:36 | 2023-09-04 | 2024-04-19 |
 | [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 | 2024-01-12 |  |
@@ -243,6 +243,7 @@
 | [Make Someone Happy](https://open.spotify.com/track/1dCS83iZarLD5pdiSM77P6) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Make Someone Happy](https://open.spotify.com/album/7BKVAdt0Hu9UqHceowEMBP) | 1:47 | 2021-08-05 | 2022-01-17 |
 | [maybe i'm the problem now](https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [maybe i'm the problem now](https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC) | 3:12 | 2023-09-01 |  |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 |  |
+| [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-04-28 | 2024-03-22 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-18 |
 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 |  |

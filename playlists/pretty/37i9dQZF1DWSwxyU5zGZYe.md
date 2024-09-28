@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,845 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,858 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Galliyan \(Unplugged\)](https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP) | [Shraddha Kapoor](https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:14 |
 | 50 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
 
-Snapshot ID: `ZvJ23AAAAAB/bB1l2JVR/OwSIcYnbsrB`
+Snapshot ID: `ZvJ23AAAAACZRNyJkU34tkbASW13EYOq`

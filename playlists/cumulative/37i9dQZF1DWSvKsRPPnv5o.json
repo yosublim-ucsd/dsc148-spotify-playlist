@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 195960,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/2qOOIfzwvUkKNAXS3fIptP"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 154193,
       "name": "Cheddar",
       "url": "https://open.spotify.com/track/0hxAlqXy68JpMyAehKQsdm"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196626,
       "name": "Control",
       "url": "https://open.spotify.com/track/5dfr6JDRNpmOQQibCT3whu"
@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/0dKJmsUf8pgf6HObLA7pDe"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125054,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/5XlTNfXj1MdnrOXyBdRMj6"
+    },
+    {
+      "album": {
         "name": "Daboii Flexin",
         "url": "https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu"
       },
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222360,
       "name": "Details",
       "url": "https://open.spotify.com/track/5aj1MVF2gDS7oKqvYDgwjy"
@@ -6565,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "Before We Party",
+        "url": "https://open.spotify.com/album/27GCBOOnc3L4SzKPDF0nWq"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157174,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/5AjhmlWgwLCghXifBIHvk3"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -8065,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "Hell & Back",
+        "url": "https://open.spotify.com/album/7botdG14MtmZah2wMDh1Rf"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165537,
+      "name": "Hell & Back",
+      "url": "https://open.spotify.com/track/5MeYjJQzooFInileBI8sep"
+    },
+    {
+      "album": {
         "name": "Hell Of A Feeling (feat. LaRussell)",
         "url": "https://open.spotify.com/album/4rOSVfwupNXRyakzIUi765"
       },
@@ -8170,7 +8224,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 111186,
       "name": "High Functioning Pain",
       "url": "https://open.spotify.com/track/6eRVNlTtOEcMzO2dnQTyDf"
@@ -8266,6 +8320,24 @@
       "duration_ms": 135887,
       "name": "Him (feat. Dom Kennedy)",
       "url": "https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ"
+    },
+    {
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/2NJ10xHpcFTFc2oJEhqYUu"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/3rlHUJINS5opvbNgDTF4Y6"
     },
     {
       "album": {
@@ -8764,7 +8836,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 133350,
       "name": "I H8 HOME",
       "url": "https://open.spotify.com/track/07M2C6TrGq5MefwK96sIPX"
@@ -9216,6 +9288,24 @@
       "duration_ms": 166515,
       "name": "Internet Shooter (Remix)",
       "url": "https://open.spotify.com/track/2ZiOGHk2rjvfNUqIUPtR8B"
+    },
+    {
+      "album": {
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
     },
     {
       "album": {
@@ -11170,7 +11260,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162701,
       "name": "Master Delux",
       "url": "https://open.spotify.com/track/4OtvbiIUxzqh6rY1iIbuAq"
@@ -11440,7 +11530,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 203687,
       "name": "Money & Power (feat. Conradfrmdaaves)",
       "url": "https://open.spotify.com/track/4Op31Q43T5wAkJ2d4I36dn"
@@ -14209,6 +14299,24 @@
     },
     {
       "album": {
+        "name": "Poppin\u2019 It",
+        "url": "https://open.spotify.com/album/4Sh5H5C88MvswxwSAYJza2"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "Poppin\u2019 It",
+      "url": "https://open.spotify.com/track/2kJ9xuF6x7gETxNXNTuRiB"
+    },
+    {
+      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa"
       },
@@ -14932,7 +15040,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 144048,
       "name": "RIP SUEDE",
       "url": "https://open.spotify.com/track/0oIJgGKQYukfFx6I72NuGS"
@@ -16142,7 +16250,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 124750,
       "name": "Slide Musik",
       "url": "https://open.spotify.com/track/5hr71colytQOfXomHBG1Eo"
@@ -16610,6 +16718,24 @@
       "duration_ms": 180800,
       "name": "Stand On It (with Future)",
       "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
+    },
+    {
+      "album": {
+        "name": "Before We Party",
+        "url": "https://open.spotify.com/album/27GCBOOnc3L4SzKPDF0nWq"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142346,
+      "name": "Standing On Business",
+      "url": "https://open.spotify.com/track/4fKaJnL9jseJhKolMgIjgE"
     },
     {
       "album": {
@@ -17155,6 +17281,24 @@
     },
     {
       "album": {
+        "name": "SUMN PRETTY",
+        "url": "https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158937,
+      "name": "SUMN PRETTY",
+      "url": "https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
       },
@@ -17654,7 +17798,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 141871,
       "name": "that's it",
       "url": "https://open.spotify.com/track/30UYANbzh1shIq8BjrnSlf"
@@ -18264,7 +18408,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 163695,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI"
@@ -19164,6 +19308,24 @@
       "duration_ms": 149677,
       "name": "Wanna Win (feat. 03 Greedo)",
       "url": "https://open.spotify.com/track/4E1u837bZx5Oqg0KqMtxoI"
+    },
+    {
+      "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168904,
+      "name": "Want You To Know",
+      "url": "https://open.spotify.com/track/6IVLiauRmCuD8m3po0iIgN"
     },
     {
       "album": {

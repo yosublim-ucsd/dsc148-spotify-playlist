@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko \(柯智棠\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,083 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,097 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 59 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 |
 | 60 | [Nothing ever stops me](https://open.spotify.com/track/7IUwvUe5oa4nGu1aXgiyc6) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Nothing ever stops me](https://open.spotify.com/album/7ucQfaR9dGgMgjztL3hOdN) | 4:00 |
 
-Snapshot ID: `ZvWFAAAAAABQssGUbCygRH2AElLKGsbj`
+Snapshot ID: `ZvWFAAAAAAB6iqVQTLGJfX9PpRIIu3MK`

@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 827565,
+  "num_followers": 827628,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZI+1hgAAAACocRqbYRXv78kNcCbm20bS",
+  "snapshot_id": "ZI+1hgAAAACB/DghQ1eq9+M8CI5zd3yy",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 521693,
       "name": "Saturday Love - 12\" Extended Version",
       "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
     },
     {
       "added_at": "2021-04-01 19:37:56",

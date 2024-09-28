@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Django Wagner
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,161 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,192 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 84 | [Jij en Ik met Z'n Twee](https://open.spotify.com/track/6XvkdaXGluguBki0kBkXAK) | [Kobus Engels](https://open.spotify.com/artist/31ceTfWruX9GVw1VjR30ke) | [Jij en Ik met Z'n Twee](https://open.spotify.com/album/5jLjAsfGPHT6XeVPNSAD2E) | 2:56 |
 | 85 | [Vier Het Leven](https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Vier Het Leven](https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM) | 3:20 |
 
-Snapshot ID: `ZvXZYAAAAAA6c6X+7sGsm+1FbQi2+5Yj`
+Snapshot ID: `ZvXZYAAAAACDti6yAIXeE0XuKt6SaCgb`

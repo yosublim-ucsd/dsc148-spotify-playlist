@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,998 likes - 217 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,993 likes - 217 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 216 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
 | 217 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 |
 
-Snapshot ID: `ZuO4/AAAAAAJO/rMDjNPCxBHjWLwIuOe`
+Snapshot ID: `ZuO4/AAAAAC0LxM8pl2Dl9RRPQ02gQ9/`

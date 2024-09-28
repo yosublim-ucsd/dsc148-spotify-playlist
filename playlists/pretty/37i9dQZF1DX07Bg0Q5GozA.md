@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Solomun, Novaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,299 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,351 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [UMPA](https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:32 |
 | 75 | [On Our Side](https://open.spotify.com/track/4vwqDJxQNwdGswNnygVehe) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [On Our Side](https://open.spotify.com/album/0kMmCW614qRHZEGYG27yFZ) | 3:47 |
 
-Snapshot ID: `ZvXZYAAAAADPOS0w+51hhA2B04PyZs7D`
+Snapshot ID: `ZvXZYAAAAAAY+v22OgmM8eC/W4j2sAJ/`

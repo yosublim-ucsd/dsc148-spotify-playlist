@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Bardero$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,415 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,443 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [All Ki Misters](https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [All Ki Misters](https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO) | 3:35 |
 | 100 | [Cuando palidece el Azul](https://open.spotify.com/track/1wOosM1EnKdv7ja2C4ka4g) | [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [Cuando palidece el Azul](https://open.spotify.com/album/3XJG2ytQc2a5cmMnBV1f0t) | 3:06 |
 
-Snapshot ID: `ZuSgegAAAABK8YsAUNF1M0TFG+VWgsnr`
+Snapshot ID: `ZuSgegAAAABTJ23rRIkLJt7hsN3U4XYv`

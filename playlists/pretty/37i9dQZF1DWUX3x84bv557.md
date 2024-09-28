@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,845 likes - 65 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,857 likes - 65 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 64 | [Achterom](https://open.spotify.com/track/5nQXli1o0ryNQL741hvnqt) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Achterom](https://open.spotify.com/album/3gp0RzfmWg56jN0ztJyv4Y) | 2:46 |
 | 65 | [Nog Één Laatste Dans](https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nog Één Laatste Dans](https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0) | 2:51 |
 
-Snapshot ID: `ZvXZYAAAAAA2VVh2SmdGUhccV8Av+wNe`
+Snapshot ID: `ZvXZYAAAAAAESDWm1HOa6dRXn/EjyGIY`

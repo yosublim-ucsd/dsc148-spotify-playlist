@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 331228,
+  "num_followers": 331316,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZogNlgAAAABRmNxLwNcska3Fl0zdnimF",
+  "snapshot_id": "ZogNlgAAAADHhMocBpcIRUA4vaybT4GR",
   "tracks": [
     {
       "added_at": "2024-03-18 17:00:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2024-03-18 17:00:39",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv"
       },
@@ -1655,34 +1671,18 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+        "name": "Outlandos D'Amour (Remastered)",
+        "url": "https://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/4osg3vT6sXv6wNxm9Z6ucQ"
+      "duration_ms": 191500,
+      "name": "Roxanne - Remastered 2003",
+      "url": "https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu"
     }
   ],
   "unique_name": "Wedding Party",

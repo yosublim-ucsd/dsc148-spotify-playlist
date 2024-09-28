@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6oSTtYd3B3OJubFU8mVhHQ">JHart</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498 likes - 43 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510 likes - 43 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 42 | [Basic Rich](https://open.spotify.com/track/71pYVCk6Y2Di0Ogb7UycrE) | [Matias Mora](https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb) | [Basic Rich](https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf) | 2:08 |
 | 43 | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/album/5n6ZV6vOBb1pOmVWJ1MLNj) | 3:40 |
 
-Snapshot ID: `Zs+ANgAAAACVLAOUp1AF5+ECexzHlWmp`
+Snapshot ID: `Zs+ANgAAAAAdz6/lhFbuznHFGqra1g8X`

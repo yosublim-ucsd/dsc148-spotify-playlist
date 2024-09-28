@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
+  "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -2413,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Im gonna come back to",
+      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
+    },
+    {
+      "album": {
         "name": "Picas O Platicas",
         "url": "https://open.spotify.com/album/39FFO8eAxNpI4Da3YJBWW4"
       },
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196018,
       "name": "La Bacha",
       "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 185925,
       "name": "Me Va A Castigar El Se\u00f1or",
       "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 255724,
       "name": "Siente el Movimiento",
       "url": "https://open.spotify.com/track/6bcIZrEIXcHeHpsw0DN8BY"
@@ -5999,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
+      },
+      "artists": [
+        {
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
+    },
+    {
+      "album": {
         "name": "Temerario",
         "url": "https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI"
       },
@@ -6210,6 +6250,28 @@
       "duration_ms": 240157,
       "name": "Traici\u00f3n a la Mejicana",
       "url": "https://open.spotify.com/track/4XRYK2sdrRCcuzHBbN9ziE"
+    },
+    {
+      "album": {
+        "name": "Traka Traka",
+        "url": "https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Los Tulipanes",
+          "url": "https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "Traka Traka",
+      "url": "https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP"
     },
     {
       "album": {

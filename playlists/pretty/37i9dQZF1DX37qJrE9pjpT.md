@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,457 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,462 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Mali Safi](https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Mali Safi](https://open.spotify.com/album/4052FovkK8LYyRyZ6cJ5Rl) | 2:43 |
 | 50 | [POAPOA](https://open.spotify.com/track/7t9u8dRuCHMZMdpgOzqoK2) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [AITER TREY](https://open.spotify.com/artist/0lanR51aZnJ0cVWVwgSamL), [RASONIC](https://open.spotify.com/artist/1LkF6cgkLYEfDzu6rzYR1s), [DEXTEROCKBEAT](https://open.spotify.com/artist/3JZUAaEgBLw59okB4S6PYK) | [POAPOA](https://open.spotify.com/album/5euaFZNfXeBQ9EgyKzcE1E) | 2:38 |
 
-Snapshot ID: `ZsfQxAAAAAD+re+QwgaCmiex8T59I5/u`
+Snapshot ID: `ZsfQxAAAAACHFub5DCH+oobCH6szVlsW`

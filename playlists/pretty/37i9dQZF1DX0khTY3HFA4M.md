@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,450 likes - 450 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,503 likes - 450 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 449 | [Pilot](https://open.spotify.com/track/62oHDKM3OgMcnw7Q9Fyq5M) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Pilot](https://open.spotify.com/album/6RD7OxSnBJGi3hCuYlEsTu) | 1:22 |
 | 450 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 |
 
-Snapshot ID: `ZtFDwAAAAAABYHooQ4nqjXcVR4wzVOVK`
+Snapshot ID: `ZtFDwAAAAABMP1xDncQZsGp+9bJCJxxe`

@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-109 songs - 5 hr 12 min
+110 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [The Other Black Girl \(Main Title Soundtrack Version\)](https://open.spotify.com/track/6BOTlXihQUxlBWI6TuUGhZ) | [EmmoLei Sankofa](https://open.spotify.com/artist/2NSHsfKY7ldsfhtTdkV9id) | [The Other Black Girl \(Original Soundtrack\)](https://open.spotify.com/album/6RDhVFGlWLBF60fOIvgWd8) | 1:02 | 2024-01-05 |  |
 | [The Pull of Death](https://open.spotify.com/track/1fU41Vj9BRZRfTeBt2MEt7) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \- Original Soundtrack](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 3:38 | 2024-02-23 |  |
 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 | 2024-01-05 |  |
+| [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 | 2024-09-27 |  |
 | [They're Not Coming Back](https://open.spotify.com/track/5ukob8KNdazFekkl23mVTI) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [A Small Light \(Original Score\)](https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5) | 2:43 | 2024-01-05 |  |
 | [Till It Hits the Ground](https://open.spotify.com/track/3w190QG6aB6I0uGlVI5zG5) | [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg) | [High Fidelity \(Original Soundtrack\)](https://open.spotify.com/album/0zXA2xmkw5x4iN4Cb3j13P) | 3:06 | 2024-01-05 |  |
 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 | 2024-01-05 |  |

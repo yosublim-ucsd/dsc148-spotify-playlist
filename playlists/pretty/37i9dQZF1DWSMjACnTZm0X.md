@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Smur Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,908 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,918 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [A Collision of Two Worlds 2.0](https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB) | [The Real Prechly](https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [DJ Guti BPM](https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj), [Dj Lux](https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8) | [A Collision of Two Worlds 2.0](https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR) | 3:23 |
 | 50 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 
-Snapshot ID: `Zu0uCQAAAAB6M8hIFHCr7zgNWn7CtjCG`
+Snapshot ID: `Zu0uCQAAAAAR32IQmBtwx97U1EfIzMUf`

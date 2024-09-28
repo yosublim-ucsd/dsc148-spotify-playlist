@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,997 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,038 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 |
 | 40 | [Resign \- 2024](https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Resign \(2024\)](https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS) | 3:42 |
 
-Snapshot ID: `ZvXZYAAAAAAj9Vmc4ev31osxA2rhFy6q`
+Snapshot ID: `ZvXZYAAAAAAqpaHmomB8JyxFNzz6zT5g`

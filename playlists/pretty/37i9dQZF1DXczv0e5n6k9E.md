@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,828 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,826 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [AMOK](https://open.spotify.com/track/59gAdzb3hNuA10KQPzLnql) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [AMOK](https://open.spotify.com/album/1175T7OP5AcTzP9pR2BBrl) | 2:32 |
 | 60 | [TANAPU](https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [TANAPU](https://open.spotify.com/album/4WpSnL7U9neH4E1hQjUask) | 2:28 |
 
-Snapshot ID: `ZvXLUAAAAACkGhBjPFLJ6gzf2CZJHGrr`
+Snapshot ID: `ZvXLUAAAAAAWWHNMh0whyvCDmDbpYAbL`

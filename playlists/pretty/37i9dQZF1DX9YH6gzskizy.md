@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Zaeden
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,135 likes - 61 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,141 likes - 61 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 | 60 | [52](https://open.spotify.com/track/2UJR46ZpnWkMsO43n3wup7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [52](https://open.spotify.com/album/06eYyCAXsUb8lPce8m5Kch) | 2:52 |
 | 61 | [Diamonds](https://open.spotify.com/track/1bGLQeP5eziWWrMWBrHTEE) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:05 |
 
-Snapshot ID: `Zt/kHwAAAADYP16hbgveSaHR/C3qRBxy`
+Snapshot ID: `Zt/kHwAAAADyr1zB60RYI9l+O85SR7em`

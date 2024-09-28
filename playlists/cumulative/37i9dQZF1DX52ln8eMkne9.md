@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-343 songs - 1 day 1 hr 37 min
+344 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Georgia on My Mind](https://open.spotify.com/track/4IbOPxstIn2KbdlWf5xRZ0) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 3:08 | 2021-12-17 | 2023-02-02 |
 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 | 2022-02-18 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2021-12-17 | 2023-01-03 |
-| [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 | 2023-05-30 |  |
+| [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 | 2023-05-30 | 2024-09-28 |
 | [Good Morning Heartache](https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti, Vol\. 2](https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8) | 5:08 | 2023-08-24 | 2024-04-19 |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-22 | 2023-04-27 |
 | [Happy Little Sunshine Beam](https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 4:56 | 2022-08-30 |  |
@@ -226,6 +226,7 @@
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-02-18 | 2024-08-24 |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2022-07-28 | 2024-04-19 |
 | [No Guarantees](https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [No Guarantees](https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z) | 3:08 | 2021-12-17 |  |
+| [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2024-09-27 |  |
 | [Oh My Love](https://open.spotify.com/track/22ckf5hC1cnHnFPY6pxINQ) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Gouache](https://open.spotify.com/album/3rTG744ZZuutEfX65xI88L) | 4:47 | 2022-05-13 | 2022-07-29 |
 | [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-28 | 2022-09-15 |
 | [Ojos Cariñosos](https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 7:44 | 2023-01-17 | 2024-04-19 |

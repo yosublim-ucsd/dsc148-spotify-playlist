@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 266880,
       "name": "Alucin Machin",
       "url": "https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH"
@@ -542,6 +542,28 @@
       "duration_ms": 125402,
       "name": "Andamos Francos",
       "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+    },
+    {
+      "album": {
+        "name": "Solo por hoy",
+        "url": "https://open.spotify.com/album/7DPZxKLKDwdBZwORF6wqos"
+      },
+      "artists": [
+        {
+          "name": "Angel AM",
+          "url": "https://open.spotify.com/artist/3PbkMaItGszkFJBKNhTmZj"
+        },
+        {
+          "name": "Tenaces Records",
+          "url": "https://open.spotify.com/artist/1wIOkcuPaE005AB3FfqM33"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/7GSntGTOSAgRywNPxge12g"
     },
     {
       "album": {
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219002,
       "name": "El LP",
       "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
@@ -1968,10 +1990,28 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 140063,
       "name": "El r\u00e1pido y la muerte",
       "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
+    },
+    {
+      "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
     },
     {
       "album": {
@@ -2551,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/66TROuytXnkK7o0SrzwdS6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cuevas",
+          "url": "https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76551,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/0zAO1LuQOUK8DmbBaDg9UW"
+    },
+    {
+      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -2734,7 +2792,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 252533,
       "name": "La Feria Drogas y Muerte",
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
@@ -2834,6 +2892,24 @@
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+    },
+    {
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "album": {
@@ -3553,6 +3629,28 @@
     },
     {
       "album": {
+        "name": "Misiles",
+        "url": "https://open.spotify.com/album/15KCVT388dg2yJjp2lA1Uv"
+      },
+      "artists": [
+        {
+          "name": "El Burger",
+          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
+        },
+        {
+          "name": "Alan Sdr",
+          "url": "https://open.spotify.com/artist/4WHwVAuDtEVKIREviMhYOB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152223,
+      "name": "Misiles",
+      "url": "https://open.spotify.com/track/2PKQdAwXT4NdCfwYFgeMGT"
+    },
+    {
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -3882,7 +3980,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
@@ -4266,6 +4364,28 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "album": {
+        "name": "Por Si Se Les Olvidaba",
+        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Por Si Se Les Olvidaba",
+      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
     },
     {
       "album": {
@@ -5358,7 +5478,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"

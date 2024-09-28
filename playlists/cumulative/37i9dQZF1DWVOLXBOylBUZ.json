@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Nicki Nicole & LIT killah.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Ryan Castro y Hamilton",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -632,6 +632,28 @@
       "duration_ms": 188693,
       "name": "A Las 12",
       "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
+    },
+    {
+      "album": {
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
       "album": {
@@ -2386,6 +2408,48 @@
       "duration_ms": 147600,
       "name": "Bellaki",
       "url": "https://open.spotify.com/track/4pTCcZUC9axXSx73PeoDsB"
+    },
+    {
+      "album": {
+        "name": "Bellaqueando",
+        "url": "https://open.spotify.com/album/7HFoXn6uPCEaIFBYQvqvi1"
+      },
+      "artists": [
+        {
+          "name": "Samir Guerrero",
+          "url": "https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU"
+        },
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Daizak",
+          "url": "https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252244,
+      "name": "Bellaqueando",
+      "url": "https://open.spotify.com/track/6VzR7rdNug7P1oVxSPp8vk"
     },
     {
       "album": {
@@ -5262,7 +5326,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210785,
       "name": "Cristalina",
       "url": "https://open.spotify.com/track/2ZHNyCDwtKIotmE2mpN8nM"
@@ -6918,7 +6982,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 163902,
       "name": "D\u00edmelo Mike",
       "url": "https://open.spotify.com/track/4d2x3rUeiEbizZOqJdICWs"
@@ -9816,6 +9880,32 @@
       "duration_ms": 204463,
       "name": "HP",
       "url": "https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED"
+    },
+    {
+      "album": {
+        "name": "HULA",
+        "url": "https://open.spotify.com/album/71HVfAoBeTxVaMz9h82CJh"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yexay TMM",
+          "url": "https://open.spotify.com/artist/6W5QFI6K8P7rxXiYW3n4qu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "HULA",
+      "url": "https://open.spotify.com/track/3NPlbFQa7N26HK8mVQF0NG"
     },
     {
       "album": {
@@ -18354,7 +18444,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 145472,
       "name": "SAFARI",
       "url": "https://open.spotify.com/track/5MQrirTlxlBohGx7Pt7TdQ"

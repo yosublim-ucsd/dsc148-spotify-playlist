@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-153 songs - 10 hr 20 min
+154 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 | 2022-05-26 |  |
 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 | 2022-05-26 | 2024-04-19 |
 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 | 2024-01-06 |  |
+| [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/5B9pSYUOuY2CMaLedqpvXI) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:44 | 2024-09-27 |  |
 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 | 2022-05-26 |  |
 | [Manila](https://open.spotify.com/track/74IGeughWZR1GnipPWuKoB) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0aj0Z3Z8NnVg7gmdXKtGNO) | 3:35 | 2023-05-18 | 2024-04-19 |
 | [Manila](https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6) | 3:35 | 2022-05-26 |  |
@@ -152,7 +153,7 @@
 | [โรคแอบชอบ](https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [Super Serious](https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa) | 4:01 | 2022-05-26 | 2024-04-19 |
 | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/track/5iDMOWPzjW8ZgSY5cjqdmM) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/album/3zOMdMTh1BYNMigeo4eQP0) | 4:01 | 2022-05-26 |  |
 | [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 | 2024-01-06 |  |
-| [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 | 2024-01-06 |  |
+| [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 | 2024-01-06 | 2024-09-28 |
 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 | 2024-04-19 |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 |  |

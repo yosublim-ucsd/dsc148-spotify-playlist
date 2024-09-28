@@ -4,10 +4,11 @@
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-173 songs - 8 hr 23 min
+174 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Car Is a Car Is a Car in a Chase](https://open.spotify.com/track/5vftdiiCLdFXGKCEgJeWdX) | [Robbie Wyckoff](https://open.spotify.com/artist/1pz7I6tMYKzl223fIsdY58), [Hamster & Gretel \- Cast](https://open.spotify.com/artist/0mC2pf9u5Hf9sp0EyrdoyO) | [Hamster & Gretel \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/6VXBl4nhJbZsRzHjmPewWp) | 0:58 | 2024-09-27 |  |
 | [A Place for Us](https://open.spotify.com/track/5AQBdNY202RIJWiNP7J2qv) | [Siena Agudong](https://open.spotify.com/artist/1Jcdvx4MUNAR8tvWIZ1O85), [Izabela Rose](https://open.spotify.com/artist/15nXNwsFpoLMltGMBY2gnK) | [A Place for Us](https://open.spotify.com/album/34rLb5xsPjHdyeBNYsyCFS) | 3:04 | 2024-05-22 |  |
 | [Ain't No Other Day \- From "Saturdays"](https://open.spotify.com/track/50CcvNeETl33T67FDBFilv) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Ain't No Other Day \(From "Saturdays"\)](https://open.spotify.com/album/5kJRHKVrYSRjDDaho1rPea) | 2:32 | 2024-05-22 |  |
 | [Alien Invasion \- From "ZOMBIES 3"](https://open.spotify.com/track/3Y8SPdfuEW5h3tWy0lXGnJ) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Alien Invasion \(From "ZOMBIES 3"\)](https://open.spotify.com/album/781StgPJ5xGiyusbYaW7fa) | 4:00 | 2024-05-22 |  |

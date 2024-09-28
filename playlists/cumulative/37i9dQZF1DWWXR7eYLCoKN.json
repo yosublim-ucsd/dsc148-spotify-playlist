@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "De Umbigo a Umbigo",
+        "url": "https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z"
+      },
+      "artists": [
+        {
+          "name": "Yay\u00e1 Massemba",
+          "url": "https://open.spotify.com/artist/4kEjXnpu87qbTgrf3dWTwW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261980,
+      "name": "De Umbigo a Umbigo",
+      "url": "https://open.spotify.com/track/0kq9c7pdY7y1fzDzP3oNBR"
+    },
+    {
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 215250,
       "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
       "url": "https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 272750,
       "name": "Prova dos Nove",
       "url": "https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx"
@@ -1994,6 +2012,24 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
+    },
+    {
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "album": {

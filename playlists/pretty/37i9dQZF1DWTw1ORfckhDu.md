@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa AHTI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,970 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,021 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Saat mut syttyy](https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Saat mut syttyy](https://open.spotify.com/album/6addjV4pmfiesTAAiksaKo) | 2:59 |
 | 50 | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/track/288AqC7SebjSQh5SGa6diI) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Finanssiveli](https://open.spotify.com/artist/1lQle7p1O9Km6lVr98cNsf) | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/album/7G6ZryN0DX8o4Ua8cdjpKJ) | 2:45 |
 
-Snapshot ID: `ZvXLjAAAAADMjy+L3N/Tx06hibZKvANz`
+Snapshot ID: `ZvXLjAAAAAAKEa5uIpcd4ztsKc8sXF5A`

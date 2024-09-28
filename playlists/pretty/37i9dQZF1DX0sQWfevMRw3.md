@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ALLA ÄR VÄLKOMNA TILL RITUALEN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,846 likes - 101 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,873 likes - 101 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 |
 | 101 | [EN GÅNG TILL](https://open.spotify.com/track/2Yx3zbKVkim7W19MWm06Up) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [EN GÅNG TILL](https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A) | 2:21 |
 
-Snapshot ID: `ZvXZYAAAAADKj/Ei4jBcVatUXbnvOXGs`
+Snapshot ID: `ZvXZYAAAAABkdnwp4uQpMl+bH4h3HULi`

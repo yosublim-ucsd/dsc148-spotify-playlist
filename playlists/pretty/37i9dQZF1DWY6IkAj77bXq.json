@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 75198,
+  "num_followers": 75231,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs9IqAAAAABCHbgG2Ynoz+v9ZWi9/tk0",
+  "snapshot_id": "Zs9IqAAAAAAeo9FeNxb7phIjktogrCvW",
   "tracks": [
     {
       "added_at": "2024-08-28 15:56:24",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
-      },
-      "artists": [
-        {
-          "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Nature of Life",
         "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Gentle Nightfall",
-        "url": "https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Gentle Nightfall",
-      "url": "https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Gentle Nightfall",
+        "url": "https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Gentle Nightfall",
+      "url": "https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 144043,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Prieks",
-        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 145524,
-      "name": "Prieks",
-      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Sammram",
         "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 206624,
       "name": "Sammram",
       "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Prieks",
+        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 145524,
+      "name": "Prieks",
+      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
-      },
-      "artists": [
-        {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Sapphire Dunes",
         "url": "https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 220540,
       "name": "Sapphire Dunes",
       "url": "https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Sweet Slumber",
         "url": "https://open.spotify.com/album/1wku6ChN7IUzLY6pR4bKjW"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 236521,
       "name": "Somnolent",
       "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Wondrous",
-        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
-      },
-      "artists": [
-        {
-          "name": "Theodore Brim",
-          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 189272,
       "name": "Niobe",
       "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Wondrous",
+        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
+      },
+      "artists": [
+        {
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
     },
     {
       "added_at": "2024-08-28 15:56:24",

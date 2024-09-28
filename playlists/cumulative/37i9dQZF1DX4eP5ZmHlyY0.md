@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: Number\_i
 
-329 songs - 19 hr 3 min
+330 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Gifted\. \- Orchestra ver.](https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Gifted\. \-Orchestra ver.\-](https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD) | 3:51 | 2024-03-26 | 2024-05-01 |
 | [Girlfriend](https://open.spotify.com/track/7GfzepybK1its9ZO9H9Bqz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Girlfriend](https://open.spotify.com/album/6wmaWic8SNvOknibUnCN6b) | 3:45 | 2024-05-28 | 2024-06-26 |
 | [Girlfriend](https://open.spotify.com/track/5gSD05Y9cZ9gazxgGuyfey) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:18 | 2024-08-22 | 2024-09-18 |
+| [Glitch](https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4) | [BMSG GAIA](https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [Glitch](https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV) | 2:59 | 2024-09-24 |  |
 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-23 | 2024-06-13 |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-02 | 2024-03-13 |
 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 | 2024-03-12 |  |
@@ -134,7 +135,7 @@
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-19 |
 | [Last Forever](https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3) | [Last Forever from BATTLE BOYS](https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn) | [Last Forever](https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9) | 3:33 | 2024-07-30 | 2024-08-23 |
 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 | 2024-02-06 | 2024-05-13 |
-| [Lemon Candy](https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HITCHHIKER \(Special Edition\)](https://open.spotify.com/album/7jraMr9F0Qj67bQ085lNvS) | 3:07 | 2024-05-28 |  |
+| [Lemon Candy](https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HITCHHIKER \(Special Edition\)](https://open.spotify.com/album/7jraMr9F0Qj67bQ085lNvS) | 3:07 | 2024-05-28 | 2024-09-28 |
 | [Lesson Ⅱ](https://open.spotify.com/track/5VAZjE3mpt7Y2Hi5L7YVmH) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Lesson Ⅱ](https://open.spotify.com/album/05vnwKKGA1YDgzUijgJmGs) | 3:24 | 2023-11-23 | 2024-02-14 |
 | [Let Me Kiss U](https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [Let Me Kiss U](https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj) | 2:28 | 2024-07-30 | 2024-09-04 |
 | [Let's Go Crazy](https://open.spotify.com/track/03a7zJD7KAV5h1xanMVaPb) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/4PqYD6bve8Qt0GhJr7evuN) | 2:45 | 2024-05-07 | 2024-06-13 |

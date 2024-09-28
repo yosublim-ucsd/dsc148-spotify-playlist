@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-888 songs - 2 day 3 hr 18 min
+890 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-03 | 2023-08-19 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-26 |  |
 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2021-08-04 | 2022-04-02 |
+| [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 |  |
 | [Happy New Year](https://open.spotify.com/track/5pylf1BFd80ENsoxC0k8g3) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Happy New Year](https://open.spotify.com/album/3EYSRZ16OqZaxApUWmKOAP) | 3:17 | 2022-12-16 | 2023-01-14 |
 | [Hard Act To Follow \(with GoldLink\)](https://open.spotify.com/track/21qqsm07LY7wvsBGwBB1w1) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Hard Act To Follow \(with GoldLink\)](https://open.spotify.com/album/5BcB4thlFcg5P7yQzX2lC6) | 3:15 | 2022-06-10 | 2022-06-18 |
 | [Hard Place \- Single Version](https://open.spotify.com/track/56Rmib5mhCfiaSJqhLgEdW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hard Place](https://open.spotify.com/album/0EaFVtpOZwiLHalJrHAAMf) | 3:30 | 2021-08-04 | 2022-04-02 |
@@ -371,7 +372,7 @@
 | [I Don't Care](https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD) | 3:03 | 2022-09-16 | 2023-04-29 |
 | [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 | 2023-04-07 | 2023-06-24 |
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/0TS3G3xKO8B7guR0WrfxGO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/6YmBn9Xe8Hbt0baBDxCfMF) | 2:52 | 2022-04-01 | 2022-04-20 |
-| [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 | 2024-03-01 |  |
+| [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 | 2024-03-01 | 2024-09-28 |
 | [i don't wanna ruin ur party](https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna ruin ur party](https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m) | 2:22 | 2022-09-30 | 2022-10-08 |
 | [I Don’t Know How To End](https://open.spotify.com/track/24n43FNabatI424TFU39Tr) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Sunday In Heaven](https://open.spotify.com/album/6Xi4qZBRpq328DPysFR6fO) | 4:00 | 2022-10-14 | 2023-05-13 |
 | [I Don’t Wanna See You Try](https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [I Don’t Wanna See You Try](https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB) | 2:43 | 2024-02-23 |  |
@@ -405,7 +406,7 @@
 | [If I Can't Have You](https://open.spotify.com/track/3n5MOB82LKPL14eBEmodTd) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 | 2021-08-05 | 2022-04-16 |
 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2021-08-05 | 2022-07-29 |
 | [If You Killed Somebody](https://open.spotify.com/track/6ZXxjwKpmNWhHy8WiMbzE8) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [If You Killed Somebody](https://open.spotify.com/album/5Py4P6LyK966KPN6wi99V9) | 3:21 | 2024-05-03 |  |
-| [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-01-12 |  |
+| [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-01-12 | 2024-09-28 |
 | [If You Think You've Seen It All](https://open.spotify.com/track/10q5sJ4yF1BWYGsiso3x14) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 4:28 | 2023-06-23 | 2023-11-04 |
 | [If You Think You've Seen It All](https://open.spotify.com/track/6nzegGZ4Y4YQq2dSsbF9R7) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 4:28 | 2023-06-23 | 2024-03-23 |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-05 | 2022-08-27 |
@@ -441,6 +442,7 @@
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2023-01-28 |
 | [Kingdom](https://open.spotify.com/track/2Bt7na3WTuKepNlGw5WM9y) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/2LHeOpeUN55W1hj1YD3azL) | 3:28 | 2022-05-27 | 2022-06-04 |
 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 | 2021-08-04 | 2022-03-31 |
+| [Known You Always](https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray Is Back](https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq) | 3:19 | 2024-09-27 |  |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-06-10 | 2022-06-18 |
 | [Lady in the Darkest Hour](https://open.spotify.com/track/0vx0HNWpitK8Y5L53ZY1C1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lady in the Darkest Hour](https://open.spotify.com/album/7DuLlRk308fbnlPKEDqbUY) | 4:35 | 2022-04-01 | 2022-04-20 |
 | [Lady Like](https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/3l0QTUgr0CKXgpQb9PAdmH) | 3:14 | 2021-08-04 | 2022-04-02 |

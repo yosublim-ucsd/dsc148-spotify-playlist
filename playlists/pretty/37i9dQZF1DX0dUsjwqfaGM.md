@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Vy Vy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,816 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 45 | [SOS](https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 3:40 |
 | 46 | [CUC HINH](https://open.spotify.com/track/6KIbensnme8n5VkCMFJB6O) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [CUC HINH](https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7) | 2:47 |
 
-Snapshot ID: `ZvWAlwAAAADIKFxVkp/gwaj9fRoQZvOo`
+Snapshot ID: `ZvWAlwAAAABxGoEHGMeIsaoK2k4jtsCu`

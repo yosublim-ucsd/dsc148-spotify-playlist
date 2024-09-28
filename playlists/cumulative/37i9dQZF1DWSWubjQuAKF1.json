@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Daniel Godson",
+  "description": "nasze brzmienie \u2728 Cover: the small town kids, Lotta",
   "name": "gen z ",
   "tracks": [
     {
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Ale Boli!",
+        "url": "https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Ale Boli!",
+      "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
+    },
+    {
+      "album": {
         "name": "Ambiwalencje",
         "url": "https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw"
       },
@@ -189,6 +207,28 @@
     },
     {
       "album": {
+        "name": "A\u017c tyle",
+        "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
+      },
+      "artists": [
+        {
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "A\u017c tyle",
+      "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
+    },
+    {
+      "album": {
         "name": "babcia sprzeda\u0142a sie za propozycje fotowoltaiki",
         "url": "https://open.spotify.com/album/7wWJ8WQeKaxi0y2FMhJt1l"
       },
@@ -236,7 +276,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 174985,
       "name": "Bal",
       "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
@@ -796,7 +836,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 179328,
       "name": "Deszczowy lipiec",
       "url": "https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI"
@@ -1024,7 +1064,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172000,
       "name": "fotki",
       "url": "https://open.spotify.com/track/6TA7gJh2nvKnCgIHaxTH2H"
@@ -1248,7 +1288,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 221590,
       "name": "jak to jest?",
       "url": "https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff"
@@ -1587,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "love song sad",
+        "url": "https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "love song sad",
+      "url": "https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp"
+    },
+    {
+      "album": {
         "name": "MADONNA",
         "url": "https://open.spotify.com/album/371FdSJnSsvH685Gc8lfUt"
       },
@@ -1602,7 +1660,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -2286,7 +2344,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 157560,
       "name": "Noc Anio\u0142\u00f3w",
       "url": "https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y"
@@ -2398,6 +2456,28 @@
       "duration_ms": 151875,
       "name": "Ostatni raz",
       "url": "https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z"
+    },
+    {
+      "album": {
+        "name": "paj\u0119cze lilie",
+        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "paj\u0119cze lilie",
+      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
     },
     {
       "album": {
@@ -2592,6 +2672,24 @@
       "duration_ms": 146086,
       "name": "Poszukam",
       "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
+    },
+    {
+      "album": {
+        "name": "Powiedz",
+        "url": "https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Powiedz",
+      "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
     },
     {
       "album": {
@@ -2901,6 +2999,28 @@
     },
     {
       "album": {
+        "name": "spok\u00f3j w ciele",
+        "url": "https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        },
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "spok\u00f3j w ciele",
+      "url": "https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0"
+    },
+    {
+      "album": {
         "name": "STOP!!",
         "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
       },
@@ -2930,7 +3050,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178000,
       "name": "Syriusz Black",
       "url": "https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J"
@@ -3524,6 +3644,28 @@
       "duration_ms": 160173,
       "name": "Wybacz",
       "url": "https://open.spotify.com/track/0uhhM7tSYivThVeEbDRm7N"
+    },
+    {
+      "album": {
+        "name": "w\u0142asnym",
+        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "w\u0142asnym",
+      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
     },
     {
       "album": {

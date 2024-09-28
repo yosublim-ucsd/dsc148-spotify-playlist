@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: shego.
 
-174 songs - 9 hr 8 min
+175 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 | 2024-09-18 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [Los Chavales](https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 3:28 | 2024-06-27 |  |
-| [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 | 2024-07-25 |  |
+| [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 | 2024-07-25 | 2024-09-28 |
 | [MADRID ME ATACA](https://open.spotify.com/track/6GYQTEEmk50F4dGOM033HW) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [MADRID ME ATACA](https://open.spotify.com/album/2T19X7C0k99uOLp4zVmSRJ) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Madrid Nos Pertenece](https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [Madrid Nos Pertenece](https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6) | 3:41 | 2024-06-27 |  |
 | [Mala Vista](https://open.spotify.com/track/5svguBFCLPgdXe0qGhFxSQ) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:27 | 2024-09-05 |  |
@@ -103,6 +103,7 @@
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [Mi fábrica de baile Rock](https://open.spotify.com/track/61qYmqAXyKU0wjgIwxOMUL) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Mi fábrica de baile Rock](https://open.spotify.com/album/0Eqz8IR76mmUbqY3eSSqpQ) | 3:15 | 2024-06-27 |  |
 | [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 | 2024-07-25 | 2024-09-20 |
+| [Misil](https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Misil](https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq) | 2:53 | 2024-09-26 |  |
 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 | 2024-07-11 | 2024-09-20 |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 |  |
 | [Nacho Fernández](https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Nacho Fernández](https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD) | 2:17 | 2024-07-04 | 2024-07-12 |

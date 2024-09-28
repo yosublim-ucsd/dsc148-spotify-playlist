@@ -2,7 +2,7 @@
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. The essential tracks, all in one playlist.
+> This Is Lainey Wilson\. Zásadní skladby, všechny v jednom playlistu.
 
 81 songs - 4 hr 42 min
 

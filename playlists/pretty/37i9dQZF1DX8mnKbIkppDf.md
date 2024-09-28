@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De winnaars en genomineerden van de Edisons Pop 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,451 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,453 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 | 59 | [Everything Went Well](https://open.spotify.com/track/2LI4wNEFa5kgOJCEtDrBpE) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 4:59 |
 | 60 | [Young Hearts](https://open.spotify.com/track/6p3N2P3WGoivn4bukCcWYU) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3Xo9DlWJ7sPf2k9BAtdp3z) | 2:39 |
 
-Snapshot ID: `Zl8+ZQAAAABWLEK6RuMsdsWOsd2CkSeO`
+Snapshot ID: `Zl8+ZQAAAABd9LJgN+rAE4OTj47njzBl`

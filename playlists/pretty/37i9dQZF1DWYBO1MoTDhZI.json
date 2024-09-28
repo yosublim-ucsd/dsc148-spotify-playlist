@@ -1,12 +1,12 @@
 {
   "description": "Just good vibes all day long",
-  "num_followers": 3564909,
+  "num_followers": 3564791,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCMgQAAAAC+IamHa6EKPmy3894rp0c4",
+  "snapshot_id": "ZvYtwAAAAABZaK59Cuz0R4zOXF4PV0YW",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Nu Lova",
+        "url": "https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 202535,
+      "name": "Nu Lova",
+      "url": "https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "High Times: Singles 1992-2006",
@@ -385,20 +401,20 @@
       "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+        "name": "COYOTE",
+        "url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+      "duration_ms": 199058,
+      "name": "TEMPTATIONS",
+      "url": "https://open.spotify.com/track/6mO0APDNwS1d2OYRfkZegK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -483,26 +499,6 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
     },
     {
       "added_at": "2024-08-30 04:00:00",

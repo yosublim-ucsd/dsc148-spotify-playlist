@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30415,
+  "num_followers": 30426,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn39PAAAAADk/VF7BAMRo/9YfX8dCUTc",
+  "snapshot_id": "Zn39PAAAAADutJ9xOgF4vhULJFWbGfQj",
   "tracks": [
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1087,6 +1087,38 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "duration_ms": 146618,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Non mi resta che tacere",
         "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
@@ -1119,22 +1151,6 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
-        }
-      ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1303,26 +1319,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1335,22 +1331,6 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1387,6 +1367,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1399,6 +1395,26 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1427,6 +1443,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Over and again",
         "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
@@ -1451,22 +1483,6 @@
       "duration_ms": 210494,
       "name": "Over and again",
       "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Something In Our Way",
         "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
@@ -1539,22 +1571,6 @@
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
-      },
-      "artists": [
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "My Songbook",
         "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
       },
@@ -1635,22 +1667,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
-      },
-      "artists": [
-        {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
-        }
-      ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1699,38 +1699,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
       "artists": [
         {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
         }
       ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "La Grandiosa",
-        "url": "https://open.spotify.com/album/2U163GgbFpiqJLRhNdtRyz"
-      },
-      "artists": [
-        {
-          "name": "Rhabdomantic Orchestra",
-          "url": "https://open.spotify.com/artist/5CT3rSQ23HcySrZMGw5mGe"
-        },
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        }
-      ],
-      "duration_ms": 325120,
-      "name": "La Grandiosa (Main Theme)",
-      "url": "https://open.spotify.com/track/5soxhq98p5qWHx3g7Iqyfn"
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1767,6 +1747,42 @@
       "duration_ms": 79041,
       "name": "Generazia",
       "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "La Grandiosa",
+        "url": "https://open.spotify.com/album/2U163GgbFpiqJLRhNdtRyz"
+      },
+      "artists": [
+        {
+          "name": "Rhabdomantic Orchestra",
+          "url": "https://open.spotify.com/artist/5CT3rSQ23HcySrZMGw5mGe"
+        },
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        }
+      ],
+      "duration_ms": 325120,
+      "name": "La Grandiosa (Main Theme)",
+      "url": "https://open.spotify.com/track/5soxhq98p5qWHx3g7Iqyfn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Stefano Di Battista",
+        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+      },
+      "artists": [
+        {
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1811,18 +1827,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+        "name": "Nauplia",
+        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
       },
       "artists": [
         {
-          "name": "Federico Bosio",
-          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+          "name": "Maria Pia De Vito",
+          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
         }
       ],
-      "duration_ms": 146618,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
+      "duration_ms": 248240,
+      "name": "Come un ritratto",
+      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1851,6 +1871,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Facing North",
         "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
       },
@@ -1871,42 +1907,6 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Nauplia",
-        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
-      },
-      "artists": [
-        {
-          "name": "Maria Pia De Vito",
-          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
-        },
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Come un ritratto",
-      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     },
     {
       "added_at": "2024-06-28 00:01:00",

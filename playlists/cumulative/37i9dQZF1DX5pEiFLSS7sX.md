@@ -4,7 +4,7 @@
 
 > Appreciate the many miracles around you with these songs of worship.
 
-275 songs - 1 day 3 hr 14 min
+276 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [When You Walk Into The Room](https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:48 | 2020-09-04 | 2024-04-19 |
 | [When You Walk Into The Room](https://open.spotify.com/track/4lZ59872CRyvLpJ5Y9XwlF) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/1GGrpnyiah82zqsuMaR0qh) | 4:48 | 2020-09-04 | 2022-07-29 |
 | [Wonder \(Live\) \[Spontaneous\]](https://open.spotify.com/track/390Wrd097A2Fa15NzxukHa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg) | 6:31 | 2020-09-04 | 2022-07-28 |
-| [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music\|Amanda Lindsey Cook](https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 | 2020-09-04 |  |
+| [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music\|Amanda Lindsey Cook](https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 | 2020-09-04 | 2024-09-28 |
+| [Wonder of Our God](https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Wonder of Our God](https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC) | 6:02 | 2024-08-03 |  |
 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 | 2024-06-23 |  |
 | [Worthy](https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW) | [Eric Thigpen](https://open.spotify.com/artist/7kIthpyjFRDaVQzt8n4RoR) | [Live with First Love, Vol\. One](https://open.spotify.com/album/47fiA31XOG4wc8z577YY7u) | 5:02 | 2020-09-04 |  |
 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 | 2024-06-23 |  |

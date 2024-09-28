@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,496 likes - 29 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,502 likes - 29 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 28 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 |
 | 29 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 |
 
-Snapshot ID: `ZpCqQAAAAABYp+6ZmRu0R1tCEwdKZXuU`
+Snapshot ID: `ZpCqQAAAAAClu1ye+Yv2SwyLSpfl4Czj`

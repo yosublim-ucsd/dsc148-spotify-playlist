@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Hamster & Gretel (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6VXBl4nhJbZsRzHjmPewWp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wyckoff",
+          "url": "https://open.spotify.com/artist/1pz7I6tMYKzl223fIsdY58"
+        },
+        {
+          "name": "Hamster & Gretel - Cast",
+          "url": "https://open.spotify.com/artist/0mC2pf9u5Hf9sp0EyrdoyO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58858,
+      "name": "A Car Is a Car Is a Car in a Chase",
+      "url": "https://open.spotify.com/track/5vftdiiCLdFXGKCEgJeWdX"
+    },
+    {
+      "album": {
         "name": "A Place for Us",
         "url": "https://open.spotify.com/album/34rLb5xsPjHdyeBNYsyCFS"
       },

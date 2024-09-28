@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=kX2vy80JTAOkTWpOJpoBuQ">Ruhan Du Toit</a>
 
-1,212 songs - 2 day 20 hr 4 min
+1,213 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 | 2023-02-03 |
 | [As die wêreld groter was](https://open.spotify.com/track/2x9ABv2DMU56b6vJUzjcst) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [As die wêreld groter was](https://open.spotify.com/album/4V1D4BeFVFgkkaOXVeOy5j) | 2:59 | 2023-04-13 | 2023-05-26 |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 | 2023-02-17 |
+| [As Ek Kon Kies](https://open.spotify.com/track/0psSavtlTA1rd9aVz7qcSa) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [As Ek Kon Kies](https://open.spotify.com/album/39jp8C2b9X2zW7PmFCmJfw) | 3:51 | 2024-09-27 |  |
 | [As Ek Opstaan](https://open.spotify.com/track/1TNSmK6EDmDIh1v3fj53JS) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [As Ek Opstaan](https://open.spotify.com/album/1mys7jg2amt0xxyfxW0xvK) | 3:50 | 2024-06-13 |  |
 | [As Ek Weg Is](https://open.spotify.com/track/0yvnedUtP3NqWvsdC63um8) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [As Ek Weg Is](https://open.spotify.com/album/29SxOPw362RLJuqHbmoWoo) | 3:27 | 2023-06-22 | 2023-07-28 |
 | [As en Stof](https://open.spotify.com/track/0Ae2cPO8wv6FQneimwNj7v) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [As en Stof](https://open.spotify.com/album/0SLzNEQBLhvdbLZBEoxUUr) | 3:47 | 2023-06-22 | 2023-07-07 |
@@ -453,7 +454,7 @@
 | [Hou My Jonk](https://open.spotify.com/track/0OQjFKQ1B94GqPcvXTc5g6) | [Michael Blignaut](https://open.spotify.com/artist/6BLQ9kFevzysigXiyz4gVM) | [Hou My Jonk](https://open.spotify.com/album/7qUTSPudSuIZWoXmrprI1n) | 3:07 | 2023-11-30 | 2023-12-15 |
 | [Hou My Vas](https://open.spotify.com/track/2VJnU2XlS3UDTjD3abBLuM) | [moya & iona](https://open.spotify.com/artist/4bRAmuTOk13gZtO96lagPI) | [Hou My Vas](https://open.spotify.com/album/6wGtsktb7LfAUSLTdNTQ20) | 3:39 | 2024-02-08 | 2024-02-23 |
 | [Hou My Vas](https://open.spotify.com/track/1ejxcMyaXuWNgdBSHijZug) | [Natasha van der Merwe](https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy) | [Hou My Vas](https://open.spotify.com/album/3W8GSwtBVVnpQgG8R6LqVu) | 3:34 | 2023-02-09 | 2023-02-24 |
-| [Hou My Vas, Stywer Vas \- Remix](https://open.spotify.com/track/2lEfnRceO7c7QPVQ7MPjYA) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G), [David Fourie](https://open.spotify.com/artist/3372wrCwHX44K1vjwiZHoA) | [Hou My Vas, Stywer Vas \(Remix\)](https://open.spotify.com/album/3kE8XOCcd4TpprWgu2Vmq9) | 3:52 | 2024-06-06 |  |
+| [Hou My Vas, Stywer Vas \- Remix](https://open.spotify.com/track/2lEfnRceO7c7QPVQ7MPjYA) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G), [David Fourie](https://open.spotify.com/artist/3372wrCwHX44K1vjwiZHoA) | [Hou My Vas, Stywer Vas \(Remix\)](https://open.spotify.com/album/3kE8XOCcd4TpprWgu2Vmq9) | 3:52 | 2024-06-06 | 2024-09-28 |
 | [Hou Net Vas](https://open.spotify.com/track/5dc4tPt623wzxVNwF4cG9F) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Hou Net Vas](https://open.spotify.com/album/64ZvDO3t2pD8ntzTyBRpgj) | 4:20 | 2023-06-29 | 2023-07-14 |
 | [Hout](https://open.spotify.com/track/4KNYpaPn7MmUvq7YA4r8Gd) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ) | [Hout](https://open.spotify.com/album/5baWSAr3y3L2O5a4N7f7L6) | 3:22 | 2023-08-03 | 2023-08-25 |
 | [Hoëveld](https://open.spotify.com/track/3NlgUGuvdevNcKEvrGNORK) | [Aveer Jogi](https://open.spotify.com/artist/51d7FjIFLirlrFhqN0WTrv) | [Hoëveld](https://open.spotify.com/album/60hUxIZREvMWV5dpF4T1KT) | 3:07 | 2023-12-08 | 2023-12-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Love Next Door\(엄마친구아들\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,460 likes - 102 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,472 likes - 102 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 101 | [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 |
 | 102 | [Fallin'](https://open.spotify.com/track/0sbFehFR6z0DbthqkJivpa) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Queen of Tears \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/0SyCmwQCBbVL647cOkB4VJ) | 4:16 |
 
-Snapshot ID: `ZvE2OAAAAADqdHD5fGBH8TnkcszQJ8M8`
+Snapshot ID: `ZvE2OAAAAABD1Ad7G5zFxvRsTiHOuQzG`

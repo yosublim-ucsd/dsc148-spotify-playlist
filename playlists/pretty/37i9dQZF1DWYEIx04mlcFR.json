@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con GRTSCH en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79436,
+  "num_followers": 79432,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0PYAAAAADGAlO2GW1+NZjFi91oklfc",
+  "snapshot_id": "Zu0PYAAAAACKUaGQgnwpPF9DplZqTwWq",
   "tracks": [
     {
       "added_at": "2024-09-20 06:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Ojal\u00e1 Te Vaya Mal",
-        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Ojal\u00e1 Te Vaya Mal",
-      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "quiero estar contigo",
         "url": "https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Dame Chance (Rayuela)",
+        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "entre las piernas",
         "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 150291,
       "name": "Hechizado",
       "url": "https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Dame Chance (Rayuela)",
-        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "YNQNP",
-        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "YNQNP",
-      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 177826,
       "name": "Desconocernos",
       "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "YNQNP",
+        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "YNQNP",
+      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "AHORA O NUNCA",
-        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+        "name": "Felicidad y Otros Mitos",
+        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 156448,
-      "name": "AHORA O NUNCA",
-      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+      "duration_ms": 201182,
+      "name": "Palabras De Papel (Veneno)",
+      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Felicidad y Otros Mitos",
-        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
+        "name": "AHORA O NUNCA",
+        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 201182,
-      "name": "Palabras De Papel (Veneno)",
-      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
+      "duration_ms": 156448,
+      "name": "AHORA O NUNCA",
+      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
     },
     {
       "added_at": "2024-09-20 06:00:00",

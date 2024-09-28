@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rAnw79EszY.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,987 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,986 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rAnw79EszY.md) - [plain]
 | 49 | [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 |
 | 50 | [Liefde Van M'n Leven](https://open.spotify.com/track/7pEUQRvAxvUcOztUiFbWXk) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Liefde Van M'n Leven](https://open.spotify.com/album/1rAOjybMXbkTuckluphwQS) | 2:56 |
 
-Snapshot ID: `ZWcrgAAAAAABddWpCeoIVcKUaR7tfT+M`
+Snapshot ID: `ZWcrgAAAAAA7Cikg+3qiePlj180F91Wa`

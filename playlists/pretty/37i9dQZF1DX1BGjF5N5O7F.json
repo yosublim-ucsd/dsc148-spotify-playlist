@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 550586,
+  "num_followers": 550567,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zohh1wAAAAAJ0ujMcrLxnSHEPxuwFPMH",
+  "snapshot_id": "Zohh1wAAAAAdrLsHX3vmN0B/EeJrarmS",
   "tracks": [
     {
       "added_at": "2024-07-05 21:12:54",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 207470,
+      "name": "Light a Fire",
+      "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
+    },
+    {
+      "added_at": "2024-07-05 21:12:54",
+      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
-    },
-    {
-      "added_at": "2024-07-05 21:12:54",
-      "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 207470,
-      "name": "Light a Fire",
-      "url": "https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P"
     },
     {
       "added_at": "2024-07-05 21:12:54",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Sometimes Why",
-        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
-      },
-      "artists": [
-        {
-          "name": "Sometymes Why",
-          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
-        }
-      ],
-      "duration_ms": 357773,
-      "name": "Too Repressed - Explicit",
-      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
-    },
-    {
-      "added_at": "2024-07-05 21:12:54",
-      "album": {
         "name": "Til It Breaks",
         "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 201520,
       "name": "Til It Breaks",
       "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
+    },
+    {
+      "added_at": "2024-07-05 21:12:54",
+      "album": {
+        "name": "Sometimes Why",
+        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
+      },
+      "artists": [
+        {
+          "name": "Sometymes Why",
+          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
+        }
+      ],
+      "duration_ms": 357773,
+      "name": "Too Repressed - Explicit",
+      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
     },
     {
       "added_at": "2024-07-05 21:12:54",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "Path of Least Resistance",
+        "url": "https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
+      "duration_ms": 170897,
+      "name": "Path of Least Resistance",
+      "url": "https://open.spotify.com/track/54nZbMoe196usom085LA0X"
     }
   ],
   "unique_name": "intertwined",

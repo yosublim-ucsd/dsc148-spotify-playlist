@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 12278,
+  "num_followers": 12287,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrEGhQAAAABD1UY72N1Ake5K1pdVepUU",
+  "snapshot_id": "ZrEGhQAAAADts6E9mh9hIWrbB04UTp+/",
   "tracks": [
     {
       "added_at": "2024-08-05 17:06:13",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "\uc0ac\ub791\ud574 \uadf8\ub9ac\uace0 \uae30\uc5b5\ud574",
+      "url": "https://open.spotify.com/track/2bN0Tq1vniINc5rinlITKL"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Turtles: 3",
         "url": "https://open.spotify.com/album/4FKzCoNdJFPBDOb4zDDKRA"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 192373,
       "name": "Bingo (ASSA)",
       "url": "https://open.spotify.com/track/4u7owmZCgtCiuzoUYufdnf"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Chapter 4",
-        "url": "https://open.spotify.com/album/03yUw5B1fIbGHBp2FWGQlh"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "\uae38",
-      "url": "https://open.spotify.com/track/7aui07GfHIS7fe1vx0ejzl"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/03yUw5B1fIbGHBp2FWGQlh"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "\uae38",
+      "url": "https://open.spotify.com/track/7aui07GfHIS7fe1vx0ejzl"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 233000,
       "name": "Tell me (feat. \uc5c4\uc815\ud654)",
       "url": "https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Chapter 2",
-        "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "\uc0ac\ub791\ud574 \uadf8\ub9ac\uace0 \uae30\uc5b5\ud574",
-      "url": "https://open.spotify.com/track/2bN0Tq1vniINc5rinlITKL"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\ube44\uc0c1",
         "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 251773,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Let Me Love",
         "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 240653,
       "name": "\ub2e4\uc9d0",
       "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "As the Night Goes On",
-      "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 237165,
       "name": "Passion",
       "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "As the Night Goes On",
+      "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "The Life\u2026 DOC Blues",
-        "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
+        "name": "DJ. DOC 4th Album",
+        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 224840,
-      "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
-      "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
+      "duration_ms": 202318,
+      "name": "Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
-        "url": "https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1"
-      },
-      "artists": [
-        {
-          "name": "\ubc85",
-          "url": "https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq"
-        }
-      ],
-      "duration_ms": 222982,
-      "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
-      "url": "https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Power Bit Techno Space A",
         "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234640,
       "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
+        "url": "https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1"
+      },
+      "artists": [
+        {
+          "name": "\ubc85",
+          "url": "https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq"
+        }
+      ],
+      "duration_ms": 222982,
+      "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
+      "url": "https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL"
     }
   ],
   "unique_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",

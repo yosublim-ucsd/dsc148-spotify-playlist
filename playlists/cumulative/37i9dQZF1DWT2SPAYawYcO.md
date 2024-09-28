@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-5,790 songs - 13 day 1 hr 35 min
+5,793 songs - 13 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-08 | 2024-02-16 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-08-30 |
 | [Bloom](https://open.spotify.com/track/55iJOJkqH5nxjPh9uAh3nI) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf) | [HANDSOME GANG: Every Second We Try](https://open.spotify.com/album/2qXEzsvihC6CHwkHw0qOga) | 3:55 | 2023-06-23 | 2023-06-30 |
+| [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 | 2024-09-27 |  |
 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 | 2023-09-07 | 2023-09-15 |
 | [Blow The Speakers](https://open.spotify.com/track/0wosIPMTDHCig0pl0kgeMc) | [Robbie Mortimer](https://open.spotify.com/artist/3oa0tGFnDuTzsk7dP2qoDj) | [Blow The Speakers](https://open.spotify.com/album/37BE6mAIhvCxp0QaHVOLWw) | 2:40 | 2024-03-21 | 2024-03-29 |
 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 | 2023-06-15 | 2023-06-23 |
@@ -2664,6 +2665,7 @@
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-25 | 2024-08-02 |
 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 | 2023-08-17 | 2023-08-25 |
 | [Is It Ever Gonna Make Sense](https://open.spotify.com/track/7FbLFGKk2OBewYOgCa3cbT) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Is It Ever Gonna Make Sense](https://open.spotify.com/album/0osdCYJ8h3oi96HeQnvc2i) | 3:05 | 2024-07-18 | 2024-07-27 |
+| [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-27 |  |
 | [Is This What I Have Missed?](https://open.spotify.com/track/5KC38Vcyg9ENH5vFXp6Emr) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e), [Sarah Levins](https://open.spotify.com/artist/41vUggffwqhoHiEowUYDV0), [James Tarbotton](https://open.spotify.com/artist/3dVUI8pDbGY5DhtVyNvZJg) | [Is This What I Have Missed?](https://open.spotify.com/album/1Zhpr53VUfT6jq7CQqUSfi) | 4:14 | 2024-04-25 | 2024-05-03 |
 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 | 2024-07-18 | 2024-07-27 |
 | [Island Girl](https://open.spotify.com/track/1BuuMJmzEHBJjgt18lefwg) | [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Island Girl](https://open.spotify.com/album/3j05CspKz9eP75AYsvM0ji) | 2:57 | 2023-09-21 | 2023-09-29 |
@@ -5185,6 +5187,7 @@
 | [Time Will Try](https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Time Will Try](https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs) | 4:18 | 2024-08-29 | 2024-09-06 |
 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-23 | 2023-06-30 |
 | [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-23 | 2023-06-25 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-27 |  |
 | [Timezones](https://open.spotify.com/track/0MWNEeM8S6PnP13xuJet12) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 4:02 | 2024-03-07 | 2024-03-15 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 | 2024-01-26 |
 | [Tip Toes](https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tip Toes](https://open.spotify.com/album/39x0sB7LLilVJ7fchw69GN) | 2:44 | 2023-09-07 | 2023-09-15 |

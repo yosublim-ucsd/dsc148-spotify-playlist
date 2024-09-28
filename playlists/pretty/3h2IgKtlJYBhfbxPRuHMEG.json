@@ -1,13 +1,49 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: NotL\u00f6",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Levity",
   "num_followers": 501,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAECX3/pjcHc1q7TIraNc+2notVDJqY",
+  "snapshot_id": "AAAEEJrlXhplXtWRlS/UWkaeH5tSVXD9",
   "tracks": [
+    {
+      "added_at": "2024-09-27 12:26:37",
+      "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+    },
+    {
+      "added_at": "2024-09-27 12:25:41",
+      "album": {
+        "name": "WARTYPE",
+        "url": "https://open.spotify.com/album/7JZQdnIDCbjzcru5K8KJNk"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "WARTYPE",
+      "url": "https://open.spotify.com/track/51Ao1TuzuVa8lB7aW4ovEe"
+    },
     {
       "added_at": "2024-09-20 18:30:12",
       "album": {
@@ -1947,46 +1983,6 @@
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
-    },
-    {
-      "added_at": "2024-09-20 18:30:12",
-      "album": {
-        "name": "DIFFRENT",
-        "url": "https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "THATSHYM",
-          "url": "https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "DIFFRENT",
-      "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
-    },
-    {
-      "added_at": "2024-09-20 18:30:12",
-      "album": {
-        "name": "When It Rains (feat. BackRoad Gee)",
-        "url": "https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "When It Rains (feat. BackRoad Gee)",
-      "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"
     }
   ],
   "unique_name": "Bass Drop",

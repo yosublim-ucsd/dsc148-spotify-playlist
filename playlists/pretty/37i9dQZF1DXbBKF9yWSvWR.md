@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > For your daily dosis of music with an Indie twist\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,381 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,401 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 69 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 70 | [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 |
 
-Snapshot ID: `ZvGn3wAAAABuLUyRMEHF1JFCJqJt+swS`
+Snapshot ID: `ZvGn3wAAAABqH/SEM6ZHndZq2zMxBtXU`

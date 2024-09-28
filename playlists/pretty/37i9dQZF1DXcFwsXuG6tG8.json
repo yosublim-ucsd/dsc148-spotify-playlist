@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 14544,
+  "num_followers": 14558,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvOcTgAAAACN416osYHzCnna3rYN1aV2",
+  "snapshot_id": "ZvOcTgAAAADwRe3iKV8NHi0PAjB/nk4v",
   "tracks": [
     {
       "added_at": "2024-09-25 05:14:54",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-09-25 05:14:54",
       "album": {
-        "name": "Ruido",
-        "url": "https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Ve y Diles",
-      "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
-    },
-    {
-      "added_at": "2024-09-25 05:14:54",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "added_at": "2024-09-25 05:14:54",
+      "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Ve y Diles",
+      "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
     },
     {
       "added_at": "2024-09-25 05:14:54",

@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 501244,
+  "num_followers": 501235,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAABVKE2IV8qOmH7T++F0gcDX",
+  "snapshot_id": "ZvXZYAAAAAADwW9s2HBrDIErkGyXEJMU",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Sky (Shining Bright)",
+        "url": "https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 170429,
+      "name": "Sky (Shining Bright)",
+      "url": "https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Highly Recommended",
         "url": "https://open.spotify.com/album/7l3DslmV0uxeWut1lpgaNf"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 343413,
       "name": "Highly Recommended",
       "url": "https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Sky (Shining Bright)",
-        "url": "https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 170429,
-      "name": "Sky (Shining Bright)",
-      "url": "https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Easy Baby",
-        "url": "https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw"
+        "name": "Friends Around (Set It Off)",
+        "url": "https://open.spotify.com/album/162dFJsHE63Hs7do2jbTZm"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Mo Selleck",
-          "url": "https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Easy Baby",
-      "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
+      "duration_ms": 155238,
+      "name": "Friends Around (Set It Off)",
+      "url": "https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -855,8 +855,8 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Friends Around (Set It Off)",
-        "url": "https://open.spotify.com/album/162dFJsHE63Hs7do2jbTZm"
+        "name": "Easy Baby",
+        "url": "https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+          "name": "Mo Selleck",
+          "url": "https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa"
         }
       ],
-      "duration_ms": 155238,
-      "name": "Friends Around (Set It Off)",
-      "url": "https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej"
+      "duration_ms": 163500,
+      "name": "Easy Baby",
+      "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Wrong",
         "url": "https://open.spotify.com/album/3y8UGdJcrVulYXU1b8q6Ud"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
       },
       "artists": [
         {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         }
       ],
-      "duration_ms": 204651,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1379,22 +1395,6 @@
       "duration_ms": 175835,
       "name": "House Music - Riva Starr Mo' Disco 2.5 Remix",
       "url": "https://open.spotify.com/track/39b3kw8UDoHDCOuRGFi5QP"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Two Hearts EP",
-        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Two Hearts - Original Mix",
-      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "More Than Friends",
         "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 183475,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Two Hearts EP",
+        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Two Hearts - Original Mix",
+      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/0JShXoABxshoSXM0UKA5d2"
+      },
+      "artists": [
+        {
+          "name": "Seamus Haji",
+          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        }
+      ],
+      "duration_ms": 294243,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/48Ict4mmBJTxBpY5CmpKgC"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Holdin' On To Your Love",
         "url": "https://open.spotify.com/album/3gNb2VWTYTFirglm40iZNY"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 175537,
       "name": "Holdin' On To Your Love",
       "url": "https://open.spotify.com/track/2fEOLXjTPXaf2aULVlymKX"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/0JShXoABxshoSXM0UKA5d2"
-      },
-      "artists": [
-        {
-          "name": "Seamus Haji",
-          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
-        },
-        {
-          "name": "Mike Dunn",
-          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
-        }
-      ],
-      "duration_ms": 294243,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/48Ict4mmBJTxBpY5CmpKgC"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1767,6 +1767,22 @@
       "duration_ms": 166451,
       "name": "Boy (feat. JONES)",
       "url": "https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "We'll Be Dancing",
+        "url": "https://open.spotify.com/album/7gvqhuQRGmqEUdlqyGDXmH"
+      },
+      "artists": [
+        {
+          "name": "Soulchaser",
+          "url": "https://open.spotify.com/artist/1kzRFs7LyMmSf4N7TEObWt"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We'll Be Dancing",
+      "url": "https://open.spotify.com/track/5fxX2h52LgzrdcPfCRQDKs"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 265365,
       "name": "Now Or Never - Gregor Salto Radio Edit",
       "url": "https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "We'll Be Dancing",
-        "url": "https://open.spotify.com/album/7gvqhuQRGmqEUdlqyGDXmH"
-      },
-      "artists": [
-        {
-          "name": "Soulchaser",
-          "url": "https://open.spotify.com/artist/1kzRFs7LyMmSf4N7TEObWt"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We'll Be Dancing",
-      "url": "https://open.spotify.com/track/5fxX2h52LgzrdcPfCRQDKs"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2203,46 +2203,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Que Tal America - Dave Lee Mixes",
-        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
-      },
-      "artists": [
-        {
-          "name": "Dos Hombres Sonido",
-          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Que Tal America - Dave Lee Mix",
-      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "What You Gonna Do",
-        "url": "https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK"
-      },
-      "artists": [
-        {
-          "name": "ELIA",
-          "url": "https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV"
-        },
-        {
-          "name": "Melissa de Kleine",
-          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "What You Gonna Do",
-      "url": "https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Davul (Amine Ben Remix)",
         "url": "https://open.spotify.com/album/37RqMQeADeg92zZzSJwCqJ"
       },
@@ -2259,6 +2219,26 @@
       "duration_ms": 307252,
       "name": "Davul - Amine Ben Remix",
       "url": "https://open.spotify.com/track/4o6Aj3JKI1VmrH4nt6kCwS"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Que Tal America - Dave Lee Mixes",
+        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
+      },
+      "artists": [
+        {
+          "name": "Dos Hombres Sonido",
+          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Que Tal America - Dave Lee Mix",
+      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2299,6 +2279,26 @@
       "duration_ms": 416250,
       "name": "Jazz Funk - Richard Earnshaw Remix",
       "url": "https://open.spotify.com/track/3vVinVsOxZOHe8TGCC6XPA"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "What You Gonna Do",
+        "url": "https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK"
+      },
+      "artists": [
+        {
+          "name": "ELIA",
+          "url": "https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV"
+        },
+        {
+          "name": "Melissa de Kleine",
+          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "What You Gonna Do",
+      "url": "https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr"
     },
     {
       "added_at": "2024-09-26 22:00:00",

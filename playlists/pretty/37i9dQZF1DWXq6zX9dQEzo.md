@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,167 likes - 69 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,238 likes - 69 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 68 | [Keep Going High](https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [God is Iconic](https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp) | 2:13 |
 | 69 | [Technique](https://open.spotify.com/track/0v0Z4a89ervhNOK9IiofkT) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Technique](https://open.spotify.com/album/1b4ugxBznYn1NLwBaaH2Di) | 3:15 |
 
-Snapshot ID: `ZtZ7CwAAAAAi9Junv2aXR7hzt1Tf1D6Y`
+Snapshot ID: `ZtZ7CwAAAACFJDq/YzCExCceeM0YoKpp`

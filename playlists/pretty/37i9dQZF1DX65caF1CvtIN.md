@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,467 likes - 163 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,506 likes - 163 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 162 | [Schouderklopje](https://open.spotify.com/track/75lSZRCyAUovkaOe3r2cdg) | [Bádji](https://open.spotify.com/artist/45BoSxjlYeE9ApOqoiWkNC) | [Schouderklopje](https://open.spotify.com/album/5FXrD9YWeB5uw3lROmynq0) | 2:26 |
 | 163 | [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 |
 
-Snapshot ID: `ZvJ1lQAAAABKYtfgl39jbHY8yU854h0c`
+Snapshot ID: `ZvJ1lQAAAAD/bie0C2D2bqsNmCkBrC4z`

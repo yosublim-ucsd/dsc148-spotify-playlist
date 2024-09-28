@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABg4mbkdDjW7BcatMV+Dk1FGft3TNx2",
+  "snapshot_id": "AABg5aOR6gpSPQkPn4dvet4rcZztuYrA",
   "tracks": [
     {
       "added_at": "2024-09-26 16:54:27",
@@ -243,6 +243,82 @@
       "duration_ms": 225000,
       "name": "Burn For You",
       "url": "https://open.spotify.com/track/3NkKy4vDgQC2QrDbQbOWSH"
+    },
+    {
+      "added_at": "2024-09-27 11:45:13",
+      "album": {
+        "name": "Dark Sides",
+        "url": "https://open.spotify.com/album/2PxqrwZFZ2BeoRU4rURE34"
+      },
+      "artists": [
+        {
+          "name": "Rino Esposito",
+          "url": "https://open.spotify.com/artist/5bpUl3oE6Ju4brOF7cAFuZ"
+        },
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7Exg5XmCo3Es3UphHiJ99H"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Dark Sides",
+      "url": "https://open.spotify.com/track/1Dy3hmS6cqIBnF1hUxs2gf"
+    },
+    {
+      "added_at": "2024-09-27 11:45:13",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3X689HFp3ej5xDl9dCqEGg"
+      },
+      "artists": [
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        },
+        {
+          "name": "MVNA",
+          "url": "https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1hXp0bP954r2Ro0jIyvZGM"
+    },
+    {
+      "added_at": "2024-09-27 11:45:13",
+      "album": {
+        "name": "Calma EP",
+        "url": "https://open.spotify.com/album/7CMGjr5affLP6aUFHwrIM9"
+      },
+      "artists": [
+        {
+          "name": "Lucas Frota",
+          "url": "https://open.spotify.com/artist/1MFVvBHsjqm9aWQhV1bETk"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "duration_ms": 225803,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4UcJN6HJWDMVq6bIcIOUEh"
+    },
+    {
+      "added_at": "2024-09-27 11:45:13",
+      "album": {
+        "name": "Play This Rhythm",
+        "url": "https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA"
+      },
+      "artists": [
+        {
+          "name": "Matt Stone",
+          "url": "https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Play This Rhythm",
+      "url": "https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM"
     },
     {
       "added_at": "2024-09-26 16:54:27",

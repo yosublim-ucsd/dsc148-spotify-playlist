@@ -20453,6 +20453,24 @@
     },
     {
       "album": {
+        "name": "M\u00e5 s\u00e5h\u00e4r",
+        "url": "https://open.spotify.com/album/2OFc0gz8SlOEZIO8VBei1s"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "M\u00e5 s\u00e5h\u00e4r",
+      "url": "https://open.spotify.com/track/7nh46xnPqxm1P89lXoUhbT"
+    },
+    {
+      "album": {
         "name": "M\u00e5la allting svart",
         "url": "https://open.spotify.com/album/5885FOw8vTisb2BnPtdIQG"
       },

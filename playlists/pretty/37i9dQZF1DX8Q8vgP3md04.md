@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,279 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,283 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Weni](https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS) | [Timnit Welday](https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm) | [Weni](https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c) | 4:21 |
 | 60 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 
-Snapshot ID: `ZpD4hAAAAADFq4pU1hpZB41gae0wxy8e`
+Snapshot ID: `ZpD4hAAAAAAsYC5Kjl+rpxHCTjJ97XOP`

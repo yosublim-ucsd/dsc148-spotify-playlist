@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-825 songs - 1 day 23 hr 2 min
+826 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 | 2023-08-20 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-17 |  |
 | [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 | 2024-04-02 |
+| [Nervous System](https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nervous System](https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI) | 3:40 | 2024-09-27 |  |
 | [Nevada \- Sped Up](https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/7eNKd847sotWHdAOKujY43) | 3:04 | 2023-09-08 | 2024-01-11 |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
@@ -717,7 +718,7 @@
 | [The Journey](https://open.spotify.com/track/0WpZ2gPLOUju1uFFlJ2DIZ) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [The Journey](https://open.spotify.com/album/1HIBewAa9FHq2zZoZmmh3X) | 3:29 | 2023-11-07 | 2024-02-21 |
 | [The Law](https://open.spotify.com/track/4FgwI0UIW4Vp71oNB2xB7y) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [The Law](https://open.spotify.com/album/5A624L3aNoTqg6jlMw0B9W) | 3:56 | 2023-09-11 | 2024-01-11 |
 | [The Light \- Flexible Fire Remix](https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [The Light \(The Remixes\)](https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv) | 3:20 | 2022-05-27 | 2022-08-06 |
-| [The Losers Club](https://open.spotify.com/track/0sMRrXb9GyjHtmxVD77mHr) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [The Losers Club](https://open.spotify.com/album/6S1xsAlR55vpgFD21uuPH5) | 3:54 | 2024-07-05 |  |
+| [The Losers Club](https://open.spotify.com/track/0sMRrXb9GyjHtmxVD77mHr) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [The Losers Club](https://open.spotify.com/album/6S1xsAlR55vpgFD21uuPH5) | 3:54 | 2024-07-05 | 2024-09-28 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-12 | 2022-12-10 |
 | [The Magic](https://open.spotify.com/track/5x8zNpwb9BYNIf6fcYTDRt) | [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2), [Tien Viet Nguyen](https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6) | [The Magic](https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs) | 3:35 | 2024-04-16 | 2024-07-06 |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |

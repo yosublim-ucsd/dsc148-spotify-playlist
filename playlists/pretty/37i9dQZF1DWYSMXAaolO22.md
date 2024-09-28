@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 
 > 2022年4月にスタートした、TikTokとSpotifyの共同プログラム<a href="spotify:playlist:37i9dQZF1DXdTxsEGukhp4">「Buzz Tracker」</a>の総まとめ！2023年Buzz Trakcerで再生された楽曲ベスト50!  cover: Lucky Kilimanjaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,676 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,682 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 | 49 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
 | 50 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/1hTReyVBNVvDqssrJMBGyz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 3:35 |
 
-Snapshot ID: `ZWcrvAAAAACu/wIjbCCReHTAgMQylKxN`
+Snapshot ID: `ZWcrvAAAAAAHIjIkslIiU+EJcOsb3i3K`

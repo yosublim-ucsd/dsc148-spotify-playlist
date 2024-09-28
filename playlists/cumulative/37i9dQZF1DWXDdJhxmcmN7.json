@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160224,
       "name": "Although",
       "url": "https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94"
@@ -250,6 +250,24 @@
       "duration_ms": 119741,
       "name": "Areca",
       "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/13vOGnEcZFHQMddMlQoRaI"
+      },
+      "artists": [
+        {
+          "name": "IKAAL",
+          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
     },
     {
       "album": {
@@ -485,6 +503,24 @@
     },
     {
       "album": {
+        "name": "desayunos en solitario",
+        "url": "https://open.spotify.com/album/6EcCHUOUUXpc5tH8CCzLJn"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "caf\u00e9 en la ma\u00f1ana y luz",
+      "url": "https://open.spotify.com/track/7kXFIUFe4pnlqIDiqelLAS"
+    },
+    {
+      "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
       },
@@ -690,6 +726,24 @@
       "duration_ms": 103562,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
+    },
+    {
+      "album": {
+        "name": "Coctel de Camaron",
+        "url": "https://open.spotify.com/album/5hp6kiu1ZtOVboYVKQYHj8"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90750,
+      "name": "Coctel de Camaron",
+      "url": "https://open.spotify.com/track/5smc4AxpEeo8W5UDqktz2a"
     },
     {
       "album": {
@@ -1008,6 +1062,28 @@
       "duration_ms": 115500,
       "name": "El Chavito Triste",
       "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "album": {
+        "name": "El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140411,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
     },
     {
       "album": {
@@ -1592,7 +1668,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 140400,
       "name": "Lluvia de Oro",
       "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
@@ -1888,7 +1964,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 89044,
       "name": "Lofi Recuerdame",
       "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
@@ -2328,7 +2404,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 146406,
       "name": "Not Fun",
       "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
@@ -2419,6 +2495,28 @@
     },
     {
       "album": {
+        "name": "Pepe's Tacos",
+        "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Suerte Lo-Fi",
+          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Pepe's Tacos",
+      "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -2470,7 +2568,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 97093,
       "name": "Poco Amigo",
       "url": "https://open.spotify.com/track/5v2jo7WEmcQ1JGZv785jF1"
@@ -2514,6 +2612,46 @@
       "duration_ms": 173731,
       "name": "Recurring",
       "url": "https://open.spotify.com/track/1H1H7HPy7OfXmV46mdORDa"
+    },
+    {
+      "album": {
+        "name": "renacer",
+        "url": "https://open.spotify.com/album/7ljgi8uX0xkTFnP7ndveoC"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "renacer",
+      "url": "https://open.spotify.com/track/27rmCpslCNfbrZsdDQGmHq"
+    },
+    {
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "album": {
@@ -2898,7 +3036,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 168857,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc"
@@ -3026,7 +3164,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 123711,
       "name": "un lugar tranquilo",
       "url": "https://open.spotify.com/track/0p1FaiQPjtm3OfYNdwCZVw"

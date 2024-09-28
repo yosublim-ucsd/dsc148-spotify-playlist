@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Le meilleur de la scène alternative du moment\. Photo : Liily
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,897 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,891 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Empire Service](https://open.spotify.com/track/1ZjwDwoRZC53PPF8W7W5q9) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Empire Service](https://open.spotify.com/album/0gDqtKhaOvx0hWQEK404xT) | 3:08 |
 | 50 | [Bygones](https://open.spotify.com/track/0jkye0KLXWdmmrsJ4Uld4H) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Hysterical Strength](https://open.spotify.com/album/0TIs1t3CvFQnwS6T7t2dol) | 3:50 |
 
-Snapshot ID: `Zu7uwQAAAADP74Tx0rXrcS2d6SsmWupN`
+Snapshot ID: `Zu7uwQAAAACtTTCdFSg9kBj4jFiQa+C6`

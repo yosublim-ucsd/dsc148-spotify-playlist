@@ -1,12 +1,12 @@
 {
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes.",
-  "num_followers": 416795,
+  "num_followers": 416886,
   "original_name": "Morning Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0i3AAAAAAstjV7UH3Gl0pwxEChcsj4",
+  "snapshot_id": "Zu0i3AAAAADZ2rj5MHCDfVJZ9I66NgtE",
   "tracks": [
     {
       "added_at": "2024-09-20 07:23:08",
@@ -192,12 +192,12 @@
           "url": "https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj"
         },
         {
-          "name": "Glen Turner II",
-          "url": "https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s"
-        },
-        {
           "name": "Coastal",
           "url": "https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj"
+        },
+        {
+          "name": "Glen Turner II",
+          "url": "https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s"
         }
       ],
       "duration_ms": 145281,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Drew Holcomb & The Neighbors",
+  "description": "Keep your finger on the pulse of Americana. Cover: Billy Strings",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -4218,6 +4218,24 @@
       "duration_ms": 184076,
       "name": "Gettin' Rich, Goin' Broke",
       "url": "https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3"
+    },
+    {
+      "album": {
+        "name": "Highway Prayers",
+        "url": "https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305543,
+      "name": "Gild the Lily",
+      "url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
     },
     {
       "album": {
@@ -9816,7 +9834,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201120,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"

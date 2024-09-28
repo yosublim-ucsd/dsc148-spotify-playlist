@@ -40661,6 +40661,28 @@
     },
     {
       "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/3p7qWThejBpUUmUaSkSw1P"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147075,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/5AQyVssLj6Xj5ryPENxntm"
+    },
+    {
+      "album": {
         "name": "Fieber",
         "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl"
       },
@@ -46254,7 +46276,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178758,
       "name": "SIDEQUEST",
       "url": "https://open.spotify.com/track/0NSyzAELrrvNsLrmprwfMA"
@@ -51260,7 +51282,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -51296,7 +51318,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"

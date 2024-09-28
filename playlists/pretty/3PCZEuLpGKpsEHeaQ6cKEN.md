@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Louis III, Armin van Buuren
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Will Clarke
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,925 likes - 218 songs - 11 hr 38 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,920 likes - 218 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 217 | [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 |
 | 218 | [I'm Watching You \(So Many Times\) \- Sean Finn Remix](https://open.spotify.com/track/2ZPQ2SE1XJqP3011ATiLZR) | [Gadjo](https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [I'm Watching You \(So Many Times\) \[Sean Finn Remix\]](https://open.spotify.com/album/4dvANNzZyvdDfh48xsLAyi) | 3:06 |
 
-Snapshot ID: `AADSgqfFz1ZT47gg1bzVeQngzYY18X+5`
+Snapshot ID: `AADSg2Eubb5fl2Tvim1JDNEEaF506/Mt`

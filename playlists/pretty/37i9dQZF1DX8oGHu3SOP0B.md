@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,547 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,554 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [จย้า](https://open.spotify.com/track/1ApKdM13X4TbVuFz43vVUb) | [Aoey Jiratch](https://open.spotify.com/artist/04G536Wv50f36dAfhVzotA) | [จย้า](https://open.spotify.com/album/2wqIjpzUidy4tuhDblXptj) | 3:31 |
 | 50 | [If I Could \(From "Uranus2324"\)](https://open.spotify.com/track/3KRrXW4bHjgmPlqnviWDgB) | [Dena Euprasert](https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb) | [If I Could \(From "Uranus2324"\)](https://open.spotify.com/album/1ESHIo4afNfkcwZMV2GGIl) | 4:21 |
 
-Snapshot ID: `ZtceRgAAAACLqq+LpRuljaQJHRXabL+B`
+Snapshot ID: `ZtceRgAAAACj4rKD1IkT7Ls9/KWl9Meu`

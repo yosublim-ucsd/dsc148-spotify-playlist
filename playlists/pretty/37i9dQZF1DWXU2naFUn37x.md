@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Side Baby in cover della playlist con il top dello street rap italiano 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,636 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,749 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
 | 50 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |
 
-Snapshot ID: `ZvXZnAAAAAD30ADpzyLI+leiihUldSlv`
+Snapshot ID: `ZvXZnAAAAACsa43K3jMahqsz0d4BfFd3`

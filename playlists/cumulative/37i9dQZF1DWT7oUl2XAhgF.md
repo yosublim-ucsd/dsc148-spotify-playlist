@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-463 songs - 1 day 4 hr 0 min
+464 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 | 2022-11-18 | 2023-03-18 |
 | [Always](https://open.spotify.com/track/0K8iQdeJiz7IGIHC56AoLk) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/3JAhlh8qvDgBWQdS62iaiE) | 2:35 | 2022-04-22 | 2023-04-30 |
 | [Always](https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu) | 2:35 | 2022-04-22 | 2023-09-30 |
+| [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 |  |
 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 | 2024-08-02 |  |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
 | [Atlas](https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:47 | 2021-07-09 | 2022-07-30 |
@@ -154,7 +155,7 @@
 | [Heaven](https://open.spotify.com/track/5jXECssVEET9zaFn0s2Ar7) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Heaven](https://open.spotify.com/album/3uKK4Rhb6ILeHIhX2MoBEA) | 3:05 | 2022-04-05 | 2024-03-30 |
 | [Heaven Knows](https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Heaven Knows](https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg) | 3:01 | 2024-05-03 | 2024-06-22 |
 | [Heaven On Earth](https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL) | [Heaven On Earth](https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr) | 2:44 | 2023-11-24 | 2024-04-13 |
-| [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 |  |
+| [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 | 2024-09-28 |
 | [Here We Are \- Instrumental](https://open.spotify.com/track/3ADmuMKzCBkdrI7eJ50Hg0) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [Here We Are](https://open.spotify.com/album/2oqrXHW02bBgBJIMvb6tKL) | 3:02 | 2022-05-06 | 2022-07-29 |
 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 | 2021-12-03 | 2023-07-01 |
 | [hey rose](https://open.spotify.com/track/6VU2EGIiYGVMjaQhIwC5Ys) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [hey rose](https://open.spotify.com/album/3YESJ3NMzAhqek7gV6U5En) | 2:55 | 2021-12-03 | 2022-07-29 |

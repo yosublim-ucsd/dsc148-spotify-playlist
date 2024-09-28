@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-140 songs - 14 hr 15 min
+141 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [If The Lord \- Live](https://open.spotify.com/track/4PPXXVetUvta9rgTWixeS2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [If The Lord \- Live](https://open.spotify.com/album/1ICXz0CX8T7HpU5jtH9QkY) | 6:50 | 2024-08-18 | 2024-09-15 |
 | [In Over My Head \(Crash Over Me\) \- Live](https://open.spotify.com/track/2kDe0QRaCBKIh8QY64GDvK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 4:58 | 2023-03-17 | 2023-05-06 |
 | [Inheritance](https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 3:56 | 2023-03-25 | 2023-08-26 |
-| [Isabelline \(Interlude\)](https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 1:19 | 2024-08-09 |  |
+| [Isabelline \(Interlude\)](https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 1:19 | 2024-08-09 | 2024-09-28 |
 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 | 2023-07-14 | 2024-07-30 |
 | [Isn't He Beautiful](https://open.spotify.com/track/15h37QkTcfXJ3LDeNY92zF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:41 | 2023-03-29 | 2023-03-31 |
 | [It Is Well](https://open.spotify.com/track/3P64GjuojhjHzJshxkWQI4) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 5:13 | 2024-07-14 | 2024-07-17 |
@@ -78,6 +78,7 @@
 | [Lion and the Lamb \- Live](https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 4:40 | 2023-03-17 | 2024-07-29 |
 | [Living Hope](https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Living Hope](https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr) | 6:46 | 2023-03-17 | 2024-07-31 |
 | [Living Hope \(Live\)](https://open.spotify.com/track/2V1yqtTfQ6JCl8eGYxttyL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Living Hope \(Live\)](https://open.spotify.com/album/53eeUnVLjZjKGZZjVIA20q) | 6:46 | 2024-07-31 |  |
+| [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 | 2024-09-28 |  |
 | [Luminosity](https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 4:08 | 2023-12-22 | 2024-07-20 |
 | [Made For More \- Live](https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Made For More](https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV) | 6:25 | 2024-09-15 |  |
 | [Mi Esperanza Está en Jesús \(En Vivo\)](https://open.spotify.com/track/4yE8DVGo9zXET84d8uRp4V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 4:51 | 2024-07-30 | 2024-08-06 |

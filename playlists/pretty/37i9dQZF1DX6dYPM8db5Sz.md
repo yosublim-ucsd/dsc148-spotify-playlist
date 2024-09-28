@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya\_bjVTuWRoQ">Jeremy Loops</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,113 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,114 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 59 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 |
 | 60 | [Under the Moonlight](https://open.spotify.com/track/4sWpiDLECgAtAvxjGe4S3X) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Under the Moonlight](https://open.spotify.com/album/7i8IHLeywcf36PUOmwPwXJ) | 3:56 |
 
-Snapshot ID: `ZuNkYAAAAAAdfK3BuZZwNU5kEfUItkvM`
+Snapshot ID: `ZuNkYAAAAACYiRkRDPnsF3y2vOnhwNSr`

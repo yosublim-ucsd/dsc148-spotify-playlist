@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,312 likes - 84 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,463 likes - 84 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 83 | [You found me \- Live](https://open.spotify.com/track/45JPGqqlfGH0WnGNfx6o1a) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Rejoice Eweama](https://open.spotify.com/artist/7rosDzthN2cvfKH3O9Hokg), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [You found me \(Live\)](https://open.spotify.com/album/0aPgkRpWiYigQo79LPgwZk) | 7:10 |
 | 84 | [Glory to Jesus Forever](https://open.spotify.com/track/3wOuvkjq9UWJGNxGauqgkZ) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Glory to Jesus Forever](https://open.spotify.com/album/1qotccFUotC9CrhD3hnNYj) | 5:51 |
 
-Snapshot ID: `ZvX1vAAAAAAxmzf4USmKehFHeX/rxY7d`
+Snapshot ID: `ZvX1vAAAAAD7ByWXBLsl0kG7zZlB/wXH`

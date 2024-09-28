@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > Noise, Waves, Rain...<br/>a stimulating mix to get your brain into the right flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,272 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,384 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 47 | [Rocking Waves](https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:40 |
 | 48 | [Mild White Noise](https://open.spotify.com/track/2eFije7gUh0N0NcmvHKOVp) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:30 |
 
-Snapshot ID: `ZtGtSAAAAAAldb23k3I8VZYpk/M5nqxT`
+Snapshot ID: `ZtGtSAAAAAD60ek8AVnN8PuStzWNS7aC`

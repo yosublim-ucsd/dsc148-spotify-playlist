@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Bigsam
 
-203 songs - 12 hr 23 min
+205 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [7 PM](https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB) | 2:36 | 2023-09-19 | 2024-04-19 |
 | [7abib Kol Shi Feeki](https://open.spotify.com/track/4QUjiqukl47CkKHwZoResA) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [7abib Kol Shi Feeki](https://open.spotify.com/album/3mPcTn12aUCxPDunDfkbfc) | 3:14 | 2023-08-01 |  |
 | [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 | 2022-09-20 |  |
+| [Ahrub](https://open.spotify.com/track/4BKIEoaNJxqDJMUGP3IYnG) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [Ahrub](https://open.spotify.com/album/6Kyt5OrTmNjA6kBL6AMc7u) | 4:00 | 2024-09-27 |  |
 | [Al Fajer Al Kazeb](https://open.spotify.com/track/75f1DWsH7SzOHQbtURZf0u) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Polylog](https://open.spotify.com/album/68PRVUPTJsIygqpuDKrgXG) | 6:04 | 2021-12-23 | 2023-04-24 |
 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 | 2023-04-23 |  |
 | [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 | 2022-04-16 |
@@ -111,6 +112,7 @@
 | [Mahlaki](https://open.spotify.com/track/6B7zL4ZQzIfNPyNqCmh1Kh) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mahlaki](https://open.spotify.com/album/1w6bOsRP9n1M4FdTlwswiP) | 3:33 | 2021-12-23 | 2022-04-19 |
 | [Makanak Khali](https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Makanak Khali](https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC) | 4:16 | 2023-04-23 |  |
 | [Malak](https://open.spotify.com/track/2ukSDZCN9VCyASZm9yYE6O) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Malak](https://open.spotify.com/album/3wvZjwrCmcqrZriZwILjFf) | 3:22 | 2021-12-23 | 2022-01-07 |
+| [Malek Ya Denia](https://open.spotify.com/track/4zZAu2TTFlUhxL7TpHx0J5) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Malek Ya Denia](https://open.spotify.com/album/5VDBuXrHcccQCA2ykvm8Sa) | 3:18 | 2024-09-27 |  |
 | [Mashi Mashi](https://open.spotify.com/track/0aoXvkBPPz2i7wpQaH0wYC) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [Mashi Mashi](https://open.spotify.com/album/2WDJFaWQTZD6rg2tFFJFij) | 2:45 | 2024-09-12 |  |
 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-10 | 2023-04-24 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2021-12-23 |  |

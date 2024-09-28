@@ -6219,7 +6219,7 @@
     },
     {
       "album": {
-        "name": "I Forgive You - Chromeo Remix (radio edit)",
+        "name": "I Forgive You [(Chromeo Remix) [radio edit]]",
         "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
       },
       "artists": [
@@ -7878,7 +7878,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
@@ -13652,7 +13652,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 179833,
       "name": "Velvet Connection",
       "url": "https://open.spotify.com/track/1dJt5Ax1sdC6ltKFHGgXIQ"

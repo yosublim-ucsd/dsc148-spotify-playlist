@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Junior Rostirola, do podcast Café com Deus Pai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,827 likes - 37 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,867 likes - 37 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 36 | [Lindo Momento](https://open.spotify.com/track/396JT3FtF2kk9lxvLQqEaH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/03BtYAJsxww4O85Z4ic6oe) | 14:53 |
 | 37 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |
 
-Snapshot ID: `Zqu2sgAAAAABpxpnDW2dyF2miouiuJnn`
+Snapshot ID: `Zqu2sgAAAAArjwcT2zvOpxXhCPXEn27Z`

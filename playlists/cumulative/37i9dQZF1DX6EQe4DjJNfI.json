@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bruna Mendez",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 219487,
       "name": "A MEIA NOITE",
       "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 131657,
       "name": "Liga Pra Mim",
       "url": "https://open.spotify.com/track/3kRHNJnuD96X7suUEfQEpa"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 193457,
       "name": "Recado dado",
       "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
@@ -4002,6 +4002,28 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "album": {
@@ -5005,6 +5027,42 @@
     },
     {
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "album": {
+        "name": "Cuz I Feel It",
+        "url": "https://open.spotify.com/album/5ssQTFJaXPzUpFLfe3doD3"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193523,
+      "name": "Uh Baby",
+      "url": "https://open.spotify.com/track/4TFkGwVXA2bSTwjQIbRsy2"
+    },
+    {
+      "album": {
         "name": "Uma Chance Pra Ficar Tudo bem",
         "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
@@ -5162,7 +5220,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
@@ -5278,6 +5336,28 @@
       "duration_ms": 233142,
       "name": "\u00c1gua - Dj Nyack Remix",
       "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
+    },
+    {
+      "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229366,
+      "name": "\u00c1guias e Sereias",
+      "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI"

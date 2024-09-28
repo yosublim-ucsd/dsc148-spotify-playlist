@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Keith Urban",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 156453,
       "name": "Confession",
       "url": "https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM"
@@ -1633,6 +1633,46 @@
     },
     {
       "album": {
+        "name": "Hello Shitty Day",
+        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264456,
+      "name": "Hello Shitty Day",
+      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184450,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH"
       },
@@ -1688,6 +1728,24 @@
       "duration_ms": 207966,
       "name": "Home Less",
       "url": "https://open.spotify.com/track/4E6QysmamTqsumshjlibem"
+    },
+    {
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0pFzbeCV5S5hzUqDBr1R5n"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201577,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4IycbTrlsCtGczSqWQ0M0Y"
     },
     {
       "album": {
@@ -1906,6 +1964,24 @@
       "duration_ms": 267341,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+    },
+    {
+      "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188350,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/4z6dUXoilOKQSwH21Z4MLL"
     },
     {
       "album": {
@@ -2292,7 +2368,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196995,
       "name": "Mind Of A Country Boy",
       "url": "https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi"
@@ -2512,7 +2588,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 193586,
       "name": "New Paint",
       "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
@@ -2664,6 +2740,24 @@
       "duration_ms": 184426,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
+    },
+    {
+      "album": {
+        "name": "Oh Susannah",
+        "url": "https://open.spotify.com/album/5gl1rOU7MUwP8iwtL9lNEs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244286,
+      "name": "Oh Susannah",
+      "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
     },
     {
       "album": {
@@ -2856,7 +2950,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 164264,
       "name": "Park",
       "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
@@ -3739,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Truck Still Works",
+        "url": "https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212954,
+      "name": "Truck Still Works",
+      "url": "https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN"
+    },
+    {
+      "album": {
         "name": "Trucks, Ducks, Bucks & Beer",
         "url": "https://open.spotify.com/album/0ZUnvfZAa49HJeEZOX58vw"
       },
@@ -3822,7 +3934,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 195920,
       "name": "Two Steppin' On The Moon",
       "url": "https://open.spotify.com/track/2DlZPa20qJYVsq1W6VtrCx"
@@ -4320,7 +4432,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"

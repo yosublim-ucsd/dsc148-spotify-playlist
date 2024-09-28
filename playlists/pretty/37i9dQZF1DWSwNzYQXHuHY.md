@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,848 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,845 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 46 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
 | 47 | [Lovely](https://open.spotify.com/track/35XaLOtWkqm2ljA9KiphFk) | [Fleen](https://open.spotify.com/artist/5xV9RrMSLYKLArfYM3Qrjo) | [Lovely](https://open.spotify.com/album/5Lzb2gSAuoJkrORPrAhBG4) | 2:57 |
 | 48 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
-| 49 | [Color me](https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY) | [summer](https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/7nHakKPqirVerK9QHackK7) | 3:11 |
-| 50 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
+| 49 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
+| 50 | [Color me](https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY) | [summer](https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/7nHakKPqirVerK9QHackK7) | 3:11 |
 
-Snapshot ID: `ZuQCiAAAAABylMtWFR48dSEBiv7qV+eC`
+Snapshot ID: `ZuQCiAAAAADyZTby/Dz7xwkoWhUDWYb6`

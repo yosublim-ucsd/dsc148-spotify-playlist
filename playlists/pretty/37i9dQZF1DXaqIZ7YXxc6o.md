@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Mild Minds
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,110 likes - 95 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,135 likes - 95 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 94 | [SO WHAT](https://open.spotify.com/track/2rYv2giHFPi4UDRlNUWh6D) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [SO WHAT](https://open.spotify.com/album/26OBK5ltVNsRhw9EtCtYa1) | 3:15 |
 | 95 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 |
 
-Snapshot ID: `ZvVpHAAAAADlLUQ0foME5KbsLRG2CdbA`
+Snapshot ID: `ZvVpHAAAAADZGbghXSMi3Em0dWCFWFBq`

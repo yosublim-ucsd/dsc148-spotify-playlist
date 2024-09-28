@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 73891,
+  "num_followers": 73907,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrUUJQAAAAAgFZr+mX47WlvMO+jKfVzh",
+  "snapshot_id": "ZrUUJQAAAABN21SFA6lBBbbBJn/6aLN7",
   "tracks": [
     {
       "added_at": "2024-08-08 18:53:25",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Short Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "A Bit Patchy (Remixes)",
-        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "A Bit Patchy",
-      "url": "https://open.spotify.com/track/1wPKUjLrsxEjFvXIo0npn9"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Disco Shoes",
         "url": "https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 341530,
       "name": "Disco Shoes - Electrixx Mix",
       "url": "https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "A Bit Patchy (Remixes)",
+        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "A Bit Patchy",
+      "url": "https://open.spotify.com/track/1wPKUjLrsxEjFvXIo0npn9"
     },
     {
       "added_at": "2024-08-08 18:53:25",

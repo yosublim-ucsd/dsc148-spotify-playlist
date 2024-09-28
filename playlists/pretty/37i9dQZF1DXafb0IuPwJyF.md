@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Mega Shinnosuke
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,754 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,918 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [idiot](https://open.spotify.com/track/7gHr8kI2aN1OvjQv4o2VPg) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [idiot](https://open.spotify.com/album/63IOT3ku8ix5AiypBT4wo7) | 3:57 |
 | 50 | [Hi\-Five](https://open.spotify.com/track/2tInxej0SuDFc5c94x4GBB) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Hi\-Five](https://open.spotify.com/album/4pe4BLnbONwKENMUxzYpq9) | 2:45 |
 
-Snapshot ID: `ZvLT8AAAAABhR99dh0/7ZscRu1oP56sb`
+Snapshot ID: `ZvLT8AAAAACbuZkgVC5ZKzfFc7hO5N1I`

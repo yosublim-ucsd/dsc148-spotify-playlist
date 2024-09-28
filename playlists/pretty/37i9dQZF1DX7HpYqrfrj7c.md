@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,064 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,189 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 77 | [Masta I.C.](https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE), [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [The Natural](https://open.spotify.com/album/6H6rN4w9PdLZrI9Wql5qUC) | 5:50 |
 | 78 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 |
 
-Snapshot ID: `ZuyU6gAAAACyv5vV1bNcM4Gt0//HHvAK`
+Snapshot ID: `ZuyU6gAAAABvWZ+jpNnudxvMTW7hNHTE`

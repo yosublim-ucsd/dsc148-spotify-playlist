@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo\">Lil Tecca</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:6qxpnaukVayrQn6ViNvu9I\">BigXthaPlug</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 202367,
       "name": "40 Mo' Reasons",
       "url": "https://open.spotify.com/track/61siK7W8gG1ixD974Ethya"
@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Bless Ha",
+        "url": "https://open.spotify.com/album/5XXW3MU8TGYKEmZypkdJdB"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140465,
+      "name": "Bless Ha",
+      "url": "https://open.spotify.com/track/2IjCKEB5xErETgu3HPXs07"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
       },
@@ -6641,6 +6659,24 @@
     },
     {
       "album": {
+        "name": "Change Me",
+        "url": "https://open.spotify.com/album/1txETWXrK9UTqnPccT8Dqi"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/4BjEz7HIK0Ja4tsyNj65HV"
+    },
+    {
+      "album": {
         "name": "Change My Wayz",
         "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
       },
@@ -7162,7 +7198,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 254391,
       "name": "Colors (feat. stoneda5th & Mozzy)",
       "url": "https://open.spotify.com/track/4dStHgygFvGVwyFPkJLOZO"
@@ -8341,6 +8377,32 @@
     },
     {
       "album": {
+        "name": "Dead N****s (feat. Polo G & G Herbo)",
+        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195457,
+      "name": "Dead N****s (feat. Polo G & G Herbo)",
+      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -9262,7 +9324,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 161927,
       "name": "Do This For Me",
       "url": "https://open.spotify.com/track/2GOJk7tAcAWeDVglFykoe7"
@@ -10285,6 +10347,28 @@
     },
     {
       "album": {
+        "name": "Throwing Bows",
+        "url": "https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144659,
+      "name": "Ee-er",
+      "url": "https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc"
+    },
+    {
+      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL"
       },
@@ -10856,6 +10940,24 @@
       "duration_ms": 158466,
       "name": "fafo",
       "url": "https://open.spotify.com/track/0tgFHDNf2ZNeY1J90oGbUW"
+    },
+    {
+      "album": {
+        "name": "Fall Fast in Love",
+        "url": "https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172602,
+      "name": "Fall Fast in Love",
+      "url": "https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84"
     },
     {
       "album": {
@@ -11762,7 +11864,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 196152,
       "name": "Flush Em",
       "url": "https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw"
@@ -12554,6 +12656,24 @@
       "duration_ms": 96923,
       "name": "Games",
       "url": "https://open.spotify.com/track/6GUgd5uXPPLzNK94F7zO4Y"
+    },
+    {
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138180,
+      "name": "Gang Baby",
+      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
     },
     {
       "album": {
@@ -14738,7 +14858,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 156071,
       "name": "Head Gone",
       "url": "https://open.spotify.com/track/4tMxdpdgi5thc8LRiMXXSZ"
@@ -15269,6 +15389,24 @@
     },
     {
       "album": {
+        "name": "HIGH RISE",
+        "url": "https://open.spotify.com/album/6B3eUKgLAZYwPw5msRMcaO"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133290,
+      "name": "HIGH RISE",
+      "url": "https://open.spotify.com/track/5zsuDllo1MhhH56DlvS0XC"
+    },
+    {
+      "album": {
         "name": "More Than A Shooter",
         "url": "https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn"
       },
@@ -15794,7 +15932,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182065,
       "name": "How I Grew Up (feat. Polo G)",
       "url": "https://open.spotify.com/track/6ZnOfn9ylrTmC8d3p6FFXy"
@@ -25145,6 +25283,24 @@
     },
     {
       "album": {
+        "name": "On the Map",
+        "url": "https://open.spotify.com/album/48bNvj3bvkvAeD50aBM9cP"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164412,
+      "name": "On the Map",
+      "url": "https://open.spotify.com/track/7B2Ptsx8vOnkj4rk1qSlSm"
+    },
+    {
+      "album": {
         "name": "On Ur Mind",
         "url": "https://open.spotify.com/album/69Hs1zwAwtY141QiMd5zBB"
       },
@@ -25558,7 +25714,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 102047,
       "name": "Opps On Deck",
       "url": "https://open.spotify.com/track/7dyblMWXximkXXAplABuwk"
@@ -26312,6 +26468,24 @@
       "duration_ms": 129688,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
+    },
+    {
+      "album": {
+        "name": "Part Of The Plan + Hold Me Down",
+        "url": "https://open.spotify.com/album/4emkA3xbBqF6gXlA1nAGJF"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140231,
+      "name": "Part Of The Plan",
+      "url": "https://open.spotify.com/track/1g5UopJRkEceGAJX2OEgIX"
     },
     {
       "album": {
@@ -28811,6 +28985,24 @@
     },
     {
       "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144431,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
       },
@@ -29236,7 +29428,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 140766,
       "name": "Ridin Round",
       "url": "https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2"
@@ -29491,6 +29683,24 @@
     },
     {
       "album": {
+        "name": "WORK IN PROGRESS",
+        "url": "https://open.spotify.com/album/1ZPXUQYYgzTHKRGZhLoySu"
+      },
+      "artists": [
+        {
+          "name": "Rockstar Jt",
+          "url": "https://open.spotify.com/artist/0sqFuHEkdOpQy0smz788GW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "ROCK WITH THE MOB",
+      "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
+    },
+    {
+      "album": {
         "name": "rock your hips",
         "url": "https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz"
       },
@@ -29660,7 +29870,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190948,
       "name": "roll da dice",
       "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
@@ -31930,7 +32140,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 135058,
       "name": "SLUT ME OUT 2",
       "url": "https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP"
@@ -34318,7 +34528,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 141871,
       "name": "that's it",
       "url": "https://open.spotify.com/track/30UYANbzh1shIq8BjrnSlf"
@@ -34756,7 +34966,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 187200,
       "name": "They Wanna See Me",
       "url": "https://open.spotify.com/track/239J9xvfJsdmvWMSk3vib5"
@@ -39266,7 +39476,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"

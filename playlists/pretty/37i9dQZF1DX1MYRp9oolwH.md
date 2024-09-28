@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,571 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,595 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Tripuraneni Kalyanachakravarthy](https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh), [Chaitra Ambadipudi](https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/album/39Z2qLJpswMem7z0BnYIsw) | 3:25 |
 | 51 | [Chachhinaa Chaavani Premidi \(From "Sandeham"\)](https://open.spotify.com/track/55DWDSeaID5un3fOFnieJj) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Subhash Anand](https://open.spotify.com/artist/2NP78xB5UtgQ5iXu8lpBip) | [Chachhinaa Chaavani Premidi \(From "Sandeham"\)](https://open.spotify.com/album/7L3xcOnPwJOdYkxqbjQ3TB) | 2:51 |
 
-Snapshot ID: `ZuqtDgAAAACvbvD0Jbf6Le+6fKvG7H0c`
+Snapshot ID: `ZuqtDgAAAAB25TZECXad1XawhP2tUpW1`

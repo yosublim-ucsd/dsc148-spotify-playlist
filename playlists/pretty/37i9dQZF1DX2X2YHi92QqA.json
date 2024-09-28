@@ -1,12 +1,12 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31704,
+  "num_followers": 31725,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtTlAQAAAADLFpKLXfLyAr3lLRvWaR3O",
+  "snapshot_id": "ZtTlAQAAAACPBv1TDAxleXvKScwoO0kg",
   "tracks": [
     {
       "added_at": "2024-09-01 22:04:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 233777,
-      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
-      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
         "url": "https://open.spotify.com/album/6wqVClS3xP3ibboUR1Q9ag"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152835,
       "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
       "url": "https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 233777,
+      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
+      },
+      "artists": [
+        {
+          "name": "Spiv Brativ",
+          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
+        }
+      ],
+      "duration_ms": 210248,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
         "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 126538,
       "name": "Chasing My Happiness",
       "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
-      },
-      "artists": [
-        {
-          "name": "Spiv Brativ",
-          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
-        }
-      ],
-      "duration_ms": 210248,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
-      },
-      "artists": [
-        {
-          "name": "Bahroma",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
         "url": "https://open.spotify.com/album/2BLs5G4LBAleDOpWZwwfQu"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166000,
       "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
+      },
+      "artists": [
+        {
+          "name": "Bahroma",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "Can You Believe",
+        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Can You Believe",
+      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "\u041a\u0440\u043e\u043a",
         "url": "https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 240245,
       "name": "\u041a\u0440\u043e\u043a",
       "url": "https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "Can You Believe",
-        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Can You Believe",
-      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
-      },
-      "artists": [
-        {
-          "name": "Krechet",
-          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
         "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 154903,
       "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
       "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
+      },
+      "artists": [
+        {
+          "name": "Krechet",
+          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
     },
     {
       "added_at": "2024-09-01 22:04:49",

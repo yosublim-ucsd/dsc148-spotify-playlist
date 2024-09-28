@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ Cover: Ottobre
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,518 likes - 95 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,523 likes - 95 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 94 | [KILLER \(feat\. Rose Villain\)](https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 2:37 |
 | 95 | [Lacrime e Cemento](https://open.spotify.com/track/3TbKdrrLM75b7WIdyqGjpI) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 3:22 |
 
-Snapshot ID: `ZvXZnAAAAADYLxXaQcQLSFGhsMsZyzVt`
+Snapshot ID: `ZvXZnAAAAAABfSi0MqR2S+LbChUI73GE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Leina
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,166 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,167 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [ヒカリアウ](https://open.spotify.com/track/6AODTKAEuNgTfMpLTWEYXa) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [ヒカリアウ](https://open.spotify.com/album/5puuEZbC0OZ5LJ5w3dVLms) | 4:00 |
 | 60 | [網戸](https://open.spotify.com/track/4Z5yOq0mPmVmOeavCd5M1x) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [網戸](https://open.spotify.com/album/34XaoSX6mO8Cm1UJ6WQvfR) | 3:31 |
 
-Snapshot ID: `ZvLT8AAAAAAMzD90Z0mvHLcno9J2ZYhh`
+Snapshot ID: `ZvLT8AAAAACj+9vZm8jgbi0raEzLFUjI`

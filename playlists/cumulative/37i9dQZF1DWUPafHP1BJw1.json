@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Cornelia Street - Piano Version",
+        "url": "https://open.spotify.com/album/199F6nPaigfFGTxsHKsrYb"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Piano Covers",
+          "url": "https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294199,
+      "name": "Cornelia Street - Piano Version",
+      "url": "https://open.spotify.com/track/2e7nCrYSMjXI18w0Wj4ugI"
+    },
+    {
+      "album": {
         "name": "Nov\u00f6 Piano",
         "url": "https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM"
       },
@@ -1206,6 +1224,28 @@
     {
       "album": {
         "name": "Espresso",
+        "url": "https://open.spotify.com/album/7ELfx0oBkNrKUznbqj9WBy"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2OjCGfWEUucEtxUICbLtwv"
+    },
+    {
+      "album": {
+        "name": "Espresso",
         "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
       },
       "artists": [
@@ -1415,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "Give Me Everything (Arr. Piano) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        },
+        {
+          "name": "My Little Lullabies",
+          "url": "https://open.spotify.com/artist/1T7on2viSsmYu1BJh9nsQC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213258,
+      "name": "Give Me Everything (Arr. Piano) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/2rDmCIiu0GjN6NB6JkKbJL"
+    },
+    {
+      "album": {
         "name": "Bridgerton Season Three (Covers from the Netflix Series \u2013 Pt. 1)",
         "url": "https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH"
       },
@@ -1614,6 +1676,40 @@
       "duration_ms": 203387,
       "name": "Higher Love (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
       "url": "https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love - from \"Saturday Night Fever\"",
+        "url": "https://open.spotify.com/album/5EdZ7r5mE1gSrtPqvPj52a"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Robin Gibb",
+          "url": "https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV"
+        },
+        {
+          "name": "Maurice Gibb",
+          "url": "https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic"
+        },
+        {
+          "name": "Jean-Michel Bernard",
+          "url": "https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY"
+        },
+        {
+          "name": "Paul Meyer",
+          "url": "https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "How Deep Is Your Love - from \"Saturday Night Fever\"",
+      "url": "https://open.spotify.com/track/2FsOgkX2KYPegtaZJ5pchf"
     },
     {
       "album": {
@@ -2992,6 +3088,24 @@
       "duration_ms": 195517,
       "name": "Shivers - Piano Version",
       "url": "https://open.spotify.com/track/3EfJK2rJtMjGZoIdBrFqh6"
+    },
+    {
+      "album": {
+        "name": "Shut Down (String Quartet Version)",
+        "url": "https://open.spotify.com/album/55LFEajoBG2pQIQFlIxfQ2"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/1wXKu5C1Y4YKGH1D4KEtA3"
     },
     {
       "album": {

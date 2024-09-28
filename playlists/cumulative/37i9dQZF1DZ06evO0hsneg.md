@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 47 min
+54 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alpha Girl \- Array Remix](https://open.spotify.com/track/0ONxHOgJt0q2UIw37WbW0q) | [JRSCK](https://open.spotify.com/artist/5gvWjdRl83QGWMxpbjq1uI), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Xpressionizm](https://open.spotify.com/album/0Gu6vQSTNQAEz8CCvqyMpj) | 6:19 | 2023-08-30 | 2024-09-06 |
 | [bad minah \(feat\. Hullera\)](https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:32 | 2023-05-02 |  |
 | [Bassgod](https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Bassgod](https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg) | 3:07 | 2023-05-02 |  |
+| [BELIEVE](https://open.spotify.com/track/7JWIRBVWIxbFEI1CwtNhKM) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [BELIEVE](https://open.spotify.com/album/7vZLA8bYAwdR4QtwaglEyc) | 3:06 | 2024-09-28 |  |
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-11 |  |
 | [Bossy](https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Bossy](https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz) | 2:14 | 2023-08-05 |  |
 | [CA$HMERE](https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [CA$HMERE](https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo) | 3:34 | 2023-05-02 |  |

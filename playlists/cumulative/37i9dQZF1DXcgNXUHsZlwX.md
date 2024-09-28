@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-473 songs - 1 day 4 hr 17 min
+474 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-10-24 |
 | [Entre deux montagnes](https://open.spotify.com/track/4ZMMRQAoDqftCgABEKwE1A) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 2:59 | 2022-07-08 | 2022-09-09 |
 | [Entre deux montagnes](https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 2:59 | 2021-01-03\* | 2022-07-26 |
-| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* |  |
+| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* | 2024-09-28 |
 | [Et faire comme si](https://open.spotify.com/track/1XGPYFtg7ZDNlaPuAbAa4v) | [Laurent Paquin](https://open.spotify.com/artist/7qaeNMC2MtIbokELJs2P2V) | [Et faire comme si](https://open.spotify.com/album/6C34uSVNhrp9IrkCHfK3by) | 1:46 | 2021-05-04 | 2021-09-27 |
 | [Et je cours](https://open.spotify.com/track/5g2x5jFdQMJxbpYAbCTK4W) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Bunny](https://open.spotify.com/album/0jgFMFLNU4fgV2KtqpER9A) | 3:45 | 2021-01-03\* | 2022-07-19 |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-01-21 | 2024-05-02 |
@@ -443,6 +443,7 @@
 | [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 4:13 | 2021-01-15 | 2021-11-13 |
 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 |  |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
+| [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 | 2024-09-27 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-10-11 |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 | 2024-04-19 |

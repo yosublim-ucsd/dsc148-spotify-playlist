@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Juice Wrld",
+  "description": "The Midwest is always on time. Cover: Lil Durk",
   "name": "CST",
   "tracks": [
     {
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 197274,
       "name": "All Black Trucks",
       "url": "https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y"
@@ -2437,6 +2437,28 @@
     },
     {
       "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+    },
+    {
+      "album": {
         "name": "Blrrrd Fa",
         "url": "https://open.spotify.com/album/70lUhyyKsoZa2rugXujwac"
       },
@@ -2532,7 +2554,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172192,
       "name": "BNB",
       "url": "https://open.spotify.com/track/1h59HtygSsi5xnYAQYYznT"
@@ -3505,6 +3527,28 @@
     },
     {
       "album": {
+        "name": "Clock Dat (feat. Shamar Marco)",
+        "url": "https://open.spotify.com/album/41PFb8SNPnG3sHZ0IDc7aZ"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Shamar Marco",
+          "url": "https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Clock Dat (feat. Shamar Marco)",
+      "url": "https://open.spotify.com/track/7qr5FFlgqpkFNM1ShAtvlw"
+    },
+    {
+      "album": {
         "name": "Clock It",
         "url": "https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P"
       },
@@ -3520,7 +3564,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 212210,
       "name": "Clock It",
       "url": "https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d"
@@ -4005,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Quaranta",
+        "url": "https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "Dark Sword Angel",
+      "url": "https://open.spotify.com/track/1ODOnrRAdszEe09dV2C7bv"
+    },
+    {
+      "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
@@ -4090,6 +4152,32 @@
       "duration_ms": 263289,
       "name": "DEAD",
       "url": "https://open.spotify.com/track/3OIzMTyg6PIV2ZsefS3O2n"
+    },
+    {
+      "album": {
+        "name": "Dead N****s (feat. Polo G & G Herbo)",
+        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195457,
+      "name": "Dead N****s (feat. Polo G & G Herbo)",
+      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
     },
     {
       "album": {
@@ -5332,7 +5420,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 129201,
       "name": "Free Dem Ones",
       "url": "https://open.spotify.com/track/7gh15cs3CH3dgUrnMvAN8Y"
@@ -5680,7 +5768,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
@@ -5706,7 +5794,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 290422,
       "name": "Fuel - Shady Edition",
       "url": "https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70"
@@ -7683,6 +7771,24 @@
     },
     {
       "album": {
+        "name": "Small Town Ghetto",
+        "url": "https://open.spotify.com/album/1N2ZW3T5gUbMaborCNTgCr"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159691,
+      "name": "I'm Back Up",
+      "url": "https://open.spotify.com/track/5SCX0rdS72qJTTPRUqovws"
+    },
+    {
+      "album": {
         "name": "I'm Geekin",
         "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
       },
@@ -7900,6 +8006,24 @@
       "duration_ms": 146400,
       "name": "Ice Pack",
       "url": "https://open.spotify.com/track/6TG9CG4auNzo3dLgTm5Sjy"
+    },
+    {
+      "album": {
+        "name": "This Is What You Asked For",
+        "url": "https://open.spotify.com/album/2zQiS72IsIaalhyndYwtTF"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "Ichigo",
+      "url": "https://open.spotify.com/track/6USyAT0lJYDVdP9LXbPjZk"
     },
     {
       "album": {
@@ -12586,7 +12710,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178441,
       "name": "Problem",
       "url": "https://open.spotify.com/track/6nVBeN060Kw7VYedxq2jaB"
@@ -13534,6 +13658,28 @@
       "duration_ms": 125160,
       "name": "Rose Gold (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/1f4n208NzgSki8uG62mde7"
+    },
+    {
+      "album": {
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
     },
     {
       "album": {
@@ -14752,7 +14898,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 193434,
       "name": "SO ICEY",
       "url": "https://open.spotify.com/track/6pF5vOKDbxXYvQkZnpBs8w"
@@ -14894,6 +15040,32 @@
       "duration_ms": 161000,
       "name": "Special (feat. OhGeesy)",
       "url": "https://open.spotify.com/track/3Mlcjjz7jwTyNcb1mP7qsI"
+    },
+    {
+      "album": {
+        "name": "Special (feat. Skilla Baby & Flo Milli)",
+        "url": "https://open.spotify.com/album/4dmYcRXZCVL4W98DoRTbJe"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165645,
+      "name": "Special (feat. Skilla Baby & Flo Milli)",
+      "url": "https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr"
     },
     {
       "album": {
@@ -16181,6 +16353,24 @@
     },
     {
       "album": {
+        "name": "The Viper",
+        "url": "https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150997,
+      "name": "The Viper",
+      "url": "https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx"
+    },
+    {
+      "album": {
         "name": "The Warm Up",
         "url": "https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe"
       },
@@ -16999,6 +17189,24 @@
     },
     {
       "album": {
+        "name": "Turn Up A Notch",
+        "url": "https://open.spotify.com/album/2ahiulnzUjr6TQtJ61OJO6"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141878,
+      "name": "Turn Up A Notch",
+      "url": "https://open.spotify.com/track/25iuEho6akUyl3aufmXHqy"
+    },
+    {
+      "album": {
         "name": "4NEM",
         "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
       },
@@ -17040,7 +17248,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 138472,
       "name": "TWEAKERS (feat. Rob49 & Skilla Baby)",
       "url": "https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3"
@@ -17440,7 +17648,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 179916,
       "name": "Watching My Page",
       "url": "https://open.spotify.com/track/7b6pQST3mOUnuq908vJOil"
@@ -17716,7 +17924,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 137186,
       "name": "What if I Smacked You?",
       "url": "https://open.spotify.com/track/5hT5WbZxvi8bJdJwEqGPfP"
@@ -18512,7 +18720,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 110608,
       "name": "Yung OG Flow",
       "url": "https://open.spotify.com/track/6JY8Ygpx1r9cApONDumYIL"

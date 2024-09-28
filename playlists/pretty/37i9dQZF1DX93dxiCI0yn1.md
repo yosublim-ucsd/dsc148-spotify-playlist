@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,171 likes - 102 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,178 likes - 102 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 101 | [BARBERSHOP](https://open.spotify.com/track/0noBbvegr73emJDSgnpJSc) | [Daia](https://open.spotify.com/artist/1hXnVDbddicc8RayfMIimk) | [Mind Of Legend](https://open.spotify.com/album/3dfBnpNT8ym7ZbaVwb187O) | 3:07 |
 | 102 | [I DO](https://open.spotify.com/track/7nqQA4DNomQlHyI6Rtmh4i) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [I'M THE ONE](https://open.spotify.com/album/3aU7EApdoG34SXjWuE2OZr) | 2:36 |
 
-Snapshot ID: `ZuoVKwAAAADRXmHoeyNI//KsXzmidm7x`
+Snapshot ID: `ZuoVKwAAAAAN6W/XR1i+WbDrPIb1QGq8`

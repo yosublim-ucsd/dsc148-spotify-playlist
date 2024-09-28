@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: NTG, Eklectico Diablo",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Dowba Montana",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 148033,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/0rzUSTErFqeg5SDpHm5Flz"
@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/4RRbxNFqT70y3qCWIILFlL"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113617,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/6iqqs5xqyYGkHVQIT2ozBb"
+    },
+    {
+      "album": {
         "name": "BANDIDO",
         "url": "https://open.spotify.com/album/6967EMjIC7QaUUINBJBkLR"
       },
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171120,
       "name": "Bandz",
       "url": "https://open.spotify.com/track/69cWMCbMtqKTKyc2I7c2hl"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 164328,
       "name": "Corone - Reloaded",
       "url": "https://open.spotify.com/track/6moIpVLUnxSDQ8mRc625yr"
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 224000,
       "name": "Cypher Vol.1",
       "url": "https://open.spotify.com/track/1KkxJueiJY6G60VyuwZcCw"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 141606,
       "name": "Dinero + Problema",
       "url": "https://open.spotify.com/track/1Eb2zaH3mCKE17J8nTBUax"
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 151638,
       "name": "En La Boca",
       "url": "https://open.spotify.com/track/7CQKwskPmZiG9nWTOzOGXY"
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 164312,
       "name": "La Tipa",
       "url": "https://open.spotify.com/track/4xWUoOFtVc1BZTRO8kFx77"
@@ -7784,6 +7802,32 @@
       "duration_ms": 346186,
       "name": "No Hago Coro - Remix",
       "url": "https://open.spotify.com/track/72VsmYY68ihcJuKNaIYT28"
+    },
+    {
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/04fipOKCuUZFhYlYLHmGHP"
+      },
+      "artists": [
+        {
+          "name": "Joel Melody",
+          "url": "https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "No Me Conoce",
+      "url": "https://open.spotify.com/track/3ZqFF35iQQcNe1SwyfjFoX"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Lo más pegado, lo más trendy, o sea BM.
+> Lo más pegado, lo más trendy, o sea Lali.
 
-584 songs - 1 day 5 hr 47 min
+585 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 | 2023-07-07 | 2023-07-29 |
 | [Facetime](https://open.spotify.com/track/67PVHYTRLs1ysVBigqSOau) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Facetime](https://open.spotify.com/album/0lWmWdSUFxwVZhCJOCi8DZ) | 2:32 | 2023-12-22 | 2024-01-05 |
 | [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-02-16 | 2024-05-25 |
+| [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-09-27 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-21 | 2024-07-19 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-05-12 | 2023-11-04 |
 | [FICHAJE DEL AÑO](https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [FICHAJE DEL AÑO](https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q) | 3:13 | 2024-07-26 |  |

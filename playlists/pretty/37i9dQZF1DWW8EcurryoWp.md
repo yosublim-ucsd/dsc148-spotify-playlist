@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Kynsy
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,486 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,487 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 | 69 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
 | 70 | [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 |
 
-Snapshot ID: `ZuP7dAAAAACJpJ14mWG3/yjS/VxKQNCh`
+Snapshot ID: `ZuP7dAAAAABks7onUBCNlS31xHy7heQM`

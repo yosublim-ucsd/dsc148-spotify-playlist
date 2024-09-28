@@ -1,12 +1,12 @@
 {
   "description": "Powerful female voices, like you've never heard before.  Cover: Miley Cyrus. ",
-  "num_followers": 7037,
+  "num_followers": 7064,
   "original_name": "Women of Spotify Singles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqt4sQAAAAA4ehUMosTp1rZmr4/bTvsd",
+  "snapshot_id": "Zqt4sQAAAAAVrfYcq7oOSKXYtbabamVb",
   "tracks": [
     {
       "added_at": "2023-03-21 00:56:25",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-01 11:59:45",
       "album": {
-        "name": "Watermelon Sugar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 129656,
-      "name": "Watermelon Sugar - Spotify Singles",
-      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 317106,
       "name": "A Little Bit of Everything - Spotify Singles",
       "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Watermelon Sugar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 129656,
+      "name": "Watermelon Sugar - Spotify Singles",
+      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -865,54 +865,6 @@
       "url": "https://open.spotify.com/track/4s7Zym0G4Hb6apPL3dOqmV"
     },
     {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 294078,
-      "name": "agora hills - Spotify Singles",
-      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -961,6 +913,22 @@
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 294078,
+      "name": "agora hills - Spotify Singles",
+      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
+    },
+    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -979,6 +947,38 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -1299,6 +1283,22 @@
       "duration_ms": 204150,
       "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
     },
     {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Ravyn Lenae - Spotify Singles",
-        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "Killing Me Softly With His Song - Spotify Singles",
-      "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -1479,6 +1463,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Ravyn Lenae - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "Killing Me Softly With His Song - Spotify Singles",
+      "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
     },
     {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Ravyn Lenae - Spotify Singles",
-        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 164747,
-      "name": "Love Is Blind - Spotify Singles",
-      "url": "https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -1623,6 +1607,22 @@
       "duration_ms": 206106,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Ravyn Lenae - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Love Is Blind - Spotify Singles",
+      "url": "https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1724,22 +1724,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Starboy - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
       },
       "artists": [
@@ -1751,6 +1735,22 @@
       "duration_ms": 281453,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Starboy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1772,22 +1772,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
@@ -1799,6 +1783,22 @@
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2800,22 +2800,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 159673,
-      "name": "Come Clean - Spotify Singles",
-      "url": "https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T"
       },
       "artists": [
@@ -2843,6 +2827,22 @@
       "duration_ms": 224016,
       "name": "Why Her Not Me - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 159673,
+      "name": "Come Clean - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -3101,22 +3101,6 @@
       "url": "https://open.spotify.com/track/0lIMzHgepiowXBAsGtkcpt"
     },
     {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 213149,
-      "name": "Stay Right Here - Spotify Singles",
-      "url": "https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -3131,6 +3115,22 @@
       "duration_ms": 214788,
       "name": "LOVE IN THE DARK - Recorded at East West Studios, LA",
       "url": "https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 213149,
+      "name": "Stay Right Here - Spotify Singles",
+      "url": "https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -3152,22 +3152,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 218839,
-      "name": "Reasons I Drink",
-      "url": "https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
       },
       "artists": [
@@ -3179,6 +3163,22 @@
       "duration_ms": 245826,
       "name": "Want You Back - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 218839,
+      "name": "Reasons I Drink",
+      "url": "https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS"
     },
     {
       "added_at": "2023-03-21 00:56:25",

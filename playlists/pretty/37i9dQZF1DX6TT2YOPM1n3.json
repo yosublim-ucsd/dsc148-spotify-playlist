@@ -1,12 +1,12 @@
 {
   "description": "Check out the OG Hitmaker's new album right here. Cover: Nusrat Fateh Ali Khan",
-  "num_followers": 59195,
+  "num_followers": 59243,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvVHXgAAAAAYKC/AT4tBShQ1D5h0y8wD",
+  "snapshot_id": "ZvVHXgAAAADZEUbBwOBDnD0iz0YoYYiY",
   "tracks": [
     {
       "added_at": "2024-09-26 11:37:02",
@@ -142,6 +142,10 @@
         {
           "name": "Asim Azhar",
           "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
         }
       ],
       "duration_ms": 234037,

@@ -1,12 +1,12 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 107038,
+  "num_followers": 107130,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZS6gAAAAA47b6Nv8oqQJ+9UK0kY78r",
+  "snapshot_id": "ZrZS6gAAAAAHoHfwZHsugMdlYQRq4GrL",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "772 Love",
         "url": "https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x"
       },
@@ -795,22 +815,6 @@
       "duration_ms": 174192,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
     },
     {
       "added_at": "2024-02-23 05:00:00",

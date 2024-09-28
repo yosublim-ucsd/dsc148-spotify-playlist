@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,605 songs - 2 day 21 hr 57 min
+1,606 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,6 +1028,7 @@
 | [MUSIK ELLER METALL](https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 3:20 | 2022-02-25 | 2022-06-03 |
 | [My Hood](https://open.spotify.com/track/3gMzL7A5pukEGEYB33s2Qs) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [My Hood](https://open.spotify.com/album/1A2o4sWfmwx6JG5nSYRGE6) | 2:09 | 2024-06-13 | 2024-08-16 |
 | [MY LOVE](https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [INLOGGAD 3](https://open.spotify.com/album/5lcGCMjhnL7XotV4KbjmFG) | 2:43 | 2024-09-05 |  |
+| [Må såhär](https://open.spotify.com/track/7nh46xnPqxm1P89lXoUhbT) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Må såhär](https://open.spotify.com/album/2OFc0gz8SlOEZIO8VBei1s) | 2:21 | 2024-09-26 |  |
 | [Måla allting svart](https://open.spotify.com/track/0rtaDQZKk6ZzT3NjtgLTOf) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84), [YVO](https://open.spotify.com/artist/4Zwos2Ntsm6WlvNmFoTL8h) | [Måla allting svart](https://open.spotify.com/album/5885FOw8vTisb2BnPtdIQG) | 3:11 | 2023-09-28 | 2023-10-06 |
 | [MÅNTE BRA](https://open.spotify.com/track/40fP7JFmzMCSKv2fgDbBiJ) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n), [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [MÅNTE BRA](https://open.spotify.com/album/1vNpvsn2CWrzmoQ1UKMlXS) | 2:49 | 2022-09-01 | 2022-10-07 |
 | [MÖNSTER](https://open.spotify.com/track/2ADLH4BFG8l6g0roAGq2kb) | [Ragnatela](https://open.spotify.com/artist/4wC86gefcENgkAgUSO0Itp) | [MÖNSTER](https://open.spotify.com/album/1UeapwDXFU3m76B2nUWnxr) | 2:15 | 2023-06-08 | 2023-06-30 |

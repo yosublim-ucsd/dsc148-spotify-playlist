@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,907 likes - 226 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,935 likes - 226 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 225 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
 | 226 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
 
-Snapshot ID: `ZvLQ0QAAAADRq7UDF9RbIm+xkuStC5S9`
+Snapshot ID: `ZvLQ0QAAAACKPdJF3N0UBgYgeYyHCtGl`

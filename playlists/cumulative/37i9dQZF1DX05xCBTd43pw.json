@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 152644,
       "name": "Champions",
       "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
@@ -760,6 +760,24 @@
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165946,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5"
     },
     {
       "album": {
@@ -1257,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221427,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
+    },
+    {
+      "album": {
         "name": "NEW FRIENDS",
         "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
       },
@@ -1344,6 +1380,24 @@
       "duration_ms": 182232,
       "name": "Over",
       "url": "https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO"
+    },
+    {
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "album": {
@@ -1507,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Sans Toi",
+        "url": "https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS"
+    },
+    {
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
@@ -1655,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167911,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
@@ -1760,7 +1850,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 163143,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
@@ -1958,7 +2048,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"

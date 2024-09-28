@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,068 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,077 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 64 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 65 | [In Your Hands](https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [In Your Hands](https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d) | 2:51 |
 
-Snapshot ID: `ZuHrjgAAAACI6pqwiW5BxbpPftnirju3`
+Snapshot ID: `ZuHrjgAAAACRHps2ewJExdAgUVHh29jt`

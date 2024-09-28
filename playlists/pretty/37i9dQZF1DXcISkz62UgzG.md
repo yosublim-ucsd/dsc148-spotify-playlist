@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340,943 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341,158 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 | 49 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \- Deluxe](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
 | 50 | [Only You](https://open.spotify.com/track/1hCowBAyytVNFhdZeQWU9M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/6PZD4RSi2hlcg5YV86luib) | 3:04 |
 
-Snapshot ID: `ZlURZgAAAAAikx0njKaaIsdWa2S9aKnO`
+Snapshot ID: `ZlURZgAAAABK0iFFoanl1LBn/itcNBda`

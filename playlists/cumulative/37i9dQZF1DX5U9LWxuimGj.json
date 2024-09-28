@@ -1033,6 +1033,32 @@
     },
     {
       "album": {
+        "name": "God Blessed Texas - Dios Bendijo Tejas",
+        "url": "https://open.spotify.com/album/4hgTfYHTpkBr4Go7yc8xzo"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        },
+        {
+          "name": "Sunny Sauceda",
+          "url": "https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg"
+        },
+        {
+          "name": "Rico Gonzalez",
+          "url": "https://open.spotify.com/artist/3j5zo7b5Y9LJ8wNchavXIi"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "God Blessed Texas - Dios Bendijo Tejas",
+      "url": "https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr"
+    },
+    {
+      "album": {
         "name": "Gosta de Caras Assim",
         "url": "https://open.spotify.com/album/6Z1HPVHsaU9qg4rBVoVykm"
       },

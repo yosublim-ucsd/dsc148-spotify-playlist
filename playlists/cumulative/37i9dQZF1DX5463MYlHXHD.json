@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 274037,
       "name": "Amor de Colegio",
       "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 250786,
       "name": "Como te voy a olvidar",
       "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
@@ -4395,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "Que Explote",
+        "url": "https://open.spotify.com/album/2ikm0etD5vqrXUnu8vtTNx"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163058,
+      "name": "Que Explote",
+      "url": "https://open.spotify.com/track/78lhT9AhhHv53wYiR9JOrQ"
+    },
+    {
+      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -5616,6 +5638,28 @@
     {
       "album": {
         "name": "Una Vela",
+        "url": "https://open.spotify.com/album/2TclDmUh8qqD6xUFjj7hly"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "Los gedientos del rock",
+          "url": "https://open.spotify.com/artist/3FCxp8Oq0BRVvdnIEUIo0S"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121721,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/10f7PQtaXpUuM9QqExvkCG"
+    },
+    {
+      "album": {
+        "name": "Una Vela",
         "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
       },
       "artists": [
@@ -5907,6 +5951,28 @@
     },
     {
       "album": {
+        "name": "Y Lloras",
+        "url": "https://open.spotify.com/album/5A4lj0WxRmsx24G4mygK0S"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "El Kaylo",
+          "url": "https://open.spotify.com/artist/6gZCo0yedDecyHrqknRjPA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144168,
+      "name": "Y Lloras",
+      "url": "https://open.spotify.com/track/1glwSjL7xG802CQwj2k11p"
+    },
+    {
+      "album": {
         "name": "Y Lloro",
         "url": "https://open.spotify.com/album/3WCfk8HWohE0nQ4rpwF2qG"
       },
@@ -5918,7 +5984,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 143166,
       "name": "Y Lloro",
       "url": "https://open.spotify.com/track/0xX1l3RDNYkNKOEZqobohM"

@@ -1,13 +1,45 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 238593,
+  "num_followers": 238588,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuhI7wAAAAC3lZ7SQ4kWZLBC/YnDVY/6",
+  "snapshot_id": "Zvb/LwAAAACBLBv7wN7nZCMkNHWBILqU",
   "tracks": [
+    {
+      "added_at": "2024-09-27 18:53:35",
+      "album": {
+        "name": "You For Christmas",
+        "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "You For Christmas",
+      "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
+    },
+    {
+      "added_at": "2024-09-27 18:53:35",
+      "album": {
+        "name": "Merry Christmas (Welcome to the Family)",
+        "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "Merry Christmas (Welcome to the Family)",
+      "url": "https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2"
+    },
     {
       "added_at": "2024-08-30 16:49:56",
       "album": {
@@ -141,6 +173,22 @@
       "url": "https://open.spotify.com/track/2Z10kVEtDJwjJsdJmKRxNi"
     },
     {
+      "added_at": "2024-09-27 18:53:35",
+      "album": {
+        "name": "Joy To The World // It's Christmas",
+        "url": "https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 295601,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx"
+    },
+    {
       "added_at": "2024-08-30 16:49:56",
       "album": {
         "name": "Deck The Halls",
@@ -271,6 +319,26 @@
       "duration_ms": 172794,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3"
+    },
+    {
+      "added_at": "2024-09-27 18:53:35",
+      "album": {
+        "name": "Sweet December (feat. Kelly Clarkson)",
+        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Sweet December (feat. Kelly Clarkson)",
+      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
     },
     {
       "added_at": "2024-08-30 16:49:56",
@@ -771,170 +839,6 @@
       "duration_ms": 193800,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0mUa1ez9zQ5b54YWnDVCAp"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "A Classic Christmas",
-        "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5JcZRc3Z6uOgIBVJGecWSb"
-      },
-      "artists": [
-        {
-          "name": "Il Divo",
-          "url": "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/4CCAfHFJfeUDNhKJT9IvIh"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Christmas Wish",
-        "url": "https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 234341,
-      "name": "Christmas Wish",
-      "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Christmas Isn't Christmas",
-        "url": "https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 192100,
-      "name": "Christmas Isn't Christmas",
-      "url": "https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "My Favorite Christmas / I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 204125,
-      "name": "My Favorite Christmas",
-      "url": "https://open.spotify.com/track/07wXKpcO4yJggnbTM6kEHW"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Just A Dirtbag Christmas EP",
-        "url": "https://open.spotify.com/album/3Xy6ARO2MgjPUSFIuP86uA"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 252368,
-      "name": "Christmas Dirtbag",
-      "url": "https://open.spotify.com/track/05lLXO1gallwajxAD4aTvE"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/5lj22HAC5eNHZo58nxHuE4"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        }
-      ],
-      "duration_ms": 192639,
-      "name": "Santa Claus Is Coming to Town",
-      "url": "https://open.spotify.com/track/1R1uA0lt0yz9o6U1v0XrZb"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9"
-      },
-      "artists": [
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        },
-        {
-          "name": "The Tabernacle Choir at Temple Square",
-          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
-        },
-        {
-          "name": "Mack Wilberg",
-          "url": "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
-        }
-      ],
-      "duration_ms": 267390,
-      "name": "Amazing Grace [Feat. The Tabernacle Choir at Temple Square, Mack Wilberg]",
-      "url": "https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM"
     }
   ],
   "unique_name": "New Music Holiday",

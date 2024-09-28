@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 134098,
+  "num_followers": 134144,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxWygAAAABl47KDwxkFZz+paMlpF33h",
+  "snapshot_id": "ZIxWygAAAAD1oBf6QPhh5mgE30Do+ZLW",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -839,18 +839,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
       "artists": [
         {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Justin Warfield",
+          "url": "https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA"
         }
       ],
-      "duration_ms": 233906,
-      "name": "Pacific 707",
-      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+      "duration_ms": 258426,
+      "name": "Bug Powder Dust",
+      "url": "https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -895,22 +899,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
       },
       "artists": [
         {
-          "name": "Bomb The Bass",
-          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
-        },
-        {
-          "name": "Justin Warfield",
-          "url": "https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Bug Powder Dust",
-      "url": "https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF"
+      "duration_ms": 233906,
+      "name": "Pacific 707",
+      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
     },
     {
       "added_at": "2021-07-14 17:36:34",

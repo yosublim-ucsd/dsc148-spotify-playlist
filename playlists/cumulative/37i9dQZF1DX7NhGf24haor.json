@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182400,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/7xngNl6m6IHXDb8pGVR2Gx"
@@ -4357,6 +4357,28 @@
     },
     {
       "album": {
+        "name": "DEFAULT DAMAGER",
+        "url": "https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147558,
+      "name": "DEFAULT DAMAGER",
+      "url": "https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp"
+    },
+    {
+      "album": {
         "name": "Demise 2.0",
         "url": "https://open.spotify.com/album/7yJ2K6AzmDyFyOwgqGYL1z"
       },
@@ -4932,7 +4954,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 116250,
       "name": "DON'T SLEEP",
       "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
@@ -5244,7 +5266,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 143000,
       "name": "Dropped My Phone",
       "url": "https://open.spotify.com/track/7ePUo3OdEJCbP5Ru7cStVj"
@@ -7203,6 +7225,32 @@
     },
     {
       "album": {
+        "name": "FUNKY",
+        "url": "https://open.spotify.com/album/2lYm0JYZrMLeRxlCVv14P2"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        },
+        {
+          "name": "MC Focus",
+          "url": "https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160503,
+      "name": "FUNKY",
+      "url": "https://open.spotify.com/track/5CPJaealDo0IDlZcECF0rw"
+    },
+    {
+      "album": {
         "name": "G.L.Y.",
         "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
       },
@@ -7516,6 +7564,28 @@
       "duration_ms": 214583,
       "name": "Glitchfest",
       "url": "https://open.spotify.com/track/520lQH0OKISQm982IiHZ15"
+    },
+    {
+      "album": {
+        "name": "Global Revolution - Hard Destiny Remix",
+        "url": "https://open.spotify.com/album/6LKcolPM3bBXgJj4mqpC1v"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Hard Destiny",
+          "url": "https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Global Revolution - Hard Destiny Remix",
+      "url": "https://open.spotify.com/track/2GXXFU0YOSKU4xWLVUxi5Q"
     },
     {
       "album": {
@@ -8763,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/3aZUmUxAXTcdKTUQhilczM"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162483,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/0wNENVsFlm4YtUmbbPNd6W"
+    },
+    {
+      "album": {
         "name": "Human Error",
         "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
       },
@@ -8966,7 +9054,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 165375,
       "name": "I LIKE THE NOISE (I made this song in 1 hour while I was pooping)",
       "url": "https://open.spotify.com/track/0mvVeTGKXF8UWWtd30cF5n"
@@ -10354,7 +10442,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 148645,
       "name": "Kids In Crime",
       "url": "https://open.spotify.com/track/40ol47kh2d0ttjUpEeA9Ct"
@@ -11424,7 +11512,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171093,
       "name": "LOKO",
       "url": "https://open.spotify.com/track/0DRJ9JQqNN2lFIxdave6Gx"
@@ -11508,7 +11596,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192000,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/7KoK6hllXLYVDvieGPj0qc"
@@ -12923,6 +13011,32 @@
     },
     {
       "album": {
+        "name": "My Beautiful Fantasy (Kronos Remix)",
+        "url": "https://open.spotify.com/album/7ujAlt20GGG7lZM8rzGYd9"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207843,
+      "name": "My Beautiful Fantasy (Kronos Remix)",
+      "url": "https://open.spotify.com/track/2F3dGroX2eQehPdb8qoM10"
+    },
+    {
+      "album": {
         "name": "My Girl (with Da Tweekaz)",
         "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
       },
@@ -13189,6 +13303,28 @@
     },
     {
       "album": {
+        "name": "Neon Dreams",
+        "url": "https://open.spotify.com/album/6wXFUnkg6Jqkc9seHCMMCi"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Sarah Anglionin",
+          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Neon Dreams",
+      "url": "https://open.spotify.com/track/06udvmmawWkUS5YI3GGoKp"
+    },
+    {
+      "album": {
         "name": "Never Be Alone",
         "url": "https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ"
       },
@@ -13216,6 +13352,24 @@
       "duration_ms": 165844,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1"
+    },
+    {
+      "album": {
+        "name": "Never Be The One",
+        "url": "https://open.spotify.com/album/4ts7N4Y4tC2Uxti1WRzuA3"
+      },
+      "artists": [
+        {
+          "name": "Roy Dest",
+          "url": "https://open.spotify.com/artist/0TBHlw1ktz3YQvFkYpm55Q"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143877,
+      "name": "Never Be The One",
+      "url": "https://open.spotify.com/track/63dJ4rcmlwLsL3vh7oaLrl"
     },
     {
       "album": {
@@ -18476,7 +18630,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 179187,
       "name": "Straight From The Underground",
       "url": "https://open.spotify.com/track/0oz0z1GPULYLCfpS2dxEFj"
@@ -21088,7 +21242,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205548,
       "name": "To The Top",
       "url": "https://open.spotify.com/track/6FRdyoSvbeucvDmXOHMSx7"
@@ -22745,6 +22899,32 @@
     },
     {
       "album": {
+        "name": "We've Got The Power",
+        "url": "https://open.spotify.com/album/0D0OSi3k9jmKqvvkKMW03X"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "We've Got The Power",
+      "url": "https://open.spotify.com/track/72XbgtND1cgn6E7evSDne4"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose EP",
         "url": "https://open.spotify.com/album/0BlSbst0RbEtge5NMkk20k"
       },
@@ -23728,7 +23908,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 133818,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9"

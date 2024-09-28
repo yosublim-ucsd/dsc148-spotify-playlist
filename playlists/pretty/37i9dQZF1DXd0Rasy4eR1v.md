@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest Pakistani discoveries\. Cover \- Indiedanish
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,674 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,675 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 78 | [Kyun Chor Gaya](https://open.spotify.com/track/4aGa7xV7YZxD1cyhVRnvQG) | [Taha Hassan](https://open.spotify.com/artist/05ekYRAvmmCSTPnkEbsC0U) | [Kyun Chor Gaya](https://open.spotify.com/album/0Pia4bgglWhJhFFArQUnjQ) | 3:09 |
 | 79 | [Like That](https://open.spotify.com/track/3z99yDWntQ05mP8tK5A07b) | [Mr\. Mac](https://open.spotify.com/artist/1zuMSSFJttHvJ4Sm2B2NL7), [RAMAN THE KID](https://open.spotify.com/artist/40qn6Ee2morbxE1E0JT3tu) | [Like That](https://open.spotify.com/album/1NOmiWGXm7MfpXwCcSCWzC) | 1:50 |
 
-Snapshot ID: `ZuKCZgAAAABgsrOnAxQb1CnDenmMyXjd`
+Snapshot ID: `ZuKCZgAAAABl+SHZxNjrBYH70rn1Smx8`

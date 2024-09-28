@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-12,531 songs - 28 day 14 hr 23 min
+12,535 songs - 28 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-02-29 | 2024-03-08 |
 | [Alone](https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [AFTER SUNSET](https://open.spotify.com/album/2aK1LDHsWJUECfRFCgHdyM) | 3:03 | 2022-11-10 | 2022-11-18 |
 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 | 2022-08-11 | 2022-08-19 |
+| [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-27 |  |
 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-11-02 | 2023-11-10 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2022-12-02 |
 | [Alone \(feat\. SOLE, Dvwn\)](https://open.spotify.com/track/3oCYvFL2nrk1ryuFx46ZL0) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY) | [Alone](https://open.spotify.com/album/3xEGg2c74HMnVg5cbqmR2Y) | 3:20 | 2021-12-23 | 2021-12-31 |
@@ -2046,6 +2047,7 @@
 | [Come Inside](https://open.spotify.com/track/4iELda59F3EhsNI8CJh25k) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [SPECTRUM for The Good Days Boys](https://open.spotify.com/album/4ckoQ9CgEHZ8qyg5csPgIZ) | 2:42 | 2022-08-04 | 2022-08-12 |
 | [Come Make You Move](https://open.spotify.com/track/3OcZyVTzDAlFpxEJfu5XHl) | [Masanies](https://open.spotify.com/artist/4TcNFP4uSKNSdMrPicbbPy), [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB) | [Come Make You Move](https://open.spotify.com/album/3qRpmuclMBWhXFoEtOblhD) | 3:42 | 2023-05-04 | 2023-05-12 |
 | [Come My Way](https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Come My Way](https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS) | 2:57 | 2023-06-15 | 2023-06-23 |
+| [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-09-26 |  |
 | [Come Over](https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Come Over](https://open.spotify.com/album/3FXybInWSDFkMiHf2RxgcR) | 3:06 | 2023-06-08 | 2023-06-16 |
 | [COME THRU](https://open.spotify.com/track/0VSAn2bij65QTrgs1s4jk3) | [Joogi](https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [COME THRU](https://open.spotify.com/album/6RTvskxkCkMta6DmFRj4Cz) | 3:37 | 2024-05-09 | 2024-05-17 |
 | [Come Together](https://open.spotify.com/track/7C8NFsNdoPCVvWHYz0NY4d) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [A Shoulder to Cry On OST \(Soundtrack\)](https://open.spotify.com/album/5NF7s2sXzkjDYw0STAEarV) | 3:42 | 2023-03-16 | 2023-03-25 |
@@ -5321,6 +5323,7 @@
 | [IRREPLACEABLE](https://open.spotify.com/track/5uTFZnPELTnuRrFDnLIjFJ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [IRREPLACEABLE](https://open.spotify.com/album/1qBo0T1XG8sxyOGaiSGhF3) | 4:49 | 2022-08-18 | 2022-08-26 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-12 | 2023-10-20 |
 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-16 | 2024-05-24 |
+| [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-26 |  |
 | [is it too late?](https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [is it too late?](https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g) | 2:39 | 2024-04-04 | 2024-04-12 |
 | [Is It True](https://open.spotify.com/track/0teG0iZkp0hNgLrb7coc9c) | [Afiq Adnan](https://open.spotify.com/artist/4N5d5HPKGz8hi3Tv9WdPJu), [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Is It True](https://open.spotify.com/album/5s1cax8A6OsD5KUihrExie) | 2:49 | 2023-06-22 | 2023-06-30 |
 | [IS IT YOU? \(เธอใช่มั้ย?\)](https://open.spotify.com/track/61m10u8ZsoIbdQRhiWFxxM) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [IS IT YOU? \(เธอใช่มั้ย?\)](https://open.spotify.com/album/4ncjgr42AGkgVmLacZtb91) | 3:22 | 2023-05-25 | 2023-06-02 |
@@ -10568,6 +10571,7 @@
 | [Time Will Fly](https://open.spotify.com/track/3iLczn6rof3Fl0C0x4075J) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Time Will Fly](https://open.spotify.com/album/6XJvhvhwxVusNnIanbDpG6) | 2:31 | 2023-06-08 | 2023-06-16 |
 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 | 2023-10-26 | 2023-11-03 |
 | [Time Zones](https://open.spotify.com/track/2Bs9v303s5lWidiO3lS1I3) | [Kat Jaranilla](https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s) | [Time Zones](https://open.spotify.com/album/7tB2gzqRDphhPdF87rRMey) | 3:21 | 2024-09-19 | 2024-09-27 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [timezones](https://open.spotify.com/track/0LiWOWo7RXmmWy6RMLZrFZ) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [timezones](https://open.spotify.com/album/4Kq8tS6e0AplUcR3ZZFEp7) | 2:40 | 2024-05-30 | 2024-06-07 |
 | [Tinder](https://open.spotify.com/track/71sLnpCTclCFLhj6p4cqNV) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Tinder](https://open.spotify.com/album/3EkJJoHnkUyVnUYt4OIxK0) | 2:24 | 2023-11-16 | 2023-11-24 |
 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-01 | 2023-06-09 |

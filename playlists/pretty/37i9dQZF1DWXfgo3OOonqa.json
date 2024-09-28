@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 334154,
+  "num_followers": 334292,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAABIxsdDzMVCY6H5mGun5PaR",
+  "snapshot_id": "ZvXZYAAAAAAP8P+A8Od4d9idgMg6B2HF",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -255,6 +255,22 @@
       "duration_ms": 154964,
       "name": "TRUST ISSUES",
       "url": "https://open.spotify.com/track/5hjwsWJrIE21lDZfN8ZkNv"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "M\u00e5 s\u00e5h\u00e4r",
+        "url": "https://open.spotify.com/album/2OFc0gz8SlOEZIO8VBei1s"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "M\u00e5 s\u00e5h\u00e4r",
+      "url": "https://open.spotify.com/track/7nh46xnPqxm1P89lXoUhbT"
     },
     {
       "added_at": "2024-09-26 22:00:00",

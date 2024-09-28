@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > you give me shiverssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,212 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 |
-| 2 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 |
-| 3 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 |
-| 4 | [NYMPHOMANIA](https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:33 |
-| 5 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 |
-| 6 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 |
-| 7 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 |
-| 8 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 |
-| 9 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 |
-| 10 | [FALL](https://open.spotify.com/track/7cHh9w9vGUlvF4VhsHHgpk) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 4:03 |
+| 1 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 |
+| 2 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 |
+| 3 | [NYMPHOMANIA](https://open.spotify.com/track/656bTqbJh4wIVlY0EqvLGu) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:33 |
+| 4 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 |
+| 5 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 |
+| 6 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 |
+| 7 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 |
+| 8 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 |
+| 9 | [FALL](https://open.spotify.com/track/7cHh9w9vGUlvF4VhsHHgpk) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 4:03 |
+| 10 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
 | 11 | [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 |
 | 12 | [ecstasy \(feat\. Seun Kuti\)](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
 | 13 | [Vowel Sounds](https://open.spotify.com/track/3wuWe3quRaU1rzd1lLQnN4) | [Legendary Suni](https://open.spotify.com/artist/0P8DZ3ltbouoBdElVotTtf) | [Hybrid](https://open.spotify.com/album/0J107ivNTNANPUakaqaYi4) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 49 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
 | 50 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 |
 
-Snapshot ID: `ZuOAvAAAAABnMuAZj0EA7LrF6Clh0qj9`
+Snapshot ID: `ZvaQ6gAAAADzWcx2eAQ9RPbj0FI7iBLf`

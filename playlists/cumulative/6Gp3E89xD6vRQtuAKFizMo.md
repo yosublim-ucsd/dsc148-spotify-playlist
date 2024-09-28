@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-350 songs - 16 hr 50 min
+352 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [911](https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [911](https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp) | 2:55 | 2024-03-12 |  |
 | [A Little Techno](https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [A Little Techno](https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1) | 2:46 | 2024-04-12 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
+| [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-27 |  |
 | [Alive \(feat\. Born Of Osiris\)](https://open.spotify.com/track/7Dnxpf3jm60dfyqrnYkN6z) | [Dogma](https://open.spotify.com/artist/2Yqpp9KVye0sP88SinqAPs), [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Alive \(feat\. Born Of Osiris\)](https://open.spotify.com/album/6KYVxR8kFO2MJCY2sfbQQn) | 3:52 | 2024-07-19 |  |
 | [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-11-22 |  |
 | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/track/11dxsj1dc2NRRDN3gNqu4l) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [MelonRose](https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J) | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/album/14ZIyqeMexADGW43gZbuxi) | 4:56 | 2023-04-28 | 2023-05-06 |
@@ -166,6 +167,7 @@
 | [King Kong](https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [King Kong](https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB) | 2:08 | 2023-01-13 | 2023-03-25 |
 | [Kiss Dance Sweat](https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Kiss Dance Sweat](https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A) | 2:17 | 2023-08-18 |  |
 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-20 | 2023-04-09 |
+| [Las Gatas \(feat\. Jory Boy & The Good Son\)](https://open.spotify.com/track/5Y273bqlD01aozcKujkLIZ) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [Las Gatas \(feat\. Jory Boy & The Good Son\)](https://open.spotify.com/album/4plKxzj6CfQNPlDDfBTkfn) | 2:22 | 2024-09-27 |  |
 | [Last Call](https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/6cDcKVDFEqRj6BayY9Hkrj) | 3:02 | 2023-11-22 |  |
 | [Lavender](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-04-28 |  |
 | [Let Go](https://open.spotify.com/track/6db1oTTKdwEgIgfaB6s3cB) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/7vMS8v1bop3ODHwKLBO0YS) | 2:48 | 2023-11-22 |  |

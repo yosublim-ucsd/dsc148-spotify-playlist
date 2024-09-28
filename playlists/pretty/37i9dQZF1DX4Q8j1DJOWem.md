@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,733 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,739 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 39 | [Miserable In December](https://open.spotify.com/track/71yOI0Awo57nYpNbVfUiMU) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Miserable In December](https://open.spotify.com/album/73QlHz8uqujMgNIoXA1bPW) | 2:02 |
 | 40 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 |
 
-Snapshot ID: `ZtqqzAAAAADb9VFHKZaBwS9CwtnGuFiF`
+Snapshot ID: `ZtqqzAAAAADWjej5rxFPyNBJHToge1jV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6GSZ8C4Dyu5VsGz16jAgPC">FCG Heem</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,219 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,317 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [GO\(RILLA\)](https://open.spotify.com/track/5DIjkwYU1lZEyrrGopKYuJ) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [GO\(RILLA\)](https://open.spotify.com/album/0f4pkoEyClQzBm553ig9QY) | 2:29 |
 | 75 | [Loafin'](https://open.spotify.com/track/2vR9p3MZFivIqwR1BDC01U) | [Pretty Savage](https://open.spotify.com/artist/5kv4ypAoUAazpaYgftLsKf) | [Loafin'](https://open.spotify.com/album/5KehUnVOsGXE6cMcgHIO2N) | 2:30 |
 
-Snapshot ID: `ZvXMXgAAAABdlE1BHjM+j22PRaHzUjpP`
+Snapshot ID: `ZvXMXgAAAADmU0sIm3DHNS98S+0Pc6kF`

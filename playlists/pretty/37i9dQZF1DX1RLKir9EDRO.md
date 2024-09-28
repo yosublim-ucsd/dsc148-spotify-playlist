@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Selût  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,822 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,829 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [eyvallah](https://open.spotify.com/track/11sX8VGj4PuFjGC27KpaPI) | [shu shu](https://open.spotify.com/artist/1Evi4Kz5NxkDuLb3VPcoT6) | [Eyvallah](https://open.spotify.com/album/7k4iXlXgIxbhzqSnOz7Buo) | 3:21 |
 | 50 | [Beni Durdur](https://open.spotify.com/track/2rzFt3rMHd6QscvV7xKZiC) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Beni Durdur](https://open.spotify.com/album/6BMkf0XCc1VFWoaqLjGiGf) | 2:45 |
 
-Snapshot ID: `ZvMoUAAAAABZowQfNSzzzxTKrZ5k4iEI`
+Snapshot ID: `ZvMoUAAAAAB7JKN84MYEVzbjlmlA9uH3`

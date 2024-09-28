@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: ADÉLA\.  Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,324 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,416 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 100 | [red white & me](https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5) | [Mae Mae](https://open.spotify.com/artist/53ZthSp6EXqpBgOKrS5EsL) | [red white & me](https://open.spotify.com/album/5RLVZJNNtKoGhgXScdA87i) | 3:09 |
 | 101 | [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 |
 
-Snapshot ID: `ZvQJ8QAAAADzZRADkZeVD8+a2DdGOaO0`
+Snapshot ID: `ZvQJ8QAAAABk3UTxrpvm5QGqO9IBerq1`

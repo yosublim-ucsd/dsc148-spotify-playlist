@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 226886,
       "name": "Digital Self",
       "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 157221,
       "name": "Kibo",
       "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 288461,
       "name": "Spit",
       "url": "https://open.spotify.com/track/7cpE9ISCMK4PMYTuvnmHvl"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
@@ -808,6 +808,24 @@
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
+    },
+    {
+      "album": {
+        "name": "Sunshine (Ken Andrews Mix)",
+        "url": "https://open.spotify.com/album/4gPIIrIqMXeWMXB2LxDSDh"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "Sunshine - Ken Andrews Mix",
+      "url": "https://open.spotify.com/track/3mUByfqX0hDl8VfSI0Hnp5"
     },
     {
       "album": {

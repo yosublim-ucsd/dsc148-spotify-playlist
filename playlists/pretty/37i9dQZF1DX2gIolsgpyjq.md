@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Harrison First
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,437 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,445 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Winner](https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Winner](https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk) | 2:24 |
 | 100 | [Honey](https://open.spotify.com/track/1XbSXeRIX2dgAzywK32Z1F) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Honey](https://open.spotify.com/album/2p5RALR1fjMQSoaK2s5NPp) | 3:09 |
 
-Snapshot ID: `ZvXZYAAAAAD+pr7Ti/LLBnXDB8RksRdz`
+Snapshot ID: `ZvXZYAAAAACQ+sT/DIcj0C2fj/ppkQvZ`

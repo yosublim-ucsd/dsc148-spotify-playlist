@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-202 songs - 9 hr 42 min
+203 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Change My Mind](https://open.spotify.com/track/0m39QFJPnMbaouXbeqau1Y) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Change My Mind](https://open.spotify.com/album/26MMv3hqcdnZSxr1iZm0UM) | 2:41 | 2022-04-14 | 2022-07-29 |
 | [Clint Eastwood](https://open.spotify.com/track/1hzT2Tv7whPOSMzXZDwIKp) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [IMKK](https://open.spotify.com/artist/5dtKB0tw4Yc39wYRzA9u4R) | [Clint Eastwood](https://open.spotify.com/album/7qcJuxZEUDrqSdAkaxhFmd) | 2:36 | 2022-05-16 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 | 2022-04-21 | 2024-08-19 |
+| [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-09-26 |  |
 | [Creep](https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Creep](https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL) | 3:23 | 2022-06-02 | 2024-06-17 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-16 |  |
 | [Cups](https://open.spotify.com/track/4zRcGap0C7QOzWKbrJbENi) | [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Weegie](https://open.spotify.com/artist/05TqxuOClqbhjAba2V5aXa), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Cups](https://open.spotify.com/album/0JzbSxoB1bkI55W6aszqoe) | 2:16 | 2022-04-14 | 2022-07-28 |

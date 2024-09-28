@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: CARNAL",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Kazik & Kwartet ProForma",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 319360,
       "name": "Ballada o cyckach - Live",
       "url": "https://open.spotify.com/track/4iM4dazIGdlAfdDHGz7Kl8"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Einmannbunker",
+        "url": "https://open.spotify.com/album/7tx87DCWA1NcD1KkKD4zJq"
+      },
+      "artists": [
+        {
+          "name": "Ser Charles",
+          "url": "https://open.spotify.com/artist/1xS3ydBaUZ9neWJZOIa2lk"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137813,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/6Y4JltTtgCIdeeLPic6HZY"
+    },
+    {
+      "album": {
         "name": "Blokada",
         "url": "https://open.spotify.com/album/0AhEKkbABISuvmuio5lWSL"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 282101,
       "name": "Blokada",
       "url": "https://open.spotify.com/track/0dzqcCQnSGEEvamkhZnDGq"
+    },
+    {
+      "album": {
+        "name": "Bogowie Nocy",
+        "url": "https://open.spotify.com/album/32KnttH9cVmbyDJmYZIgtK"
+      },
+      "artists": [
+        {
+          "name": "Nasty Paradise",
+          "url": "https://open.spotify.com/artist/1Z0fLLi6MxlNKBKXoICR76"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335474,
+      "name": "Bogowie Nocy",
+      "url": "https://open.spotify.com/track/0UEpfuQ9NLIo8dbeJ3gNLd"
     },
     {
       "album": {
@@ -402,7 +438,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 112792,
       "name": "Chyba",
       "url": "https://open.spotify.com/track/2m2dWqaz9v8U6g1Qgmhqk9"
@@ -518,6 +554,24 @@
       "duration_ms": 288922,
       "name": "Czas Nie Leczy Ran",
       "url": "https://open.spotify.com/track/76Ju3EfBanHMp49RKzF57a"
+    },
+    {
+      "album": {
+        "name": "Czasoprzestrze\u0144",
+        "url": "https://open.spotify.com/album/57oxdY6vBuj3D8NyRhXruZ"
+      },
+      "artists": [
+        {
+          "name": "Warsztat Elektryczny",
+          "url": "https://open.spotify.com/artist/6TrwVIp03HHfHYS67Dxtdd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175275,
+      "name": "Czasoprzestrze\u0144",
+      "url": "https://open.spotify.com/track/23Bw6iSQyK7reT5gxDuWMD"
     },
     {
       "album": {
@@ -743,6 +797,24 @@
     },
     {
       "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "Edith Piaf",
+      "url": "https://open.spotify.com/track/67AZtaTfJZo3aPt3kAembs"
+    },
+    {
+      "album": {
         "name": "Feeria",
         "url": "https://open.spotify.com/album/3N968Zr5JXurFTWM6jROOO"
       },
@@ -916,10 +988,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 292690,
       "name": "I droga starczy za cel",
       "url": "https://open.spotify.com/track/5uasm94v4gcZSmYpP4CmDL"
+    },
+    {
+      "album": {
+        "name": "Ian Curtis",
+        "url": "https://open.spotify.com/album/4o0y0lqavqHBxLtm3NhNrE"
+      },
+      "artists": [
+        {
+          "name": "Zbyszek Adamek",
+          "url": "https://open.spotify.com/artist/5KcQw9igsxHzHPGjpc3Gbn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/5YIvO4ejZgbhdAWzO7EcUE"
     },
     {
       "album": {
@@ -1396,7 +1486,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 147271,
       "name": "Marta",
       "url": "https://open.spotify.com/track/5YZe8qUBfjYi0fp9Yr8tsB"
@@ -1436,7 +1526,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 178799,
       "name": "Maski",
       "url": "https://open.spotify.com/track/5D98vgYw1mzyFnhev8tigi"
@@ -2231,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Picaros",
+        "url": "https://open.spotify.com/album/3TxgbT6ouuXJf0SBdPDTEr"
+      },
+      "artists": [
+        {
+          "name": "JAVVA",
+          "url": "https://open.spotify.com/artist/3aHqgv4vskAS7UiO2uyeD2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546653,
+      "name": "P\u00edcaros",
+      "url": "https://open.spotify.com/track/0T5k52b1m6uQslSr6tsEdN"
+    },
+    {
+      "album": {
         "name": "P\u0142omyk",
         "url": "https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN"
       },
@@ -2682,7 +2790,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 190908,
       "name": "Sztandar",
       "url": "https://open.spotify.com/track/7r6haujZDYYy6HR31GeerU"
@@ -2802,6 +2910,24 @@
       "duration_ms": 246271,
       "name": "To \u015bwiat\u0142o nigdy nie b\u0119dzie zielone",
       "url": "https://open.spotify.com/track/7ET5DJ6fP1PGhCJirS2Fb2"
+    },
+    {
+      "album": {
+        "name": "Po moim trupie",
+        "url": "https://open.spotify.com/album/2Llhzp3WCWP0JFp7wpXH7W"
+      },
+      "artists": [
+        {
+          "name": "Kazik & Kwartet ProForma",
+          "url": "https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293746,
+      "name": "Toru\u0144",
+      "url": "https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy"
     },
     {
       "album": {
@@ -3076,7 +3202,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 161439,
       "name": "Wszystko co kocham",
       "url": "https://open.spotify.com/track/7IEaG22Q1pgUqqgXZ2f8cw"

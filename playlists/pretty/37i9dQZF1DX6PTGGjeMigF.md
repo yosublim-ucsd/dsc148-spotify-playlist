@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to SEVENTEEN's best songs! \(세븐틴의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,550 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,922 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 | 19 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
 | 20 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 
-Snapshot ID: `Zu474wAAAACKh3qFLwQhhl6foXF3+HUi`
+Snapshot ID: `Zu474wAAAADXy2l6+xHSYMIaDEgWdK7I`

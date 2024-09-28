@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Cris Mj & FloyyMenor.",
+  "description": "Este Flow tiene otro Flow. Foto: Julianno Sosa & Fran C.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 115384,
       "name": "BRINKEN",
       "url": "https://open.spotify.com/track/1mCfNPVJ0IfcYe1A4GAi3Q"
@@ -10170,7 +10170,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 121447,
       "name": "Me Pide M\u00e1s",
       "url": "https://open.spotify.com/track/5gKzZi9JbiTmJ5pE63ZKzK"
@@ -10357,7 +10357,7 @@
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140411,
+      "duration_ms": 140112,
       "name": "Mi Autom\u00f3vil",
       "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
     },
@@ -10864,7 +10864,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 426122,
       "name": "Mini Mini (feat. Jairo Vera, Sayian Jimmy, Balbi El Chamako, Son Gotten, El BAI, Galee Galee, Nysix Music, El Goldo De Las Conec) - Remix",
       "url": "https://open.spotify.com/track/5cwOXOjxIFWphBLtNtVh6S"
@@ -11914,6 +11914,36 @@
       "duration_ms": 144230,
       "name": "No Me Mire As\u00ed",
       "url": "https://open.spotify.com/track/1YkOJMothJIkGssEUO3gp4"
+    },
+    {
+      "album": {
+        "name": "No Pasa de Moda",
+        "url": "https://open.spotify.com/album/64cZ75vXjWClATeW5GJFtu"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Lion Moreno",
+          "url": "https://open.spotify.com/artist/0t0wvPfR6EQ410uRiecUsK"
+        },
+        {
+          "name": "Melora1n",
+          "url": "https://open.spotify.com/artist/4AIh4fSPNhJnPbtMV7LTHz"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "No Pasa de Moda",
+      "url": "https://open.spotify.com/track/5y7EUPBk8Q64hi4TbcFNnJ"
     },
     {
       "album": {
@@ -13492,6 +13522,28 @@
       "duration_ms": 225661,
       "name": "Perreo del Futuro",
       "url": "https://open.spotify.com/track/5Q6tVVgq3YuT570LuItI9r"
+    },
+    {
+      "album": {
+        "name": "Perreotech (Ven bebe)",
+        "url": "https://open.spotify.com/album/3Ah629fSv5Du8UIEiZFokf"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168291,
+      "name": "Perreotech (Ven bebe)",
+      "url": "https://open.spotify.com/track/6OJzHPceODz6V96LspVatz"
     },
     {
       "album": {
@@ -15923,6 +15975,28 @@
     },
     {
       "album": {
+        "name": "Si o No",
+        "url": "https://open.spotify.com/album/0wcSwIuBzMq7NlISKQ6ITx"
+      },
+      "artists": [
+        {
+          "name": "Siggy",
+          "url": "https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Si o No",
+      "url": "https://open.spotify.com/track/3izFE3IT7MZpxjbt9YCPJA"
+    },
+    {
+      "album": {
         "name": "SI SABEN",
         "url": "https://open.spotify.com/album/4r1BmdVKRzJV3x1L1EIijN"
       },
@@ -16736,7 +16810,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 248629,
       "name": "Tamagotchi - Remix",
       "url": "https://open.spotify.com/track/41pISWO3dh6avM8kM1tbSK"
@@ -18970,6 +19044,28 @@
       "duration_ms": 197434,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
+    },
+    {
+      "album": {
+        "name": "VV BRUJO .WAV SESS #4 (KING SAVAGGE)",
+        "url": "https://open.spotify.com/album/1oXrKYhYH71rQtckeEBk3t"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "VV BRUJO .WAV SESS #4 - KING SAVAGGE",
+      "url": "https://open.spotify.com/track/1C0hmloxKRPgjLqqtNqjab"
     },
     {
       "album": {

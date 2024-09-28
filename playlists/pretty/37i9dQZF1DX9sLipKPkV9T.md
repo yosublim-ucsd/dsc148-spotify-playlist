@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם קלינשטיין
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,931 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,938 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 19 | [Pass U By](https://open.spotify.com/track/4WAeKtWuQ1otWjpJE1l19I) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Pass U By](https://open.spotify.com/album/1GNrcBRDyHm8ryGreISHG8) | 3:29 |
 | 20 | [ללמוד לעוף](https://open.spotify.com/track/2hmKpvdywJSBEqHjIilPrE) | [Akiva](https://open.spotify.com/artist/308QpS53hDcYGZseJlXtma) | [ללמוד לעוף](https://open.spotify.com/album/7DyjXvf8jINRWV5mhxa83d) | 3:27 |
 | 21 | [לא צריכה ארמון](https://open.spotify.com/track/7LUXcugqNbrfIiGtbnsCET) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [לא צריכה ארמון](https://open.spotify.com/album/4aQLxgfh3CILAQI1ppiEpD) | 3:26 |
-| 22 | [קומה 34](https://open.spotify.com/track/7iEh0pSRgmMElOHjUeICUg) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [קומה 34](https://open.spotify.com/album/24ePr0zzmUxutpvRnjXEmJ) | 1:53 |
+| 22 | [קומה 34](https://open.spotify.com/track/7iEh0pSRgmMElOHjUeICUg) | [ים רפאלי](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [קומה 34](https://open.spotify.com/album/24ePr0zzmUxutpvRnjXEmJ) | 1:53 |
 | 23 | [פצוע](https://open.spotify.com/track/54cnTAWl7hZQx5AmgV2Wq8) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [ניצחונות קטנים](https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3) | 3:16 |
 | 24 | [On My Mind](https://open.spotify.com/track/4X6XWqlx1BA8vd4YKQvQol) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [On My Mind](https://open.spotify.com/album/3BlK4IApUM1DGluMPaq5rN) | 3:03 |
 | 25 | [יהי רצון](https://open.spotify.com/track/4ERPLdXEg2WqLoKNKnV7Vi) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סוף חמה לבוא](https://open.spotify.com/album/2SyQETIiAGH9ZnXVoG91oD) | 2:56 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 37 | [חץ בלב](https://open.spotify.com/track/2YCkZcx69SlG17eCcLDq4O) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [חץ בלב](https://open.spotify.com/album/0zncV9LbzHWYtmoVxzEw8G) | 2:44 |
 | 38 | [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 |
 | 39 | [⁠הכל עליי](https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 3:14 |
-| 40 | [שירי דיכאון](https://open.spotify.com/track/3YCmtcasy6cFh46pLFO4Au) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [שירי דיכאון](https://open.spotify.com/album/1OwZ11I9W3775hVLOfi3YD) | 2:24 |
+| 40 | [שירי דיכאון](https://open.spotify.com/track/3YCmtcasy6cFh46pLFO4Au) | [ים רפאלי](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [שירי דיכאון](https://open.spotify.com/album/1OwZ11I9W3775hVLOfi3YD) | 2:24 |
 | 41 | [DOCTOR \- Radio Edit](https://open.spotify.com/track/4klACZmMGG4qrBoKtcmOS9) | [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DOCTOR](https://open.spotify.com/album/3cVm0FnIMMu6QORjxEcQmS) | 3:32 |
 | 42 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 |
 | 43 | [גיבורה](https://open.spotify.com/track/0KOkf0v3QXz60rjDOMMOK7) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [גיבורה](https://open.spotify.com/album/7GLsPr27L5HOH6jC4kL9Rq) | 3:04 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 58 | [שווארמה ביץ׳](https://open.spotify.com/track/3C3eSyFbaeP3WyIWRZgjkM) | [Teapacks](https://open.spotify.com/artist/1PliqAiazZ7fUWok2vg2Ia) | [שווארמה ביץ׳](https://open.spotify.com/album/4KFfO7OnaeMEbGbqoOOMpK) | 3:18 |
 | 59 | [אבודה](https://open.spotify.com/track/17iWC76G2mmiCnQOftlVfU) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [עכשיו טוב](https://open.spotify.com/album/3WEszgaQcibMYuoOA1WUQs) | 2:32 |
 
-Snapshot ID: `ZvXLUAAAAAD5rV6SYI3XbZegaAnM5nvg`
+Snapshot ID: `ZvXLUAAAAADUD6t6Q3QG245TpFcLR6nm`

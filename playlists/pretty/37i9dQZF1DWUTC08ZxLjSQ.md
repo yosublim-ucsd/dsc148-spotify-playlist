@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Sakt\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,800 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,803 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Solitaire](https://open.spotify.com/track/1KSgJRyubU6AkmV2CoZlyq) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [Solitaire](https://open.spotify.com/album/5YiSks0QIvQBTmCZoviwN8) | 3:16 |
 | 50 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 |
 
-Snapshot ID: `ZuGL8QAAAACYniSsljAL8R1XW5lSGnl+`
+Snapshot ID: `ZuGL8QAAAABSZz5RUTAjPL08oVqmOWew`

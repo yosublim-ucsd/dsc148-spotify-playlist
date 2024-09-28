@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Todos os Futuros",
+        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152027,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,788 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,817 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 49 | [Jattz N The Hood](https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW) | [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Jattz N The Hood](https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M) | 5:23 |
 | 50 | [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 |
 
-Snapshot ID: `Zuu54wAAAABt8la6sOWH5GioMdjAF/ef`
+Snapshot ID: `Zuu54wAAAABu4+MiePr/NmmeuS5CtFUS`

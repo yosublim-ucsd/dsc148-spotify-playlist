@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Lisa Loeb
 
-574 songs - 1 day 0 hr 41 min
+577 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Clap your hands](https://open.spotify.com/track/34qOyRkeL1iCxBvPSOkRm8) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Clap your hands](https://open.spotify.com/album/1cAd8oEc0Dm980LLr6GnmU) | 1:41 | 2023-12-01 | 2024-02-10 |
 | [Clap Your Hands Everybody \- Groove Remix](https://open.spotify.com/track/0SZ47HNnI88FHhOGzVUC5s) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Nick Jr\. Mix It Up! Vol\. 13: Move To The Groove \(The Remixes\)](https://open.spotify.com/album/2s7pcrZt1MjlDJTvPaFmNW) | 2:19 | 2024-07-26 |  |
 | [Clean Up Song](https://open.spotify.com/track/3fnc5XgoI1jlVvxfbD5uMJ) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo Play Songs](https://open.spotify.com/album/4eIWoPxhQsgZ9mt1Rbe3oe) | 2:06 | 2024-05-24 |  |
+| [Clean Up, Clean Up](https://open.spotify.com/track/3gvXo2SmnHdhAp1OPOWItX) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Clean Up, Clean Up \(From Barney's World: Vol\. 1\)](https://open.spotify.com/album/5SUYTiBNO550mLf5OzjYne) | 2:04 | 2024-09-27 |  |
 | [Clipperty Clop](https://open.spotify.com/track/7fzvLNXrhWiV5ZG7JwVfsA) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Marc & Katt](https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC) | [Clipperty Clop](https://open.spotify.com/album/4gO2JdIdYWATxXsy8h04mn) | 2:12 | 2024-07-12 |  |
 | [Come Out Feelings](https://open.spotify.com/track/74aZbvaPLZhlHJhnFaFqnR) | [Miss Katie Sings](https://open.spotify.com/artist/0eaRnbfMCxjbORTx34afUP) | [Just the Way You Are](https://open.spotify.com/album/0RXlviCffVBHnzBbSeklSi) | 2:43 | 2024-08-23 |  |
 | [Consonants Song 1](https://open.spotify.com/track/7kPe9808Q30Qrza7xqDmRv) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Better Letters](https://open.spotify.com/album/1JnmYFuj3tzWN4kdCs9mJY) | 1:55 | 2024-05-03 |  |
@@ -455,6 +456,7 @@
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-29 | 2024-08-24 |
 | [Sticks N Stones](https://open.spotify.com/track/3crz6tvFxibQJzy7zkGLhT) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Sticks N Stones](https://open.spotify.com/album/4gHGGREC4hUVfD4KhICPAH) | 2:15 | 2024-08-09 |  |
 | [Stomp](https://open.spotify.com/track/7kx6ZOUQW56C7ZqtBJSt12) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Stomp](https://open.spotify.com/album/0ypSJu1Po6WFUSbu1dcUS5) | 3:33 | 2024-08-16 |  |
+| [Stomp and Roar like a Dinosaur](https://open.spotify.com/track/2xU66vzMSu4yFQI2CNf52W) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Stomp and Roar like a Dinosaur](https://open.spotify.com/album/2J4QgDASJmDnb5fdNNy3Sg) | 3:01 | 2024-09-27 |  |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-15 | 2024-08-24 |
 | [Strong](https://open.spotify.com/track/6In2DRsxT6UKi6bMjlp6sE) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Strong](https://open.spotify.com/album/31x3iFEsG2cQ6JdV5SirQA) | 3:18 | 2022-04-15 | 2024-01-05 |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 | 2024-08-24 |
@@ -515,6 +517,7 @@
 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2024-01-05 | 2024-02-17 |
 | [This World Is Your World](https://open.spotify.com/track/6VuvPmM9EXMDyOccV9OKlb) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [Songs from Around the World](https://open.spotify.com/album/45EiHpP5CqWfjZLgPy12Ar) | 2:25 | 2024-04-26 |  |
 | [Three Little Birds](https://open.spotify.com/track/0EGDSxAX1PpFnEMNO4lqPz) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Three Little Birds](https://open.spotify.com/album/3oKhc5nP7T8LiJVQtEs1MN) | 3:00 | 2024-03-15 | 2024-08-24 |
+| [Three Primary Colors \(feat\. OK Go\)](https://open.spotify.com/track/4uuMLEtSlaeQNc8b6cGDJP) | [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT), [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [3, 2, 1, Go!](https://open.spotify.com/album/04clncMXkS7xIOjl91UTt5) | 1:30 | 2024-09-27 |  |
 | [Time to Build](https://open.spotify.com/track/7CIqaA1j7F6tOTG5wtUCiQ) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Time to Build](https://open.spotify.com/album/5H7DiEF5EywH5w7QVgAEfy) | 0:57 | 2024-03-15 | 2024-08-24 |
 | [Time to Go \(Sing\-a\-Long\)](https://open.spotify.com/track/3aqtSvRwKSDX6sz5yXocgo) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Now, Let's Play \(Sing\-a\-Long\) Toddler Tunes](https://open.spotify.com/album/5QTxqGDTF9jtOA6yZjQlMP) | 1:15 | 2024-07-26 |  |
 | [Time to Move](https://open.spotify.com/track/75bPD0brXhLSLvtGHous41) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Time To Move](https://open.spotify.com/album/6ua4XdM8I7azOYGYZEe5zA) | 1:01 | 2024-05-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Jimmy D Psalmist
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,344 likes - 105 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,374 likes - 105 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 104 | [Separate and Set Apart \- Live](https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Separate and Set Apart \(Live\)](https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29) | 11:24 |
 | 105 | [FRESH FIRE \- LIVE](https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [FRESH FIRE \(LIVE\)](https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw) | 6:43 |
 
-Snapshot ID: `ZvX1vAAAAABfQrILC2DLm3CX0Tb5xpOn`
+Snapshot ID: `ZvX1vAAAAAAxIXWPcA9R63Nfuh9UlzvC`

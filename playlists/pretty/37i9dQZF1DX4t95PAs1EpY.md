@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,580 likes - 277 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,709 likes - 277 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 276 | [park walk](https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [park walk](https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F) | 2:04 |
 | 277 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
 
-Snapshot ID: `ZtkswAAAAABZyxXU0Ofiw3N+d9sYVWKK`
+Snapshot ID: `ZtkswAAAAAAytp2kgqGGvFPlXou63Faj`

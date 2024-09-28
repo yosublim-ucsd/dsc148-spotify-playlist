@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 245334,
+  "num_followers": 245368,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgXFAAAAABjcnknYhaV5/D/zYjjT0nX",
+  "snapshot_id": "ZsgXFAAAAACSRIVQUGTdSxS7hSimiVk0",
   "tracks": [
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Ese Hombre Soy Yo",
-      "url": "https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Ironia",
         "url": "https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 245146,
       "name": "A Quien Le Importa (Versi\u00f3n Bachata)",
       "url": "https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Ese Hombre Soy Yo",
+      "url": "https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z"
     },
     {
       "added_at": "2024-08-23 04:59:00",

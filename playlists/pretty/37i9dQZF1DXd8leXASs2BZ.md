@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Carz
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,521 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,523 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Sunny Day](https://open.spotify.com/track/50Gbse2cd1N5xF5MjLOJL2) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Sunny Day](https://open.spotify.com/album/3muT6VHrpJM16MqMc3yc97) | 3:00 |
 | 100 | [Like That](https://open.spotify.com/track/1gOJUstp6RPiPolVNj1k4x) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Like That](https://open.spotify.com/album/5JhXXHnuAUFdKJteUCNQCk) | 2:14 |
 
-Snapshot ID: `ZvLT8AAAAAAyN9EgOXW2/w2eJP2OLwdS`
+Snapshot ID: `ZvLT8AAAAABvw6ba5qv73L+jFSpHFfBK`

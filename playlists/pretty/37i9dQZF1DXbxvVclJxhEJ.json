@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 55719,
+  "num_followers": 55759,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlygOAAAAACJV96M4/MHz+7JfKxki8mF",
+  "snapshot_id": "ZlygOAAAAACDKIs1pEWfHLdd85vHq9a2",
   "tracks": [
     {
       "added_at": "2024-06-02 16:39:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Best In Blues",
-        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Evil Gal Blues",
-      "url": "https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Complete Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 208840,
       "name": "Haunted House Blues",
       "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Best In Blues",
+        "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Evil Gal Blues",
+      "url": "https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Female Crazy Blues (Classic Mood Experience)",
-        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204831,
-      "name": "Crazy Blues",
-      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+        "name": "Female Crazy Blues (Classic Mood Experience)",
+        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
       },
       "artists": [
         {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+      "duration_ms": 204831,
+      "name": "Crazy Blues",
+      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Powerhouse Gospel",
-        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
-      },
-      "artists": [
-        {
-          "name": "The Soul Satisfiers Of Philadelphia",
-          "url": "https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "I'm His And He's Mine",
-      "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Classics by Lucky Millinder Orchestra",
         "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 148062,
       "name": "There's Good Blues Tonight",
       "url": "https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Powerhouse Gospel",
+        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
+      },
+      "artists": [
+        {
+          "name": "The Soul Satisfiers Of Philadelphia",
+          "url": "https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "I'm His And He's Mine",
+      "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
     },
     {
       "added_at": "2024-06-02 16:39:20",

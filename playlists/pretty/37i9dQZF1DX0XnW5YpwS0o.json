@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 96508,
+  "num_followers": 96584,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfhBBAAAAABYy2seEdO9sLsnpH9IDD2E",
+  "snapshot_id": "ZfhBBAAAAABbYG4ODjo5uRp1N5xG5rTm",
   "tracks": [
     {
       "added_at": "2024-03-18 13:26:28",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 203333,
       "name": "For Elise",
       "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Gameshow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "My Thoughts On You",
-        "url": "https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx"
+        "name": "Harmless Melodies",
+        "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
       },
       "artists": [
         {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 163690,
-      "name": "2 / 14",
-      "url": "https://open.spotify.com/track/2QwpEi3eNToZCCMMRcOj0u"
+      "duration_ms": 318147,
+      "name": "A Little While",
+      "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Harmless Melodies",
-        "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
+        "name": "My Thoughts On You",
+        "url": "https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 318147,
-      "name": "A Little While",
-      "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
+      "duration_ms": 163690,
+      "name": "2 / 14",
+      "url": "https://open.spotify.com/track/2QwpEi3eNToZCCMMRcOj0u"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2wLujLyrTLBSeU1UrtDd9e"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 233076,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
     },
     {
       "added_at": "2024-03-18 13:26:28",

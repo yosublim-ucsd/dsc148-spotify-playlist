@@ -5045,6 +5045,32 @@
     },
     {
       "album": {
+        "name": "In You (Acoustic) [Live at Albert St]",
+        "url": "https://open.spotify.com/album/0lj6YLFAwfr6fXGbN8TRLr"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        },
+        {
+          "name": "Brett Shaw",
+          "url": "https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "In You (Acoustic) [Live at Albert St]",
+      "url": "https://open.spotify.com/track/3JjkgECEmDpSidE7wPNxMa"
+    },
+    {
+      "album": {
         "name": "In You (Live)",
         "url": "https://open.spotify.com/album/3EFEtAzV6OKU0Cj6BhJM18"
       },
@@ -5064,7 +5090,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 513333,
       "name": "In You - Live",
       "url": "https://open.spotify.com/track/69iGnsdcWQUbiuKyjaztY5"
@@ -5108,6 +5134,24 @@
       "duration_ms": 504514,
       "name": "Inhabit - Live",
       "url": "https://open.spotify.com/track/1WHBWjHUi6Nkyw2PZr6qOV"
+    },
+    {
+      "album": {
+        "name": "Out Of Our Minds - Live at Mosaic Conference",
+        "url": "https://open.spotify.com/album/6Ey16V1Exb9yjahNIRxxiA"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Interlude (Mariah\u2019s Song) - Live",
+      "url": "https://open.spotify.com/track/35xkFr2oTAWn8dBQo4rJn5"
     },
     {
       "album": {
@@ -8243,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/7zJ67vOMZJzhKaARLyVhJg"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Signature",
+      "url": "https://open.spotify.com/track/2omerWpNpiBAIf6IJvAFyU"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/43LOws1RaNJqWSDEf4JIp6"
       },
@@ -8600,7 +8662,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 291458,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/0QqGfCym00XMpy30MtdPKO"
@@ -9956,6 +10018,36 @@
       "duration_ms": 224666,
       "name": "Unexpected Roads",
       "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+    },
+    {
+      "album": {
+        "name": "Up To Something (Live)",
+        "url": "https://open.spotify.com/album/0jJkeMIcLYiqMWKstNEXMg"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Rudy Villarreal",
+          "url": "https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2"
+        },
+        {
+          "name": "Skylar Dayne",
+          "url": "https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460209,
+      "name": "Up To Something - Live",
+      "url": "https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6"
     },
     {
       "album": {

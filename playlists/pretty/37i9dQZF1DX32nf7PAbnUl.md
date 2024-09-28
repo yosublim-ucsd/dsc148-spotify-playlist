@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,608 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,671 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Trucs de choses](https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Trucs de choses](https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm) | 2:54 |
 | 40 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 |
 
-Snapshot ID: `ZrJVrQAAAABiHj+w69QDpzsbvrPy3BE6`
+Snapshot ID: `ZrJVrQAAAABr9+oBfmcOuEU6AJVSpI6h`

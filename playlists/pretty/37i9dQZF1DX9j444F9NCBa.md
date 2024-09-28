@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,870 likes - 296 songs - 15 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,088 likes - 296 songs - 15 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 295 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 |
 | 296 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 |
 
-Snapshot ID: `ZuPv7AAAAABIQD8I5EE3obd1KXOPXjA0`
+Snapshot ID: `ZuPv7AAAAAD7o4T6tTRz4EhebS88YwY/`

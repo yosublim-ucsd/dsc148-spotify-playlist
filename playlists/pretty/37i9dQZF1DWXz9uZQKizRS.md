@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Krzysztof Zalewski
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,440 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,505 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Spotkanie z Warszawą](https://open.spotify.com/track/5hDNh1K9yB8stfqMFqlly7) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Spotkanie z Warszawą](https://open.spotify.com/album/6EhTMfJz1M4X4zICCMimsa) | 2:26 |
 | 100 | [Pod wodą](https://open.spotify.com/track/2D2njkTuNU2sL6qzy1gNhq) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Pod wodą](https://open.spotify.com/album/06R90PYpe53UUVMPLpwWQq) | 2:55 |
 
-Snapshot ID: `ZvXZYAAAAABEHA2H7eBaX/peFQZjPPRT`
+Snapshot ID: `ZvXZYAAAAAAYIWU/8fzEBELclpNP9CIh`

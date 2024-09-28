@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,115 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,121 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 |
 | 50 | [Deeper Feelings](https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r) | [Fiona Kraft](https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt) | [Deeper Feelings EP](https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr) | 7:22 |
 
-Snapshot ID: `Zs5B2gAAAAA3tHYidGaPa1/888ODhSIa`
+Snapshot ID: `Zs5B2gAAAAAnIWD0F3QInx8JMRl8Sb1g`

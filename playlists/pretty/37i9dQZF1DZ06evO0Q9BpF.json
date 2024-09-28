@@ -1,12 +1,12 @@
 {
-  "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 42574,
+  "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
+  "num_followers": 42602,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAABpCJeXmHr/LeOJkX8KE6vc",
+  "snapshot_id": "ZvSkAAAAAADMUfl1LTVogzr0F/g95yJ6",
   "tracks": [
     {
       "added_at": null,
@@ -944,21 +944,21 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        },
-        {
-          "name": "Lorena Castellanos",
-          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
         },
         {
           "name": "Daniela Quintero",
           "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 351200,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/1BZ37xfM1Dmg7oLJtchnV3"
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
     },
     {
       "added_at": null,
@@ -1008,21 +1008,21 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Lorena Castellanos",
+          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
         },
         {
           "name": "Daniela Quintero",
           "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+      "duration_ms": 351200,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/1BZ37xfM1Dmg7oLJtchnV3"
     },
     {
       "added_at": null,

@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pM2KqKhsLT.md) - [plain]
 | 8 | [\#TheT with Turing](https://open.spotify.com/episode/2yVPkMQmJkKhR5TX9a7o4b) | [The Week Sauce](https://open.spotify.com/show/7r4rpfgkyDKJVyA1VnQIUz) | [The Week Sauce](https://open.spotify.com/album/7r4rpfgkyDKJVyA1VnQIUz) | 1:23:12 |
 | 9 | [Who pays on the first date?](https://open.spotify.com/episode/0e8jSwHE6Rql66VMRugHWi) | [Wisdom Bars with Real Talk Darbs](https://open.spotify.com/show/26l99WwuKAyXSCJGXxKmhN) | [Wisdom Bars with Real Talk Darbs](https://open.spotify.com/album/26l99WwuKAyXSCJGXxKmhN) | 23:52 |
 
-Snapshot ID: `ZIsTtgAAAAApahHGfMYNJy6XXuWKw61U`
+Snapshot ID: `ZIsTtgAAAABqZLDvrrrwjzdRxjYBT17d`

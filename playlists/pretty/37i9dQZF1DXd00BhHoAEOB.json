@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 72823,
+  "num_followers": 72842,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrzT2AAAAAC5F0pcOSBzFgEUD9pufw1r",
+  "snapshot_id": "ZrzT2AAAAABFSHwTWvReKRRto41WlfLi",
   "tracks": [
     {
       "added_at": "2024-08-14 15:57:12",
@@ -227,6 +227,26 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Sembrando Flores",
-        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 316520,
-      "name": "Sembrando Flores",
-      "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195613,
       "name": "Amores",
       "url": "https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Sembrando Flores",
+        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 316520,
+      "name": "Sembrando Flores",
+      "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "No tenemos prisa",
+        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
+      },
+      "artists": [
+        {
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+        },
+        {
+          "name": "Eleonor",
+          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Como una punzada",
+      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 228518,
       "name": "Adentro",
       "url": "https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "No tenemos prisa",
-        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        },
-        {
-          "name": "Eleonor",
-          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Como una punzada",
-      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
     },
     {
       "added_at": "2024-08-14 15:57:12",

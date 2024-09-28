@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: CC:Disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,305 likes - 90 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,313 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 89 | [Minted](https://open.spotify.com/track/685odRcL8rBozukVstTHjK) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [To Em / Minted](https://open.spotify.com/album/7oheNuc7kHl29GD6QG7UKL) | 4:27 |
 | 90 | [Blowfish \- Single Version](https://open.spotify.com/track/0TOQlcNu2fZjSdwy8SeiIq) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Blowfish](https://open.spotify.com/album/42r1wa75Y9cZMUsOWFd0Xi) | 3:06 |
 
-Snapshot ID: `ZvVo4AAAAABnPw4ow68szq65nkZSJ7aj`
+Snapshot ID: `ZvVo4AAAAAALtBA1+QUbyjvQhqxNMrCz`

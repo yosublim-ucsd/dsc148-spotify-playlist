@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,347 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,344 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 30 | [NGM De Fora](https://open.spotify.com/track/51xlYvtiz9zpc5FqvTYQoR) | [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [DuaL021](https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH), [Jotta7](https://open.spotify.com/artist/58R1ujQvkCqUT4Ljk9CjVf) | [NGM de Fora](https://open.spotify.com/album/6BYoe5HjRwllZegYuBJ2Ir) | 2:27 |
 | 31 | [Estrategista](https://open.spotify.com/track/2uXQEfnM8QxmTSRxvxKoFB) | [Kaéssi](https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Deejhay Luh](https://open.spotify.com/artist/6XgaXQZo0CgLrcXSeqDDWb), [Xaolin Records](https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm) | [Estrategista](https://open.spotify.com/album/4OpqDbYzp6cPdlR3auuTl0) | 2:46 |
 | 32 | [Mafioso](https://open.spotify.com/track/22XOIijyGcMvNoJ3a2lTH5) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Yuri Primo](https://open.spotify.com/artist/0h05nT9ApNry2PENabj4sl), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [Mafioso](https://open.spotify.com/album/1OCG0tloxa1bQpJaKV7Pi2) | 2:45 |
-| 33 | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/track/4tXaOmIOTfruT3l00t9fyQ) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [BG70](https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/album/24RPHscwFahORa65Mh6L5P) | 2:45 |
+| 33 | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/track/4tXaOmIOTfruT3l00t9fyQ) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [BG70](https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Vibe dos Prédios \(Soudlab\#2\)](https://open.spotify.com/album/24RPHscwFahORa65Mh6L5P) | 2:45 |
 | 34 | [Melhores Dias](https://open.spotify.com/track/75zNDGCcRnQ7HgdNK4KRAh) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:04 |
 | 35 | [Sua Saudade](https://open.spotify.com/track/1etE6wBGPMcJr2xZZQbNgM) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 4:04 |
 | 36 | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/album/4VpX1NU92MkXt0slgyFrbX) | 3:32 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 87 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |
 | 88 | [DESCONSIDERA](https://open.spotify.com/track/06W0pTzzF4h3F710ktH8vi) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [OgEMr](https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ) | 3:02 |
 
-Snapshot ID: `ZvYf7AAAAACA6rce6GC19XigfulLuyRM`
+Snapshot ID: `ZvYf7AAAAAD6bFHlTBMV0U3w2N8vdNYS`

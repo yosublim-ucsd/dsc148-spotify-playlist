@@ -2,7 +2,7 @@
 
 ### [This Is Brandi Carlile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1poioV)
 
-> This Is Brandi Carlile\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Brandi Carlile\. The essential tracks, all in one playlist.
 
 83 songs - 5 hr 20 min
 

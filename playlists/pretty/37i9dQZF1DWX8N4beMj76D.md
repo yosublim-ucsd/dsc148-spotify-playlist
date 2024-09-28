@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,861 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,863 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Tower Of Song](https://open.spotify.com/track/0qPgVf2honwvo1D1y2yAQV) | [Henry Wagons](https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK) | [Tower Of Song](https://open.spotify.com/album/1o9q9Kju40TUi39gcOzHNZ) | 3:33 |
 | 40 | [Take This Waltz](https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 5:58 |
 
-Snapshot ID: `ZMLPJgAAAAButuAhF5LEZGvTGH/rD5Ie`
+Snapshot ID: `ZMLPJgAAAACzISteMN8xKTf/5FWUqubU`

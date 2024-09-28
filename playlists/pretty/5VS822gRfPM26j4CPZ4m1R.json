@@ -1,15 +1,15 @@
 {
   "description": "Playlist",
-  "num_followers": 17190,
+  "num_followers": 17192,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALeoVrPT0DvoKlbx0gvreluYlp2DhA",
+  "snapshot_id": "AAALgikHBeehhWDMQN+8VFkd1gCQMrN8",
   "tracks": [
     {
-      "added_at": "2024-09-20 08:56:37",
+      "added_at": "2024-09-27 11:04:50",
       "album": {
         "name": "Homage to Delusion",
         "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
         }
       ],
-      "duration_ms": 222648,
-      "name": "All this Time",
-      "url": "https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7"
+      "duration_ms": 212036,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/12hFkmzvs2j7n6PeFYFzKc"
     },
     {
       "added_at": "2024-07-16 10:27:49",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru"
     },
     {
+      "added_at": "2024-09-20 08:56:37",
+      "album": {
+        "name": "Homage to Delusion",
+        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "All this Time",
+      "url": "https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7"
+    },
+    {
       "added_at": "2024-06-11 08:52:02",
       "album": {
         "name": "Over When The Night Is Gone",
@@ -61,20 +77,20 @@
       "url": "https://open.spotify.com/track/4aJlY9Zlb7QpPL3uFFhpxP"
     },
     {
-      "added_at": "2024-09-20 08:58:50",
+      "added_at": "2024-09-27 15:05:55",
       "album": {
-        "name": "Homage to Delusion",
-        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3ej7W2e6VBty9PGjowpPB1"
       },
       "artists": [
         {
-          "name": "Marcoca",
-          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
         }
       ],
-      "duration_ms": 275531,
-      "name": "Chasing Tales",
-      "url": "https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6"
+      "duration_ms": 222876,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/45aN0iCBL2gI5Ynj6C9VJd"
     },
     {
       "added_at": "2023-12-15 09:09:08",
@@ -111,6 +127,22 @@
       "duration_ms": 144444,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/3nand3cxcEc7X2yyiCf3U8"
+    },
+    {
+      "added_at": "2024-09-20 08:58:50",
+      "album": {
+        "name": "Homage to Delusion",
+        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "duration_ms": 275531,
+      "name": "Chasing Tales",
+      "url": "https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6"
     },
     {
       "added_at": "2024-07-16 14:29:35",

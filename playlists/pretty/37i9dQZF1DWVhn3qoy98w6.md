@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Cariatydes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,863 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,866 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Donde Estar](https://open.spotify.com/track/3QUzw2jc4HDiEIBMhNA52v) | [Markos Garcia](https://open.spotify.com/artist/1dJaivmsqoJguns0UAmsfX) | [Donde Estar](https://open.spotify.com/album/62bFOK9mn3FYly1ZvUVsT2) | 4:01 |
 | 60 | [Porrito con D10S](https://open.spotify.com/track/58hsDPCfxViYUnXStdCNeC) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [Porrito con D10S](https://open.spotify.com/album/560V4tYlI3Oe4Ib9wpWeU1) | 2:58 |
 
-Snapshot ID: `ZvM2YAAAAABJ5nc0RvCMBecv7PujAQY7`
+Snapshot ID: `ZvM2YAAAAADPxMkjffsOomWz0A/sAcOK`

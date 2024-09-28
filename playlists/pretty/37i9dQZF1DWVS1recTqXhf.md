@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,816 likes - 96 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,048 likes - 96 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 95 | [Guided Sleep Meditation for Clearing Negativity](https://open.spotify.com/track/0FM5PXXxFB2lTHagdByPfh) | [Mindfulness Meditation Deep Relaxation](https://open.spotify.com/artist/3aSxKJYXiBXOGuAY52qqNU) | [Affirmations to Manifest Success and Abundance](https://open.spotify.com/album/0cVBDz4QftAgH4ttZnV9In) | 5:22 |
 | 96 | [Guided Sleep Meditation Part 1](https://open.spotify.com/track/5uoJfHp1C2jjyr4nVPKKWG) | [Anders Rhedin](https://open.spotify.com/artist/4ywbRnYCXjL7Jnb0RVwJmM) | [Guided Sleep Meditation](https://open.spotify.com/album/1I9gIM27EJx8hSdpCsiaEI) | 2:43 |
 
-Snapshot ID: `ZvKpbgAAAADPMa4NopITf2qzHsBuy8kZ`
+Snapshot ID: `ZvKpbgAAAABH1gMLAQX5q8gRjcTJoIWT`

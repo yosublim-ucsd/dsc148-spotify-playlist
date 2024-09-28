@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,728 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,730 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 149 | [Do It Again](https://open.spotify.com/track/1M0R8wiivM8HqsxMEk5BcS) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Dream State](https://open.spotify.com/album/43nVY2OnjsaYqvBcHLVDQN) | 3:20 |
 | 150 | [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 |
 
-Snapshot ID: `ZvXZYAAAAABohTCoCC3BBxNkTivLc/Ox`
+Snapshot ID: `ZvXZYAAAAADG7XuZYF4bPyClfTpwt7YC`

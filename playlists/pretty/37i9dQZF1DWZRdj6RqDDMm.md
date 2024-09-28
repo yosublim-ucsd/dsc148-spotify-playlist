@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=CpG0PAoPTDG4Ofil9G4flQ>Marizu
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,066 likes - 110 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,594 likes - 110 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 109 | [JO JO II](https://open.spotify.com/track/6lq91ltgPdWFxVBacC8Kfp) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR) | [JO JO II](https://open.spotify.com/album/0erZbYjWT8S8cjVOfZ4Alv) | 2:36 |
 | 110 | [Made Me](https://open.spotify.com/track/1yjDzsAmGhp2ERtpB0EGwE) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Made Me](https://open.spotify.com/album/7wzJBGTEo9gBQNEoAr777p) | 2:51 |
 
-Snapshot ID: `ZvX1vAAAAAC1X7PDbH7T0jyDeV5MtlTc`
+Snapshot ID: `ZvX1vAAAAABXzsiHNa8bPXhqDX0ej5Jg`

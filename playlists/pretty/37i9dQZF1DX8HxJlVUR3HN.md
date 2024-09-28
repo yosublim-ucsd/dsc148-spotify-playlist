@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Indochine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,042 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,043 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Isabella Bird's Last Journey](https://open.spotify.com/track/2QGBWtn7Bt0EsicCZlguhd) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Through the Cracks](https://open.spotify.com/album/5wmh8ClUdmaK3ST24NHRn9) | 3:35 |
 | 50 | [Wasted](https://open.spotify.com/track/1v7EnFmEQkRFj3ilzUElwq) | [GRENADE](https://open.spotify.com/artist/3iA64D60HnedIfGDqHmKYW) | [Wasted](https://open.spotify.com/album/34VGAwtVtYRtvwD27nynjX) | 2:29 |
 
-Snapshot ID: `Zuye4AAAAACza50thbXhal+jmtM3veqE`
+Snapshot ID: `Zuye4AAAAAApdi/FqXZeknY7ZydGmiBs`

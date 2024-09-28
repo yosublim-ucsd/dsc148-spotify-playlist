@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Rei.",
+  "description": "Flow sudamericano con Lauty Gram.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 140857,
       "name": "1000mg",
       "url": "https://open.spotify.com/track/2uohrCJ6tRjqn7Z7kJdkci"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 131571,
       "name": "Click",
       "url": "https://open.spotify.com/track/1pt6DOwAtaFCDeBTlfaIXS"
@@ -8142,7 +8142,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 112310,
       "name": "Denali",
       "url": "https://open.spotify.com/track/3L9B0OE4pY3ZXA86CNd9Pk"
@@ -10362,6 +10362,28 @@
       "duration_ms": 172800,
       "name": "ESPEJISMOS",
       "url": "https://open.spotify.com/track/5PE7Jfzw6MNqCIbbhPuXac"
+    },
+    {
+      "album": {
+        "name": "esperando x ti",
+        "url": "https://open.spotify.com/album/3fL2enQxo25NThbATBm5OX"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205494,
+      "name": "esperando x ti",
+      "url": "https://open.spotify.com/track/1sZKi3neC18WSnrncbetkn"
     },
     {
       "album": {
@@ -14058,7 +14080,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 113548,
       "name": "KFC",
       "url": "https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t"
@@ -17688,7 +17710,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 180480,
       "name": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D"
@@ -19450,7 +19472,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160500,
       "name": "My Type",
       "url": "https://open.spotify.com/track/65Xfo3ZkgBrC6GiAcCFW47"
@@ -20093,6 +20115,28 @@
     },
     {
       "album": {
+        "name": "Nih vs La",
+        "url": "https://open.spotify.com/album/3aGFxvcybMUpKTBrFoefy5"
+      },
+      "artists": [
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        },
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Nih vs La",
+      "url": "https://open.spotify.com/track/1vnQbc1VI75vDBzqe5mLar"
+    },
+    {
+      "album": {
         "name": "Nike en mis pies",
         "url": "https://open.spotify.com/album/7jIcByfOrJhrQcvRQSS7Xh"
       },
@@ -20542,6 +20586,28 @@
       "duration_ms": 153333,
       "name": "No Me Quieren",
       "url": "https://open.spotify.com/track/4rcYqqMOw48muBddStyu2A"
+    },
+    {
+      "album": {
+        "name": "No Nos Tumban Ni a Palo",
+        "url": "https://open.spotify.com/album/3064D8LmPSoj1vSOmpfGVw"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191124,
+      "name": "No Nos Tumban Ni a Palo",
+      "url": "https://open.spotify.com/track/4K4LwRM1Oy66LLj6ZpjrtD"
     },
     {
       "album": {
@@ -24143,6 +24209,28 @@
     },
     {
       "album": {
+        "name": "Protocolo Bajo West, Cap. 22",
+        "url": "https://open.spotify.com/album/3HEmlbEnHu0MkKizvhH82t"
+      },
+      "artists": [
+        {
+          "name": "BAJO WEST 1708",
+          "url": "https://open.spotify.com/artist/0TfGwoeA3ZBISVA6uJ34nB"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Protocolo Bajo West, Cap. 22",
+      "url": "https://open.spotify.com/track/5dnU5a07JTNvDzV2XsC4Xq"
+    },
+    {
+      "album": {
         "name": "Pr\u00edncipe Azul",
         "url": "https://open.spotify.com/album/5BQ0EtwwF7ZFO3R347p4h7"
       },
@@ -24503,6 +24591,24 @@
     },
     {
       "album": {
+        "name": "Que onda beb\u00e9",
+        "url": "https://open.spotify.com/album/0QR1zDVGryqbcMWsdsrglX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149700,
+      "name": "Que onda beb\u00e9",
+      "url": "https://open.spotify.com/track/1NmC9f4OiGMNugcvg1SIRO"
+    },
+    {
+      "album": {
         "name": "QUE PASO?",
         "url": "https://open.spotify.com/album/7enAbGMvvw6yieMmxRJyHG"
       },
@@ -24628,7 +24734,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 245454,
       "name": "Queena",
       "url": "https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp"
@@ -26388,6 +26494,28 @@
       "duration_ms": 215853,
       "name": "SE TE HACE TARDE",
       "url": "https://open.spotify.com/track/6kCHVhi2LRE8ydJsSS3XCN"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/65gsyrgDSQzAA3rvLsdx0r"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/1VyevYQGNiW1mb47p69Rof"
     },
     {
       "album": {
@@ -30478,6 +30606,28 @@
       "duration_ms": 184632,
       "name": "UNA GATA",
       "url": "https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf"
+    },
+    {
+      "album": {
+        "name": "UNA LINEA MENOS PARA ELIAN (EL LAPIZ DE ORO)",
+        "url": "https://open.spotify.com/album/0iqygJH8UmSfqqb2uhFIXv"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260019,
+      "name": "UNA LINEA MENOS PARA ELIAN (EL LAPIZ DE ORO)",
+      "url": "https://open.spotify.com/track/4O1bi8pvcz9BPIxTM5hENi"
     },
     {
       "album": {

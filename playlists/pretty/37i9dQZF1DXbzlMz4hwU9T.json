@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 96339,
+  "num_followers": 96384,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZozAWQAAAACdAjXIxMDN3qVtO/DNvCqp",
+  "snapshot_id": "ZozAWQAAAAB/n+RWhHP4kpQWUqYGhR9m",
   "tracks": [
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "\u00c1frika",
+      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "\u00c1frika",
-      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
     },
     {
       "added_at": "2024-01-25 15:55:50",

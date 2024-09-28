@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-197 songs - 11 hr 14 min
+201 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blood Moon](https://open.spotify.com/track/3rr9GJ6muRNyo2zWOEeiTk) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Blood Moon](https://open.spotify.com/album/1RoFmafk2NEWi5723E4PTd) | 4:16 | 2024-05-24 | 2024-07-19 |
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-12 | 2024-07-06 |
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
-| [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 |  |
+| [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 | 2024-09-28 |
 | [COME ALIVE](https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [COME ALIVE](https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol) | 3:13 | 2024-09-20 |  |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 | 2024-03-02 |
 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 | 2024-08-31 |
@@ -73,11 +73,13 @@
 | [Fractured](https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Fractured](https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya) | 3:42 | 2023-11-24 | 2024-05-18 |
 | [From Ashes](https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [From Ashes](https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b) | 2:47 | 2024-01-12 | 2024-01-27 |
 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 | 2024-07-19 |  |
+| [Funny Man](https://open.spotify.com/track/2sIz8tMsAfyXyQVsGTBQcN) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Funny Man](https://open.spotify.com/album/4slAkUCsu5WtFoxo5TCZWd) | 3:30 | 2024-09-27 |  |
 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2023-09-13 |  |
 | [Golden Gloves](https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Heartless](https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye) | 3:06 | 2023-11-17 | 2023-12-16 |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-09-13 | 2023-09-23 |
 | [Hard Knock](https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Hard Knock](https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw) | 2:49 | 2023-10-13 | 2024-03-09 |
 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 | 2024-06-14 | 2024-09-14 |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-27 |  |
 | [Hellstar](https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Hellstar](https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv) | 3:12 | 2024-03-08 | 2024-03-30 |
 | [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 | 2024-07-19 | 2024-08-17 |
 | [Holy Ghost](https://open.spotify.com/track/2JAms7zBxofzF2I70ra3eK) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/5PnW9yv7TIpoWPv9TxFdmk) | 3:13 | 2024-09-20 |  |
@@ -106,6 +108,7 @@
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-09-13 | 2023-09-23 |
 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-09-13 | 2024-02-03 |
 | [LOST!](https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LOST!](https://open.spotify.com/album/1nMZef6fwTtOO1T3SBZDrI) | 2:06 | 2023-11-10 | 2024-01-20 |
+| [LV Vest](https://open.spotify.com/track/78zLP2XihgPOhIiiItDdjE) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [LV Vest](https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ) | 4:08 | 2024-09-27 |  |
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 |  |
 | [Metamorphosis](https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Metamorphosis](https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE) | 3:23 | 2024-06-21 | 2024-07-27 |
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-03-29 | 2024-09-07 |
@@ -140,6 +143,7 @@
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 |  |
 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-06-28 |  |
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-02-02 |  |
+| [Rockstar](https://open.spotify.com/track/7dq9owG0R2pznVhh2oLmXy) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Rockstar](https://open.spotify.com/album/2MNWFQngS2qlOBWU6T9AZp) | 2:55 | 2024-09-27 |  |
 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 | 2024-08-31 |
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 | 2024-03-29 | 2024-05-18 |

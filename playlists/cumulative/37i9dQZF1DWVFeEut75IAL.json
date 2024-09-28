@@ -761,6 +761,44 @@
     },
     {
       "album": {
+        "name": "Bulgaria",
+        "url": "https://open.spotify.com/album/75CM38oTrrHy8RFzpQeiSc"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Clara B\u00fcsel",
+          "url": "https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O"
+        },
+        {
+          "name": "Leandro Hauxwell",
+          "url": "https://open.spotify.com/artist/05wR32yzOF9iIsXlmtiMRu"
+        },
+        {
+          "name": "Alona Khlevna",
+          "url": "https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s"
+        },
+        {
+          "name": "Gereon Theis",
+          "url": "https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv"
+        },
+        {
+          "name": "Vladislav Cojocaru",
+          "url": "https://open.spotify.com/artist/6cMbi1smxNWFnchraYE6gF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241086,
+      "name": "Bulgaria",
+      "url": "https://open.spotify.com/track/782rqTD0wtue0vqytqoQxk"
+    },
+    {
+      "album": {
         "name": "Butterfly Lovers Concerto & Paganini",
         "url": "https://open.spotify.com/album/5YSrunbKaLUUEsq7shIVJk"
       },
@@ -978,6 +1016,24 @@
       "duration_ms": 204520,
       "name": "Cello Sonata in G Minor, Op. 65: III. Largo",
       "url": "https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o"
+    },
+    {
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218325,
+      "name": "Chasing Yesterdays",
+      "url": "https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG"
     },
     {
       "album": {

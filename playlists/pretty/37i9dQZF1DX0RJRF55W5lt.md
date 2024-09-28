@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,081 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,225 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 75 | [Joyrider \- Y Tribe's Underground Remix](https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu) | [Colour Girl](https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH), [Y Tribe](https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj) | [Raw Talent: 3 Years In The Makin' \(2007\-2010\)](https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw) | 3:59 |
 
-Snapshot ID: `ZnGcTAAAAABM/LF7hkr/JX/O1+has7PU`
+Snapshot ID: `ZnGcTAAAAADwmAbp0uhz2d8L3CuKaY+4`

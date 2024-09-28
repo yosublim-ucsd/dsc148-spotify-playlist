@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-108 songs - 5 hr 41 min
+113 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Birthday Party](https://open.spotify.com/track/3mgv9OYYeTzVc0VPWSmb7O) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Birthday Party](https://open.spotify.com/album/0OLYt7jOwKDrqPmavg3VEA) | 3:20 | 2024-06-06 |  |
 | [Bright and Stormy](https://open.spotify.com/track/27xJCJ1TBpcvMufWo5s9xK) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Casino Funk](https://open.spotify.com/album/7zdTI8SbNAs0HWMIKmeolN) | 2:57 | 2024-06-06 |  |
 | [Butterfly](https://open.spotify.com/track/7H92iGJ6ra6mLkY7uo9Nnq) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Butterfly](https://open.spotify.com/album/6Hbg400CdJKeXc8vYleUfw) | 2:34 | 2024-06-06 |  |
+| [Chromatic Sky](https://open.spotify.com/track/5YhUq6wODRqhDilhRpRIyw) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Chromatic Sky](https://open.spotify.com/album/5jbTBh9JClFOg0sLu2p5H1) | 2:40 | 2024-09-27 |  |
 | [Closing Time](https://open.spotify.com/track/6WKcQAFYIuTGn5pKbieIkJ) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Closing Time](https://open.spotify.com/album/33clJsstzLJi7PFhzuZM57) | 3:46 | 2024-06-06 | 2024-09-14 |
 | [Comets](https://open.spotify.com/track/0cpdd5Mes64WIBVsTHLsfr) | [Moxin](https://open.spotify.com/artist/21i1EconrVQRBtLQ8j1CLJ), [Kabes](https://open.spotify.com/artist/483Rl4WY6iIJ9czOrOgymb), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Comets](https://open.spotify.com/album/60iorWok6qsipEMMIxyMzd) | 2:31 | 2024-09-05 |  |
 | [Coming Home](https://open.spotify.com/track/3lDdclRD0pjJwhHjXjErEn) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Coming Home](https://open.spotify.com/album/4Msz8zKMwr7HpFNBaj9t4l) | 3:16 | 2024-09-05 |  |
@@ -48,11 +49,13 @@
 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 | 2024-06-06 |  |
 | [Game Changer](https://open.spotify.com/track/6A32QbIZSDMf2XjWXZzuxg) | [The Big Let Down](https://open.spotify.com/artist/6xyuBVDedXYKfog6HWaJCR) | [Game Changer](https://open.spotify.com/album/5TDq44iN68JvxiA47gbNkH) | 3:32 | 2024-07-16 |  |
 | [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 | 2024-06-06 |  |
+| [ghost](https://open.spotify.com/track/4aq30tjWBZBsfzWlog31R6) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [ghost](https://open.spotify.com/album/1vsOZvcy71weRgIc4tzsGH) | 2:46 | 2024-09-27 |  |
 | [Glide](https://open.spotify.com/track/1IJkYdWKbtkkyhEdXjqeLX) | [Whilefalse](https://open.spotify.com/artist/1ixu62yr2QwyZ1EFALxgCF) | [Glide](https://open.spotify.com/album/4euepUf6is3WgmqOPpvisj) | 3:20 | 2024-09-05 |  |
 | [Glint](https://open.spotify.com/track/3wq9bm0WA6PjX1thMwojWI) | [Moiré Lights](https://open.spotify.com/artist/0hvQek6XUHfM89K9bBFiqe) | [Harsh Light](https://open.spotify.com/album/14m691uqlsr4P4nWPOJsil) | 3:01 | 2024-08-10 |  |
 | [Great Ones](https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Great Ones](https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9) | 2:46 | 2024-06-06 |  |
 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 | 2024-06-06 |  |
 | [Happy Days](https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Happy Days](https://open.spotify.com/album/16uHtWmXhndf4gMHAJQjtH) | 2:46 | 2024-06-06 |  |
+| [I Am a Robot](https://open.spotify.com/track/6bQHUlRgLwqZCHXDcJVtpU) | [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [I Am a Robot](https://open.spotify.com/album/3ZOtqAZwoHJvj4NcxHds9s) | 2:24 | 2024-09-27 |  |
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 |  |
 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 | 2024-08-16 |  |
 | [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
@@ -68,6 +71,7 @@
 | [Meteora](https://open.spotify.com/track/440DUQsi26Bs7AiLEVFUTx) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Meteora](https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw) | 3:38 | 2024-06-06 |  |
 | [Metro](https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Evenings, Vol\. 1](https://open.spotify.com/album/10UNH2oeQQas3dRWzqODeX) | 2:46 | 2024-06-06 |  |
 | [Metro Station](https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Metro Station](https://open.spotify.com/album/0KpgNqVswTCRZgs0m871bZ) | 2:41 | 2024-06-27 |  |
+| [Midnight Tide](https://open.spotify.com/track/2bCUEbjiYmPvLWaSrGdD92) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Midnight Tide](https://open.spotify.com/album/3bZ1IBAU6FU59iHar4OZ76) | 3:10 | 2024-09-27 |  |
 | [Nebula](https://open.spotify.com/track/5akzWjgEj7b2M0qqQvx7TD) | [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Hot Pursuit](https://open.spotify.com/album/7fjnxACrad6JzIogFWUpNy) | 2:26 | 2024-06-06 | 2024-06-21 |
 | [Neon Lights Neon Dreams](https://open.spotify.com/track/27n3QDmpOsE5Pd26qHaAi8) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Laser Grid](https://open.spotify.com/album/1O6jceh2300fqEst2zF598) | 2:58 | 2024-06-06 | 2024-08-11 |
 | [New Frontier](https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:05 | 2024-06-06 | 2024-06-21 |
@@ -89,6 +93,7 @@
 | [Radiate](https://open.spotify.com/track/21zlF8F7xfYvbMnM9atda1) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Radiate](https://open.spotify.com/album/7BITBWHql9BZNZmdKNmZze) | 3:51 | 2024-06-06 |  |
 | [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 | 2024-06-06 |  |
 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 | 2024-06-06 | 2024-06-21 |
+| [Retrospective](https://open.spotify.com/track/424yw05HVjjPldglLjJtmy) | [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Retrospective](https://open.spotify.com/album/1ZDwHFLH5XczqjNJLmgOoM) | 4:19 | 2024-09-27 |  |
 | [Roxanne](https://open.spotify.com/track/1Ju6i9d28t9786RVrm1GGz) | [Velvet Pillows](https://open.spotify.com/artist/65CuhifhbwR2bSo6OWTrJM) | [Roxanne](https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1) | 3:14 | 2024-06-06 |  |
 | [Runaway Hits](https://open.spotify.com/track/1txPfOfGv4KDLbT8fxMJpx) | [Silva Silvester](https://open.spotify.com/artist/0qX6jHWN2dF8OAGysAJl9Y) | [Runaway Hits](https://open.spotify.com/album/3HbfhUt88VoXeYx7CUMnwv) | 3:10 | 2024-06-06 | 2024-06-13 |
 | [Runway](https://open.spotify.com/track/2pgjNImh0JcvNHsI1NiqhK) | [KING PALM](https://open.spotify.com/artist/54GbY8x05TU5lF1wjGAGwq) | [Air Travel](https://open.spotify.com/album/1k5ceOJjWpz4y3AeJ5WZ7d) | 3:26 | 2024-06-06 | 2024-07-17 |

@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas (Welcome to the Family)",
+        "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Merry Christmas (Welcome to the Family)",
+      "url": "https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2"
+    },
+    {
+      "album": {
         "name": "Mistletoe",
         "url": "https://open.spotify.com/album/5yKrfiqUnysdF0pEJYbZ8V"
       },

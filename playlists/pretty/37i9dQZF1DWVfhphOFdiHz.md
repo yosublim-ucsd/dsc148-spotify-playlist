@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Jordan Suaste
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,427 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,437 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [True Love](https://open.spotify.com/track/2cfLC8bOBaD5NpPIJkA5GL) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [True Love](https://open.spotify.com/album/7vTClo3CilIXBe6rSgTViP) | 2:33 |
 | 100 | [Win Me Over](https://open.spotify.com/track/4I0PJAhToG8Wxn3Mc2Z9ao) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Revolution](https://open.spotify.com/album/3hQtaxXNlSKpCz1Li6BiUm) | 3:16 |
 
-Snapshot ID: `Ztp+QAAAAACBLVF/nQn5IOR/S0x5FySh`
+Snapshot ID: `Ztp+QAAAAACsHFcriXO/UM1yGCYE0OYB`

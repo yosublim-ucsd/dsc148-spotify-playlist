@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Tia Wood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,819 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,867 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 53 | [Dreamcatcher](https://open.spotify.com/track/4zeDqxmK6x1ZGqQZGz1jOr) | [Leonard Sumner](https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5) | [Thunderbird](https://open.spotify.com/album/404e7x6YmiTvr8fWZCLbII) | 3:28 |
 | 54 | [LIGHT$ N CAMERA$ \- Radio Edit](https://open.spotify.com/track/4AJvhpOlnyz9d47YS9EtbC) | [NorthSideBaby](https://open.spotify.com/artist/0l9tQsNc6OdBFexHhjrI23), [Nevad Brave](https://open.spotify.com/artist/6zXvXdvLRTONKibZ4DT4iq) | [NORTHSIDEBABY \(Radio Edit\)](https://open.spotify.com/album/10CFFUNlNkvrxaNvaI7d07) | 2:54 |
 
-Snapshot ID: `Ztp+QAAAAABHJcxPLPRg5lRUTQpibRcR`
+Snapshot ID: `Ztp+QAAAAAClbPAEZJCG3DyxwJqX1sBT`

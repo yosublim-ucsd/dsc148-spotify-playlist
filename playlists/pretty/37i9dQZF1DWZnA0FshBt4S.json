@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href=\"spotify:artist:1zK4ACgLi1lVPpfmmcwOTh\">DC Talk</a>",
-  "num_followers": 113627,
+  "num_followers": 113670,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocjuAAAAADKiQu+Y/GgC7Il4T71wrfG",
+  "snapshot_id": "ZocjuAAAAACUE/E7pIA7zApp1CEPUUjT",
   "tracks": [
     {
       "added_at": "2024-07-04 20:41:02",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "Ready To Fly",
-        "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
-      },
-      "artists": [
-        {
-          "name": "FFH",
-          "url": "https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "Third Day",
         "url": "https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 249733,
       "name": "Consuming Fire",
       "url": "https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
+      },
+      "artists": [
+        {
+          "name": "FFH",
+          "url": "https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G"
     },
     {
       "added_at": "2024-07-04 20:41:02",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Get This Party Started",
+      "url": "https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
         "name": "40 Acres",
         "url": "https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 220133,
       "name": "A Flowery Song",
       "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Get This Party Started",
-      "url": "https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU"
     },
     {
       "added_at": "2024-07-04 20:41:02",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
-      },
-      "artists": [
-        {
-          "name": "Jump5",
-          "url": "https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Why Do I Do",
-      "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "The Waiting Room",
         "url": "https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227293,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
+      },
+      "artists": [
+        {
+          "name": "Jump5",
+          "url": "https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Why Do I Do",
+      "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
     },
     {
       "added_at": "2024-07-04 20:41:02",

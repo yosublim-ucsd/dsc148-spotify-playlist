@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: CADEJO\(까데호\)\)
+> All about Korean Jazz hits & new \(Cover: U.BAR.E\(유발이\)\)
 
-217 songs - 15 hr 36 min
+218 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 |  |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |
+| [Fine waltz](https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Fine waltz](https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99) | 3:14 | 2024-09-27 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 | 2024-09-04 |  |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 |  |

@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-183 songs - 10 hr 4 min
+184 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 | 2023-09-29 | 2024-04-10 |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 | 2023-07-23 |
 | [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 | 2023-07-14 | 2024-04-10 |
+| [God Blessed Texas \- Dios Bendijo Tejas](https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [Sunny Sauceda](https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg), [Rico Gonzalez](https://open.spotify.com/artist/3j5zo7b5Y9LJ8wNchavXIi) | [God Blessed Texas \- Dios Bendijo Tejas](https://open.spotify.com/album/4hgTfYHTpkBr4Go7yc8xzo) | 3:29 | 2024-09-27 |  |
 | [Gosta de Caras Assim](https://open.spotify.com/track/1bK1a1ghaYc1IcSfEQPYRs) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Gosta de Caras Assim](https://open.spotify.com/album/6Z1HPVHsaU9qg4rBVoVykm) | 3:25 | 2024-08-23 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-05 |  |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 | 2024-04-10 |

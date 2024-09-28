@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Dyna V
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,550 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,552 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 3 | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Nam Joyy](https://open.spotify.com/artist/5EmyuvZ2el2R60zp7eCok8) | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4) | 3:39 |
 | 4 | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/track/42MPizZIHYhxzXVJ4DyLFS) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/album/3vqMiWee53qdzDXPhowGu4) | 4:04 |
 | 5 | [cứ để em lo](https://open.spotify.com/track/4FsGxuRrheMWN0nApLQ3B2) | [salmon](https://open.spotify.com/artist/2xHirxzZNMj4aNQ5gm3E7O), [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [ocean.](https://open.spotify.com/artist/2uogG5rfMBSXPbm8pwQaAF) | [bittersweet](https://open.spotify.com/album/5M3qG8rKExBTT9itcJBeP1) | 2:56 |
-| 6 | [Waterfall](https://open.spotify.com/track/7gBiJ63vMrVQcFkKRHRTIA) | [Dyna V](https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Waterfall](https://open.spotify.com/album/1eoQQOw7Ppp8hEUI4M6WEX) | 3:10 |
+| 6 | [Waterfall](https://open.spotify.com/track/7gBiJ63vMrVQcFkKRHRTIA) | [DYNA V](https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Waterfall](https://open.spotify.com/album/1eoQQOw7Ppp8hEUI4M6WEX) | 3:10 |
 | 7 | [Ơ Quá Nhiều](https://open.spotify.com/track/4CpG4OPCjJEfVeY4Jgsf4p) | [Thế Anh Shinichi](https://open.spotify.com/artist/6KVon2JPHz5A89ID6Ckzjt), [Bảo Trâm Ryy](https://open.spotify.com/artist/4jc7fOKdFGo87K9iXAB8sB) | [Ơ Quá Nhiều](https://open.spotify.com/album/0W1URc2XGI2G2vgdZ9DXz9) | 3:47 |
 | 8 | [Yêu Em Hơn Chính Em](https://open.spotify.com/track/0wgjBFdrm7UEUHfOaQqikt) | [Phan Thanh Nhàn](https://open.spotify.com/artist/7dgX8INIOI7DBw2yfX7MyT) | [Nàng](https://open.spotify.com/album/6EahRONNhIaALuV4VdrSuO) | 4:00 |
 | 9 | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/track/2whoMvTSstJqIS97nkV86c) | [4ward](https://open.spotify.com/artist/3ti1GHWONsfMrH0SdMeFQr), [HKayy](https://open.spotify.com/artist/0apE0aOjydd6Dmaw22mncd), [XNBC](https://open.spotify.com/artist/2XHgi3GL7NWNWoY6b6JqvK) | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/album/7vKZc4dEv9VOfLtoQW76Zi) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Nếu Biết Trước Sẽ Buồn](https://open.spotify.com/track/4Td1yP2XmVoFJzhWQy5sj8) | [Cao Trung Hiếu](https://open.spotify.com/artist/15FSTGdPc6v6LuyK8E5mxL), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e) | [Nếu Biết Trước Sẽ Buồn](https://open.spotify.com/album/2wRBeyHojiZbKgl46beXn1) | 3:51 |
 | 100 | [NANLTVS](https://open.spotify.com/track/2LpsitOKUKA6B4QofHRQ8f) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [Layer Chan](https://open.spotify.com/artist/0nKGnWLuugIpruNhvfz2B4) | [NANLTVS](https://open.spotify.com/album/6U5gJSOPq37bwVl7dbqPlC) | 3:17 |
 
-Snapshot ID: `ZvX7jgAAAAATCEg3w9OtF5v4Ghi4ln4Y`
+Snapshot ID: `ZvX7jgAAAAC4Nk46oTyzrAcPxhsmWpEk`

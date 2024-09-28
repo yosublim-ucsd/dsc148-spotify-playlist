@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
-  "num_followers": 192494,
+  "num_followers": 192546,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAANFhWnR/WGTtbpArRZFgZ0",
+  "snapshot_id": "ZvSkAAAAAAB31hhJT3fIsXVoLUyPnB46",
   "tracks": [
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Conciencia Contrareloj",
-      "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
+      "duration_ms": 261839,
+      "name": "A\u00fan Sigo Cantando",
+      "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tracci\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 261839,
-      "name": "A\u00fan Sigo Cantando",
-      "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
+      "duration_ms": 177600,
+      "name": "Conciencia Contrareloj",
+      "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
     },
     {
       "added_at": null,

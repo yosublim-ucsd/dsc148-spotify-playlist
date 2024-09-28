@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,949 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,920 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 |
 | 50 | [Boujee](https://open.spotify.com/track/0UqctutoxkAsS7pbfF3KQk) | [Matt Terry](https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV) | [Boujee](https://open.spotify.com/album/1Bi4KnPVCURk8qndajRD8y) | 3:19 |
 
-Snapshot ID: `ZvJm2gAAAAA4brkf8Z51APHE2jWfupbh`
+Snapshot ID: `ZvJm2gAAAADG3XlI1BdW/FE36ZEo/P0w`

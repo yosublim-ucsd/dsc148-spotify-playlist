@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Marcelo Rubio",
+  "description": "Fresh Latin pop on the rise. Cover: Humbe",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 207567,
       "name": "Especial",
       "url": "https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD"
@@ -6331,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "album": {
         "name": "Kokeo",
         "url": "https://open.spotify.com/album/5Zsf7H9Z5QMKV8GcXjQ3wC"
       },
@@ -6648,6 +6666,24 @@
       "duration_ms": 162536,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/4wDkJJwpQsY6QVzHdn2Fcd"
+    },
+    {
+      "album": {
+        "name": "LA NOSTALGIA",
+        "url": "https://open.spotify.com/album/09F4Y5cIGGhx9VqmwWcPZV"
+      },
+      "artists": [
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "LA NOSTALGIA",
+      "url": "https://open.spotify.com/track/3kezPeLt6ePJAj9Q7ZfqRO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:76dDIM8amCY58U3uvr1Rw1">Karen Clark Sheard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,997 likes - 79 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,023 likes - 79 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 78 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
 | 79 | [Midnight Hour](https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [In Times Like These](https://open.spotify.com/album/2PALArxxYv8saqhds083oC) | 2:44 |
 
-Snapshot ID: `ZtGaaAAAAACUTNS7ovOwWteERL4FBpre`
+Snapshot ID: `ZtGaaAAAAADCHFsgaKPwCoBAbNBw/g65`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: <a href=\"spotify:artist:6d9rhdwIVsqblUFXu7qEBp\">Gable Price and Friends</a>",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: <a href=\"spotify:artist:692n9oP6XtKux7LbSOnkSC\">bodie</a>",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 210330,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222960,
       "name": "Break Out - Live",
       "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
@@ -410,6 +410,28 @@
       "duration_ms": 235153,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/7xW5tHVs9If6b4hFKG9o3Y"
+      },
+      "artists": [
+        {
+          "name": "Good Weather Forecast",
+          "url": "https://open.spotify.com/artist/4HkAv0IL2kiVIC4CylhUer"
+        },
+        {
+          "name": "Elijah Thomas",
+          "url": "https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167027,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/15KqesHCCZXcIXOCdCLbFt"
     },
     {
       "album": {
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 132035,
       "name": "Church Hurt",
       "url": "https://open.spotify.com/track/23PnFzMYPLIqB8Sl3hxadP"
@@ -845,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Died For You",
+        "url": "https://open.spotify.com/album/63BssdiZm5LiKoinxDDQZs"
+      },
+      "artists": [
+        {
+          "name": "Elijah Thomas",
+          "url": "https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "Died For You",
+      "url": "https://open.spotify.com/track/0d7KJz83m6DcuymWGgfxtm"
+    },
+    {
+      "album": {
         "name": "Don't do Molly",
         "url": "https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ"
       },
@@ -882,6 +922,32 @@
       "duration_ms": 291285,
       "name": "Don't Know If I Believe It",
       "url": "https://open.spotify.com/track/66UdVUAmxmLFSkJQ5PF7Oe"
+    },
+    {
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/2HW1AsJrEMJfVmXSkvHMzc"
+      },
+      "artists": [
+        {
+          "name": "RudyWade",
+          "url": "https://open.spotify.com/artist/5wPHD9nWphKcikUhKUzIdY"
+        },
+        {
+          "name": "Tony22",
+          "url": "https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm"
+        },
+        {
+          "name": "Jude Barclay",
+          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/2idkA8G3ndcNmUS5tpiWig"
     },
     {
       "album": {
@@ -932,7 +998,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 177804,
       "name": "evergreen love",
       "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
@@ -972,6 +1038,24 @@
       "duration_ms": 211719,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
+    },
+    {
+      "album": {
+        "name": "Jungle In The City",
+        "url": "https://open.spotify.com/album/1lslX7adoOFVX9DMGRpK49"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239293,
+      "name": "Fall In Love With The Light",
+      "url": "https://open.spotify.com/track/16StXt03d3fgPTwku3vCbH"
     },
     {
       "album": {
@@ -1283,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "FREE MAN",
+        "url": "https://open.spotify.com/album/4NH0OIVKH3u71ls0wgCHRL"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "FREE MAN",
+      "url": "https://open.spotify.com/track/2GkUxvdFhEXfDG9upxhV9I"
+    },
+    {
+      "album": {
         "name": "Free?",
         "url": "https://open.spotify.com/album/6yJ2VI1c4Z8sREUJp0jek9"
       },
@@ -1330,7 +1432,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
@@ -1384,10 +1486,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 140831,
       "name": "GOD DID",
       "url": "https://open.spotify.com/track/63p2x86NKG3b2EMlszRhyx"
+    },
+    {
+      "album": {
+        "name": "gonna have to trust you",
+        "url": "https://open.spotify.com/album/19rpmdgREtdsWaI2F5SaIB"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212219,
+      "name": "gonna have to trust you",
+      "url": "https://open.spotify.com/track/25UFgBDiBqRl081ODwyRvF"
     },
     {
       "album": {
@@ -1420,7 +1540,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 170530,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/07Dznl74Pd7oHg52EOfF8o"
@@ -1518,6 +1638,24 @@
       "duration_ms": 234890,
       "name": "Heaven Is Everywhere",
       "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
+    },
+    {
+      "album": {
+        "name": "Heaven Is Here Now",
+        "url": "https://open.spotify.com/album/0dJFZZItEluAtb79DJX6cX"
+      },
+      "artists": [
+        {
+          "name": "HERITVGE",
+          "url": "https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187427,
+      "name": "Heaven Is Here Now",
+      "url": "https://open.spotify.com/track/4TAhpfDCwvvLhOsvNRBWiY"
     },
     {
       "album": {
@@ -1975,6 +2113,42 @@
     },
     {
       "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/013O6wEINTw8EV61nxGA2z"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140654,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/7znhYJ3efuOx1P3vpoIxIe"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/6BV3ZkhuV5imTw4VjecK9z"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/5qPBpx8x9EofaXhDn4amI6"
+    },
+    {
+      "album": {
         "name": "interrobang",
         "url": "https://open.spotify.com/album/2eCj0PMfseKwgIWhckMwSY"
       },
@@ -2313,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "HAPPY TO BE HERE",
+        "url": "https://open.spotify.com/album/2yL7ZUWn3LNeZe1IIDjrOD"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165814,
+      "name": "LIAR LIAR",
+      "url": "https://open.spotify.com/track/5Kucl7me7FqouDlCPZUmuF"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT"
       },
@@ -2457,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "Maybe Maybe Maybe",
+        "url": "https://open.spotify.com/album/6s86H6gGDAPmpDq4zVv7jx"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "Alex Taylor",
+          "url": "https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "Maybe Maybe Maybe",
+      "url": "https://open.spotify.com/track/4XWbBXgPMm0vreJliiU4QI"
+    },
+    {
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
@@ -2588,7 +2802,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 201358,
       "name": "My Heart Alone",
       "url": "https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc"
@@ -2650,7 +2864,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 256186,
       "name": "Newspaper Boat",
       "url": "https://open.spotify.com/track/4Ji0qrNoExLxTlu0ezFKmR"
@@ -3013,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Pushing My Way To The Top",
+        "url": "https://open.spotify.com/album/6OY2XYQ419FlmGDEQex1BE"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "Pushing My Way To The Top",
+      "url": "https://open.spotify.com/track/6ZWHNpPwiLG3cwwnw58Qjw"
+    },
+    {
+      "album": {
         "name": "Stages Of A Breakdown",
         "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
       },
@@ -3224,7 +3456,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 262254,
       "name": "Run - Twenty Version",
       "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
@@ -3402,7 +3634,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 232040,
       "name": "Still Mighty",
       "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
@@ -3481,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "sunset silhouette",
+        "url": "https://open.spotify.com/album/30pqnGG5np9LgBTKoOcNg7"
+      },
+      "artists": [
+        {
+          "name": "Strings And Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176181,
+      "name": "sunset silhouette",
+      "url": "https://open.spotify.com/track/5aBhoxCIkOb1odJhyWOM6v"
+    },
+    {
+      "album": {
         "name": "Sweet Silence",
         "url": "https://open.spotify.com/album/0JrjPGRHKnlw7jC8fl37Ne"
       },
@@ -3503,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/4GG51UZXjKhrRsXY9sX1WH"
+      },
+      "artists": [
+        {
+          "name": "Collington",
+          "url": "https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/0KqQuPC2RgmsxQPhu1TCZp"
+    },
+    {
+      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B"
       },
@@ -3518,6 +3786,24 @@
       "duration_ms": 207471,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
+    },
+    {
+      "album": {
+        "name": "Taste Another Day",
+        "url": "https://open.spotify.com/album/4VtCG7OA1u5THNX1GkytHL"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "Taste Another Day",
+      "url": "https://open.spotify.com/track/2Pezb5u4BHTGCCaTafDML6"
     },
     {
       "album": {
@@ -3662,6 +3948,24 @@
       "duration_ms": 277839,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/6ib5TpsfZglT3tieqg9Ley"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/0No4JXFrO3RB7i6dVmcse7"
+      },
+      "artists": [
+        {
+          "name": "Trev",
+          "url": "https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235897,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/5b0TJbToMUrAkuy8XCMwin"
     },
     {
       "album": {
@@ -3810,6 +4114,42 @@
       "duration_ms": 184986,
       "name": "Welcome To The Gift Of Being Wrong",
       "url": "https://open.spotify.com/track/506jAyKYUhNWOBQhJ5XCyU"
+    },
+    {
+      "album": {
+        "name": "the Kurtis Hoppie LP",
+        "url": "https://open.spotify.com/album/2exd4zXDBXSVy3Anm6x1pJ"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/3h8rKJXmMHIjMxxaepvLLP"
+    },
+    {
+      "album": {
+        "name": "The Process (Deluxe) [Clean]",
+        "url": "https://open.spotify.com/album/4nPlzTW356DylMSmm22dxI"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168031,
+      "name": "What A Time To Be Alive",
+      "url": "https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH"
     },
     {
       "album": {
@@ -3973,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Words Don\u2019t Pay",
+        "url": "https://open.spotify.com/album/3eVfIo1bgGczvaoYxiK0Ig"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190764,
+      "name": "Words Don\u2019t Pay",
+      "url": "https://open.spotify.com/track/7mUIZS6AH2eVNhPdgPmSKz"
+    },
+    {
+      "album": {
         "name": "Worldwide Revival",
         "url": "https://open.spotify.com/album/1ZLstBrktLsyluftsWMNye"
       },
@@ -4081,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "Pixelated Haze",
+        "url": "https://open.spotify.com/album/2SNbcpxpnvfbg7KuxsrB9w"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "You Are My Sweater",
+      "url": "https://open.spotify.com/track/75fkHyheSV8EvhTF1dfT0q"
+    },
+    {
+      "album": {
         "name": "You Are Not Far",
         "url": "https://open.spotify.com/album/51oVPxUN4Edw1WSrwhqtyq"
       },
@@ -4114,6 +4490,24 @@
       "duration_ms": 207654,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/1TGiOGUsYIKJTkFzezu2tX"
+    },
+    {
+      "album": {
+        "name": "Your Cross Is Everything",
+        "url": "https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235954,
+      "name": "Your Cross Is Everything",
+      "url": "https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,510 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,508 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 37 | [Blue](https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [HEARTCORE](https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN) | 4:29 |
 | 38 | [Wszystkie narkotyki świata](https://open.spotify.com/track/3fVqdsGyi34YN1MdLUHtaF) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Wszystkie narkotyki świata](https://open.spotify.com/album/5oaYpD16K3Q1Q7aqa1UJVe) | 4:13 |
 | 39 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
-| 40 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
-| 41 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
+| 40 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
+| 41 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
 | 42 | [Etna](https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 4:20 |
 | 43 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
 | 44 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 57 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
 | 58 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 59 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
-| 60 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
-| 61 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
+| 60 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
+| 61 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 62 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
 | 63 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
 | 64 | [Wonderland In Alice \- Big Band Live](https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Big Band Live](https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy) | 3:34 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 72 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 73 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |
 | 74 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
-| 75 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
-| 76 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
+| 75 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
+| 76 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
 | 77 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 89 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
 | 90 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
 
-Snapshot ID: `ZgE7OQAAAADt1nonr8MgMSbXNCBEKblz`
+Snapshot ID: `ZgE7OQAAAABvE/R7++rgUPavQXQyAKhz`

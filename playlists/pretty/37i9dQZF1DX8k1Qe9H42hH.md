@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k1Qe9H42hH.md) - [plain]
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,433 likes - 95 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,542 likes - 95 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k1Qe9H42hH.md) - [plain]
 | 94 | [What's My Name](https://open.spotify.com/track/08AB4WKDvxksMBTGy4EIaM) | [Natalie Nayar](https://open.spotify.com/artist/60rWs2TV4qieYDnQwV2Imu), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi: Descendants](https://open.spotify.com/album/4EsXYSOiDfehcKIyPX7DQC) | 2:16 |
 | 95 | [The Mandalorian](https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz) | [Nick Pingree](https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 2:58 |
 
-Snapshot ID: `ZpnkwAAAAACNLWoRVPrd5iw6RP2r1nZq`
+Snapshot ID: `ZpnkwAAAAABOv8riGl+5x9DOjVofh1Fy`

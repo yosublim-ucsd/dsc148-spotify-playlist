@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-221 songs - 13 hr 35 min
+222 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,10 +189,11 @@
 | [Shine Like The Sun \- Nu:Logic Remix](https://open.spotify.com/track/5JuRFvtHG8FJ4lSc0tZ7bh) | [Thomas Oliver](https://open.spotify.com/artist/5ZwD9tfnJ04kM0qgPSMzgy), [Matthew Gresham and Daniel Gresham](https://open.spotify.com/artist/2xnn4IjzRZLQMsoHgCLJRe) | [Shine Like The Sun \(Nu:Logic Remix\)](https://open.spotify.com/album/0Gkr5s5Tw3QjwhxzcW2nfP) | 5:14 | 2023-05-19 | 2023-06-13 |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-05-19 |  |
 | [Sinner](https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Sinner](https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW) | 2:37 | 2024-04-04 |  |
+| [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 | 2024-09-27 |  |
 | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M) | 2:58 | 2024-04-04 |  |
 | [So Fly](https://open.spotify.com/track/4zt7iHmZ9CuRLJ7uWhv7SD) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w) | [So Fly](https://open.spotify.com/album/0bAR4Eq0isrSRqbiBTayf3) | 3:42 | 2024-05-09 | 2024-05-12 |
 | [Spray Tan](https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Spray Tan](https://open.spotify.com/album/3XnoM2emoZPBKK9rFkmqTI) | 2:35 | 2024-05-09 | 2024-08-21 |
-| [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 | 2024-09-19 |  |
+| [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 | 2024-09-19 | 2024-09-28 |
 | [stargirl](https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [stargirl](https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e) | 2:54 | 2024-09-19 |  |
 | [Stick Around](https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Stick Around](https://open.spotify.com/album/6Q7TozLPNkSJFfMH1GawgN) | 3:10 | 2024-05-24 |  |
 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 | 2022-08-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJR1DWfHjWw.md) - [plain]
 
 > Les plus grands hymnes de stade du rock\. Photo : Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,165 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,188 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJR1DWfHjWw.md) - [plain]
 | 49 | [Amerika](https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:46 |
 | 50 | [Hygiaphone \- Live 2016](https://open.spotify.com/track/6Wm794waaG0FaHpcQmdqWI) | [Les Insus](https://open.spotify.com/artist/2g0sI6XYIEeZAXMqLvb0Sa) | [Les Insus Live](https://open.spotify.com/album/706A8Q1YTAjb76wp45KgZN) | 3:08 |
 
-Snapshot ID: `ZtNdiwAAAACjuVxHKAxpa9layzxUBzdT`
+Snapshot ID: `ZtNdiwAAAAC3NWnQ38q9VFwjLt+7HvNQ`

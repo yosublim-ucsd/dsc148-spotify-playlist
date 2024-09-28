@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 9 | [Capítulo 25: Policías](https://open.spotify.com/episode/6LCNTrvFPVUGDGuSXPNKFr) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:17:50 |
 | 10 | [23\. L’Oréal: la polémica historia de la mujer más rica del mundo](https://open.spotify.com/episode/0nMQmRIzqGr1DkgfWIMOEY) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:00:13 |
 
-Snapshot ID: `ZvXCuQAAAABupJxAvPITDhebSmOAzQCB`
+Snapshot ID: `ZvXCuQAAAAA/6IfYLy3K2BMlijez+10K`

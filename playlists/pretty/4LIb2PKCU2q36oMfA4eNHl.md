@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,251 likes - 40 songs - 2 hr 21 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,252 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 39 | [Altitudes](https://open.spotify.com/track/3vUqBuU7k1Ev75Rpb80daj) | [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Through The Mirror Glass](https://open.spotify.com/album/46rNTPpQNcoElCWGS4uZuY) | 3:50 |
 | 40 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 |
 
-Snapshot ID: `AAAKWJbps1OC2bPy6zZAw1nlhnlCc3P6`
+Snapshot ID: `AAAKWpUO/+cK4bi7bHQbntXPKDqh5zIE`

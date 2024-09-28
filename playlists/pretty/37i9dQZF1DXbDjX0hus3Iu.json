@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 505878,
+  "num_followers": 505970,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZogncQAAAADThdaRH94EnE2KgBgeKz/J",
+  "snapshot_id": "ZogncQAAAAB6lrFkNw4clwC1CIr2jeat",
   "tracks": [
     {
       "added_at": "2024-07-05 17:03:45",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "The Very Best Of Ram Jam",
-        "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
-      },
-      "artists": [
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Special Forces",
         "url": "https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 279333,
       "name": "Caught Up In You",
       "url": "https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "The Very Best Of Ram Jam",
+        "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gator Country",
-      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
       "artists": [
         {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+      "duration_ms": 376666,
+      "name": "Gator Country",
+      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -759,6 +743,22 @@
       "duration_ms": 177386,
       "name": "Battleship Chains",
       "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
       "artists": [
         {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 318800,
-      "name": "Uneasy Rider",
-      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+      "duration_ms": 185840,
+      "name": "Searchin' for a Rainbow",
+      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
+      },
+      "artists": [
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "Uneasy Rider",
+      "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 220533,
       "name": "Before the Bullets Fly",
       "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Searchin' for a Rainbow",
-      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
       "artists": [
         {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
       },
       "artists": [
         {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2024-07-05 17:03:45",

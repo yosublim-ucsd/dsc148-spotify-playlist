@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38317,
+  "num_followers": 38319,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpWRhgAAAABsiq9J/EGmalrFUmRH/H51",
+  "snapshot_id": "ZpWRhgAAAADn4IcibSmYjm49ep4/IMRx",
   "tracks": [
     {
       "added_at": "2024-07-15 21:15:50",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
-      },
-      "artists": [
-        {
-          "name": "SBRBS",
-          "url": "https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3"
-        }
-      ],
-      "duration_ms": 202580,
-      "name": "Heavy Hearted",
-      "url": "https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Random Acts of Total Control",
         "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 232895,
       "name": "NYE",
       "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
+      },
+      "artists": [
+        {
+          "name": "SBRBS",
+          "url": "https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3"
+        }
+      ],
+      "duration_ms": 202580,
+      "name": "Heavy Hearted",
+      "url": "https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Garage Is Dead",
-        "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
-      },
-      "artists": [
-        {
-          "name": "Clavicule",
-          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "My time",
-      "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Kamggarn",
         "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 236542,
       "name": "Lonesome Terror",
       "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Garage Is Dead",
+        "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
+      },
+      "artists": [
+        {
+          "name": "Clavicule",
+          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "My time",
+      "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Sitcoms for Aliens",
         "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Cage & The Crown : Chapter I",
-        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
       "artists": [
         {
-          "name": "HEADKEYZ",
-          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
         }
       ],
-      "duration_ms": 215453,
-      "name": "Killing God",
-      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -895,6 +879,22 @@
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Cage & The Crown : Chapter I",
+        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+      },
+      "artists": [
+        {
+          "name": "HEADKEYZ",
+          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Killing God",
+      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/3Kr7lm2ciyU7bJxUWgaKRl"
-      },
-      "artists": [
-        {
-          "name": "Pythies",
-          "url": "https://open.spotify.com/artist/6xMjSwnzwclo7mLrB3Yqk3"
-        }
-      ],
-      "duration_ms": 216995,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/204jDxDMw4u8NWQm7jMNnD"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Healing Is Not Linear",
         "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 188440,
       "name": "Knees",
       "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/3Kr7lm2ciyU7bJxUWgaKRl"
+      },
+      "artists": [
+        {
+          "name": "Pythies",
+          "url": "https://open.spotify.com/artist/6xMjSwnzwclo7mLrB3Yqk3"
+        }
+      ],
+      "duration_ms": 216995,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/204jDxDMw4u8NWQm7jMNnD"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
+      },
+      "artists": [
+        {
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Only Weird People Can Fly",
         "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
       },
@@ -1171,6 +1187,38 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Straight-Jacket",
+        "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
+      },
+      "artists": [
+        {
+          "name": "Dirty Cloud",
+          "url": "https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV"
+        }
+      ],
+      "duration_ms": 123400,
+      "name": "Ritalin",
+      "url": "https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Devil's Dance",
         "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
       },
@@ -1183,22 +1231,6 @@
       "duration_ms": 223978,
       "name": "Devil's Dance",
       "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1223,34 +1255,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Straight-Jacket",
-        "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
       },
       "artists": [
         {
-          "name": "Dirty Cloud",
-          "url": "https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV"
+          "name": "TERNE",
+          "url": "https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq"
         }
       ],
-      "duration_ms": 123400,
-      "name": "Ritalin",
-      "url": "https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+      "duration_ms": 189803,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Back Garden Light",
-        "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
-      },
-      "artists": [
-        {
-          "name": "Back Garden Light",
-          "url": "https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Inner Life",
         "url": "https://open.spotify.com/album/6jVfiIP1jSK0EHHNyzRRes"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
-      },
-      "artists": [
-        {
-          "name": "TERNE",
-          "url": "https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq"
-        }
-      ],
-      "duration_ms": 189803,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Hungry for Action",
         "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 164068,
       "name": "It's About Time !",
       "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Back Garden Light",
+        "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
+      },
+      "artists": [
+        {
+          "name": "Back Garden Light",
+          "url": "https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Pictures of a Century",
-        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
-      },
-      "artists": [
-        {
-          "name": "Lane (Love And Noise Experiment)",
-          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Rhythm + Ethics",
         "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
       },
@@ -1559,18 +1527,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Murderology",
-        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
+        "name": "Pictures of a Century",
+        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
       },
       "artists": [
         {
-          "name": "Yard of Blondes",
-          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
+          "name": "Lane (Love And Noise Experiment)",
+          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Murderology",
-      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
+      "duration_ms": 161000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1591,6 +1559,38 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Murderology",
+        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
+      },
+      "artists": [
+        {
+          "name": "Yard of Blondes",
+          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Murderology",
+      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "CityT error",
         "url": "https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Anabasis",
-        "url": "https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5"
+        "name": "Yellow Green",
+        "url": "https://open.spotify.com/album/2s9EeTNm6Xo0EnEDfc4uUZ"
       },
       "artists": [
         {
-          "name": "L'Effondras",
-          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
         }
       ],
-      "duration_ms": 433466,
-      "name": "Anhedonia",
-      "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
+      "duration_ms": 155300,
+      "name": "Yellow Green",
+      "url": "https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld"
     }
   ],
   "unique_name": "French Noise",

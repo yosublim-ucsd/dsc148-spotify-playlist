@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-729 songs - 1 day 12 hr 32 min
+731 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Found Myself](https://open.spotify.com/track/0y5cXO3YMMTw7I7uniOIpo) | [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u), [Febration](https://open.spotify.com/artist/2nJONDf5g9CPy0oH9mGQEM) | [Found Myself](https://open.spotify.com/album/61wXkMuDCQxg9z0IMn9naR) | 2:56 | 2023-02-12 | 2023-03-25 |
 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 | 2024-02-29 |  |
 | [Freak Like Me](https://open.spotify.com/track/2kCEz5SnL22qQhJeOjgNQW) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW) | [Freak Like Me](https://open.spotify.com/album/63ihuSuuU6Ih6PWjNoPeZW) | 2:51 | 2023-05-25 | 2023-12-14 |
+| [Freaky Feed Me \(feat\. Leven Kali\)](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Freaky Feed Me \(feat\. Leven Kali\) / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 |  |
 | [Free](https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo) | [Wildcard \(US\)](https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr) | [Free](https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ) | 3:30 | 2024-05-24 | 2024-09-26 |
 | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [DAIJAH](https://open.spotify.com/artist/1slMspXp4UdnAyQbkbgJJ9) | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO) | 2:48 | 2023-02-12 | 2023-04-13 |
 | [Fuego](https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Fuego](https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc) | 2:17 | 2024-04-03 | 2024-04-13 |
@@ -505,6 +506,7 @@
 | [Play](https://open.spotify.com/track/18iezdh9TvdsxBK5hdRlhv) | [Bassium](https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc) | [Play](https://open.spotify.com/album/3lwbaoXT5j76EIiz5XmzAe) | 3:29 | 2024-05-24 |  |
 | [Play Hard](https://open.spotify.com/track/7dtO7dHGNide8mfe02874q) | [Julius Arth](https://open.spotify.com/artist/3Fp986DIwS5780aXiudGm1) | [Play Hard](https://open.spotify.com/album/0vOteWPDwBTL5zTb90U2N0) | 3:31 | 2024-02-02 | 2024-09-26 |
 | [Play The Beat](https://open.spotify.com/track/02lNJz6huBFo6QrW9xXOmn) | [Mr\. Sid](https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu), [Monroe](https://open.spotify.com/artist/070pjBhWWo9AT3KtkebV8c) | [Play The Beat](https://open.spotify.com/album/1ZwrvRwgSdICrpGbcogvKc) | 2:04 | 2023-06-22 | 2023-07-14 |
+| [Play This Rhythm](https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Play This Rhythm](https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA) | 2:54 | 2024-09-27 |  |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-17 | 2023-04-13 |
 | [Pop](https://open.spotify.com/track/4J5KCUFanJFj0RSniGSzGh) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Pop](https://open.spotify.com/album/2nGhGNH8tCKJofFxwhSGTE) | 2:56 | 2024-05-02 | 2024-09-26 |
 | [Pop Pills](https://open.spotify.com/track/1BjgDV9IFM5W320YlhNXlK) | [KLYMVX](https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3), [Luke Miller](https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD), [Jey Aux Platines](https://open.spotify.com/artist/5AMw3TbaNH7fLqCF9WG23c) | [Pop Pills](https://open.spotify.com/album/3ypN0Pai7OCQpFAsYdcAF3) | 2:58 | 2023-06-06 | 2023-06-09 |

@@ -4,19 +4,18 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 33 min 38 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 9 songs - 31 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rotate](https://open.spotify.com/track/1xpBxE9fYN4J9GEpuJsvwH) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [CYMN](https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO) | [Rotate](https://open.spotify.com/album/539q4mYHRuSFHlak3Cz9Tz) | 3:58 |
-| 2 | [I Can't](https://open.spotify.com/track/2LaT6S4HaiWAqNd4yQ4MAg) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [I Can't](https://open.spotify.com/album/0GXVptQQ4Fnl8mbD0G0mq9) | 3:03 |
-| 3 | [Fangs](https://open.spotify.com/track/6fIMWdcH6sZth7HAdAKXzg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Fangs](https://open.spotify.com/album/26lIHDVYbt3eYsAinD0c2o) | 3:42 |
-| 4 | [Infinite](https://open.spotify.com/track/7Llqq3e3Hf4ICVJNBi2muE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Infinite](https://open.spotify.com/album/1Sm6KUWtB2ThzdSbyaP0Sr) | 3:53 |
-| 5 | [They Call Me](https://open.spotify.com/track/78OghQo2gd5XxKHS5ahfcx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [The RED Tape \(Deluxe\)](https://open.spotify.com/album/04Q6XWn2Zbiu6g7Pr10f5V) | 3:12 |
-| 6 | [My Place](https://open.spotify.com/track/4kZrwBAUpHlK2QAsiVyOFt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [My Place](https://open.spotify.com/album/3nFnn8bXSKKmvhlZfnrbxp) | 4:16 |
-| 7 | [Move to the Sound](https://open.spotify.com/track/6s4ZAW6PCcMzyELxKRzLR4) | [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c), [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Blanc Sur Noir Vol\. 2](https://open.spotify.com/album/7dKPft55xuBRMihH9dEnqw) | 3:25 |
-| 8 | [Flip It](https://open.spotify.com/track/0ToFXrDPJ4JwRYT8rI3Zt4) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flip It](https://open.spotify.com/album/3GZMgj2vcfUdk91ugRDxSk) | 2:33 |
-| 9 | [All On You](https://open.spotify.com/track/02dYg8kB8UQqidBwIWbADS) | [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409) | [All On You](https://open.spotify.com/album/24H5xEni5Hca01c5wbwBPB) | 2:13 |
-| 10 | [AGEN WIDA](https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AGEN WIDA](https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7) | 3:19 |
+| 1 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |
+| 2 | [Sixth Gear](https://open.spotify.com/track/1kDFcBpFjUjmXO6tnSBQxH) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Sixth Gear](https://open.spotify.com/album/1SqtNLh0HUSbvcfMa2uqao) | 2:55 |
+| 3 | [Baggy Black Jeans](https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Baggy Black Jeans](https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv) | 3:12 |
+| 4 | [Smooth Originator](https://open.spotify.com/track/6FY0QqwuKjGrKjZbmgnEMz) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [High Volume EP](https://open.spotify.com/album/4ZNoLdNJekJ0fv3fUdPmkW) | 6:16 |
+| 5 | [Do It Like This](https://open.spotify.com/track/5BdUzqEtecxcPOhLholdqb) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Do It Like This](https://open.spotify.com/album/2uz53eIlyRS6g2rNms8wsa) | 3:26 |
+| 6 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 |
+| 7 | [Therapy](https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Therapy](https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ) | 4:00 |
+| 8 | [DumDum](https://open.spotify.com/track/3h8BW0Ld5mdoch8UZ0muJX) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [DumDum](https://open.spotify.com/album/6wCofN0WEoVcLYOEXH2Dok) | 2:47 |
+| 9 | [Danny Phantom](https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Danny Phantom](https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU) | 3:20 |
 
-Snapshot ID: `AAADQ/uAf4We78VFtSF1Wq5K2bUwWi92`
+Snapshot ID: `AAADYoXl56czOuzC9grt4qYDqBBpcnmo`

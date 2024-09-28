@@ -2,7 +2,7 @@
 
 ### [The WISHLIST: 注目の洋楽特集](https://open.spotify.com/playlist/37i9dQZF1DXdMR9DIC5ADT)
 
-> フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Keshi
+> フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Tommy Richman
 
 462 songs - 1 day 1 hr 30 min
 

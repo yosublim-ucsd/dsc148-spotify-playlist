@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,113 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,126 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [Poupée de cire, poupée de son](https://open.spotify.com/track/7i4WaTC7Xp6SY49aCdcVia) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:30 |
 | 50 | [Salut les copains](https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Salut les copains](https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K) | 2:36 |
 
-Snapshot ID: `ZnBScQAAAABw0UR1XA+Pv38lqr6nzjf7`
+Snapshot ID: `ZnBScQAAAAAGQlCzSsi4YkNZ3gdFMPmb`

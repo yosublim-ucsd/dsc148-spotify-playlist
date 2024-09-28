@@ -1,18 +1,18 @@
 {
   "description": "The home of Canadian country music. Cover: Josh Ross",
-  "num_followers": 79180,
+  "num_followers": 79188,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAABPQXiYvuH5ML9wnjFwnsC5",
+  "snapshot_id": "ZvYtwAAAAACuQ3gG0ojbyq+0S/jZ5Ow0",
   "tracks": [
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Love Myself",
-        "url": "https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq"
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
       },
       "artists": [
         {
@@ -20,12 +20,60 @@
           "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 189035,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4"
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Outliving (For Mom)",
+        "url": "https://open.spotify.com/album/49L9I4n7kIxGBOjakpxuCo"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 228981,
+      "name": "Outliving",
+      "url": "https://open.spotify.com/track/1yLUBXYa3r768BBzp63duL"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Rodeo Junkies",
+        "url": "https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 216617,
+      "name": "Rodeo Junkies",
+      "url": "https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Want This Beer (Feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Hey Mom I Made It",
         "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Silverado-si-do",
         "url": "https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Nobody's Born With A Broken Heart",
         "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/5FDSDpPMBfchzOlVmIM40g"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Boots Don't (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr"
@@ -165,7 +213,7 @@
       "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Livin\u2019 My Life Like a Country Song",
         "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
@@ -185,23 +233,7 @@
       "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "August",
-      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3"
@@ -217,7 +249,23 @@
       "url": "https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 227322,
+      "name": "Flower Tattoos",
+      "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "He's The One",
         "url": "https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Nashville, Nashville",
         "url": "https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH"
@@ -285,23 +333,23 @@
       "url": "https://open.spotify.com/track/4mMW9MinyGBln3OIGspXRr"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c"
+        "name": "today",
+        "url": "https://open.spotify.com/album/51NB0c3HmIOHwF5XAX5Hmr"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG"
+      "duration_ms": 153121,
+      "name": "today",
+      "url": "https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Five Beers From Now",
         "url": "https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP"
@@ -317,23 +365,7 @@
       "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "A Real Man",
-        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Cant Go Home",
         "url": "https://open.spotify.com/album/6nNZu0SLhEsYT2Rgphh59z"
@@ -349,23 +381,7 @@
       "url": "https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "What Good Is A Memory",
         "url": "https://open.spotify.com/album/1OPUwabpaUsTM3hI7CPcuR"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Feels Country To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
@@ -417,23 +433,55 @@
       "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Bigger Than This Town",
-        "url": "https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP"
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
       },
       "artists": [
         {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 174441,
-      "name": "Bigger Than This Town",
-      "url": "https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci"
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "A Real Man",
+        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "She Stole My Harley",
+        "url": "https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC"
+      },
+      "artists": [
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "duration_ms": 192950,
+      "name": "She Stole My Harley",
+      "url": "https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/2Mm3lPj9raAwpBrcbKZGD6"
@@ -449,7 +497,55 @@
       "url": "https://open.spotify.com/track/4To7mPuAzvr3SEv11JydSu"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Love Me Or Leave Me (Day Or Night Mix)",
+        "url": "https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za"
+      },
+      "artists": [
+        {
+          "name": "Chad Brownlee",
+          "url": "https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU"
+        }
+      ],
+      "duration_ms": 223870,
+      "name": "Love Me Or Leave Me (Day Or Night Mix)",
+      "url": "https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Bigger Than This Town",
+        "url": "https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "duration_ms": 174441,
+      "name": "Bigger Than This Town",
+      "url": "https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Your Time to Stay",
+        "url": "https://open.spotify.com/album/3kIPmiOQBUlVuTKcTykGvl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goodvin",
+          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
+        }
+      ],
+      "duration_ms": 161943,
+      "name": "Your Time to Stay",
+      "url": "https://open.spotify.com/track/0xb6hOMY4KxjoSEHgeslZQ"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
@@ -469,7 +565,7 @@
       "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -493,7 +589,7 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/7MUqO5kWGjLn5qvrPQEgvo"
@@ -509,23 +605,7 @@
       "url": "https://open.spotify.com/track/0zayeuhnu8XzvEFBQYBH3x"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "One Beer Away",
-        "url": "https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 218219,
-      "name": "One Beer Away",
-      "url": "https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
@@ -541,23 +621,23 @@
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/6eN7BEQIYzlkHgmjEKnVEf"
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
       },
       "artists": [
         {
-          "name": "Elyse Saunders",
-          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 159030,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/0XxhokC94hjSP49A9NbKWZ"
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "I Miss Tom Petty",
         "url": "https://open.spotify.com/album/2jipnmsimfXo4shzek45q2"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/2cKLJiaJwgoPDEMNqibPxn"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Terri Clark: Take Two",
         "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
@@ -593,23 +673,7 @@
       "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "10 Days in July",
-        "url": "https://open.spotify.com/album/3oLByCCKupH8zrY2xfdhnn"
-      },
-      "artists": [
-        {
-          "name": "Mitch Zorn",
-          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
-        }
-      ],
-      "duration_ms": 189513,
-      "name": "10 Days in July",
-      "url": "https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Golden Rules",
         "url": "https://open.spotify.com/album/51KnCu9usIKL5K2RMDoAEY"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Westerly",
         "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
@@ -641,7 +705,7 @@
       "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Somewhere Tonight",
         "url": "https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57"
@@ -657,23 +721,7 @@
       "url": "https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Single Again",
-        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Single Again",
-      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "From A to B",
         "url": "https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Your Mama Would Hate Me",
         "url": "https://open.spotify.com/album/4Z7SxkeZHMsO555QCGADwk"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/375dfgV3eOlNGGtPXrorXG"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Get Outta My Dreams, Get into My Truck",
         "url": "https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz"
@@ -725,23 +773,7 @@
       "url": "https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Right Around Sundown",
-        "url": "https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV"
-      },
-      "artists": [
-        {
-          "name": "Reed Salmon",
-          "url": "https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD"
-        }
-      ],
-      "duration_ms": 161017,
-      "name": "Right Around Sundown",
-      "url": "https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Heartbreak Saloon",
         "url": "https://open.spotify.com/album/67fo7zpzdcwoYr7vfXHbhn"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "White Claw",
         "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
@@ -797,23 +829,7 @@
       "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Dirt On Us",
         "url": "https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/1rm5E8eTWuFDMSsngY4CII"
@@ -843,22 +859,6 @@
       "duration_ms": 198403,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/6PL8OAhhl6vlnJlwO2vRaU"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Dreamin'",
-        "url": "https://open.spotify.com/album/1XuyHZ3Sy84NlPQCSTlFTJ"
-      },
-      "artists": [
-        {
-          "name": "Brian John Harwood",
-          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
-        }
-      ],
-      "duration_ms": 184104,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/6TMTDBM1PS4uyeoMh8ydw8"
     }
   ],
   "unique_name": "North Country",

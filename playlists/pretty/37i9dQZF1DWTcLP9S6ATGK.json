@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: giring ganesha",
-  "num_followers": 156518,
+  "num_followers": 156536,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvWYwAAAAABqf6oAIFU8f3gHmFLbE3kL",
+  "snapshot_id": "ZvYxYQAAAABVbkPB1bS7Z0XrnlWJxwNf",
   "tracks": [
     {
       "added_at": "2024-09-26 17:24:16",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Maafkan Aku Mencintai Kekasihmu - Remastered 2024",
+        "url": "https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Reijman",
+          "url": "https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL"
+        }
+      ],
+      "duration_ms": 295707,
+      "name": "Maafkan Aku Mencintai Kekasihmu - Remastered 2024",
+      "url": "https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO"
+    },
+    {
       "added_at": "2024-09-26 17:24:16",
       "album": {
         "name": "Genjrengan Iwan & Irfan - Aviary Live Session",
@@ -367,6 +383,26 @@
       "duration_ms": 257143,
       "name": "Mampu Tanpamu",
       "url": "https://open.spotify.com/track/1z49jujlAN8qOAa1edC2Qx"
+    },
+    {
+      "added_at": "2024-09-27 04:15:29",
+      "album": {
+        "name": "Teman Tapi Mesra",
+        "url": "https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM"
+      },
+      "artists": [
+        {
+          "name": "Andre Taulany",
+          "url": "https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw"
+        },
+        {
+          "name": "Andre Taulany & Friends",
+          "url": "https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt"
+        }
+      ],
+      "duration_ms": 259315,
+      "name": "Teman Tapi Mesra",
+      "url": "https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx"
     },
     {
       "added_at": "2024-09-26 17:24:16",
@@ -1304,7 +1340,7 @@
           "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
         }
       ],
-      "duration_ms": 254125,
+      "duration_ms": 251931,
       "name": "Tangan-Tangan Ucap Perpisahan",
       "url": "https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban"
     },

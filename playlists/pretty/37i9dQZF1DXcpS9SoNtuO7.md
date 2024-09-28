@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,132 likes - 74 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,133 likes - 74 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 73 | [\#48 全部語ろう!! “リスアニ！LIVE 2024”感想会SP【セトリ、演出、MC…裏話も総まとめ！】](https://open.spotify.com/episode/0CbuEDOkyLgf9dwU8208TN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 1:01:14 |
 | 74 | [\#49 アツアツのリスナーメール祭り！続・“リスアニ！LIVE 2024”感想会SP／「シャニマス音楽大全」も出ます!!](https://open.spotify.com/episode/7lM2PGMVHZa5pZftEjIwIp) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 38:53 |
 
-Snapshot ID: `ZupcQAAAAACLemV9ICQEmmVgIsDaceoo`
+Snapshot ID: `ZupcQAAAAACVr5rbsDDN5QCE9qTta8N/`

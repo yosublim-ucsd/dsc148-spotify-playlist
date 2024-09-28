@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived on Crunchyroll this summer! Listen along to the music behind the lineup!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,763 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,825 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 44 | [No Complete](https://open.spotify.com/track/4fHxxR2hp4mq1WO5rjABem) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [No Complete](https://open.spotify.com/album/0HcsysLTkVsFIpV3nolht2) | 3:02 |
 | 45 | [おどるポンポコリン](https://open.spotify.com/track/4lEB1tqILbUcCkUDdLvNSW) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [まるちゃんと仲間たち](https://open.spotify.com/artist/2baYbl0HvDdfNZMJptPx3w) | [おどるポンポコリン](https://open.spotify.com/album/5GKa7qrRZbLrlZmeERGuqp) | 3:17 |
 
-Snapshot ID: `ZsNB0AAAAABTxN9JzywdvoLvxFd9om7O`
+Snapshot ID: `ZsNB0AAAAABSHXnimoVb+J1/6lHEs5Ah`

@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Town Dune",
+        "url": "https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ"
+      },
+      "artists": [
+        {
+          "name": "Oh Shu",
+          "url": "https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152915,
+      "name": "Machibito",
+      "url": "https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS"
+    },
+    {
+      "album": {
         "name": "la RINASCENTE",
         "url": "https://open.spotify.com/album/5lF6oP8XkIndSxM4ZsBWV3"
       },
@@ -3431,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u5357\u91ce\u967d\u5b50",
+          "url": "https://open.spotify.com/artist/2Q1w4FR4e0O6fjnyqJWwHe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Rainforest (feat. Yoko Minamino)",
+      "url": "https://open.spotify.com/track/1XFewH8NQHRzBedkKhgKFD"
+    },
+    {
+      "album": {
         "name": "Re-\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo"
       },
@@ -3772,7 +3812,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 749026,
       "name": "Sigh Sigh",
       "url": "https://open.spotify.com/track/3oLQs6Bx1JkaUqaIfmlu04"
@@ -4528,6 +4568,24 @@
       "duration_ms": 207685,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/44MRKShx562b6moPwz1wI8"
+    },
+    {
+      "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/1I5acP1fmbJh7F0g9GwsyA"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244748,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
     },
     {
       "album": {
@@ -7094,7 +7152,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 435626,
       "name": "\u624b\u7d19",
       "url": "https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs"
@@ -8602,7 +8660,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 216874,
       "name": "\u98a8\u306b\u63fa\u308c\u308b",
       "url": "https://open.spotify.com/track/5BEtKrIULMAlg4dVcJQyzw"

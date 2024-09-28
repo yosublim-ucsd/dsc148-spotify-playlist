@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Os Garotin e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,253 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,232 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 39 | [Dentro Dos Seus Olhos](https://open.spotify.com/track/0ZaF5vjxPc3WF7u6nls8wZ) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Janequeo](https://open.spotify.com/album/5hUTL7WSWms4WjHZmcKVH2) | 3:17 |
 | 40 | [SERENA](https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [SERENA](https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51) | 3:09 |
 
-Snapshot ID: `ZjPeVwAAAABpef8CxdZJPAQc5YOTowPY`
+Snapshot ID: `ZjPeVwAAAACSQj5Q0axA4dy/Ol0FUURs`

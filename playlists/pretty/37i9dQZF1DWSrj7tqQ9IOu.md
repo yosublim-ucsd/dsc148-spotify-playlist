@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,834 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,842 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Hello Hello](https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Hello Hello](https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs) | 2:36 |
 | 50 | [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 |
 
-Snapshot ID: `ZvXZYAAAAADYEo4dX/BLzGTMyabFj3gm`
+Snapshot ID: `ZvXZYAAAAABJew+Me7aoeu0eYbs7Ow1K`

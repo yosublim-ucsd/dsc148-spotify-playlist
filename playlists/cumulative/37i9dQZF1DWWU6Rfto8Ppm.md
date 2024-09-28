@@ -2,7 +2,7 @@
 
 ### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
 
-> Celebrando los 20 años del Barrio Fino en compañía de Daddy Yankee.
+> Reggaetón de antes y de siempre en compañía de Daddy Yankee.
 
 469 songs - 1 day 3 hr 53 min
 

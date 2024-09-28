@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 37132,
+  "num_followers": 37140,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwhvAAAAAAD41eVhOZgLG02Ijns87HL",
+  "snapshot_id": "ZqwhvAAAAADFukWdxdXq3psXOrWqqXZo",
   "tracks": [
     {
       "added_at": "2024-08-02 00:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Profumo di sole...",
-        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
-      },
-      "artists": [
-        {
-          "name": "Jo Fedeli",
-          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Sei come una lucertola",
-      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Peppino Di Capri",
         "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 137346,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Profumo di sole...",
+        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
+      },
+      "artists": [
+        {
+          "name": "Jo Fedeli",
+          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Sei come una lucertola",
+      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
     },
     {
       "added_at": "2024-08-02 00:01:00",

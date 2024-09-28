@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ommy Dimpoz & Jay Melody
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,813 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,883 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 |
 | 80 | [Zamani](https://open.spotify.com/track/76iHXK4QGvTWJf1j7PUzo7) | [Founder Tz](https://open.spotify.com/artist/4LiVqHyW7I0e0DRdo8Sktg) | [Zamani](https://open.spotify.com/album/4Yzel0DLrBCXK5wILa8deq) | 3:42 |
 
-Snapshot ID: `ZvYDVAAAAAAsMStdIIgqjJFXCn9vbyK9`
+Snapshot ID: `ZvYDVAAAAAC/qlwKfMmvH3MkYFucgM0E`

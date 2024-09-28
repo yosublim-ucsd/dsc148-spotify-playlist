@@ -1,12 +1,12 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Blackpanda.",
-  "num_followers": 195249,
+  "num_followers": 195262,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAACLEpldCQTqVZEh+/lZDpCs",
+  "snapshot_id": "ZvXZYAAAAAB21harTGxl/Z/ptOwg6es4",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "LA AVENTURA",
         "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183123,
       "name": "TUCUCU",
       "url": "https://open.spotify.com/track/6af48Ny0ELO6KOnst9GY32"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Es una pena",
-        "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        },
-        {
-          "name": "Toldos Verdes",
-          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Es una pena",
-      "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Nosoutros",
         "url": "https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 81813,
       "name": "Nosoutros",
       "url": "https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Es una pena",
+        "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        },
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Es una pena",
+      "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Una noche m\u00e1s (feat. Bruses)",
         "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
       "artists": [
         {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Las musas de Madrid",
+        "url": "https://open.spotify.com/album/3f0JZ1QFz8WRE0Hd9NbgNP"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 169914,
+      "name": "Las musas de Madrid",
+      "url": "https://open.spotify.com/track/1C7J7LnRtJoYMrMI42WgDe"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Las musas de Madrid",
-        "url": "https://open.spotify.com/album/3f0JZ1QFz8WRE0Hd9NbgNP"
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
         }
       ],
-      "duration_ms": 169914,
-      "name": "Las musas de Madrid",
-      "url": "https://open.spotify.com/track/1C7J7LnRtJoYMrMI42WgDe"
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "MICHAL\u00d3",
-        "url": "https://open.spotify.com/album/3MOKpo5JFzcTk8UTkMhx33"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "MICHAL\u00d3",
-      "url": "https://open.spotify.com/track/54hGxwAhwQlRadAPl90Kes"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Igual hemos roto y no me he enterado",
         "url": "https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 182596,
       "name": "Igual hemos roto y no me he enterado",
       "url": "https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "MICHAL\u00d3",
+        "url": "https://open.spotify.com/album/3MOKpo5JFzcTk8UTkMhx33"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "MICHAL\u00d3",
+      "url": "https://open.spotify.com/track/54hGxwAhwQlRadAPl90Kes"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Esto no es el cielo",
-        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
+        "name": "Vespa Verde Agua",
+        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
       "artists": [
         {
-          "name": "Sienna",
-          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
         }
       ],
-      "duration_ms": 179114,
-      "name": "Esto no es el cielo",
-      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
+      "duration_ms": 166134,
+      "name": "Vespa Verde Agua",
+      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Vespa Verde Agua",
-        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
+        "name": "Esto no es el cielo",
+        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
       },
       "artists": [
         {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
         }
       ],
-      "duration_ms": 166134,
-      "name": "Vespa Verde Agua",
-      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+      "duration_ms": 179114,
+      "name": "Esto no es el cielo",
+      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
-      },
-      "artists": [
-        {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
-        }
-      ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+      },
+      "artists": [
+        {
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+        }
+      ],
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Al infierno",
-        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 218779,
-      "name": "Al infierno",
-      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -1187,6 +1171,38 @@
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Al infierno",
+        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 218779,
+      "name": "Al infierno",
+      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Prefiero",
+        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Prefiero",
+      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Prefiero",
-        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
-      },
-      "artists": [
-        {
-          "name": "Begut",
-          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
-        }
-      ],
-      "duration_ms": 175663,
-      "name": "Prefiero",
-      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "postal de verano",
         "url": "https://open.spotify.com/album/28Y2zHNJ8X5AJrrjA5NqK5"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Valle La Pena",
-        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Valle La Pena",
-      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Bailar Llorando",
         "url": "https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 163593,
       "name": "Bailar Llorando",
       "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Valle La Pena",
+        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Valle La Pena",
+      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "la del cretino",
+        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "la del cretino",
+      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Nunca Estuviste Tan Lejos",
         "url": "https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 225000,
       "name": "Rayito de Luz",
       "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "la del cretino",
-        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "la del cretino",
-      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Si Tengo Suerte",
+        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Si Tengo Suerte",
+      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "No Te Voy a Besar",
         "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Si Tengo Suerte",
-        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Si Tengo Suerte",
-      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
     },
     {
       "added_at": "2024-09-26 22:00:00",

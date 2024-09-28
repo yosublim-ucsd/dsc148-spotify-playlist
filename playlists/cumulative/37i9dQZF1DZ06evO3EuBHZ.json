@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Essential Classics, Vol. 467: Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
+        },
+        {
+          "name": "Essential Classics",
+          "url": "https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171479,
+      "name": "Cotton Picking Blues",
+      "url": "https://open.spotify.com/track/02fef86NbwdkMQzdBgLxbT"
+    },
+    {
+      "album": {
         "name": "Hound Dog - The Essential Collection",
         "url": "https://open.spotify.com/album/5ae5Gdn2dc9snnBHV3fnE9"
       },
@@ -1708,7 +1734,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 149400,
       "name": "Me and My Chauffeur",
       "url": "https://open.spotify.com/track/6BN7PhWrFyoKUFeInzG8i7"

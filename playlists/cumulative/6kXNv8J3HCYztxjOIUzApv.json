@@ -2441,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "High On You (feat. Nikki Sixx)",
+        "url": "https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        },
+        {
+          "name": "Nikki Sixx",
+          "url": "https://open.spotify.com/artist/39K8vRrNVg2aPafD0kRuhe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229481,
+      "name": "High On You (feat. Nikki Sixx)",
+      "url": "https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89"
+    },
+    {
+      "album": {
         "name": "A Hope In Hell",
         "url": "https://open.spotify.com/album/7sXH67ycxNjoyQKTn7inIb"
       },
@@ -5124,6 +5146,24 @@
       "duration_ms": 205757,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3MELdmLOjkgqvNdselIUEE"
+    },
+    {
+      "album": {
+        "name": "Who You Gonna Call? (Solence)",
+        "url": "https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Who You Gonna Call? (Solence)",
+      "url": "https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4"
     },
     {
       "album": {

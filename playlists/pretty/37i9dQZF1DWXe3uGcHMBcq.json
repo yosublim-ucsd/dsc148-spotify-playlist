@@ -1,12 +1,12 @@
 {
   "description": "Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.",
-  "num_followers": 124662,
+  "num_followers": 124667,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvW1XQAAAAC30YFUFtUtlOvVxoajLftV",
+  "snapshot_id": "ZvYtwAAAAADdYWydsIFc3WRQNohoXbm7",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -723,6 +723,26 @@
       "duration_ms": 92607,
       "name": "Dance (Da Da Da Da)",
       "url": "https://open.spotify.com/track/0fm0EEe2ObGnSiy0UzbQmw"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Hamster & Gretel (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6VXBl4nhJbZsRzHjmPewWp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wyckoff",
+          "url": "https://open.spotify.com/artist/1pz7I6tMYKzl223fIsdY58"
+        },
+        {
+          "name": "Hamster & Gretel - Cast",
+          "url": "https://open.spotify.com/artist/0mC2pf9u5Hf9sp0EyrdoyO"
+        }
+      ],
+      "duration_ms": 58858,
+      "name": "A Car Is a Car Is a Car in a Chase",
+      "url": "https://open.spotify.com/track/5vftdiiCLdFXGKCEgJeWdX"
     },
     {
       "added_at": "2024-05-22 11:00:00",

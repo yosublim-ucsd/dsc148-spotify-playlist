@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 172640,
+  "num_followers": 172745,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuraiAAAAACBlayXMvQ18qiU69/v+DXI",
+  "snapshot_id": "ZuraiAAAAAAmjSA5weOqr4b216bPmVep",
   "tracks": [
     {
       "added_at": "2024-09-11 04:16:56",
@@ -693,6 +693,26 @@
       "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
     },
     {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Dr\u00efpsody",
+        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
+      },
+      "artists": [
+        {
+          "name": "WTRGRL",
+          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 212949,
+      "name": "Drip Coda",
+      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+    },
+    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Mah\u014dgakk\u014d",
@@ -723,26 +743,6 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Dr\u00efpsody",
-        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
-      },
-      "artists": [
-        {
-          "name": "WTRGRL",
-          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
-        },
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Drip Coda",
-      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
     },
     {
       "added_at": "2024-08-14 16:44:33",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Hooked Paw",
-        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Mit Schinken durch die Menopause",
@@ -987,6 +971,22 @@
       "duration_ms": 197532,
       "name": "Nervenheilanstalt",
       "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
-      },
-      "artists": [
-        {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Ritual",
@@ -1419,6 +1403,22 @@
       "duration_ms": 548586,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "R.N.A.O Meets P.O.P.O",
-        "url": "https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI"
-      },
-      "artists": [
-        {
-          "name": "R.N.A. Organism",
-          "url": "https://open.spotify.com/artist/44Rhiu2k3Yp0a6Y8VpTfxu"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Weimar 22",
-      "url": "https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Fire Escape",
         "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 204120,
       "name": "Ines",
       "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "R.N.A.O Meets P.O.P.O",
+        "url": "https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI"
+      },
+      "artists": [
+        {
+          "name": "R.N.A. Organism",
+          "url": "https://open.spotify.com/artist/44Rhiu2k3Yp0a6Y8VpTfxu"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Weimar 22",
+      "url": "https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Cold Drinks, Hot Dreams",
-        "url": "https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb"
-      },
-      "artists": [
-        {
-          "name": "Atr\u00e1s del Cosmos",
-          "url": "https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl"
-        }
-      ],
-      "duration_ms": 628000,
-      "name": "Cold Drinks",
-      "url": "https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "5GTOUR",
         "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 222580,
       "name": "Manc TK 2",
       "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Cold Drinks, Hot Dreams",
+        "url": "https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s del Cosmos",
+          "url": "https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl"
+        }
+      ],
+      "duration_ms": 628000,
+      "name": "Cold Drinks",
+      "url": "https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj"
     },
     {
       "added_at": "2024-08-21 04:00:00",

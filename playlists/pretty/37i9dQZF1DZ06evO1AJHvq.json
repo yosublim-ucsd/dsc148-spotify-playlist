@@ -1,12 +1,12 @@
 {
   "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 414578,
+  "num_followers": 414715,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAD+H7kofL6W9yLXNrlHxpWM",
+  "snapshot_id": "ZvSkAAAAAAC4FLE3xmye8hjSl0jE+07V",
   "tracks": [
     {
       "added_at": null,
@@ -156,7 +156,7 @@
       "added_at": null,
       "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
       "artists": [
         {
@@ -166,7 +166,7 @@
       ],
       "duration_ms": 202149,
       "name": "Por Que Te Vas De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/17gXGLgaVeONySly2voFIY"
+      "url": "https://open.spotify.com/track/011uuDBXxVMdSzYv3jC5Ks"
     },
     {
       "added_at": null,
@@ -432,7 +432,7 @@
       "added_at": null,
       "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
       "artists": [
         {
@@ -442,7 +442,7 @@
       ],
       "duration_ms": 173336,
       "name": "Un Par De Ojitos Negros - En Vivo",
-      "url": "https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq"
+      "url": "https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 211945,
+      "name": "Hace Un A\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/0MmGIEFqRjUt28dHsG91JZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiesta En El Cielo Vol 1",
         "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
@@ -483,24 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 211945,
-      "name": "Hace Un A\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
       "artists": [
         {
@@ -510,7 +510,7 @@
       ],
       "duration_ms": 215666,
       "name": "Juan Ramos - En Vivo",
-      "url": "https://open.spotify.com/track/72uxDvyNO2fUHTGSdjouyV"
+      "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
       },
       "artists": [
         {
@@ -544,9 +544,41 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 231523,
-      "name": "El Empanada",
-      "url": "https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG"
+      "duration_ms": 214081,
+      "name": "Cuatro Milpas - En Vivo",
+      "url": "https://open.spotify.com/track/3A9KTrHoiKbiDjllgHWgbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 183028,
+      "name": "Los Principios - En Vivo",
+      "url": "https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy"
     },
     {
       "added_at": null,
@@ -567,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 231523,
+      "name": "El Empanada",
+      "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -583,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
       },
@@ -608,25 +640,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 214081,
-      "name": "Cuatro Milpas - En Vivo",
-      "url": "https://open.spotify.com/track/5ly4p4dPN4YmXtDMCOjXrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 183028,
-      "name": "Los Principios - En Vivo",
-      "url": "https://open.spotify.com/track/4zkVf0U3iKwA9KzPgkWJvg"
+      "duration_ms": 218879,
+      "name": "El Corrido Del Cabe - En Vivo",
+      "url": "https://open.spotify.com/track/4GaPxH5d7cPBkWGXjiTZiA"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 205505,
       "name": "Los Primos",
       "url": "https://open.spotify.com/track/66W3b4kPwrwpgVT0RQnzgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 218879,
-      "name": "El Corrido Del Cabe - En Vivo",
-      "url": "https://open.spotify.com/track/4GaPxH5d7cPBkWGXjiTZiA"
     },
     {
       "added_at": null,

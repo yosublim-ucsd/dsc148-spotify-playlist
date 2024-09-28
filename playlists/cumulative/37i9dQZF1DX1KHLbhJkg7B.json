@@ -914,7 +914,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 194459,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
@@ -5754,6 +5754,24 @@
       "duration_ms": 165752,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
+    },
+    {
+      "album": {
+        "name": "State Trooper / 10-38 (Full Band Version)",
+        "url": "https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"
     },
     {
       "album": {

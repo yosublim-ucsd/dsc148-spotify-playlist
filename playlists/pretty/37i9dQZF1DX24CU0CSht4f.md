@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 
 > Enjoy the world of “Sgt\. Frog”! 地球侵略のために派遣された宇宙人・ケロロ軍曹と仲間たちによる物語。オマージュ満載な傑作コメディを彩る歴代OP/ED曲、挿入歌を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,023 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,027 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 | 63 | [ケロパック](https://open.spotify.com/track/1UMxmCQqPKtn2qdzZ0qMPj) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [平原綾香ドラマ・映画ワークスセレクション](https://open.spotify.com/album/0STnj2c3YKTKptIKJMSJXW) | 2:41 |
 | 64 | [帰ってきたケロッ! とマーチ ‐READYMADE SERGEANT ROCK‐](https://open.spotify.com/track/1c64rKvp3YMhQYGijAwJGb) | [財津一郎](https://open.spotify.com/artist/6xP5KiQFT3DsRqoFfwMTHP), [小倉優子](https://open.spotify.com/artist/5re6qQEZDRMp3KiynB1aBo), [Yasuharu Konishi](https://open.spotify.com/artist/0v3YeJH8iq8DQcIwIMWFgD) | [TVアニメ『ケロロ軍曹』ケロロソング③](https://open.spotify.com/album/43wq3O2UCQZfVsL2C5mZj0) | 3:26 |
 
-Snapshot ID: `ZIxU7QAAAADwj16LQZ4LxRlkr4T/vcbQ`
+Snapshot ID: `ZIxU7QAAAADEmmb07fsP1az+e1fT7foc`

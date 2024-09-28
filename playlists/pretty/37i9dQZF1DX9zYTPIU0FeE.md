@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG?si=ujjJuO6pS66aEH6wk3AgTQ">Ndabo Zulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,586 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,599 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [The Meeting Place](https://open.spotify.com/track/3dKkSKgUL8MHjqqzPJZF0a) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Siparia Deltones](https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz) | [Siparia to Soweto](https://open.spotify.com/album/0kTFinupZwLN67sWCXvhGp) | 6:15 |
 | 50 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 |
 
-Snapshot ID: `ZtqkBQAAAAAu/D7YNV0Jy+q8AYa8SJI5`
+Snapshot ID: `ZtqkBQAAAACX2FxT09EyLz/oOeGudRIH`

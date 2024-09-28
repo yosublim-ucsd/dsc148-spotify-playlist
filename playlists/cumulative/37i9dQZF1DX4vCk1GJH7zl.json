@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 250973,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Elefantes",
+        "url": "https://open.spotify.com/album/6L78lDEA7z65ZD8srvw9C2"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Elefantes",
+      "url": "https://open.spotify.com/track/3pe1rds7yMY2A3RBpDNuEz"
+    },
+    {
+      "album": {
         "name": "Espetacular",
         "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 214608,
       "name": "I Can't Live Without Your Love",
       "url": "https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig"
@@ -1480,6 +1498,28 @@
       "duration_ms": 202108,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ"
+    },
+    {
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193423,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
     },
     {
       "album": {
@@ -1980,7 +2020,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 220013,
       "name": "PARE",
       "url": "https://open.spotify.com/track/0unKJAgcw9on0XVhyCjo7X"
@@ -3136,6 +3176,24 @@
       "duration_ms": 206677,
       "name": "Vamos Correr Pro Mar",
       "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
+    },
+    {
+      "album": {
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "album": {

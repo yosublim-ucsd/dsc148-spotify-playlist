@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen!  GRTSCH es nuestra embajadora de Septiembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,323 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,314 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 61 | [Blue Hawaii](https://open.spotify.com/track/6ycEw53rbQIRs9aleRAiuj) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Blue Hawaii](https://open.spotify.com/album/06UWEyL2imXeG1W4FQPZF0) | 3:26 |
 | 62 | [de mi cabeza no te vas](https://open.spotify.com/track/6HJB3GXXBOptLiFrQ7FQoD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Club 614](https://open.spotify.com/album/6bUyVi8PXGQQObGzCmcPX2) | 2:31 |
 
-Snapshot ID: `ZumqmAAAAAA7u/N0fcwdDrl/rl5sZfZe`
+Snapshot ID: `ZumqmAAAAAD/ei8rqMFyiWvhxTTMzhNI`

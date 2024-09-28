@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Ellui, Richboy Hardy\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,580 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,607 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [COOK!](https://open.spotify.com/track/2povbBSK9ws2IMxd9oXiXS) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [COOK!](https://open.spotify.com/album/7u72tD8q2bA8cfOK3fuXrT) | 3:00 |
 | 100 | [Prime Time](https://open.spotify.com/track/2wbOZBCfpiCZSshzrM9hNT) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [Archiive](https://open.spotify.com/album/7mVimQXXtda0zPzST6YU8E) | 2:49 |
 
-Snapshot ID: `ZvJ+rAAAAADah7QTPiwu7CL5nNd0s/s6`
+Snapshot ID: `ZvJ+rAAAAACsNd00RxhSeuxpJRwdpYTq`

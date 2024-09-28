@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,185 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,195 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 99 | [The One \(feat\. Blair\)](https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [The One \(feat\. Blair\)](https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG) | 2:59 |
 | 100 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 |
 
-Snapshot ID: `Zuye4QAAAADEkww3Tut+/RbSiEaXtIR1`
+Snapshot ID: `Zuye4QAAAABH34a/PVS8LJYUUMMUEJvm`

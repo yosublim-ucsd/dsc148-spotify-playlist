@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Natalia Szroeder, Mela Koteluk
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,709 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,718 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Ile Dać Mam](https://open.spotify.com/track/3gvJeMSwp2UUnibGpmdIhh) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Ile Dać Mam](https://open.spotify.com/album/3FOwkmBHiI1FpgMhrNsJW1) | 2:48 |
 | 60 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
 
-Snapshot ID: `ZvXZYAAAAAA5tJqYAXkl0lWABxal1yxG`
+Snapshot ID: `ZvXZYAAAAAB7JhiibEsc2hVBH1PAB3hZ`

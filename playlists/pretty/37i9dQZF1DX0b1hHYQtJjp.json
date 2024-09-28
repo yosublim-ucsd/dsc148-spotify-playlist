@@ -1,29 +1,13 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Gwen Stefani",
-  "num_followers": 912792,
+  "description": "Recent hits and new songs from your fave artists. Cover: Meghan Trainor",
+  "num_followers": 912802,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAACPiryJDwglXRarqdn4Ron6",
+  "snapshot_id": "ZvYtwAAAAAAwq3VLUvGK6zp3xtyIsX6a",
   "tracks": [
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Somebody Else's",
-        "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Somebody Else's",
-      "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
-    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -41,20 +25,40 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 204339,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/0CiuZFNZwkuNt9HowIDXEg"
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -105,6 +109,22 @@
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Somebody Else's",
+        "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Somebody Else's",
+      "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
+    },
+    {
       "added_at": "2024-09-06 14:58:08",
       "album": {
         "name": "Die With A Smile",
@@ -125,6 +145,38 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Burning Down",
@@ -139,6 +191,22 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 204339,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/0CiuZFNZwkuNt9HowIDXEg"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -173,22 +241,6 @@
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
-        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
-      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
-    },
-    {
       "added_at": "2024-09-16 20:48:49",
       "album": {
         "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
@@ -203,22 +255,6 @@
       "duration_ms": 197279,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -289,6 +325,22 @@
       "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Still The Same",
@@ -321,20 +373,52 @@
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Wanted?",
-        "url": "https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4"
       },
       "artists": [
         {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 231710,
-      "name": "Wanted?",
-      "url": "https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5"
+      "duration_ms": 185997,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/41v96bOg5DmfCSbejT1Tc4"
+      },
+      "artists": [
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/27r6NSfZlmTPLJ4IBKD4oN"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Voices Carry",
+        "url": "https://open.spotify.com/album/2igyLjiFl6Qac1VLWleNI4"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 287613,
+      "name": "Voices Carry",
+      "url": "https://open.spotify.com/track/1daQ8ywh31Dqf1f880EcFB"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -387,22 +471,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
@@ -415,6 +483,22 @@
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -447,6 +531,22 @@
       "duration_ms": 134608,
       "name": "BABA FEIN",
       "url": "https://open.spotify.com/track/0fkaHvf4sGE2novWIr9ewc"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -517,20 +617,24 @@
       "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/33JSm4vNTmBs9YsIQNZhW7"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        },
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+      "duration_ms": 198422,
+      "name": "Be OK (feat. L\u00d8L\u00d8)",
+      "url": "https://open.spotify.com/track/4K6Q3zOTS6KvPcJS1jMl4Q"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -597,20 +701,20 @@
       "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Voices Carry",
-        "url": "https://open.spotify.com/album/2igyLjiFl6Qac1VLWleNI4"
+        "name": "Wanted?",
+        "url": "https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN"
       },
       "artists": [
         {
-          "name": "Kate Hudson",
-          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
         }
       ],
-      "duration_ms": 287613,
-      "name": "Voices Carry",
-      "url": "https://open.spotify.com/track/1daQ8ywh31Dqf1f880EcFB"
+      "duration_ms": 231710,
+      "name": "Wanted?",
+      "url": "https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -763,22 +867,6 @@
       "duration_ms": 189355,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/263JoWo2G2ZhdpFSNx0naB"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237213,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -1059,22 +1147,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 161976,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
     },
     {
       "added_at": "2024-09-06 14:58:08",

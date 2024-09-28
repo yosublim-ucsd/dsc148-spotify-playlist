@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-277 songs - 17 hr 27 min
+279 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Heartache](https://open.spotify.com/track/2QlGEnoXCxMSuz7JM7xNeX) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Hate Me Too](https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG) | 3:45 | 2023-04-03 | 2024-04-10 |
 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 | 2022-01-25 |  |
 | [Heroin\(e\)](https://open.spotify.com/track/6I10pyraPKbTSMLoBwdblm) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Heroin\(e\)](https://open.spotify.com/album/78vbD6Z7Q8wxmklqGS8kXs) | 3:19 | 2021-08-20 | 2023-01-04 |
+| [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Nikki Sixx](https://open.spotify.com/artist/39K8vRrNVg2aPafD0kRuhe) | [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf) | 3:49 | 2024-09-27 |  |
 | [Hold On](https://open.spotify.com/track/1Y9QCwhcDVBxTmbs9LfeAF) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [A Hope In Hell](https://open.spotify.com/album/7sXH67ycxNjoyQKTn7inIb) | 4:17 | 2021-08-20 | 2024-04-10 |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2023-07-25 |  |
 | [House of Cards](https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:19 | 2021-10-29 | 2023-01-04 |
@@ -273,6 +274,7 @@
 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 | 2022-01-24 | 2024-04-10 |
 | [Who Do You Trust?](https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz) | 3:16 | 2022-01-25 |  |
 | [Who We Are](https://open.spotify.com/track/3MELdmLOjkgqvNdselIUEE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:25 | 2021-08-20 | 2023-01-05 |
+| [Who You Gonna Call? \(Solence\)](https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT) | 3:10 | 2024-09-27 |  |
 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC) | 3:25 | 2022-08-26 |  |
 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/6QbTzUuNxRnhZRMQpHQAOh) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:25 | 2022-09-21 | 2023-01-04 |
 | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/track/3NMel0L1RZfekf2wLABmj2) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/album/6lRuJdTi0zHk8kWKx6ARfi) | 5:17 | 2021-08-20 |  |

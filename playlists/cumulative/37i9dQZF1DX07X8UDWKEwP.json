@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Grupo Frontera & Gabito Ballesteros",
+  "description": "Lo nuevo del mundo tropical. Cover: Luis Vazquez",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1012,6 +1012,24 @@
       "duration_ms": 211621,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/0znCmmewRJCV7UBiUKA2fC"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/6R2HxOJdDHXW1l856TWRdM"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255599,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7d8RnfiIRy8WXDPWbSyd1F"
     },
     {
       "album": {
@@ -2718,6 +2736,24 @@
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "album": {
+        "name": "El Beb\u00e9",
+        "url": "https://open.spotify.com/album/4Dbz4suWe8R6IwzHp21NRj"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227198,
+      "name": "El Beb\u00e9",
+      "url": "https://open.spotify.com/track/3OLoOioLa2Dstut8CCx1mJ"
     },
     {
       "album": {
@@ -4455,6 +4491,28 @@
     },
     {
       "album": {
+        "name": "Blanco Y Negro",
+        "url": "https://open.spotify.com/album/3eFE0uL7wQQVZbr324h8qL"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177242,
+      "name": "La Diferente",
+      "url": "https://open.spotify.com/track/7jrf60exlPX6inEBrZXjkE"
+    },
+    {
+      "album": {
         "name": "LA FALTA QUE ME HACES (Bachata Version)",
         "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
       },
@@ -4662,7 +4720,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 230013,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
@@ -5600,7 +5658,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181791,
       "name": "ME GUSTAN TODAS",
       "url": "https://open.spotify.com/track/360nASHrDZlY2REawPoE20"
@@ -7170,6 +7228,32 @@
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
+        "name": "Piel (Remix)",
+        "url": "https://open.spotify.com/album/15Rz5e8IPZKfxa26TGUVPe"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Toy Selectah",
+          "url": "https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "Piel - Remix",
+      "url": "https://open.spotify.com/track/4jx34s3THTBcvIQ3mF27Df"
     },
     {
       "album": {

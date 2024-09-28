@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Wellsaid (Hong Kong)",
-  "num_followers": 100952,
+  "num_followers": 100981,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXwhQAAAABmjq/oS+xc0UOjziHlEHYF",
+  "snapshot_id": "ZvXwhQAAAABU9R/8k/Jbm3leSR2crOM7",
   "tracks": [
     {
       "added_at": "2024-09-26 23:37:49",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "right where you left me",
         "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 173466,
       "name": "right where you left me",
       "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "happy endings do exist",
-        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 197100,
-      "name": "happy endings do exist",
-      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y"
+        "name": "Rahsia Tuhan",
+        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
         }
       ],
-      "duration_ms": 260430,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF"
+      "duration_ms": 287071,
+      "name": "Rahsia Tuhan",
+      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1071,18 +1067,38 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Rahsia Tuhan",
-        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
       },
       "artists": [
         {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
         }
       ],
-      "duration_ms": 287071,
-      "name": "Rahsia Tuhan",
-      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 260430,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1099,22 +1115,6 @@
       "duration_ms": 265621,
       "name": "\u98db\u54af",
       "url": "https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
-      },
-      "artists": [
-        {
-          "name": "Lomba Sihir",
-          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
-        }
-      ],
-      "duration_ms": 233630,
-      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1275,26 +1275,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "tell me, will we survive?",
-        "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
+        "name": "Cast a Spell",
+        "url": "https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs"
       },
       "artists": [
         {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+          "name": "Fi-N\u00e9 \u7c89\u5167",
+          "url": "https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ"
         },
         {
-          "name": "hanuel",
-          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
-        },
-        {
-          "name": "HNATA",
-          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
         }
       ],
-      "duration_ms": 194142,
-      "name": "tell me, will we survive?",
-      "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
+      "duration_ms": 216349,
+      "name": "Cast a Spell",
+      "url": "https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1347,6 +1343,30 @@
       "duration_ms": 177214,
       "name": "\u4e00\u500b\u773c\u795e",
       "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "tell me, will we survive?",
+        "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        },
+        {
+          "name": "hanuel",
+          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
+        },
+        {
+          "name": "HNATA",
+          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "tell me, will we survive?",
+      "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Now and Ever",
-        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
-      },
-      "artists": [
-        {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Now and Ever",
-      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "New Feeling",
         "url": "https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs"
       },
@@ -1459,22 +1463,6 @@
       "duration_ms": 257380,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 186300,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1495,6 +1483,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "\u7406\u60f3\u72c0\u614b",
         "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
       },
@@ -1507,6 +1511,38 @@
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Now and Ever",
+        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "Now and Ever",
+      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1543,22 +1579,6 @@
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1675,22 +1695,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 219950,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "Museum of My Mess",
         "url": "https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE"
       },
@@ -1707,18 +1711,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "b.o.m.b.",
-        "url": "https://open.spotify.com/album/5kxSD8iP2rpaZU2LGosAuX"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 166937,
-      "name": "b.o.m.b.",
-      "url": "https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS"
+      "duration_ms": 219950,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
     }
   ],
   "unique_name": ".ORG",

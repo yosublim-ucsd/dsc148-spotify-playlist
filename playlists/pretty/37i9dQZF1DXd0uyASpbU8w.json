@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp?si=TrNdyYAzTLGkkHjXQ-joEA\">Shakes & Les</a>",
-  "num_followers": 100662,
+  "num_followers": 100849,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXncAAAAAA82aouketxtc7IM2sMdrgz",
+  "snapshot_id": "ZvXncAAAAABcnoN1yuh10hDMoYbMfLSP",
   "tracks": [
     {
       "added_at": "2024-09-26 23:00:00",
@@ -51,6 +51,26 @@
       "duration_ms": 361178,
       "name": "Ndawana",
       "url": "https://open.spotify.com/track/2pK4PwWdE6qQeN39WH5OHZ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2024-09-26 23:00:00",

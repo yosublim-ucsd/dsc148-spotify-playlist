@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Alag Sa Andaaz",
+        "url": "https://open.spotify.com/album/441WZue3qHT2rfI6s6ZSK8"
+      },
+      "artists": [
+        {
+          "name": "blal bloch",
+          "url": "https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153234,
+      "name": "Alag Sa Andaaz",
+      "url": "https://open.spotify.com/track/5X9k9lKxDcqFZ3mrxrPjlI"
+    },
+    {
+      "album": {
         "name": "Always into you",
         "url": "https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap"
       },
@@ -2123,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "INTERMISSION",
+        "url": "https://open.spotify.com/album/5ufUGco015zkMKqGdnEENl"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195767,
+      "name": "hota hai kya?",
+      "url": "https://open.spotify.com/track/4F7rqBvf6H28lImvoJmrLx"
+    },
+    {
+      "album": {
         "name": "How",
         "url": "https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4"
       },
@@ -2546,7 +2582,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 127850,
       "name": "JOGI",
       "url": "https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl"
@@ -3857,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "okay",
+        "url": "https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ"
+      },
+      "artists": [
+        {
+          "name": "Hatim",
+          "url": "https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "okay",
+      "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87"
       },
@@ -5074,7 +5128,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 171743,
       "name": "Sohneya Ve",
       "url": "https://open.spotify.com/track/28MAwybE4MXTrCXegBgTCM"
@@ -6060,7 +6114,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 154283,
       "name": "You",
       "url": "https://open.spotify.com/track/37t5ghHd5cgLmJW53DXhob"

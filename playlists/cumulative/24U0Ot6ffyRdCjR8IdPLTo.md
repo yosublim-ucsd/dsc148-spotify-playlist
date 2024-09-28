@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-301 songs - 16 hr 42 min
+303 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2023-08-15 | 2023-08-29 |
 | [imperfect for you \- acoustic](https://open.spotify.com/track/16tikdI5Xs4Md96uv2uYcC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \- slightly deluxe](https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb) | 3:03 | 2024-03-22 |  |
 | [in motion](https://open.spotify.com/track/0ebHxwkkZyjXrNRdnTeXUc) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [in motion](https://open.spotify.com/album/70BnHvfKu6Xepre9WXmt28) | 2:29 | 2023-11-18 |  |
+| [inside](https://open.spotify.com/track/7iHkEL7sNy60szyKI2Y7gO) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR), [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [inside](https://open.spotify.com/album/4Ki6DqWcTb4Wvhvndn23Xr) | 2:00 | 2024-09-27 |  |
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-10-21 | 2023-12-13 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2023-08-15 | 2023-08-29 |
 | [It Was Nice To See You](https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:20 | 2023-08-28 | 2024-06-15 |
@@ -185,6 +186,7 @@
 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 | 2024-01-10 |  |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-08-16 |  |
 | [Noches IntimaXx](https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Noches IntimaXx](https://open.spotify.com/album/7eXs9Nt1zd979rPgQCBY8n) | 2:47 | 2021-12-06 | 2023-08-16 |
+| [Not Crying Anymore](https://open.spotify.com/track/79nJ8bVMVNET1k4Z9zVdBJ) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Not Crying Anymore](https://open.spotify.com/album/4I9vVAYV94GpjUfhW7pFVp) | 3:57 | 2024-09-27 |  |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2024-01-19 |  |
 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 | 2021-12-06 | 2023-08-16 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 |  |

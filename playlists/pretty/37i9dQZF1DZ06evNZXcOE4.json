@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jane's Addiction. Los temas esenciales, todos en una lista.",
-  "num_followers": 42726,
+  "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
+  "num_followers": 42737,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAD6wcb7n16kbkgnejrbRr0q",
+  "snapshot_id": "ZvSkAAAAAABs59Z1Q2vfGy1N+LIFuES0",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 325291,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 269613,
       "name": "Twisted Tales",
       "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 325291,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 212024,
-      "name": "My Time",
-      "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 211320,
       "name": "End To The Lies",
       "url": "https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 212024,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Whores",
-      "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228040,
       "name": "I'll Hit You Back",
       "url": "https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Whores",
+      "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cabinet of Curiosities",
-        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 223920,
-      "name": "L.A. Medley: L.A. Woman / Nausea / Lexicon Devil - Live, 1989",
-      "url": "https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P"
+      "duration_ms": 313773,
+      "name": "Splash A Little Water On It",
+      "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 211037,
       "name": "1%",
       "url": "https://open.spotify.com/track/6rlo6XpkwwlFRksxLsCqYK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 313773,
-      "name": "Splash A Little Water On It",
-      "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
     },
     {
       "added_at": null,

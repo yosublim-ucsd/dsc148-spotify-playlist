@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: I'm Wigging Out with Lucy and Kee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431 likes - 7 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 7 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,4 +16,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 6 | [Can't Stop, Won't Stop Self\-Sabotaging My Relationships](https://open.spotify.com/episode/08abtP2dk74FhlWafhHVi5) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 31:48 |
 | 7 | [A Sober Curious Girl In A Binge Drinking World](https://open.spotify.com/episode/62wsHr30mNE18J47ZP7B3l) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 33:01 |
 
-Snapshot ID: `ZtMh4AAAAABezKie9MGtacydsGuR0UjK`
+Snapshot ID: `ZtMh4AAAAAAeCiPwpBtJSDM2OPGOIEEr`

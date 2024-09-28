@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsTugAAAAB0TW+qql3Pj7QnoLPgwNR0",
+  "snapshot_id": "ZIsTugAAAADJGmS3VNMw7VCjz1h6QdVO",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "THE NEWS",
+        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Roforofo Fight",
         "url": "https://open.spotify.com/album/6a3zPR8tCHNkDXUBwucoFq"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234271,
       "name": "Quarantine Wifey (feat. JID)",
       "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "THE NEWS",
-        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
     },
     {
       "added_at": "2022-10-01 16:57:49",

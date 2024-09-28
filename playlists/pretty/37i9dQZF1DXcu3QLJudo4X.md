@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,735 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,819 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 57 | [I Pity the Fool](https://open.spotify.com/track/6V6UMhPC3fN9AMCNGbz9XC) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:43 |
 | 58 | [Kansas City](https://open.spotify.com/track/4nCNFxez6Iw58URUpzUX6K) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/24mSar3n4H1r8HxLPm78uc) | 2:31 |
 
-Snapshot ID: `ZlyhCwAAAADA0q5FadPVZMkEgAZlpOeC`
+Snapshot ID: `ZlyhCwAAAACTi1/QQY7q/57cTbC/y+e/`

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-756 songs - 1 day 9 hr 59 min
+757 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 | 2023-12-08 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 | 2023-06-13 | 2023-09-29 |
-| [Havana Beach](https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [Cocktail City](https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj) | 2:03 | 2024-05-23 |  |
+| [Havana Beach](https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [Cocktail City](https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj) | 2:03 | 2024-05-23 | 2024-09-28 |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 | 2024-04-19 |
 | [Heiwa](https://open.spotify.com/track/1o3ZTQiMpqfbb9CMv4Pf9a) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū III](https://open.spotify.com/album/5WSLnQVYe65yWgQ5PpPw6p) | 3:23 | 2023-11-30 | 2024-04-19 |
@@ -385,7 +385,7 @@
 | [Magic Hour](https://open.spotify.com/track/2S12YTQaeICYkN1zYWtpgy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/0VllhhyjlCrweNYZ1o99Q9) | 1:58 | 2023-08-10 | 2023-08-12 |
 | [Magic Hour](https://open.spotify.com/track/5zAq8jojZcRqmhqXYCiKZd) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/1SPAJxdV4s2zF169YXvscW) | 1:58 | 2023-08-10 | 2023-09-29 |
 | [Magnolia](https://open.spotify.com/track/2sJ3Y4XZOcD7lIth8zTYDE) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Magnolia](https://open.spotify.com/album/4fSqcOM3rC2xVWTYwqwDVJ) | 2:29 | 2022-01-06 | 2022-07-24 |
-| [mahogany](https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [deep forest](https://open.spotify.com/album/3U6IW47ndf3rwqLW7ZMd5B) | 2:18 | 2024-05-23 | 2024-09-27 |
+| [mahogany](https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [deep forest](https://open.spotify.com/album/3U6IW47ndf3rwqLW7ZMd5B) | 2:18 | 2024-05-23 |  |
 | [Make Em' Clap](https://open.spotify.com/track/4hLRIF4PNhUD74qCbeNN4D) | [A.Y.B\. Force](https://open.spotify.com/artist/7I2xlcoJBXvmAeR7zUpSHE), [8ronix](https://open.spotify.com/artist/0TNs6NERDZsTtRTxNQLC2c) | [Make Em' Clap](https://open.spotify.com/album/7fzPRgMNM2goJbJQXRLeYh) | 3:05 | 2022-05-19 | 2022-07-24 |
 | [Malasana](https://open.spotify.com/track/1ebFEGV0DGIQUc7ejH8GnG) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Malasana](https://open.spotify.com/album/6f47OmhcecfY9X72S3xPWC) | 1:50 | 2022-03-31 | 2022-04-16 |
 | [Many "Scratch" Perry](https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc) | [Kōya Ogata](https://open.spotify.com/artist/22uFYUbePeINzJYB9CQOwZ) | [blank space \-vol.2\-](https://open.spotify.com/album/33hAQUBAuB1msJ2Mk3hnWh) | 6:13 | 2021-12-23 | 2023-03-25 |
@@ -549,7 +549,7 @@
 | [re: Day Trip](https://open.spotify.com/track/3fZdrOHUqRASVTOBc4hhyK) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [re: Day Trip](https://open.spotify.com/album/6LQKkD2sgGfkMbXvpXevNV) | 2:17 | 2022-06-02 | 2022-07-29 |
 | [re: Labyrinth](https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [re: Labyrinth](https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b) | 3:05 | 2022-11-10 | 2023-06-13 |
 | [re: Nobody Else](https://open.spotify.com/track/53dsepx7bFpx2OEfhAo21t) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0GLWTNcU2G3OVQL87ztyVv) | 2:07 | 2023-04-13 | 2023-06-09 |
-| [re: Nobody Else](https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD) | 2:07 | 2023-04-13 |  |
+| [re: Nobody Else](https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD) | 2:07 | 2023-04-13 | 2024-09-28 |
 | [Realize](https://open.spotify.com/track/1inTIFMEfPy4FoPVo0e8OS) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia II](https://open.spotify.com/album/0aPWrX9kGHRxVrNgilogbn) | 3:22 | 2024-08-08 |  |
 | [Reassurance Cycle](https://open.spotify.com/track/6d0Oh1pTBk1u9znCipA9zv) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Reassurance Cycle](https://open.spotify.com/album/4yPO42Uaw3NS9pqdsScnLT) | 2:05 | 2021-12-23 | 2022-07-26 |
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2021-12-23 | 2023-12-31 |
@@ -754,6 +754,7 @@
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-26 |  |
+| [オダイジン](https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [藤沢 2021](https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV) | 2:30 | 2024-09-25 |  |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
 | [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2023-06-30 |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Galileo Galilei
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,415 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,416 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 |
 | 100 | [稲妻](https://open.spotify.com/track/7JRaWc8eI0vj5OIj08loTL) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [稲妻](https://open.spotify.com/album/4UmcglvI0t91Okvwzd3VHH) | 3:47 |
 
-Snapshot ID: `ZvLT8AAAAACDE09+W1JZZ3oUO1l3my0+`
+Snapshot ID: `ZvLT8AAAAACpwpjv8z3yuJ2PR5ZJLk8U`

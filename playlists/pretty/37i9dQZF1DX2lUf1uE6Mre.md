@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: DANO
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,264 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,322 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 79 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
 | 80 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 |
 
-Snapshot ID: `ZugeewAAAACUyVTv6PMH+TJ/RTCXRsSH`
+Snapshot ID: `ZugeewAAAADHE4ShyM/m+VtcM4esa2Rz`

@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 382418,
+  "num_followers": 382665,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpGLMQAAAADLiF8XRMRLzIlrU0x1xRbc",
+  "snapshot_id": "ZpGLMQAAAADqY36hh6CcVtp5c85oS+eN",
   "tracks": [
     {
       "added_at": "2024-07-12 19:59:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 229573,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
       "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "100% Pure Love",
+      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 233466,
       "name": "Tonight Is The Night",
       "url": "https://open.spotify.com/track/0szxZG3QmQpMxrzmOjfDlm"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
     },
     {
       "added_at": "2024-07-12 19:59:45",

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover:  <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist Berre
 
-2,000 songs - 4 day 10 hr 0 min
+2,004 songs - 4 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 | 2024-08-22 | 2024-08-30 |
 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 | 2024-08-22 | 2024-08-30 |
 | [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 | 2024-08-29 | 2024-09-06 |
+| [Come On](https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h) | 2:26 | 2024-09-26 |  |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-06 | 2024-06-14 |
 | [Comme un éclair](https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt) | [Antoine Delie](https://open.spotify.com/artist/4oD2dzJ90Zio3UtJ0d4FDN) | [Comme un éclair](https://open.spotify.com/album/7nJu0WVN2Kxu5BSQo4a7Hz) | 3:18 | 2024-06-06 | 2024-06-14 |
 | [Comment on s'aime](https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo) | [SOR4](https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln) | [SOR4](https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us) | 2:47 | 2024-09-19 | 2024-09-27 |
@@ -460,6 +461,7 @@
 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/3zXwT2g4t1P16RChezmTND) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/3bUg0zMcbkEjX8T7TgdzYP) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Do I Know Myself At All?](https://open.spotify.com/track/6KlmtPCVaW3V8nfKRq6Efd) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Do I Know Myself At All?](https://open.spotify.com/album/3ASaIg3bWEMdDOvJKDLhRg) | 4:19 | 2024-09-19 | 2024-09-27 |
 | [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-09-19 | 2024-09-27 |
+| [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 | 2024-09-26 |  |
 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-08 | 2024-08-17 |
 | [Documentary](https://open.spotify.com/track/4Yls4xH1aARz87Gcqkkgf9) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [NoLand](https://open.spotify.com/album/3yRZueMQ0MJCdUhr1NphiM) | 2:50 | 2024-09-19 | 2024-09-27 |
 | [Dolly](https://open.spotify.com/track/64Wk4YklGLIfT3BaAhtrPr) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Dolly](https://open.spotify.com/album/0SO3o4OeB8ewVF8uWgXBHa) | 3:39 | 2024-05-16 | 2024-05-24 |
@@ -867,6 +869,7 @@
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-20 | 2024-06-28 |
 | [Into You](https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Into You](https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ) | 4:44 | 2024-05-23 | 2024-06-01 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-08-02 |
+| [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-26 |  |
 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 | 2024-08-08 | 2024-08-17 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-23 | 2024-06-01 |
 | [It feels the same \- Radio Edit](https://open.spotify.com/track/6QRT7mBxs0INcalNJRYUlA) | [Morpho](https://open.spotify.com/artist/2g9bCn2l8RJMxMDVOdbKy3) | [It feels the same \(Radio Edit\)](https://open.spotify.com/album/3fnpG32XvNUVk7MgUnT58n) | 3:26 | 2024-06-13 | 2024-06-21 |
@@ -1764,6 +1767,7 @@
 | [Time To Go](https://open.spotify.com/track/3I869WklmJFnotXmrbK7TI) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Time To Go](https://open.spotify.com/album/4LX5sa5K7rhIB3N3v6sqMC) | 3:33 | 2024-09-05 | 2024-09-13 |
 | [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-26 | 2024-08-02 |
 | [Time Will Tell](https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Time Will Tell](https://open.spotify.com/album/3PbDdReywktWEnHMcU7TF4) | 4:04 | 2024-05-09 | 2024-05-17 |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-26 |  |
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-20 | 2024-06-28 |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-06-14 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 | 2024-06-07 |

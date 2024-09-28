@@ -2,7 +2,7 @@
 
 ### [This Is Metallica](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sJmec)
 
-> This Is Metallica\. Sus mejores éxitos, todos en una playlist.
+> This Is Metallica\. Все лучшие треки в одном плейлисте.
 
 82 songs - 7 hr 54 min
 

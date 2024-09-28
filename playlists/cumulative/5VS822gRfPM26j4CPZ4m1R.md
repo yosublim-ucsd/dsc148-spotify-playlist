@@ -4,7 +4,7 @@
 
 > Playlist
 
-527 songs - 1 day 7 hr 32 min
+529 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Like The Sun Needs](https://open.spotify.com/track/4cuBaEI4IZyESP62zthDmP) | [coldroses](https://open.spotify.com/artist/5u3iHu5PtPe8QW1oDSJXJO), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Like The Sun Needs](https://open.spotify.com/album/15NZex2edD8Xew8khz1x3c) | 3:37 | 2024-01-24 |  |
 | [Listen Up](https://open.spotify.com/track/1DDSXcyCFRSOYuNR8IJTEn) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Listen Up](https://open.spotify.com/album/4Y19SrthZaohjmdUzzRxmw) | 3:42 | 2023-10-25 |  |
 | [Little League](https://open.spotify.com/track/76P8vfizrFhFUSGkaqEKkW) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Little League](https://open.spotify.com/album/2ilpCVhdRhvMOBVho71Svu) | 2:54 | 2023-10-25 |  |
+| [Lonesome](https://open.spotify.com/track/12hFkmzvs2j7n6PeFYFzKc) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 3:32 | 2024-09-27 |  |
 | [Lonesome](https://open.spotify.com/track/2HxDUSyGDG4gLooxMEBPGw) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Lonesome](https://open.spotify.com/album/1mGnEdskS0HQKxAGK64Xcy) | 3:32 | 2024-08-02 |  |
 | [Long About Sundown](https://open.spotify.com/track/7KpZio2QTyEIWudcNjwGOF) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 2:48 | 2023-10-25 |  |
 | [LordHenry](https://open.spotify.com/track/7dEFIvrudJoPhrzWSYgCJX) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:32 | 2023-10-25 |  |
@@ -452,6 +453,7 @@
 | [Sunroom](https://open.spotify.com/track/4A8kD9AFBfVIcLzsEPu6Im) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [Sunroom](https://open.spotify.com/album/1coMovwC7IxNTQAEHCe08n) | 3:59 | 2023-10-25 |  |
 | [Superfood](https://open.spotify.com/track/5upVtIuHTk2xijNn6yXlYN) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Superfood](https://open.spotify.com/album/4T8x7GAD73u0f442zqfRRA) | 3:04 | 2023-10-25 |  |
 | [Surfside \- Instrumental](https://open.spotify.com/track/5AWJ7EvOzWleEqGKUNBeEc) | [RMZ](https://open.spotify.com/artist/1Oynd9dV5i5f8DBTjZhwzg), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Nicolas Felices](https://open.spotify.com/artist/25etBtojODJP0ap0Ugt0Af) | [Surfside](https://open.spotify.com/album/4TKs0VV9f4eegLONaTLjjC) | 2:42 | 2023-10-25 |  |
+| [Surrender](https://open.spotify.com/track/45aN0iCBL2gI5Ynj6C9VJd) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Surrender](https://open.spotify.com/album/3ej7W2e6VBty9PGjowpPB1) | 3:42 | 2024-09-27 |  |
 | [Sushi](https://open.spotify.com/track/6BSq9HDPqweaowVNTqTjZF) | [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Nice Guys Love You \(Vol\. 1\)](https://open.spotify.com/album/4eW7jDOFO874ue4vEmf1qL) | 3:40 | 2023-10-25 |  |
 | [Sushi](https://open.spotify.com/track/4UKFXQsh5tpXf5sjXw8zvF) | [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Sushi](https://open.spotify.com/album/0xG05obVSm5KV5BGkBGdW5) | 3:40 | 2023-10-25 |  |
 | [Take It Home](https://open.spotify.com/track/7suvezHyTpVgXt0sJduC5K) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 3:09 | 2023-10-25 |  |

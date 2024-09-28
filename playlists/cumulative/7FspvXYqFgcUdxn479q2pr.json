@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Funky Beatz ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Ian Asher ",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 123890,
       "name": "A Horse With No Name (CYRIL Remix)",
       "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 160546,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 144517,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g"
@@ -708,6 +708,32 @@
       "duration_ms": 234800,
       "name": "Cafe With Gods",
       "url": "https://open.spotify.com/track/392saTzCLJ1EljFjZrOUxy"
+    },
+    {
+      "album": {
+        "name": "Caigo (Stumblin' In)",
+        "url": "https://open.spotify.com/album/6DZLdaSUl1uuhGTd4WAhe3"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Essa Gante",
+          "url": "https://open.spotify.com/artist/3dYgPy7idZRW4mnP9P05aK"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Caigo (Stumblin' In)",
+      "url": "https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP"
     },
     {
       "album": {
@@ -1146,7 +1172,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 126681,
       "name": "Dance Like U (with Riley Pearce)",
       "url": "https://open.spotify.com/track/542RlSOC0TWXKX5H9k3Oiq"
@@ -1590,10 +1616,32 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162461,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD"
+    },
+    {
+      "album": {
+        "name": "Elbows (feat. Troz\u00e9)",
+        "url": "https://open.spotify.com/album/65ebxZ9lVdUnhWT94Okw7K"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Troze",
+          "url": "https://open.spotify.com/artist/55P3gPnko8eY36IyUHC5gF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Elbows (feat. Troz\u00e9)",
+      "url": "https://open.spotify.com/track/3p0z5sooMDJyprzbm9JD3N"
     },
     {
       "album": {
@@ -1930,7 +1978,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 162461,
       "name": "Feel What You Want - Robert Falcon Remix",
       "url": "https://open.spotify.com/track/4yR2MUdhnM7WzSuABMhiDa"
@@ -2320,7 +2368,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 187534,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/5nhejmamkDcQVumjP28eOg"
@@ -2478,7 +2526,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 288000,
       "name": "Hours and Hours - Dropack Remix",
       "url": "https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF"
@@ -2500,7 +2548,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 283814,
       "name": "Hours and Hours - Parallel Lines Remix",
       "url": "https://open.spotify.com/track/5HJp6xSFqoANcH1i6UHaWI"
@@ -2522,7 +2570,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 235636,
       "name": "Hours and Hours - Sonnero Remix",
       "url": "https://open.spotify.com/track/0vdOEq5yJhtNrpzn2Tx8Xl"
@@ -2683,6 +2731,32 @@
     },
     {
       "album": {
+        "name": "I Love The Way (feat. LEVi & Toddla T)",
+        "url": "https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162207,
+      "name": "I Love The Way (feat. LEVi & Toddla T)",
+      "url": "https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7"
+    },
+    {
+      "album": {
         "name": "I Need A Dollar",
         "url": "https://open.spotify.com/album/7esA60BuZw6B5z23cFg5ag"
       },
@@ -2838,6 +2912,32 @@
       "duration_ms": 181417,
       "name": "I'm Too Sexy (Albert Harvey Remix)",
       "url": "https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sexy (Eric Kupper Remix)",
+        "url": "https://open.spotify.com/album/3zeM8aaMzhu4imh09FQ5fi"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "I'm Too Sexy (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/79luzgoRfJUmHakzks602J"
     },
     {
       "album": {
@@ -3007,6 +3107,28 @@
     },
     {
       "album": {
+        "name": "Junglin",
+        "url": "https://open.spotify.com/album/6GsZ9H6JpOaHIsyI8A8E3c"
+      },
+      "artists": [
+        {
+          "name": "Angel Janson",
+          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Junglin",
+      "url": "https://open.spotify.com/track/55m5dkip1lCp6DPeVnj07C"
+    },
+    {
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -3022,7 +3144,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
@@ -3136,7 +3258,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 233709,
       "name": "Kosmos",
       "url": "https://open.spotify.com/track/3fewHPIXttoyGSA6Uhxege"
@@ -3648,7 +3770,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
@@ -4016,7 +4138,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 181406,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL"
@@ -4042,6 +4164,28 @@
       "duration_ms": 154545,
       "name": "My Baby La La",
       "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
+    },
+    {
+      "album": {
+        "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
+        "url": "https://open.spotify.com/album/293qHAJCL1zaqYDLQpPC3d"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Mike Waters",
+          "url": "https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155075,
+      "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
+      "url": "https://open.spotify.com/track/6jJOhHyOgpIOHWq3DaFiyM"
     },
     {
       "album": {
@@ -4129,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+        "url": "https://open.spotify.com/album/4VXJXevslm1e6dndc6tD5k"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170196,
+      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "url": "https://open.spotify.com/track/03bA59As8j2ODRyZRE3X7X"
+    },
+    {
+      "album": {
         "name": "New Sound",
         "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
       },
@@ -4162,7 +4328,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 135547,
       "name": "Niet Te Lang Doen",
       "url": "https://open.spotify.com/track/0PQKIBxujfbN7GYp20dH56"
@@ -4330,7 +4496,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 153142,
       "name": "Oh My (Dimitri K Remix)",
       "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
@@ -4444,7 +4610,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192000,
       "name": "Our House",
       "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
@@ -4484,7 +4650,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172702,
       "name": "P.A.R.T.Y.",
       "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
@@ -4788,7 +4954,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 170307,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
@@ -4942,7 +5108,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 143478,
       "name": "SHADY (Side Of The Moon)",
       "url": "https://open.spotify.com/track/6gW0R1YE6L8rHB9b0SnCFq"
@@ -5062,7 +5228,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172369,
       "name": "Situation",
       "url": "https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs"
@@ -5524,7 +5690,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 169007,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/0okW8DpLYyl4oPfDAFZsiT"
@@ -5550,7 +5716,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
@@ -5646,7 +5812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 172200,
       "name": "Teufel",
       "url": "https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW"
@@ -5829,6 +5995,28 @@
     },
     {
       "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/1jcsybt3miqJpCcjRAk7j6"
       },
@@ -5902,7 +6090,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 223384,
       "name": "U Got My Body (L_cio Remix)",
       "url": "https://open.spotify.com/track/2INmTNt4RJ6MIv0LnG72qK"
@@ -6012,7 +6200,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"

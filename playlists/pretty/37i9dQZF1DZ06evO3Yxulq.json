@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 39688,
+  "num_followers": 39695,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAAAR4cd8JvMuiynxHSEc4i1O",
+  "snapshot_id": "ZvSkAAAAAACoHhlgpherS5SCRARde84n",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa proveer\u00e1s",
-        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 368020,
-      "name": "T\u00fa proveer\u00e1s",
-      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Libertador",
         "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
       },
@@ -207,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Vuelta al Jardin",
         "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 258640,
       "name": "\u00c9l Nos Ama",
       "url": "https://open.spotify.com/track/0g5zAwZa44obmZybQrYGbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Rey",
-      "url": "https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 296986,
-      "name": "Fidelidad (Grande Es Tu Fidelidad)",
-      "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 296986,
+      "name": "Fidelidad (Grande Es Tu Fidelidad)",
+      "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
     },
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Tu Presencia Es El Cielo",
-      "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
+      "duration_ms": 344549,
+      "name": "Me Amaste a M\u00ed",
+      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 344549,
-      "name": "Me Amaste a M\u00ed",
-      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es El Cielo",
+      "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
     },
     {
       "added_at": null,
@@ -963,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
       "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

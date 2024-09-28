@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,899 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,924 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
 | 50 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 |
 
-Snapshot ID: `ZvXLUAAAAAAfh7RI6cN7mWo7owNggMjN`
+Snapshot ID: `ZvXLUAAAAACq0c8Y9Ztw2JEMTTC5yym1`

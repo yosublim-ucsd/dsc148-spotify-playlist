@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Bianelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,700 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,710 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Paura di Me](https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [Paura di Me](https://open.spotify.com/album/7nBA3K8fb5ykG945MZfiuQ) | 2:32 |
 | 60 | [Voglio di più](https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7) | [estro](https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn) | [Voglio di più](https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF) | 2:35 |
 
-Snapshot ID: `ZvXZnAAAAADH3y7733nMwQg8OkDpeXJs`
+Snapshot ID: `ZvXZnAAAAACem4h4S2TPYgxKf/j0bGq7`

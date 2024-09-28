@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 60248,
+  "num_followers": 60264,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu3bLAAAAAAaqifM0DIatTAbFgwcMcjv",
+  "snapshot_id": "Zu3bLAAAAABZ3SpiF5XkeFKfrFNcg9RH",
   "tracks": [
     {
       "added_at": "2024-09-20 20:29:32",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-09-20 20:29:32",
       "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2024-09-20 20:29:32",
+      "album": {
         "name": "Ya Me Voy",
         "url": "https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 205161,
       "name": "Ya Me Voy",
       "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
-    },
-    {
-      "added_at": "2024-09-20 20:29:32",
-      "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2024-09-20 20:29:32",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2024-09-20 20:29:32",
       "album": {
-        "name": "Bidi Bam",
-        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+        "name": "Solo Se Vive Una Vez",
+        "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
         },
         {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
         }
       ],
-      "duration_ms": 120930,
-      "name": "Bidi Bam",
-      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
+      "duration_ms": 147601,
+      "name": "Solo Se Vive Una Vez",
+      "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
     },
     {
       "added_at": "2024-09-20 20:29:32",
@@ -1695,22 +1695,22 @@
     {
       "added_at": "2024-09-20 20:29:32",
       "album": {
-        "name": "Solo Se Vive Una Vez",
-        "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
       },
       "artists": [
         {
-          "name": "Yas Cepeda",
-          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
         }
       ],
-      "duration_ms": 147601,
-      "name": "Solo Se Vive Una Vez",
-      "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "added_at": "2024-09-20 20:29:32",
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2024-09-20 20:29:32",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
       "artists": [
         {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
         },
         {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-09-20 20:29:32",
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2024-09-20 20:29:32",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-09-20 20:29:32",

@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 142344,
       "name": "Ganhos",
       "url": "https://open.spotify.com/track/0wrePFro6HxW7tjYWC7uqi"
@@ -4698,7 +4698,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 157808,
       "name": "Maria Bonita",
       "url": "https://open.spotify.com/track/40eU3hvkbKMnadojsxXJd9"
@@ -7109,6 +7109,36 @@
     },
     {
       "album": {
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "SKYLINE",
+      "url": "https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp"
+    },
+    {
+      "album": {
         "name": "Sobe O Morro",
         "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
       },
@@ -7162,6 +7192,32 @@
       "duration_ms": 127169,
       "name": "SORAYAMA BRANCO",
       "url": "https://open.spotify.com/track/5vtYrKiForK2eH28A5H2rA"
+    },
+    {
+      "album": {
+        "name": "Sorte ou Rev\u00e9s (Soudlab#3)",
+        "url": "https://open.spotify.com/album/1Zmwj8r0WQ86SAWBsYoEFL"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "$pace",
+          "url": "https://open.spotify.com/artist/4111UMyHQHJtS1fUl2477F"
+        },
+        {
+          "name": "Soud",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110080,
+      "name": "Sorte ou Rev\u00e9s (Soudlab#3)",
+      "url": "https://open.spotify.com/track/3yhyNNPlQH7Caz8jsa7bLo"
     },
     {
       "album": {
@@ -7709,6 +7765,32 @@
     },
     {
       "album": {
+        "name": "CORRE",
+        "url": "https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI"
+      },
+      "artists": [
+        {
+          "name": "Charm Mone",
+          "url": "https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c"
+        },
+        {
+          "name": "Tshawtty",
+          "url": "https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TREMBARBIE",
+      "url": "https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw"
+    },
+    {
+      "album": {
         "name": "PUXUTRIUH",
         "url": "https://open.spotify.com/album/4JygB1MmGbBnu41cKK34vX"
       },
@@ -8068,7 +8150,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 182648,
       "name": "Vila Tolstoi II",
       "url": "https://open.spotify.com/track/0Sl5JHRCF4mmJZjkBELSkC"

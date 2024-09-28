@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-478 songs - 1 day 9 hr 51 min
+479 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 | 2024-06-14 |  |
 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 | 2022-02-25 | 2023-06-17 |
 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 | 2022-04-01 | 2023-08-05 |
-| [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0) | 4:26 | 2024-08-30 |  |
+| [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0) | 4:26 | 2024-08-30 | 2024-09-28 |
 | [C'mon Y'all](https://open.spotify.com/track/3saNbbFn6fncpSFq9YoYis) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [C'mon Y'all](https://open.spotify.com/album/2HO6PhCIZ5G8tLFEbJYTJ4) | 3:55 | 2023-08-25 | 2023-10-07 |
 | [Can We Talk](https://open.spotify.com/track/0KUWTBINgTBrkrHwj5dEot) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/4jt3x9S0RBFg5yCvvWCtje) | 4:08 | 2023-08-18 | 2024-03-09 |
 | [Can We Talk](https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq) | 4:10 | 2023-08-18 | 2024-01-30 |
@@ -366,6 +366,7 @@
 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 | 2024-04-19 | 2024-08-03 |
 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 | 2023-04-28 | 2024-03-16 |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 | 2023-08-12 |
+| [Slide](https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slide](https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I) | 3:55 | 2024-09-27 |  |
 | [Slingshot](https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Slingshot](https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX) | 3:52 | 2021-10-15 | 2022-09-17 |
 | [Slo Jam](https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ) | [kcvibes](https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ) | [Slo Jam](https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6) | 3:21 | 2023-06-30 |  |
 | [Smile On](https://open.spotify.com/track/3E5R4LsArWWhWOQ74XN9Pz) | [Isaiah Katumwa](https://open.spotify.com/artist/6OPe0VU4tE6WsIyYZatf1l) | [Smile On](https://open.spotify.com/album/6codHNBSOUzn7aXVb45ohX) | 3:56 | 2020-10-30 | 2022-03-18 |

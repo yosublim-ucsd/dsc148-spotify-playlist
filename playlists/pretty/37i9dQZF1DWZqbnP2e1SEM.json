@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321364,
+  "num_followers": 321349,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuys8AAAAACeDIzP72+9FRdnmSfCqk0x",
+  "snapshot_id": "Zuys8AAAAADUfICzRd5Bvq69DUb2f0Qk",
   "tracks": [
     {
       "added_at": "2024-09-19 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 150987,
       "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "If U Like Me",
-        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "If U Like Me - Edit",
-      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Something To Me",
         "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 225466,
       "name": "Something To Me",
       "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "If U Like Me",
+        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "If U Like Me - Edit",
+      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Set Me Free (feat. Robert Courtois)",
         "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 150218,
       "name": "Set Me Free (feat. Robert Courtois)",
       "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Bota Bota",
         "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 192923,
       "name": "Bota Bota",
       "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "FIREFLY",
-        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "FIREFLY",
-      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1691,6 +1691,42 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Sima Agua (feat. Mayra Andrade)",
+        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Sima Agua (feat. Mayra Andrade)",
+      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "All My Ladies",
+        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "All My Ladies",
+      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Push That",
         "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
       },
@@ -1723,22 +1759,6 @@
       "duration_ms": 169545,
       "name": "System Overload",
       "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "All My Ladies",
-        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "All My Ladies",
-      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1779,26 +1799,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sima Agua (feat. Mayra Andrade)",
-        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Sima Agua (feat. Mayra Andrade)",
-      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 184838,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1847,6 +1831,22 @@
       "duration_ms": 145565,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
     },
     {
       "added_at": "2024-09-19 23:00:00",

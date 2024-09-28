@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125404,
+  "num_followers": 125413,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvJnTQAAAADFDEZi4AC/O3WoGm8BglvA",
+  "snapshot_id": "ZvJnTQAAAAAs8OswlTibU2+dWdLXJcnO",
   "tracks": [
     {
       "added_at": "2024-09-24 07:16:29",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
-      },
-      "artists": [
-        {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
-        }
-      ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
         "name": "Cara de tonta",
         "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 126650,
       "name": "Cara de tonta",
       "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
-        "name": "Canto al cansancio",
-        "url": "https://open.spotify.com/album/5fJQ2Y7Shbhs5Y0HpPsRLI"
-      },
-      "artists": [
-        {
-          "name": "Karmento",
-          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
-        },
-        {
-          "name": "Bewis de la Rosa",
-          "url": "https://open.spotify.com/artist/2EzJ4708hLLqw7nPHJ9MSK"
-        }
-      ],
-      "duration_ms": 210964,
-      "name": "Canto al cansancio",
-      "url": "https://open.spotify.com/track/5tfhPCqCpOURWrQq8MTjG8"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
         "name": "Milaka Lore - Miles de Flores",
         "url": "https://open.spotify.com/album/5dp5d1ANJoFfuV3lRUGN2X"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 160310,
       "name": "Milaka Lore - Miles de Flores",
       "url": "https://open.spotify.com/track/3cMG8a9pwc7ZK34hDLUT9X"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
+        "name": "Canto al cansancio",
+        "url": "https://open.spotify.com/album/5fJQ2Y7Shbhs5Y0HpPsRLI"
+      },
+      "artists": [
+        {
+          "name": "Karmento",
+          "url": "https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF"
+        },
+        {
+          "name": "Bewis de la Rosa",
+          "url": "https://open.spotify.com/artist/2EzJ4708hLLqw7nPHJ9MSK"
+        }
+      ],
+      "duration_ms": 210964,
+      "name": "Canto al cansancio",
+      "url": "https://open.spotify.com/track/5tfhPCqCpOURWrQq8MTjG8"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 340638,
       "name": "Se\u00f1or Tiempo",
       "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 212019,
       "name": "T\u00f3came",
       "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
-        "name": "Compostaje",
-        "url": "https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 192565,
-      "name": "Compostaje",
-      "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 171309,
       "name": "El Oasis",
       "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
+        "name": "Compostaje",
+        "url": "https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 192565,
+      "name": "Compostaje",
+      "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
         "name": "Vuelo de casa en casa",
         "url": "https://open.spotify.com/album/7FvdXE0psbDlCDeDKfGkfP"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2024-09-24 07:16:29",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-09-24 07:16:29",
       "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
-      },
-      "artists": [
-        {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
-    },
-    {
-      "added_at": "2024-09-24 07:16:29",
-      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+    },
+    {
+      "added_at": "2024-09-24 07:16:29",
+      "album": {
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
+      },
+      "artists": [
+        {
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "added_at": "2024-09-24 07:16:29",

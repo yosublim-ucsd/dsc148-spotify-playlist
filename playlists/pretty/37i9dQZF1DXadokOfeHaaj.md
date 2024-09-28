@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Killen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,106 likes - 119 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,113 likes - 119 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 118 | [Welcome Home](https://open.spotify.com/track/6X4vGx2XIFYFTmeOm142cr) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Welcome Home](https://open.spotify.com/album/2IUiHvXFWEacS7YCnmbvRx) | 3:12 |
 | 119 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 |
 
-Snapshot ID: `Zuys8AAAAABtvtSo9REi3N4SKJJ2veRF`
+Snapshot ID: `Zuys8AAAAAAGIVpdXtMgny1ZqbIJn7I5`

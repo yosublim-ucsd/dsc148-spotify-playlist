@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 163120,
       "name": "Aquela Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/3A1LphuJ5lQD6NjPtxtYFh"
@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215129,
+      "name": "Energia Surreal - Ao Vivo",
+      "url": "https://open.spotify.com/track/2P5Hd3ghYMY5PT9yR73gR3"
+    },
+    {
+      "album": {
         "name": "A Hora \u00c9 Agora - Ao Vivo Em Jurer\u00ea (Edi\u00e7\u00e3o B\u00f4nus)",
         "url": "https://open.spotify.com/album/2BKrkmOYFnAFUSQJkSvvMV"
       },
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 183413,
       "name": "Foi P\u00e1 Pum",
       "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 217846,
       "name": "Largado As Tra\u00e7as - Ac\u00fastico",
       "url": "https://open.spotify.com/track/74gguwbBvfBTurNJUWFOsC"
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 180629,
       "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 177564,
       "name": "Pode Sumir",
       "url": "https://open.spotify.com/track/5OzvtpasMB3aPWpfVr0PsA"
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 179722,
       "name": "quando a bad bater - ao vivo",
       "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
@@ -2684,10 +2702,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 166672,
       "name": "Reprise - Ao Vivo",
       "url": "https://open.spotify.com/track/4C24fGqRUrz3TyVt4uku2Y"
+    },
+    {
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "album": {
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 153934,
       "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
       "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"

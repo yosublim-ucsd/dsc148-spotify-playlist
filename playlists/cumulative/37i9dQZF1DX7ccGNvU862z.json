@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tobii",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GeniePak",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/5chz1lioTfMiKsS8vLWHk5"
+      },
+      "artists": [
+        {
+          "name": "GeniePak",
+          "url": "https://open.spotify.com/artist/0KX4JGKebDT1pcpbIdUPUM"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0iPww0NytnjjntgFiFtfGK"
+    },
+    {
+      "album": {
         "name": "Good Day (\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e14\u0e35)",
         "url": "https://open.spotify.com/album/0D0V28OPk3fLDBTO534G4P"
       },
@@ -1956,6 +1974,24 @@
       "duration_ms": 226534,
       "name": "Last Night Sex",
       "url": "https://open.spotify.com/track/1PO9rcI2EiTQzWJIOAOA7b"
+    },
+    {
+      "album": {
+        "name": "LAST SUPPER - SIDE B",
+        "url": "https://open.spotify.com/album/7Cwg28QVPHraLvr0Z4mn3h"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "LAST SUPPER",
+      "url": "https://open.spotify.com/track/2oldsV2mXHifiHOmYs7Quz"
     },
     {
       "album": {
@@ -2760,7 +2796,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 270291,
       "name": "Night Neon",
       "url": "https://open.spotify.com/track/3ZnOVHClSYBlGOgN0E5TiQ"
@@ -2804,6 +2840,24 @@
       "duration_ms": 154838,
       "name": "NO MORE",
       "url": "https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz"
+    },
+    {
+      "album": {
+        "name": "No Ticket For Haters",
+        "url": "https://open.spotify.com/album/09PWjPIwWlpLN7bN01AS7d"
+      },
+      "artists": [
+        {
+          "name": "S2",
+          "url": "https://open.spotify.com/artist/1LArok4vLyLUV16idPqEWf"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "No Ticket For Haters",
+      "url": "https://open.spotify.com/track/4ImW2yBela9S0sVPRJojMa"
     },
     {
       "album": {
@@ -3938,6 +3992,24 @@
       "duration_ms": 169565,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5t76ZbsYMOgCTX4iTSPHSq"
+    },
+    {
+      "album": {
+        "name": "Swipe Your Tears Out",
+        "url": "https://open.spotify.com/album/7BRMncrJNGkwuBVsNQ3x5F"
+      },
+      "artists": [
+        {
+          "name": "LAZYHOLIC",
+          "url": "https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Swipe Your Tears Out",
+      "url": "https://open.spotify.com/track/3iuKOttVPboBh7eO1S2yOg"
     },
     {
       "album": {
@@ -5446,7 +5518,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 248454,
       "name": "\u0e0a\u0e31\u0e49\u0e19\u0e2b\u0e01",
       "url": "https://open.spotify.com/track/32KRXnLHWxMT0YJ9tvGdoQ"
@@ -6564,7 +6636,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 222439,
       "name": "\u0e1e\u0e27\u0e01\u0e01\u0e39\u0e40\u0e14\u0e47\u0e01\u0e0a\u0e25",
       "url": "https://open.spotify.com/track/5D7f7WJXLooIKr1QuIxtAW"
@@ -6912,6 +6984,24 @@
       "duration_ms": 229000,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e2b\u0e19\u0e32\u0e27\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/0ILkNpisPipNntPJZJV9iQ"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e27\u0e31\u0e19\u0e40\u0e27\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/5IDqbCGWoDICoIAwHfwl2S"
+      },
+      "artists": [
+        {
+          "name": "WHALJAY",
+          "url": "https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e27\u0e31\u0e19\u0e40\u0e27\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/0Z9m9sXqkSyHNlCVL7vcZV"
     },
     {
       "album": {
@@ -7740,7 +7830,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 192366,
       "name": "\u0e2a\u0e32\u0e27\u0e0a\u0e38\u0e14\u0e41\u0e14\u0e07",
       "url": "https://open.spotify.com/track/7cW1FpVCriPipNwtyt49Ta"
@@ -9922,7 +10012,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-28",
       "duration_ms": 183237,
       "name": "\u0e44\u0e21\u0e48\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/23jVsC8VrbWCrHewHXI2yt"

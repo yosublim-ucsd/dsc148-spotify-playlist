@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 29987,
+  "num_followers": 29997,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0jRAAAAADoOjzYCWiqJF0dY66MqQFb",
+  "snapshot_id": "Zu0jRAAAAAC0Rv9PxdlOK3ZtW23yQ5c/",
   "tracks": [
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live in Montreux 1980",
-        "url": "https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 368400,
-      "name": "I Heard It Through the Grapevine - Live",
-      "url": "https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Anniversary \u2013 The Live Album",
         "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 254992,
       "name": "You're On My Mind - Anniversary \u2013 Live",
       "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live in Montreux 1980",
+        "url": "https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 368400,
+      "name": "I Heard It Through the Grapevine - Live",
+      "url": "https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
         "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live And In Living Color",
         "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "The Tour",
-        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Mary Jane (All Night Long) - Live",
-      "url": "https://open.spotify.com/track/2gaALAQJNNtFkE2Tu2kzuS"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live In Stockholm",
         "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 484858,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "The Tour",
+        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Mary Jane (All Night Long) - Live",
+      "url": "https://open.spotify.com/track/2gaALAQJNNtFkE2Tu2kzuS"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "In Person at the Whiskey a Go Go",
-        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
-      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Curtis in Chicago - Recorded Live!",
         "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 234813,
       "name": "Superfly - Live in Chicago",
       "url": "https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "In Person at the Whiskey a Go Go",
+        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
+      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF"
+        "name": "Live: 1989 Memphis Music & Heritage Festival",
+        "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
       "artists": [
         {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
         }
       ],
-      "duration_ms": 548378,
-      "name": "Unconditional Love",
-      "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
+      "duration_ms": 696666,
+      "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
+      "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
     }
   ],
   "unique_name": "Soul Live",

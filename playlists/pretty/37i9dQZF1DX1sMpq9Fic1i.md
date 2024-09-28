@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,239 likes - 40 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,278 likes - 40 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 | 39 | [Protrusion](https://open.spotify.com/track/4WZ9mk9TQCFoxdem6QZfHk) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:46 |
 | 40 | [Spatial Awareness](https://open.spotify.com/track/1igQeKnLlROweUAG7Jk9Y6) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:42 |
 
-Snapshot ID: `ZumZcAAAAAAcFwrVX9IrnFV1ZutA+ljj`
+Snapshot ID: `ZumZcAAAAACWhwu7Djd+3WCXmjKbjykM`

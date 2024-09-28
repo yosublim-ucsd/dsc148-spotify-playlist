@@ -4875,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Homage to Delusion",
+        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212036,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/12hFkmzvs2j7n6PeFYFzKc"
+    },
+    {
+      "album": {
         "name": "Lonesome",
         "url": "https://open.spotify.com/album/1mGnEdskS0HQKxAGK64Xcy"
       },
@@ -8238,6 +8256,24 @@
       "duration_ms": 162069,
       "name": "Surfside - Instrumental",
       "url": "https://open.spotify.com/track/5AWJ7EvOzWleEqGKUNBeEc"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3ej7W2e6VBty9PGjowpPB1"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222876,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/45aN0iCBL2gI5Ynj6C9VJd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Ali Aka Mind, Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,048 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,060 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 64 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 |
 | 65 | [Obvio Bien](https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Obvio Bien](https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM) | 4:14 |
 
-Snapshot ID: `ZtFRlAAAAAABOuX3TD+yIfQqP/lzbHAK`
+Snapshot ID: `ZtFRlAAAAADCrkkbosy0RN4rB3iptbUD`

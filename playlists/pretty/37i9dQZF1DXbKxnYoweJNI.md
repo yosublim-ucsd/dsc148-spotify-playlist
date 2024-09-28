@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 薄荷綠工廠 \(Mint GreeN Mill\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,748 likes - 112 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,756 likes - 112 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 41 | [卑南溪之歌 \(feat\. 斯馬里奧\)](https://open.spotify.com/track/6vovdfmaiCWqeDM1jvm7v6) | [張淦勛 Giyu Tjuljaviya](https://open.spotify.com/artist/6164qyIB1Wgt5q2TeZsNp4), [斯馬里奧](https://open.spotify.com/artist/0WYlVp7licIaFErjnlOiV2) | [卑南溪之歌 \(feat\. 斯馬里奧\)](https://open.spotify.com/album/1652tl6yajJ8BLxDWld1Wl) | 4:18 |
 | 42 | [後悔遇見你](https://open.spotify.com/track/1xpERNY2xGPRZz4IUzKmtb) | [史斯宇](https://open.spotify.com/artist/5KFPBuZ5A3eHa3PHZVD2cx) | [後悔遇見你](https://open.spotify.com/album/1y16irvGeR6rksqAZhD0CA) | 3:53 |
 | 43 | [月光](https://open.spotify.com/track/0Zw6QN8KhI3z0Cu4lcXnf6) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [月光](https://open.spotify.com/album/5wJNMYHUUBBZdDaK9gRV4J) | 3:41 |
-| 44 | [燈塔](https://open.spotify.com/track/53vVU6jpghe4dX1doM6iXM) | [林桉 Anzio](https://open.spotify.com/artist/00oWwzDpQoaT3UbK6N5qUM) | [燈塔](https://open.spotify.com/album/2tnnsCZG1ZtcN05bYh2Qen) | 4:32 |
+| 44 | [燈塔 Aurora](https://open.spotify.com/track/53vVU6jpghe4dX1doM6iXM) | [林桉 Anzio](https://open.spotify.com/artist/00oWwzDpQoaT3UbK6N5qUM) | [燈塔 Aurora](https://open.spotify.com/album/2tnnsCZG1ZtcN05bYh2Qen) | 4:32 |
 | 45 | [陪着你](https://open.spotify.com/track/5AMDCQnYfiQ1tOtNizH57l) | [szy](https://open.spotify.com/artist/6cZ3mq6OMH3KVgKskMvlLt) | [陪着你](https://open.spotify.com/album/2MENT6vkFvytXg1rhBMmoo) | 3:40 |
 | 46 | [把所有的你裝進回憶](https://open.spotify.com/track/75HP5b8RiH9khWyhAgS4mu) | [henÿ](https://open.spotify.com/artist/2clqUAXoPrcbfpnd3h7B7a) | [把所有的你裝進回憶](https://open.spotify.com/album/5AKsuJWApvlYs4MOP8vrrN) | 4:04 |
 | 47 | [最难攀](https://open.spotify.com/track/4W25TcYfOVS6qdbE9f8LxX) | [耳朵便利店](https://open.spotify.com/artist/58bOtGB5cAaSl9yZbppeIy) | [最难攀](https://open.spotify.com/album/0Cjaq8mQe1GFJRDaqMBlMq) | 2:35 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 111 | [愛上你啦！](https://open.spotify.com/track/3vgynfbEAx3BA350K1Z2k4) | [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [愛上你啦！](https://open.spotify.com/album/1WSNFnxoUGlj4hdDbJVdjm) | 2:34 |
 | 112 | [在台北生的病](https://open.spotify.com/track/64N0Uy3ky8fi4GA3Y8QiuA) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg) | [在台北生的病](https://open.spotify.com/album/2hGnjqcyli4O91loYJTPB4) | 5:08 |
 
-Snapshot ID: `ZvWFAAAAAABMHnYmkDDmq3ctRDJgIlPm`
+Snapshot ID: `ZvWFAAAAAADPPiy2GeUB7GFFZE9+S48b`

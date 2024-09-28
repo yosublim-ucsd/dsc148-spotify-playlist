@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Anssi Kela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,795 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,798 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 78 | [Kalpeaa valoa](https://open.spotify.com/track/3zUjxPK3ypd5JlfVLHku5B) | [Hullunkruunu](https://open.spotify.com/artist/4e5S9w4n2q9xeePK88mgIx) | [Tumman veden pinta](https://open.spotify.com/album/7qULDZOGiQTQ9OOyh8jc6N) | 4:45 |
 | 79 | [Korkealla Corolla](https://open.spotify.com/track/4FUtG7lJU8KF7vFbAAx4Vt) | [Säätövara](https://open.spotify.com/artist/7JL4buqBOKb78XllzghKes) | [Korkealla Corolla](https://open.spotify.com/album/1I1EWhDrvdLS3dzeZGonGZ) | 5:21 |
 
-Snapshot ID: `ZvXLjAAAAACxbAJ+7aPUFiaX0qwqO/bw`
+Snapshot ID: `ZvXLjAAAAAA8Zpifj9x8FYr746Ltza5b`

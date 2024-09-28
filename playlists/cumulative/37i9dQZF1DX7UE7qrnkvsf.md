@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-552 songs - 1 day 10 hr 53 min
+555 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2021-12-07 |  |
 | [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 | 2023-09-29 |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/2EPm4CREZTAaifDkmTZ1UD) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/6e5sks6jNZiizyhRdcguh9) | 4:51 | 2023-11-17 |  |
+| [A Glance Across the Room](https://open.spotify.com/track/1OaBvkhFNk15BH5C13vPgc) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [A Glance Across the Room](https://open.spotify.com/album/4tXlHGMflBX6647ppnPqVI) | 3:48 | 2024-09-27 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 |  |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 |  |
 | [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
@@ -53,7 +54,7 @@
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-08-25 |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-10 |  |
-| [Audrey and Jack](https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Audrey and Jack](https://open.spotify.com/album/6bRuZkAUye4yQB0kaymNcO) | 3:23 | 2023-08-10 |  |
+| [Audrey and Jack](https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Audrey and Jack](https://open.spotify.com/album/6bRuZkAUye4yQB0kaymNcO) | 3:23 | 2023-08-10 | 2024-09-28 |
 | [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 |  |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2023-09-01 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2021-12-07 | 2023-09-22 |
@@ -182,6 +183,7 @@
 | [Gone With The Wind](https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Gone With The Wind](https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa) | 3:41 | 2023-12-08 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/25uz27qVvG2bgaYxnME2Qm) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 4:02 | 2021-12-07 | 2022-10-28 |
 | [Grasslands](https://open.spotify.com/track/49AapllCCkhi3AsZ7lW5Tp) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Grasslands](https://open.spotify.com/album/0RFXQwiKftNdtyjEGSpOTI) | 3:32 | 2024-09-13 |  |
+| [Greetings](https://open.spotify.com/track/2nzSZbNLSwdOAQZXqk7ITn) | [The Urban Trio](https://open.spotify.com/artist/64HWGZP6BojFjQ7P8y5Zn9) | [Greetings](https://open.spotify.com/album/0D3DY6mh9O7VytBTGRZees) | 3:47 | 2024-09-27 |  |
 | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf) | 2:53 | 2023-12-15 |  |
 | [Have You Seen Me Lately](https://open.spotify.com/track/3yuopzkhJwwBCkvHhsEFjV) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Have You Seen Me Lately](https://open.spotify.com/album/7xiIJ61hKINcqgrLQo1csQ) | 2:19 | 2022-11-24 |  |
 | [Hay Square Serenade](https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Hay Square Serenade](https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr) | 3:48 | 2024-02-09 | 2024-09-14 |
@@ -198,7 +200,7 @@
 | [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2022-11-17 |  |
 | [Hope Street](https://open.spotify.com/track/5HGFH6PbfBWcetcRgUHHKK) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Hope Street](https://open.spotify.com/album/5mcyj4rb0b0v54jUK9EOcR) | 2:28 | 2023-11-17 |  |
 | [Horizon](https://open.spotify.com/track/3gD9Y09QDMmCjGH0R7q9y0) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Horizon](https://open.spotify.com/album/2uO7xE78Jyf8t5jL14Q63F) | 3:07 | 2024-01-12 |  |
-| [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 |  |
+| [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 | 2024-09-28 |
 | [How My Heart Sings](https://open.spotify.com/track/5liCciLu82rWull0PwMxBj) | [Dylan Lytle](https://open.spotify.com/artist/0mmQFz47dByQgYVEMqC8fF) | [How My Heart Sings](https://open.spotify.com/album/30wPThO6rsgeDJgvi17ZpP) | 3:05 | 2021-12-07 | 2022-08-12 |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/4xmNWf3u3LM9hu2noChFzA) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 8:59 | 2021-12-07 | 2022-10-07 |
@@ -330,7 +332,7 @@
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-17 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 |  |
 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
-| [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-05-11 |  |
+| [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-05-11 | 2024-09-28 |
 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 | 2021-12-07 | 2022-09-30 |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 | 2023-08-11 |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2021-12-07 | 2024-09-14 |
@@ -429,6 +431,7 @@
 | [Soon](https://open.spotify.com/track/2fAydkC38qWCHMDz5WjhGk) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Soon](https://open.spotify.com/album/4Zj16QaY58OccNy2W9ohpE) | 4:21 | 2022-08-11 |  |
 | [Sooner or Later](https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Sooner or Later](https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs) | 3:25 | 2023-10-06 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-08-11 | 2023-05-26 |
+| [Spring For Us](https://open.spotify.com/track/703VTTNUJTGrBDWyp3n0qe) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Spring For Us](https://open.spotify.com/album/2HxauxTDzJmUXc03tgDQbj) | 2:53 | 2024-09-27 |  |
 | [Standing Strong](https://open.spotify.com/track/1WjbXUeQsrtK7NkeQQvSul) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Standing Strong](https://open.spotify.com/album/0LAQFxtjRbzRYCe5JmrNTm) | 2:31 | 2024-03-22 |  |
 | [Stanky](https://open.spotify.com/track/2fZvSxMaDTKykeycbVY8LQ) | [The Unraveled](https://open.spotify.com/artist/4SPuV07nPCwIxcCRxYJQn9) | [Stanky](https://open.spotify.com/album/6LRdjfgM0f7RZeGXUwGJRT) | 3:12 | 2021-12-07 | 2022-08-18 |
 | [Stardust](https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 2:26 | 2021-12-07 |  |

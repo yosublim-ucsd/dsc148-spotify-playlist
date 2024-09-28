@@ -15985,6 +15985,24 @@
     },
     {
       "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/5oYLS2ONrRu0CSb7u6MMtt"
+      },
+      "artists": [
+        {
+          "name": "Micah Fletcher",
+          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223860,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/35pdFRNVk9RqIxZjsfc9I3"
+    },
+    {
+      "album": {
         "name": "Western Amerijuana (Pt. 1)",
         "url": "https://open.spotify.com/album/2B9wUq37HzOXEiIKvHzkPT"
       },
@@ -46290,6 +46308,24 @@
       "duration_ms": 186740,
       "name": "Wild",
       "url": "https://open.spotify.com/track/1mwAQdUh9kDs56b9LbXBAC"
+    },
+    {
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/1ETVcqAFduBMynBXTcrGFX"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lee",
+          "url": "https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Wild and Free",
+      "url": "https://open.spotify.com/track/7qeUUsXC4iKNLFGJwK4UUL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19569,
+  "num_followers": 19571,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq0U5QAAAACPiUjICeILP4buk8Z648Z1",
+  "snapshot_id": "Zq0U5QAAAAAYq5KBY8yuyDcQ1A0JumtU",
   "tracks": [
     {
       "added_at": "2024-08-02 17:18:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -691,38 +691,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Patio De Tango",
-        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
       },
       "artists": [
         {
           "name": "Lidia Borda",
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Brian Chambouleyron",
-          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
-        },
-        {
-          "name": "Esteban Morgado",
-          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
-        },
-        {
-          "name": "Damian Bolotin",
-          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
-        },
-        {
-          "name": "Walter Castro",
-          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
-        },
-        {
-          "name": "Mono Hurtado",
-          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 270791,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -775,22 +755,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Amor Ese Loco Berretin",
-        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
-      },
-      "artists": [
-        {
-          "name": "Rita Cortese",
-          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Nunca Tuvo Novio",
-      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "The Roots Of Tango - Milonga Sentimental",
         "url": "https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw"
       },
@@ -803,6 +767,22 @@
       "duration_ms": 158842,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
+      },
+      "artists": [
+        {
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -823,18 +803,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Patio De Tango",
+        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
       "artists": [
         {
           "name": "Lidia Borda",
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Brian Chambouleyron",
+          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
+        },
+        {
+          "name": "Esteban Morgado",
+          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
+        },
+        {
+          "name": "Damian Bolotin",
+          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
+        },
+        {
+          "name": "Walter Castro",
+          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
+        },
+        {
+          "name": "Mono Hurtado",
+          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 270791,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
     },
     {
       "added_at": "2024-08-02 17:18:29",

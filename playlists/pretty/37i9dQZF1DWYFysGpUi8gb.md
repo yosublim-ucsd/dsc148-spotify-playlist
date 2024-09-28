@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from divorce.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,578 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,559 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 99 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 |
 | 100 | [Green Shirt](https://open.spotify.com/track/1Lgx5ZUYGcJiDQMqQ6jAGo) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Green Shirt](https://open.spotify.com/album/0ac6cMBpx1ICVqKFSnztEt) | 2:08 |
 
-Snapshot ID: `ZvXncAAAAABe/Ri2LL/9ZhWCgpsrw8km`
+Snapshot ID: `ZvXncAAAAAB8hvz46eTmXhyvVetSRYri`

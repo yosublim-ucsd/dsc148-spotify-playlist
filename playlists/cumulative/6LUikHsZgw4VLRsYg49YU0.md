@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-220 songs - 12 hr 55 min
+221 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-12-09 | 2024-05-25 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2023-01-13 | 2023-12-14 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-12-09 |  |
+| [Kirie and Shuichi](https://open.spotify.com/track/2aTO74K3NrPd5Klvyv9LtB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Uzumaki \(Anime Original Series Soundtrack\)](https://open.spotify.com/album/7jSnAYdc0Aysd2ONzzVwLX) | 1:55 | 2024-09-27 |  |
 | [Know No Better \- Doobious Remix](https://open.spotify.com/track/0mz8ZwZ5KwnO122kS4N0IL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Doobious](https://open.spotify.com/artist/4Si6bkuClXDbHbTTAH0xPC) | [Know No Better \(Remixes\)](https://open.spotify.com/album/30cBFG2VLjgEE2qJfZgy3P) | 3:15 | 2022-02-18 | 2022-12-10 |
 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 | 2022-02-18 | 2022-12-10 |
 | [Let You Down](https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Let You Down](https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw) | 3:47 | 2022-10-13 | 2022-12-10 |

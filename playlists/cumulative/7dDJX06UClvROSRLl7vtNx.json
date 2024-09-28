@@ -1210,6 +1210,32 @@
     {
       "album": {
         "name": "By My Side",
+        "url": "https://open.spotify.com/album/0icgaKoNR01UBKAuoxGWfl"
+      },
+      "artists": [
+        {
+          "name": "Matt Steep",
+          "url": "https://open.spotify.com/artist/1gcV4SDOC9BYNV4PNEdgaN"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6OwqOXRaBzVcaHLsyVnDuv"
+    },
+    {
+      "album": {
+        "name": "By My Side",
         "url": "https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK"
       },
       "artists": [
@@ -12766,6 +12792,28 @@
       "duration_ms": 203225,
       "name": "You Might",
       "url": "https://open.spotify.com/track/1oinzBaNm1f9ekaMB3dfKs"
+    },
+    {
+      "album": {
+        "name": "You'll Be Calling Me",
+        "url": "https://open.spotify.com/album/4uiUWMgRWLWRk0NDRVKKmG"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "You'll Be Calling Me",
+      "url": "https://open.spotify.com/track/0Z7GvNuGtRfi5nJsx4hdmT"
     },
     {
       "album": {

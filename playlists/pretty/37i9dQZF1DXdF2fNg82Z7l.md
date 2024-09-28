@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > A chill Hip Hop vibe\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,368 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,358 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 89 | [Rome](https://open.spotify.com/track/3rhSiVVcD04GFBW0k6gkQC) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rome](https://open.spotify.com/album/1U04RT9MW5HAD1R43qjBkR) | 2:28 |
 | 90 | [Way Back in HS in NY in June](https://open.spotify.com/track/4raEEc2KgXla14KdUlYhUY) | [Prod DR3o](https://open.spotify.com/artist/3yEVDDU45XzlumJuupm1Ul), [nikomanjiro](https://open.spotify.com/artist/40IrCW03DHKkwbAX7tTrfV) | [Way Back in HS in NY in June](https://open.spotify.com/album/00yYlDLwC4OKWuwotpoCw4) | 3:02 |
 
-Snapshot ID: `Zrq/GwAAAABP9RSp6osfJoym7asOGz6P`
+Snapshot ID: `Zrq/GwAAAAD7i2FZaSeuqw9evVObkWO4`

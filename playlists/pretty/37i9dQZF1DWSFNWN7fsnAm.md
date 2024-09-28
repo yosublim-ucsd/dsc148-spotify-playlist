@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,797 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 69 | [Deceiver \- VIP](https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Deceiver \(VIP\)](https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq) | 2:35 |
 | 70 | [Plastic Dreams](https://open.spotify.com/track/5mES4lfufA5pVgj9JAHbUI) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 10:15 |
 
-Snapshot ID: `ZuG21wAAAABT3TL4jsUnhX3EjqytXovU`
+Snapshot ID: `ZuG21wAAAAAsrcJKmZLqF2YbwgQgDkVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: The American Dawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,222 likes - 122 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,268 likes - 122 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 121 | [moment](https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [moment](https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv) | 3:36 |
 | 122 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 
-Snapshot ID: `ZvQzgAAAAAC8mwPqrMl8+dpvEO4WKweD`
+Snapshot ID: `ZvQzgAAAAAA3Qvk9NI+Ar2aJFeIfnyKi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,205 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,249 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
 | 80 | [My Way, Anyway](https://open.spotify.com/track/2YNhnRFEjypCHtbd7povuy) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Super\-Sonic Family Vol\. 2 \- Part 1](https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO) | 3:03 |
 
-Snapshot ID: `ZuNkYAAAAAAp26Z0GJSFtIlXvxt8kalE`
+Snapshot ID: `ZuNkYAAAAABjmcDjVJYjncGmRU9GuQ+i`

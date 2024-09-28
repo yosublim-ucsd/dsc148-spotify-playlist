@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-416 songs - 1 day 1 hr 8 min
+417 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [HI 5 \- galen tipton Remix](https://open.spotify.com/track/45PdXVMyFQu6OSMbyMWBjf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [HI 5 \(galen tipton Remix\)](https://open.spotify.com/album/49rqfgJT7JffTBac2WleRa) | 4:26 | 2023-08-25 |  |
 | [Hidden Levels](https://open.spotify.com/track/2k5uXmRmaAgdixEAkhQZlM) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Hidden Levels](https://open.spotify.com/album/375BDqAAeAHME4ZmEbs7JO) | 3:50 | 2021-01-29 | 2022-03-26 |
 | [Holding On](https://open.spotify.com/track/77dKLI96ZZH9wvE7EQQFPq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Holding On](https://open.spotify.com/album/5rdZviLIps8tUuWragdg5k) | 2:14 | 2021-01-29 | 2022-03-21 |
+| [Homesick \- Marble Sun Remix](https://open.spotify.com/track/0iMcKjVSpKZc9UWS6l7JJZ) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Marble Sun](https://open.spotify.com/artist/59LnVNZ53Em2V1GvHKuo9f) | [Homesick \- Marble Sun Remix](https://open.spotify.com/album/5ybFXsD5KEXOH3Oh1OcdCz) | 5:17 | 2024-09-27 |  |
 | [Horse Boar Crow \- Sen Morimoto Remix](https://open.spotify.com/track/55LDCYCOjfg2rRlpgp6HVW) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Horse Boar Crow \(Sen Morimoto Remix\)](https://open.spotify.com/album/10Z37xzQCt5INnImXYKnzy) | 3:23 | 2022-09-30 |  |
 | [Houseboat Party](https://open.spotify.com/track/47US7CPJSJ8B4kXLUmez7c) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Undertones](https://open.spotify.com/album/6SMFEMvn4iv64KbrMJKslA) | 2:11 | 2021-05-21 | 2022-08-13 |
 | [HPHCPH.MMBL](https://open.spotify.com/track/3sCy3QvSeYEzvDvB4ExqPm) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [HPHCPH.MMBL](https://open.spotify.com/album/6XzFJJ2KxcHSlOpkuK50a9) | 4:24 | 2022-05-27 | 2022-07-29 |
@@ -401,7 +402,7 @@
 | [Watarase \- Henrik Schwarz Version](https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ) | [Fumio Itabashi](https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Watarase](https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7) | 6:49 | 2021-03-19 |  |
 | [We Don't Need No Roads](https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [We Don't Need No Roads](https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm) | 4:18 | 2023-01-20 | 2023-06-03 |
 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 | 2024-09-06 |  |
-| [When We Could Dance Together \- Sampology Remix](https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Peaks \(Remixed\)](https://open.spotify.com/album/5pYrtC0MRa8XVNQX6UlbOr) | 5:10 | 2022-07-29 |  |
+| [When We Could Dance Together \- Sampology Remix](https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Peaks \(Remixed\)](https://open.spotify.com/album/5pYrtC0MRa8XVNQX6UlbOr) | 5:10 | 2022-07-29 | 2024-09-28 |
 | [When We Gather](https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh) | [Elobrian Sunrise](https://open.spotify.com/artist/4heg5G7NjZx0xy6L381mpb) | [Secret Garden](https://open.spotify.com/album/0HIrO4TCdHW7h9vt7RstFk) | 5:33 | 2021-01-29 | 2022-03-16 |
 | [Which One?](https://open.spotify.com/track/5DOyHN6ip5RiT2b3JExyPd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Which One?](https://open.spotify.com/album/5mtCCA7D5prmY55RrWVUtt) | 2:45 | 2023-07-21 |  |
 | [White Out](https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [White Out](https://open.spotify.com/album/2F0W8v3yo93XOmFSG40CDj) | 2:48 | 2023-12-01 | 2024-01-13 |

@@ -1227,6 +1227,32 @@
     },
     {
       "album": {
+        "name": "M\u00e9ditation from Tha\u00efs",
+        "url": "https://open.spotify.com/album/2YATaeOKuKcIReaB3ctReO"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Johan Dalene",
+          "url": "https://open.spotify.com/artist/6bzcYpT0W1fheZys2ApYBz"
+        },
+        {
+          "name": "Peter Friis Johansson",
+          "url": "https://open.spotify.com/artist/7dKEFIMUAdgkuDw5XcEIUD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312933,
+      "name": "M\u00e9ditation from Thais: M\u00e9ditation from Tha\u00efs",
+      "url": "https://open.spotify.com/track/0KlIneacGxTLlHdBoEDEqq"
+    },
+    {
+      "album": {
         "name": "Working from Home Classical",
         "url": "https://open.spotify.com/album/1Ot45u8vTs7z6QH7emCCGp"
       },
@@ -1470,6 +1496,24 @@
       "duration_ms": 172758,
       "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
       "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
+    },
+    {
+      "album": {
+        "name": "Prayer for Peace",
+        "url": "https://open.spotify.com/album/3pShmYSpdSSwoYG2MF8KnO"
+      },
+      "artists": [
+        {
+          "name": "Gerard Cousins",
+          "url": "https://open.spotify.com/artist/3WKXj3RFryJ1fOr8jrj58V"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73280,
+      "name": "Prayer for Peace",
+      "url": "https://open.spotify.com/track/5VskXEGqvTljHxO8jcrZEZ"
     },
     {
       "album": {

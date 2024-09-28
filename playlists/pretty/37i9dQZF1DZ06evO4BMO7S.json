@@ -1,12 +1,12 @@
 {
-  "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 18748,
+  "description": "This Is Japanese Breakfast. Los temas esenciales, todos en una lista.",
+  "num_followers": 18750,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvNSgAAAAADZD3IAxImkYrCDfCF/r4o8",
+  "snapshot_id": "ZvSkAAAAAAApghFfjm0U3RonDdgXUINP",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "Essentially",
+        "url": "https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 245562,
-      "name": "The Ewer (Day)",
-      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
+      "duration_ms": 196214,
+      "name": "Essentially",
+      "url": "https://open.spotify.com/track/7MI12qNsacindN65MWoMYR"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essentially",
-        "url": "https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 196214,
-      "name": "Essentially",
-      "url": "https://open.spotify.com/track/7MI12qNsacindN65MWoMYR"
+      "duration_ms": 245562,
+      "name": "The Ewer (Day)",
+      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
     },
     {
       "added_at": null,

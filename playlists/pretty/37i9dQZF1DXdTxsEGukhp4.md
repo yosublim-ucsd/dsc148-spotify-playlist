@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Mega Shinnosuke
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,576 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,592 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 50 | [大ちゃん](https://open.spotify.com/track/4XZWE3Wwis8Sml6kV216Xy) | [ちゃんぴおんず](https://open.spotify.com/artist/4x5vhtkvb28ZFnA8L3e9JV) | [大ちゃん](https://open.spotify.com/album/7pOmlwfy3Kh71aJkrEYPz2) | 2:22 |
 
-Snapshot ID: `ZvV28AAAAADFFuhnJ7mjtOpCjzTRlk0D`
+Snapshot ID: `ZvV28AAAAAB3FZU3x6kfeG8DnkBFO4PX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,667 likes - 104 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,815 likes - 104 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 103 | [Who By Fire](https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Who By Fire](https://open.spotify.com/album/2ZwCEwQtkwBO9N3vq9JiSv) | 2:59 |
 | 104 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/60EqifwSuc3sGlo0ysgg3u) | 3:58 |
 
-Snapshot ID: `ZttI/wAAAACDAj+ohpi2xYN4jXfL3JuA`
+Snapshot ID: `ZttI/wAAAAD1CDQCA5MsWeb0xPel2fPk`

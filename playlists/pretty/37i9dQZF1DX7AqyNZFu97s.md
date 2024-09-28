@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Siobhán Winifred
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,621 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,630 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [ALL MY LOVE](https://open.spotify.com/track/4ZRySLqQonpeOR0kdriqUn) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [ALL MY LOVE](https://open.spotify.com/album/1NaoAsRYEKB7TEk4b39W3y) | 3:29 |
 | 100 | [Hummingbird](https://open.spotify.com/track/64ZByd6u0imAFIAj05JrGx) | [TAWAI](https://open.spotify.com/artist/5jiy0W1pBQEtQU6z0zNIlv) | [Hummingbird](https://open.spotify.com/album/2Fuvse4DRUGY58zxj92wMz) | 4:44 |
 
-Snapshot ID: `ZvNEcAAAAACBAkNyfRYt7x7QQq84RHnW`
+Snapshot ID: `ZvNEcAAAAADERnjqATOSQPhybFRGno6M`

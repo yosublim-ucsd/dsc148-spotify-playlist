@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,627 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,629 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Dis\-moi pas ça](https://open.spotify.com/track/6VTJoRIkBhcAnakAJEEvQc) | [Okoumé](https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M) | [Okoumé](https://open.spotify.com/album/6G3Zhr7LGV4fyysgoC2Y5u) | 5:05 |
 | 50 | [R'viens pas trop tard](https://open.spotify.com/track/1ioXx9ydGHta9gGBpBk0Pe) | [Zébulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil du zig](https://open.spotify.com/album/1l1mu5K6NTehC49RGSr6UO) | 3:27 |
 
-Snapshot ID: `ZpGVtAAAAADVcDkXfJcR1Ehn/W5FdAUB`
+Snapshot ID: `ZpGVtAAAAABGrWk0grFaHWoXNlVDcDtZ`

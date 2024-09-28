@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Touché Amoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,666 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,719 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 84 | [Runner's High](https://open.spotify.com/track/2oBXQoWHjTq8BzaUmhp2no) | [Wig Doubt](https://open.spotify.com/artist/7l7AoJijbDJHP0XY1tEWQ8) | [Runner's High](https://open.spotify.com/album/1C80RTkz9Fybi0JblEMfDy) | 3:56 |
 | 85 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 
-Snapshot ID: `Zt+4jAAAAACjBaA0eVLzZBMRW+Dnuu/8`
+Snapshot ID: `Zt+4jAAAAACjwaPvKsm+hIgSG5tfxRpV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,068 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,074 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [Mab9it Kan7s B'walo](https://open.spotify.com/track/2szMlVaVGTjwPeG09hjZqH) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [August](https://open.spotify.com/album/0mFNED1mFni7eEEPi4PWk3) | 3:41 |
 | 50 | [Sobri](https://open.spotify.com/track/3J6d3h5gnxP0PxnzWhJuGy) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Sobri](https://open.spotify.com/album/15S3x4PY3e43R5QdxzehKB) | 2:39 |
 
-Snapshot ID: `ZvCC7AAAAABi898b/ElPbQO8XCa622Em`
+Snapshot ID: `ZvCC7AAAAADX/qy1Pn4V1cmZBctcutNq`

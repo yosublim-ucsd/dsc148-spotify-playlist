@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,781 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,782 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [Nulle](https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Nulle](https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe) | 3:14 |
 | 50 | [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 |
 
-Snapshot ID: `Zuye4AAAAACtpTeUH0goouUNiNVLniZW`
+Snapshot ID: `Zuye4AAAAACx3qrGjFeCjoTnxmTE1pE3`

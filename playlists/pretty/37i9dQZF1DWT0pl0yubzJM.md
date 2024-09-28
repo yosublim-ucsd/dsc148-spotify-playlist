@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,618 likes - 35 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,619 likes - 35 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Atlántico](https://open.spotify.com/track/5SBHe1oW1CsVw1hQp28bTy) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana De Metal](https://open.spotify.com/album/3NzIeLgS5p4zsUe57ySoPj) | 4:23 |
 | 35 | [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 |
 
-Snapshot ID: `ZgF/uwAAAAAWIScLFxZOm9zLvuPdVb+Z`
+Snapshot ID: `ZgF/uwAAAACEduO8DyMJg7vVeWRkKJKz`

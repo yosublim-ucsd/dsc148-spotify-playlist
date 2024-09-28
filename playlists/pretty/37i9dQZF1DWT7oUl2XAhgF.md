@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,427 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,462 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
-| 2 | [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 |
-| 3 | [Your Team](https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Your Team](https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX) | 3:06 |
-| 4 | [Queen Of Hearts](https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Queen Of Hearts](https://open.spotify.com/album/0zoK1cfLzct3p6W6TABxeN) | 3:48 |
-| 5 | [A Brighter Shade](https://open.spotify.com/track/1Y6JoaALDAviBBdIN2qMkO) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [A Brighter Shade](https://open.spotify.com/album/3ooZ8HrlEgtGLv6zW9QpUt) | 3:26 |
-| 6 | [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 |
-| 7 | [Won't Be Lonely](https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Won't Be Lonely](https://open.spotify.com/album/0oO6jj0i5sZQJS3rI5E3TF) | 3:45 |
-| 8 | [Grow Old Together](https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [Grow Old Together](https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2) | 3:39 |
-| 9 | [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 |
-| 10 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 |
-| 11 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |
-| 12 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \- The Pool Sessions](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
-| 13 | [Show Me](https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Show Me](https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4) | 3:33 |
-| 14 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
+| 1 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
+| 2 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
+| 3 | [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 |
+| 4 | [Your Team](https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Your Team](https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX) | 3:06 |
+| 5 | [Queen Of Hearts](https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Queen Of Hearts](https://open.spotify.com/album/0zoK1cfLzct3p6W6TABxeN) | 3:48 |
+| 6 | [A Brighter Shade](https://open.spotify.com/track/1Y6JoaALDAviBBdIN2qMkO) | [Carlton Jumel Smith & The Soul Seeders](https://open.spotify.com/artist/3dU0eCKPKXUmeDunWr3Ha7), [The Soul Seeders](https://open.spotify.com/artist/5Jvo8R85gGbk3XUkh883as), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [A Brighter Shade](https://open.spotify.com/album/3ooZ8HrlEgtGLv6zW9QpUt) | 3:26 |
+| 7 | [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 |
+| 8 | [Won't Be Lonely](https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Won't Be Lonely](https://open.spotify.com/album/0oO6jj0i5sZQJS3rI5E3TF) | 3:45 |
+| 9 | [Grow Old Together](https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [Grow Old Together](https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2) | 3:39 |
+| 10 | [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 |
+| 11 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 |
+| 12 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |
+| 13 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \- The Pool Sessions](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
+| 14 | [Show Me](https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Show Me](https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4) | 3:33 |
 | 15 | [Crazy](https://open.spotify.com/track/1svVLna35B0S0gYRE41UhR) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Crazy](https://open.spotify.com/album/4EQJfPfdovN2uR0Iy3zU1H) | 2:49 |
 | 16 | [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 |
 | 17 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 | 100 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Deluxe](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 
-Snapshot ID: `ZuzzQAAAAADvJrLcylUdL4DEp4JAm9PA`
+Snapshot ID: `ZvYtwAAAAADAclQvTdliCT/Ms/2cBWVL`

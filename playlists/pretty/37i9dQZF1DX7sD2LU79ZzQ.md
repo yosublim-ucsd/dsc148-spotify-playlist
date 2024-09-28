@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Keisya Levronka
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,586 likes - 90 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,633 likes - 90 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 63 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 |
 | 64 | [Rapuh](https://open.spotify.com/track/2zUSSJiMHe0nE3xMX1yDjO) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Rapuh](https://open.spotify.com/album/31K5Y7sAJQYs3IednXlD11) | 3:35 |
 | 65 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 |
-| 66 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:14 |
+| 66 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 |
 | 67 | [CEMBURU](https://open.spotify.com/track/2lj8bfecV8IufZv6IuRpsB) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [CEMBURU](https://open.spotify.com/album/7DQV6IK6nGtVAIn3WWmJ5l) | 3:13 |
 | 68 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 |
 | 69 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 89 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \- Aviary Live Session](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 |
 | 90 | [Ulurkan](https://open.spotify.com/track/0lXjMEFfyD6aXWT5T2l9bv) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Ulurkan](https://open.spotify.com/album/4QTM1LD57CyUbGs8DltyBG) | 3:30 |
 
-Snapshot ID: `ZvXntQAAAACXIP1NLyv65VZ/86ZrKzzp`
+Snapshot ID: `ZvXntQAAAABICk0MS4/p+ZHWVnhy3SDN`

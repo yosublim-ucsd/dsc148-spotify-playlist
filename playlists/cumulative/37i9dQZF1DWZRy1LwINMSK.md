@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de Bby Lean.
+> La casa del trap chileno al mando de Lleflight & Jairo Vera.
 
-244 songs - 12 hr 34 min
+245 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Glizzy](https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Glizzy](https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf) | 2:59 | 2023-05-05 | 2023-09-02 |
 | [Goldwyn Mayer](https://open.spotify.com/track/2Poyw927oAWqvg9KUqQKRE) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Goldwyn Mayer](https://open.spotify.com/album/3zkV0pENU0hzyeC7eikPQy) | 3:33 | 2023-06-30 |  |
 | [Gracias a Dios](https://open.spotify.com/track/1QobAhxWT2U8jjHrLneOPw) | [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Gracias a Dios](https://open.spotify.com/album/7BmXSMey61Y2vqoQx74hXf) | 3:11 | 2022-01-20 | 2022-05-28 |
-| [GTA](https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [GTA](https://open.spotify.com/album/2siwW2nCboPZb1gGlcRRJJ) | 2:28 | 2024-07-12 |  |
+| [GTA](https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [GTA](https://open.spotify.com/album/2siwW2nCboPZb1gGlcRRJJ) | 2:28 | 2024-07-12 | 2024-09-28 |
 | [GUSTOSO](https://open.spotify.com/track/6FyFJ1eaGctrKTbIoLB8eS) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [GUSTOSO](https://open.spotify.com/album/5bjaZJ1SIDCQXdQKbUt20W) | 2:17 | 2023-10-20 | 2024-07-06 |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2022-01-20 |  |
 | [HACERME RICO](https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [LOADING...](https://open.spotify.com/album/54eQTsG6OahvtsYGwLNQx6) | 1:58 | 2024-08-30 |  |
@@ -196,6 +196,7 @@
 | [Seguimo Joseando](https://open.spotify.com/track/2O93dCBtMfEwSGcTUsE1FR) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 3:03 | 2023-06-02 | 2023-07-01 |
 | [Seguimo Joseando](https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [Seguimo Joseando](https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L) | 3:03 | 2022-12-23 |  |
 | [Self Esteem](https://open.spotify.com/track/0FbkSDNKB2taxGSmaYedox) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Yvlian](https://open.spotify.com/artist/35yxkCL0iT6v7LuCz58F1m) | [Self Esteem](https://open.spotify.com/album/5JAsCqlO3fQJyJ2oHZWFq1) | 2:07 | 2024-09-06 |  |
+| [Señales](https://open.spotify.com/track/4UutKgioPfaMRFhLiGJcN7) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Señales](https://open.spotify.com/album/71pvU5AxbEBVcoQBqxdzkS) | 2:59 | 2024-09-27 |  |
 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 | 2022-01-20 |  |
 | [Shorty](https://open.spotify.com/track/7M5nHfXQazRlUm1FIzQhgd) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Chesckv Liz](https://open.spotify.com/artist/6nms8fUOJpFa8C5IbPzzT5) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 3:40 | 2023-07-21 | 2023-07-29 |
 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 | 2023-02-24 | 2023-07-28 |

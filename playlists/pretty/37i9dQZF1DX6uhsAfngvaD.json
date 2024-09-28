@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 311152,
+  "num_followers": 311184,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDYzQAAAABHVNyLha/GoGPYQDXg7eGc",
+  "snapshot_id": "ZtDYzQAAAABq8SlD2mXd/i6mwidJU419",
   "tracks": [
     {
       "added_at": "2024-08-29 20:23:41",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Leviosa",
-        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
-      },
-      "artists": [
-        {
-          "name": "Reymour",
-          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
-        }
-      ],
-      "duration_ms": 196985,
-      "name": "De ma Tour",
-      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "obliterate me",
         "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 233201,
       "name": "obliterate me",
       "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Leviosa",
+        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
+      },
+      "artists": [
+        {
+          "name": "Reymour",
+          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
+        }
+      ],
+      "duration_ms": 196985,
+      "name": "De ma Tour",
+      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "27 Club",
-        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 214137,
-      "name": "27 Club",
-      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195691,
       "name": "Hyper-normal",
       "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 202922,
-      "name": "80's High School",
-      "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "my girl",
         "url": "https://open.spotify.com/album/3Ue6flrmXLRAvieVSoXZxb"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
       },
       "artists": [
         {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+      "duration_ms": 202922,
+      "name": "80's High School",
+      "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1187,6 +1171,22 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Cabin Fever Dreams",
-        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
+        "name": "Zero Division Error",
+        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
       },
       "artists": [
         {
-          "name": "RALPH TV",
-          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
-        },
-        {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+          "name": "Parks, Squares and Alleys",
+          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
         }
       ],
-      "duration_ms": 206134,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+      "duration_ms": 189333,
+      "name": "Alliance",
+      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Zero Division Error",
-        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
+        "name": "Cabin Fever Dreams",
+        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
       "artists": [
         {
-          "name": "Parks, Squares and Alleys",
-          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
+          "name": "RALPH TV",
+          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
+        },
+        {
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Alliance",
-      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
+      "duration_ms": 206134,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
     },
     {
       "added_at": "2024-08-29 20:23:41",

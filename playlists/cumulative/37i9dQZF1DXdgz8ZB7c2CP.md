@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Louis The Child
 
-839 songs - 1 day 22 hr 20 min
+840 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [gimmi it](https://open.spotify.com/track/4TfFYHETOnTpdojoy7Up3H) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [gimmi it](https://open.spotify.com/album/36HIgN887ZohDhP2WKUowb) | 2:47 | 2024-05-08 | 2024-05-17 |
 | [Girls On Bread](https://open.spotify.com/track/1c9MAMTcDFdspPtlcW9kpY) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Girls On Bread](https://open.spotify.com/album/3TuYXW9Jsb7zbdcCKdySQ3) | 2:59 | 2023-11-09 | 2023-12-14 |
 | [Give Out \- Feed Me Remix](https://open.spotify.com/track/13wy1r01jyHtvjgzuHyJPt) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [HOLLOW WORLD REANIMATED](https://open.spotify.com/album/6hznnO5OnDtySdRfMLysMY) | 3:33 | 2024-02-02 | 2024-02-24 |
-| [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 | 2024-02-09 |  |
+| [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 | 2024-02-09 | 2024-09-28 |
 | [Glow In The Dark](https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Microworlds](https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C) | 3:29 | 2023-07-21 | 2024-04-26 |
 | [Go](https://open.spotify.com/track/1n00VLKDicKiJtu28ogqtZ) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Euphoria](https://open.spotify.com/album/27aIXvQ2Vn34Ezy4uNNovK) | 3:06 | 2023-07-21 | 2023-10-03 |
 | [Go Ahead \(with BKAYE & Kevin George\)](https://open.spotify.com/track/6bRN5rydcVIaLavxqMwZEm) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Go Ahead \(with BKAYE & Kevin George\)](https://open.spotify.com/album/6Edx0YkgBhVSj0pmVr8WGK) | 2:15 | 2023-09-08 | 2023-11-11 |
@@ -656,6 +656,7 @@
 | [Skrt](https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6) | 3:01 | 2024-01-18 | 2024-04-05 |
 | [Skrt](https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Skrt](https://open.spotify.com/album/6tw2rpDnBDOan7Rx0S4l3b) | 3:01 | 2024-01-12 | 2024-01-26 |
 | [SKY SKY 1.3 \[2016 Export Wav\]](https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 2:44 | 2023-05-05 | 2023-12-14 |
+| [SKYLINE\*\*](https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [SKYLINE\*\*](https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo) | 2:42 | 2024-09-27 |  |
 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-05-12 | 2023-05-15 |
 | [skyscraper](https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:25 | 2023-06-30 | 2023-08-05 |
 | [Sleeptalking](https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Sleeptalking](https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0) | 3:42 | 2021-12-10 | 2023-03-16 |

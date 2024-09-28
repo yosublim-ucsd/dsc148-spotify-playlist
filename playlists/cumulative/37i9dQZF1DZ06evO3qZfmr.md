@@ -2,7 +2,7 @@
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. The essential tracks, all in one playlist.
+> This Is Megan Moroney\. Zásadní skladby, všechny v jednom playlistu.
 
 37 songs - 2 hr 2 min
 

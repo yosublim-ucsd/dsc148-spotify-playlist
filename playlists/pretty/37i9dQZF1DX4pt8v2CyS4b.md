@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 ### [National Geographic Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4pt8v2CyS4b)
 
-> Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
+> Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,328 likes - 67 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,331 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 66 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 |
 | 67 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 |
 
-Snapshot ID: `ZvW1oQAAAADzY3xjflRyuHUMgoAxgGNb`
+Snapshot ID: `ZvdMhAAAAABXphd3AsfyxVXj85802KZn`

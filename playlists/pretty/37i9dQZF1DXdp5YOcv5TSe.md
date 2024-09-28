@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 LoL
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,951 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,984 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Duel of the Fates](https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Die Dunkle Bedrohung \(Original Film\-Soundtrack\)](https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO) | 4:14 |
 | 50 | [The Last March of the Ents \(feat\. Ben Del Maestro\)](https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Ben Del Maestro](https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y) | [The Lord of the Rings: The Two Towers \- the Complete Recordings](https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6) | 2:31 |
 
-Snapshot ID: `ZvMqyQAAAAArptYPUzqbTF/tOCi9U1gg`
+Snapshot ID: `ZvMqyQAAAABZTieInFhZMnn3MGQjqJzJ`

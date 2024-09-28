@@ -1,28 +1,28 @@
 {
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=qoOia4ldQ4uiK3NfGWc6Zg\">Dodo Nyoka</a>  ",
-  "num_followers": 29668,
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=Nf70BPuJRFOusU5etiipvQ\">Kelsea Ballerini</a>  ",
+  "num_followers": 29711,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvEfzAAAAAC7Pr01F2kReCFkM9dCQ3qh",
+  "snapshot_id": "ZvZGjgAAAACC8m70pfl1b0ed2sjVGDrw",
   "tracks": [
     {
-      "added_at": "2024-09-23 07:59:08",
+      "added_at": "2024-09-27 05:45:50",
       "album": {
-        "name": "Live Here To Work",
-        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
+        "name": "Two Things",
+        "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Live Here To Work",
-      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
+      "duration_ms": 215746,
+      "name": "Two Things",
+      "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -39,22 +39,6 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2024-09-23 07:59:08",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "CHUCK TAYLORS",
-      "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -75,22 +59,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Dancin' In The Stars",
-        "url": "https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Dancin' In The Stars",
-      "url": "https://open.spotify.com/track/627prN1Fich2Z7u0zttQat"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -201,20 +169,20 @@
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
-      "added_at": "2024-05-30 22:00:00",
+      "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Dancin' In The Stars",
+        "url": "https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 199250,
+      "name": "Dancin' In The Stars",
+      "url": "https://open.spotify.com/track/627prN1Fich2Z7u0zttQat"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -233,6 +201,22 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
       "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "I Am Not Okay",
@@ -249,6 +233,22 @@
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
       "added_at": "2024-09-05 22:00:00",
       "album": {
         "name": "About Last Night",
@@ -263,22 +263,6 @@
       "duration_ms": 236410,
       "name": "Where The Wild Things Are",
       "url": "https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6"
-    },
-    {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
@@ -347,22 +347,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -581,22 +565,6 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "4\u00d74\u00d7U",
-        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "4\u00d74\u00d7U",
-      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
       "added_at": "2024-09-05 22:00:00",
       "album": {
         "name": "Country Song Came On",
@@ -613,6 +581,54 @@
       "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 164767,
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
+      "added_at": "2024-09-23 07:59:08",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "CHUCK TAYLORS",
+      "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
+    },
+    {
       "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Wranglers",
@@ -627,26 +643,6 @@
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "GO HOME W U (WITH LAINEY WILSON)",
-        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U (WITH LAINEY WILSON)",
-      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -681,38 +677,6 @@
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Feelin' Country (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 164767,
-      "name": "Feelin' Country (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Closing Time In California",
-        "url": "https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 209169,
-      "name": "Closing Time In California",
-      "url": "https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Caroline / Good Dogs & Sad Songs",
@@ -727,22 +691,6 @@
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 174412,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -763,6 +711,38 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Closing Time In California",
+        "url": "https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 209169,
+      "name": "Closing Time In California",
+      "url": "https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 174412,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
     },
     {
       "added_at": "2024-03-15 05:03:56",
@@ -797,10 +777,30 @@
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Damn Love",
-        "url": "https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1"
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+    },
+    {
+      "added_at": "2024-09-23 07:59:08",
+      "album": {
+        "name": "Live Here To Work",
+        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
       },
       "artists": [
         {
@@ -808,25 +808,9 @@
           "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Sometimes She Stays",
-      "url": "https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU"
-    },
-    {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
-        "name": "But I Got A Beer In My Hand",
-        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "But I Got A Beer In My Hand",
-      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+      "duration_ms": 282000,
+      "name": "Live Here To Work",
+      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -843,6 +827,26 @@
       "duration_ms": 225773,
       "name": "Whiskey To My Soul",
       "url": "https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz"
+    },
+    {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "I'm On Fire - Spotify Singles",
+        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "I'm On Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     }
   ],
   "unique_name": "Country Musiek",

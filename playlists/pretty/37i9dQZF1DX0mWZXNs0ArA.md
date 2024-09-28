@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988,407 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,485 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 18 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 |
 | 19 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
 | 20 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \- Sped Up](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 21 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 |
-| 22 | [Яд \- Sped Up](https://open.spotify.com/track/1JXA3UXOoMfW7JSnyZ1pao) | [Six Dior](https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa) | [Яд](https://open.spotify.com/album/3iud44vfj5ZPZ4Qb4aRtSb) | 2:42 |
+| 21 | [Яд \- Sped Up](https://open.spotify.com/track/1JXA3UXOoMfW7JSnyZ1pao) | [Six Dior](https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa) | [Яд](https://open.spotify.com/album/3iud44vfj5ZPZ4Qb4aRtSb) | 2:42 |
+| 22 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 |
 | 23 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
 | 24 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
 | 25 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 43 | [RITMO BRUTALISMO \- Sped Up](https://open.spotify.com/track/1uCDg9WDXzG5j1tVqnFNBR) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [RITMO BRUTALISMO \(Sped Up\)](https://open.spotify.com/album/4w8hhYFmueIlPtBmLT1sNC) | 2:01 |
 | 44 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 |
 | 45 | [Daylight \- Sped Up](https://open.spotify.com/track/3Scolo2qkKcTNVI3GOsKAP) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 2:49 |
-| 46 | [9 bis 9 Sped Up \- Shirli Version](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Shirli](https://open.spotify.com/artist/55OIH32lgBeGjYZRpw4RNv) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 |
-| 47 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
+| 46 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
+| 47 | [9 bis 9 Sped Up \- Shirli Version](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Shirli](https://open.spotify.com/artist/55OIH32lgBeGjYZRpw4RNv) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 |
 | 48 | [LOOK DON'T TOUCH \- Sped Up](https://open.spotify.com/track/2m9Ho5nRJ1JwHBmSkzRQQq) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 2:08 |
 | 49 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
 | 50 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Perfume \(Glory Pt.2\) \- Sped up](https://open.spotify.com/track/5MM2Sb9G3hXuQVwIkAbcbE) | [Billi Royce](https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic) | [Perfume \(Glory Pt 2\)](https://open.spotify.com/album/3uPWYkXGsureGGnZeDSvZL) | 2:22 |
 | 100 | [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie\-Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 |
 
-Snapshot ID: `ZtFDwAAAAABPBlid5PpWjlLyHunkKfTh`
+Snapshot ID: `ZtFDwAAAAADcAWjf3etoeLkEClULZlQM`

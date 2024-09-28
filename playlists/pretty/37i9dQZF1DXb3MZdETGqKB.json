@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 149660,
+  "num_followers": 149683,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAABR1l8xYUVMnNnPVF8BlorX",
+  "snapshot_id": "ZvYtwAAAAADcxNSNG5G2By2twM/clIlv",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Time Is A Thief",
+        "url": "https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 227058,
+      "name": "Carry My Name",
+      "url": "https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -1399,26 +1415,6 @@
       "duration_ms": 257726,
       "name": "Flying #evolution",
       "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Roddie Romero",
-          "url": "https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U"
     },
     {
       "added_at": "2023-03-17 04:01:00",

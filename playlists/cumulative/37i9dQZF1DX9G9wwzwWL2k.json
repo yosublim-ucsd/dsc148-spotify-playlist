@@ -2069,6 +2069,32 @@
     },
     {
       "album": {
+        "name": "Beethoven: Symphonies Nos. 2 & 3 (Complete Symphonies, Vol. 2)",
+        "url": "https://open.spotify.com/album/4wy2tIjvLCGyxmT6EbKC5I"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Flanders Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1HhOfsGCQlEvrane2eDyOH"
+        },
+        {
+          "name": "Kristiina Poska",
+          "url": "https://open.spotify.com/artist/75Scm230v001WiE6sW85ri"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373920,
+      "name": "Symphony No. 2 in D Major, Op. 36: IV. Allegro molto",
+      "url": "https://open.spotify.com/track/3LgVICutiVVE6oeTmWOQ3X"
+    },
+    {
+      "album": {
         "name": "Tubin: Complete Symphonies",
         "url": "https://open.spotify.com/album/3fMbYbACoIE13ijvWWjv0Y"
       },

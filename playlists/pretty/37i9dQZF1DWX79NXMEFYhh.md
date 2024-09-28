@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > If you’re sappy and you know it, listen to these cheesy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,022 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,995 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 49 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 50 | [Nobody Like Us](https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Nobody Like Us](https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5) | 3:00 |
 
-Snapshot ID: `ZuqcoQAAAABNcWh5QWPyatDAgcBbjyoi`
+Snapshot ID: `ZuqcoQAAAAAZs6kn2tuKsG22xYc/MsOJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,027 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,128 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 61 | [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 |
 | 62 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 |
 | 63 | [Mal Acostumada](https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh) | 2:16 |
-| 64 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
+| 64 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 | 65 | [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 |
 | 66 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 |
 | 67 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |
 | 75 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 |
 
-Snapshot ID: `ZvYf7AAAAABXKiXbHjVPmedF1GK7RWoT`
+Snapshot ID: `ZvYf7AAAAAA/nd1IIMzpUZL63g58HZ9p`

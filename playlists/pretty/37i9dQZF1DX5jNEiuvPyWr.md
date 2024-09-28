@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Savage Toddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,530 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,528 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 |
 | 40 | [DRIVE](https://open.spotify.com/track/6rJr0fbnsLAWK8Xe0gBYSR) | [Take a Mic](https://open.spotify.com/artist/1oabIvG8mrqtx1uaRrOyPd) | [DRIVE](https://open.spotify.com/album/7GrqzxC26t0QWEfr2x3Mfq) | 3:13 |
 
-Snapshot ID: `ZvXZYAAAAAAwpx/zdYqYE7u/6agKV44s`
+Snapshot ID: `ZvXZYAAAAAB3asPZrflsPETFZTp5BjGQ`

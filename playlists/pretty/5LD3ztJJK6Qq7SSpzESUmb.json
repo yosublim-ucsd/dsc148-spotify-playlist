@@ -1,340 +1,360 @@
 {
   "description": "The hottest new songs rocking Kerrang!'s world, updated every Friday!",
-  "num_followers": 6270,
+  "num_followers": 6274,
   "original_name": "Kerrang! Chart",
   "owner": {
     "name": "Kerrang!",
     "url": "https://open.spotify.com/user/kerrangmagazine"
   },
-  "snapshot_id": "AAAMbvp7qb+OgX96k60Rvodq4P57qCKe",
+  "snapshot_id": "AAAMcaK6HtsSeSoKYEx72EBFbxdIcxuN",
   "tracks": [
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+        "name": "Big Dreams",
+        "url": "https://open.spotify.com/album/3HkT9SYWloaCuTJ9QRPrj5"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
+      "duration_ms": 191700,
+      "name": "Big Dreams",
+      "url": "https://open.spotify.com/track/38DrpIqI2cHZCHSYFlJvCX"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "PROCESS",
-        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
       "artists": [
         {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 158167,
-      "name": "PROCESS",
-      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "The Surface (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
+        "name": "Have A Good Time",
+        "url": "https://open.spotify.com/album/2n1LWnmD6Zq6h53HDT3pB7"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Kids In Glass Houses",
+          "url": "https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY"
         }
       ],
-      "duration_ms": 203294,
-      "name": "ATTN.",
-      "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
+      "duration_ms": 199127,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/4k6WNChIAy5pc25U7ATGsa"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "Slide 2 Me",
-        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
+        "name": "At All Times",
+        "url": "https://open.spotify.com/album/793vUi1ia5Cv2C5csUY2tY"
       },
       "artists": [
         {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
         }
       ],
-      "duration_ms": 157626,
-      "name": "Slide 2 Me",
-      "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
+      "duration_ms": 276720,
+      "name": "At All Times",
+      "url": "https://open.spotify.com/track/7HXeFTTfFPsNHoydhWhlfO"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "Fatal Deluxe",
-        "url": "https://open.spotify.com/album/1636Uu93AuJgt7gTlQpL19"
+        "name": "Living A Lie",
+        "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
       },
       "artists": [
         {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 215686,
-      "name": "Fatal Deluxe",
-      "url": "https://open.spotify.com/track/3OIwpfyzmjixIpOPTFTO5H"
+      "duration_ms": 273337,
+      "name": "Living A Lie",
+      "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "Company Culture",
-        "url": "https://open.spotify.com/album/3IzcWVzJtbzMwovf3M3k0B"
+        "name": "3am",
+        "url": "https://open.spotify.com/album/3At1UsWZDlq5AyKM2JT2zC"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Company Culture",
-      "url": "https://open.spotify.com/track/4fVNq2mSVupgHjcrVySEEx"
+      "duration_ms": 51613,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/7mPIYg1KJ9AxPbEuyYPQMp"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5Vk1XNAWSV7mWfTnSM6qlB"
+        "name": "CORPUS II",
+        "url": "https://open.spotify.com/album/24u1Z5loy8yAJFszGlfAo1"
       },
       "artists": [
         {
-          "name": "Seven Hours After Violet",
-          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
-        }
-      ],
-      "duration_ms": 189604,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4xjIW6ZI4SL0DKya6P4ECA"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "(Re)-Extract",
-        "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
         },
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 182099,
-      "name": "(Re)-Extract",
-      "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+      "duration_ms": 156761,
+      "name": "Stomach",
+      "url": "https://open.spotify.com/track/3Aps6IsMXhG31pqf7inyyK"
     },
     {
-      "added_at": "2024-09-20 12:26:19",
+      "added_at": "2024-09-27 10:58:50",
       "album": {
-        "name": "The Longest Kiss",
-        "url": "https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy"
+        "name": "Quicker Than Death",
+        "url": "https://open.spotify.com/album/6wh2sEPVXd9JCRpZDXDpm7"
       },
       "artists": [
         {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 169900,
-      "name": "The Longest Kiss",
-      "url": "https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Swear To God That I'm (FINE)",
-        "url": "https://open.spotify.com/album/2gdsdtTVmE82lRhrZefClz"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 138120,
-      "name": "Swear To God That I'm (FINE)",
-      "url": "https://open.spotify.com/track/4f4nkhurM65iKrNRHw3r2z"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "MURDERER + NOSEBLEEDS",
-        "url": "https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 198212,
-      "name": "MURDERER",
-      "url": "https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/07WgOCAauYnSB5cfpLeeKP"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 377826,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/60tjWVCHnWzH3DLUoHsD2G"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Light Blue",
-        "url": "https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Come To Brazil",
-        "url": "https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Come To Brazil",
-      "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "The Wind to Wash the Pain",
-        "url": "https://open.spotify.com/album/3SUhJJjz7kMMxBp0s2N4go"
-      },
-      "artists": [
-        {
-          "name": "Coilguns",
-          "url": "https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH"
-        }
-      ],
-      "duration_ms": 239036,
-      "name": "The Wind to Wash the Pain",
-      "url": "https://open.spotify.com/track/2mfvU5ym7gcUnjD1WiORPi"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Warmer Weather",
-        "url": "https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Fly Move (The Whole Time)",
-      "url": "https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Embrace the Lie",
-        "url": "https://open.spotify.com/album/1GX0Mvq2r51OZFuzYePI0q"
-      },
-      "artists": [
-        {
-          "name": "The Gates Of Slumber",
-          "url": "https://open.spotify.com/artist/30ZFCxaQeisDgihIZyjOlj"
-        }
-      ],
-      "duration_ms": 386876,
-      "name": "Embrace the Lie",
-      "url": "https://open.spotify.com/track/1Fx6tUaQT4jlBMOzoov8Ma"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh"
-      },
-      "artists": [
-        {
-          "name": "The Dark",
-          "url": "https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6"
-        }
-      ],
-      "duration_ms": 183757,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/4P1v9rqKPHcXm6M2meMugW"
-      },
-      "artists": [
-        {
-          "name": "Swollen Teeth",
-          "url": "https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ"
-        }
-      ],
-      "duration_ms": 205964,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1"
-    },
-    {
-      "added_at": "2024-09-20 12:26:19",
-      "album": {
-        "name": "The Obsession",
-        "url": "https://open.spotify.com/album/2aTT1tzmI6rMNZwGj2tCNO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Wessels",
-          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
         },
         {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
         }
       ],
-      "duration_ms": 261155,
-      "name": "Ode To The West Wind (feat. Alissa White-Gluz)",
-      "url": "https://open.spotify.com/track/1LsiniGObWXehZO2VNt36V"
+      "duration_ms": 200000,
+      "name": "Quicker Than Death",
+      "url": "https://open.spotify.com/track/07WabqSXNibyOSbvteeg70"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Funny Man",
+        "url": "https://open.spotify.com/album/4slAkUCsu5WtFoxo5TCZWd"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "duration_ms": 210164,
+      "name": "Funny Man",
+      "url": "https://open.spotify.com/track/2sIz8tMsAfyXyQVsGTBQcN"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        },
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Bile",
+        "url": "https://open.spotify.com/album/7hpqzLg9wDLwwnseArrgha"
+      },
+      "artists": [
+        {
+          "name": "Grief Ritual",
+          "url": "https://open.spotify.com/artist/7hM17EMsGXmMzxfKJVPUwK"
+        },
+        {
+          "name": "Burner",
+          "url": "https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk"
+        }
+      ],
+      "duration_ms": 116600,
+      "name": "Bile",
+      "url": "https://open.spotify.com/track/079ax33R7ff4PA1t43ZTcp"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Eyes Without A Face (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+        "url": "https://open.spotify.com/album/64GPdMoNSUpqR49SFnHhol"
+      },
+      "artists": [
+        {
+          "name": "Gvllow",
+          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 300342,
+      "name": "Eyes Without A Face (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+      "url": "https://open.spotify.com/track/1tiNBONwqMzqiB4zowEsQy"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Monster Truck",
+        "url": "https://open.spotify.com/album/3tiAFRWlc6ud2Euzhb1MyX"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "duration_ms": 162114,
+      "name": "Monster Truck",
+      "url": "https://open.spotify.com/track/4eRMIx3EJOD0m3zJGaXQt3"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "with you in spirit",
+        "url": "https://open.spotify.com/album/1RFWfUCApeMpu1nEizytkr"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 280438,
+      "name": "with you in spirit",
+      "url": "https://open.spotify.com/track/1tLQGGlHGR5rO3v36NDVn7"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Angels Like You",
+        "url": "https://open.spotify.com/album/3fRLgA1sF8L6vqN5ZM9Psx"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 205614,
+      "name": "Angels Like You",
+      "url": "https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/6LO9gYl4xMKWR6tL5NHPJH"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        }
+      ],
+      "duration_ms": 139874,
+      "name": "Overly Tired",
+      "url": "https://open.spotify.com/track/4TKjoncPAu8DuSgxR5C6To"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Yesterday Fades",
+        "url": "https://open.spotify.com/album/6dHpPvrJOzUXIgfPGthah6"
+      },
+      "artists": [
+        {
+          "name": "P\u00f8ltergeist",
+          "url": "https://open.spotify.com/artist/7GUMssS5S8BXcOyD1AstbZ"
+        }
+      ],
+      "duration_ms": 217926,
+      "name": "Yesterday Fades",
+      "url": "https://open.spotify.com/track/0zHYkhTQiG4Kwhih2m8MGQ"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "In the Shadows",
+        "url": "https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy"
+      },
+      "artists": [
+        {
+          "name": "Venamoris",
+          "url": "https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf"
+    },
+    {
+      "added_at": "2024-09-27 10:58:50",
+      "album": {
+        "name": "Incorporeal Bodies",
+        "url": "https://open.spotify.com/album/61U2IxOXDTkRjNvecaflyx"
+      },
+      "artists": [
+        {
+          "name": "street grease",
+          "url": "https://open.spotify.com/artist/6YIFRunPWr8XLiAAwQxJaA"
+        }
+      ],
+      "duration_ms": 205328,
+      "name": "Incorporeal Bodies",
+      "url": "https://open.spotify.com/track/4ZfjTYS7nkcpEDR0j2Jyg8"
     }
   ],
   "unique_name": "Kerrang! Chart",

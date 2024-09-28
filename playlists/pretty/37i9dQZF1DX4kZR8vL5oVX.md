@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Styleto \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,594 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,597 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [garder le sourire](https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [garder le sourire](https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8) | 2:41 |
 | 50 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
 
-Snapshot ID: `ZteG4AAAAADJFmuPdSekHz4gPXDSU2kK`
+Snapshot ID: `ZteG4AAAAADuYvuSM59iqsJZiEnrx0Xy`

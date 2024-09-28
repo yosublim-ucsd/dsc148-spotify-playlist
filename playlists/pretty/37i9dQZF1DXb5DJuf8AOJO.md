@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,343 likes - 85 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,363 likes - 85 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 84 | [Exultet](https://open.spotify.com/track/2BPbVew7XilzHLbJCJ31ai) | [Rev\. Fr\. Joselito Jopson](https://open.spotify.com/artist/0Lhgi4Gh2975Ge0KMP724A), [Richelle Linang](https://open.spotify.com/artist/2Jy16GV3oXnFB7MbdbGW59), [Daniel Catalan of Our Lady of the Poor Parish Music Ministry](https://open.spotify.com/artist/01jO6b6Q4B4KDCl6K8XN0G) | [Salmo Serye, Vol\. 2 \(Responsorial Psalms For Lenten Season\)](https://open.spotify.com/album/1hchvNFeYUDbKQ6XeNOTBf) | 3:52 |
 | 85 | [Mercy and Compassion](https://open.spotify.com/track/0Rso90siipxjbVbCagAfdp) | [Fr\. Raul G\. Caga SVD](https://open.spotify.com/artist/2zioTijO3b2H3KX9w9DmmL), [Cardinal Chito G\. Tagle](https://open.spotify.com/artist/1qoIwahhPAnFxTgdFlN1r1) | [Gracious Mercy](https://open.spotify.com/album/75Px91lECnZlOf1Dmk5euQ) | 5:15 |
 
-Snapshot ID: `Zo9kZAAAAAAoCDcleHDQRqP61930uEdT`
+Snapshot ID: `Zo9kZAAAAABs/ijqBAvCXTZGzajXvYE8`

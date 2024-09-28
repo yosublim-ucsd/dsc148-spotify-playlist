@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: MYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,618 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,694 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 |
 | 100 | [Muy lejos de mi](https://open.spotify.com/track/2Im5YevActjkNb19FgcGkE) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Muy lejos de mi](https://open.spotify.com/album/6MaeCEK3zDlWHrhrOb3zUd) | 3:15 |
 
-Snapshot ID: `ZuzlMAAAAAAW8DRAiiYhVh/i7EOry3D7`
+Snapshot ID: `ZuzlMAAAAABUIZtNLm/kdAHwAmi2f3vB`
