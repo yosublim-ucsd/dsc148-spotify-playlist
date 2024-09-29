@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1057437,
+  "num_followers": 1057524,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
+      },
+      "artists": [
+        {
+          "name": "The Ambientalist",
+          "url": "https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "NOCTURNAL",
         "url": "https://open.spotify.com/album/4EiiygcWETw9cQktdzQnUQ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 201282,
       "name": "NOCTURNAL",
       "url": "https://open.spotify.com/track/4nuZGGZFAo10NKnYLWVY3l"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
-      },
-      "artists": [
-        {
-          "name": "The Ambientalist",
-          "url": "https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 199200,
       "name": "Faded",
       "url": "https://open.spotify.com/track/7hBhvWoutyueUsCOjz6FZa"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
-      },
-      "artists": [
-        {
-          "name": "Electronic Gems",
-          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
-        },
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1gn9kq6O81y2pvguH15UtG"
       },
@@ -1143,22 +1123,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Selection 6",
-        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
-      },
-      "artists": [
-        {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Assembly Line",
-      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
       },
@@ -1171,6 +1135,42 @@
       "duration_ms": 180559,
       "name": "End",
       "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
+      },
+      "artists": [
+        {
+          "name": "Electronic Gems",
+          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
+        },
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Selection 6",
+        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Assembly Line",
+      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1203,26 +1203,6 @@
       "duration_ms": 240000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO"
-      },
-      "artists": [
-        {
-          "name": "Electronic Gems",
-          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
-        },
-        {
-          "name": "Unfound",
-          "url": "https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry"
-        }
-      ],
-      "duration_ms": 288557,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO"
+      },
+      "artists": [
+        {
+          "name": "Electronic Gems",
+          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
+        },
+        {
+          "name": "Unfound",
+          "url": "https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry"
+        }
+      ],
+      "duration_ms": 288557,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv"
       },
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "I Don't Need a Hero (Cody Crump Remix)",
-        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
       },
       "artists": [
         {
-          "name": "Danz CM",
-          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
-        },
-        {
-          "name": "Cody Crump",
-          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
+          "name": "Droid Bishop",
+          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
         }
       ],
-      "duration_ms": 183841,
-      "name": "I Don't Need a Hero - Cody Crump Remix",
-      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
+      "duration_ms": 301687,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Nights",
-        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
+        "name": "I Don't Need a Hero (Cody Crump Remix)",
+        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
       "artists": [
         {
-          "name": "Droid Bishop",
-          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
+        },
+        {
+          "name": "Cody Crump",
+          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
         }
       ],
-      "duration_ms": 301687,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
+      "duration_ms": 183841,
+      "name": "I Don't Need a Hero - Cody Crump Remix",
+      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "E.P.R.O.M.",
-        "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
+        "name": "Disco on the Baltic Sea",
+        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
       },
       "artists": [
         {
           "name": "Waveshaper",
           "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        },
-        {
-          "name": "Oscillian",
-          "url": "https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7"
         }
       ],
-      "duration_ms": 232000,
-      "name": "E.P.R.O.M.",
-      "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
+      "duration_ms": 197000,
+      "name": "Disco on the Baltic Sea",
+      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1499,22 +1495,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Third Dimension (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5gVK9yIBFhOh8SN9WtFayk"
-      },
-      "artists": [
-        {
-          "name": "Dreaming Cooper",
-          "url": "https://open.spotify.com/artist/0dD51H4HVOcfotUUZ3piMh"
-        }
-      ],
-      "duration_ms": 463000,
-      "name": "Third Dimension - Remastered 2022",
-      "url": "https://open.spotify.com/track/6vNziom8FQxs0ZJ2s8Rb7k"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Ghost Conductor",
         "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
       },
@@ -1527,6 +1507,22 @@
       "duration_ms": 230062,
       "name": "Ghost Conductor",
       "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Third Dimension (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5gVK9yIBFhOh8SN9WtFayk"
+      },
+      "artists": [
+        {
+          "name": "Dreaming Cooper",
+          "url": "https://open.spotify.com/artist/0dD51H4HVOcfotUUZ3piMh"
+        }
+      ],
+      "duration_ms": 463000,
+      "name": "Third Dimension - Remastered 2022",
+      "url": "https://open.spotify.com/track/6vNziom8FQxs0ZJ2s8Rb7k"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Disco on the Baltic Sea",
-        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
+        "name": "E.P.R.O.M.",
+        "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
       },
       "artists": [
         {
           "name": "Waveshaper",
           "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        },
+        {
+          "name": "Oscillian",
+          "url": "https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Disco on the Baltic Sea",
-      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
+      "duration_ms": 232000,
+      "name": "E.P.R.O.M.",
+      "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+      },
+      "artists": [
+        {
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Try / Dark Strings",
         "url": "https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 224001,
       "name": "Try",
       "url": "https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
-      },
-      "artists": [
-        {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1699,6 +1699,46 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Temporarity (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
+      },
+      "artists": [
+        {
+          "name": "Michael Cassette",
+          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
+        },
+        {
+          "name": "16BL",
+          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
+      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Eleos",
+        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
+      },
+      "artists": [
+        {
+          "name": "Turbo Knight",
+          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
+        },
+        {
+          "name": "Edictum",
+          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
+        }
+      ],
+      "duration_ms": 394999,
+      "name": "Eleos",
+      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Ascella (Dub)",
         "url": "https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5"
       },
@@ -1727,46 +1767,6 @@
       "duration_ms": 278400,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Eleos",
-        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
-      },
-      "artists": [
-        {
-          "name": "Turbo Knight",
-          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
-        },
-        {
-          "name": "Edictum",
-          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
-        }
-      ],
-      "duration_ms": 394999,
-      "name": "Eleos",
-      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Temporarity (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
-      },
-      "artists": [
-        {
-          "name": "Michael Cassette",
-          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
-        },
-        {
-          "name": "16BL",
-          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
-      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Polarity",
-        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
-      },
-      "artists": [
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Days Away",
-      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Parallel Reality",
         "url": "https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0"
       },
@@ -1891,18 +1871,38 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
       },
       "artists": [
         {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
         }
       ],
-      "duration_ms": 278130,
-      "name": "October",
-      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
+      "duration_ms": 210000,
+      "name": "Days Away",
+      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
+      },
+      "artists": [
+        {
+          "name": "PiMO",
+          "url": "https://open.spotify.com/artist/7ADKytIkgNPkHWSJTiqTb0"
+        }
+      ],
+      "duration_ms": 188011,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
+        "name": "October",
+        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
       },
       "artists": [
         {
-          "name": "PiMO",
-          "url": "https://open.spotify.com/artist/7ADKytIkgNPkHWSJTiqTb0"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 188011,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
+      "duration_ms": 278130,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Memorie",
-        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
-      },
-      "artists": [
-        {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
-        }
-      ],
-      "duration_ms": 206593,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 205128,
       "name": "Recall",
       "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Memorie",
+        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 206593,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
-      },
-      "artists": [
-        {
-          "name": "Kenno",
-          "url": "https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Finding You",
         "url": "https://open.spotify.com/album/0eMBOMgBh1QE748SFS0ZGE"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 201290,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/0ZNL5oPxubdojnsNSlfnpP"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
+      },
+      "artists": [
+        {
+          "name": "Kenno",
+          "url": "https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Falkor Flight",
-        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 267752,
-      "name": "Falkor Flight",
-      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Missense",
         "url": "https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 207920,
       "name": "Missense",
       "url": "https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Falkor Flight",
+        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 267752,
+      "name": "Falkor Flight",
+      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
-      },
-      "artists": [
-        {
-          "name": "Stilz",
-          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Timeshift / Cronos",
         "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
       },
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Parallel: S",
-        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
+        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
       },
       "artists": [
         {
-          "name": "1788-L",
-          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+          "name": "Stilz",
+          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
         }
       ],
-      "duration_ms": 231192,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
+      "duration_ms": 310090,
+      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2403,6 +2387,22 @@
       "duration_ms": 294778,
       "name": "Irusu",
       "url": "https://open.spotify.com/track/68pSdpnpUFuv9yzVUrEZiN"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Parallel: S",
+        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
     },
     {
       "added_at": "2024-09-11 17:46:02",

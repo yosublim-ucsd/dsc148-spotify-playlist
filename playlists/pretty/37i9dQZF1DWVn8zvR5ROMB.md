@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Cody Johnson with Carrie Underwood, Luke Bryan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,986 likes - 78 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,220 likes - 78 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 41 | [Settle Me Down \(Acoustic\)](https://open.spotify.com/track/7kqAvXwp9TfkGdE8RtE33p) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Settle Me Down \(Acoustic\)](https://open.spotify.com/album/6BawwjacSPTHpKGmO1i4Xf) | 3:17 |
 | 42 | [Mine Are Too](https://open.spotify.com/track/2xeH0bePihEJZEXicHMgRG) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Mine Are Too](https://open.spotify.com/album/71unMFEU0a4BCrY3YbgiI8) | 2:53 |
 | 43 | [Everything I've Got](https://open.spotify.com/track/0kQ0uNi0EsT3o3D20hCk5S) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Everything I've Got](https://open.spotify.com/album/2vqXP7Z50UqEbN8F6JOePd) | 4:41 |
-| 44 | [Lighthouse \- Alternate Version](https://open.spotify.com/track/38wsMIz4DNPPZT92tv5hsu) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Lighthouse \- Alternate Version](https://open.spotify.com/album/7lamU2iaFGyr8SyIxk41g7) | 3:31 |
+| 44 | [Lighthouse \- Alternate Version](https://open.spotify.com/track/38wsMIz4DNPPZT92tv5hsu) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Lighthouse \(Alternate Version\)](https://open.spotify.com/album/7lamU2iaFGyr8SyIxk41g7) | 3:31 |
 | 45 | [I'll Remember This](https://open.spotify.com/track/4BizuVuqL6nKx2hV1SppxR) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [I'll Remember This](https://open.spotify.com/album/7i4DK2T1IwpS1YkDigxJQg) | 3:27 |
 | 46 | [Way Out](https://open.spotify.com/track/3Y5JLfa0PAezp5oXj4BMff) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Way Out](https://open.spotify.com/album/2efqLzoWwO1rpaXUTg5S52) | 4:05 |
 | 47 | [Down In Boots](https://open.spotify.com/track/2L2U4LFR1cYUQbckzdlnO4) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Down In Boots](https://open.spotify.com/album/6pa9tFzCCn7FQdobQ2Rdyk) | 3:22 |

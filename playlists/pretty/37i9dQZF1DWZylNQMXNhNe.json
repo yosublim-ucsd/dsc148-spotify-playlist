@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 223862,
+  "num_followers": 223854,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
+        "name": "in.corpo.ra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4l2RvWh3gQVWLJPZa6W2Wf"
+      },
+      "artists": [
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "lave sua boca (suja) quando for falar de mim",
+      "url": "https://open.spotify.com/track/7sjy4zFpKblSZ5xCHKlxlQ"
+    },
+    {
+      "added_at": "2024-07-12 16:01:12",
+      "album": {
         "name": "Cont\u00e9m1drama",
         "url": "https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 185404,
       "name": "Caipirinha de Mil\u00e3o",
       "url": "https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3"
-    },
-    {
-      "added_at": "2024-07-12 16:01:12",
-      "album": {
-        "name": "in.corpo.ra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4l2RvWh3gQVWLJPZa6W2Wf"
-      },
-      "artists": [
-        {
-          "name": "Jup do Bairro",
-          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "lave sua boca (suja) quando for falar de mim",
-      "url": "https://open.spotify.com/track/7sjy4zFpKblSZ5xCHKlxlQ"
     },
     {
       "added_at": "2024-07-12 16:01:12",

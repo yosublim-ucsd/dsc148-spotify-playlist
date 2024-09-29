@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,842 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,846 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 8 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 |
 | 9 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 |
 | 10 | [en rosalie](https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:39 |
-| 11 | [Tiger Teeth \- Feat Just Jack](https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Tiger Teeth \- Feat Just Jack](https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT) | 3:00 |
+| 11 | [Tiger Teeth \(Feat Just Jack\)](https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Tiger Teeth \(Feat Just Jack\)](https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT) | 3:00 |
 | 12 | [Oddy](https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Oddy](https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA) | 3:32 |
 | 13 | [Émotions saturées \(feat\. TheFrenchKris\)](https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Émotions saturées \(feat\. TheFrenchKris\)](https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK) | 2:58 |
 | 14 | [Funambule](https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK) | [Mahom](https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Funambule](https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz) | 3:48 |

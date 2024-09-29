@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Pascal Letoublon, RANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,989 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,040 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 16 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
 | 17 | [Afters](https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Afters](https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki) | 3:46 |
 | 18 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
-| 19 | [2 Cool 4 Love](https://open.spotify.com/track/09jyG0b5A156oPEwvE5FUX) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [BADVIBES](https://open.spotify.com/artist/4WTuZmkUWHtFtYqGst6d4g) | [2 Cool 4 Love](https://open.spotify.com/album/4blbzRgXMm1XSTsdc6gKih) | 1:56 |
+| 19 | [2 Cool 4 Love](https://open.spotify.com/track/09jyG0b5A156oPEwvE5FUX) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [BADVIBES](https://open.spotify.com/artist/4WTuZmkUWHtFtYqGst6d4g) | [2 Cool 4 Love](https://open.spotify.com/album/4blbzRgXMm1XSTsdc6gKih) | 1:58 |
 | 20 | [Black & Gold](https://open.spotify.com/track/1hK82ERSZ37oWQWuiDv90J) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [Black & Gold](https://open.spotify.com/album/3x8klMCZWyPBSxMTsqaBSB) | 2:04 |
 | 21 | [MONDSCHEIN](https://open.spotify.com/track/7gmASMm4fPezEMz0JG6MJ4) | [Jasmina Oder](https://open.spotify.com/artist/6Ji0vEwCo748AX8ekqE3JN), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [MONDSCHEIN](https://open.spotify.com/album/57VR2kxc7D2Fm2AVxl541e) | 1:47 |
 | 22 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |

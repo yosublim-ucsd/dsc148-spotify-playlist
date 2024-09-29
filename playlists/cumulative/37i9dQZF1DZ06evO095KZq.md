@@ -2,7 +2,7 @@
 
 ### [This Is El Fantasma](https://open.spotify.com/playlist/37i9dQZF1DZ06evO095KZq)
 
-> This is El Fantasma\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is El Fantasma\. The essential tracks, all in one playlist.
 
 71 songs - 3 hr 23 min
 

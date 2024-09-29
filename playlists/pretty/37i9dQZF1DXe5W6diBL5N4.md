@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: QWER\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,354 likes - 248 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,385 likes - 248 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 17 | [cut it out \(feat\. meenoi\)](https://open.spotify.com/track/7BN42zo1pCk6jiIVtSgXq2) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [cut it out \(feat\. meenoi\)](https://open.spotify.com/album/6NovzCs0Co0nKkMu4WonWg) | 2:06 |
 | 18 | [POP UP](https://open.spotify.com/track/1hZUb6Lk1YUENriSC9bI8H) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [POP UP](https://open.spotify.com/album/6Ot4mjth1BcXriAF4mQj3I) | 3:17 |
 | 19 | [Retro Romance](https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Retro Romance](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) | 2:32 |
-| 20 | [RUN \(Up To You\)](https://open.spotify.com/track/5gh8vWP0URSCDvwLtTcoAr) | [PROJECT 7](https://open.spotify.com/artist/1sFsOR3A1ba7bY1b99EA80) | [PROJECT 7 \- RUN \(Up To You\)](https://open.spotify.com/album/2Y5hd5T5LuWErIg39z66I0) | 4:03 |
+| 20 | [RUN \(Up to you\)](https://open.spotify.com/track/5gh8vWP0URSCDvwLtTcoAr) | [PROJECT 7](https://open.spotify.com/artist/1sFsOR3A1ba7bY1b99EA80) | [PROJECT 7 \- RUN \(Up to you\)](https://open.spotify.com/album/2Y5hd5T5LuWErIg39z66I0) | 4:03 |
 | 21 | [dlTwksgdk](https://open.spotify.com/track/7ezo6D87hjNvCppZu0Adjb) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [dlTwksgdk](https://open.spotify.com/album/6qC7XYjWzqYmdLjjtzTmNB) | 3:40 |
 | 22 | [Mended](https://open.spotify.com/track/1OofPSjdFsBzBmmnMU5KEw) | [Captain Planet](https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ), [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [Mended](https://open.spotify.com/album/3m958uN8ZWxkpVT89ZGDqM) | 5:41 |
 | 23 | [like that time](https://open.spotify.com/track/40VFQYRNp3Pbahz2Tcum59) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [like that time](https://open.spotify.com/album/4aC97USs3WDaB5MZFlavNr) | 2:36 |
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 170 | [스며들어 \(Vocal by 이묘\)](https://open.spotify.com/track/7GAKuAXWQkrmiKnvYXfVZl) | [ashWave \(애쉬웨이브\)](https://open.spotify.com/artist/2Us9YKzn0Aj2f5RoGeCqDI) | [스며들어](https://open.spotify.com/album/6RmBCDDEG4LXeSYqtR9vjD) | 3:47 |
 | 171 | [Love is like a wave](https://open.spotify.com/track/1r7tmknGILAvVxnTqm6xAC) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Indigging \#03](https://open.spotify.com/album/1oLdXv4xyHKEMUYJyVMhVY) | 3:06 |
 | 172 | [silhouette](https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [silhouette](https://open.spotify.com/album/47VsM0eiGNH1g9yUQ545Tr) | 2:17 |
-| 173 | [IMA IMA \(Prod\. GWANA\)](https://open.spotify.com/track/2AaLth2ulo71PAX0NDgwMT) | [Tanaka](https://open.spotify.com/artist/5dCkjULuPoLdK4ksZfHTjR) | [IMA IMA \(Prod\. GWANA\)](https://open.spotify.com/album/2VNwR4P0WvXcgstjU76k84) | 3:54 |
+| 173 | [IMA IMA \(Prod\. GWANA\)](https://open.spotify.com/track/2AaLth2ulo71PAX0NDgwMT) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [IMA IMA \(Prod\. GWANA\)](https://open.spotify.com/album/2VNwR4P0WvXcgstjU76k84) | 3:54 |
 | 174 | [Midnight](https://open.spotify.com/track/0Tpvw9X2yWk2sb91GRca9u) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/67IS1dm85zoo1N0JpXa85S) | 3:25 |
 | 175 | [그때는 우리가](https://open.spotify.com/track/3JI0yBJrM3ewu3LyNELpvt) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [그때는 우리가](https://open.spotify.com/album/3Q0NyOkaKrMeWYNDdPq2qI) | 4:04 |
 | 176 | [But I'll let you go now](https://open.spotify.com/track/452KNEoKCdREczV2K75Ccg) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [But I'll let you go now](https://open.spotify.com/album/0coGY4BoKKCiGr8PZf7Qft) | 3:38 |

@@ -2,9 +2,9 @@
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This Is Bivolt\. Los temas esenciales, todos en una lista.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-69 songs - 4 hr 1 min
+70 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Sigilo](https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:04 | 2023-12-30 |  |
 | [Susuave](https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:38 | 2024-08-09 | 2024-08-30 |
 | [Só Nois](https://open.spotify.com/track/2NNe2r1k99b90uq0Zf3gOE) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ECLÉTICO \- LADO B](https://open.spotify.com/album/09ZfSdXy5ckn7VqpY3DyBT) | 2:43 | 2023-12-30 |  |
+| [Ta Demais](https://open.spotify.com/track/5sbMmTqQBEptebVNSYsMVV) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Frequência](https://open.spotify.com/album/2ULjuFg39qb5oc9CM3p4aK) | 2:54 | 2024-09-29 |  |
 | [Taças](https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Taças](https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn) | 2:36 | 2024-08-03 |  |
 | [Telefone](https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Riff](https://open.spotify.com/artist/7HWxy4b4td3XP7WjueymyN) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:08 | 2023-12-30 |  |
 | [Tipo Giroflex](https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:39 | 2023-12-30 | 2024-09-28 |

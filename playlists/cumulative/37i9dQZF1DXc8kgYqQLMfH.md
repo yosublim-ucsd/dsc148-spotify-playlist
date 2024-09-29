@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,190 songs - 1 day 21 hr 20 min
+1,191 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Easy Cookin](https://open.spotify.com/track/42JZkYvIxmVEtUcnV5tDTa) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 1:33 | 2021-11-10 | 2022-06-10 |
 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 | 2023-07-13 | 2023-10-13 |
 | [eclipse](https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [eclipse](https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm) | 2:28 | 2023-11-17 |  |
+| [Eclipse](https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Eclipse](https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf) | 2:24 | 2024-09-27 |  |
 | [El Surf](https://open.spotify.com/track/081eB5su1F6rXFHoo6HQgU) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [El Surf](https://open.spotify.com/album/3FcOFOLtbIzmyimX0n9JJs) | 3:23 | 2021-11-10 | 2023-05-20 |
 | [Elation](https://open.spotify.com/track/6DCD3RJiWcyN69jZpfX9bq) | [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Elation](https://open.spotify.com/album/4HxLJUum7fStboTFcCoNUz) | 2:28 | 2023-08-03 | 2023-10-06 |
 | [Elliptical Flower Arrangement](https://open.spotify.com/track/1FBk5RrKGgjys9GdxFpM1S) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Elliptical Flower Arrangement](https://open.spotify.com/album/10E7OT49IDccJmMaY1Wnoh) | 2:00 | 2022-04-22 | 2023-09-16 |
@@ -757,7 +758,7 @@
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2021-11-10 | 2022-05-27 |
 | [nubes](https://open.spotify.com/track/5ekYOmFPM44ltEgnJqcGcM) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [nubes](https://open.spotify.com/album/2RUGz3g25tIFe3pIxEQArr) | 2:42 | 2022-06-24 | 2022-07-29 |
 | [Nurtured Nature](https://open.spotify.com/track/2oZ7cCFzBa7z31KpZc56Be) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Alltid](https://open.spotify.com/album/0sizWPUvbr4jWzDeGowcHb) | 2:03 | 2023-01-13 |  |
-| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 |  |
+| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 | 2024-09-29 |
 | [oase](https://open.spotify.com/track/3q0ggMvQOe73GnUDY3nkhK) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [oase](https://open.spotify.com/album/542M7FTx3gAU7B9qaVnZ3f) | 1:12 | 2022-05-13 | 2022-06-10 |
 | [oblivion](https://open.spotify.com/track/4R2kOSRbf4gCFAFkebVmSG) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [oblivion](https://open.spotify.com/album/3kO3AwdvdYmpheRIATwD5I) | 1:43 | 2021-11-10 | 2022-07-29 |
 | [Oblivious](https://open.spotify.com/track/6JGRktSYyPOqIlUqxuEKQD) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Oblivious](https://open.spotify.com/album/3W0zN0qXJxk0Syqim6RQuV) | 1:57 | 2022-12-16 | 2023-04-28 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,621 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,604 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Criminal](https://open.spotify.com/track/4IaO5GKWcR6LdMOQH6heJM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Criminal](https://open.spotify.com/album/1rl7k8GfvRB3F1MuIWyW8L) | 2:01 |
 | 2 | [Daiquiri](https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [Who Is The Villain ??](https://open.spotify.com/album/4xTavRVrCq0snxkVv0WdUk) | 2:51 |
-| 3 | [FNB](https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [FNB>BKB](https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0) | 2:48 |
+| 3 | [FNB](https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [FNB>BKB](https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0) | 2:48 |
 | 4 | [Repeat](https://open.spotify.com/track/2I9HaBucSP3ByQ0c5Yc6OX) | [ML](https://open.spotify.com/artist/5Uaca69ukzue3LoQOnqXem), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [The Loop Tape](https://open.spotify.com/album/42kKbLuhFF4A76gLH79b4f) | 3:05 |
 | 5 | [Signo](https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Lutas & Glórias](https://open.spotify.com/album/485P61YLgB9U6EGXRoU8h1) | 3:17 |
 | 6 | [BDDS](https://open.spotify.com/track/0fFUDx0R7Wsa5zLDM7V2oN) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [BDDS](https://open.spotify.com/album/2Ukn6x5IgCJdeYhxQKNapc) | 3:43 |

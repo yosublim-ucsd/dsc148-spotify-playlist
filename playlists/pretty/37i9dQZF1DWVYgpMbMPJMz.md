@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:6RC9lZOZqIxeg4g38SXNLn">ONE HOUSE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,719 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,800 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Up To Something \- Live](https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2), [Skylar Dayne](https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg) | [Up To Something \(Live\)](https://open.spotify.com/album/0jJkeMIcLYiqMWKstNEXMg) | 7:40 |
 | 2 | [Holy Song \- Live](https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Holy Song \- Live](https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5) | 5:36 |
-| 3 | [FormalTitle \- Live](https://open.spotify.com/track/13R1Yn3u8vC3GUmQ5AQXtN) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [FormalTitle \(Live\)](https://open.spotify.com/album/3w8SG80nHpHYgEgbvEAfZG) | 5:39 |
+| 3 | [Nothing Is \- Live](https://open.spotify.com/track/13R1Yn3u8vC3GUmQ5AQXtN) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Looking Glass \(Live\)](https://open.spotify.com/album/3w8SG80nHpHYgEgbvEAfZG) | 5:39 |
 | 4 | [Here I Am \(feat\. Ashley Hess\)](https://open.spotify.com/track/3fXb7uR4CDGALrfKMkdIy3) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N) | [Here I Am](https://open.spotify.com/album/0NclZ5R0omscBYFXn5QoyW) | 5:39 |
 | 5 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \- Live](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
 | 6 | [Good Shepherd](https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 4:24 |

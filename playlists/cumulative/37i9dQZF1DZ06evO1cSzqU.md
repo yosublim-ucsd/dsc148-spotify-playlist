@@ -2,7 +2,7 @@
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This Is Scorpions\. Все лучшие треки в одном плейлисте.
+> This is Scorpions\. The essential tracks, all in one playlist.
 
 88 songs - 6 hr 41 min
 

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: OMSB, JJJ
 
-1,099 songs - 2 day 8 hr 28 min
+1,101 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [EDEN](https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [EDEN](https://open.spotify.com/album/3vQHDzTYpr08HLbHprAInT) | 3:54 | 2023-09-21 | 2024-04-19 |
 | [EDEN](https://open.spotify.com/track/11Up18VQDb9CCirvCMcjOu) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [EDEN](https://open.spotify.com/album/0x4eaxC4dcPaeunD7NGzaJ) | 3:54 | 2024-04-18 | 2024-05-15 |
 | [EL COCINERO](https://open.spotify.com/track/0R90BuNm2Msnjz0x64SD8T) | [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H), [gerardparman](https://open.spotify.com/artist/4B5nMelhpP2gTR4YwY4FSi), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [EL COCINERO](https://open.spotify.com/album/2SaSS2dDwokRGsxaRHLPWL) | 3:12 | 2024-01-30 | 2024-03-13 |
+| [Empire Strikes Back](https://open.spotify.com/track/1YTp1M9QcTajeTHxiVCci1) | [RAU DEF](https://open.spotify.com/artist/5iq4YlNmdAIagDEUd1b3wo), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ESCALATE IV](https://open.spotify.com/album/1icnP4tWnz6V68428xdBFB) | 3:02 | 2024-09-28 |  |
 | [ENERGY SONG](https://open.spotify.com/track/0mQXPMmV7Pq4jvHyKPydOh) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [CHALLENGER](https://open.spotify.com/album/39VgHgvLOmMS9OSV8H1BdP) | 2:37 | 2023-10-17 | 2023-11-01 |
 | [ENERGY SONG](https://open.spotify.com/track/61sk82mNl7QBvUftq94MD5) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [CHALLENGER](https://open.spotify.com/album/05975PE0clbjLhyuBj7FiM) | 2:37 | 2023-10-17 | 2023-10-19 |
 | [ENFJ](https://open.spotify.com/track/0QRrMQZp9c407gkHZv7DOX) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU), [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [ENFJ](https://open.spotify.com/album/0SdA5A8JmaMRutC9P3lyx1) | 2:44 | 2024-09-10 | 2024-09-18 |
@@ -774,6 +775,7 @@
 | [SAMIDARE](https://open.spotify.com/track/0xgyKjpgv20zyHwNaQvBiK) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [SAMIDARE](https://open.spotify.com/album/0EHfo54F8edX4f8weTJv5x) | 3:11 | 2024-05-23 | 2024-06-05 |
 | [SAMURAI SOLDIER](https://open.spotify.com/track/7s72PRBtHOFIXwa3OFOArR) | [Gaki Ranger](https://open.spotify.com/artist/0AOB5bJZZZQ5bsVY1LdkVk), [CHEHON](https://open.spotify.com/artist/6tQMcZAnZhztsJfTeZ5UYY) | [Survival Attack](https://open.spotify.com/album/520uUCI7lAbObTdwqDvtBK) | 3:01 | 2024-09-03 | 2024-09-13 |
 | [Satsutaba](https://open.spotify.com/track/2JbQuRLImqt8Z1nCK7SU51) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Satsutaba](https://open.spotify.com/album/42jLZDrxFjsGRT729Ohj2e) | 3:10 | 2023-09-21 | 2023-10-04 |
+| [Say You Will](https://open.spotify.com/track/56wEo6sOf7EA1SJOZLOqCV) | [GAME CENTER & Future Brothers](https://open.spotify.com/artist/5KmK4SkU5gy76btbPAuS1q), [OHSE, MZA Future, Mitch](https://open.spotify.com/artist/4asXkYXcuPIvfRN6vRp8hW) | [Enter The Future](https://open.spotify.com/album/23RsF1FDfuVFbdnRIUXAOM) | 3:12 | 2024-09-28 |  |
 | [SCENE!](https://open.spotify.com/track/6ZQt9AW0jAG3zM4xFzvDuw) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:26 | 2023-10-03 | 2023-11-29 |
 | [SEA SIDE DREAM](https://open.spotify.com/track/1JNJCxwHFX2YRWzc2oCa44) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [SEA SIDE DREAM](https://open.spotify.com/album/7LpRawMaKw2ZQWLbcf0XkR) | 3:27 | 2024-01-23 | 2024-02-28 |
 | [Seaside](https://open.spotify.com/track/00pkjlbzoeNm9DLbLMMFvO) | [DJ LEN](https://open.spotify.com/artist/5MMf5BtZJPYw0CpNqI4s7Y), [Linobu](https://open.spotify.com/artist/2Wkn5p94WJzu4HoIF7jA1a), [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Seaside](https://open.spotify.com/album/4IkdxLVcipyeRId0KB4FyB) | 2:32 | 2024-08-07 | 2024-08-21 |

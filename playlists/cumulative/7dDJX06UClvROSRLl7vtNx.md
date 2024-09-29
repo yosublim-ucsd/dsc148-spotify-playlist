@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-578 songs - 1 day 1 hr 18 min
+579 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [La Isla Bonita](https://open.spotify.com/track/2JV2fUnj0LSrpfym491dqX) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [El Puffin](https://open.spotify.com/artist/0euvIrtGV2Hth36A3Ygo3u) | [La Isla Bonita](https://open.spotify.com/album/70fZK2pDUWMEXv9xwfsAiC) | 2:38 | 2024-07-24 |  |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2DlzKdiGMzst28nBnpXQgv) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/0R69J465ReHXJ9Zyf8Pj4s) | 2:21 | 2024-03-10 | 2024-04-08 |
 | [Last Day Of Summer](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6) | [Kusko](https://open.spotify.com/artist/0uO72K8Y6OKi7DSAoc5do3), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Last Day Of Summer](https://open.spotify.com/album/7825P7bPdQedV51KZoX9QM) | 2:23 | 2024-03-03 | 2024-05-06 |
+| [Last Time](https://open.spotify.com/track/3y6UDnGAEXPdRkiOMmQoeD) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3) | [Last Time](https://open.spotify.com/album/3OjSB3syphR7pj2e7JsGp4) | 2:33 | 2024-09-28 |  |
 | [Last Train Home](https://open.spotify.com/track/36OeG9DZLSyNrTP3Hys7Ex) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ) | [Last Train Home](https://open.spotify.com/album/6vE9Lq68c4KVFa37UOo0X4) | 2:38 | 2024-04-15 | 2024-05-06 |
 | [Late Night](https://open.spotify.com/track/4ZdqfENENfXelDci5EU0ll) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [Late Night](https://open.spotify.com/album/6Dw8yvuUohgkfS8Q4rZQMC) | 2:41 | 2024-04-07 | 2024-04-16 |
 | [Lay all your love on me](https://open.spotify.com/track/7fAb1ipk2twSkV3mRUvBV3) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Lay all your love on me](https://open.spotify.com/album/2DmENT0BPX3WEY2KNY6Rlg) | 2:36 | 2024-01-27 | 2024-06-01 |

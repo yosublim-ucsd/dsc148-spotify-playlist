@@ -1,12 +1,12 @@
 {
-  "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 69326,
+  "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
+  "num_followers": 69341,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAAD4XJXnddGg4/5NbJT4/7BX",
+  "snapshot_id": "ZvX1gAAAAAAx2lVtrqQZhUWCVJUspp89",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos en el Ascensor",
-        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
       "artists": [
-        {
-          "name": "Manu Pir\u00f3",
-          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Besos en el Ascensor",
-      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
+      "duration_ms": 213831,
+      "name": "Casafantasmas",
+      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Besos en el Ascensor",
+        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
       },
       "artists": [
+        {
+          "name": "Manu Pir\u00f3",
+          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 213831,
-      "name": "Casafantasmas",
-      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
+      "duration_ms": 190500,
+      "name": "Besos en el Ascensor",
+      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
     },
     {
       "added_at": null,

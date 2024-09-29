@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Some Kind Of Heaven",
+        "url": "https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM"
+      },
+      "artists": [
+        {
+          "name": "knitting",
+          "url": "https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160066,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/7uk0LH3pI5mDgFBiwbyLvO"
       },

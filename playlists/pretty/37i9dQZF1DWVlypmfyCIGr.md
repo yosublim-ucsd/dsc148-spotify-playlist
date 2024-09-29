@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: CHIANZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,381 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,384 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 25 | [Lovin’](https://open.spotify.com/track/0ZSq3bWtwchMP7JP5G25fQ) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Neo Oriented](https://open.spotify.com/album/1s7cSIMsphIt4ELBfOfEbC) | 4:07 |
 | 26 | [FAUST](https://open.spotify.com/track/4bffLABagc90vaRJ6IyohO) | [Haruna Yusa](https://open.spotify.com/artist/3lc5Z805sOOFhD7BcUlMG2) | [Another Story Of Dystopia Romance](https://open.spotify.com/album/4CZwLF7A3gKSFPRwSEuD8M) | 5:38 |
 | 27 | [フォーエバーヤング \- ver.4.0](https://open.spotify.com/track/1h3NA4oCdLyV9OF5ZAvpQw) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 4.0](https://open.spotify.com/album/6BRv5fhLTVkGKdolPIKgpT) | 4:27 |
-| 28 | [IDOL](https://open.spotify.com/track/1HKUrMu5Mvx4H29bePADRY) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Kawaii Psycho 倶楽部](https://open.spotify.com/artist/6Q0HPGpe2MK0SJwO4MVP1n) | [IDOL](https://open.spotify.com/album/54F3vb5q6eyqA0bZklpxA0) | 2:51 |
+| 28 | [IDOL](https://open.spotify.com/track/1HKUrMu5Mvx4H29bePADRY) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Kawaii Psycho Club](https://open.spotify.com/artist/6Q0HPGpe2MK0SJwO4MVP1n) | [IDOL](https://open.spotify.com/album/54F3vb5q6eyqA0bZklpxA0) | 2:51 |
 | 29 | [ヒャッハー！](https://open.spotify.com/track/47lNKLCLyfkelgqGHq3VDD) | [ザ・リーサルウェポンズ](https://open.spotify.com/artist/3Dz65nhsZWTW5pa3ydfahH) | [ヒャッハー！](https://open.spotify.com/album/3Ozj1JH7WMajsNVcBDQLjG) | 3:33 |
 | 30 | [掃洒を回って](https://open.spotify.com/track/7DAmDMnsb6afNlpPpdx6ww) | [山下僚海](https://open.spotify.com/artist/0MpRd2W3e9QVT0bH8raQnm) | [掃洒を回って](https://open.spotify.com/album/12gDlSUf1WeGKjn2DB2ZRQ) | 3:33 |
 | 31 | [Mira Mira !!](https://open.spotify.com/track/0JvVaZd6KP5ceOMmmkYj8m) | [味醂いろは](https://open.spotify.com/artist/56bF4fp8msFAFemDiKMsjl) | [Mira Mira !!](https://open.spotify.com/album/13PCtsgcUpvT8UADFVTiDG) | 2:53 |

@@ -2,7 +2,7 @@
 
 ### [This Is Banda MS de Sergio Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1v3IU8)
 
-> This is Banda MS de Sergio Lizárraga\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This Is Banda MS de Sergio Lizárraga\. Los temas esenciales, todos en una lista.
 
 70 songs - 3 hr 48 min
 

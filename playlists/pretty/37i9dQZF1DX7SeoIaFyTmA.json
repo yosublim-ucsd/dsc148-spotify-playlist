@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1336588,
+  "num_followers": 1336863,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "El Cantante de los Cantantes",
+        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
-        "name": "Detalles",
-        "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV"
       },
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "Fuego En El 23",
         "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "El Cantante de los Cantantes",
-        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327666,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7dC0ojtXZWBD6vIOD42AYT"
     }
   ],
   "unique_name": "Salsa Classics",

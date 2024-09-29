@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 68701,
+  "num_followers": 70075,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -313,26 +313,6 @@
       "url": "https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
-    },
-    {
       "added_at": "2024-09-16 22:46:03",
       "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
@@ -351,6 +331,26 @@
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -891,30 +891,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Shook Up",
-        "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Shook Up",
-      "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Shook Up",
+        "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Shook Up",
+      "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dark Times",
         "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 198630,
       "name": "Black&Blue",
       "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "TRUE MAGIC",
-        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 229336,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/3n26Ovng64RtXwmRzfn5fi"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Tainted",
         "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 181403,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "TRUE MAGIC",
+        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 229336,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/3n26Ovng64RtXwmRzfn5fi"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1351,6 +1351,50 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "DESI TRILL (Remix)",
+        "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
+      },
+      "artists": [
+        {
+          "name": "DJ LYAN",
+          "url": "https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Malkit Singh",
+          "url": "https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X"
+        },
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "DESI TRILL (Remix)",
+      "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG"
+      },
+      "artists": [
+        {
+          "name": "Alex Spencer",
+          "url": "https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
       },
@@ -1391,50 +1435,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Nightmares",
-        "url": "https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG"
-      },
-      "artists": [
-        {
-          "name": "Alex Spencer",
-          "url": "https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y"
-        }
-      ],
-      "duration_ms": 136875,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "DESI TRILL (Remix)",
-        "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
-      },
-      "artists": [
-        {
-          "name": "DJ LYAN",
-          "url": "https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B"
-        },
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        },
-        {
-          "name": "Malkit Singh",
-          "url": "https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X"
-        },
-        {
-          "name": "YUNG SAMMY",
-          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "DESI TRILL (Remix)",
-      "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Richer",
         "url": "https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 177481,
       "name": "Richer",
       "url": "https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1485,6 +1469,22 @@
       "url": "https://open.spotify.com/track/10vuEcEgX3uG7NNf4rAp7k"
     },
     {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+    },
+    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "NASSY",
@@ -1503,6 +1503,46 @@
       "duration_ms": 142767,
       "name": "NASSY",
       "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Wikidest DJ",
+        "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "duration_ms": 176205,
+      "name": "Wikidest DJ",
+      "url": "https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0"
     },
     {
       "added_at": "2024-09-16 18:33:06",
@@ -1527,26 +1567,6 @@
       "duration_ms": 121846,
       "name": "On Job",
       "url": "https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1583,26 +1603,6 @@
       "duration_ms": 157500,
       "name": "Soul",
       "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Wikidest DJ",
-        "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
-        }
-      ],
-      "duration_ms": 176205,
-      "name": "Wikidest DJ",
-      "url": "https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "The Flower That Knew",
+        "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Oh Hi Ali",
+          "url": "https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ"
+        }
+      ],
+      "duration_ms": 157424,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "For Your Consideration",
         "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
       },
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "The Flower That Knew",
-        "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Oh Hi Ali",
-          "url": "https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ"
-        }
-      ],
-      "duration_ms": 157424,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "c u l8r",
         "url": "https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB"
       },
@@ -1811,26 +1811,6 @@
       "duration_ms": 181000,
       "name": "makes me (wanna move)",
       "url": "https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Berghain (feat. Barney Bones)",
-        "url": "https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Berghain (feat. Barney Bones)",
-      "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1855,6 +1835,26 @@
       "duration_ms": 202465,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Berghain (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Berghain (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
     },
     {
       "added_at": "2024-09-16 11:00:00",

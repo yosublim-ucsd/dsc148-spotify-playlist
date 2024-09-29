@@ -4209,24 +4209,6 @@
     },
     {
       "album": {
-        "name": "FormalTitle (Live)",
-        "url": "https://open.spotify.com/album/3w8SG80nHpHYgEgbvEAfZG"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "date_added": "2024-09-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 339426,
-      "name": "FormalTitle - Live",
-      "url": "https://open.spotify.com/track/13R1Yn3u8vC3GUmQ5AQXtN"
-    },
-    {
-      "album": {
         "name": "SURVEY: Part 1",
         "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
       },
@@ -11221,7 +11203,7 @@
     },
     {
       "album": {
-        "name": "Deeper Waters - Extended Edition",
+        "name": "Deeper Waters (Extended Edition)",
         "url": "https://open.spotify.com/album/49c23AAJwHP8ApCbl1gnnd"
       },
       "artists": [
@@ -11370,6 +11352,24 @@
       "duration_ms": 144294,
       "name": "Nothing Into Something",
       "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+    },
+    {
+      "album": {
+        "name": "Looking Glass (Live)",
+        "url": "https://open.spotify.com/album/3w8SG80nHpHYgEgbvEAfZG"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339426,
+      "name": "Nothing Is - Live",
+      "url": "https://open.spotify.com/track/13R1Yn3u8vC3GUmQ5AQXtN"
     },
     {
       "album": {
@@ -11562,10 +11562,6 @@
         {
           "name": "Jimi Cravity",
           "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        },
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
         }
       ],
       "date_added": "2024-09-27",

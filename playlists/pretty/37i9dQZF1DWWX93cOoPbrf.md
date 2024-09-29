@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,292 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,420 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 55 | [Martes 13](https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Martes 13](https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq) | 2:43 |
 | 56 | [El De Las Plumas \- En Vivo](https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El De Las Plumas \(En Vivo\)](https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k) | 2:59 |
 | 57 | [El Chino](https://open.spotify.com/track/4yBK8JxOLTnTk9skiPp3ED) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Chino](https://open.spotify.com/album/4CPtp2hMKUYg02JmRXcoFr) | 3:00 |
-| 58 | [El Pescado \- En Vivo](https://open.spotify.com/track/2cowyusXnchoRZcouWtVav) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI) | [Explosión de Corridos \- En Vivo](https://open.spotify.com/album/29NI8bKrtSNDgqoPF3Qipr) | 2:38 |
+| 58 | [El Pescado \- En Vivo](https://open.spotify.com/track/2cowyusXnchoRZcouWtVav) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI) | [Explosión de Corridos \(En Vivo\)](https://open.spotify.com/album/29NI8bKrtSNDgqoPF3Qipr) | 2:38 |
 | 59 | [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 |
 | 60 | [Amigos Mis Huevos](https://open.spotify.com/track/6cVfc0pJRwGEilrqDICBSl) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Amigos Mis Huevos](https://open.spotify.com/album/5LcF3rp3yKDww4tQ2zuMdW) | 2:33 |
 | 61 | [Era El Cholo](https://open.spotify.com/track/1abLmCTw9SOYU1VTtuC3H4) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Era El Cholo](https://open.spotify.com/album/7uuKdmO7ElpH6RQzGzJxJU) | 2:47 |

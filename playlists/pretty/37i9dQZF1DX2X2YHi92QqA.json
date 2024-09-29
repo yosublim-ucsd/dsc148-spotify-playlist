@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31725,
+  "num_followers": 31744,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0421\u044e\u0434\u0438",
-        "url": "https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP"
-      },
-      "artists": [
-        {
-          "name": "MAYOROVA",
-          "url": "https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u0421\u044e\u0434\u0438",
-      "url": "https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
         "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 185409,
       "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
       "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0421\u044e\u0434\u0438",
+        "url": "https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP"
+      },
+      "artists": [
+        {
+          "name": "MAYOROVA",
+          "url": "https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u0421\u044e\u0434\u0438",
+      "url": "https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
-      },
-      "artists": [
-        {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
         "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 183529,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "HONEY & \u041c\u0415\u0414",
-        "url": "https://open.spotify.com/album/398VNqUmS1IQ6g3fELHZRZ"
-      },
-      "artists": [
-        {
-          "name": "Tina Karol",
-          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
-        }
-      ],
-      "duration_ms": 204808,
-      "name": "\u041c\u0415\u0414",
-      "url": "https://open.spotify.com/track/5fsrqzuRfY4Or0bI1eqpVc"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041d\u0435 \u0437\u0430\u0441\u043d\u0443",
         "url": "https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 147359,
       "name": "\u041d\u0435 \u0437\u0430\u0441\u043d\u0443",
       "url": "https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "HONEY & \u041c\u0415\u0414",
+        "url": "https://open.spotify.com/album/398VNqUmS1IQ6g3fELHZRZ"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "duration_ms": 204808,
+      "name": "\u041c\u0415\u0414",
+      "url": "https://open.spotify.com/track/5fsrqzuRfY4Or0bI1eqpVc"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041a\u0440\u043e\u043a",
-        "url": "https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7"
-      },
-      "artists": [
-        {
-          "name": "Cape Cod",
-          "url": "https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB"
-        },
-        {
-          "name": "Jamala",
-          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
-        }
-      ],
-      "duration_ms": 240245,
-      "name": "\u041a\u0440\u043e\u043a",
-      "url": "https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u0423 \u0422\u041e\u0411\u0406",
         "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 150000,
       "name": "\u0423 \u0422\u041e\u0411\u0406",
       "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041a\u0440\u043e\u043a",
+        "url": "https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7"
+      },
+      "artists": [
+        {
+          "name": "Cape Cod",
+          "url": "https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB"
+        },
+        {
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "\u041a\u0440\u043e\u043a",
+      "url": "https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
-        "url": "https://open.spotify.com/album/0gC71CH1y6T9aC9tgPK5gD"
-      },
-      "artists": [
-        {
-          "name": "NICHKA",
-          "url": "https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
-      "url": "https://open.spotify.com/track/25xuio7k2QCnvFiiEObfIR"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u0411\u043e\u0441\u0456",
         "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 144000,
       "name": "\u0411\u043e\u0441\u0456",
       "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
+        "url": "https://open.spotify.com/album/0gC71CH1y6T9aC9tgPK5gD"
+      },
+      "artists": [
+        {
+          "name": "NICHKA",
+          "url": "https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
+      "url": "https://open.spotify.com/track/25xuio7k2QCnvFiiEObfIR"
     },
     {
       "added_at": "2024-09-01 22:04:49",

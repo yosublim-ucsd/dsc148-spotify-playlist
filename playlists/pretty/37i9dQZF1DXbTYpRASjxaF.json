@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Abbot",
-  "num_followers": 131598,
+  "num_followers": 131593,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,34 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "J\u00f3ias do Bairro",
+        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "duration_ms": 171285,
+      "name": "J\u00f3ias do Bairro",
+      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -495,34 +523,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "J\u00f3ias do Bairro",
-        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "J\u00f3ias do Bairro",
-      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -743,30 +743,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "#OCARAMAU",
-        "url": "https://open.spotify.com/album/6MQzQ0autKksIvGr1H9tE7"
-      },
-      "artists": [
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "JayPluggz",
-          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Olhos em Mim",
-      "url": "https://open.spotify.com/track/678w7sCObg2CTMKBFUumQ5"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 151525,
       "name": "Destaque",
       "url": "https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "#OCARAMAU",
+        "url": "https://open.spotify.com/album/6MQzQ0autKksIvGr1H9tE7"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Olhos em Mim",
+      "url": "https://open.spotify.com/track/678w7sCObg2CTMKBFUumQ5"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1007,6 +1007,34 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/22PoPcuY1njLQFo1PnfhT6"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "duration_ms": 162964,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/2lWUEgcKASO2jlL8Fq2JJj"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -1131,6 +1159,30 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Pr\u00f3ximo Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Hustle",
+          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LSG",
+          "url": "https://open.spotify.com/artist/6o6NZhTeBLatr9cW2CoKoX"
+        }
+      ],
+      "duration_ms": 192379,
+      "name": "Pr\u00f3ximo Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Remessa Estrangeira (Remix)",
         "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
       },
@@ -1147,6 +1199,58 @@
       "duration_ms": 117125,
       "name": "Remessa Estrangeira - Remix",
       "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Lutas & Gl\u00f3rias",
+        "url": "https://open.spotify.com/album/485P61YLgB9U6EGXRoU8h1"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "kvns",
+          "url": "https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Signo",
+      "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "duration_ms": 121540,
+      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
+      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1227,30 +1331,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Real Bege",
-          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
-        }
-      ],
-      "duration_ms": 121540,
-      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
-      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Amor de folclore",
         "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
       },
@@ -1263,86 +1343,6 @@
       "duration_ms": 150897,
       "name": "Amor de folclore",
       "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "KAWASAKI",
-        "url": "https://open.spotify.com/album/22PoPcuY1njLQFo1PnfhT6"
-      },
-      "artists": [
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
-        },
-        {
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
-        }
-      ],
-      "duration_ms": 162964,
-      "name": "KAWASAKI",
-      "url": "https://open.spotify.com/track/2lWUEgcKASO2jlL8Fq2JJj"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Pr\u00f3ximo Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1bio Hustle",
-          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "LSG",
-          "url": "https://open.spotify.com/artist/6o6NZhTeBLatr9cW2CoKoX"
-        }
-      ],
-      "duration_ms": 192379,
-      "name": "Pr\u00f3ximo Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Lutas & Gl\u00f3rias",
-        "url": "https://open.spotify.com/album/485P61YLgB9U6EGXRoU8h1"
-      },
-      "artists": [
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Pior Vers\u00e3o de Mim",
-          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
-        },
-        {
-          "name": "kvns",
-          "url": "https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Signo",
-      "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

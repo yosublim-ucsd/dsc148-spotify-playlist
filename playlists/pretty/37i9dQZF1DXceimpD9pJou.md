@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Kike Pavón</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,249 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,258 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 33 | [Conexión](https://open.spotify.com/track/2QhK7TSJ5hwqH16G573g08) | [Seph Music](https://open.spotify.com/artist/39rf54k46sbCsxqiIvkW5x) | [Conexión](https://open.spotify.com/album/5iNZHvlozWQ0ag9u5iCsbB) | 2:49 |
 | 34 | [Luna Sin Sol](https://open.spotify.com/track/5PhIjQ6PmKLubGQ065x637) | [A'san The Producer](https://open.spotify.com/artist/2BvX9rT7OREHT6vsrL6slt), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Luna Sin Sol](https://open.spotify.com/album/36LkABCNQUbfOMIwICBjCg) | 2:55 |
 | 35 | [Ayúdame en Esto \- Reimagined](https://open.spotify.com/track/1NVBgAx2azQ7wJXY4aI1hL) | [MelGod](https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Ayúdame en Esto \(Reimagined\)](https://open.spotify.com/album/11WLynUXcUxcCHA34TJ3en) | 3:50 |
-| 36 | [Vamos \- En Vivo](https://open.spotify.com/track/6xYZTyp7eR0bVS59qC7Sci) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3), [Shirley H](https://open.spotify.com/artist/4FhCP4VyiJjmYSy0SqW7aM) | [Vamos \(En Vivo\)](https://open.spotify.com/album/2JNqgvnSb9iPjL6WDYTNsM) | 4:42 |
+| 36 | [Vamos \- En Vivo](https://open.spotify.com/track/6xYZTyp7eR0bVS59qC7Sci) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3), [Shirley H](https://open.spotify.com/artist/4FhCP4VyiJjmYSy0SqW7aM) | [Vamos \(En Vivo\)](https://open.spotify.com/album/2JNqgvnSb9iPjL6WDYTNsM) | 4:41 |
 | 37 | [One Faith \- Uma Só Fé \- Una Sola Fe](https://open.spotify.com/track/4XfFVnoI2lJMuTu17RRxoj) | [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf), [John Finch](https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY), [Karla Starnino](https://open.spotify.com/artist/4H1S25mipwZYaLl31E0ioV), [Hermana Martha Isabel](https://open.spotify.com/artist/3AIWuJHEFTaTGCOw0iSkDR) | [One Faith \- Uma Só Fé \- Una Sola Fe](https://open.spotify.com/album/5ysfGqXuasANqLpA0PjEkp) | 4:21 |
 | 38 | [Jesús \- Live Set](https://open.spotify.com/track/3gccLoaXLzOaqZ9O2Vuney) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Jesús \- Live Set](https://open.spotify.com/album/62TH3sM07DI0OqFnrTJebl) | 5:10 |
 | 39 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 |

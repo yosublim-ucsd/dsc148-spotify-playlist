@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-242 songs - 14 hr 58 min
+243 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dare To Disco](https://open.spotify.com/track/44GB23V3ECztmolS4NjdW0) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC) | [Dare to Disco](https://open.spotify.com/album/7rr6E2ONMEjkfvcRlglCCw) | 4:15 | 2022-03-25 | 2022-04-14 |
 | [Dark Minnie](https://open.spotify.com/track/2BXcsxPfh1TqEsvp6ZjHzu) | [Sarah Chernoff](https://open.spotify.com/artist/63uxQhWEuj7Zuau9j5XKIB) | [Dark Minnie](https://open.spotify.com/album/0sRAZoAqm3FnJSJqa9HU7r) | 4:26 | 2022-03-04 | 2022-07-20 |
 | [Date](https://open.spotify.com/track/07iZRF1smFMfjNDZeHZoUO) | [Iago Vital](https://open.spotify.com/artist/2Z52CoBW8tWUXX2nCOwB33) | [Date](https://open.spotify.com/album/6BQNcFIFbOHKgVCMY93ZkO) | 4:11 | 2022-02-18 | 2022-07-29 |
+| [desapega](https://open.spotify.com/track/7IsDSVPpbW6UNe3CycVeZA) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:27 | 2024-09-13 |  |
 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 | 2022-06-24 | 2022-07-28 |
 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 | 2022-09-21 | 2024-04-19 |
 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 | 2022-03-04 | 2022-11-17 |
@@ -244,7 +245,7 @@
 | [When We Break](https://open.spotify.com/track/0qiz1TZkuI3NEgKDmxCMDp) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/64Luw3nJLGZB7TNAmHivj3) | 4:44 | 2022-06-24 | 2022-11-13 |
 | [When We Break](https://open.spotify.com/track/3T6zu9vlpyVh8j6VMcuExZ) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/0NzFxJSepuEN2h3pWGqatq) | 4:44 | 2022-03-25 | 2022-04-20 |
 | [Who You Are \- Part 2](https://open.spotify.com/track/0DstRCjGNNG3vPkZMJEmX2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are \(Part 2\)](https://open.spotify.com/album/4hgKenc090ZE2VoxXEIWbF) | 3:47 | 2022-03-25 | 2022-06-16 |
-| [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 | 2022-03-25 |  |
+| [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 | 2022-03-25 | 2024-09-29 |
 | [Woman of the Ghetto \- Akshin Alizadeh Remix](https://open.spotify.com/track/0yomhqoETEC3360pML8nEx) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Woman of the Ghetto](https://open.spotify.com/album/7GuS63e6BG71ZBhQRWhh5f) | 5:01 | 2022-03-25 | 2022-05-26 |
 | [Woman Through the Wall](https://open.spotify.com/track/71AvGorDmUQj2GSMcjJgx4) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Woman Through the Wall](https://open.spotify.com/album/1jA7FVhSpQxtBUSR7Wrodq) | 4:00 | 2022-03-25 | 2022-04-18 |
 | [Wonderful](https://open.spotify.com/track/78EBZOZppjic7aild1Bc8i) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [So Damn Happy](https://open.spotify.com/album/1KNxmTzMuRQOH8raaKxPLa) | 4:04 | 2022-03-25 | 2022-07-29 |

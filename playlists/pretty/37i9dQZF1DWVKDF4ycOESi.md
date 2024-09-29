@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Damiano David in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,898 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,944 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 54 | [Tutto nero](https://open.spotify.com/track/0bhinJ1XUgkZ8PCwQXRBIV) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Blu](https://open.spotify.com/album/2Q6eaneFdjej7ZwXsrPbqE) | 2:40 |
 | 55 | [won't cry](https://open.spotify.com/track/73wMV0p5r0yaPJvBOoTmHH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [won't cry](https://open.spotify.com/album/65uJLSRQEKhV8SoVovQtdr) | 3:40 |
 | 56 | [TOP GYAL](https://open.spotify.com/track/5DKYhoSd9ORUFLIlc7yi04) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Benrucito](https://open.spotify.com/artist/5vBDtof4eJRulrgOisBuqn) | [TOP GYAL](https://open.spotify.com/album/1mymmgR4MoWJ4pmTZKFEO5) | 2:45 |
-| 57 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 57 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 58 | [Wassup](https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Wassup](https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF) | 2:51 |
 | 59 | [In Your Hands](https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [In Your Hands](https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW) | 3:17 |
 | 60 | [Equilibrista](https://open.spotify.com/track/7ugXe2KFUEKrsqIHVhShCC) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Equilibrista](https://open.spotify.com/album/424j0Ox8F3MDoOv9HYV9uF) | 2:42 |

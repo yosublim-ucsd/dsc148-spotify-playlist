@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-489 songs - 1 day 4 hr 11 min
+490 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 | 2024-01-29 |  |
 | [Is This All](https://open.spotify.com/track/2JMWj3mh5mTA1ADOTiyRpS) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [C'est La "V"](https://open.spotify.com/album/3BaaelGfQBnFH8qUSArGRM) | 3:39 | 2024-01-29 |  |
 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 | 2024-01-29 |  |
+| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-28 |  |
 | [Journey \(From "Songland"\)](https://open.spotify.com/track/64Olex5ZO20XUe3gB7W8im) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Journey \(From "Songland"\)](https://open.spotify.com/album/30iuIpjKEdOjLT60KmCL78) | 2:25 | 2024-01-29 |  |
 | [Judgements \(From "Songland"\)](https://open.spotify.com/track/2RLKK69LfFac9PUPLUGu32) | [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Judgements \(From "Songland"\)](https://open.spotify.com/album/0FrkrDhyqUTQ0kFF0bCcIb) | 2:42 | 2024-01-29 |  |
 | [Karma](https://open.spotify.com/track/7ngsPEDII59kTJ7ged8iFq) | [NLT](https://open.spotify.com/artist/1UuGrU5FyRGANwVhOBoQWB) | [Karma](https://open.spotify.com/album/46qvtQZ4HJruB02lbzUGKc) | 3:26 | 2024-01-29 |  |
@@ -225,7 +226,7 @@
 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 | 2024-01-29 |  |
 | [Kids Again](https://open.spotify.com/track/1ABS9lKaZ1uXkXCqr9zFO7) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 3:27 | 2024-01-29 |  |
 | [Know My Name \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/6N4Qj2fqswh98kEqTwzNeT) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:58 | 2024-01-29 |  |
-| [Know My Name \- Bumper Version / From Pitch Perfect: Bumper In Berlin](https://open.spotify.com/track/4s9kHqynMGLRdoVWr9iRbN) | [Adam DeVine](https://open.spotify.com/artist/1YG75Ubum5o3D6TjRKGH8y) | [Pitch Perfect: Bumper In Berlin \- Music From The Peacock Original Series](https://open.spotify.com/album/67cDPOAeQ9bmq5U66sARYp) | 2:52 | 2024-01-29 |  |
+| [Know My Name \- Bumper Version / From Pitch Perfect: Bumper In Berlin](https://open.spotify.com/track/4s9kHqynMGLRdoVWr9iRbN) | [Adam DeVine](https://open.spotify.com/artist/1YG75Ubum5o3D6TjRKGH8y) | [Pitch Perfect: Bumper In Berlin \(Music From The Peacock Original Series\)](https://open.spotify.com/album/67cDPOAeQ9bmq5U66sARYp) | 2:52 | 2024-01-29 |  |
 | [L.A\. Story \(feat\. Mike Posner\)](https://open.spotify.com/track/3NxAxBnK66q0ZpIWeH9xlp) | [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [L.A\. Story \(feat\. Mike Posner\)](https://open.spotify.com/album/6aWkHMsNABzSsZzhoMj1cG) | 3:28 | 2024-01-29 |  |
 | [Labels](https://open.spotify.com/track/65kmIUkajl0F8hjsxmkyHN) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 2:59 | 2024-01-29 |  |
 | [Last Holiday](https://open.spotify.com/track/4yPFng4xWVdrP4xVxdK7wY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 3:16 | 2024-08-16 |  |

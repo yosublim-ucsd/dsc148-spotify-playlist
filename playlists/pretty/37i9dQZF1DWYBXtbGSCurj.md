@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Orochi, Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,176 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,174 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [BBL](https://open.spotify.com/track/6DsIkJERJY1IOS7LfM7jDK) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [BBL](https://open.spotify.com/album/6kI80piW4PlfpcpPFQEedW) | 3:43 |
 | 5 | [LOBO](https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [DiCastro](https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:08 |
 | 6 | [2024](https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [2024](https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl) | 2:40 |
-| 7 | [SALA VERMELHA 01](https://open.spotify.com/track/2j9o7TdpwxTNsbyEYOntRk) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA 01](https://open.spotify.com/album/1nP7W7vp078EEn6JCSiGgp) | 2:11 |
+| 7 | [\#SV 01 \- Major RD / Underground Freestyle](https://open.spotify.com/track/2j9o7TdpwxTNsbyEYOntRk) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [\#SV 01 \- Major RD / Underground Freestyle](https://open.spotify.com/album/1nP7W7vp078EEn6JCSiGgp) | 2:11 |
 | 8 | [Flexiona](https://open.spotify.com/track/6LQqRqFNQIOqjSEf8j7WpE) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Flexiona](https://open.spotify.com/album/6oMmrWgdIyoQ9oRBE9rtEf) | 2:57 |
 | 9 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
 | 10 | [Close](https://open.spotify.com/track/71wXnjv7wYYGb6utCAZ4PS) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0), [3 Um Só](https://open.spotify.com/artist/02ahhbTmx0wY2DvkqAMdRx) | [Close](https://open.spotify.com/album/6cBF0D54rlXzkUTHAWdTLs) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
 | 75 | [BB ATLETA](https://open.spotify.com/track/10A5iL0LUxbWr02ID6kYtu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY) | [BB ATLETA](https://open.spotify.com/album/6w7nsP45gbt3ihNGGLV5Ua) | 3:22 |
 
-Snapshot ID: `ZvYf7AAAAAB005NRMzvbT0yV+g7I/bup`
+Snapshot ID: `ZvYf7AAAAACI+LuG/zVJme9okgRCgCFu`

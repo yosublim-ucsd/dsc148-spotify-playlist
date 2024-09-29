@@ -9482,7 +9482,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 152508,
       "name": "Break Of Dawn",
       "url": "https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl"
@@ -54250,7 +54250,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 113962,
       "name": "Otters",
       "url": "https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw"
@@ -69767,6 +69767,28 @@
     },
     {
       "album": {
+        "name": "Strolling",
+        "url": "https://open.spotify.com/album/4wc8ncOeR7srC6EX9QlQDV"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Strolling",
+      "url": "https://open.spotify.com/track/6M5K2XS8Chefq5MvzCM8VM"
+    },
+    {
+      "album": {
         "name": "Study Babyyy",
         "url": "https://open.spotify.com/album/5uQUympwgyBRAEbvTqS8lz"
       },
@@ -80534,6 +80556,24 @@
       "duration_ms": 106687,
       "name": "Vitamin Sea",
       "url": "https://open.spotify.com/track/3P7RYWEmBu5wKE82bZe2am"
+    },
+    {
+      "album": {
+        "name": "Brazil in '78",
+        "url": "https://open.spotify.com/album/7bQitm5oVKssX3seh1IP6d"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135760,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/4YYfRXiWpGGz7VZIRQabXE"
     },
     {
       "album": {

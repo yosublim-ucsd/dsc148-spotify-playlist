@@ -1997,24 +1997,6 @@
     },
     {
       "album": {
-        "name": "Only we know\u2026",
-        "url": "https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd"
-      },
-      "artists": [
-        {
-          "name": "YOON GUN",
-          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
-        }
-      ],
-      "date_added": "2022-11-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207113,
-      "name": "Only we know\u2026",
-      "url": "https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha"
-    },
-    {
-      "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs"
       },
@@ -3196,6 +3178,24 @@
       "duration_ms": 192805,
       "name": "\uc465\uc2a4\ub7ec\uc6b4 \uace0\ubc31",
       "url": "https://open.spotify.com/track/3NupIPCFlmMnsgeByDIEBk"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac \ub458\ub9cc \uc544\ub294",
+        "url": "https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd"
+      },
+      "artists": [
+        {
+          "name": "YOON GUN",
+          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207113,
+      "name": "\uc6b0\ub9ac \ub458\ub9cc \uc544\ub294",
+      "url": "https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha"
     },
     {
       "album": {

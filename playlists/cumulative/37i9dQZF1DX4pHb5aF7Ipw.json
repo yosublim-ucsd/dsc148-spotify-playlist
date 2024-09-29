@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 185060,
       "name": "8-FIGGAAH! (feat. GD47)",
       "url": "https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 146400,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 143529,
       "name": "Barks",
       "url": "https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 221162,
       "name": "Code DY Daring Yankee",
       "url": "https://open.spotify.com/track/60eCvhAWSqkI29GP0K0rSc"
@@ -1055,6 +1055,46 @@
     },
     {
       "album": {
+        "name": "Don't Play",
+        "url": "https://open.spotify.com/album/4XqLW7oyfGMfwbOlaoZPyB"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163474,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5QOwPqJ4KF5SouXIS8lou0"
+    },
+    {
+      "album": {
+        "name": "Double R",
+        "url": "https://open.spotify.com/album/7nSXfG2RBjH7rN7BjTk9vB"
+      },
+      "artists": [
+        {
+          "name": "Mny Deep",
+          "url": "https://open.spotify.com/artist/3UdKotGfHi8C7k8xsRi4a4"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149929,
+      "name": "Double R",
+      "url": "https://open.spotify.com/track/0MF149ChYfSbmtXTUb45S2"
+    },
+    {
+      "album": {
         "name": "DOWNTOWN",
         "url": "https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD"
       },
@@ -1148,6 +1188,24 @@
       "duration_ms": 125223,
       "name": "Ethics",
       "url": "https://open.spotify.com/track/12E4jsyDeC5PcEumWw1JIc"
+    },
+    {
+      "album": {
+        "name": "F.D.P",
+        "url": "https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB"
+      },
+      "artists": [
+        {
+          "name": "Baghdadi Music",
+          "url": "https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174081,
+      "name": "F.D.P",
+      "url": "https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx"
     },
     {
       "album": {
@@ -1348,7 +1406,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 148606,
       "name": "GTR",
       "url": "https://open.spotify.com/track/7k9wEsozU3lFXO09FknVuF"
@@ -1553,6 +1611,32 @@
     },
     {
       "album": {
+        "name": "Hood Life",
+        "url": "https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        },
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197985,
+      "name": "Hood Life",
+      "url": "https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs"
+    },
+    {
+      "album": {
         "name": "Back To Skool",
         "url": "https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG"
       },
@@ -1688,6 +1772,28 @@
       "duration_ms": 192000,
       "name": "Iran",
       "url": "https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc"
+    },
+    {
+      "album": {
+        "name": "Jatt Da Jawab",
+        "url": "https://open.spotify.com/album/4KTQdY7Y2NLpyXXaznl7BR"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Mandy Gill",
+          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145009,
+      "name": "Jatt Da Jawab",
+      "url": "https://open.spotify.com/track/2iq3vezWvSJpW2Rz6DhK7t"
     },
     {
       "album": {
@@ -1827,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Ummer",
+        "url": "https://open.spotify.com/album/0uiNJpkJU9rbvaHBr24lUq"
+      },
+      "artists": [
+        {
+          "name": "Amar Sandhu",
+          "url": "https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118357,
+      "name": "Legendary Freestyle",
+      "url": "https://open.spotify.com/track/0AVNOaVtmev9Vgu5g7BgYR"
+    },
+    {
+      "album": {
         "name": "MONEY OVER MATTERS",
         "url": "https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp"
       },
@@ -1945,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Mac 10",
+        "url": "https://open.spotify.com/album/46I5K3RT1uGm8RZWlNoXpX"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166463,
+      "name": "Mac 10",
+      "url": "https://open.spotify.com/track/0Vgr2dVE3TNkCX9ClRmRNS"
+    },
+    {
+      "album": {
         "name": "Crazily Madly Deeply",
         "url": "https://open.spotify.com/album/2HinCCd58BSYDzim12EEtg"
       },
@@ -1974,7 +2116,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 184875,
       "name": "Majbur Mazdur (From Khalbali Records)",
       "url": "https://open.spotify.com/track/0ITWwhpTnKd9LrRb06mP8a"
@@ -2238,7 +2380,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 150927,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0IU3udts4NQ1C4KHRfv6sv"
@@ -2300,7 +2442,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 177397,
       "name": "Nawa Daur",
       "url": "https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf"
@@ -3000,6 +3142,24 @@
       "duration_ms": 175620,
       "name": "Shehzaada",
       "url": "https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom"
+    },
+    {
+      "album": {
+        "name": "Careless Way",
+        "url": "https://open.spotify.com/album/3mVvd2p4FsLvLRzbIeKhCR"
+      },
+      "artists": [
+        {
+          "name": "Gravv T Singh",
+          "url": "https://open.spotify.com/artist/3ualTt2kcJf7UIgazxVs7z"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148608,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/7mLPusRfKw8d6RysHIgBsP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Soft Launch
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,521 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,560 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 5 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 6 | [Say It Back](https://open.spotify.com/track/4We2NNxELAVtUtRgt2QwGs) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Say It Back](https://open.spotify.com/album/1D9dNHVXLukiiKgPeUPDCY) | 3:01 |
 | 7 | [My Starlight](https://open.spotify.com/track/6Pwtv5x0C5G9hrPSnqgsJT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [My Starlight](https://open.spotify.com/album/3UvBSV3vox1WGLX9HsHn4p) | 3:25 |
-| 8 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have in Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 |
+| 8 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 |
 | 9 | [Armchair View](https://open.spotify.com/track/3mI38OcOsSdffZFozIQPvZ) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Stream Of Life](https://open.spotify.com/album/5reLgviEGxA4e7fDAElcZf) | 3:37 |
 | 10 | [High Performance Kids](https://open.spotify.com/track/7iS1KV2uTO87O1UeWZfnyS) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [High Performance Kids](https://open.spotify.com/album/3Oj3uqAoBRItvHviT1YVpl) | 3:13 |
 | 11 | [It Wasn't Meant To Be](https://open.spotify.com/track/6z55Txeh9rjTA2oT5obKT6) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [It Wasn't Meant To Be](https://open.spotify.com/album/3ZVDOWJNhX13xZ5yRBFfTE) | 3:20 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 13 | [Twenty Oh Nineteen](https://open.spotify.com/track/6XTgo9mJIISs07CQlGVtnW) | [DRAMAS](https://open.spotify.com/artist/7wwQRdYt302AuynW8ioIgS) | [Twenty Oh Nineteen](https://open.spotify.com/album/1tKgAXbTdQK5np2UXoQZxh) | 3:37 |
 | 14 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 |
 | 15 | [Accelerate \(Official Soundtrack for STURMFLIRREN by Yasmin Shakarami\)](https://open.spotify.com/track/1l7rkmBYJyyy6uEWhTxcWg) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [Accelerate \(Official Soundtrack for STURMFLIRREN by Yasmin Shakarami\)](https://open.spotify.com/album/6oitBwNhbmBJikUD6uKuGz) | 2:41 |
-| 16 | [Deadbeat Blues \(feat\. Bel\)](https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [Bel](https://open.spotify.com/artist/0F5UHQlF4zGjLv3XKbfkWS) | [Deadbeat Blues](https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk) | 2:34 |
+| 16 | [Deadbeat Blues \(feat\. BEL\)](https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Deadbeat Blues](https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk) | 2:34 |
 | 17 | [boeing intermission](https://open.spotify.com/track/1ddC9JsOYt7TcrRvpYS5NQ) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [boeing intermission](https://open.spotify.com/album/4NqpepDiEaqhCKzHrD6Tng) | 4:04 |
 | 18 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
 | 19 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 |

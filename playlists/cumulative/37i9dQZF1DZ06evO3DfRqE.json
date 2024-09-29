@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Need Your Love So Bad",
+        "url": "https://open.spotify.com/album/40CPeGBDe1tTvwUFOLFAfo"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359613,
+      "name": "Need Your Love So Bad",
+      "url": "https://open.spotify.com/track/1uqxx16TcNhCdVIlDsRBVE"
+    },
+    {
+      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },

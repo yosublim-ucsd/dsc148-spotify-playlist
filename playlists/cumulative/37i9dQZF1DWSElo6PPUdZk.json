@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 197125,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj"
@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "Geda",
+        "url": "https://open.spotify.com/album/1h6E275XbvGigjw4Kwdo9w"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "Music Empire",
+          "url": "https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt"
+        },
+        {
+          "name": "Love Jeet Singh Bhullar",
+          "url": "https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139235,
+      "name": "Geda",
+      "url": "https://open.spotify.com/track/7oxjZxQdyDhKpINT4Qs14h"
+    },
+    {
+      "album": {
         "name": "Mahi Da Viyah",
         "url": "https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR"
       },
@@ -610,6 +636,24 @@
       "duration_ms": 271058,
       "name": "Ghori",
       "url": "https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82"
+    },
+    {
+      "album": {
+        "name": "Gidha Kiwe Payida 2.0",
+        "url": "https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL"
+      },
+      "artists": [
+        {
+          "name": "Ammie Papra",
+          "url": "https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212165,
+      "name": "Gidha Kiwe Payida 2.0",
+      "url": "https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf"
     },
     {
       "album": {
@@ -1018,7 +1062,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 203636,
       "name": "Khereyan de naal (Lofi)",
       "url": "https://open.spotify.com/track/2mIRmirJUzL2awfoQcDAqT"
@@ -1084,10 +1128,36 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 187764,
       "name": "Kinna Pyar Karan",
       "url": "https://open.spotify.com/track/5k1zCA31FEQ62FrnV9RHIW"
+    },
+    {
+      "album": {
+        "name": "Koka",
+        "url": "https://open.spotify.com/album/5Qn9dQPkdB9bf1fXci7ERs"
+      },
+      "artists": [
+        {
+          "name": "Sarika Gill",
+          "url": "https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc"
+        },
+        {
+          "name": "Flame Music",
+          "url": "https://open.spotify.com/artist/685liAZg6uWsPa8Fgqx6Aa"
+        },
+        {
+          "name": "Raana",
+          "url": "https://open.spotify.com/artist/7w7LFAUtY9IXgELoHjeCqG"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226201,
+      "name": "Koka",
+      "url": "https://open.spotify.com/track/5icw6LkuZbIJlYE6P4yALG"
     },
     {
       "album": {
@@ -1527,6 +1597,36 @@
     },
     {
       "album": {
+        "name": "Nattiyaan",
+        "url": "https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w"
+      },
+      "artists": [
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Kavvy Riyaaz",
+          "url": "https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210687,
+      "name": "Nattiyaan",
+      "url": "https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16"
+    },
+    {
+      "album": {
         "name": "No Bullshit",
         "url": "https://open.spotify.com/album/1FjzgqFWa03yqQ46NKOeSS"
       },
@@ -1798,7 +1898,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 160980,
       "name": "Saadi Yaad",
       "url": "https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt"

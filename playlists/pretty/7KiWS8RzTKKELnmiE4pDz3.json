@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc7jW95Y31le1JOZyOJimnNeI/mRR1",
+  "snapshot_id": "AAAc8N6ZqnMmYTbXRm6awQXkj1h/XJOY",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3395,6 +3395,38 @@
       "duration_ms": 225253,
       "name": "Salute",
       "url": "https://open.spotify.com/track/1tjpoAROSHmr9QLb7Ibqoq"
+    },
+    {
+      "added_at": "2024-09-28 23:03:54",
+      "album": {
+        "name": "AI YoungBoy 2",
+        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 181995,
+      "name": "Head Blown",
+      "url": "https://open.spotify.com/track/0qmWrPu7fiZSXvWfCZxcKl"
+    },
+    {
+      "added_at": "2024-09-28 23:03:55",
+      "album": {
+        "name": "AI YoungBoy 2",
+        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 181995,
+      "name": "Head Blown",
+      "url": "https://open.spotify.com/track/0qmWrPu7fiZSXvWfCZxcKl"
     }
   ],
   "unique_name": "main ",

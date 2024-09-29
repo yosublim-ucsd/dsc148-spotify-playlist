@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Levity
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,130 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,205 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 90 | [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 |
 | 91 | [Danger \- REAPER Remix](https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Danger \(REAPER Remix\)](https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2) | 3:07 |
 | 92 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
-| 93 | [Touch Me](https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD) | [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Touch Me](https://open.spotify.com/album/0Kj2ENnaV93dWUfW8qU4oK) | 2:45 |
-| 94 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
-| 95 | [Better Off](https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Better Off](https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY) | 2:56 |
+| 93 | [Better Off](https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Better Off](https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY) | 2:56 |
+| 94 | [Touch Me](https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD) | [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Touch Me](https://open.spotify.com/album/0Kj2ENnaV93dWUfW8qU4oK) | 2:45 |
+| 95 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
 | 96 | [Young Majestic](https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Young Majestic](https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq) | 2:27 |
 | 97 | [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 |
 | 98 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 |
 | 99 | [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 |
-| 100 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
+| 100 | [On Forever](https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [On Forever](https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL) | 3:29 |
 
 Snapshot ID: `ZvYtwAAAAACYvK7bfgQrh/pr7Ze/PFhj`

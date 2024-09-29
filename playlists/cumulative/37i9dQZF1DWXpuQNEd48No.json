@@ -4380,7 +4380,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
@@ -4420,6 +4420,24 @@
       "duration_ms": 150688,
       "name": "Papi Purane",
       "url": "https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz"
+    },
+    {
+      "album": {
+        "name": "Parna",
+        "url": "https://open.spotify.com/album/0sOmxfPzvlzyJeOERA6eGp"
+      },
+      "artists": [
+        {
+          "name": "Jodha Vishu",
+          "url": "https://open.spotify.com/artist/1PH6dOy7Zgx7emoCK2xDrE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118709,
+      "name": "Parna",
+      "url": "https://open.spotify.com/track/0ABZ4pe9n1TmbjU7bGJeFE"
     },
     {
       "album": {

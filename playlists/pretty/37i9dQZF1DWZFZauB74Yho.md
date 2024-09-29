@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,836 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,892 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 136 | [Keepers of the Flame](https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g) | [Lorraine Jordan & Carolina Road](https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw) | [Keepers of the Flame](https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w) | 2:55 |
 | 137 | [Traveling the Highway Home \(feat\. Margo Price\)](https://open.spotify.com/track/52iYgpuxqiL0s3Bh6nNkk4) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Traveling the Highway Home \(feat\. Margo Price\)](https://open.spotify.com/album/0T7i4x8bUEmANVUCmjfTz1) | 3:03 |
 | 138 | [Lonely Pine](https://open.spotify.com/track/0xWcydNeZM8SjGPZSGgaaC) | [The Po' Ramblin' Boys](https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o) | [Lonely Pine](https://open.spotify.com/album/2oZ6WaTNq7YxR4LPJFt2iq) | 2:55 |
-| 139 | [Do It All Again](https://open.spotify.com/track/5LwExaTO3MLphpD6SsFxFK) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Nash Hamilton](https://open.spotify.com/artist/3gjMRRFZxevWPIoFolErpP), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R), [Thomas Rowland](https://open.spotify.com/artist/4naDocJqN0cECeajJwWdu1), [Jon Notar](https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX) | [Do It All Again](https://open.spotify.com/album/32l7nnlj4kbgZWb6G6YGa5) | 3:30 |
+| 139 | [Do It All Again](https://open.spotify.com/track/5LwExaTO3MLphpD6SsFxFK) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Nash Hamilton](https://open.spotify.com/artist/3gjMRRFZxevWPIoFolErpP), [Cloverdale Family Band](https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC), [Thomas Rowland](https://open.spotify.com/artist/4naDocJqN0cECeajJwWdu1), [Jon Notar](https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Do It All Again](https://open.spotify.com/album/32l7nnlj4kbgZWb6G6YGa5) | 3:30 |
 | 140 | [Jericho](https://open.spotify.com/track/1W6z6wXtnt5BAqls5Sr2kG) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Jericho](https://open.spotify.com/album/6eWuSVCbW2xtKCoVwi8fmF) | 4:19 |
 | 141 | [In Montreal](https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Witch](https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC) | 3:33 |
 | 142 | [Bury Me Beneath the Willow](https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Bury Me Beneath the Willow](https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5) | 3:58 |

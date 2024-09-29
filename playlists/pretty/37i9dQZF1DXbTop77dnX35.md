@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Kizz Daniel and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,421 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,542 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 3 | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8) | [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L), [DJ Exit](https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u) | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl) | 5:39 |
 | 4 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
 | 5 | [No Games](https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [No Games](https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B) | 2:49 |
-| 6 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:18 |
+| 6 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 |
 | 7 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 8 | [Ready](https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Ready](https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb) | 2:48 |
 | 9 | [Jericho](https://open.spotify.com/track/7papu4e31nzof4krM4DEnr) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Jericho](https://open.spotify.com/album/0l4BFdcbPircI7ZguRkQYU) | 2:33 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 53 | [Diamonds](https://open.spotify.com/track/3ZdnGzYr0dbbIg5Qmmh4RG) | [Luca Damon](https://open.spotify.com/artist/2kCgetHSczLvg0guPqQ1mk), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Diamonds](https://open.spotify.com/album/6Ftvyt9ybVtPqENtDIB7uD) | 2:52 |
 | 54 | [Kings](https://open.spotify.com/track/2WWR1TRPB0fyu1VSy6msrw) | [Larey Ugee](https://open.spotify.com/artist/6vW8GFgT33m7UYUAHqyEaU), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Kings](https://open.spotify.com/album/5hXhzFKS6L86PLGNKtVoEf) | 2:46 |
 | 55 | [Melissa](https://open.spotify.com/track/5LGCv73ozVKi7MgSD87JAO) | [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Melissa](https://open.spotify.com/album/3MqKEvBvuQiOYpGjGZZIBc) | 2:51 |
-| 56 | [Loving You](https://open.spotify.com/track/1gMPMoF3utbyYVeZRAWJgZ) | [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc), [Yung6ix](https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt) | [Loving You](https://open.spotify.com/album/7o6jXvGV3fPulKKsBTfxSp) | 3:41 |
+| 56 | [Loving You](https://open.spotify.com/track/1gMPMoF3utbyYVeZRAWJgZ) | [NGwide](https://open.spotify.com/artist/6m4v2YRSRuGyGUhcHOitD3), [Yung6ix](https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [Loving You](https://open.spotify.com/album/7o6jXvGV3fPulKKsBTfxSp) | 3:41 |
 | 57 | [Surprise](https://open.spotify.com/track/4EV9osS1yUK7LUsp9v61jO) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Surprise](https://open.spotify.com/album/1lvyR32EQmPMOdOO08n4UL) | 1:55 |
 | 58 | [Give Up](https://open.spotify.com/track/4C6QLRs0T8UrJYUOa4eIiN) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Drela](https://open.spotify.com/artist/3ajvYzyRAl54iNmwsuQMHN) | [Give Up](https://open.spotify.com/album/5hAVCKclSxGTRfJLkdUmGz) | 2:38 |
 | 59 | [Display](https://open.spotify.com/track/5IvMrYNg1LN5vTnGTzE8jH) | [Yungskid](https://open.spotify.com/artist/65B7EAZCC0XSEkeREM1RXZ) | [Display](https://open.spotify.com/album/7vDssceutxs3RwNMcHuir5) | 2:39 |

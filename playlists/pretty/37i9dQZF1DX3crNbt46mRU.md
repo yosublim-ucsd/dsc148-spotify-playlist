@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,892 likes - 108 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,905 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Grüne Tränen](https://open.spotify.com/track/3UBE3W2wps1EvXKxvxebk9) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Grüne Tränen](https://open.spotify.com/album/0pUJR32kYyJlHkzwdR1fZ2) | 2:38 |
 | 82 | [TOD](https://open.spotify.com/track/0YfaLiN9qdt6CLbG9jM0Jo) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS) | [TOD](https://open.spotify.com/album/2zKZgVmVBGOD2ueYLzoAqK) | 2:47 |
 | 83 | [Keep this Flame](https://open.spotify.com/track/4IRehQbSrdcZ2j0C043NQD) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [Keep this Flame](https://open.spotify.com/album/1zwz3Qdi6HHBfMFFfMULbP) | 2:42 |
-| 84 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 84 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 85 | [Envy You](https://open.spotify.com/track/2EqilHSWpV8vXoSXYTkMUD) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Envy You](https://open.spotify.com/album/56GrQE9986O5T67ZyNHsP2) | 2:35 |
-| 86 | [HellSehen \(feat\. Mia.\)](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
+| 86 | [HellSehen](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
 | 87 | [NIE ALLEIN](https://open.spotify.com/track/2P1pXche2udswgEoDwPxPJ) | [WILSN](https://open.spotify.com/artist/6QhFA7xLl2ZZeo02Xrc4Hr) | [NIE ALLEIN](https://open.spotify.com/album/0XjtqF2oTD65LEKdXSqdXz) | 2:06 |
 | 88 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 89 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |

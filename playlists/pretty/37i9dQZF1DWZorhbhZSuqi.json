@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f ",
-  "num_followers": 16336,
+  "num_followers": 16344,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Songs of Origin",
+        "url": "https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "duration_ms": 124250,
+      "name": "My farewells to the fields",
+      "url": "https://open.spotify.com/track/5B0LlNrqXQqnafdrvfJHji"
+    },
+    {
       "added_at": "2024-07-17 19:11:11",
       "album": {
         "name": "Laurel Hell",
@@ -811,26 +827,6 @@
       "duration_ms": 398851,
       "name": "Sodus",
       "url": "https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP"
-    },
-    {
-      "added_at": "2024-07-17 19:11:11",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        },
-        {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
     }
   ],
   "unique_name": "Faerie Core",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111586,
+      "name": "(Lost Another) Piece of My World",
+      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
+    },
+    {
+      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 113120,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1r1MOC7jMhvTua0TV8FpgO"

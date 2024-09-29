@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,630 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,642 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [What You Do \(Hottest By Far\)](https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem) | [The Fives](https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS) | [What You Do \(Hottest By Far\)](https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK) | 4:45 |
-| 32 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
+| 32 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 33 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
-| 34 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
+| 34 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
 | 35 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
 | 36 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
 | 37 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 55 | [Badboii](https://open.spotify.com/track/77DHkBg5doxOWTA6M8javv) | [Doctor Nick](https://open.spotify.com/artist/5IJtTZ2DdjCHpoSQsTxWv8) | [Badboii](https://open.spotify.com/album/53d753mCGaTNTYlcotiQin) | 4:56 |
 | 56 | [Razzclart](https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Razzler Man](https://open.spotify.com/artist/67zKupu2re2sdiPMz5HtOu) | [Razzclart](https://open.spotify.com/album/7pb4GNvMnFSZiop8nebPqo) | 2:54 |
 | 57 | [Open Source](https://open.spotify.com/track/1QDQm9g3hVTfWeLdolhrO6) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Computer Games the Unreleased Files Expansion Pack 0,4](https://open.spotify.com/album/4MO8iMa3iNIhUfbn17hYGS) | 7:01 |
-| 58 | [Goo](https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Kwam](https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk) | [Goo](https://open.spotify.com/album/1qyofi0544PbioP27dqY34) | 4:08 |
-| 59 | [Bombtrack \(Roska Remix\)](https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe), [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Bombtrack \(Roska Remix\)](https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C) | 4:28 |
+| 58 | [Bombtrack \(Roska Remix\)](https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe), [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Bombtrack \(Roska Remix\)](https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C) | 4:28 |
+| 59 | [Goo](https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Kwam](https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk) | [Goo](https://open.spotify.com/album/1qyofi0544PbioP27dqY34) | 4:08 |
 | 60 | [Fuller](https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW) | [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Fuller / Hurricane Riddim](https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo) | 4:45 |
 
 Snapshot ID: `ZplXmQAAAADTiklFCINPFFE6Z3FX9xcI`

@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
+        "url": "https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL"
+      },
+      "artists": [
+        {
+          "name": "Kochevet Al",
+          "url": "https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203700,
+      "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
+      "url": "https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d8\u05d5\u05d1 \u05d4\u05e8\u05e2 \u05d5\u05e2\u05d5\u05d3\u05d9\u05d4",
         "url": "https://open.spotify.com/album/5kqDGzLWmnFuFoYkENRyKL"
       },

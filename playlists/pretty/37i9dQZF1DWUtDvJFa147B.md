@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,511 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,518 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 71 | [봄이 오면 \- Live Version](https://open.spotify.com/track/4lvfbmemVowRlY3qh05ro5) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live In Lisbon](https://open.spotify.com/album/4IkO7DhBbGMdIVELlSSMFl) | 3:50 |
 | 72 | [위로 \- Live Version](https://open.spotify.com/track/3HxCucOrK9HBjwDNbF5xi6) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live In Lisbon](https://open.spotify.com/album/4IkO7DhBbGMdIVELlSSMFl) | 3:39 |
 | 73 | [스물다섯, 스물하나 \- Live Version](https://open.spotify.com/track/0S0n39V04ulJVZJlWfVGNt) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live In Lisbon](https://open.spotify.com/album/4IkO7DhBbGMdIVELlSSMFl) | 4:34 |
-| 74 | [Walking to you \- Live](https://open.spotify.com/track/4R52nzmM4tDeaQHi5QP2so) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Begin Again2 YOONGUN Special Edition](https://open.spotify.com/album/3XgbvxZvrlfaLAnKOMP3QT) | 3:54 |
+| 74 | [Walking To You \- Live](https://open.spotify.com/track/4R52nzmM4tDeaQHi5QP2so) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Begin Again2 YOONGUN Special Edition](https://open.spotify.com/album/3XgbvxZvrlfaLAnKOMP3QT) | 3:54 |
 | 75 | [Rainy Apgujeong \- Live](https://open.spotify.com/track/1pWDUPd7KLcMNkaki4ccet) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Begin Again2 YOONGUN Special Edition](https://open.spotify.com/album/3XgbvxZvrlfaLAnKOMP3QT) | 2:04 |
 | 76 | [Gravity](https://open.spotify.com/track/3UsCdnYXrLNqoGhAiBf39M) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Roy Kim Live in Begin Again 2](https://open.spotify.com/album/3G2sZtxuU89eVp2npTP4RQ) | 4:40 |
 | 77 | [Yellow](https://open.spotify.com/track/2cqG9U9wceAniRJoXBnoP2) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Roy Kim Live in Begin Again 2](https://open.spotify.com/album/3G2sZtxuU89eVp2npTP4RQ) | 4:27 |

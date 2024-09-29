@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Cup of Joe
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,923 likes - 78 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,974 likes - 78 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 |
 | 2 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 |
 | 3 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 |
-| 4 | [Kamehameha](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 |
+| 4 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [OLAHOLAH](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 |
 | 5 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 |
 | 6 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
 | 7 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 77 | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/track/6JDitV6kw2qY4RSYiFDNG2) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs), [Zel Bautista](https://open.spotify.com/artist/2ezIzAs7jVe4YXTXtdMirw) | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt) | 4:22 |
 | 78 | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/track/0hPVLqHAf88ncx4qF5bo9S) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK) | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz) | 3:30 |
 
-Snapshot ID: `ZvZGVQAAAAAH6wPEnvjk7k3kbfnbIZDH`
+Snapshot ID: `ZvZGVQAAAAC0AFoof1hF2s9sUk7nnDU5`

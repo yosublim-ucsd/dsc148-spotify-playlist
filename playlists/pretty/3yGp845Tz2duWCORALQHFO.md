@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,785 likes - 52 songs - 2 hr 59 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,786 likes - 52 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 8 | [Grave Digger](https://open.spotify.com/track/07feSeUkWXn7Mrm3zBmfXP) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J) | [A Room Full of Pros & Cons](https://open.spotify.com/album/1IzH95d9GCljFlTiaBS64A) | 3:39 |
 | 9 | [Jet Setter](https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au) | [Jet Setter](https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U) | 2:54 |
 | 10 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 |
-| 11 | [I Follow Rivers](https://open.spotify.com/track/0UBafwcGE063by0Y6skCGg) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I Follow Rivers](https://open.spotify.com/album/5nJMS1Eej2mj2KexI4WRWG) | 2:55 |
+| 11 | [I Follow You](https://open.spotify.com/track/0UBafwcGE063by0Y6skCGg) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I Follow You](https://open.spotify.com/album/5nJMS1Eej2mj2KexI4WRWG) | 2:55 |
 | 12 | [Burn For You](https://open.spotify.com/track/3NkKy4vDgQC2QrDbQbOWSH) | [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g), [Craig Costello](https://open.spotify.com/artist/5mHuwBRXD1aXPSrsmWtKL6) | [Burn For You](https://open.spotify.com/album/3NOP8syOkhaB3wHIWCviTP) | 3:45 |
 | 13 | [Dark Sides](https://open.spotify.com/track/1Dy3hmS6cqIBnF1hUxs2gf) | [Rino Esposito](https://open.spotify.com/artist/5bpUl3oE6Ju4brOF7cAFuZ), [Gloria](https://open.spotify.com/artist/7Exg5XmCo3Es3UphHiJ99H) | [Dark Sides](https://open.spotify.com/album/2PxqrwZFZ2BeoRU4rURE34) | 3:17 |
 | 14 | [Without You](https://open.spotify.com/track/1hXp0bP954r2Ro0jIyvZGM) | [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH) | [Without You](https://open.spotify.com/album/3X689HFp3ej5xDl9dCqEGg) | 2:40 |

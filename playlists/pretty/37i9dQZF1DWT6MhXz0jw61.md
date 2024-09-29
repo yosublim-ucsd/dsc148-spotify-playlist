@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,787 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,856 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
 | 100 | [Instincts](https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Instincts](https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5) | 3:56 |
 
-Snapshot ID: `ZvYtwAAAAADel9WoA1VAAWjaunfmvwCn`
+Snapshot ID: `ZvYtwAAAAAC2KnLZecoTAAB+K0N/PguK`

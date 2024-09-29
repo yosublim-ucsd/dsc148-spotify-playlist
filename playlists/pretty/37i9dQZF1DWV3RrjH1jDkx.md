@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,853 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,992 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 46 | [Say It Like That](https://open.spotify.com/track/6G0yjHZLoArBhKI7ERGAU3) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [Say It Like That](https://open.spotify.com/album/6wtPLiwU64fqUcCY6PmoL4) | 2:58 |
 | 47 | [SOMEONE TO YOU](https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SOMEONE TO YOU](https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be) | 2:59 |
 | 48 | [KID AGAIN](https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [KID AGAIN](https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d) | 3:19 |
-| 49 | [Ekte Kjærlighet](https://open.spotify.com/track/6NvTTbiDPfLW4epXmu8uEZ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Ekte Kjærlighet](https://open.spotify.com/album/5yC3cS63yoiHAwsTUW2LQ3) | 3:48 |
+| 49 | [Ekte Kjærlighet](https://open.spotify.com/track/6NvTTbiDPfLW4epXmu8uEZ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02) | [Ekte Kjærlighet](https://open.spotify.com/album/5yC3cS63yoiHAwsTUW2LQ3) | 3:48 |
 | 50 | [Eg gløymer deg aldri \- Live](https://open.spotify.com/track/5owqaYnEmFp02Z56boHhrR) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [30 år på vegen \(Live 2020 \- 2021\)](https://open.spotify.com/album/1AljUrwIra51bo6BFDvXSq) | 4:17 |
 | 51 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 |
 | 52 | [Romantic](https://open.spotify.com/track/57WevlVRMBXPTBD6jDWl5i) | [Bo Milli](https://open.spotify.com/artist/0LODGxvIf07NVyiMAVnVAc) | [Romantic](https://open.spotify.com/album/1KaQrqr27Kojw8ZfdpiB3u) | 3:06 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 77 | [Dangeruss \(Dønski\)](https://open.spotify.com/track/2aiVbVjSohxN5JBouiKGpo) | [KNEKT](https://open.spotify.com/artist/4JgV7rrIlfSvZYnlAwOblk), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v), [Kneiken](https://open.spotify.com/artist/7z27HsqFT3NXL9S9N2r5S3) | [Dangeruss \(Dønski\)](https://open.spotify.com/album/1y3E6Bb3sIuJApL9a8A5Nx) | 2:37 |
 | 78 | [KIDZ](https://open.spotify.com/track/6fnPB3xEaMwWbXIFsLK5bu) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [KIDZ](https://open.spotify.com/album/3PKpaLHUBdIQmTm4rgroQ7) | 3:42 |
 | 79 | [Discodancer](https://open.spotify.com/track/2oVS5FFFQghIaI4AgwelnR) | [Fjorden Baby!](https://open.spotify.com/artist/4cPf4ZBjuNF4fnfdlfy8hr) | [Discodancer](https://open.spotify.com/album/0wN1hc3Q7YhCDTbRuxVKEL) | 3:52 |
-| 80 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 80 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 81 | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT) | 3:10 |
 | 82 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 |
 | 83 | [Radical Theory](https://open.spotify.com/track/30a2JIVxRjt0IEiuzCDnGM) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [PUMP](https://open.spotify.com/album/4MOPXC39EoZ9cpS3fNhehq) | 3:34 |

@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186457,
+      "name": "I Wanna Call You",
+      "url": "https://open.spotify.com/track/6i1VxlG0EYhGpu9C7c66sx"
+    },
+    {
+      "album": {
         "name": "I Want It All (Remix)",
         "url": "https://open.spotify.com/album/5vLPZZoxQoe3kpuixNRpSh"
       },

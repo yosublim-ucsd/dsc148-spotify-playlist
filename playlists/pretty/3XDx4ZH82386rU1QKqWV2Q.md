@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,065,105 likes - 125 songs - 5 hr 16 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,064,984 likes - 125 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 51 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/39M7VBSU9jF9IpmkNQeycY), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 |
 | 52 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 |
 | 53 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 |
-| 54 | [tucked](https://open.spotify.com/track/6vmKKmztPG8fsGnDH2wDHd) | [月月](https://open.spotify.com/artist/1pnCkB1hBxhnyVdyZ1FjuZ) | [tucked](https://open.spotify.com/album/5TYp9LGzkdFfCcGYVj6nGl) | 1:50 |
+| 54 | [tucked](https://open.spotify.com/track/6vmKKmztPG8fsGnDH2wDHd) | [1000night](https://open.spotify.com/artist/1pnCkB1hBxhnyVdyZ1FjuZ) | [tucked](https://open.spotify.com/album/5TYp9LGzkdFfCcGYVj6nGl) | 1:50 |
 | 55 | [unhinged](https://open.spotify.com/track/6zBGVU0ujMxmR9Yh0UPHkt) | [MEMBER](https://open.spotify.com/artist/0ifDzAhf5knfZyaUiG4Deu) | [PHANTXM](https://open.spotify.com/album/3EDDKjhTkIRDks9bTRRIkm) | 1:17 |
 | 56 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 57 | [Fixation](https://open.spotify.com/track/0esWpmqUDNUtjsOshrHu4p) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Fixation](https://open.spotify.com/album/4dYfsC2QGKtLQHiY19QF3O) | 2:30 |

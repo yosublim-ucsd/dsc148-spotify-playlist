@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,792 likes - 53 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,929 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 52 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 53 | [JOYKILLER](https://open.spotify.com/track/4x5CQ8DdRQFAJSq5lfXwuh) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [JOYKILLER](https://open.spotify.com/album/0bsOXVkWaEKzuCk6WxN8Rn) | 2:58 |
 
-Snapshot ID: `ZvYtwAAAAADsMcQEN9PNwkC3VMsgF7RH`
+Snapshot ID: `ZvYtwAAAAACCXAo9YP3kU8oX8uC6dNyg`

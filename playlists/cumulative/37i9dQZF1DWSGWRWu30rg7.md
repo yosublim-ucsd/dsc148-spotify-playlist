@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Marizka Juwita
 
-3,918 songs - 10 day 0 hr 28 min
+3,919 songs - 10 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1805,6 +1805,7 @@
 | [Kembalilah \- Kembalilah](https://open.spotify.com/track/2ciBfK5Z2ZEcaiK9fLincr) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/0M1UCRvw76NMDHir6GEJRL) | 3:51 | 2023-03-23 | 2023-03-31 |
 | [Kenal](https://open.spotify.com/track/42Fefg3dc3oO1Q2pkJoQYG) | [Sampurna](https://open.spotify.com/artist/4FPCfg84YUp5CjtcSxQfv4) | [Kenal](https://open.spotify.com/album/0jFvdrRDnWNMnTxqgJSNnW) | 4:42 | 2022-03-04 | 2022-03-18 |
 | [Kenangan dan Kesepian](https://open.spotify.com/track/1YbL9mLjiAqjnyw7MvrrVT) | [Melodi Kursi](https://open.spotify.com/artist/3ZcZgvcg7vJsWBuqoNk5GI) | [Kenangan dan Kesepian](https://open.spotify.com/album/1GqKp7lP03yrLw37xUXOAU) | 3:24 | 2022-11-24 | 2022-12-01 |
+| [Kenangan Natal](https://open.spotify.com/track/3vVWd3oYhENdzsOaG7j5cU) | [Wizz Baker](https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2), [Ghelzyon Ghagal](https://open.spotify.com/artist/7hRxVvNCvlp8BuDBa4tNsi) | [Kenangan Natal](https://open.spotify.com/album/2CGXW0K9o6HQN187yX7ib8) | 2:48 | 2024-09-26 |  |
 | [Kenanglah \- From "Aku Rindu The Movie"](https://open.spotify.com/track/48E6l8PGj1Vdg0IFKKgJku) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [Kenanglah \(From "Aku Rindu The Movie"\)](https://open.spotify.com/album/45FNHacQQT8ycAAgR8KS7X) | 4:27 | 2023-10-12 | 2023-11-03 |
 | [Kendala Takdir](https://open.spotify.com/track/5iZ317MI3Rtkeek1kDzEGd) | [The Kick](https://open.spotify.com/artist/5acyN68XSrCN4Jl9miQE1O) | [Renaisan](https://open.spotify.com/album/6FyZZY30kXOdpzEtMB5Blw) | 5:08 | 2024-07-25 | 2024-08-30 |
 | [Kepada Diri Sendiri](https://open.spotify.com/track/7zouGhO0zEvrelH1tiq18o) | [Wallaby Project](https://open.spotify.com/artist/2VHDONmZoqBV5bzdgGiWzR) | [Kepada Diri Sendiri](https://open.spotify.com/album/2GHY60HYUpUZtVp13f5dGS) | 5:52 | 2023-06-29 | 2023-07-15 |
@@ -3373,7 +3374,7 @@
 | [Tak Hanya Untukku](https://open.spotify.com/track/0DvOM6fPeG7wQJ86isIp3q) | [Himalayan](https://open.spotify.com/artist/1rtwil431zNqyr0x82ayOt) | [Tak Hanya Untukku](https://open.spotify.com/album/6ECIM2xcTHkqUZH9nBgerz) | 3:56 | 2023-11-02 | 2023-11-24 |
 | [Tak Ingin Ada Kata Berpisah](https://open.spotify.com/track/3MnRJd77r2wKNh3AH6Fwum) | [ALVARES](https://open.spotify.com/artist/7sOmSmqmz2sI0sug1DU026) | [Tak Ingin Ada Kata Berpisah](https://open.spotify.com/album/4Qd9Ya41aw6mSpPwOUg2Yl) | 4:48 | 2024-02-02 | 2024-02-16 |
 | [Tak Ingin Mengenalmu](https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q) | [Janita Gabriela](https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7) | [Tak Ingin Mengenalmu](https://open.spotify.com/album/7omNPpYUjfINeqZjJ9qMmr) | 4:39 | 2024-05-24 | 2024-06-14 |
-| [Tak Ingin Terulang](https://open.spotify.com/track/1P1rzEpL5i10QeFdEGVV0l) | [Elisa Jacquline](https://open.spotify.com/artist/1zwTcfPv6VCLennrcKg0LZ) | [Tak Ingin Terulang Lagi](https://open.spotify.com/album/1l5Vsv2JvIgTa6Tjsojbxp) | 3:48 | 2024-09-26 |  |
+| [Tak Ingin Terulang Lagi](https://open.spotify.com/track/1P1rzEpL5i10QeFdEGVV0l) | [Elisa Jacquline](https://open.spotify.com/artist/1zwTcfPv6VCLennrcKg0LZ) | [Tak Ingin Terulang Lagi](https://open.spotify.com/album/1l5Vsv2JvIgTa6Tjsojbxp) | 3:48 | 2024-09-26 |  |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-05-12 | 2022-06-03 |
 | [Tak Lagi Ada](https://open.spotify.com/track/1wowhRYVjHCOVBgssDpQZm) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Tak Lagi Ada](https://open.spotify.com/album/6I4wP6bAnxbxEF8IF5XfLg) | 3:50 | 2022-02-24 | 2022-03-11 |
 | [Tak Lagi Sama](https://open.spotify.com/track/2RYr5C9ADWnqNoMLrq23Jv) | [Adityaa Bagus](https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL) | [Tak Lagi Sama](https://open.spotify.com/album/49nD91bwa3T4H2gCZfdKWT) | 3:00 | 2024-02-22 | 2024-03-22 |

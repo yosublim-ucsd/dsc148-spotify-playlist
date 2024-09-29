@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Blackpanda.
 
-199 songs - 10 hr 22 min
+200 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2024-06-27 |  |
 | [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-19 |  |
-| [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-08-15 |  |
+| [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-08-15 | 2024-09-29 |
 | [Nunca Estuviste Tan Lejos](https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Nunca Estuviste Tan Lejos](https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj) | 4:01 | 2024-06-27 |  |
 | [números rojos](https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [sangre y sal](https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x) | 2:51 | 2024-06-27 |  |
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-25 | 2024-08-16 |
@@ -207,5 +207,6 @@
 | [¡Viva la Gente!](https://open.spotify.com/track/6G2CK5FEvdI6vylqZ1DVLG) | [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [¡Viva la Gente!](https://open.spotify.com/album/45mmZUumg7f1BFl8Cr5BcW) | 3:25 | 2024-07-25 | 2024-08-02 |
 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 | 2024-06-27 |  |
 | [Ángel caído](https://open.spotify.com/track/02AchvJQDM4IOlB5BGW3df) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Ángel caído](https://open.spotify.com/album/4q8czVSF7t8I2hvwN6hEMu) | 2:46 | 2024-06-27 | 2024-07-12 |
+| [⁠Cuando nadie ve \(Canción Original de “Soy Nevenka”\)](https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [⁠Cuando nadie ve \(Canción Original de “Soy Nevenka”\)](https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK) | 3:34 | 2024-09-26 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

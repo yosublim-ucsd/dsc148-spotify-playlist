@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
+    },
+    {
+      "album": {
         "name": "El Movimiento Alterado Vol. 3",
         "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
       },

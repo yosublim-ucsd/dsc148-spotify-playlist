@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 115202,
+  "num_followers": 115272,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 305388,
+      "name": "Bassman",
+      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2001",
         "url": "https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 274600,
       "name": "Wukking Up",
       "url": "https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Bassman",
-      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -292,13 +292,13 @@
       },
       "artists": [
         {
-          "name": "Mr. Dale",
-          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Soka Junkie",
-      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
+      "duration_ms": 243453,
+      "name": "Get On",
+      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -324,13 +324,13 @@
       },
       "artists": [
         {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
+          "name": "Mr. Dale",
+          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Get On",
-      "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
+      "duration_ms": 254640,
+      "name": "Soka Junkie",
+      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -347,6 +347,22 @@
       "duration_ms": 309373,
       "name": "The Hammer",
       "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 308546,
+      "name": "I Come Out To Play",
+      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -379,22 +395,6 @@
       "duration_ms": 305813,
       "name": "Follow The Leader, Leader",
       "url": "https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 308546,
-      "name": "I Come Out To Play",
-      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "Hard Wine",
-      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "Hard Wine",
+      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Man Ah Bad Man",
         "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 300506,
       "name": "If Ah Rude Ah Rude",
       "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 250160,
       "name": "Tremble It",
       "url": "https://open.spotify.com/track/6TUZWNUZnBo9fxfdD5Hc7s"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Explosion",
-        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
-      },
-      "artists": [
-        {
-          "name": "Lord Shorty Creator of Soca Music",
-          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
-        }
-      ],
-      "duration_ms": 309300,
-      "name": "Higher World of Music",
-      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Trini Gold",
         "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+        "name": "Soca Explosion",
+        "url": "https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM"
       },
       "artists": [
         {
-          "name": "Home Front",
-          "url": "https://open.spotify.com/artist/6M1vWklD0ySWgutjJS8r3i"
+          "name": "Lord Shorty Creator of Soca Music",
+          "url": "https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2"
         }
       ],
-      "duration_ms": 299760,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0w6IdovoMpwt9vR0tYCK5V"
+      "duration_ms": 309300,
+      "name": "Higher World of Music",
+      "url": "https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -899,6 +883,22 @@
       "duration_ms": 256306,
       "name": "In the Party",
       "url": "https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Home Front",
+          "url": "https://open.spotify.com/artist/6M1vWklD0ySWgutjJS8r3i"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0w6IdovoMpwt9vR0tYCK5V"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "The Xtatik Circus",
         "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
+        "name": "Wining Season",
+        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         }
       ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+      "duration_ms": 241373,
+      "name": "Wining Season (Remix) (feat. Shaggy)",
+      "url": "https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Wining Season",
-        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 241373,
-      "name": "Wining Season (Remix) (feat. Shaggy)",
-      "url": "https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy"
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
-      },
-      "artists": [
-        {
-          "name": "Blue Ventures Feat. Sanell Dampster",
-          "url": "https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/6mfmJdM4mPoxvzI7iu5SKW"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Any Minute Now",
         "url": "https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 243133,
       "name": "Soca",
       "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
+      },
+      "artists": [
+        {
+          "name": "Blue Ventures Feat. Sanell Dampster",
+          "url": "https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/6mfmJdM4mPoxvzI7iu5SKW"
     },
     {
       "added_at": "2024-08-06 01:00:53",

@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: 156/Silence
 
-1,016 songs - 2 day 14 hr 55 min
+1,017 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Dark Waves](https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud) | 3:42 | 2023-03-31 | 2024-08-13 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 | 2022-07-23 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-27 | 2024-01-13 |
+| [Dead But So Alive](https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Dead But So Alive](https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL) | 3:27 | 2024-09-20 |  |
 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 | 2022-05-06 | 2023-03-25 |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2022-07-13 | 2022-07-19 |
 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 | 2022-06-10 | 2023-05-06 |
@@ -456,7 +457,7 @@
 | [HORIZON](https://open.spotify.com/track/1DtJnU6U3E0BnZ8DnTH1rw) | [BEFORE MY LIFE FAILS](https://open.spotify.com/artist/7gg6GebRQdCY8CwPfcsudT) | [HORIZON](https://open.spotify.com/album/4pxmnZ04SiG6WzAmnMln6e) | 3:38 | 2021-12-17 | 2022-02-26 |
 | [Horror Domain](https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Horror Domain](https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK) | 3:00 | 2024-05-10 | 2024-07-13 |
 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 | 2022-06-24 | 2023-04-22 |
-| [House of Cards](https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [House of Cards](https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C) | 3:59 | 2024-02-09 |  |
+| [House of Cards](https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [House of Cards](https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C) | 3:59 | 2024-02-09 | 2024-09-29 |
 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 | 2024-04-12 |  |
 | [Human](https://open.spotify.com/track/2DadCsA57rCAfroNC9Wqo5) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Human](https://open.spotify.com/album/5rj9JShh87F4I0rRDMisky) | 3:58 | 2023-04-21 | 2023-08-19 |
 | [Human Target](https://open.spotify.com/track/6lCCcsaT5jPPx0X5DMy38H) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/0cwpjjTsXmGa3D3F4G0BKX) | 3:31 | 2022-07-13 | 2022-07-15 |

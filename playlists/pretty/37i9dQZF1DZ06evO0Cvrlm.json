@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30b8\u30e7\u30fc\u30b8\u30fb\u30de\u30a4\u30b1\u30eb\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 573695,
-  "original_name": "This Is \u30b8\u30e7\u30fc\u30b8\u30fb\u30de\u30a4\u30b1\u30eb",
+  "description": "This is George Michael. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 573744,
+  "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAAA9Qzq6pCsDTyxWhmmuNe/u",
+  "snapshot_id": "ZvX1gAAAAADgSoS/JP8d+Q3My54KBcve",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
       "artists": [
         {
@@ -474,7 +474,7 @@
       ],
       "duration_ms": 283426,
       "name": "Outside",
-      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
+      "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
     },
     {
       "added_at": null,
@@ -933,6 +933,6 @@
       "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
     }
   ],
-  "unique_name": "This Is \u30b8\u30e7\u30fc\u30b8\u30fb\u30de\u30a4\u30b1\u30eb",
+  "unique_name": "This Is George Michael",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm"
 }

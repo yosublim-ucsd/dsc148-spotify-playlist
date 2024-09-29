@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: DEVAURA
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,604 likes - 95 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,611 likes - 95 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 5 | [Kamikaze](https://open.spotify.com/track/21YJZLzTs79ZAokg2v32Z9) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Kamikaze](https://open.spotify.com/album/72YK4iwKqM0gMnz7VtQPXU) | 3:14 |
 | 6 | [You Won't](https://open.spotify.com/track/7nzeonrsnd8GkQno8qDr8u) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [You Won't](https://open.spotify.com/album/3CYZumdsP2LpbBdQVdyUHh) | 3:54 |
 | 7 | [IDK](https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR) | [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [IDK](https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh) | 2:54 |
-| 8 | [AKLGirls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKLGirls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 |
+| 8 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 |
 | 9 | [C'est La Vie](https://open.spotify.com/track/1HaIquoEu5tA0oW7fpsT4k) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [C'est La Vie](https://open.spotify.com/album/59IAVKrvJdKsahe0vMa81s) | 3:21 |
 | 10 | [WHO'S BACK?](https://open.spotify.com/track/2MpOA7dCkVgMtAFmMkAdyi) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [Yknow How We Do](https://open.spotify.com/album/7JLfTaDM9ZR97On7H36ez6) | 2:04 |
 | 11 | [Anything Goes](https://open.spotify.com/track/0FU8AIBNGxSZ8IdXsSUjWF) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Anything Goes](https://open.spotify.com/album/78o0jD0mpRLazYdUfYiK04) | 2:06 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 35 | [CERTI](https://open.spotify.com/track/75I9MBhJihPdcv1MlQoz1q) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [PROPER](https://open.spotify.com/artist/1keifiXI5BfdQjv8woANJH) | [CERTI](https://open.spotify.com/album/3APpgBK45ntsZbKwV5eWDg) | 2:29 |
 | 36 | [Ghost of Bendigo](https://open.spotify.com/track/1OTsqG6GfpUXkAX5kQGHql) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs) | [Ghost of Bendigo](https://open.spotify.com/album/7tnhOimLWvZTDYd5BxKvSB) | 2:30 |
 | 37 | [Commando](https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Commando](https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2) | 2:16 |
-| 38 | [Lights, Camera, Action](https://open.spotify.com/track/49cxO4NpBYDtR1gcm7cKbr) | [Ouchini](https://open.spotify.com/artist/6TCHl8AE39d4Q7w41rGO1p), [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [Blessed](https://open.spotify.com/artist/5zWYgy0vYl11pwTcz42bnL) | [Lights, Camera, Action](https://open.spotify.com/album/36Xj0QNbG2ttvIWEMe9ts5) | 1:25 |
+| 38 | [Lights, Camera, Action](https://open.spotify.com/track/49cxO4NpBYDtR1gcm7cKbr) | [Ouchini](https://open.spotify.com/artist/6TCHl8AE39d4Q7w41rGO1p), [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Lights, Camera, Action](https://open.spotify.com/album/36Xj0QNbG2ttvIWEMe9ts5) | 1:25 |
 | 39 | [AREA SAINT](https://open.spotify.com/track/3OyEK1Il9ZYJ4T90Uef1BT) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [AREA SAINT](https://open.spotify.com/album/1E5XrdS7rd7LazbKmOuDSM) | 2:38 |
 | 40 | [See You No More](https://open.spotify.com/track/1P6eZ9D2sGhQSRT6QV7RzV) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [See You No More](https://open.spotify.com/album/27ZK8VW9sPrRCWCWzZKmx1) | 2:51 |
 | 41 | [Young Free & Reckless](https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Young Free & Reckless](https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38) | 3:12 |

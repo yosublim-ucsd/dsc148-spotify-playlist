@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,465 songs - 2 day 7 hr 11 min
+1,466 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Cloudberry](https://open.spotify.com/track/5iO5l1F87NeRMnLMjQen9o) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Cloudberry](https://open.spotify.com/album/0YIYJ0sdykGbTDb0R6uf4v) | 2:26 | 2022-05-13 | 2022-11-20 |
 | [Cloudberry \- Bonus Track](https://open.spotify.com/track/33P8UTNtJh5n0lX6nlMjj0) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance \(Deluxe\)](https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It) | 2:26 | 2022-11-11 | 2022-11-26 |
 | [Clouds](https://open.spotify.com/track/6Lopj4mt4Zj0hPpMItJvxr) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Clouds](https://open.spotify.com/album/74BWuvFhtNKyHevyTbV3OB) | 1:45 | 2022-09-30 | 2023-09-22 |
+| [Clouds](https://open.spotify.com/track/6nSaVcMVPGqrgZo8dXaw6a) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Clouds](https://open.spotify.com/album/1gh9vTmBy2g7cqLNi49c6m) | 2:17 | 2024-09-27 |  |
 | [Cloudscapes](https://open.spotify.com/track/7q2l5DqNGfdDwZZBKqviM9) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:12 | 2022-01-27 | 2022-09-17 |
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-01-27 | 2022-09-17 |
 | [Cloudy Paris \- Outro](https://open.spotify.com/track/4Grjo6qa6xvsO5xAHv6EJ1) | [Maxgonz](https://open.spotify.com/artist/5tqEVMpVVTtvK0AryNVoZY) | [Cloudy Paris \(Outro\)](https://open.spotify.com/album/32qWBkNzvYTaMWI7iAD9j1) | 1:07 | 2022-08-05 | 2022-12-17 |
@@ -1175,7 +1176,7 @@
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2022-01-27 | 2022-06-10 |
 | [Soul Single Serenade](https://open.spotify.com/track/3PLYtvrUO5s2nzzx12DNxX) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:27 | 2022-01-27 | 2022-07-08 |
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-01-27 | 2022-05-27 |
-| [Soulful Views](https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Soulful Views](https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs) | 2:49 | 2023-05-19 |  |
+| [Soulful Views](https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Soulful Views](https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs) | 2:49 | 2023-05-19 | 2024-09-29 |
 | [Sounds like fog](https://open.spotify.com/track/1MAKPG2lOnh7wO51jLLjkC) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Sounds like fog](https://open.spotify.com/album/2h0IQwmC5MDUtWSqQhC0UH) | 2:41 | 2022-10-28 | 2023-03-09 |
 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 | 2022-01-27 | 2022-08-19 |
 | [Spaceship](https://open.spotify.com/track/2k3yUnrVcubhOz4gP68rKR) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [Spaceship](https://open.spotify.com/album/4dehvMyckUXDL96dllQolm) | 2:24 | 2023-04-20 | 2023-05-20 |

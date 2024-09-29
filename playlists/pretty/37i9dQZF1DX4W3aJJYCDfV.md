@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from SOPHIE \(pictured\), Lady Gaga,  Nines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,864 likes - 118 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,911 likes - 118 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 50 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 |
 | 51 | [Wassup](https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Wassup](https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF) | 2:51 |
 | 52 | [Freak Like Me](https://open.spotify.com/track/42Xuto4o2yY23efxwcW0Ut) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq) | [Freak Like Me](https://open.spotify.com/album/0qvymU2CdCgfwbb8uvMDsc) | 3:25 |
-| 53 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 53 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 54 | [2 Year Itch](https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [2 Year Itch](https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl) | 2:45 |
 | 55 | [FOOLISH](https://open.spotify.com/track/4BV3maZQuJu5fQJvXSxtfU) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [FOOLISH](https://open.spotify.com/album/0IR8tVrDW4IInjO2YeB59H) | 2:37 |
 | 56 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 117 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 |
 | 118 | [Blockbuster Video](https://open.spotify.com/track/0ZGH19YWpwb1ah1jwHVvXU) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Encino](https://open.spotify.com/album/6ULjffAptxcARwJ2ngZCMN) | 3:19 |
 
-Snapshot ID: `ZvZ19QAAAAAXjHBHav0zCy9d/8NU3Sy+`
+Snapshot ID: `ZvZ19QAAAABtttRr/HT/y9PezrkJ4C6l`

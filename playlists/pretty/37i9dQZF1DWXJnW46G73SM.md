@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مسلم
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,968 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,984 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 51 | [حبيبي منفضلي](https://open.spotify.com/track/2Jm57ZlLTIIRQhy4fOrrZr) | [Bebo](https://open.spotify.com/artist/5i0PtsHtfpmMw1HoU5GNOX) | [حبيبي منفضلي](https://open.spotify.com/album/2sQ4NQO0NBsEGa2hnDbQsm) | 2:52 |
 | 52 | [انا وحشة](https://open.spotify.com/track/3j1DgSY7qZIKWqTdD2wIoy) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [انا وحشة](https://open.spotify.com/album/0xazrT0semEmVZjRsoGLoN) | 2:40 |
 | 53 | [بكدب روحي](https://open.spotify.com/track/4MrQxuA4tmcVtFZtIZkV1U) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [بكدب روحي](https://open.spotify.com/album/4k9v9hjLj6f1DLaLQODDc5) | 3:58 |
-| 54 | [أنساكي](https://open.spotify.com/track/5nep0JPqcQV9EbIWqv4Aba) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [أنساكي](https://open.spotify.com/album/4hDnBI2XR7oHt9XZYseSi7) | 2:25 |
+| 54 | [Ansaki](https://open.spotify.com/track/5nep0JPqcQV9EbIWqv4Aba) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Ansaki](https://open.spotify.com/album/4hDnBI2XR7oHt9XZYseSi7) | 2:25 |
 | 55 | [El Mostashfa](https://open.spotify.com/track/3yE2SVk9BTggdtd11UuARj) | [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [El Mostashfa](https://open.spotify.com/album/00BMdpEfg2Jsmuh4u3lotY) | 2:42 |
 | 56 | [فيها إيه](https://open.spotify.com/track/33fpkOti6JPNktMxWabYlc) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فيها إيه](https://open.spotify.com/album/4dnnRb5jHDejdzWvRrHNyk) | 3:26 |
 | 57 | [Hassal](https://open.spotify.com/track/7kdwpvOvSlqxwDaUosHOWW) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Hassal](https://open.spotify.com/album/0dcuFfQzN1ayGhmJhKwER0) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 69 | [كداب](https://open.spotify.com/track/1KK6btqSOoG2uW0dldinOx) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كداب](https://open.spotify.com/album/5l0kncVsCrQpzxC2vnbEkn) | 3:27 |
 | 70 | [Shakly Ha3esh](https://open.spotify.com/track/2oWNiZYY8W5YEy2M9CPp2J) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Shakly Ha3esh](https://open.spotify.com/album/6KISR3mmosRXkxfSzVQxGz) | 3:42 |
 
-Snapshot ID: `ZvWaXgAAAACDNj3NsP4H+O0B3FxBAX2m`
+Snapshot ID: `ZvWaXgAAAAAnZ3fQu+uyLbCPMaeK2Yo+`

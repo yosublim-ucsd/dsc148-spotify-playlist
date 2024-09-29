@@ -2,7 +2,7 @@
 
 ### [This Is Quicksand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WtXCH)
 
-> This is Quicksand\. The essential tracks, all in one playlist.
+> This is: Quicksand\. Alle wichtigen Tracks in einer Playlist.
 
 40 songs - 1 hr 58 min
 

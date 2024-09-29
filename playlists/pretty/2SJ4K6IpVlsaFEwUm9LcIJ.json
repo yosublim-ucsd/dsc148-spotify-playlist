@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile)",
-  "num_followers": 21376,
+  "num_followers": 21383,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALE8QSp3Vr4tzNVNDPle5RYaglHQ+C",
+  "snapshot_id": "AAALFXODCi0O5NcS6wsWmC5NgrTw5Jj5",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -475,6 +475,22 @@
       "duration_ms": 202175,
       "name": "Routiner",
       "url": "https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs"
+    },
+    {
+      "added_at": "2024-09-28 18:11:03",
+      "album": {
+        "name": "Some Kind Of Heaven",
+        "url": "https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM"
+      },
+      "artists": [
+        {
+          "name": "knitting",
+          "url": "https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN"
     },
     {
       "added_at": "2024-09-27 16:36:59",

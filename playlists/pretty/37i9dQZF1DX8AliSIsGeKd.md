@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,961 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,184 likes - 90 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 63 | [Two By Two](https://open.spotify.com/track/3rnGEQrZgmk1fd0DtF2iXy) | [Dave Seaman](https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73) | [Two By Two](https://open.spotify.com/album/1fONd27gFG1mt8l6hkZV7d) | 5:45 |
 | 64 | [Searching](https://open.spotify.com/track/5v2m3jcY6MlBcIpQeckh48) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [Searching](https://open.spotify.com/album/4C59PdZoDfmS0mY0F1EL1e) | 4:28 |
 | 65 | [Love is Love \- Joyce Muniz Remix](https://open.spotify.com/track/65OMvt4Ue5348Xy48mABD2) | [Moderna](https://open.spotify.com/artist/7pFS7yjrJWe6KtfzJ3Ei3c), [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Love Is Love \(Joyce Muniz Remix\)](https://open.spotify.com/album/13c6li76Yot4QvAXqHdzZt) | 5:23 |
-| 66 | [why don't you do right](https://open.spotify.com/track/1CAOO9QUuzyH1vFIdaRwrX) | [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M), [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc) | [Miami Speedboat](https://open.spotify.com/album/6q6jjAMWGYhFnG2Ojneo3G) | 3:45 |
+| 66 | [why don't u do right](https://open.spotify.com/track/1CAOO9QUuzyH1vFIdaRwrX) | [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M), [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc) | [Miami Speedboat](https://open.spotify.com/album/6q6jjAMWGYhFnG2Ojneo3G) | 3:45 |
 | 67 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 |
 | 68 | [Maledetto \- Hot Version](https://open.spotify.com/track/7dmTVGR05RRtsUpBrSJuyp) | [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m), [Giacomo Moras](https://open.spotify.com/artist/6ot5EUnczyalQ76s6l2Ryv), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Kapote presents Italomania Vol\. 2](https://open.spotify.com/album/4KN5lYHvmm1tgI1HoPmlZm) | 3:12 |
 | 69 | [Fuerteventura Forever](https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Fuerteventura Forever](https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2) | 3:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [The Way She Stares](https://open.spotify.com/track/6p8mKSOtTzFknLcghCLQRK) | [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [The Way She Stares](https://open.spotify.com/album/4ndUO0n6Ye827FhzSe8ETy) | 5:48 |
 | 90 | [C & T](https://open.spotify.com/track/0pSsZ2J6u5Zy6sd0lZKYIa) | [Huerta](https://open.spotify.com/artist/5RJa5zWNuVuSfqJB0Jx2ZY) | [C & T](https://open.spotify.com/album/1IiHLib5hSDQ2B9rYTtq0v) | 6:40 |
 
-Snapshot ID: `ZvXZYAAAAABQgwLnhvQVkj2NU2eUa0Fk`
+Snapshot ID: `ZvXZYAAAAADU6BwVRAipF+kx09a4+LZl`

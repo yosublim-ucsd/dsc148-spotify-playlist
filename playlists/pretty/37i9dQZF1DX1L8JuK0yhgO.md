@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,170 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,168 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 52 | [下一頁](https://open.spotify.com/track/3jZmraBkqPy4a9qt19aVk3) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [下一頁](https://open.spotify.com/album/7G3XwhgvJhuMAs6b9tFIsf) | 4:32 |
 | 53 | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M) | 3:20 |
 | 54 | [Autopilot](https://open.spotify.com/track/4lwsHs09zOZhr2pqyVrHl3) | [kikomori](https://open.spotify.com/artist/3K3X8ywnXx0tVgnWkgGEKD) | [Autopilot](https://open.spotify.com/album/0cYSZZx9pkQR6BAhjSu9zU) | 3:38 |
-| 55 | [IDOL](https://open.spotify.com/track/1HKUrMu5Mvx4H29bePADRY) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Kawaii Psycho 倶楽部](https://open.spotify.com/artist/6Q0HPGpe2MK0SJwO4MVP1n) | [IDOL](https://open.spotify.com/album/54F3vb5q6eyqA0bZklpxA0) | 2:51 |
+| 55 | [IDOL](https://open.spotify.com/track/1HKUrMu5Mvx4H29bePADRY) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Kawaii Psycho Club](https://open.spotify.com/artist/6Q0HPGpe2MK0SJwO4MVP1n) | [IDOL](https://open.spotify.com/album/54F3vb5q6eyqA0bZklpxA0) | 2:51 |
 | 56 | [いけない](https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW) | [Kaede](https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr) | [いけない](https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW) | 4:03 |
 | 57 | [2 Lovers](https://open.spotify.com/track/622IqB73kw6HXBhzg5FV8n) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [2 Lovers](https://open.spotify.com/album/2v1UuiaHY1jr2dCvUlocZf) | 3:35 |
 | 58 | [COME STAY WITH ME](https://open.spotify.com/track/4y1mpVmRbS1xnnLODUmprp) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [COME STAY WITH ME](https://open.spotify.com/album/7J8OzbrCLG3uNvkzAtslC0) | 1:59 |

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 54609,
+  "num_followers": 54611,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 215940,
       "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
       "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
       "artists": [
         {
           "name": "YUKIKA",
           "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 211149,
-      "name": "Scent",
-      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1083,22 +1087,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "City Lights (The Mini Album)",
-        "url": "https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL"
-      },
-      "artists": [
-        {
-          "name": "Taeha",
-          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
-        }
-      ],
-      "duration_ms": 219416,
-      "name": "Dive in Love",
-      "url": "https://open.spotify.com/track/6oZpMV2ivI5vGVEi0DNvIo"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o"
       },
@@ -1131,18 +1119,18 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+        "name": "City Lights (The Mini Album)",
+        "url": "https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "Taeha",
+          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
         }
       ],
-      "duration_ms": 283493,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
+      "duration_ms": 219416,
+      "name": "Dive in Love",
+      "url": "https://open.spotify.com/track/6oZpMV2ivI5vGVEi0DNvIo"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1159,6 +1147,22 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1187,22 +1191,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
-        {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
@@ -1219,18 +1207,18 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
       },
       "artists": [
         {
-          "name": "\ud574\uc778",
-          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
         }
       ],
-      "duration_ms": 197391,
-      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1279,6 +1267,22 @@
       "duration_ms": 182188,
       "name": "Drive Thru",
       "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
+      },
+      "artists": [
+        {
+          "name": "\ud574\uc778",
+          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1371,26 +1375,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Guardian (Feat. KIM A REUM)",
-        "url": "https://open.spotify.com/album/3fyp8CcFGBggndD2XtnjdW"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 300289,
-      "name": "Guardian (Feat. KIM A REUM)",
-      "url": "https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1411,6 +1395,26 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Guardian (Feat. KIM A REUM)",
+        "url": "https://open.spotify.com/album/3fyp8CcFGBggndD2XtnjdW"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 300289,
+      "name": "Guardian (Feat. KIM A REUM)",
+      "url": "https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1623,6 +1627,38 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
+        "name": "Temperature of Love",
+        "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jisung",
+          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Love Counseling",
+      "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Embracing",
+        "url": "https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Embracing",
+      "url": "https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
         "name": "GROOVY DRIVE",
         "url": "https://open.spotify.com/album/7JvCB9fgiPAAjSVfdKHYm4"
       },
@@ -1643,22 +1679,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Temperature of Love",
-        "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jisung",
-          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Love Counseling",
-      "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Late summer late night",
         "url": "https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 146800,
       "name": "City 1:00",
       "url": "https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
-        "name": "Embracing",
-        "url": "https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD"
-      },
-      "artists": [
-        {
-          "name": "The Stray",
-          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Embracing",
-      "url": "https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

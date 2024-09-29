@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם קלינשטיין
 
-153 songs - 7 hr 57 min
+154 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-15 |  |
 | [דברים שכתבתי \- שיר לזכרו של איתי שהם ז"ל](https://open.spotify.com/track/4i5wSSIGgXZaUmScGkCzIE) | [Ethnix](https://open.spotify.com/artist/0rcuq0mzUaleXgXxuLFPPZ) | [דברים שכתבתי \(שיר לזכרו של איתי שהם ז"ל\)](https://open.spotify.com/album/4bt60omFrLrKMWc7VwfXVd) | 3:47 | 2024-07-11 | 2024-08-16 |
 | [הותיר אחריו חברה](https://open.spotify.com/track/2G8zom5ZWoMGGVwWTPpN2V) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [הותיר אחריו חברה](https://open.spotify.com/album/6voUE5tioKUHVfEe0TV0ax) | 3:38 | 2024-08-15 | 2024-09-13 |
+| [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 | 2024-09-26 |  |
 | [הטוב הרע ועודיה](https://open.spotify.com/track/5OfxLzOuLlkfnzLQGPpVeQ) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [הטוב הרע ועודיה](https://open.spotify.com/album/5kqDGzLWmnFuFoYkENRyKL) | 3:02 | 2024-09-12 |  |
 | [היי שקטה \(מתוך פרויקט מעפר פורחת שושנה\)](https://open.spotify.com/track/5mMc9UeDny7f8JOkNPjgw9) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [צאן ברזל מוזיקה](https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv) | [היי שקטה \(מתוך פרויקט מעפר פורחת שושנה\)](https://open.spotify.com/album/4Bktdkk5cQynJQfjOUPCVq) | 3:45 | 2024-06-27 | 2024-09-13 |
 | [הכל לטובה](https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תשובה?](https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN) | 2:41 | 2024-06-27 | 2024-07-12 |

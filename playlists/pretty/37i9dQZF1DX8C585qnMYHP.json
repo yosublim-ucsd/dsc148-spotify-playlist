@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 172745,
+  "num_followers": 172855,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -1005,42 +1005,6 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Messimalism (Above Thought)",
-        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
-      },
-      "artists": [
-        {
-          "name": "Emanative",
-          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
-        },
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 404458,
-      "name": "Messimalism (Above Thought)",
-      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 265548,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Nostalgia Por Mesoz\u00f3ica",
@@ -1059,6 +1023,42 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Cr\u00edo Cuervos",
-        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
-      },
-      "artists": [
-        {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        }
-      ],
-      "duration_ms": 238808,
-      "name": "Cr\u00edo Cuervos",
-      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "a two",
@@ -1339,6 +1323,22 @@
       "duration_ms": 177622,
       "name": "ocean, sea, ocean.",
       "url": "https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Cr\u00edo Cuervos",
+        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
+      },
+      "artists": [
+        {
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
+        }
+      ],
+      "duration_ms": 238808,
+      "name": "Cr\u00edo Cuervos",
+      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
-      },
-      "artists": [
-        {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
         "name": "Sundown Muse",
         "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 261004,
       "name": "Sundown Muse",
       "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Meta",
-        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        }
-      ],
-      "duration_ms": 352314,
-      "name": "Meta VI",
-      "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Fire Escape",
@@ -1539,6 +1523,22 @@
       "duration_ms": 204120,
       "name": "Ines",
       "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        }
+      ],
+      "duration_ms": 352314,
+      "name": "Meta VI",
+      "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "5GTOUR",
-        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
-      },
-      "artists": [
-        {
-          "name": "John T. Gast",
-          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Manc TK 2",
-      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Cold Drinks, Hot Dreams",
         "url": "https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 628000,
       "name": "Cold Drinks",
       "url": "https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "5GTOUR",
+        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
+      },
+      "artists": [
+        {
+          "name": "John T. Gast",
+          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Manc TK 2",
+      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
     },
     {
       "added_at": "2024-08-21 04:00:00",

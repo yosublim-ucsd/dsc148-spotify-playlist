@@ -2,7 +2,7 @@
 
 ### [This Is TOKiMONSTA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2i3yMV)
 
-> This is TOKiMONSTA\. The essential tracks, all in one playlist.
+> This is TOKiMONSTA。アーティストの代表曲をひとつのプレイリストに。
 
 128 songs - 7 hr 11 min
 

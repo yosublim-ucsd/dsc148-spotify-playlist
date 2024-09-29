@@ -3993,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
         "name": "Journey (From \"Songland\")",
         "url": "https://open.spotify.com/album/30iuIpjKEdOjLT60KmCL78"
       },
@@ -4123,7 +4141,7 @@
     },
     {
       "album": {
-        "name": "Pitch Perfect: Bumper In Berlin - Music From The Peacock Original Series",
+        "name": "Pitch Perfect: Bumper In Berlin (Music From The Peacock Original Series)",
         "url": "https://open.spotify.com/album/67cDPOAeQ9bmq5U66sARYp"
       },
       "artists": [

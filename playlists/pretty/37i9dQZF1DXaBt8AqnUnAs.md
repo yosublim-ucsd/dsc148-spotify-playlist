@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,800 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,813 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sua Culpa](https://open.spotify.com/track/3kmJF640M0mE8SiGapXnWY) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Sua Culpa](https://open.spotify.com/album/5jJZpWRypZy8ZZCqzromQc) | 1:58 |
 | 2 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 3 | [Fala na Cara](https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Fala na Cara](https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb) | 2:51 |
-| 4 | [SAGAZ](https://open.spotify.com/track/7HdVfJcRVGDKihM7dylkjV) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [SAGAZ](https://open.spotify.com/album/7HxFMZ1LIC8pVnNsxuK5Lk) | 3:27 |
+| 4 | [SAGAZ](https://open.spotify.com/track/7HdVfJcRVGDKihM7dylkjV) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [SAGAZ](https://open.spotify.com/album/7HxFMZ1LIC8pVnNsxuK5Lk) | 3:27 |
 | 5 | [Essa Vibe](https://open.spotify.com/track/20wWyjgqTyfP9V8AJEAHvQ) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [BIDUZEN](https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX) | [Essa Vibe](https://open.spotify.com/album/62av27NXYlmZjwu046ym0e) | 2:56 |
 | 6 | [REDIAL](https://open.spotify.com/track/3P5WJUZWiCRZgFRzZ5oUPo) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [Bira Mattos](https://open.spotify.com/artist/5Q3DpdfQXlWvuZVDGzaSNj) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:52 |
 | 7 | [Tempo](https://open.spotify.com/track/5h2umbNHTvGiT1gE4tTFCr) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo](https://open.spotify.com/album/7opYgdcsTkMNxFNHWZueO8) | 2:53 |

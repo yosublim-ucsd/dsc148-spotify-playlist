@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Savage Toddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,528 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,550 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [M'y revoilà \(feat\. So La Lune\)](https://open.spotify.com/track/5TFrDVXvqGrYaFwRt5Wrf1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw) | [Né spécial](https://open.spotify.com/album/6G2n483g1GNVq9AHLNKtEO) | 2:49 |
+| 1 | [M'y revoilà \(feat\. So La Lune\)](https://open.spotify.com/track/5TFrDVXvqGrYaFwRt5Wrf1) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Né spécial](https://open.spotify.com/album/6G2n483g1GNVq9AHLNKtEO) | 2:49 |
 | 2 | [phileas fogg](https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [phileas fogg](https://open.spotify.com/album/64y23hxA0OtaC66UscChre) | 1:53 |
 | 3 | [CONTRE LA GALERE](https://open.spotify.com/track/5c1WHENe0qdFgBg265gYiX) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [CONTRE LA GALERE](https://open.spotify.com/album/7C01Ua8kaCqSSZOwZCgqZ9) | 3:09 |
 | 4 | [Selfie](https://open.spotify.com/track/5hhbnXZLYjJGCmLI5AeTGj) | [Nabyl](https://open.spotify.com/artist/41WswaMNobgS9ZbRQfpTGF) | [Selfie](https://open.spotify.com/album/76REL43HsFWAfN1qigfEq8) | 2:45 |

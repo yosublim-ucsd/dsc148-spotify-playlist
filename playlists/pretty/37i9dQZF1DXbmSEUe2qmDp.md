@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Lia Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,475 likes - 73 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,484 likes - 73 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 72 | [Beijo De Algema](https://open.spotify.com/track/2XnFC5rOm9AwqJEtR0iGIN) | [Pedro Vitor e Mariana](https://open.spotify.com/artist/0BwOq5L9lhr5zKwayZFYqG), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Beijo De Algema](https://open.spotify.com/album/7yZRtv00yZxGd0AMLVlaGp) | 3:02 |
 | 73 | [Festa dos Solteiros \- Ao Vivo](https://open.spotify.com/track/6yeblJB7KkfXfYWXWlvjms) | [Renan e Leandro](https://open.spotify.com/artist/1k4tgN6H2IDieE4HQec9lE) | [Festa dos Solteiros \(Ao Vivo\)](https://open.spotify.com/album/60El7Nq2nF4qRUxAtzhP50) | 3:26 |
 
-Snapshot ID: `ZvYgZAAAAADwB3wRoBXwY+AdtZc1ttHL`
+Snapshot ID: `ZvYgZAAAAADPOKM/uLTQ1cJ6pWi6qwx9`

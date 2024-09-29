@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Kuremino in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,155 likes - 55 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,156 likes - 55 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 17 | [Briciole \(feat\. Lil Kvneki, J Lord\)](https://open.spotify.com/track/68wcLxkh3LCxxT7CSdObV7) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Briciole \(feat\. Lil Kvneki, J Lord\)](https://open.spotify.com/album/3X1xQUflcgDsY09ylSwPrM) | 3:32 |
 | 18 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 |
 | 19 | [LASCIA STARE](https://open.spotify.com/track/5nmW0sw7Cabh1WzOrnRiEV) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [LASCIA STARE](https://open.spotify.com/album/1zIQTjsJE02wc6erzX0M64) | 1:48 |
-| 20 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/1nasalYG6Q9H5nz2GA8TT2) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
+| 20 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
 | 21 | [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 |
 | 22 | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/track/2tsrnrD6DVCfxVUn0oEPTR) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/album/2mKjDMufiYjhZbAuiAplZc) | 3:00 |
 | 23 | [HUA](https://open.spotify.com/track/7ERpz9nrwnHFPQTB0S8YbL) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HUA](https://open.spotify.com/album/6NLlItt5mBHS3gO05Re7tO) | 2:07 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [NO PIANO B](https://open.spotify.com/track/28blNhTrq5L3SdDdvOKao0) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [NO PIANO B](https://open.spotify.com/album/2r3Oa0ap37rUiivB76vVQ0) | 2:38 |
 | 55 | [Tragitto \(NADLAC\)](https://open.spotify.com/track/4ta1bSknVhWDairP2F7iHN) | [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc) | [Tragitto \(NADLAC\)](https://open.spotify.com/album/1muAa1AM7LDq3UHkfX5e1p) | 2:57 |
 
-Snapshot ID: `ZvXZnAAAAADHGcSY4rkIwL6Dqh+FHIsj`
+Snapshot ID: `ZvXZnAAAAAD2QkXo03+lZsDGxueFRd3l`

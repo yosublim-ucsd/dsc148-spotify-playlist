@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Ariande / \u201c14 Besos\u201d",
+        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Ariande / \u201c14 Besos\u201d",
+      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
+    },
+    {
+      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },

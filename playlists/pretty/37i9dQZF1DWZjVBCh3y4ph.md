@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Jahyanai
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,599 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,621 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Level Up](https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Level Up](https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG) | 2:34 |
 | 40 | [Vou Et Mwen](https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM) | [Sauce](https://open.spotify.com/artist/3Jrb45fRTmSOk2w2TePU4r), [S.A.M.O](https://open.spotify.com/artist/1FCBufI9ovdHlo2bSwGNvV) | [Vou Et Mwen](https://open.spotify.com/album/6CAnEVMN8pVMjlKp1oIXX7) | 2:38 |
 
-Snapshot ID: `ZvXZYAAAAABnBW8XzeWqnf7nLP6wOSrN`
+Snapshot ID: `ZvXZYAAAAACE23JjDS/I9Dq4WAZFI8RO`

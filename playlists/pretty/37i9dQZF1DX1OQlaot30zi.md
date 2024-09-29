@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Simba, Vale Lambo, Kuremino e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,577 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,909 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 35 | [Scammer](https://open.spotify.com/track/11XWUi1Tne1UgmCNxAZPwY) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Scammer](https://open.spotify.com/album/6FgoIA49H1lM46NqAw355Q) | 3:16 |
 | 36 | [STATES](https://open.spotify.com/track/3zJKhswWqb3ZhCBwPObHG8) | [Lopez](https://open.spotify.com/artist/4dTHNdDdZxrkrGKYa7wzvm), [PassiønFruït](https://open.spotify.com/artist/4sQK404BlTYFhOHqidRb8t) | [STATES](https://open.spotify.com/album/3nY5b9w8aESg23Sz7rV1hR) | 2:38 |
 | 37 | [Voodoo](https://open.spotify.com/track/1YWfAIctCQmGYCJfmlvhQD) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Voodoo](https://open.spotify.com/album/3HpWw1eRq1CiiiSo9hWiKd) | 1:47 |
-| 38 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/1nasalYG6Q9H5nz2GA8TT2) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
+| 38 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
 | 39 | [CASANOVA \(feat\. Artie 5ive\)](https://open.spotify.com/track/25xUkNnc4azNAsli0pCNU7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:51 |
 | 40 | [Tu Me Quieres \- Prod\. by Higashi x Roberto Ferrante](https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Tu Me Quieres](https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF) | 3:34 |
 | 41 | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/track/2tsrnrD6DVCfxVUn0oEPTR) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/album/2mKjDMufiYjhZbAuiAplZc) | 3:00 |

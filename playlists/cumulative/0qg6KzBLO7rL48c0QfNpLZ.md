@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-689 songs - 1 day 6 hr 40 min
+690 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,5 +697,6 @@
 | [You're The One](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [You're The One](https://open.spotify.com/album/5b0KyQO9kGU0w9z4nmWU8A) | 2:53 | 2024-04-26 | 2024-06-15 |
 | [Young](https://open.spotify.com/track/7bEehgFqPxoJVOydF1zAZ2) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Young](https://open.spotify.com/album/2VOKqCAMJ3G2HEyhsGvOJ4) | 2:25 | 2024-02-02 | 2024-03-16 |
 | [Your Melody](https://open.spotify.com/track/1JLiefQuFxwTqpF5kSkFof) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Your Melody](https://open.spotify.com/album/0E9SnhN53OUseOvBZXrjw2) | 2:17 | 2024-04-19 | 2024-06-15 |
+| [You’re My Heart, You’re My Soul](https://open.spotify.com/track/2UTtePlxRzbSqLq48HhwHm) | [Kolya Funk](https://open.spotify.com/artist/4svfyz3khh5cBnmCFWjCzv), [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [You’re My Heart, You’re My Soul](https://open.spotify.com/album/0qbck7HLDVz0z8k9c9wNd6) | 2:40 | 2024-09-28 |  |
 
 \*This playlist was first scraped on 2024-02-09. Prior content cannot be recovered.

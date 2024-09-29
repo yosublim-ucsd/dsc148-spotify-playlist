@@ -1,12 +1,12 @@
 {
-  "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 219494,
+  "description": "This Is Panteon Rococo. Los temas esenciales, todos en una lista.",
+  "num_followers": 219516,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAACD8LAzjMRq17wdrSM4J9fo",
+  "snapshot_id": "ZvX1gAAAAABBm+MB3FvCrNq8CFrcdVsW",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A2\u00cd 5Uena!, Vol 2",
-        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 241171,
-      "name": "Amargo Adios",
-      "url": "https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ofrenda",
         "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A2\u00cd 5Uena!, Vol 2",
+        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Amargo Adios",
+      "url": "https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Una Vez",
         "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 228360,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Cumbia del Olvido",
-      "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 192560,
       "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
       "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Cumbia del Olvido",
+      "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/1q7SnztoC6TIUP9wxDVFiB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/1q7SnztoC6TIUP9wxDVFiB"
     },
     {
       "added_at": null,

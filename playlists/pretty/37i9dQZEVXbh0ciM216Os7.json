@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABl+DiGUqsDgInEDVcQvJKH",
+  "snapshot_id": "AAAAAAAAAAAyrpfiLjDo/c531ewYNA5K",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Blues For Inge",
-      "url": "https://open.spotify.com/track/3wqYoiZAtCtqjoCWDMVI86"
+      "duration_ms": 293253,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/7dNgdXHOcPKoufpvPkDaxS"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -119,26 +119,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted (feat. kamasi washington)",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Staccs vs Starks (feat. Ghostface Killah)",
         "url": "https://open.spotify.com/album/2rLNrZU0DTSj66MoyFPbUU"
       },
@@ -207,22 +187,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "From Your Own Eyes",
-        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "From Your Own Eyes",
-      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Drug Plots",
         "url": "https://open.spotify.com/album/72PPLh4qmaaVfIwwdqGB2W"
       },
@@ -251,26 +215,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I"
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/4EUQcPnVCp4vk9TaufMX6d"
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -295,6 +255,22 @@
       "duration_ms": 262170,
       "name": "Guardians Of Time",
       "url": "https://open.spotify.com/track/52ciEgOT9msJ3r0YTnquhT"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "From Your Own Eyes",
+        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "From Your Own Eyes",
+      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -559,6 +535,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "The Night Comes Down - 2024 Mix",
+        "url": "https://open.spotify.com/album/3TBlXIgEhJuCPyZP2jkkiF"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 261720,
+      "name": "The Night Comes Down - 2024 Mix",
+      "url": "https://open.spotify.com/track/7r8TzaVB9vfqOLspvyp7iN"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Exhumed",
         "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
       },
@@ -647,18 +639,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
+        "name": "precious mind",
+        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
       },
       "artists": [
         {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
         }
       ],
-      "duration_ms": 461880,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
+      "duration_ms": 304453,
+      "name": "precious mind (cassette remix)",
+      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -687,22 +683,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "precious mind",
-        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "India Carney",
-          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
         }
       ],
-      "duration_ms": 304453,
-      "name": "precious mind (cassette remix)",
-      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
+      "duration_ms": 461880,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -724,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
         }
       ],
-      "duration_ms": 562648,
-      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): IV. Adagio (Bar 229)",
-      "url": "https://open.spotify.com/track/5P4SHnjE4ZmduS8lhEzBHF"
+      "duration_ms": 415311,
+      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): I. Grave",
+      "url": "https://open.spotify.com/track/4kuaftyCpeFIp7zZWsw6Br"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -759,26 +751,6 @@
       "duration_ms": 299775,
       "name": "Wake Me Up When September Ends - Demo",
       "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "We Will Rock You - Megan Thee Stallion Version",
-        "url": "https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 103658,
-      "name": "We Will Rock You - Megan Thee Stallion Version",
-      "url": "https://open.spotify.com/track/04EzyNDx8TPjFYYi0FWzDT"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -839,110 +811,6 @@
       "duration_ms": 269361,
       "name": "Just",
       "url": "https://open.spotify.com/track/5RVcl0ORBdrHxBCCr3737j"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 252154,
-      "name": "Black Void (feat. Thundercat & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/0fmDqeTBrZhWDgK6qBtiPu"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Quit Calling",
-        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Quit Calling",
-      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151274,
-      "name": "Something (feat. Syd)",
-      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "A Ballet Through Mud",
-        "url": "https://open.spotify.com/album/52JbblOmGbKWmQkJWMKe6Y"
-      },
-      "artists": [
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Colorado Symphony",
-          "url": "https://open.spotify.com/artist/2OWBfxGoj5GhipuZ1cKnmB"
-        },
-        {
-          "name": "Christopher Dragon",
-          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
-        }
-      ],
-      "duration_ms": 281539,
-      "name": "Soft Footsteps",
-      "url": "https://open.spotify.com/track/4pLQQTQJy76L6IbHi88RhA"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Truman sleeps (for guitar ensemble)",
-        "url": "https://open.spotify.com/album/0VabAGTGRwNdUO9gQPSkDt"
-      },
-      "artists": [
-        {
-          "name": "Sam Desmet",
-          "url": "https://open.spotify.com/artist/5QTABvkjM6kEih0kvyabWj"
-        },
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 112098,
-      "name": "Truman sleeps (for guitar ensemble)",
-      "url": "https://open.spotify.com/track/7u9yi68ZCgVxIgF4ziEv9p"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

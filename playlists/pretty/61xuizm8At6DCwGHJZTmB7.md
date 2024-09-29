@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,029 likes - 157 songs - 14 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,032 likes - 157 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 33 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
 | 34 | [Pearl of Great Price \- Live](https://open.spotify.com/track/25YMZdSSua0kfx9IELah9q) | [Sarahbeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi), [Justus Tams](https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk) | [Pearl of Great Price \- Live](https://open.spotify.com/album/6kRVv2w9jJQcc9N6Twfnkf) | 7:06 |
 | 35 | [Basic Faith](https://open.spotify.com/track/3GjFQS95ZDinR87YewyLrC) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Basic Faith](https://open.spotify.com/album/3oF2qmQFZTHzuVbSvOJ6CI) | 4:31 |
-| 36 | [Lord I Need You \- Live](https://open.spotify.com/track/4fF4Bb4T3txIfsLlqLyKA9) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The God You Are \- Live](https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2) | 3:48 |
+| 36 | [Lord I Need You \- Live](https://open.spotify.com/track/4fF4Bb4T3txIfsLlqLyKA9) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The God You Are \(Live\)](https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2) | 3:48 |
 | 37 | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/track/3JjkgECEmDpSidE7wPNxMa) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [In You \(Acoustic\) \[Live at Albert St\]](https://open.spotify.com/album/0lj6YLFAwfr6fXGbN8TRLr) | 4:44 |
 | 38 | [Your Church](https://open.spotify.com/track/0oFy4UI3TnuUmHD1C8aSux) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/0wwu59MPRW5pxhTtLhfIhq) | [Your Church](https://open.spotify.com/album/2EvxegS1nh7SZYErbkU6s9) | 4:55 |
 | 39 | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/track/6bOMT9eOnF84hX8BFbl0RO) | [Hillsong Chapel](https://open.spotify.com/artist/3kb5Da0lPehCHCE5SVLNQk) | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/album/6lrUPYmeOJybiioKIFhtBi) | 5:20 |

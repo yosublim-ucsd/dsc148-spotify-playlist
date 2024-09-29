@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 501535,
+  "num_followers": 501733,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -676,12 +676,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
           "name": "Rivo",
           "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
         }
       ],
       "duration_ms": 208524,
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1575,6 +1575,34 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Destination Lost",
         "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
       },
@@ -1595,26 +1623,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Imamou",
-        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 240487,
-      "name": "Imamou",
-      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "The Echo",
         "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
       },
@@ -1631,6 +1639,26 @@
       "duration_ms": 270083,
       "name": "The Echo",
       "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Imamou",
+        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 240487,
+      "name": "Imamou",
+      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1719,30 +1747,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Yara",
-        "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212231,
-      "name": "Yara",
-      "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Love You Got",
         "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
@@ -1827,18 +1831,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+        "name": "Yara",
+        "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
       },
       "artists": [
         {
-          "name": "No Relation",
-          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+      "duration_ms": 212231,
+      "name": "Yara",
+      "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1863,6 +1875,22 @@
       "duration_ms": 146776,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+      },
+      "artists": [
+        {
+          "name": "No Relation",
+          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2015,22 +2043,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "My Love for You (Yebba's Heartbreak)",
-        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "My Love for You (Yebba's Heartbreak) - Edit",
-      "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
       },
@@ -2087,6 +2099,50 @@
       "duration_ms": 261463,
       "name": "Andalusian (feat. Ribale Wehbe)",
       "url": "https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Silence of Love (Reznik Remix)",
+        "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 425409,
+      "name": "Silence of Love - Reznik Remix",
+      "url": "https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "My Love for You (Yebba's Heartbreak)",
+        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "My Love for You (Yebba's Heartbreak) - Edit",
+      "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2191,6 +2247,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "soso (JOSEPH Remix)",
+        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "soso - JOSEPH Remix",
+      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -2215,50 +2291,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Silence of Love (Reznik Remix)",
-        "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        },
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         }
       ],
-      "duration_ms": 425409,
-      "name": "Silence of Love - Reznik Remix",
-      "url": "https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "soso (JOSEPH Remix)",
-        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "soso - JOSEPH Remix",
-      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2275,22 +2319,6 @@
       "duration_ms": 185440,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 279344,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2403,6 +2431,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Redd",
+          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
+        }
+      ],
+      "duration_ms": 199954,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
       },
@@ -2443,26 +2491,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "name": "Redd",
-          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
-        }
-      ],
-      "duration_ms": 199954,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "La Casa",
         "url": "https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV"
       },
@@ -2475,22 +2503,6 @@
       "duration_ms": 278319,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Human Rights",
-        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 294036,
-      "name": "Human Rights",
-      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2519,6 +2531,22 @@
       "duration_ms": 284461,
       "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
       "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2639,30 +2667,6 @@
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "DIKEBO",
-        "url": "https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI"
-      },
-      "artists": [
-        {
-          "name": "CISUMMI",
-          "url": "https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq"
-        },
-        {
-          "name": "Stevo Atambire",
-          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        }
-      ],
-      "duration_ms": 334426,
-      "name": "DIKEBO - Sparrow & Barbossa Remix",
-      "url": "https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d"
     },
     {
       "added_at": "2024-09-27 04:00:00",

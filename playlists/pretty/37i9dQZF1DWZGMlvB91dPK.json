@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 2863,
+  "num_followers": 2867,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Syst\u00e8me",
-        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Froehlich",
-          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
-        }
-      ],
-      "duration_ms": 240750,
-      "name": "Tout le Monde",
-      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "L'INVERSE",
         "url": "https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+        "name": "Syst\u00e8me",
+        "url": "https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Nathalie Froehlich",
+          "url": "https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq"
         }
       ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+      "duration_ms": 240750,
+      "name": "Tout le Monde",
+      "url": "https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd"
     },
     {
       "added_at": "2024-01-12 13:36:06",
@@ -315,6 +299,22 @@
       "duration_ms": 193157,
       "name": "C\u00f4te d'Azur",
       "url": "https://open.spotify.com/track/4xbkjchDDYsX3OoyeF4MUB"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "D\u00e9sillusion",
         "url": "https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3"
       },
@@ -441,20 +425,36 @@
       "url": "https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
+      "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Otak\u00e9",
-        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
+        "name": "NO GOZO",
+        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
       },
       "artists": [
         {
-          "name": "Makoto San",
-          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+          "name": "La Valentina",
+          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
         }
       ],
-      "duration_ms": 393146,
-      "name": "Otak\u00e9",
-      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
+      "duration_ms": 138962,
+      "name": "NO GOZO",
+      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
+      "added_at": "2024-01-15 17:31:32",
       "album": {
-        "name": "NO GOZO",
-        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
+        "name": "Otak\u00e9",
+        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
       },
       "artists": [
         {
-          "name": "La Valentina",
-          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
         }
       ],
-      "duration_ms": 138962,
-      "name": "NO GOZO",
-      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
+      "duration_ms": 393146,
+      "name": "Otak\u00e9",
+      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE"
-      },
-      "artists": [
-        {
-          "name": "Jenys",
-          "url": "https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 240653,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE"
+      },
+      "artists": [
+        {
+          "name": "Jenys",
+          "url": "https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU"
     },
     {
       "added_at": "2024-01-15 17:31:32",

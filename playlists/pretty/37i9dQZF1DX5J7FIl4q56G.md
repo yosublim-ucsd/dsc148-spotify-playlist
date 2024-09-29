@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: The Black Dahlia Murder
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,850 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,949 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [In Denial](https://open.spotify.com/track/3Iad9aYt7mXZ249IGafBvq) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Opium EP](https://open.spotify.com/album/3G1Zfq1JCaIMYw4ViiyAFq) | 3:23 |
 | 12 | [Your Face as an Effigy](https://open.spotify.com/track/1E5zkWMKIEyo55VGi0Z7jW) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Your Face as an Effigy](https://open.spotify.com/album/1uZMooqc1adgBODvomveqI) | 2:29 |
 | 13 | [Funny Man](https://open.spotify.com/track/2sIz8tMsAfyXyQVsGTBQcN) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Funny Man](https://open.spotify.com/album/4slAkUCsu5WtFoxo5TCZWd) | 3:30 |
-| 14 | [No God Unconquered](https://open.spotify.com/track/4rOBY6tYScBN7CKUVkFwtg) | [Disentomb](https://open.spotify.com/artist/1shYFELmbMiLx0KpwTvBbW) | [No God Unconquered](https://open.spotify.com/album/3jg0tMBp5r84TdQrNO2NOl) | 4:22 |
+| 14 | [No God Unconquered](https://open.spotify.com/track/4rOBY6tYScBN7CKUVkFwtg) | [Disentomb](https://open.spotify.com/artist/1shYFELmbMiLx0KpwTvBbW), [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [No God Unconquered](https://open.spotify.com/album/3jg0tMBp5r84TdQrNO2NOl) | 4:22 |
 | 15 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 |
 | 16 | [RAM](https://open.spotify.com/track/65cNl8JnYU02M3FpGJfvYZ) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [RAM](https://open.spotify.com/album/2WYZIbOUtUtu8uF1Eycn5f) | 5:25 |
 | 17 | [Still Cursed](https://open.spotify.com/track/6BwZxpDoAYIENRvYzylLnK) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Still Cursed](https://open.spotify.com/album/57ivOO39SjDCEFHpcQFLKP) | 3:04 |

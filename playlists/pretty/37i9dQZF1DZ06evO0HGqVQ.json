@@ -1,12 +1,12 @@
 {
   "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
-  "num_followers": 27927,
+  "num_followers": 27945,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAACpGe0nNkQ+KZEKBhtTIkkc",
+  "snapshot_id": "ZvX1gAAAAAAXn2cZ7ybxOjv7527dwr8k",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
+        "name": "Volver A Triunfar",
+        "url": "https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 306040,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/4ZSvjWWlGJo0x4D9ukmtxU"
+      "duration_ms": 205493,
+      "name": "Despues De Ti",
+      "url": "https://open.spotify.com/track/3IgW1DodMOAua5GWZXRuBJ"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver A Triunfar",
-        "url": "https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Despues De Ti",
-      "url": "https://open.spotify.com/track/3IgW1DodMOAua5GWZXRuBJ"
+      "duration_ms": 306040,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/4ZSvjWWlGJo0x4D9ukmtxU"
     },
     {
       "added_at": null,

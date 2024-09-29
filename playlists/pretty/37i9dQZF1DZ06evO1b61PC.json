@@ -1,12 +1,12 @@
 {
-  "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11050,
+  "description": "This Is Jai Wolf. Los temas esenciales, todos en una lista.",
+  "num_followers": 11052,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAADeDW6Mnaaq/XVpA69mGHFI",
+  "snapshot_id": "ZvX1gAAAAAAiwKrW3NLxS++HQFwOylIh",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
+      "duration_ms": 39613,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 39613,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk"
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
     },
     {
       "added_at": null,

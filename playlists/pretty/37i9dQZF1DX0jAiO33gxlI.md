@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Monna Brutal
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,865 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,861 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Imperfeito](https://open.spotify.com/track/0ZelaqrIintnuFU9N5vrIo) | [pibara](https://open.spotify.com/artist/5Ur7VLsD9hik9MAJWrnx2k), [ord33p](https://open.spotify.com/artist/7hXaMquFih7WKnO51RVewJ), [bigel](https://open.spotify.com/artist/6oSW1AGGUjhNryNvdmYZWx) | [Imperfeito](https://open.spotify.com/album/797UckdySQKjUJdMsNznXj) | 4:01 |
 | 14 | [MORDOMO](https://open.spotify.com/track/2gO71ML16hhZEVEwEIf21r) | [Garu](https://open.spotify.com/artist/1mqdSZSaRiXJMY9cMPVI1G), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [AFRONASA](https://open.spotify.com/artist/1cIM4auCHPl3RWc7ZvKFYZ) | [MORDOMO](https://open.spotify.com/album/69ktg8njhvxnp5xpdVBpCI) | 2:08 |
 | 15 | [A Dança \- Ao Vivo](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Funk Superação \- Ao Vivo](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 4:04 |
-| 16 | [Reflexo \#1 \- Noite Fria](https://open.spotify.com/track/0bIq7M7YznoOlvfpcIjFwc) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Reflexo \#1 \- Noite Fria](https://open.spotify.com/album/2qOQoPqQqxtbUmruvQ96og) | 2:07 |
+| 16 | [Reflexo \#1 \- Noite Fria](https://open.spotify.com/track/0bIq7M7YznoOlvfpcIjFwc) | [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Reflexo \#1 \- Noite Fria](https://open.spotify.com/album/2qOQoPqQqxtbUmruvQ96og) | 2:07 |
 | 17 | [Senhorita XX](https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Edie](https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Senhorita XX](https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6) | 3:58 |
 | 18 | [Perfil\#97 \- Trazendo a Vibe](https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [Perfil\#97 \- Trazendo a Vibe](https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u) | 2:19 |
 | 19 | [PuTo](https://open.spotify.com/track/1kFjZA6xGrmsyAS8QFpA6Z) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe), [Medrodelic](https://open.spotify.com/artist/6zcDYl2vwf0bB3ph1VnvHx), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Talismã](https://open.spotify.com/album/6IL34iJeyQYwR7TdCu2IY8) | 3:41 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Será Que Vai Me Atender](https://open.spotify.com/track/0MnqaonXswLq0eXummRsoz) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 1:57 |
 | 74 | [Spice](https://open.spotify.com/track/40pvoMvErxOKzeXSScaUaV) | [Espectro](https://open.spotify.com/artist/7phgIJ88gDxkUK6pbkQw8r), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Spice](https://open.spotify.com/album/2qhHeH0LDJrQVjK4sHvsP6) | 2:41 |
 
-Snapshot ID: `ZvYf7AAAAADXgltQL0rg5WA48ELBYs7S`
+Snapshot ID: `ZvYf7AAAAABrpg0ZIj/5w5fbuhSzoYGT`

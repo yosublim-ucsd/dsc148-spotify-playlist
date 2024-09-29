@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 353777,
+  "num_followers": 353969,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Hare Ram",
-        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
+        "name": "THIS IS NOT AN ALBUM",
+        "url": "https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
         }
       ],
-      "duration_ms": 199727,
-      "name": "Hare Ram",
-      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
+      "duration_ms": 377370,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "THIS IS NOT AN ALBUM",
-        "url": "https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt"
+        "name": "Hare Ram",
+        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
       },
       "artists": [
         {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 377370,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
+      "duration_ms": 199727,
+      "name": "Hare Ram",
+      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -715,18 +715,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Better Than U Thought",
-        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
+        "name": "Simulator (Mha Iri Remix)",
+        "url": "https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 189618,
-      "name": "Better Than U Thought",
-      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
+      "duration_ms": 240000,
+      "name": "Simulator - Mha Iri Remix",
+      "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -751,26 +759,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Simulator (Mha Iri Remix)",
-        "url": "https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi"
+        "name": "Better Than U Thought",
+        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Simulator - Mha Iri Remix",
-      "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
+      "duration_ms": 189618,
+      "name": "Better Than U Thought",
+      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        }
-      ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/6v260UdseJka96hzE3oy1d"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 383039,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2024-09-20 04:00:00",

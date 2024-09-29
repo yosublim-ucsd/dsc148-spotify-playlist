@@ -3457,24 +3457,6 @@
     },
     {
       "album": {
-        "name": "Heaven - From \"Fifty Shades Freed (Original Motion Picture Soundtrack)\"",
-        "url": "https://open.spotify.com/album/6L3gI00jSEv7LZB7bqt6rq"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "date_added": "2022-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191813,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
-    },
-    {
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1T1vo6h4dmWlRPzuhhKWRB"
       },
@@ -3490,6 +3472,24 @@
       "duration_ms": 204829,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1EBo6a9v15wx4WPfPWj5fz"
+    },
+    {
+      "album": {
+        "name": "Heaven [From \"Fifty Shades Freed (Original Motion Picture Soundtrack)\"]",
+        "url": "https://open.spotify.com/album/6L3gI00jSEv7LZB7bqt6rq"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Heaven - From \"Fifty Shades Freed\" Soundtrack",
+      "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 144970,
+  "num_followers": 144989,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Bitter Pill (Deluxe Version)",
+        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 187898,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Bitter Pill (Deluxe Version)",
-        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
     },
     {
       "added_at": "2022-10-17 15:00:00",

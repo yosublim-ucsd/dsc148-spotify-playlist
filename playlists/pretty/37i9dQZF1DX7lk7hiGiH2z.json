@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 44128,
+  "num_followers": 44167,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Giraffenaffen 3",
-        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Unter dem Meer",
-      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 239924,
       "name": "Mein kleiner K\u00fcrbis",
       "url": "https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Giraffenaffen 3",
+        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Unter dem Meer",
+      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Eddi & D\u00e4n singen noch mehr Kinderlieder a cappella, Vol. 3",
-        "url": "https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD"
-      },
-      "artists": [
-        {
-          "name": "Eddi & D\u00e4n",
-          "url": "https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D"
-        }
-      ],
-      "duration_ms": 98266,
-      "name": "Langsam zieht der Herbst in's Land",
-      "url": "https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF"
-    },
-    {
-      "added_at": "2024-09-27 15:22:32",
-      "album": {
         "name": "Ab auf die Reise",
         "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
       },
@@ -531,26 +515,34 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Ich lass mich nicht \u00e4rgern",
-        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
+        "name": "Eddi & D\u00e4n singen noch mehr Kinderlieder a cappella, Vol. 3",
+        "url": "https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD"
       },
       "artists": [
         {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        },
-        {
-          "name": "Berlin Radio Children's Choir",
-          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
+          "name": "Eddi & D\u00e4n",
+          "url": "https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Ich lass mich nicht \u00e4rgern",
-      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
+      "duration_ms": 98266,
+      "name": "Langsam zieht der Herbst in's Land",
+      "url": "https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF"
+    },
+    {
+      "added_at": "2024-09-27 15:22:32",
+      "album": {
+        "name": "Herbst",
+        "url": "https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Hallo Herbst",
+      "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -631,18 +623,26 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Herbst",
-        "url": "https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s"
+        "name": "Ich lass mich nicht \u00e4rgern",
+        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
       },
       "artists": [
         {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        },
+        {
+          "name": "Berlin Radio Children's Choir",
+          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
         }
       ],
-      "duration_ms": 163733,
-      "name": "Hallo Herbst",
-      "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
+      "duration_ms": 199520,
+      "name": "Ich lass mich nicht \u00e4rgern",
+      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Kinderlieder f\u00fcr die Kita - EP",
-        "url": "https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v"
+        "name": "Lazuli. Kindermusik f\u00fcr die ganze Familie",
+        "url": "https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Gr\u00fcnschnabel",
+          "url": "https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO"
         }
       ],
-      "duration_ms": 187320,
-      "name": "H\u00f6rst du die Regenw\u00fcrmer husten",
-      "url": "https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP"
+      "duration_ms": 197893,
+      "name": "Laubkonfetti (Es ist Herbst)",
+      "url": "https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR"
     },
     {
       "added_at": "2024-09-27 15:22:32",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-09-27 15:22:32",
       "album": {
-        "name": "Lazuli. Kindermusik f\u00fcr die ganze Familie",
-        "url": "https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb"
+        "name": "Kinderlieder f\u00fcr die Kita - EP",
+        "url": "https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v"
       },
       "artists": [
         {
-          "name": "Gr\u00fcnschnabel",
-          "url": "https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 197893,
-      "name": "Laubkonfetti (Es ist Herbst)",
-      "url": "https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR"
+      "duration_ms": 187320,
+      "name": "H\u00f6rst du die Regenw\u00fcrmer husten",
+      "url": "https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP"
     },
     {
       "added_at": "2024-09-27 15:22:32",

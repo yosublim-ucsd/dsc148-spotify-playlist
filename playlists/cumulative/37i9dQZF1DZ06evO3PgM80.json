@@ -836,10 +836,32 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "album": {
+        "name": "Som das \u00c1guas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Ld1idWbNLeraKHfusfumG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327213,
+      "name": "Som das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4M7zH6rJM4BOUkqdBp3fHE"
     },
     {
       "album": {

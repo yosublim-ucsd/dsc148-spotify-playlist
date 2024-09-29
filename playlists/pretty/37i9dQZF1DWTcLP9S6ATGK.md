@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: giring ganesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,536 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,545 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 10 | [Kembali](https://open.spotify.com/track/59OWkgz8gCVcPPsH6Q7Cki) | [bedacerita.](https://open.spotify.com/artist/2LrbX4xyxtkwC0LLqsXqOP) | [Kembali](https://open.spotify.com/album/0E03zjmCULVZbWWEuJaAIc) | 4:15 |
 | 11 | [Nomor Satu](https://open.spotify.com/track/57EvfEDG4agFn1a0SLbHbk) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Nomor Satu](https://open.spotify.com/album/0iSGNSqSYEokAF47QbcU3Q) | 3:50 |
 | 12 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
-| 13 | [Tak Ingin Terulang](https://open.spotify.com/track/1P1rzEpL5i10QeFdEGVV0l) | [Elisa Jacquline](https://open.spotify.com/artist/1zwTcfPv6VCLennrcKg0LZ) | [Tak Ingin Terulang Lagi](https://open.spotify.com/album/1l5Vsv2JvIgTa6Tjsojbxp) | 3:48 |
+| 13 | [Tak Ingin Terulang Lagi](https://open.spotify.com/track/1P1rzEpL5i10QeFdEGVV0l) | [Elisa Jacquline](https://open.spotify.com/artist/1zwTcfPv6VCLennrcKg0LZ) | [Tak Ingin Terulang Lagi](https://open.spotify.com/album/1l5Vsv2JvIgTa6Tjsojbxp) | 3:48 |
 | 14 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 |
 | 15 | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa) | 4:55 |
 | 16 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \- Aviary Live Session](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 |

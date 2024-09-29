@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:5FxshnB3eJ2YDn8xN8zDKq">Hannah Kerr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,663 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,734 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 23 | [Grave Robber](https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Grave Robber](https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e) | 2:50 |
 | 24 | [Good News](https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Good News](https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa) | 2:59 |
 | 25 | [Look What God Can Do](https://open.spotify.com/track/41MkqhPWSISUcJaNIGnSG0) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Days That We Dreamed Of](https://open.spotify.com/album/4xXy7tarzpboQsgsMitTfv) | 2:55 |
-| 26 | [No Survivors \- Live](https://open.spotify.com/track/5axxu8LBfLa7MTjJURV3cM) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters \- Extended Edition](https://open.spotify.com/album/49c23AAJwHP8ApCbl1gnnd) | 2:50 |
+| 26 | [No Survivors \- Live](https://open.spotify.com/track/5axxu8LBfLa7MTjJURV3cM) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters \(Extended Edition\)](https://open.spotify.com/album/49c23AAJwHP8ApCbl1gnnd) | 2:50 |
 | 27 | [Underwater \- Southern Tracks Session](https://open.spotify.com/track/3LKNZSBXH8QkEZQOK5JCe9) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Time \- 25th Anniversary Edition](https://open.spotify.com/album/2fFzxgN5NNGAebftudkmEh) | 5:33 |
 | 28 | [You Don't Leave Me](https://open.spotify.com/track/7uARzsxIFbFvZc0xZC8Aca) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Don't Leave Me](https://open.spotify.com/album/65DV27ToLxreBoQGJxErHc) | 3:34 |
 | 29 | [He is](https://open.spotify.com/track/7LzaqmzuCALLAe3oUqJ4ns) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [He is](https://open.spotify.com/album/3D4lzsOzNBCK4uPVYJ0Lms) | 3:40 |

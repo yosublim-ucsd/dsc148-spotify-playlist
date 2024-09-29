@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Sep 22:02 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALlDdm55syrm0JgWQjIsaXjYTQkC9F",
+  "snapshot_id": "AAALmgIRdVOhUMTHBdWBJTWzQwakWnHP",
   "tracks": [
     {
       "added_at": "2024-09-25 22:02:54",
@@ -23,6 +23,70 @@
       "duration_ms": 248000,
       "name": "iii",
       "url": "https://open.spotify.com/track/5kXkBySxLQ9cJ0z0gYdNTu"
+    },
+    {
+      "added_at": "2024-09-28 22:02:37",
+      "album": {
+        "name": "Just Better",
+        "url": "https://open.spotify.com/album/2PXpp6EaHORiMp1vOUTgXv"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 183676,
+      "name": "Just Better",
+      "url": "https://open.spotify.com/track/3xj9OcQk2JtJ15Y5cTRIeC"
+    },
+    {
+      "added_at": "2024-09-28 22:02:37",
+      "album": {
+        "name": "EOS Pt 2",
+        "url": "https://open.spotify.com/album/5ZBBjyvDcfKrcMZCHlvJQj"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "EOS Pt 2",
+      "url": "https://open.spotify.com/track/0hMkBBv3bBnGSro4Fv3TFZ"
+    },
+    {
+      "added_at": "2024-09-28 22:02:37",
+      "album": {
+        "name": "JIN LAB Project 6. [Carry on]",
+        "url": "https://open.spotify.com/album/4cB9meUlWDcoK22kNEttc2"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "duration_ms": 165929,
+      "name": "Carry on",
+      "url": "https://open.spotify.com/track/1wlF8fMqva5iYup45HUPuG"
+    },
+    {
+      "added_at": "2024-09-28 10:02:23",
+      "album": {
+        "name": "Nightmare Worldwide",
+        "url": "https://open.spotify.com/album/1vbiOkeJjL2obOrHp7o9ln"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        }
+      ],
+      "duration_ms": 200770,
+      "name": "Nightmare Worldwide",
+      "url": "https://open.spotify.com/track/4F5ogfnKrwAdnQifUBM1Ty"
     },
     {
       "added_at": "2024-09-27 04:04:04",
@@ -231,6 +295,26 @@
       "duration_ms": 182093,
       "name": "My Name Is Jonas - Live On BBC Evening Sessions - January 26, 1995",
       "url": "https://open.spotify.com/track/6tgRNbjXGg4Qfnaoi7lNmS"
+    },
+    {
+      "added_at": "2024-09-28 16:02:19",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 146228,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN"
     },
     {
       "added_at": "2024-09-27 04:04:04",
@@ -609,6 +693,22 @@
       "url": "https://open.spotify.com/track/33u30OqC05Xu7wr6KvGkg8"
     },
     {
+      "added_at": "2024-09-28 10:02:23",
+      "album": {
+        "name": "SUMN PRETTY",
+        "url": "https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 158937,
+      "name": "SUMN PRETTY",
+      "url": "https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb"
+    },
+    {
       "added_at": "2024-09-27 04:04:04",
       "album": {
         "name": "Project Z",
@@ -811,138 +911,6 @@
       "duration_ms": 196944,
       "name": "Rosy",
       "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "Two New Malcolm Todd Songs",
-        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "You Owe Me",
-      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "Butter (with Baby Tate)",
-        "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Butter (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "Si Muriera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/74moEC06F3XyJUWX45gbVo"
-      },
-      "artists": [
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
-        }
-      ],
-      "duration_ms": 150442,
-      "name": "Si Muriera Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2k9vyqxVXnazhLPt6XvlV4"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "Vontade",
-        "url": "https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Doug Now",
-          "url": "https://open.spotify.com/artist/5nX28sEyu1TH2jbYmSD82b"
-        },
-        {
-          "name": "Fernanda Valadares",
-          "url": "https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR"
-        },
-        {
-          "name": "Jackson Ganga",
-          "url": "https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161"
-        },
-        {
-          "name": "Nathan Morais",
-          "url": "https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu"
-        },
-        {
-          "name": "\"Matheuzin\"",
-          "url": "https://open.spotify.com/artist/3SMunlucr4jZlqPR0etQps"
-        },
-        {
-          "name": "Gabruga",
-          "url": "https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "Vontade",
-      "url": "https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "Down On My Luck",
-        "url": "https://open.spotify.com/album/51FM3GXm9p3Oq4RLMXs66c"
-      },
-      "artists": [
-        {
-          "name": "Jacob Lee",
-          "url": "https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Down On My Luck",
-      "url": "https://open.spotify.com/track/7l0oN0PBjXugU2ahwk6uUV"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "If You Say So",
-        "url": "https://open.spotify.com/album/1WjUgogBBdknbnDVkbTuur"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 226745,
-      "name": "If You Say So",
-      "url": "https://open.spotify.com/track/6i6ICL9Dtjb1ksZiWN24NP"
     }
   ],
   "unique_name": "New Singles Now",

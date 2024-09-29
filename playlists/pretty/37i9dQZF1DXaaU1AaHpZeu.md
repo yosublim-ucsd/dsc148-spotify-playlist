@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con elmalamía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,411 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,432 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 50 | [Amiga Date Cuenta](https://open.spotify.com/track/7CB1gQT9cCWJXqOuxenbNx) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [Amiga Date Cuenta](https://open.spotify.com/album/0P0LxnPBNMoIPVnjYlY49D) | 4:05 |
 
-Snapshot ID: `ZvaDywAAAACikeHAsX0swSN/lY0Hajes`
+Snapshot ID: `ZvaDywAAAAAWU9Fya9YyK9pUutGZBk3Q`

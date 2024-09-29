@@ -1,13 +1,29 @@
 {
-  "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 762511,
+  "description": "This is Pearl Jam. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 762641,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAADNEzIGFIT9CLodA9UVIQZ6",
+  "snapshot_id": "ZvX1gAAAAADpLKFFRuLJow2DFPm7FgHU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting For Stevie (Radio Edit)",
+        "url": "https://open.spotify.com/album/6luCi1srmvgzgPQH74ZMEw"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 240148,
+      "name": "Waiting For Stevie - Radio Edit",
+      "url": "https://open.spotify.com/track/2K1O1b3xtNmShlNndJhFjN"
+    },
     {
       "added_at": null,
       "album": {
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "The Fixer",
-      "url": "https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vitalogy",
         "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 277586,
       "name": "Corduroy - Remastered",
       "url": "https://open.spotify.com/track/5F6rwEF15hN1jnhNk2YQHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "The Fixer",
+      "url": "https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Go - Remastered",
-      "url": "https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vitalogy",
         "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 318066,
       "name": "Immortality - Remastered",
       "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Go - Remastered",
+      "url": "https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Code",
-        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Off He Goes",
-      "url": "https://open.spotify.com/track/0G6qDSSFmjzb9N0PK8PjGm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backspacer",
         "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 248666,
       "name": "Unthought Known",
       "url": "https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Code",
+        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Off He Goes",
+      "url": "https://open.spotify.com/track/0G6qDSSFmjzb9N0PK8PjGm"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Code",
-        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 62360,
-      "name": "Lukin",
-      "url": "https://open.spotify.com/track/4thEpE8oDddq6fVuHfdKUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backspacer",
         "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 177400,
       "name": "The End",
       "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Code",
+        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 62360,
+      "name": "Lukin",
+      "url": "https://open.spotify.com/track/4thEpE8oDddq6fVuHfdKUY"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Code",
-        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5707A8XNKQT26Ciek7H9KV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binaural",
         "url": "https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 306840,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/1Tnixg8lMEydzmBsZzxQpR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Code",
+        "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5707A8XNKQT26Ciek7H9KV"
     },
     {
       "added_at": null,

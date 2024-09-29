@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This Is Emei\. Zásadní skladby, všechny v jednom playlistu.
+> This is Emei\. The essential tracks, all in one playlist.
 
 24 songs - 56 min 29 sec
 

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:4gepV1NXit1T15YxX0Bv27\">Bette</a>",
-  "num_followers": 45389,
+  "num_followers": 45393,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ambulance",
-        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
-      },
-      "artists": [
-        {
-          "name": "Gunge",
-          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
-        }
-      ],
-      "duration_ms": 183607,
-      "name": "Ambulance",
-      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "SAMBA",
         "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215238,
       "name": "Under Vand",
       "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Ambulance",
+        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "Ambulance",
+      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -891,6 +891,30 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "EDITS",
+        "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        },
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        },
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Do you wanna - Fine & Molina Edit",
+      "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "No One Else",
         "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "EDITS",
-        "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        },
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        },
-        {
-          "name": "Molina",
-          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Do you wanna - Fine & Molina Edit",
-      "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Syreregn",
-        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Syreregn",
-      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Dopa min",
         "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 161911,
       "name": "Dopa min",
       "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Syreregn",
+        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Syreregn",
+      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Den Ud\u00f8delige Historie",
-        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
-      },
-      "artists": [
-        {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
-        }
-      ],
-      "duration_ms": 152729,
-      "name": "Den Ud\u00f8delige Historie",
-      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Sunshine In Atalaya",
         "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Den Ud\u00f8delige Historie",
+        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
+      },
+      "artists": [
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        }
+      ],
+      "duration_ms": 152729,
+      "name": "Den Ud\u00f8delige Historie",
+      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Puff",
-        "url": "https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E"
+        "name": "Lyden Af Livet",
+        "url": "https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv"
       },
       "artists": [
         {
-          "name": "Dopha",
-          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
         }
       ],
-      "duration_ms": 199578,
-      "name": "Puff",
-      "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"
+      "duration_ms": 230125,
+      "name": "Lyden Af Livet",
+      "url": "https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ"
     }
   ],
   "unique_name": "ung kniv ",

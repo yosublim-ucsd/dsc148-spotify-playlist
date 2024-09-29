@@ -2,7 +2,7 @@
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
+> This is: Kelli\-Leigh\. Alle wichtigen Tracks in einer Playlist.
 
 60 songs - 3 hr 3 min
 
@@ -59,7 +59,7 @@
 | [This Good](https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Good](https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z) | 2:40 | 2024-05-14 |  |
 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 | 2024-05-14 |  |
 | [Touch Me](https://open.spotify.com/track/704qdWVSyxrFhoGTB0QWag) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Touch Me](https://open.spotify.com/album/380Y40ZOSIWlIWEWjalnkQ) | 2:29 | 2024-05-14 |  |
-| [U Got A Friend \- Radio Edit](https://open.spotify.com/track/65vfNxJOeSEfWBiprx22P1) | [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM), [Johnny Bravo](https://open.spotify.com/artist/43OuMHd3wvXYQlNsnzN0Cb), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [U Got A Friend \(Radio Edit\)](https://open.spotify.com/album/4qmA61atcUT9HJxqvL32js) | 3:11 | 2024-05-14 |  |
+| [U Got A Friend \- Radio Edit](https://open.spotify.com/track/65vfNxJOeSEfWBiprx22P1) | [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM), [Johnny Bravo](https://open.spotify.com/artist/43OuMHd3wvXYQlNsnzN0Cb), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [U Got A Friend \(Radio Edit\)](https://open.spotify.com/album/4qmA61atcUT9HJxqvL32js) | 3:11 | 2024-05-14 | 2024-09-29 |
 | [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 | 2024-06-27 |  |
 | [Unconditional](https://open.spotify.com/track/7vzHvUDu54lnqcC9fB315l) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/02UTbY9xBxoKjiM9mDh529) | 3:04 | 2024-05-19 | 2024-06-27 |
 | [Unconditional \- Club Edit](https://open.spotify.com/track/4xcwaflj6AZnR3s6d9a3fR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/2TkKDcE0X9qWjqDtddsZD7) | 3:28 | 2024-05-14 | 2024-05-19 |

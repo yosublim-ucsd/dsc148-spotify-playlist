@@ -2049,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want to Change You",
+        "url": "https://open.spotify.com/album/5XjLh03TyuPPWZWMYQeExC"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326206,
+      "name": "I Don't Want to Change You",
+      "url": "https://open.spotify.com/track/0rryOf4AVjQdDDgotJ3PbS"
+    },
+    {
+      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 194920,
       "name": "La Fugitiva (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx"

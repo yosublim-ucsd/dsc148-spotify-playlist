@@ -4362,7 +4362,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 407804,
       "name": "On My Own - Bross (RO) Remix",
       "url": "https://open.spotify.com/track/38myjqkNALis6K4B48JEat"
@@ -5084,6 +5084,24 @@
       "duration_ms": 346586,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5ERQXzOXGNwfVkAkLU5JFS"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219568,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/7sprAZt5hceqMpbJ91DuRu"
     },
     {
       "album": {

@@ -73,6 +73,32 @@
     },
     {
       "album": {
+        "name": "#SV 01 - Major RD / Underground Freestyle",
+        "url": "https://open.spotify.com/album/1nP7W7vp078EEn6JCSiGgp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "#SV 01 - Major RD / Underground Freestyle",
+      "url": "https://open.spotify.com/track/2j9o7TdpwxTNsbyEYOntRk"
+    },
+    {
+      "album": {
         "name": "#voltavida",
         "url": "https://open.spotify.com/album/6rTurZTJQYuFmc78USqVWZ"
       },
@@ -29050,28 +29076,6 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
-    },
-    {
-      "album": {
-        "name": "SALA VERMELHA 01",
-        "url": "https://open.spotify.com/album/1nP7W7vp078EEn6JCSiGgp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "date_added": "2024-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131200,
-      "name": "SALA VERMELHA 01",
-      "url": "https://open.spotify.com/track/2j9o7TdpwxTNsbyEYOntRk"
     },
     {
       "album": {

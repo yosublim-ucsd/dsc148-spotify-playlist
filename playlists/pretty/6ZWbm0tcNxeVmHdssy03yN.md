@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,243 likes - 92 songs - 4 hr 57 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,268 likes - 92 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 2 | [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 |
 | 3 | [Vertigo](https://open.spotify.com/track/5zOCmQnG6cDRhztYMc4Kqf) | [Venjent](https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd), [Morty](https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD) | [Vertigo](https://open.spotify.com/album/5JQcl0hgTuA8Wg0wz2uXTd) | 3:19 |
 | 4 | [No upstream](https://open.spotify.com/track/7m5X4TXfY2YpUAAOOdTlsY) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [No upstream](https://open.spotify.com/album/02H6pG00aPWtSubJgQgdwg) | 2:31 |
-| 5 | [Kamehameha](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 |
+| 5 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [OLAHOLAH](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 |
 | 6 | [Firecracker](https://open.spotify.com/track/2XwMUGqZqbMJnNGpFeTN9m) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Firecracker](https://open.spotify.com/album/0NqZfZjRUO5PxhVQ0nraqW) | 3:40 |
 | 7 | [Down In Boots](https://open.spotify.com/track/2L2U4LFR1cYUQbckzdlnO4) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Down In Boots](https://open.spotify.com/album/6pa9tFzCCn7FQdobQ2Rdyk) | 3:22 |
 | 8 | [LIGHTS OFF](https://open.spotify.com/track/2NlGtUnC80NOa802yB9SCl) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [No Distractions](https://open.spotify.com/album/0nDf7jP3iWA83WhgPI43DC) | 2:43 |

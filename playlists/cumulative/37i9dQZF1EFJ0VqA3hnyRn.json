@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Awhoa (Aye Daddy)",
+        "url": "https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Awhoa (Aye Daddy)",
+      "url": "https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm"
+    },
+    {
+      "album": {
         "name": "Malibu Babie SZN: Vol I",
         "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
       },

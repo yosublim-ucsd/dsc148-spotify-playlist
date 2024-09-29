@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is BIA. The essential tracks, all in one playlist.",
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
   "name": "This Is BIA",
   "tracks": [
     {
@@ -1705,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161177,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
+    },
+    {
+      "album": {
         "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
         "url": "https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca"
       },
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 156519,
       "name": "PLATE",
       "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 140875,
       "name": "Yeah (with BIA)",
       "url": "https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq"

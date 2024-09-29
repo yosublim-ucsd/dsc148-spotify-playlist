@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Dani Bessa
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,436 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,397 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Mamífero](https://open.spotify.com/track/65rO0bHugFesLwCcmrpRJQ) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH) | [Mamífero](https://open.spotify.com/album/30HmZaLv7CCRa2Vm1cuy25) | 2:31 |
 | 75 | [aonde mais](https://open.spotify.com/track/5bgWnou9B3oO7nJAUVdig5) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [aonde mais](https://open.spotify.com/album/1gtIJPonh5fWPwEKBc8q6g) | 3:03 |
 
-Snapshot ID: `ZvYgZAAAAABEK0VdwSeZOY7YyZ+0TCA1`
+Snapshot ID: `ZvYgZAAAAABg46SWl7nFrkITjP0JGeK4`

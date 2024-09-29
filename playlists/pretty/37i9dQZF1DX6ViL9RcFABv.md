@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Ana Moura
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,662 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,704 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 20 | [Desamor \(feat\. Gson\)](https://open.spotify.com/track/51D690cjtxBGNrGhHgCeuz) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Desamor \(feat\. Gson\)](https://open.spotify.com/album/2P6QxZUqH3ecJ7WGiOSgqQ) | 4:02 |
 | 21 | [Na Escola](https://open.spotify.com/track/4gKnmJl100iarWltT3dtyc) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Na Escola](https://open.spotify.com/album/4zfmpREr5skUcctg0j1XUp) | 4:26 |
 | 22 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 |
-| 23 | [Podíamos Ser Nós](https://open.spotify.com/track/7rWYvfOX3c6JoenZBxQFYI) | [IRMA](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Twala Kumoxi](https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4) | 2:24 |
+| 23 | [podíamos ser nós](https://open.spotify.com/track/7rWYvfOX3c6JoenZBxQFYI) | [IRMA](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [TWALA KUMOXI](https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4) | 2:24 |
 | 24 | [Noite](https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Noite](https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci) | 3:31 |
 | 25 | [Cara a Cara](https://open.spotify.com/track/2Ik0mM3HtmmFJNBQU6iutp) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Cara a Cara](https://open.spotify.com/album/6S3P0rv3UuWsWwRLwHs0SM) | 2:59 |
 | 26 | [Mãe](https://open.spotify.com/track/7nPsaDN1eYi7QFslaVDSDY) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Canções Bonitas em Português Vol\. I](https://open.spotify.com/album/5L8p4ZsuhyPnoav0zmjW4B) | 3:45 |

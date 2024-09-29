@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Blueburn
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,069 likes - 57 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,070 likes - 57 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:6cbdCv0bmLwcxSVFM7tuyG">John Mark Pantana</a>  and <a href="spotify:artist:2bEFxVGVlzEIEdDAaQZCrc">LOVKN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,218 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,249 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [Without Benefits](https://open.spotify.com/track/3olopfRfmluYrRnLsaq5Fk) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Without Benefits](https://open.spotify.com/album/5BRx1AZC79y0FYfO2n6Pl3) | 3:11 |
 | 12 | [LIKE A FOOL](https://open.spotify.com/track/1e9A0e5QZcjFpy4dFU5bt6) | [Cody Towell](https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us) | [Our New Beginning](https://open.spotify.com/album/4gfgD7Rn7B11ExDNLDa60f) | 3:10 |
 | 13 | [Keep On Keepin' On](https://open.spotify.com/track/4UZeGVD73nEFEJUBdT0PS1) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Keep On Keepin' On](https://open.spotify.com/album/2EDTFqQ0A6vxjcwikETQmp) | 2:53 |
-| 14 | [ONE OF A KIND](https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [SuperHuman](https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC) | 4:33 |
+| 14 | [ONE OF A KIND](https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [SuperHuman](https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC) | 4:33 |
 | 15 | [Holy Trouble](https://open.spotify.com/track/4crXyrGXp9UJlTTSMH8nfN) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Holy Trouble + What I Was Made For](https://open.spotify.com/album/26ESial2wdAJSrBqFLGeoY) | 2:51 |
 | 16 | [Revival Town \- 2024](https://open.spotify.com/track/3tOGFRsyEyivySLPAaMMbH) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Revival Town / I’ve Found Jesus \(2024\)](https://open.spotify.com/album/5KNqheFcIZXpQOd7fJfJAr) | 5:46 |
 | 17 | [Christ Or Nothing](https://open.spotify.com/track/7aM4mYaUCriKeMKSE0XhAO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [This Is Holy](https://open.spotify.com/album/2iK6XoSU5MjNisVgtJ5v11) | 3:18 |

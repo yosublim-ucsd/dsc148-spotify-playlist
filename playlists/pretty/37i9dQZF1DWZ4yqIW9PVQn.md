@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,842 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,845 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 57 | [Wait A Minute ! \(Feat\. 황세현\(h3hyeon\)\)](https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Wait A Minute !](https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD) | 3:14 |
 | 58 | [Dreamed a dream](https://open.spotify.com/track/41PmrOKHX6G3wo4nE7jVhq) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/7e5sJT4ByH3fVYXvHoMYdt) | 3:20 |
 | 59 | [Can't Hold You](https://open.spotify.com/track/1w5EcRVPlydRogxrmrQpvY) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [From the day we loved to the day we said goodbye](https://open.spotify.com/album/06NnMNvwMAgpuznCmaKHzC) | 3:42 |
-| 60 | [Only we know…](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Only we know…](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 |
+| 60 | [우리 둘만 아는](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [우리 둘만 아는](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 |
 | 61 | [LOVE STORY](https://open.spotify.com/track/1hV2SwB1pcFXZgYG9Sq2J7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:56 |
 | 62 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 |
 | 63 | [Butterfly](https://open.spotify.com/track/1wMWUyEEPNqKW5sVOZKUOk) | [Joshua](https://open.spotify.com/artist/3WEyV00BslpJ11cnVmJaJx) | [Your Questions, My Answers](https://open.spotify.com/album/0EhxVCLBEpfhTPEL7GbZYk) | 3:01 |

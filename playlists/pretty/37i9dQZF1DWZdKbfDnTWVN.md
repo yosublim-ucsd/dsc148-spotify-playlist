@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ"> Nyashinski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,885 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,893 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Set It \)](https://open.spotify.com/track/6FMhJb6kv0IivuDSEkupp7) | [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy) | [Set It \)](https://open.spotify.com/album/270daYV4IA33EjEGZ6yxUL) | 2:45 |
-| 2 | [GUZA UMBWA](https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [DOMANI MKADINALI](https://open.spotify.com/artist/0E2SnFa1zHrnkq9XILmxRY) | [ESCOBAR](https://open.spotify.com/album/71sTYeu27jvOCfcBdZ2DVU) | 3:42 |
+| 2 | [Guza Umbwa](https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [DOMANI MKADINALI](https://open.spotify.com/artist/0E2SnFa1zHrnkq9XILmxRY) | [ESCOBAR](https://open.spotify.com/album/71sTYeu27jvOCfcBdZ2DVU) | 3:42 |
 | 3 | [1 of 1](https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:30 |
 | 4 | [KUWALEMEA](https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [MUNGA MKADINALI](https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm), [SOSATHEPRODIGY](https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm) | [KUWALEMEA](https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr) | 2:43 |
 | 5 | [Kuna Siku Youths Wataungana](https://open.spotify.com/track/3btdpyVBUk4rcTFZ0t2HpT) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T), [SirBwoy](https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC) | [Haitaki Hasira](https://open.spotify.com/album/4XYUisoUrAzj5prx4rtIso) | 3:56 |

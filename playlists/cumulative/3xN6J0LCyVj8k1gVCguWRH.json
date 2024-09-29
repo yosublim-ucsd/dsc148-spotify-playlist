@@ -1681,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0tf6O98muJfG4cUlayzAvq"
+      },
+      "artists": [
+        {
+          "name": "Sasha Lopez",
+          "url": "https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF"
+        },
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/4vriDERvHPkOcvPeqJJAEH"
+    },
+    {
+      "album": {
         "name": "Abre La Ventana",
         "url": "https://open.spotify.com/album/3AmgHVZl22MpY3JKrQGQDm"
       },
@@ -15379,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "Halloween Reclaim - Rich Anthony and More",
+        "url": "https://open.spotify.com/album/5Lwcw1KK12OHINiawwohJp"
+      },
+      "artists": [
+        {
+          "name": "Rich Anthony",
+          "url": "https://open.spotify.com/artist/0fHFZwSomtTuDp3Mmq2Psx"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182559,
+      "name": "Dance with the Monsters",
+      "url": "https://open.spotify.com/track/18GlMiv1lNRvq3R1cEmuD0"
+    },
+    {
+      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/7myJycpKkQVg2hvgzkQKE7"
       },
@@ -16434,6 +16474,24 @@
       "duration_ms": 212000,
       "name": "Destinations",
       "url": "https://open.spotify.com/track/1zUBS5IfmobMzAxuHxJcYp"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/2iJHBe5jeLs1Nw1BhALaZe"
+      },
+      "artists": [
+        {
+          "name": "SUUN",
+          "url": "https://open.spotify.com/artist/2KFjCpygjUQqBd7LJ8kahP"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6DTHRCD8RHkZlE7qhLinjB"
     },
     {
       "album": {
@@ -23935,6 +23993,24 @@
     },
     {
       "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/0cqmmBlh0pWcB5tthVZI2f"
+      },
+      "artists": [
+        {
+          "name": "Silk & Bloom",
+          "url": "https://open.spotify.com/artist/56OYEJPaUapEZ5pxocqR9O"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171837,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/3lGlni5Gdr5iyRSIdWC7b7"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2qg46upRNBqRdQPicGbrBK"
       },
@@ -27966,7 +28042,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 191088,
       "name": "Head Rush",
       "url": "https://open.spotify.com/track/3jkOvFQbAg2i0dJutdtUwR"
@@ -28618,7 +28694,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 175648,
       "name": "Hey Gina",
       "url": "https://open.spotify.com/track/2CZJXVtnwAz7KdOvZGqxCf"
@@ -31504,7 +31580,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 177893,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - Futos\u00e9 Remix",
       "url": "https://open.spotify.com/track/6Ew0wsuxYHKwwYAchyem58"
@@ -34596,6 +34672,24 @@
       "duration_ms": 190179,
       "name": "Jukebox",
       "url": "https://open.spotify.com/track/0BA7OJiPQ9zPTJhSuhX4MI"
+    },
+    {
+      "album": {
+        "name": "Julian",
+        "url": "https://open.spotify.com/album/3Ml7IswIovMBGocd5xtbc4"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186116,
+      "name": "Julian",
+      "url": "https://open.spotify.com/track/2nttAY57yOm1zNqwog8cUq"
     },
     {
       "album": {
@@ -41339,6 +41433,24 @@
     },
     {
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/6AwFWnSVHs6B7Jdw4DH0n5"
+      },
+      "artists": [
+        {
+          "name": "ORO FRESCO",
+          "url": "https://open.spotify.com/artist/0T4GpnXlD8ALG1JPS5XmJw"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142450,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/5pCllEiLYMhmuv9Do4k6lm"
+    },
+    {
+      "album": {
         "name": "marchito",
         "url": "https://open.spotify.com/album/2I5dbJQzpVXkcQIkVnhSrY"
       },
@@ -41578,6 +41690,24 @@
       "duration_ms": 149931,
       "name": "Maybe She Knows",
       "url": "https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL"
+    },
+    {
+      "album": {
+        "name": "Maybe Tonight",
+        "url": "https://open.spotify.com/album/5PPO1TAqTxEtmTuGMJBxMg"
+      },
+      "artists": [
+        {
+          "name": "Jascha Richter",
+          "url": "https://open.spotify.com/artist/2VOMfXGriwklZIkNmdP7ld"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213134,
+      "name": "Maybe Tonight",
+      "url": "https://open.spotify.com/track/23SENjysjh3gLAeSeoV7WT"
     },
     {
       "album": {
@@ -43052,7 +43182,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 151058,
       "name": "Missed Call",
       "url": "https://open.spotify.com/track/3kN8eP9bJLdlFrB82TMld4"
@@ -44374,6 +44504,24 @@
       "duration_ms": 222880,
       "name": "Mustard on My Shirt",
       "url": "https://open.spotify.com/track/6EYHbUZVtHpbPiWByxj1tS"
+    },
+    {
+      "album": {
+        "name": "Mutual",
+        "url": "https://open.spotify.com/album/2l2vFbLYomnokzp2sEVTeo"
+      },
+      "artists": [
+        {
+          "name": "Michelle Fabre",
+          "url": "https://open.spotify.com/artist/5XeBIRZOoIk86dKUoq32WE"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172563,
+      "name": "Mutual",
+      "url": "https://open.spotify.com/track/0ct2d785CKVdtKtZrTgJyG"
     },
     {
       "album": {
@@ -59973,6 +60121,24 @@
     },
     {
       "album": {
+        "name": "Speeding Lanes",
+        "url": "https://open.spotify.com/album/4WUo9SgwB1TTTDSbRDBEeR"
+      },
+      "artists": [
+        {
+          "name": "LTB",
+          "url": "https://open.spotify.com/artist/0T5S2f6DGFpJAGavX5TSLh"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "Speeding Lanes",
+      "url": "https://open.spotify.com/track/5y5Mx8Z7OV4QPZoZFTw5bn"
+    },
+    {
+      "album": {
         "name": "Spells Me Under",
         "url": "https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC"
       },
@@ -72325,6 +72491,24 @@
     },
     {
       "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/0Gvk9ou8fnIl4r3HgxsJCT"
+      },
+      "artists": [
+        {
+          "name": "Teezyy",
+          "url": "https://open.spotify.com/artist/2TPTbcYwodJ9dp5uVMSQSj"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162097,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/0jXKbOQvselr9LVpcIdMcW"
+    },
+    {
+      "album": {
         "name": "when i think of you",
         "url": "https://open.spotify.com/album/4Wuy8yZITKjUg5nJS7xitX"
       },
@@ -73076,6 +73260,24 @@
       "duration_ms": 163278,
       "name": "Who - MTG Funk Version",
       "url": "https://open.spotify.com/track/0qyTn3MkcN7a6y6skLpFnP"
+    },
+    {
+      "album": {
+        "name": "Who Am I Gonna Turn To",
+        "url": "https://open.spotify.com/album/76H8mdnh2ckGGENpao0Njj"
+      },
+      "artists": [
+        {
+          "name": "Chris Shorooi",
+          "url": "https://open.spotify.com/artist/5HCDCNfKTiKgKtCOB29zGM"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333750,
+      "name": "Who Am I Gonna Turn To",
+      "url": "https://open.spotify.com/track/4JUFnGzdyB5EdDIIJoZAkk"
     },
     {
       "album": {
@@ -74678,7 +74880,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 181773,
       "name": "You & I",
       "url": "https://open.spotify.com/track/4RhzlvjA5Ix57EDKXxp217"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Miki Ikhifa\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,125 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,170 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Moon River](https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Moon River](https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr) | 3:37 |
 | 50 | [It's Not Easy](https://open.spotify.com/track/6Ed9h10MAWN91XlA87mVr0) | [kare.pkg](https://open.spotify.com/artist/1zNDc5aiWfgLbGjuzVwvor), [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV), [Riccardo Oliva](https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA), [Moshun](https://open.spotify.com/artist/7lPkehVfwXG33uW7QQqsJS) | [It's Not Easy](https://open.spotify.com/album/6Mmajs7loGaaExggiFY3Wu) | 3:57 |
 
-Snapshot ID: `ZupQQAAAAABAOs/Xue5CgdlNcl1ZOqkL`
+Snapshot ID: `ZupQQAAAAABbnS/EfDVoDldHSn7oU3HA`

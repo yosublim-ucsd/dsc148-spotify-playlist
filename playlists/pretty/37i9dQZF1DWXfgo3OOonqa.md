@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,292 likes - 99 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,360 likes - 99 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [Rolex & Rose](https://open.spotify.com/track/0vNFt9TUiieyROntKMpM5J) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Rolex & Rose](https://open.spotify.com/album/5CXNlIMz8BMYDJObB2cGCO) | 2:27 |
 | 99 | [ANTISOCIAL](https://open.spotify.com/track/2eu219w7ZOFnr1H0DL6WtZ) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:28 |
 
-Snapshot ID: `ZvXZYAAAAAAP8P+A8Od4d9idgMg6B2HF`
+Snapshot ID: `ZvXZYAAAAAATuEQUpULn8kVst2+L38FV`

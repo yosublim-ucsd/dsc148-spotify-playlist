@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > xamã e leall na relíquia do kof ntj, é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,229 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,207 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Sem Bala Contada](https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sem Bala Contada](https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S) | 2:47 |
 | 50 | [Lugar de Fala I verso 01](https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp) | [Lugar de Fala I verso 01](https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh) | 1:27 |
 
-Snapshot ID: `ZvYf7AAAAAB7aYEWEcJgktB3nIuvKnno`
+Snapshot ID: `ZvYf7AAAAABLkrgKKtMFuvZnto0VfRqj`

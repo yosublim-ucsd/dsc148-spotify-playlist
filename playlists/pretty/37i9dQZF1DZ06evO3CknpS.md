@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521 likes - 31 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521 likes - 31 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,6 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 28 | [Sonata for Violin and Piano: Ben moderato: Recitativo\-Fantasia](https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 8:24 |
 | 29 | [Habanera](https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music and Memories: Clara Rockmore \(Bonus Album\)](https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv) | 2:59 |
 | 30 | [Sonata for violin and piano: Allegro](https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 8:57 |
-| 31 | [Elegy: Do not tempt me needlessly.](https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5) | [Mikhail Glinka](https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 3:24 |
+| 31 | [Sonata for violin and piano in A major: Allegretto ben moderato](https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:41 |
 
-Snapshot ID: `ZvSkAAAAAACJwb5eCEXX009i8krvgPAX`
+Snapshot ID: `ZvX1gAAAAACN7okjwUX08KVtYbekaX/j`

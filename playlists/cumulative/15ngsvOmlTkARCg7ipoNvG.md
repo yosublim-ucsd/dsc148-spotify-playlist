@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,805 songs - 1 day 13 hr 10 min
+1,806 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1604,6 +1604,7 @@
 | [Times Are Changing](https://open.spotify.com/track/7Mi1BPhndycGl4LpUDB4WX) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:46 | 2024-01-29 |  |
 | [Together](https://open.spotify.com/track/0sw22Kh5BlS5Ks4c8mK02T) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:10 | 2022-01-12 |  |
 | [Together](https://open.spotify.com/track/4AKGQ7gu7ZmbijIHIqTZBt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Together](https://open.spotify.com/album/7sjTKi6FYxxBZ7IFFkaa1F) | 1:00 | 2024-03-20 |  |
+| [Together Again](https://open.spotify.com/track/6JVqCBrSXhbrS8PcejZBm7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Together Again](https://open.spotify.com/album/0zzMrUGGlLgifG6ddELKs0) | 1:00 | 2024-09-28 |  |
 | [Together In A Dream](https://open.spotify.com/track/4YAGA1XbxeRjmzCW4uNXMq) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Violin Ambience](https://open.spotify.com/album/1JIA43cj4NR8Uid7zMSdG6) | 1:09 | 2022-01-20 | 2024-01-30 |
 | [Towards The Horizon](https://open.spotify.com/track/1cSEtnMkmpEF9fevZf7OXS) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:03 | 2022-03-03 |  |
 | [Toyland \- Cello And Soft Piano Version](https://open.spotify.com/track/48TUvKen5OY2EkwIoY1yGD) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Toyland \(Cello And Soft Piano Version\)](https://open.spotify.com/album/4fMIJ8mdbAzhlX2szvuAPR) | 1:06 | 2024-02-09 | 2024-02-13 |

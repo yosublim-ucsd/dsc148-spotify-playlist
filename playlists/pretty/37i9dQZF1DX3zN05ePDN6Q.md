@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,866 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,923 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 8 | [A Música Que o Adonai Esqueceu](https://open.spotify.com/track/24FAiinjSl2PHyzOVdltwY) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [A Música Que o Adonai Esqueceu](https://open.spotify.com/album/5SVMzKgC4HfchIXhy1t4qI) | 3:02 |
 | 9 | [Antídoto \(Under Sesh \#2\)](https://open.spotify.com/track/6kDnG7JhjLinHFfp54MSZg) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Antídoto \(Under Sesh \#2\)](https://open.spotify.com/album/0Ev7zTfrfPPapSXHBXVZIP) | 2:52 |
 | 10 | [DESMISTIFICAR](https://open.spotify.com/track/5OxUASSdA0TF2rkkEKAz03) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [FORA DO TEMPO](https://open.spotify.com/album/6yAPrBAqLkGl9zsG2fRI78) | 2:06 |
-| 11 | [Filho Prestativo](https://open.spotify.com/track/72LI8lptdn6gFjctdmpYMe) | [Ca$hline](https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z), [Vici](https://open.spotify.com/artist/7tav0bx2uKKIYGW50Lorr4), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV) | [Filho Prestativo](https://open.spotify.com/album/1L4V08yYXzqC5PDqw16v4C) | 3:13 |
+| 11 | [Filho Prestativo](https://open.spotify.com/track/72LI8lptdn6gFjctdmpYMe) | [Ca$hline](https://open.spotify.com/artist/41QQgOKrnE3i6AQXKqOG1z), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Vici](https://open.spotify.com/artist/7tav0bx2uKKIYGW50Lorr4) | [Filho Prestativo](https://open.spotify.com/album/1L4V08yYXzqC5PDqw16v4C) | 3:13 |
 | 12 | [Solidão e Arte](https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [Solidão e Arte](https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m) | 2:42 |
 | 13 | [Forasteiro](https://open.spotify.com/track/0Wf7GoGeqmFaTMuV8h5GAK) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Kairós](https://open.spotify.com/album/2UjwpIMev9PoxUZkulsIMX) | 3:06 |
 | 14 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Hóspede](https://open.spotify.com/track/5sRqhiLhIgYnXZ2QxFiXa2) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Caco](https://open.spotify.com/artist/4ooTDZgSDcUCsSJLHTe740), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Hóspede](https://open.spotify.com/album/6Chvr6fJfbcYflOIS9TBeH) | 2:53 |
 | 75 | [121](https://open.spotify.com/track/3cNgdCPJXPeFHmdsdM1PGe) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [121](https://open.spotify.com/album/7jVhJ7QWMikLJUdRVqYf2A) | 1:42 |
 
-Snapshot ID: `ZvYf7AAAAACMpVekGKXoxmy08lSiQRIu`
+Snapshot ID: `ZvYf7AAAAAC/Cv86nfA96ahsqlv1Olkn`

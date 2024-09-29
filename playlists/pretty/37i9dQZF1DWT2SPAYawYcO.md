@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,009 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,174 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 41 | [Firecracker](https://open.spotify.com/track/2XwMUGqZqbMJnNGpFeTN9m) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Firecracker](https://open.spotify.com/album/0NqZfZjRUO5PxhVQ0nraqW) | 3:40 |
 | 42 | [Wassup](https://open.spotify.com/track/39QGmbxBiOxLRs76O9Wzy4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Wassup](https://open.spotify.com/album/1iAthuOBYXnPz5hNtqn1qF) | 2:51 |
 | 43 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 |
-| 44 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 44 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 45 | [Yes Papi \(Miami Daddy Theme\)](https://open.spotify.com/track/1nmfRCIRphcnPEnYfhXmNs) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Yes Papi \(Miami Daddy Theme\)](https://open.spotify.com/album/5po05oJjCPxBE4QLqXT2nG) | 5:03 |
 | 46 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 |
 | 47 | [MY RELEASE](https://open.spotify.com/track/45mL6vnjcXGGSZ1R4nQXFp) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [MY RELEASE](https://open.spotify.com/album/0D52WbamKzwFj3s3vhBkR8) | 3:08 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 57 | [SKYLINE\*\*](https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [SKYLINE\*\*](https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo) | 2:42 |
 | 58 | [ON THE MOVE](https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [Tiana Khasi](https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3) | [ON THE MOVE](https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU) | 3:42 |
 | 59 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 |
-| 60 | [AKLGirls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKLGirls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 |
+| 60 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 |
 | 61 | [Life's An Awful Mess](https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Life's An Awful Mess](https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW) | 3:08 |
 | 62 | [Chip Away](https://open.spotify.com/track/41FG0ltB7fBq2gS4eoFeKC) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Chip Away](https://open.spotify.com/album/12dH9kAi6vDxeCrMSHiqgW) | 2:10 |
 | 63 | [Neptunes](https://open.spotify.com/track/2Xrbukz6tXgmSS0K7l7kYV) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Neptunes](https://open.spotify.com/album/6yBhQtwTwB9WNpBOvbjRiP) | 5:30 |

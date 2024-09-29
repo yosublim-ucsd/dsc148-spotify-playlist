@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Nívea Soares, Ana Paula Valadão
 
-1,481 songs - 5 day 1 hr 16 min
+1,482 songs - 5 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,6 +1187,7 @@
 | [Sei Que Estás Aqui \(Espírito Santo\)](https://open.spotify.com/track/217Of1vISdw7jjTtO62jHT) | [Anayle Sullivan](https://open.spotify.com/artist/1c2JR0YnL2s5tupBNip7LP) | [Sei Que Estás Aqui \(Espírito Santo\)](https://open.spotify.com/album/54o7ZDu0O8qCAp5wynnTo9) | 5:43 | 2023-10-20 | 2023-11-04 |
 | [Seja Curado \(Ao Vivo\)](https://open.spotify.com/track/7rasCklXscztFamUH62Bvq) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g) | [Seja Curado \(Ao Vivo\)](https://open.spotify.com/album/2FoMRl2XJxHYknPPRHxtHB) | 5:02 | 2024-09-27 |  |
 | [Seja Forte e Corajoso](https://open.spotify.com/track/5Jus4AcdtDuJ5VbRQyCWe4) | [Debora Cordeiro](https://open.spotify.com/artist/4IsQgLTNoeR3dz0mNIcg3o), [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Seja Forte e Corajoso](https://open.spotify.com/album/6sVEpIt44jpWz4RejJxcs7) | 4:59 | 2023-09-01 | 2023-09-09 |
+| [Seja o Centro](https://open.spotify.com/track/3JSKT1MMu7hqjIoowmV6Hh) | [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do) | [Seja o Centro](https://open.spotify.com/album/6B9L9DtCgD90txGyPXGRXx) | 3:49 | 2024-09-28 |  |
 | [SEJA TUDO EM MIM \- Ao Vivo](https://open.spotify.com/track/0ZFCznWaRmehD0hhARsCpq) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Som do Céu Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/2PyqBdE57kLOhjMS8p3I7e) | 8:39 | 2023-09-01 | 2023-09-26 |
 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 | 2024-06-21 | 2024-07-06 |
 | [Sem Deus Não Dá](https://open.spotify.com/track/7hxCZMsQCTGYelWGDczJvH) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Todah Network](https://open.spotify.com/artist/5lBlzQkM3nt3oMeSLFruR3) | [Sem Deus Não Dá](https://open.spotify.com/album/6gIsZHZBw6lpgU73mKlnYS) | 5:08 | 2024-06-28 | 2024-07-13 |

@@ -4283,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Dead But So Alive",
+        "url": "https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207545,
+      "name": "Dead But So Alive",
+      "url": "https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q"
+    },
+    {
+      "album": {
         "name": "Dead Circus",
         "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
       },
@@ -8428,7 +8446,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 239934,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"

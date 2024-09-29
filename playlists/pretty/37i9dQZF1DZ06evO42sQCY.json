@@ -1,12 +1,12 @@
 {
   "description": "This is Ivan Cornejo. The essential tracks, all in one playlist.",
-  "num_followers": 108492,
+  "num_followers": 108661,
   "original_name": "This Is Ivan Cornejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAAAy/rnKaOGvda2XyJ//dGMr",
+  "snapshot_id": "ZvX1gAAAAABpayeMurI92rRG6V0fjL8O",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste",
-        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
+        "name": "Noche de Relajo",
+        "url": "https://open.spotify.com/album/0lTdXd09zSFDHiSmW36G76"
       },
       "artists": [
         {
           "name": "Ivan Cornejo",
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 166124,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
+      "duration_ms": 178304,
+      "name": "Noche de Relajo",
+      "url": "https://open.spotify.com/track/0R52ur6j5DRGpycSEHeE0D"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche de Relajo",
-        "url": "https://open.spotify.com/album/0lTdXd09zSFDHiSmW36G76"
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
       },
       "artists": [
         {
           "name": "Ivan Cornejo",
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 178304,
-      "name": "Noche de Relajo",
-      "url": "https://open.spotify.com/track/0R52ur6j5DRGpycSEHeE0D"
+      "duration_ms": 166124,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
     },
     {
       "added_at": null,

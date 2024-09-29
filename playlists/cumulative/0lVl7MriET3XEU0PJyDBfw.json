@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-03",
-  "description": "Your Tech House therapy session for the dance floor | Check out Bassline Therapy Radio on SoundCloud ",
+  "description": "Your Tech House therapy session for the dance floor | Check out Bassline Therapy Radio on SoundCloud",
   "name": "BASSLINE THERAPY",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 180477,
       "name": "Bring It Back - TR744",
       "url": "https://open.spotify.com/track/6gMdt2WJntHMU8jo7ZcAW0"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 201562,
       "name": "Devotion - Radio Edit",
       "url": "https://open.spotify.com/track/4bLrRwObxs5kyRqeNTLwLL"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 173241,
       "name": "Feel Da",
       "url": "https://open.spotify.com/track/5FENDRMYTDXzlEP0JaUU6k"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 215192,
       "name": "Freaky Feed Me (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 153750,
       "name": "Groovy Vibes",
       "url": "https://open.spotify.com/track/1gwzbPBNUs48cI5QQZ532d"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 178181,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/0Bf9IX8gZR56GhldKbiCn1"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 153230,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e"
@@ -3149,6 +3149,28 @@
     },
     {
       "album": {
+        "name": "It's Personal",
+        "url": "https://open.spotify.com/album/39jtuMCgqKxngW7TYRu8oE"
+      },
+      "artists": [
+        {
+          "name": "Miss Nine",
+          "url": "https://open.spotify.com/artist/4c2u8w0s3mo0iPZ67dGoTH"
+        },
+        {
+          "name": "Yungberto",
+          "url": "https://open.spotify.com/artist/3RYYlzNE6VXfcJIZH8FkxR"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "It's Personal - Extended Mix",
+      "url": "https://open.spotify.com/track/7oK0AHJOEpiTzIAIzett7W"
+    },
+    {
+      "album": {
         "name": "Take My Soul",
         "url": "https://open.spotify.com/album/2QYOfcx2K8RRiMmUrxE5qZ"
       },
@@ -3204,7 +3226,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 136363,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr"
@@ -4640,7 +4662,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 169253,
       "name": "Rave Day (Happy)",
       "url": "https://open.spotify.com/track/4tCd8v6yDglAgzcOp7mfcV"
@@ -4754,6 +4776,32 @@
       "duration_ms": 187500,
       "name": "Rhythm Machine",
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "album": {
+        "name": "BUZZIN' EP",
+        "url": "https://open.spotify.com/album/44nZn39UIrMlQoog5gW5SW"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "ALL U NEED",
+          "url": "https://open.spotify.com/artist/2gFfYjFlwUk1nERTM5Vqgn"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Rhythm's All You Need",
+      "url": "https://open.spotify.com/track/0cAqKloZYQ5BJsIJzkbyWo"
     },
     {
       "album": {
@@ -4900,7 +4948,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 179542,
       "name": "Rubbers",
       "url": "https://open.spotify.com/track/3o2SKFzfHn0O1cxtY9Ba7y"
@@ -4966,6 +5014,24 @@
       "duration_ms": 162380,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6woRRDfbiI0utsHgeikpit"
+    },
+    {
+      "album": {
+        "name": "Running That",
+        "url": "https://open.spotify.com/album/47ck31pEL5kucCz1z0bQmT"
+      },
+      "artists": [
+        {
+          "name": "Leopard Step",
+          "url": "https://open.spotify.com/artist/0TzWFTDdgr4q0Bd1FpaAwI"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156775,
+      "name": "Running That",
+      "url": "https://open.spotify.com/track/1PIm8zGAcJQhQIsaDqFFhu"
     },
     {
       "album": {
@@ -5078,7 +5144,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 293410,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/18wTTWD0M8FHb7wrFv5tQF"
@@ -5759,6 +5825,32 @@
     },
     {
       "album": {
+        "name": "Tears (with Paige Cavell) [Max Styler Remix]",
+        "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253228,
+      "name": "Tears (with Paige Cavell) - Max Styler Remix",
+      "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/5bbEibsG6QLGQWSFoqm76D"
       },
@@ -6272,7 +6364,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 151992,
       "name": "TWO-C",
       "url": "https://open.spotify.com/track/7tjedJjtrMzafgZs2Tz9e9"
@@ -6822,7 +6914,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 203697,
       "name": "You Don't Want This",
       "url": "https://open.spotify.com/track/361oezwj8CXRHJHRDoaCM4"
@@ -6888,7 +6980,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-29",
       "duration_ms": 149760,
       "name": "You Will See - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/4boXVvUTDqNuwz1vX7ihNN"

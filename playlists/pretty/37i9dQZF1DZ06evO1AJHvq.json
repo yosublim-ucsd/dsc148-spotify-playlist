@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 414715,
+  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
+  "num_followers": 414833,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAAC4FLE3xmye8hjSl0jE+07V",
+  "snapshot_id": "ZvX1gAAAAACyErIsaLdMMQExL2IzXXzY",
   "tracks": [
     {
       "added_at": null,
@@ -80,7 +80,7 @@
       "added_at": null,
       "album": {
         "name": "La Fuga Del Dorian",
-        "url": "https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T"
+        "url": "https://open.spotify.com/album/5XHPGUTtv6JxH573EOLQHb"
       },
       "artists": [
         {
@@ -98,7 +98,7 @@
       ],
       "duration_ms": 277460,
       "name": "La Fuga Del Dorian",
-      "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
+      "url": "https://open.spotify.com/track/0htxL6L9uqRp5ul1H5OW3V"
     },
     {
       "added_at": null,
@@ -292,7 +292,7 @@
       "added_at": null,
       "album": {
         "name": "El Ruidoso",
-        "url": "https://open.spotify.com/album/6ygsA90Ui8GYtRzRjAo0Io"
+        "url": "https://open.spotify.com/album/5AxENRlLhZTShTyKtw2dOj"
       },
       "artists": [
         {
@@ -302,7 +302,7 @@
       ],
       "duration_ms": 230095,
       "name": "El Ruidoso",
-      "url": "https://open.spotify.com/track/5r9Ct6bCiKOXJxtv3InUeY"
+      "url": "https://open.spotify.com/track/0cSRXZWQPYp94GkS4v7qOv"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 211945,
-      "name": "Hace Un A\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/0MmGIEFqRjUt28dHsG91JZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fiesta En El Cielo Vol 1",
         "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 211945,
+      "name": "Hace Un A\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/0MmGIEFqRjUt28dHsG91JZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
         "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Juan Ramos - En Vivo",
-      "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
+      "duration_ms": 262570,
+      "name": "Querer y Perder - En Vivo",
+      "url": "https://open.spotify.com/track/2H4yaNCtdWAfMVrsJ18aGl"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
       },
@@ -544,9 +560,25 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 214081,
-      "name": "Cuatro Milpas - En Vivo",
-      "url": "https://open.spotify.com/track/3A9KTrHoiKbiDjllgHWgbg"
+      "duration_ms": 247289,
+      "name": "Mi Mas Grande Anhelo - En Vivo",
+      "url": "https://open.spotify.com/track/2d1L4Y2w64kvM9SijhNShW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Juan Ramos - En Vivo",
+      "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
     },
     {
       "added_at": null,
@@ -560,9 +592,25 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+      "duration_ms": 231523,
+      "name": "El Empanada",
+      "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "Cuatro Milpas - En Vivo",
+      "url": "https://open.spotify.com/track/3A9KTrHoiKbiDjllgHWgbg"
     },
     {
       "added_at": null,
@@ -584,55 +632,7 @@
       "added_at": null,
       "album": {
         "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 247289,
-      "name": "Mi Mas Grande Anhelo - En Vivo",
-      "url": "https://open.spotify.com/track/60NFvq5nCujjQ0Vo840pxY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 231523,
-      "name": "El Empanada",
-      "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 262570,
-      "name": "Querer y Perder - En Vivo",
-      "url": "https://open.spotify.com/track/2Gk4lpLi69PPcder4zLdO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
+        "url": "https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk"
       },
       "artists": [
         {
@@ -642,29 +642,13 @@
       ],
       "duration_ms": 218879,
       "name": "El Corrido Del Cabe - En Vivo",
-      "url": "https://open.spotify.com/track/4GaPxH5d7cPBkWGXjiTZiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Los Primos",
-      "url": "https://open.spotify.com/track/66W3b4kPwrwpgVT0RQnzgQ"
+      "url": "https://open.spotify.com/track/63y6f3wuJhab73GOoWyY4G"
     },
     {
       "added_at": null,
       "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
       "artists": [
         {
@@ -674,7 +658,7 @@
       ],
       "duration_ms": 187143,
       "name": "Edgar Guzman - En Vivo",
-      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+      "url": "https://open.spotify.com/track/6kHc0gC9JVPX0zxk7IMiLF"
     }
   ],
   "unique_name": "This Is Ariel Camacho y Los Plebes Del Rancho",

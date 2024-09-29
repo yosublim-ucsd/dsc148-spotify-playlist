@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a> udlever sin Harley Quinn aka\. Lee 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,574 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,665 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 64 | [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 |
 | 65 | [Borderlines](https://open.spotify.com/track/6H14VqVTDBKJ3pKOnEInP1) | [Blush](https://open.spotify.com/artist/5mtHbGSw5MGG5llo4rgZDB) | [Borderlines](https://open.spotify.com/album/0JQETf4sWaW4BeVKdp1BAL) | 2:19 |
 | 66 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 |
-| 67 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:01 |
+| 67 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 68 | [strung](https://open.spotify.com/track/4bhLdkZJTDAj3w9sD6a0S4) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [strung](https://open.spotify.com/album/3btQPHRCpQS5kZYtuH3ZaL) | 2:46 |
 | 69 | [Sang Til Olivia](https://open.spotify.com/track/5H6LvzCNpxjx1N5LiVPdik) | [Stella Darla](https://open.spotify.com/artist/6s2ILiKtxyuyGnS5SdUgSX) | [Sang Til Olivia](https://open.spotify.com/album/3q0PFtppj2q6JvNCcQijKS) | 3:06 |
 | 70 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 81 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
 | 82 | [venner med tiden](https://open.spotify.com/track/0q8p6PYSK4GIwyAozrG3Pd) | [hvem](https://open.spotify.com/artist/6Zida3gnQCTaHp3cFSINAo) | [venner med tiden](https://open.spotify.com/album/5Y5wB98B5RVaIYsXDcHGRm) | 3:24 |
 | 83 | [let your body heal](https://open.spotify.com/track/55kjx3Ze0vDpovu3XNnWOH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [let your body heal](https://open.spotify.com/album/0CSigbNKLs640mQjEg28vt) | 2:50 |
-| 84 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have in Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 |
+| 84 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 |
 | 85 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
 | 86 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
 | 87 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 |

@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Rondine
 
-156 songs - 7 hr 33 min
+157 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-09-27 |
 | [Airbag](https://open.spotify.com/track/1MGStIoi8Lyy6tZIwiapi7) | [Bueno](https://open.spotify.com/artist/0j8bZXM94A3yeUIZ2GPRjB) | [Airbag](https://open.spotify.com/album/48SbuykbI9JB52sy1kNMLT) | 2:53 | 2024-06-27 | 2024-07-05 |
 | [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 | 2024-09-27 |
+| [Alta Marea](https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC) | [Dorian](https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk) | [Alta Marea](https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5) | 2:13 | 2024-09-26 |  |
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 |  |
 | [Anche i Cowboy Piangono](https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Anche i Cowboy Piangono](https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2) | 2:54 | 2024-09-26 |  |
@@ -44,7 +45,7 @@
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 |  |
 | [DIMEDITE](https://open.spotify.com/track/3ZdJA0Fcf7UtlCOjSPLP1N) | [PVTRA](https://open.spotify.com/artist/2nGnEStqjgEw2wGpVk7GMX) | [DIMEDITE](https://open.spotify.com/album/5cI9Q2szBMyGNlQXctG08e) | 3:19 | 2024-06-27 | 2024-07-05 |
 | [Disordine](https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Disordine](https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N) | 2:58 | 2024-07-18 | 2024-09-27 |
-| [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 |  |
+| [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 | 2024-09-29 |
 | [Eclisse Twist](https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR) | [Guidobaldi](https://open.spotify.com/artist/2zgFe8Mm2pUdykATzPcjva) | [Eclisse Twist](https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy) | 2:57 | 2024-06-27 | 2024-08-07 |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-06-27 | 2024-07-19 |
 | [Estate infinita](https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Andare, tornare](https://open.spotify.com/album/10lbkXiO0z7BzlpX2tGUFf) | 3:09 | 2024-06-27 | 2024-08-23 |

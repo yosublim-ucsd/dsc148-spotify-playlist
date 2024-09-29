@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,924 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,937 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [De mă lași](https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [De mă lași](https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct) | 2:26 |
+| 1 | [De mă lași](https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Albwho](https://open.spotify.com/artist/1gKMA54tfPeStFBKsNl2t2) | [De mă lași](https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct) | 2:26 |
 | 2 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 3 | [MY LOVE](https://open.spotify.com/track/1MBnhHSNh5MgiTcDlOnuMW) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [MY LOVE](https://open.spotify.com/album/2o2LAhKCCaQZmtruPQEdKh) | 2:24 |
 | 4 | [Încă Ne Iubim](https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Încă Ne Iubim](https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi) | 2:55 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 11 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
 | 12 | [Apă și Pământ](https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Apă și Pământ](https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG) | 2:40 |
 | 13 | [RiTiTi](https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [RiTiTi](https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm) | 2:19 |
-| 14 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:09 |
+| 14 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:11 |
 | 15 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
 | 16 | [CUM MĂ](https://open.spotify.com/track/454Y2Qn0uOBIHgJvl2vN9f) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [RADICAL DIN NOI](https://open.spotify.com/album/4BguA6kGPMtSFzApSU4oUI) | 2:40 |
 | 17 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 |

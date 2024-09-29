@@ -1,12 +1,12 @@
 {
-  "description": "This Is Deftones. Los temas esenciales, todos en una lista.",
-  "num_followers": 381803,
+  "description": "This is Deftones. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "num_followers": 381976,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSkAAAAAADkL+veMfYfvGOZvQALgzSc",
+  "snapshot_id": "ZvX1gAAAAAAv7U1tPd5O3MoWAaI/WiBA",
   "tracks": [
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 328173,
-      "name": "Deathblow",
-      "url": "https://open.spotify.com/track/09QuitJuAP87RoBSpiCXPs"
+      "duration_ms": 301866,
+      "name": "Battle-axe",
+      "url": "https://open.spotify.com/track/2ouqll9zsD2cjcGUfgtInW"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 301866,
-      "name": "Battle-axe",
-      "url": "https://open.spotify.com/track/2ouqll9zsD2cjcGUfgtInW"
+      "duration_ms": 328173,
+      "name": "Deathblow",
+      "url": "https://open.spotify.com/track/09QuitJuAP87RoBSpiCXPs"
     }
   ],
   "unique_name": "This Is Deftones",

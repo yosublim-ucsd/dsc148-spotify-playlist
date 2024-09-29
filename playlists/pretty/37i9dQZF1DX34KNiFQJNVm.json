@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Henrique & Juliano, Maiara & Mara\u00edsa, Gl\u00f3ria Groove e muito mais!",
-  "num_followers": 1938391,
+  "num_followers": 1938889,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvcDkgAAAADU4r0yU/dlTOs8K6mzPI0m",
+  "snapshot_id": "ZvcDkgAAAAB0hagVzUFGcuM9snz+z5/4",
   "tracks": [
     {
       "added_at": "2024-09-27 19:12:18",
@@ -555,7 +555,7 @@
     {
       "added_at": "2024-09-27 19:12:18",
       "album": {
-        "name": "SALA VERMELHA 01",
+        "name": "#SV 01 - Major RD / Underground Freestyle",
         "url": "https://open.spotify.com/album/1nP7W7vp078EEn6JCSiGgp"
       },
       "artists": [
@@ -566,10 +566,14 @@
         {
           "name": "MOVIMENTO",
           "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
       "duration_ms": 131200,
-      "name": "SALA VERMELHA 01",
+      "name": "#SV 01 - Major RD / Underground Freestyle",
       "url": "https://open.spotify.com/track/2j9o7TdpwxTNsbyEYOntRk"
     },
     {
@@ -634,6 +638,10 @@
         {
           "name": "Ryu, The Runner",
           "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
         }
       ],
       "duration_ms": 168196,
@@ -648,12 +656,12 @@
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
           "name": "Original Quality",
           "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         }
       ],
       "duration_ms": 127192,
@@ -1758,6 +1766,10 @@
         {
           "name": "Camila Zasoul",
           "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
         }
       ],
       "duration_ms": 207428,

@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 10381,
+  "num_followers": 10392,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "added_at": "2023-12-01 14:44:59",
