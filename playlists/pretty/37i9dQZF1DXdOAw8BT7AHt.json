@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467664,
+  "num_followers": 467649,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
-      "added_at": "2024-07-12 11:48:19",
-      "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Neck Deep",
@@ -247,6 +231,22 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-07-12 11:48:19",
+      "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 237878,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
+    },
+    {
       "added_at": "2024-07-19 10:43:52",
       "album": {
         "name": "DOWN N OUT",
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "DON'T NEED",
         "url": "https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Everything and Nothing",
-        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
       },
       "artists": [
         {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 237878,
-      "name": "Everything and Nothing",
-      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-07-19 10:43:52",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
     },
     {
-      "added_at": "2024-07-12 11:48:19",
-      "album": {
-        "name": "Enmore",
-        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
-      },
-      "artists": [
-        {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
-        }
-      ],
-      "duration_ms": 162182,
-      "name": "Enmore",
-      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
-    },
-    {
       "added_at": "2024-07-19 10:43:52",
       "album": {
         "name": "Demolition Man",
@@ -561,20 +545,20 @@
       "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-07-12 11:48:19",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+        "name": "Enmore",
+        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
         }
       ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+      "duration_ms": 162182,
+      "name": "Enmore",
+      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "International Hide and Seek Champions",
+      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Ultimatum",
         "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 206040,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
-      },
-      "artists": [
-        {
-          "name": "Frank Turner",
-          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "International Hide and Seek Champions",
-      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Cheapskate",
-        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Cheapskate",
-      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 105556,
       "name": "Disturb The Peace",
       "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Cheapskate",
+        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Cheapskate",
+      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
     },
     {
       "added_at": "2024-07-05 04:00:00",

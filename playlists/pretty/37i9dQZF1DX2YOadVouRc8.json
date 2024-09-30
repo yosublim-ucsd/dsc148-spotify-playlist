@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 28077,
+  "num_followers": 28110,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-09-27 10:14:45",
       "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 212107,
+      "name": "ecstasy (feat. Seun Kuti)",
+      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2024-09-27 10:14:45",
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2024-09-27 10:14:45",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        }
-      ],
-      "duration_ms": 212107,
-      "name": "ecstasy (feat. Seun Kuti)",
-      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
     },
     {
       "added_at": "2024-09-27 10:14:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-27 10:14:45",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
-    },
-    {
-      "added_at": "2024-09-27 10:14:45",
-      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2024-09-27 10:14:45",
+      "album": {
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
     },
     {
       "added_at": "2024-09-27 10:14:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-27 10:14:45",
       "album": {
-        "name": "Outside / obaa sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "obaa sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
-    },
-    {
-      "added_at": "2024-09-27 10:14:45",
-      "album": {
         "name": "Streets Is Calling (feat. Moonchild Sanelly & M.anifest)",
         "url": "https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 152854,
       "name": "Streets is Calling (feat. M.anifest & Moonchild Sanelly) - Single Edit",
       "url": "https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF"
+    },
+    {
+      "added_at": "2024-09-27 10:14:45",
+      "album": {
+        "name": "Outside / obaa sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "obaa sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2024-09-27 10:14:45",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-09-27 10:14:45",
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-09-27 10:14:45",
+      "album": {
         "name": "Son of Chike",
         "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 167717,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"
-    },
-    {
-      "added_at": "2024-09-27 10:14:45",
-      "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
     },
     {
       "added_at": "2024-09-27 10:14:45",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-09-27 10:14:45",
       "album": {
-        "name": "Dis Kain Luv",
-        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 152565,
-      "name": "Dis Kain Luv",
-      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
-    },
-    {
-      "added_at": "2024-09-27 10:14:45",
-      "album": {
         "name": "Celine Dion",
         "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 189701,
       "name": "Celine Dion",
       "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
+    },
+    {
+      "added_at": "2024-09-27 10:14:45",
+      "album": {
+        "name": "Dis Kain Luv",
+        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 152565,
+      "name": "Dis Kain Luv",
+      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2024-09-27 10:14:45",

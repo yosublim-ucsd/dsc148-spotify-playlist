@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 14 min
+44 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [Mas Diablo Soy Yo](https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Mas Diablo Soy Yo](https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR) | 3:40 | 2024-06-19 |  |
 | [Maulla](https://open.spotify.com/track/63duS6SnYV6lKzv79zINUH) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:37 | 2024-07-12 | 2024-09-12 |
 | [Mi Camino](https://open.spotify.com/track/4mcljCYLS037Sae13QhJcE) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Mi Camino](https://open.spotify.com/album/0jJzHJf7e8az1HOKA4EmIz) | 2:47 | 2024-06-19 | 2024-09-23 |
+| [Mi Camino](https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:47 | 2024-09-30 |  |
 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 | 2024-06-19 |  |
 | [Olvidando el pasado](https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Olvidando el pasado](https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u) | 3:18 | 2024-06-19 |  |
-| [Otra Vez](https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:53 | 2024-07-12 |  |
+| [Otra Vez](https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:53 | 2024-07-12 | 2024-09-30 |
 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 | 2024-07-12 | 2024-08-28 |
 | [Party Prendio \- Version Discoteca](https://open.spotify.com/track/6iKy8Qb1VqZAO5OADWxUm7) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Party Prendio \(Version Discoteca\)](https://open.spotify.com/album/30SW4rr3JKVxr8LCCbUXyl) | 1:34 | 2024-08-28 |  |
 | [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 | 2024-08-07 |

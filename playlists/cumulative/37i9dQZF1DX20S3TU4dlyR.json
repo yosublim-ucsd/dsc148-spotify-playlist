@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -3580,6 +3580,28 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+    },
+    {
+      "album": {
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+      },
+      "artists": [
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
     },
     {
       "album": {

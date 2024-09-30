@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69068,
+  "num_followers": 69076,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
         "name": "Growing Old",
         "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
-      },
-      "artists": [
-        {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
-        }
-      ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "Disney Covers Vol 1",
         "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 186088,
       "name": "God Help the Outcasts",
       "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
+      },
+      "artists": [
+        {
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
+        }
+      ],
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
-      },
-      "artists": [
-        {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
-        }
-      ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+      },
+      "artists": [
+        {
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -811,22 +827,6 @@
       "duration_ms": 125133,
       "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
       "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
-      },
-      "artists": [
-        {
-          "name": "Alice Frohde",
-          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 216978,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
+      },
+      "artists": [
+        {
+          "name": "Alice Frohde",
+          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Sagittabondo",
-        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
-      },
-      "artists": [
-        {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Sagittabondo",
-      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Sagittabondo",
+        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Sagittabondo",
+      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Swear on this Life",
-        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
-      },
-      "artists": [
-        {
-          "name": "Fabienne Willis",
-          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Swear on this Life",
-      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160000,
       "name": "See you in the morning",
       "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Swear on this Life",
+        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Swear on this Life",
+      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Fristad",
-        "url": "https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn"
-      },
-      "artists": [
-        {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Fristad",
-      "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "Sleepy Mountains",
         "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
+        "name": "Fristad",
+        "url": "https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn"
       },
       "artists": [
         {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
         }
       ],
-      "duration_ms": 212374,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
+      "duration_ms": 158250,
+      "name": "Fristad",
+      "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 138266,
       "name": "2 Irish Pieces: No. 1. From the Countryside",
       "url": "https://open.spotify.com/track/3h1U34AiOBjsFnr6FwxXkj"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "Oddities",
+        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 212374,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
     },
     {
       "added_at": "2024-09-23 02:50:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-09-23 02:50:00",
       "album": {
-        "name": "The Giant",
-        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
-      },
-      "artists": [
-        {
-          "name": "Dilia",
-          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
-        }
-      ],
-      "duration_ms": 183686,
-      "name": "The Giant",
-      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
-    },
-    {
-      "added_at": "2024-09-23 02:50:00",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6pjjILmogmek6JQtcFyMIP"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 152636,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR"
+    },
+    {
+      "added_at": "2024-09-23 02:50:00",
+      "album": {
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
+      },
+      "artists": [
+        {
+          "name": "Dilia",
+          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
+        }
+      ],
+      "duration_ms": 183686,
+      "name": "The Giant",
+      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

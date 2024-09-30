@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lydia K\u00e9pinski, Simon Proulx",
-  "num_followers": 41997,
+  "num_followers": 42001,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -31,42 +31,6 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Bolide Noir",
-        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Bolide Noir",
-      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Tu reviendras",
-        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 134581,
-      "name": "Tu reviendras",
-      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
         "name": "MANON B",
         "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
       },
@@ -87,6 +51,42 @@
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Tu reviendras",
+        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 134581,
+      "name": "Tu reviendras",
+      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -187,22 +187,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "TOKA",
-        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 175906,
-      "name": "TOKA",
-      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -231,22 +227,22 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Tentation (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+        "name": "TOKA",
+        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
       },
       "artists": [
         {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         },
         {
           "name": "Hamza",
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 175787,
-      "name": "Tentation (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
+      "duration_ms": 175906,
+      "name": "TOKA",
+      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -267,18 +263,22 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -331,6 +331,50 @@
       "duration_ms": 178407,
       "name": "xoxo",
       "url": "https://open.spotify.com/track/5b8Up9QurJqiIugs4DAhTv"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "duration_ms": 246978,
+      "name": "PONA NINI",
+      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Aujourd'hui, ma vie c'est d'la marde (Live)",
+        "url": "https://open.spotify.com/album/6VNlhnNfYyeuWX4xOcmJmz"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        },
+        {
+          "name": "Orchestre Symphonique De Qu\u00e9bec",
+          "url": "https://open.spotify.com/artist/3ZC5p9tAVLeSRmABaBiVCQ"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Aujourd'hui, ma vie c'est d'la marde - Live",
+      "url": "https://open.spotify.com/track/5oLR8xjvf1m39ATaihWEOc"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -395,22 +439,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Aujourd'hui, ma vie c'est d'la marde (Live)",
-        "url": "https://open.spotify.com/album/6VNlhnNfYyeuWX4xOcmJmz"
+        "name": "\u00c9milie",
+        "url": "https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI"
       },
       "artists": [
         {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        },
-        {
-          "name": "Orchestre Symphonique De Qu\u00e9bec",
-          "url": "https://open.spotify.com/artist/3ZC5p9tAVLeSRmABaBiVCQ"
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Aujourd'hui, ma vie c'est d'la marde - Live",
-      "url": "https://open.spotify.com/track/5oLR8xjvf1m39ATaihWEOc"
+      "duration_ms": 193411,
+      "name": "\u00c9milie",
+      "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -431,38 +471,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "\u00c9milie",
-        "url": "https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI"
-      },
-      "artists": [
-        {
-          "name": "Pierre Guitard",
-          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "\u00c9milie",
-      "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "SAN GOKU",
-      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Last in Line (2024 Edit)",
         "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
       },
@@ -479,26 +487,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Prototype",
-          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 246978,
-      "name": "PONA NINI",
-      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
+      "duration_ms": 172346,
+      "name": "SAN GOKU",
+      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Maylin",
-        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Maylin",
-      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
         "name": "La 17",
         "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
+        "name": "Maylin",
+        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Maylin",
+      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
         "name": "Compl\u00e9mentaires",
         "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
       },
@@ -667,6 +667,42 @@
       "duration_ms": 192120,
       "name": "Compl\u00e9mentaires",
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Petit chaton",
+        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Petit chaton",
+      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "TPLM",
+        "url": "https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Ma Life",
+      "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -695,38 +731,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "TPLM",
-        "url": "https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac"
+        "name": "Tout pour moi",
+        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
       },
       "artists": [
         {
-          "name": "Dadi",
-          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 152626,
-      "name": "Ma Life",
-      "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Petit chaton",
-        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 144985,
-      "name": "Petit chaton",
-      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
+      "duration_ms": 214400,
+      "name": "Tout pour moi",
+      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -743,22 +759,6 @@
       "duration_ms": 239684,
       "name": "Apr\u00e8s l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Tout pour moi",
-        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Tout pour moi",
-      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -919,6 +919,30 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
+        "name": "Dans les veines",
+        "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Leslie",
+          "url": "https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Dans les veines",
+      "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -935,22 +959,6 @@
       "duration_ms": 172080,
       "name": "On s'\u00e9crira",
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Sugar daddy",
-        "url": "https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 166774,
-      "name": "Sugar daddy",
-      "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

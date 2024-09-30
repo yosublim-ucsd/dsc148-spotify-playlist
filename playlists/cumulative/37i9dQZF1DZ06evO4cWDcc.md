@@ -2,7 +2,7 @@
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This is Jimi Hendrix\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
 86 songs - 5 hr 53 min
 

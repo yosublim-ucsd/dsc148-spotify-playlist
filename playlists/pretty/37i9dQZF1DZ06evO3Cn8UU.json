@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 35314,
+  "num_followers": 35323,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAABUjZdj09nQDVDLcQX63C9c",
+  "snapshot_id": "ZvdHAAAAAACtc33xLsEjh/MqvMBZcQ2n",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truly Blessed",
-        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "It Should've Been You",
-      "url": "https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 388960,
-      "name": "This Is the Last Time",
-      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+      "duration_ms": 244053,
+      "name": "It Should've Been You",
+      "url": "https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 321453,
       "name": "Hold Me - 45 Version",
       "url": "https://open.spotify.com/track/5YJjCGmO9QfEvB7Ap1oHpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 388960,
+      "name": "This Is the Last Time",
+      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truly Blessed",
         "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 279013,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 326800,
-      "name": "2 A.M.",
-      "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 272773,
       "name": "Cold, Cold World",
       "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 326800,
+      "name": "2 A.M.",
+      "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven Only Knows",
-        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "I Want My Baby Back",
-      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
     },
     {
       "added_at": null,

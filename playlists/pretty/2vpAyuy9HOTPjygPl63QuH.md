@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,373 likes - 45 songs - 2 hr 34 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,376 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 43 | [Bah Bah](https://open.spotify.com/track/6UZW6sgFXSdr96sqrxhTHc) | [Johan S](https://open.spotify.com/artist/2An2rcMqBw43CIZbmeesnd) | [Bah Bah](https://open.spotify.com/album/0lfcwC5CwrTQzKswvXEeGN) | 2:23 |
 | 44 | [Wanna Rock](https://open.spotify.com/track/6XxP8YRrbRK5E5GCipnMJ6) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [Wanna Rock EP](https://open.spotify.com/album/7cMB4Jtufj9OEclvEguSPU) | 2:48 |
 | 45 | [Smooth Originator](https://open.spotify.com/track/6FY0QqwuKjGrKjZbmgnEMz) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [High Volume EP](https://open.spotify.com/album/4ZNoLdNJekJ0fv3fUdPmkW) | 6:16 |
+| 46 | [Transmission](https://open.spotify.com/track/4adBrCnxQNuQhQXRtWHkT4) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Transmission EP](https://open.spotify.com/album/5vNlY4XEMsKQU3sKw1RtB3) | 5:13 |
 
-Snapshot ID: `AAAjtIp8pmnwegiez5pZLPTC6SYNXHE9`
+Snapshot ID: `AAAjtV0jLMu8JN6w7Gt/e9JXbb0NXIlH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=73lpcNPWRm6asUag9RWULQ">Israel Mbonyi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,296 likes - 50 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,521 likes - 50 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

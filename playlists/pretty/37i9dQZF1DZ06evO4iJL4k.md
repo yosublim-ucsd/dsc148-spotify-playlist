@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. The essential tracks, all in one playlist.
+> This Is Filipe Ret\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,175 likes - 51 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,295 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 50 | [Richard Mille](https://open.spotify.com/track/3MNNDtNV2IUJRVBrBs07Cp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:11 |
 | 51 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
 
-Snapshot ID: `ZvX1gAAAAADolNf6t9AC9WcpBBl/FxgP`
+Snapshot ID: `ZvdHAAAAAACO2Ap9ak0tFTvacTAwvWHV`

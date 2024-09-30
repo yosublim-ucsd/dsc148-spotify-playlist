@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-921 songs - 2 day 9 hr 45 min
+922 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-11-11 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/6Z2gqKsxunB5ILpTiAn6Wg) | [Hooks and Lines](https://open.spotify.com/artist/0YUdQnLsDe3i8B5EEW9bQQ) | [I'm Old Fashioned](https://open.spotify.com/album/4wN6ip0j2fH9ZHoYNAIpzp) | 3:11 | 2023-06-01 |  |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-23 |  |
-| [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2021-12-16 |  |
+| [I've Grown Accustomed to Her Face](https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 4:49 | 2021-12-16 | 2024-09-30 |
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-11-11 | 2023-01-08 |
 | [Icelandic time](https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Icelandic time](https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct) | 3:32 | 2023-06-01 |  |
 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 | 2021-12-16 |  |
@@ -788,6 +788,7 @@
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2023-06-01 |  |
 | [The Single Petal Of A Rose](https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 3:20 | 2022-05-18 |  |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-06-01 |  |
+| [The Thought of You](https://open.spotify.com/track/71R9uY40h8SwfXdwelSH81) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [The Thought of You](https://open.spotify.com/album/5JkyU3K3UiykUp8xluYvnC) | 3:30 | 2024-09-27 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 | 2021-12-16 |  |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-01 |  |
 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |

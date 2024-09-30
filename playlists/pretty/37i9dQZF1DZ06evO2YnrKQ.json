@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22266,
+  "num_followers": 22274,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAW5+O+JhbY4O/+Bf0kk+tb",
+  "snapshot_id": "ZvdHAAAAAABpR+HWLODJQjokUCyyfXj0",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Committed to the Con",
-      "url": "https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139417,
       "name": "Counterparts and Number Them",
       "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Committed to the Con",
+      "url": "https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 292558,
       "name": "Little Girls Pointing and Laughing",
       "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Emerald Street",
-      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Switcheroo Series",
-        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Charlie Sheen vs. Henry Rollins",
-      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+      "duration_ms": 338317,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -491,6 +491,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Charlie Sheen vs. Henry Rollins",
+      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -503,6 +535,38 @@
       "duration_ms": 257106,
       "name": "Old Crows",
       "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 362960,
+      "name": "Dark Night of the Soul",
+      "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 182820,
+      "name": "You Burn First",
+      "url": "https://open.spotify.com/track/35tsomku93trCDwRe1W9bx"
     },
     {
       "added_at": null,
@@ -539,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 362960,
-      "name": "Dark Night of the Soul",
-      "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -567,6 +615,22 @@
       "duration_ms": 201373,
       "name": "Sons of Privilege",
       "url": "https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 228817,
+      "name": "Accept Crime",
+      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
     },
     {
       "added_at": null,
@@ -599,22 +663,6 @@
       "duration_ms": 280600,
       "name": "The Dead Heart",
       "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 376906,
-      "name": "Dogs Blood - Live",
-      "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
     }
   ],
   "unique_name": "This Is Alexisonfire",

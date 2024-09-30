@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 101689,
+  "num_followers": 101684,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,26 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Hungarian Dances / Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 85706,
+      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
+      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Quiet Eyes",
         "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 204375,
       "name": "to god knows where - silence",
       "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Hungarian Dances / Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 85706,
-      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
-      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Slowdance",
         "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 122883,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Under Cold Water",
+        "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Spring",
+          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+        }
+      ],
+      "duration_ms": 126124,
+      "name": "Under Cold Water",
+      "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Under Cold Water",
-        "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
       },
       "artists": [
         {
-          "name": "Sarah Spring",
-          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+          "name": "Mark Mintuny",
+          "url": "https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s"
         }
       ],
-      "duration_ms": 126124,
-      "name": "Under Cold Water",
-      "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
+      "duration_ms": 133879,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
       "artists": [
         {
-          "name": "Mark Mintuny",
-          "url": "https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s"
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
         }
       ],
-      "duration_ms": 133879,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
       "artists": [
         {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+        "name": "Kj\u00e6reste",
+        "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
       },
       "artists": [
         {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+          "name": "Alida S\u00f8rby",
+          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
         }
       ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+      "duration_ms": 143812,
+      "name": "Kj\u00e6reste",
+      "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kj\u00e6reste",
-        "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
       },
       "artists": [
         {
-          "name": "Alida S\u00f8rby",
-          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+          "name": "Carl Stark Willgold",
+          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
         }
       ],
-      "duration_ms": 143812,
-      "name": "Kj\u00e6reste",
-      "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
+      "duration_ms": 135253,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1091,22 +1107,6 @@
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
-      },
-      "artists": [
-        {
-          "name": "Carl Stark Willgold",
-          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Tient qu'a\u0300 un fil",
-        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Tient qu'a\u0300 un fil",
-      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Tient qu'a\u0300 un fil",
+        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Tient qu'a\u0300 un fil",
+      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Sacred Self",
-        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
-      },
-      "artists": [
-        {
-          "name": "Louise Lennehan",
-          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Inner Child",
-      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Adesso",
         "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 147000,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Sacred Self",
+        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
+      },
+      "artists": [
+        {
+          "name": "Louise Lennehan",
+          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Beyond The Sun",
         "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 224705,
       "name": "For A Lifetime",
       "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
       },
@@ -1547,22 +1531,6 @@
       "duration_ms": 159500,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
-      },
-      "artists": [
-        {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1583,18 +1551,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "my first piano: Rondo",
-        "url": "https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo"
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
       "artists": [
         {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
         }
       ],
-      "duration_ms": 206369,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
+      },
+      "artists": [
+        {
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "my first piano: Rondo",
+        "url": "https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo"
+      },
+      "artists": [
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+        }
+      ],
+      "duration_ms": 206369,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+        "name": "The Blue Hour",
+        "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
       },
       "artists": [
         {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+      "duration_ms": 285309,
+      "name": "My Piano Night",
+      "url": "https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy"
     }
   ],
   "unique_name": "Piano Study",

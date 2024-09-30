@@ -2,9 +2,9 @@
 
 ### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This is George Michael\. Todos os maiores hits em uma só playlist.
+> This Is George Michael\. Les titres incontournables, réunis dans une seule et même playlist.
 
-69 songs - 5 hr 33 min
+70 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Amazing](https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:25 | 2023-07-28 |  |
 | [An Easier Affair](https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [An Easier Affair](https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk) | 4:37 | 2023-12-19 | 2024-04-16 |
 | [An Easier Affair \- Remastered 2006](https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:38 | 2023-10-10 | 2024-09-05 |
-| [As](https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:42 | 2023-07-28 |  |
+| [As](https://open.spotify.com/track/22WJbbti5hZkY7J8jwVX9o) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:42 | 2024-09-30 |  |
+| [As](https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:42 | 2023-07-28 | 2024-09-30 |
 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 | 2023-07-28 |  |
 | [Cowboys and Angels \- Remastered](https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 7:14 | 2023-07-28 |  |
 | [Desafinado \(with Astrud Gilberto\)](https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:21 | 2023-07-28 |  |

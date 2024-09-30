@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 81183,
+  "num_followers": 81209,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAD0mDm3DGk1gwcsWLjq0h/1",
+  "snapshot_id": "ZvdHAAAAAAB7kJgdVL/+0laq9VX/VPE+",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 130492,
-      "name": "SEPARATE WAYS",
-      "url": "https://open.spotify.com/track/46UtQmjQidwCtW2PqFmQuu"
+      "duration_ms": 153014,
+      "name": "VOGUE",
+      "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 153014,
-      "name": "VOGUE",
-      "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv"
+      "duration_ms": 130492,
+      "name": "SEPARATE WAYS",
+      "url": "https://open.spotify.com/track/46UtQmjQidwCtW2PqFmQuu"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 119857,
-      "name": "HOMEBODY",
-      "url": "https://open.spotify.com/track/6wl5DS8O5WRBJFUF6uW5Nf"
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 136874,
-      "name": "D1",
-      "url": "https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u"
+      "duration_ms": 119857,
+      "name": "HOMEBODY",
+      "url": "https://open.spotify.com/track/6wl5DS8O5WRBJFUF6uW5Nf"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
       "duration_ms": 131691,
       "name": "GRAMMY (Freestyle)",
       "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105882,
-      "name": "NO DISCUSSION",
-      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
     }
   ],
   "unique_name": "This Is Lil Tecca",

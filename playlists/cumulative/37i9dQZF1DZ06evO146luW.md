@@ -2,7 +2,7 @@
 
 ### [This Is Koe Wetzel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO146luW)
 
-> This is Koe Wetzel\. The essential tracks, all in one playlist.
+> This Is Koe Wetzel\. Les titres incontournables, réunis dans une seule et même playlist.
 
 42 songs - 2 hr 34 min
 

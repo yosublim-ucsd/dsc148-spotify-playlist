@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 155421,
+  "description": "This Is Stevie Ray Vaughan. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 155446,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAABczT0CjdSbJk8z1sLbQwUV",
+  "snapshot_id": "ZvdHAAAAAADeAY0ty4j04yi/PxokWv5N",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 101973,
-      "name": "Slip Slidin' Slim",
-      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 302640,
       "name": "Ask Me No Questions",
       "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 101973,
+      "name": "Slip Slidin' Slim",
+      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
     },
     {
       "added_at": null,

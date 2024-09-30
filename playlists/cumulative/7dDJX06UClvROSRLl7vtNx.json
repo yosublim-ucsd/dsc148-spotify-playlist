@@ -2573,6 +2573,32 @@
     },
     {
       "album": {
+        "name": "Don't Waste My Time",
+        "url": "https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        },
+        {
+          "name": "NEA EINI",
+          "url": "https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/2Mpbc0ciNa7nFIctbJJDRX"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Let Your Mama Down",
         "url": "https://open.spotify.com/album/6nExJSSnOdEIwkVG8UGRfV"
       },
@@ -3216,7 +3242,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 178577,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/58pi82abqVUY3jRNDvZJWC"
@@ -3710,7 +3736,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 145862,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4oVUd3U1zR43FkseztSnMb"
@@ -5290,7 +5316,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 126947,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/6JRbMrGIQbvE9Ybd6xW0u6"
@@ -5814,7 +5840,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 200635,
       "name": "Kendall Park",
       "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
@@ -6116,7 +6142,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 157377,
       "name": "Lemonade (feat. SEM)",
       "url": "https://open.spotify.com/track/35VTDdIaIuTg6G8UWg7IMN"
@@ -7004,7 +7030,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 171964,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/3kY2heeBodxc2S9g4QwcsE"
@@ -8878,7 +8904,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 150901,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/52Kt0ltJzMBebV9c1nPf8r"
@@ -8948,7 +8974,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 160380,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6i7p1ebvBqZGW0snZGwUiX"
@@ -9004,6 +9030,28 @@
       "duration_ms": 158356,
       "name": "Reminds Me Of Us",
       "url": "https://open.spotify.com/track/3GLQvY5d9zmLVXvrlfZQA4"
+    },
+    {
+      "album": {
+        "name": "Reminds Me of You",
+        "url": "https://open.spotify.com/album/0hE0P5D6LBCIsaWlhdoCiF"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "Patrick Aretz",
+          "url": "https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Reminds Me of You",
+      "url": "https://open.spotify.com/track/0haD37qstW10hmwFzdC2wr"
     },
     {
       "album": {
@@ -10036,7 +10084,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 160714,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0Drhwzv9nC4HSxceTpGMxZ"
@@ -11138,7 +11186,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 174000,
       "name": "The Coast",
       "url": "https://open.spotify.com/track/2stURTZNZ9ewQrku3C0KIW"
@@ -11843,6 +11891,24 @@
     },
     {
       "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0FIsdHoYo4lGHTJwvz5y67"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153232,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg"
+    },
+    {
+      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/1qz08a4bbEiVN4P4nykzMq"
       },
@@ -12326,6 +12392,32 @@
       "duration_ms": 148800,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0QHaoHqQjO5mOnQS0J4Siq"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/2i7RzsHlqxeOg9am4xUYzg"
+      },
+      "artists": [
+        {
+          "name": "Menza",
+          "url": "https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7"
+        },
+        {
+          "name": "Aexcit",
+          "url": "https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8"
+        },
+        {
+          "name": "WILS",
+          "url": "https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151998,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/7IgtNA3fFMnTHD0ZluzBOi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,938,160 likes - 298 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,469 likes - 298 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 297 | [It's Ineffable](https://open.spotify.com/track/7Jgj8nFdfLaPnIN7rL1G7d) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [It's Ineffable](https://open.spotify.com/album/4sdMKvarcGY9xXHDy5Y4me) | 2:26 |
 | 298 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 |
 
-Snapshot ID: `ZurVhQAAAAC1sZjlwkPpQDfEJaUB0lhF`
+Snapshot ID: `ZurVhQAAAABceS6PAjGiWjzPzYADYGhG`

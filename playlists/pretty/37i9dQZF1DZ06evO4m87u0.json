@@ -1,12 +1,12 @@
 {
-  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 287267,
+  "description": "This Is The Black Keys. Los temas esenciales, todos en una lista.",
+  "num_followers": 287298,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAw186BORV5MZul67ntLBzy",
+  "snapshot_id": "ZvdHAAAAAAAc3QLJoSZ4aiYbMgDZ8KbM",
   "tracks": [
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 300611,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+      "duration_ms": 205037,
+      "name": "Too Afraid to Love You",
+      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 205037,
-      "name": "Too Afraid to Love You",
-      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
+      "duration_ms": 300611,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
     },
     {
       "added_at": null,

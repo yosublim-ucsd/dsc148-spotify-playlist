@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 140 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 140 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 9 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 |
 | 10 | [Kampfgeist 4](https://open.spotify.com/track/0zMeFmqknbN5k9UKxPMfcX) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Sie wollten Wasser doch kriegen Benzin](https://open.spotify.com/album/4m9FP8NlqLQfEEwtRIRP5x) | 2:56 |
 | 11 | [Oder nicht](https://open.spotify.com/track/4H8pHXruPJCSLubZpYZ1fH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:31 |
-| 12 | [Someone Else](https://open.spotify.com/track/6kvW6EI5UuqCmlp7L7HD9O) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someone Else](https://open.spotify.com/album/5HbBzk9KEgIAi2mWj4ubCh) | 2:53 |
+| 12 | [Someone Else](https://open.spotify.com/track/5eUhjzloIbtJFU7g9wr24m) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:53 |
 | 13 | [Diamanten](https://open.spotify.com/track/1xujyYqyEUc8VyCFXgqkHH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:27 |
 | 14 | [Beifahrersitz](https://open.spotify.com/track/4FyJCiEXLmRaxDjouG3sQp) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Treppenhaus \(Deluxe\)](https://open.spotify.com/album/0qpYcNFVzQGpatpsF0eGIg) | 3:20 |
 | 15 | [Mit Mir](https://open.spotify.com/track/62dSR3b4EppSS0DhWOLKwD) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:47 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbdYqAAAAADQ2DWKxMD/9zU7jTsHO/RA`
+Snapshot ID: `AbdeSAAAAABZK3yTa9xUWxEeowLVvFqc`

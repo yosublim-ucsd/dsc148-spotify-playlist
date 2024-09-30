@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 527 songs - 1 day 11 hr 8 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 526 songs - 1 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,9 +531,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 521 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 |
 | 522 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
 | 523 | [Prayer Man](https://open.spotify.com/track/5bwX27BYWQDeUj5qVCTGc6) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:38 |
-| 524 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
-| 525 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
-| 526 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
-| 527 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
+| 524 | [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 |
+| 525 | [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 |
+| 526 | [Reflections in Suspension \- 30th Anniversary Remaster](https://open.spotify.com/track/6qdwDI0a8FJMSOl4lr6ghT) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 16:46 |
 
-Snapshot ID: `AAAGiKB2a1pA1hvH0gNwa3tXbfxljPUq`
+Snapshot ID: `AAAGjDlE7TkLmGmpyPt1bIsvCj9DBRu4`

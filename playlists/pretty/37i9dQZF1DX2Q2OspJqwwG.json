@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 30522,
+  "num_followers": 30547,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-09-09 15:25:48",
-      "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2024-09-09 15:25:48",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "added_at": "2024-09-09 15:25:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
-    },
-    {
-      "added_at": "2024-09-09 15:25:48",
-      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 217000,
       "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
       "url": "https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS"
+    },
+    {
+      "added_at": "2024-09-09 15:25:48",
+      "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
     },
     {
       "added_at": "2024-09-09 15:25:48",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
+        "name": "Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+        }
+      ],
+      "duration_ms": 151099,
+      "name": "Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
+    },
+    {
+      "added_at": "2024-09-09 15:25:48",
+      "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
-    },
-    {
-      "added_at": "2024-09-09 15:25:48",
-      "album": {
-        "name": "Nebunia lui Babasha",
-        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "Nebunia lui Babasha",
-      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
     },
     {
       "added_at": "2024-09-09 15:25:48",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "Burj Khalifa",
-        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
+        "name": "Nebunia lui Babasha",
+        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
         },
         {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 151099,
-      "name": "Burj Khalifa",
-      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
+      "duration_ms": 145026,
+      "name": "Nebunia lui Babasha",
+      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
     },
     {
       "added_at": "2024-09-09 15:25:48",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
-    },
-    {
-      "added_at": "2024-09-09 15:25:48",
-      "album": {
         "name": "Imuni la bine",
         "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
       },
@@ -1847,18 +1827,22 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
       },
       "artists": [
         {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
     },
     {
       "added_at": "2024-09-09 15:25:48",
@@ -1887,22 +1871,38 @@
     {
       "added_at": "2024-09-09 15:25:48",
       "album": {
-        "name": "Paharul sus",
-        "url": "https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z"
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
       },
       "artists": [
         {
-          "name": "Nicole Cherry",
-          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
-        },
-        {
-          "name": "Puya",
-          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
         }
       ],
-      "duration_ms": 169361,
-      "name": "Paharul sus",
-      "url": "https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh"
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
+    },
+    {
+      "added_at": "2024-09-09 15:25:48",
+      "album": {
+        "name": "Guli Guli (From \"Buzz House\" The Movie)",
+        "url": "https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Guli Guli - From \"Buzz House\" The Movie",
+      "url": "https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

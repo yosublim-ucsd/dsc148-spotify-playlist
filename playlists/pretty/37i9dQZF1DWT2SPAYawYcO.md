@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,174 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,182 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

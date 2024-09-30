@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳芳語 \(Kimberley Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,465 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 |
 | 50 | [Aim High](https://open.spotify.com/track/4447zXCsgDBPORAbbz3Pia) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:42 |
 
-Snapshot ID: `ZtgGeQAAAACxOx8xljOtJRKrZNK31EcP`
+Snapshot ID: `ZtgGeQAAAABH5URG0CAFaW3BW0c0iVZg`

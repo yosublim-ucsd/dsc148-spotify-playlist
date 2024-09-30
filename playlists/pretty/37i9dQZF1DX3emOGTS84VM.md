@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,457 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,460 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
+| 1 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 2 | [EWW!](https://open.spotify.com/track/2ocrgIye6AFzQgDT8zZsTf) | [Orckid](https://open.spotify.com/artist/6dcRIBtX1Hhi9dBsv9w03k) | [EWW!](https://open.spotify.com/album/3OzmPa12GUB2Yya5s7Dh0R) | 3:22 |
 | 3 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
 | 4 | [Langsomt](https://open.spotify.com/track/0geaJMjiA82fivoJ8fFwj2) | [Karl William](https://open.spotify.com/artist/71bX2v2nDPLqlMmFzV5CjP) | [Langsomt Er Den Hurtigste Vej Frem](https://open.spotify.com/album/25DZ5JcFyN51HFOnpmEtMP) | 3:08 |

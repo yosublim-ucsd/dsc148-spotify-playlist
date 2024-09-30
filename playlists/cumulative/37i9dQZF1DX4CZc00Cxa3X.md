@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-390 songs - 1 day 8 hr 29 min
+391 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Drift](https://open.spotify.com/track/3X6Fyt7NXiZ0TUA2bf4iVK) | [Soon](https://open.spotify.com/artist/7LgtfPE5jpsqOCFrOi0x6t), [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC) | [Drift](https://open.spotify.com/album/3IMm9U6V9tD0EPe9RyyfUQ) | 4:32 | 2022-03-17 | 2023-01-28 |
 | [Droplet](https://open.spotify.com/track/6U3nADxIr8sshiUnXe9w6L) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Ancient Pathways](https://open.spotify.com/album/4lLj4XS2JmaScVyp2DElvc) | 4:28 | 2022-03-17 | 2022-07-29 |
 | [Drops in the Water](https://open.spotify.com/track/2EAlRs8m4NAoZ48ybhaIPC) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo), [tcs](https://open.spotify.com/artist/4r4V2XmTJ3jKfrTmgACFID) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 6:42 | 2023-08-18 | 2023-09-01 |
+| [duh](https://open.spotify.com/track/0r1bpt60dD06JFowGqpd17) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:43 | 2024-08-30 |  |
 | [Dysbarism](https://open.spotify.com/track/6waGjqgqcV92Jwnm45Qua8) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [OFFAIR: Mouthful of Salt](https://open.spotify.com/album/6RAaQ6MCrDuyugGMiDFCTF) | 2:10 | 2022-09-12 |  |
 | [Easter](https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg) | [Entanglement](https://open.spotify.com/album/4FN58DPGKCKisIpqEmu7av) | 5:24 | 2022-03-30 | 2022-10-01 |
 | [Eev](https://open.spotify.com/track/3TqSdsJga5OfHB0bKcHgJg) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Eev](https://open.spotify.com/album/2JUNw2Z800WKzUPFUUkDSO) | 3:56 | 2023-07-21 |  |
@@ -329,7 +330,7 @@
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-05-19 | 2023-06-06 |
 | [Sweet Earth Flying \- Pt\. 1](https://open.spotify.com/track/7mEeRIIpi1xLkj0gYnOmKu) | [Marion Brown](https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS) | [Sweet Earth Flying](https://open.spotify.com/album/280Zp1w8nQhWtXuvaiDnLr) | 3:40 | 2023-09-22 | 2023-10-07 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |
-| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
+| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 | 2024-09-30 |
 | [Take it Easy \- Single Version](https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Take It Easy](https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL) | 3:46 | 2023-11-17 | 2024-08-31 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |

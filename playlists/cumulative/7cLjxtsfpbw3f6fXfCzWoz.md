@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-44 songs - 2 hr 37 min
+45 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2023-05-05 |  |
 | [I've Been Waiting For You](https://open.spotify.com/track/3F2sMDeuhueiBpDqEbRhCF) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:40 | 2024-09-19 |  |
 | [It's A Hard Life \- 2014 Remaster](https://open.spotify.com/track/61AP80MyPrlCdwveVOsKJy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever \- Deluxe Edition](https://open.spotify.com/album/2nTP7Q6V06ATrZ2A4vUWo1) | 4:06 | 2023-03-21 |  |
+| [Just The Once](https://open.spotify.com/track/02PWMXbnLbqIODveV4db4t) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera II](https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O) | 3:24 | 2024-09-29 |  |
 | [Kiss Goodnight](https://open.spotify.com/track/6bNk8Nakwq8nM6EGUy4nOP) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:50 | 2022-09-07 |  |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 | 2024-09-19 |  |
 | [Last Train to London](https://open.spotify.com/track/7kE0JjBurV144cuDOb55aB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:29 | 2024-01-02 |  |

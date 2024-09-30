@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 81 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 81 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 70 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
 | 71 | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/track/1D0Uz2anDZW9s5Y0eiKC2H) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:30 |
 | 72 | [VIP](https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 1:46 |
-| 73 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
-| 74 | [¿CUANDO VIENES?](https://open.spotify.com/track/4Qbv62N6cq5pGuOVP8GvaF) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:32 |
+| 73 | [¿CUANDO VIENES?](https://open.spotify.com/track/4Qbv62N6cq5pGuOVP8GvaF) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:32 |
+| 74 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
 | 75 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
 | 76 | [Inevitable](https://open.spotify.com/track/76cbzftq8VJ9zyXAoKWXcr) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:44 |
 | 77 | [300 Latidos](https://open.spotify.com/track/1nK9Srt5PunTHB2CvXlVUN) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:45 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 80 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 81 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `AbdYlAAAAACt0DcLMu8gfkkAhK2Yppv1`
+Snapshot ID: `AbdeNAAAAABI8k4FVco1Q8Da6QkV4WjQ`

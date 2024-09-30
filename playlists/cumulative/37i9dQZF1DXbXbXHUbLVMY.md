@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-231 songs - 10 hr 5 min
+233 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fiende på hotell](https://open.spotify.com/track/0JwLtBGMgeLQTRMaCUpgIv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Fiende på hotell](https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj) | 2:02 | 2024-05-23 | 2024-06-28 |
 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 | 2024-07-18 |  |
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |
+| [FRANK LUCAS](https://open.spotify.com/track/6DOV07jomdnvi5esdmjiQu) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [FRANK LUCAS](https://open.spotify.com/album/4Oekris7A02U6hAfmcRr98) | 2:20 | 2024-09-26 |  |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
 | [Følg lyden](https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:11 | 2024-08-22 |  |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
@@ -129,6 +130,7 @@
 | [Känslokall](https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:03 | 2024-02-01 | 2024-04-19 |
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 | 2024-02-04 |
 | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9) | 2:58 | 2024-05-30 |  |
+| [LA LIGA](https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [LA LIGA](https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa) | 2:21 | 2024-09-26 |  |
 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 | 2024-01-22 | 2024-06-01 |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 | 2024-04-29 |
@@ -174,7 +176,7 @@
 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-10-05 | 2024-01-23 |
 | [Radarn](https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Radarn](https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte) | 2:03 | 2024-08-15 |  |
 | [Real Life \(feat\. Arif Murakami\)](https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Real Life \(feat\. Arif Murakami\)](https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k) | 2:31 | 2024-09-26 |  |
-| [rizla \(feat\. Siyabång\)](https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [4 the summer](https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH) | 3:21 | 2024-06-20 |  |
+| [rizla \(feat\. Siyabång\)](https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [4 the summer](https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH) | 3:21 | 2024-06-20 | 2024-09-30 |
 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 | 2023-09-21 | 2024-04-19 |
 | [Roser](https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Roser](https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf) | 2:39 | 2023-11-16 | 2024-01-12 |
 | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 | 2024-01-11 | 2024-02-24 |
@@ -205,7 +207,7 @@
 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 | 2023-10-19 |  |
 | [Stakken Pt\. II](https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Stakken Pt\. II](https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u) | 2:41 | 2023-11-09 | 2024-01-11 |
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 |  |
-| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 |  |
+| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 | 2024-09-30 |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-07-12 |
 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 | 2024-04-27 |  |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |

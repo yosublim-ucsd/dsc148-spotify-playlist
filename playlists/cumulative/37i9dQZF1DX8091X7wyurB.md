@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-408 songs - 1 day 14 hr 46 min
+409 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 | 2024-03-08 | 2024-03-22 |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2023-04-21 |  |
 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 | 2022-09-08 |  |
+| [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 |  |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-08 | 2023-01-20 |
 | [Just a Door](https://open.spotify.com/track/2Ki8mSsLlGpKAHYEMNniwO) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Just a Door](https://open.spotify.com/album/0TNWti16203ZKvaHFVgnc7) | 3:08 | 2023-07-28 | 2023-08-04 |
 | [Just Like You've Always Done](https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Just Like You've Always Done](https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp) | 3:32 | 2023-12-15 | 2024-02-25 |
@@ -280,7 +281,7 @@
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2022-06-30 | 2023-05-05 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 | 2023-06-23 |
 | [On My Case](https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [On My Case](https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc) | 2:43 | 2023-05-19 | 2023-06-23 |
-| [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 |  |
+| [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 | 2024-09-30 |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-04-21 |  |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-05-17 |
 | [Onye eze](https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8) | [Frank Edwards](https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg) | [MELODY](https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ) | 5:24 | 2022-06-30 | 2023-05-30 |

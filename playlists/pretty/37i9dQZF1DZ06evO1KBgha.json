@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kenia OS. Los temas esenciales, todos en una lista.",
-  "num_followers": 336371,
+  "description": "This is Kenia OS. The essential tracks, all in one playlist.",
+  "num_followers": 336476,
   "original_name": "This Is Kenia OS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAABzle4GZOVzvC7Nc+zVarIm",
+  "snapshot_id": "ZvdHAAAAAABvz8fRUd/Tdjvt9EZqa1aW",
   "tracks": [
     {
       "added_at": null,
@@ -867,30 +867,6 @@
       "duration_ms": 176000,
       "name": "Desamor Feliz - Remix",
       "url": "https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa S\u00ed",
-        "url": "https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 173347,
-      "name": "T\u00fa S\u00ed",
-      "url": "https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD"
     }
   ],
   "unique_name": "This Is Kenia OS",

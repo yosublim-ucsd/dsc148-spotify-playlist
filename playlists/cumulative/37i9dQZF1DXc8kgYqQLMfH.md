@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,191 songs - 1 day 21 hr 22 min
+1,192 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Comfortable](https://open.spotify.com/track/4tReGzA7E6SRrqmWhUbnvu) | [Red Lekk](https://open.spotify.com/artist/5luaCdQ4VxA8NcuLTu5Y89) | [Comfortable](https://open.spotify.com/album/43y8tCWXbrSwXjqglWt0Yt) | 2:18 | 2022-12-09 | 2024-05-14 |
 | [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 | 2024-09-21 |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2021-11-10 | 2022-06-10 |
-| [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 | 2022-10-01 |  |
+| [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 | 2022-10-01 | 2024-09-30 |
 | [console](https://open.spotify.com/track/3d5i2qbIYsLe8EyhTdq54z) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [console](https://open.spotify.com/album/62YLiYuFn2KLRKf2k9CkDw) | 3:38 | 2022-11-25 | 2023-03-18 |
 | [Consult](https://open.spotify.com/track/6XzmE9jEekd5iNZDTBprtT) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Moontape 11](https://open.spotify.com/album/14b9TLtatIrTul5Tjixt8N) | 1:46 | 2022-06-17 | 2023-09-22 |
 | [Contact Tracing \- Devon Rea Rework](https://open.spotify.com/track/3IMlBlvMvOi6dJB005fwgx) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Contact Tracing \(Devon Rea Rework\)](https://open.spotify.com/album/3FcwYBHXuITH2AzJUHxhjF) | 2:24 | 2022-10-28 | 2023-04-28 |
@@ -621,6 +621,7 @@
 | [lucking out](https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD) | [late tripper](https://open.spotify.com/artist/6qAFdIh8283HnxwpcVa7yD) | [lucking out](https://open.spotify.com/album/0ESc7FdQlxeel0vvKVJkAa) | 2:13 | 2021-11-10 | 2022-09-09 |
 | [lucky cat](https://open.spotify.com/track/71oqTW6guCCmN2gwO34dRV) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [lucky cat](https://open.spotify.com/album/0eeN5EReBav3FnFM5kkuSC) | 2:33 | 2023-07-13 | 2023-11-18 |
 | [Lucky S](https://open.spotify.com/track/2jUMhQ6GLpvyhqB4hzmPDY) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Lucky S](https://open.spotify.com/album/2Vte3A1urErAcVwq4sNO06) | 2:56 | 2022-08-05 | 2022-11-12 |
+| [lullaby](https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [lullaby](https://open.spotify.com/album/6pTuoO4bx3eY27Ag3aerJc) | 2:37 | 2024-09-27 |  |
 | [Luminous](https://open.spotify.com/track/41BdBzn21KqYFVULeoD0iP) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Luminous](https://open.spotify.com/album/5ZWRvXXNQjJJlowthZcFML) | 2:09 | 2022-07-15 | 2022-07-22 |
 | [Lunchtime Naps](https://open.spotify.com/track/7Ek77aQQIXBz9ONMCT1dgt) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Simpler Days](https://open.spotify.com/album/5zPe20u8Mu91BYrRSjqRhn) | 2:42 | 2021-11-10 | 2022-10-15 |
 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 | 2021-11-10 | 2023-03-02 |

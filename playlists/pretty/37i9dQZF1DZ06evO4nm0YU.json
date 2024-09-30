@@ -1,12 +1,12 @@
 {
   "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
-  "num_followers": 159882,
+  "num_followers": 159949,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAv6Kp/tnQPBiN+cFrAOkMQ",
+  "snapshot_id": "ZvdHAAAAAAB/c56aab5NcVbC4nssMy/Q",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Ella Minti\u00f3",
+      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 227280,
       "name": "Ah-Ah / O-No",
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Ella Minti\u00f3",
-      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
     },
     {
       "added_at": null,

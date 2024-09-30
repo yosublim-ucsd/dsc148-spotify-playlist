@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 880 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 881 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 37 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 38 | [Mördare](https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Mördare](https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW) | 2:49 |
 | 39 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
-| 40 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
-| 41 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 40 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 41 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
 | 42 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 43 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 44 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 52 | [Territory Day](https://open.spotify.com/track/5U8QZWyYdNNLZpzHcS8i2D) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/3Ej72D5LaFOqUPpqpcu2U3) | 5:26 |
 | 53 | [Crumbs](https://open.spotify.com/track/7uhU4IYKI9e7leuQXCmHzG) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [Crumbs](https://open.spotify.com/album/4qCWEnBAq9LJpkIUi3s2vV) | 1:55 |
 | 54 | [Grodjakten](https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE) | [Johannes Räihä](https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP) | [Grodjakten](https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb) | 2:31 |
-| 55 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 |
-| 56 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
+| 55 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
+| 56 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 |
 | 57 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 |
 | 58 | [WOMAN](https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 3:28 |
 | 59 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 83 | [Nomad](https://open.spotify.com/track/3y8s3BTRrVZS6z38L4U6kQ) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Nomad](https://open.spotify.com/album/4mmQ7sXnL4jB1J4rn0dTs6) | 2:29 |
 | 84 | [Young](https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [YOUNG](https://open.spotify.com/album/4T7DIdvs8FB3yObNPG6dY3) | 2:28 |
 | 85 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
-| 86 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 87 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 |
+| 86 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 |
+| 87 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 88 | [Gråt, gråt, gråt](https://open.spotify.com/track/2XrjVzi8zZYLhqioB2OwoY) | [Llojd](https://open.spotify.com/artist/04Axa6ilD95HIZIx5zUg6W) | [Gråt, gråt, gråt](https://open.spotify.com/album/5wLqkxwXm4o3JauQDiSXtf) | 3:28 |
 | 89 | [Psycho](https://open.spotify.com/track/2xxvHVBorURtGuDpPOZrcY) | [valliant](https://open.spotify.com/artist/64AJiH9KDoNZyK6Twv26V0) | [Psycho](https://open.spotify.com/album/2yEGgj2PQSolKeFgVjMgZf) | 3:10 |
 | 90 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |

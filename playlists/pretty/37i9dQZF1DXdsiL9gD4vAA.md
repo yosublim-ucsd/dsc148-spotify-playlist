@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,295 likes - 90 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,354 likes - 90 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 9 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/6iav7ommATFG8HxvhF4pf6) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 1:41 |
 | 10 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 |
 | 11 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 |
-| 12 | [Darmiya'n](https://open.spotify.com/track/2wzmKLMH0krJChu5cMtclR) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Darmiya'n](https://open.spotify.com/album/1N68VYYlujDkxSy93F18b3) | 5:11 |
-| 13 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 |
-| 14 | [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 |
+| 12 | [Hoke Majboor](https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Akshay Raheja](https://open.spotify.com/artist/7kF45gEqMa6LuPf1fA7hsr), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Taaza Khabar \(Season 2\)](https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm) | 4:17 |
+| 13 | [Darmiya'n](https://open.spotify.com/track/2wzmKLMH0krJChu5cMtclR) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Darmiya'n](https://open.spotify.com/album/1N68VYYlujDkxSy93F18b3) | 5:11 |
+| 14 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 |
 | 15 | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 |
 | 16 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 |
 | 17 | [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 89 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
 | 90 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 |
 
-Snapshot ID: `Zuj4fQAAAABbqwPI8m/sKAqR79ivk5/c`
+Snapshot ID: `ZvlvSgAAAACabWJUVsA7RUDKSZPGpmo/`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 6 hr 46 min
+131 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,11 +82,13 @@
 | [Modern Melancholia](https://open.spotify.com/track/3brEzLUzMaCtfcSKrKqyIg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:12 | 2024-09-22 |  |
 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 | 2024-01-29 | 2024-09-23 |
 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 | 2024-01-29 |  |
-| [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2024-08-18 |  |
+| [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 | 2024-08-18 | 2024-09-30 |
+| [Never Know](https://open.spotify.com/track/5fjRSefWrhhF55YMG7mHL7) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:58 | 2024-09-29 |  |
 | [No Man's Land](https://open.spotify.com/track/3lQIahCMwi22O2DP1J6q7K) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 3:02 | 2024-09-12 |  |
 | [Nowhere](https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:04 | 2024-01-29 |  |
 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 | 2024-04-11 |  |
 | [Old Stones](https://open.spotify.com/track/0DGiMbEuDh8EsSTMr7VWUa) | [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Old Stones](https://open.spotify.com/album/30tEteM0v75u91EYSe7Oza) | 3:09 | 2024-01-29 |  |
+| [On & On](https://open.spotify.com/track/5MWbzT1ulVmjn3f3sRImRs) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [On & On](https://open.spotify.com/album/1mlVABq7eBOHJ2zu8qyt4L) | 2:25 | 2024-09-29 |  |
 | [On the Weekend](https://open.spotify.com/track/381RY9KEvhEZi88XDDvi0d) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 4:01 | 2024-01-29 | 2024-07-11 |
 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 | 2024-01-29 |  |
 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 | 2024-01-29 |  |

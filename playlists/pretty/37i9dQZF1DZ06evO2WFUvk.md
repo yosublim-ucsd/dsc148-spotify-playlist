@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,513 likes - 29 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,512 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 28 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
 | 29 | [Make Me Feel \- Original Mix](https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Deep Inside](https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T) | 7:36 |
 
-Snapshot ID: `ZvX1gAAAAAALtJ6fgYs6+Rk7dBQVagK5`
+Snapshot ID: `ZvdHAAAAAABf29aZ3rrdZuIZDX/t6kaQ`

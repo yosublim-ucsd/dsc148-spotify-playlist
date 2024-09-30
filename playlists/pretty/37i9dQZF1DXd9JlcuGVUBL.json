@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=Nf70BPuJRFOusU5etiipvQ\">Kelsea Ballerini</a>  ",
-  "num_followers": 29748,
+  "num_followers": 29774,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/627prN1Fich2Z7u0zttQat"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
+      "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -217,52 +217,20 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "About Last Night",
-        "url": "https://open.spotify.com/album/0gZPTH0ayDDEhUhDWAxvR7"
-      },
-      "artists": [
-        {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
-        }
-      ],
-      "duration_ms": 236410,
-      "name": "Where The Wild Things Are",
-      "url": "https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6"
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -281,6 +249,38 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "About Last Night",
+        "url": "https://open.spotify.com/album/0gZPTH0ayDDEhUhDWAxvR7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 236410,
+      "name": "Where The Wild Things Are",
+      "url": "https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Am I Okay?",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "Something in the Orange",
@@ -327,6 +311,22 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+    },
+    {
       "added_at": "2024-05-16 22:00:00",
       "album": {
         "name": "Sweet Dreams",
@@ -413,20 +429,20 @@
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 161285,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -459,22 +475,6 @@
       "duration_ms": 164264,
       "name": "Park",
       "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-08-23 06:29:23",
@@ -565,38 +565,6 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Feelin' Country (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 164767,
-      "name": "Feelin' Country (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
-    },
-    {
       "added_at": "2024-07-04 22:00:00",
       "album": {
         "name": "4\u00d74\u00d7U",
@@ -627,6 +595,38 @@
       "duration_ms": 214800,
       "name": "CHUCK TAYLORS",
       "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 164767,
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
     },
     {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 174412,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
+    },
+    {
       "added_at": "2024-08-01 22:00:00",
       "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
@@ -731,18 +747,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 174412,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "added_at": "2024-09-23 07:59:08",
@@ -777,26 +797,6 @@
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "GO HOME W U (WITH LAINEY WILSON)",
-        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U (WITH LAINEY WILSON)",
-      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
-    },
-    {
       "added_at": "2024-03-15 05:03:56",
       "album": {
         "name": "Vegas",
@@ -811,22 +811,6 @@
       "duration_ms": 181742,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
-    },
-    {
-      "added_at": "2024-02-09 03:20:16",
-      "album": {
-        "name": "Whiskey To My Soul",
-        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
-      },
-      "artists": [
-        {
-          "name": "Roan Ash",
-          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Whiskey To My Soul",
-      "url": "https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -847,6 +831,22 @@
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
+    },
+    {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "Whiskey To My Soul",
+        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
+      },
+      "artists": [
+        {
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Whiskey To My Soul",
+      "url": "https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz"
     }
   ],
   "unique_name": "Country Musiek",

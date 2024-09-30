@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 406868,
+  "num_followers": 407066,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 157868,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 157868,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 149013,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Un grand amour",
-        "url": "https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Un grand amour",
-      "url": "https://open.spotify.com/track/3MRCa3omM28c427BVtS99V"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Un grand amour",
+        "url": "https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Un grand amour",
+      "url": "https://open.spotify.com/track/3MRCa3omM28c427BVtS99V"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1167,6 +1167,22 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 205577,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 205577,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1287,18 +1271,38 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
       "artists": [
         {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
         }
       ],
-      "duration_ms": 165882,
-      "name": "Ca\u00edmos las dos",
-      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "La ventanita",
+        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 255168,
+      "name": "La ventanita",
+      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "La ventanita",
-        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
       "artists": [
         {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 255168,
-      "name": "La ventanita",
-      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
+      "duration_ms": 165882,
+      "name": "Ca\u00edmos las dos",
+      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "_BCN626",
         "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
       },
@@ -1443,34 +1459,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
       "artists": [
         {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
-      },
-      "artists": [
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
         {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
         }
       ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1495,6 +1499,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "Cruzando el Charco",
         "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
       },
@@ -1507,46 +1527,6 @@
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
-        "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
-      },
-      "artists": [
-        {
-          "name": "Pen\u00e9lope",
-          "url": "https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr"
-        },
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 200696,
-      "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
-      "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+        "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope",
+          "url": "https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 200696,
+      "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+      "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
         "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Aunque no quiera te amar\u00e9",
         "url": "https://open.spotify.com/album/3NEwvrKd0nfGRbyelNUscz"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 125046,
       "name": "Aunque no quiera te amar\u00e9",
       "url": "https://open.spotify.com/track/07oIpKa4ecuirknaJezKXi"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2024-09-24 13:23:41",

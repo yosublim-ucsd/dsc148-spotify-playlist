@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 90893,
+  "num_followers": 90948,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Piya Piya Calling (feat. The Quick Style)",
         "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
       },
@@ -263,42 +283,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "What Happened To The Heart?",
         "url": "https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Slutet av sommarn",
-        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 137810,
-      "name": "Slutet av sommarn",
-      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -363,18 +347,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
+        "name": "Slutet av sommarn",
+        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
       },
       "artists": [
         {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         }
       ],
-      "duration_ms": 158511,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+      "duration_ms": 137810,
+      "name": "Slutet av sommarn",
+      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -395,6 +379,22 @@
       "duration_ms": 161667,
       "name": "henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 158511,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -671,6 +671,42 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "TORRES TIVOLI",
+        "url": "https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "vinner",
+      "url": "https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Hellig",
+        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Hellig",
+      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
@@ -699,22 +735,6 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Hellig",
-        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Hellig",
-      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -787,6 +807,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -807,18 +843,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -835,22 +871,6 @@
       "duration_ms": 198200,
       "name": "25",
       "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -963,8 +983,24 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-        "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
@@ -972,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 195607,
-      "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-      "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -995,38 +1031,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Uansett hvem du er",
-        "url": "https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6"
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 176089,
-      "name": "Uansett hvem du er",
-      "url": "https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1051,38 +1067,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+        "name": "Uansett hvem du er",
+        "url": "https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "TORRES TIVOLI",
-        "url": "https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
         },
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 151466,
-      "name": "vinner",
-      "url": "https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu"
+      "duration_ms": 176089,
+      "name": "Uansett hvem du er",
+      "url": "https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Alt jeg har dr\u00f8mt om",
-        "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
       "artists": [
         {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Alt jeg har dr\u00f8mt om",
-      "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 199500,
       "name": "Keeps Me Going",
       "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Alt jeg har dr\u00f8mt om",
+        "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
+      },
+      "artists": [
+        {
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Alt jeg har dr\u00f8mt om",
+      "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Synd synd synd",
-        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Synd synd synd",
-      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1219,6 +1219,22 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "wildflower",
+        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
+      },
+      "artists": [
+        {
+          "name": "leoleo",
+          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
+        }
+      ],
+      "duration_ms": 174692,
+      "name": "wildflower",
+      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "wildflower",
-        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
-      },
-      "artists": [
-        {
-          "name": "leoleo",
-          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
-        }
-      ],
-      "duration_ms": 174692,
-      "name": "wildflower",
-      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Langt av sted",
         "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 160813,
       "name": "Langt av sted",
       "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "R\u00f8d cabriolet",
+        "url": "https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 223568,
+      "name": "R\u00f8d cabriolet",
+      "url": "https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1327,38 +1343,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "R\u00f8d cabriolet",
-        "url": "https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 223568,
-      "name": "R\u00f8d cabriolet",
-      "url": "https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Ti tusen",
         "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Synd synd synd",
+        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Synd synd synd",
+      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "To Be Alright",
-        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
+        "name": "Rekk opp h\u00e5nda",
+        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 245640,
-      "name": "To Be Alright",
-      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
+      "duration_ms": 180126,
+      "name": "Rekk opp h\u00e5nda",
+      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Rekk opp h\u00e5nda",
-        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
+        "name": "To Be Alright",
+        "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 180126,
-      "name": "Rekk opp h\u00e5nda",
-      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+      "duration_ms": 245640,
+      "name": "To Be Alright",
+      "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
     },
     {
       "added_at": "2024-09-26 22:00:00",

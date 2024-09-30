@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,073 songs - 3 day 7 hr 2 min
+2,075 songs - 3 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [air balloon](https://open.spotify.com/track/5c9q5CvAtO4xDTnyQuGKuO) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [air balloon](https://open.spotify.com/album/6FMI7m8KpFoqWZlTJwCDEm) | 1:59 | 2022-12-23 | 2024-09-19 |
 | [air hands](https://open.spotify.com/track/6nfneranC6kjljdYNiQTXx) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [air hands](https://open.spotify.com/album/1hr6RbmKByoUitF2kpVZkc) | 1:58 | 2022-08-05 | 2022-08-12 |
 | [Air V](https://open.spotify.com/track/0itPjvqfCq6Od5hMAVeJYi) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Air V](https://open.spotify.com/album/30uDAdGTkafGoJVlEoPQfD) | 2:28 | 2023-07-13 |  |
+| [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-09-27 |  |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-06 |  |
 | [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2022-04-15 | 2022-10-14 |
 | [akalla](https://open.spotify.com/track/4J98BDXw9nFDF044SgAYfC) | [abel gecco](https://open.spotify.com/artist/6DvLO2WJYRMtUD9oiyFcJR) | [akalla](https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o) | 2:23 | 2022-09-09 | 2024-07-06 |
@@ -527,6 +528,7 @@
 | [Earth](https://open.spotify.com/track/6NyXnrxqnsbJYqe64YUGt7) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:13 | 2022-04-15 | 2022-07-15 |
 | [Easy breath](https://open.spotify.com/track/2mqNw2TFosQlRp7QXplg4j) | [Faithvwl](https://open.spotify.com/artist/7bFyV2qQ7wkQLzAaHJli34), [SHEM](https://open.spotify.com/artist/5wL4hoQE1iJItzBTBUeUHi), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Easy breath](https://open.spotify.com/album/4jnq2DWiBX9rCw0Va42tWI) | 2:38 | 2022-10-07 | 2023-01-13 |
 | [eat your veggies](https://open.spotify.com/track/5yNvdmgmL6HkjkW8XHxYSW) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eat your veggies](https://open.spotify.com/album/0fMC5s4VPFaNcs5s3jsYz6) | 2:29 | 2022-06-24 | 2022-12-09 |
+| [Eclipse](https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Eclipse](https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf) | 2:24 | 2024-09-27 |  |
 | [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 |  |
 | [Effortless](https://open.spotify.com/track/2uECuFneO3YfJjEv3kz68w) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Effortless](https://open.spotify.com/album/1ZK2ZibOj6CggnPP2arjLx) | 2:35 | 2022-05-13 | 2022-11-12 |
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2022-05-27 | 2024-05-14 |
@@ -740,7 +742,7 @@
 | [Good Times](https://open.spotify.com/track/3TQWfUf2Xe99d93tSyC6Gs) | [Loodwig](https://open.spotify.com/artist/7zLCueWV49iUQ2MwVOx12y) | [Good Times](https://open.spotify.com/album/0BAYEKipO0viW6ibBlADlK) | 1:53 | 2022-04-22 | 2022-11-12 |
 | [Goodbye](https://open.spotify.com/track/2C4pl7JiNTV0Ae9wd1H8IS) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Polar Picnic EP](https://open.spotify.com/album/3qSG7nuarahG2siS04UBPr) | 1:34 | 2022-05-27 | 2022-11-12 |
 | [Got It](https://open.spotify.com/track/2Z94cduAGpcMsSDy1QUv4l) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Got It](https://open.spotify.com/album/5hBgxAYtyev9MdBcpS8sAZ) | 2:05 | 2022-11-11 |  |
-| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2022-10-28 |  |
+| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2022-10-28 | 2024-09-30 |
 | [Grand Master](https://open.spotify.com/track/1vDIIfv8qU7xPmK44oAdn7) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Grand Master](https://open.spotify.com/album/2pjhEAX1kHJZ0W73jMTG6x) | 2:10 | 2024-02-02 |  |
 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 | 2022-10-14 |  |
 | [Grateful](https://open.spotify.com/track/2vETyRzz3gDtUX9eCIfty8) | [goldenfleece](https://open.spotify.com/artist/5p9gjkZcT07UNRL5nW6TE9), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Grateful](https://open.spotify.com/album/1h4qcP5yz5xBKVgWTO2Z6A) | 2:25 | 2022-11-18 | 2023-09-16 |
@@ -1229,7 +1231,7 @@
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2024-05-14 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Digs](https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [New Digs](https://open.spotify.com/album/2ypN0p2zkApynrOLhJGO5e) | 2:20 | 2023-11-24 |  |
-| [New Growth](https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj) | [titus barnacle](https://open.spotify.com/artist/5EJZmwZWIIfJvPaGPwMnyT) | [New Growth](https://open.spotify.com/album/7jgdixZrr2xvhZwWaey6bC) | 2:44 | 2022-11-18 |  |
+| [New Growth](https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj) | [titus barnacle](https://open.spotify.com/artist/5EJZmwZWIIfJvPaGPwMnyT) | [New Growth](https://open.spotify.com/album/7jgdixZrr2xvhZwWaey6bC) | 2:44 | 2022-11-18 | 2024-09-30 |
 | [New Season](https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [New Season](https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9) | 2:00 | 2023-11-24 |  |
 | [New Year](https://open.spotify.com/track/3EXgLJULkj8T7oAlCArdcf) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [New Year](https://open.spotify.com/album/5msYL3SaE47h6BQiAgFQX5) | 2:44 | 2023-01-20 | 2023-09-14 |
 | [New Years Day](https://open.spotify.com/track/2nkNmG4NpHxtgsWQM4fzqE) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Brief Fantasies](https://open.spotify.com/album/6o1aWNPHo9fLuolkk0HvYH) | 2:39 | 2022-06-03 | 2022-11-12 |

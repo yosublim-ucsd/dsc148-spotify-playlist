@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-117 songs - 6 hr 43 min
+118 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-06 |  |
 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/5jNn9QeC5PCZl3t27eusXg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \- Deluxe Remastered Version](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 3:33 | 2023-03-21 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2022-05-06 | 2023-07-09 |
+| [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 | 2024-09-29 |  |
 | [Rain in Soho](https://open.spotify.com/track/6hscYQ0QETyhsUtGcIraKa) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/0qiQRfHW1HvMTnYGtYgrtQ) | 4:46 | 2023-01-03 |  |
 | [Razzmatazz](https://open.spotify.com/track/3UhhRDkHWz7D28BkejHzqI) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 4:18 | 2022-05-13 |  |
 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 | 2024-09-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 331110,
+  "num_followers": 331175,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "duration_ms": 226909,
+      "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Take Care of Yourself",
         "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
       },
@@ -495,22 +515,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
-      },
-      "artists": [
-        {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Meant To be Superfluous",
         "url": "https://open.spotify.com/album/7MtiH1SlOboNXb2awykwB5"
       },
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
         }
       ],
-      "duration_ms": 226909,
-      "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
         "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 240666,
       "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Showa",
+        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 140483,
+      "name": "Showa",
+      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Cyber Love",
         "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 152195,
       "name": "I Found You (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Showa",
-        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 140483,
-      "name": "Showa",
-      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 228597,
-      "name": "Breaking Away",
-      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 228597,
+      "name": "Breaking Away",
+      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 173421,
       "name": "Palm Road",
       "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -951,18 +951,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Cheetahs in Barcelona",
-        "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
       },
       "artists": [
         {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Cheetahs in Barcelona",
-      "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
@@ -1015,18 +1015,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
+        "name": "Cheetahs in Barcelona",
+        "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
         }
       ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
+      "duration_ms": 169714,
+      "name": "Cheetahs in Barcelona",
+      "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1067,22 +1083,6 @@
       "duration_ms": 167889,
       "name": "Dance Dance Cochayuyo!",
       "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "DRENCH3D",
         "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
-      },
-      "artists": [
-        {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Querelle",
-      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 303148,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+      },
+      "artists": [
+        {
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Querelle",
+      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "MOTORWAY",
+        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd"
       },
@@ -1687,34 +1703,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Untold",
-        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
+        "name": "Fashionably Late",
+        "url": "https://open.spotify.com/album/6YiRisKk4N3ZRFLtJSNdDl"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
         }
       ],
-      "duration_ms": 221687,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "MOTORWAY",
-        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+      "duration_ms": 174375,
+      "name": "Fashionably Late",
+      "url": "https://open.spotify.com/track/3HuggytTLa0Z0WRFapPLDm"
     }
   ],
   "unique_name": "Future Funk",

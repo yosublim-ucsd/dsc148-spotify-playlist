@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 487096,
+  "num_followers": 487192,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAWp6+igu1sbVtdWrNTrvJv",
+  "snapshot_id": "ZvdHAAAAAADX+sOBeUMiMEQCggWbdgxB",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+      "duration_ms": 251533,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
     },
     {
       "added_at": null,
@@ -228,15 +228,15 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Gunslinger",
-      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 285613,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+      "duration_ms": 526013,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 526013,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
+      "duration_ms": 285613,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 876752,
+  "num_followers": 877059,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "Mexican Phonk Eki",
         "url": "https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k"
       },
@@ -491,6 +507,22 @@
       "duration_ms": 98067,
       "name": "Mexican Phonk Eki",
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "Phonkageddon",
+        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Live Another Day",
+      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -515,22 +547,6 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Phonkageddon",
-        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Live Another Day",
-      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -567,22 +583,6 @@
       "duration_ms": 95996,
       "name": "YUMMI",
       "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
     },
     {
       "added_at": "2024-05-08 15:21:25",

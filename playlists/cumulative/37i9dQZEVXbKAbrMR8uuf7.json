@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 148453,
       "name": "Bebi Demasiado",
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
@@ -6606,6 +6606,28 @@
       "duration_ms": 175879,
       "name": "Deficit",
       "url": "https://open.spotify.com/track/54yXhZtB9LSG3g6LMBe0ST"
+    },
+    {
+      "album": {
+        "name": "DEJA EL SENTIMIENTO",
+        "url": "https://open.spotify.com/album/1S0CIAyyBGIAbFzV7YS85C"
+      },
+      "artists": [
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        },
+        {
+          "name": "CREADOR",
+          "url": "https://open.spotify.com/artist/0SsoQFZXKE0Szow7wdZ3yO"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128852,
+      "name": "DEJA EL SENTIMIENTO",
+      "url": "https://open.spotify.com/track/2to3mp7vQdbreRT5R5UwnA"
     },
     {
       "album": {
@@ -13436,7 +13458,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -13794,7 +13816,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -13982,7 +14004,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 239026,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc"
@@ -23862,7 +23884,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"

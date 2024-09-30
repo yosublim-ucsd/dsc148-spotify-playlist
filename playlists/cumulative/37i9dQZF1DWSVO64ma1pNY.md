@@ -4,7 +4,7 @@
 
 > Life sucks...i need some rock!
 
-218 songs - 12 hr 51 min
+219 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 | 2024-03-06 |  |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 | 2024-01-23 |  |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2023-09-28 |  |
-| [bury me.](https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [bury me.](https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC) | 3:51 | 2024-09-02 |  |
+| [bury me.](https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [bury me.](https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC) | 3:51 | 2024-09-02 | 2024-09-30 |
 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 | 2023-09-28 |  |
 | [California King](https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:53 | 2024-03-06 |  |
 | [Cassiopeia \- Bonus Track](https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm) | 4:18 | 2024-09-02 |  |
@@ -130,6 +130,7 @@
 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 | 2024-03-06 |  |
 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 | 2023-09-28 |  |
 | [Morning Haze](https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Morning Haze](https://open.spotify.com/album/1E6rJFpTgage3sExihOADT) | 3:48 | 2024-09-02 |  |
+| [Mush](https://open.spotify.com/track/3vIBgMOO5BY8WfWZDfY0FO) | [Spare Parts For Broken Hearts](https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5) | [Mush](https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg) | 3:40 | 2024-09-02 |  |
 | [My Demons](https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Transmissions \(Deluxe Version\)](https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn) | 4:48 | 2023-09-28 | 2024-01-24 |
 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 | 2023-09-28 |  |
 | [New](https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [New](https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn) | 3:00 | 2024-09-02 |  |

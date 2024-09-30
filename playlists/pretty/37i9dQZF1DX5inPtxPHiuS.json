@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86550,
+  "num_followers": 86551,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -107,38 +107,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
-      },
-      "artists": [
-        {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Nada Me Obliga",
-      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
       },
@@ -155,6 +123,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Nada Me Obliga",
+      "url": "https://open.spotify.com/track/1ZgffyEDYfzRqr54XQKuF4"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Volver Amar",
         "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 195706,
       "name": "No M\u00e1s",
       "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+      },
+      "artists": [
+        {
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Anaranjado",
         "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
-      },
-      "artists": [
-        {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -327,26 +327,6 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -383,6 +363,26 @@
       "duration_ms": 196437,
       "name": "Punto Final",
       "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "No Hay Tiempo Que Perder",
         "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Antes de Que Sea Muy Tarde",
-        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
       },
       "artists": [
         {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
         }
       ],
-      "duration_ms": 192787,
-      "name": "Antes de Que Sea Muy Tarde",
-      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -759,22 +743,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
+        "name": "Antes de Que Sea Muy Tarde",
+        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
       },
       "artists": [
         {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        },
-        {
-          "name": "Mateo Par\u00eds",
-          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
         }
       ],
-      "duration_ms": 183539,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
+      "duration_ms": 192787,
+      "name": "Antes de Que Sea Muy Tarde",
+      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -791,6 +771,26 @@
       "duration_ms": 278724,
       "name": "Campesino",
       "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        },
+        {
+          "name": "Mateo Par\u00eds",
+          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
+        }
+      ],
+      "duration_ms": 183539,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Lockdownska",
-        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
-      },
-      "artists": [
-        {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Lockdownska",
-      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Voy a Olvidarme de M\u00ed",
         "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 187500,
       "name": "La Clase Que Trabaja",
       "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Lockdownska",
+        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
+      },
+      "artists": [
+        {
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Lockdownska",
+      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
     },
     {
       "added_at": "2024-09-20 08:27:00",

@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 315081,
+  "num_followers": 315176,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Sex You",
         "url": "https://open.spotify.com/album/79XLDV4AdHo8v3w0zrfg0n"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/33QmlmdmJnFBkKgRKXh0SJ"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 200213,
       "name": "Don't",
       "url": "https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "19 - EP",
+        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 259918,
+      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -659,22 +675,6 @@
       "duration_ms": 303720,
       "name": "Skin",
       "url": "https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "19 - EP",
-        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 259918,
-      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -751,38 +751,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Might Be - Single",
         "url": "https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7"
       },
@@ -831,8 +799,24 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Back To Sleep",
-        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
       "artists": [
         {
@@ -840,25 +824,9 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 201647,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "SoMo",
-        "url": "https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U"
-      },
-      "artists": [
-        {
-          "name": "SoMo",
-          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "We Can Make Love",
-      "url": "https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV"
+      "duration_ms": 197285,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -875,6 +843,22 @@
       "duration_ms": 205640,
       "name": "Needs",
       "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "SoMo",
+        "url": "https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U"
+      },
+      "artists": [
+        {
+          "name": "SoMo",
+          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "We Can Make Love",
+      "url": "https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -971,6 +955,42 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Back To Sleep",
+        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201647,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Rock wit Me (feat. IAMSU!)",
+      "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Permission",
         "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 299866,
       "name": "Friendly Skies (feat. Ginuwine)",
       "url": "https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a"
-      },
-      "artists": [
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Rock wit Me (feat. IAMSU!)",
-      "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Waiting for You",
-        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 211470,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Waiting for You",
+        "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 211470,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
     },
     {
       "added_at": "2024-09-02 12:32:28",

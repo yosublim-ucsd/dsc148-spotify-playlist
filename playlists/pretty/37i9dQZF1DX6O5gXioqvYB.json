@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Rondine",
-  "num_followers": 33650,
+  "num_followers": 33656,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -159,42 +159,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "A me fa schifo l'America",
-        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
-      },
-      "artists": [
-        {
-          "name": "Livrizzi",
-          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
-        },
-        {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "A me fa schifo l'America",
-      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "Incidenti Di Percorso",
-        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
-      },
-      "artists": [
-        {
-          "name": "Claudym",
-          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Una Serie Di Sfortunati Eventi",
-      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "vita lenta",
         "url": "https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN"
       },
@@ -239,6 +203,42 @@
       "duration_ms": 185562,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "A me fa schifo l'America",
+        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
+      },
+      "artists": [
+        {
+          "name": "Livrizzi",
+          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "A me fa schifo l'America",
+      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Colleghi borghesi",
-        "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
+        "name": "Come Stai?",
+        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
       },
       "artists": [
         {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Colleghi borghesi",
-      "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
+      "duration_ms": 154552,
+      "name": "Come Stai?",
+      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -439,34 +439,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Come Stai?",
-        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
+        "name": "Colleghi borghesi",
+        "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
       "artists": [
         {
-          "name": "SELMI",
-          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
         }
       ],
-      "duration_ms": 154552,
-      "name": "Come Stai?",
-      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "CAPELLI CORTI CALIFORNIA",
-        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
-      },
-      "artists": [
-        {
-          "name": "Cartapesta",
-          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "CAPELLI CORTI CALIFORNIA",
-      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
+      "duration_ms": 150000,
+      "name": "Colleghi borghesi",
+      "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -483,6 +467,22 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "CAPELLI CORTI CALIFORNIA",
+        "url": "https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW"
+      },
+      "artists": [
+        {
+          "name": "Cartapesta",
+          "url": "https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "CAPELLI CORTI CALIFORNIA",
+      "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -603,38 +603,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Musica Leggera",
-        "url": "https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m"
-      },
-      "artists": [
-        {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        }
-      ],
-      "duration_ms": 169261,
-      "name": "Musica Leggera",
-      "url": "https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "Ottovolanti",
-        "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
-      },
-      "artists": [
-        {
-          "name": "eyTrama",
-          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Ottovolanti",
-      "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
         "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
       },
@@ -671,22 +639,34 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "VELENO E MARACUJA",
-        "url": "https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3"
+        "name": "Musica Leggera",
+        "url": "https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m"
       },
       "artists": [
         {
-          "name": "Stefano Lepri",
-          "url": "https://open.spotify.com/artist/7pGg2loAuRpzQufbhVRYE8"
-        },
-        {
-          "name": "GIOVAPI\u00d9GIOVA",
-          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
         }
       ],
-      "duration_ms": 159039,
-      "name": "VELENO E MARACUJA",
-      "url": "https://open.spotify.com/track/4XP8pjNInch9PLpzac2BiV"
+      "duration_ms": 169261,
+      "name": "Musica Leggera",
+      "url": "https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "Ottovolanti",
+        "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
+      },
+      "artists": [
+        {
+          "name": "eyTrama",
+          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Ottovolanti",
+      "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -703,6 +683,26 @@
       "duration_ms": 145945,
       "name": "Rigacuore",
       "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "VELENO E MARACUJA",
+        "url": "https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3"
+      },
+      "artists": [
+        {
+          "name": "Stefano Lepri",
+          "url": "https://open.spotify.com/artist/7pGg2loAuRpzQufbhVRYE8"
+        },
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "duration_ms": 159039,
+      "name": "VELENO E MARACUJA",
+      "url": "https://open.spotify.com/track/4XP8pjNInch9PLpzac2BiV"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
       },
       "artists": [
         {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
         }
       ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "Mar mar mar",
         "url": "https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9"
       },
@@ -803,6 +819,22 @@
       "duration_ms": 241538,
       "name": "Mar mar mar",
       "url": "https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "Ragazza del Mare",
+        "url": "https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ"
+      },
+      "artists": [
+        {
+          "name": "Napoleone",
+          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+        }
+      ],
+      "duration_ms": 165143,
+      "name": "Ragazza del Mare",
+      "url": "https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -859,6 +891,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "Mi hai visto piangere in un club",
         "url": "https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN"
       },
@@ -879,22 +927,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "GARAGE MARE",
         "url": "https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "Canterino",
-        "url": "https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk"
-      },
-      "artists": [
-        {
-          "name": "tellynonpiangere",
-          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "Canterino",
-      "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -955,26 +971,6 @@
       "duration_ms": 130909,
       "name": "Ne faccio un dramma",
       "url": "https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "Solo per guardarti",
-        "url": "https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK"
-      },
-      "artists": [
-        {
-          "name": "ALBE.x",
-          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
-        },
-        {
-          "name": "Kr1",
-          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
-        }
-      ],
-      "duration_ms": 116317,
-      "name": "Solo per guardarti",
-      "url": "https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa"
     },
     {
       "added_at": "2024-09-26 22:02:00",

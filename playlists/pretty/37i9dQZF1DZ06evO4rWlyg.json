@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 137501,
-  "original_name": "This Is Bj\u00f6rk",
+  "description": "This is \u30d3\u30e7\u30fc\u30af\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 137529,
+  "original_name": "This Is \u30d3\u30e7\u30fc\u30af",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAA22F/yhXE99IoHq4x4L3ht",
+  "snapshot_id": "ZvdHAAAAAAA1yO/64/gSH1wifun4ho+1",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 409320,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+      "duration_ms": 409320,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
     },
     {
       "added_at": null,
@@ -604,7 +604,7 @@
       "added_at": null,
       "album": {
         "name": "Fossora",
-        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
       "artists": [
         {
@@ -613,8 +613,8 @@
         }
       ],
       "duration_ms": 44405,
-      "name": "Fagurt Er \u00cd Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS"
+      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
     },
     {
       "added_at": null,
@@ -669,6 +669,6 @@
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
     }
   ],
-  "unique_name": "This Is Bj\u00f6rk",
+  "unique_name": "This Is \u30d3\u30e7\u30fc\u30af",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg"
 }

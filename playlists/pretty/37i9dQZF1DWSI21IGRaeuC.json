@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 40182,
+  "num_followers": 40203,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Spring Girl",
         "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 481920,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Reso Riddim EP",
-        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 186412,
-      "name": "Reso Riddim",
-      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Reso Riddim EP",
+        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 186412,
+      "name": "Reso Riddim",
+      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Club Vibes Part 04",
         "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "SIMPLE ONE",
-        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
-      },
-      "artists": [
-        {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "SIMPLE ONE",
-      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Don't Stahp (Edit)",
         "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Seeder",
-        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+        "name": "SIMPLE ONE",
+        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Seeder",
-      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+      "duration_ms": 236307,
+      "name": "SIMPLE ONE",
+      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 207000,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Into The Hood",
+        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "duration_ms": 362180,
+      "name": "Into The Hood",
+      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Elements Pt1",
         "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
       },
@@ -1755,22 +1775,6 @@
       "duration_ms": 363915,
       "name": "Rinser",
       "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "On The Ground - EP",
-        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
-      },
-      "artists": [
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
     }
   ],
   "unique_name": "Minimal Tech",

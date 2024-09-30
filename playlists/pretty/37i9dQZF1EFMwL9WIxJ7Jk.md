@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,419 likes - 143 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,420 likes - 143 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 69 | [Good To Be Alive](https://open.spotify.com/track/7ntZyhD4hguDJicIokQ9xW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:48 |
 | 70 | [Alright](https://open.spotify.com/track/279YppmOH2QKY8TgaYRWfC) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 2:52 |
 | 71 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1PwPlrkSztcrXcRFzO2DnH) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3kyLA7vyU0y5rpUP6Ksely) | 3:36 |
-| 72 | [Thank You \(feat\. R\. City\)](https://open.spotify.com/track/24XcdlmaW0EizWVPgxocBV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:25 |
-| 73 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 |
+| 72 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 |
+| 73 | [Thank You \(feat\. R\. City\)](https://open.spotify.com/track/24XcdlmaW0EizWVPgxocBV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:25 |
 | 74 | [Champagne Problems](https://open.spotify.com/track/5ceDIfSDvJ6ch9XgIPl1Us) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:42 |
 | 75 | [CAN'T DANCE](https://open.spotify.com/track/3CqT68zWwvcrY22UkhD67V) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [CAN'T DANCE](https://open.spotify.com/album/0IMfNMKJt1VbM8UQQ84zVy) | 3:00 |
 | 76 | [Forgive Me Father \(feat\. Meghan Trainor, Wiz Khalifa & Wale\)](https://open.spotify.com/track/2uWlfvIAzCtbpzGbXxkSJN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Major Key](https://open.spotify.com/album/5qHyKDjwycRj1fJyPLt2HQ) | 4:06 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 142 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 143 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbdYigAAAACKvcj23JSblnNPvRmTg0BQ`
+Snapshot ID: `AbdeIAAAAACJip8YAYq5G1iAx3PibDPz`

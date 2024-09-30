@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 20672,
+  "num_followers": 20687,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        },
-        {
-          "name": "Juan Carlos Montiel Rangel",
-          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
-        }
-      ],
-      "duration_ms": 240981,
-      "name": "Chipek",
-      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Harissa",
         "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
       },
@@ -315,26 +295,22 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Bossa De Flauta",
-        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
       "artists": [
         {
-          "name": "Papi Churro",
-          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
         },
         {
-          "name": "Smuv",
-          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
-        },
-        {
-          "name": "Beats for Trees",
-          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+          "name": "Juan Carlos Montiel Rangel",
+          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
         }
       ],
-      "duration_ms": 114418,
-      "name": "Bossa De Flauta",
-      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
+      "duration_ms": 240981,
+      "name": "Chipek",
+      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -359,6 +335,30 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Bossa De Flauta",
+        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
+      },
+      "artists": [
+        {
+          "name": "Papi Churro",
+          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
+        },
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "duration_ms": 114418,
+      "name": "Bossa De Flauta",
+      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Brazilian Flavor",
-        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
-      },
-      "artists": [
-        {
-          "name": "Dawmata",
-          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
-        }
-      ],
-      "duration_ms": 118288,
-      "name": "Brazilian Flavor",
-      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Sosiego",
-        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
+        "name": "Brazilian Flavor",
+        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
       },
       "artists": [
         {
-          "name": "Dj 113",
-          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
+          "name": "Dawmata",
+          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
         }
       ],
-      "duration_ms": 108203,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
+      "duration_ms": 118288,
+      "name": "Brazilian Flavor",
+      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+        "name": "Sosiego",
+        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
         }
       ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
+      "duration_ms": 108203,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -579,6 +563,22 @@
       "duration_ms": 138709,
       "name": "La Selva Nos Llama",
       "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Ascendentes",
         "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 120000,
       "name": "Metro Mexico",
       "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -779,38 +779,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Like Coconut From The Tree",
-        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
-      },
-      "artists": [
-        {
-          "name": "Burrito Eats",
-          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
-        }
-      ],
-      "duration_ms": 122709,
-      "name": "Like Coconut From The Tree",
-      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Playa del Amor",
         "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 129565,
       "name": "Playa del Amor",
       "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Like Coconut From The Tree",
+        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        }
+      ],
+      "duration_ms": 122709,
+      "name": "Like Coconut From The Tree",
+      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -867,6 +851,22 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "Viendo el mundial con pap\u00e1",
+        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 129854,
+      "name": "Viendo el mundial con pap\u00e1",
+      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "Helado de Mango (Remix)",
         "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 141825,
       "name": "Helado de Mango (Remix)",
       "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Viendo el mundial con pap\u00e1",
-        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Viendo el mundial con pap\u00e1",
-      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "lucky monkey",
         "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 122273,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Primer Beso",
-        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Primer Beso",
-      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1455,6 +1435,26 @@
       "duration_ms": 147700,
       "name": "Landscaper",
       "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
     },
     {
       "added_at": "2024-08-12 21:28:46",

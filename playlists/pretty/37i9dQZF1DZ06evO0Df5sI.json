@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 20865,
+  "num_followers": 20870,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADWPTdA2v/vRAvq8tbmrbvW",
+  "snapshot_id": "ZvdHAAAAAAAv5lC9ZUOMGRsDETRex8hw",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 205240,
-      "name": "Love Love, Kiss Kiss",
-      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
+      "duration_ms": 187480,
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "Maybe I'll Catch Fire",
-      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+      "duration_ms": 205240,
+      "name": "Love Love, Kiss Kiss",
+      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
     },
     {
       "added_at": null,

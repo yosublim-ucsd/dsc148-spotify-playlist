@@ -2,7 +2,7 @@
 
 ### [This Is John Lee Hooker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RLWgA)
 
-> This Is John Lee Hooker\. Todas as faixas essenciais numa única playlist.
+> This Is John Lee Hooker\. Les titres incontournables, réunis dans une seule et même playlist.
 
 144 songs - 9 hr 59 min
 

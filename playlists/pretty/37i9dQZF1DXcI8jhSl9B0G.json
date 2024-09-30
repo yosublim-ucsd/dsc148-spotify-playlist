@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75014,
+  "num_followers": 75013,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "you, all along",
         "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 166000,
       "name": "Love Is an Open Road",
       "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Call Me Home",
-        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Call Me Home",
-      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 201999,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 294063,
-      "name": "Take Me Home (feat. Nadia Reid)",
-      "url": "https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Oh My Girl",
         "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 194884,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 294063,
+      "name": "Take Me Home (feat. Nadia Reid)",
+      "url": "https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "nowhere fast",
+        "url": "https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+        }
+      ],
+      "duration_ms": 226388,
+      "name": "in these bones",
+      "url": "https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 297266,
       "name": "Standing Still",
       "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "nowhere fast",
-        "url": "https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
-        }
-      ],
-      "duration_ms": 226388,
-      "name": "in these bones",
-      "url": "https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+      "duration_ms": 266026,
+      "name": "Green Valleys",
+      "url": "https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E"
     },
     {
       "added_at": "2023-11-30 13:00:00",

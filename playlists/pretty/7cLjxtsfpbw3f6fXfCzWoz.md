@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 44 songs - 2 hr 37 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 42 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
 | 43 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 44 | [When All Is Said And Done](https://open.spotify.com/track/43T696K5X1s1mtxIuuUvvz) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:18 |
+| 45 | [Just The Once](https://open.spotify.com/track/02PWMXbnLbqIODveV4db4t) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera II](https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O) | 3:24 |
 
-Snapshot ID: `AAAAMtLlNFu41HV6uyX1dMHQ1itaUX2u`
+Snapshot ID: `AAAAM5vZ/G/mgdg9il+8AV3kffyOhs40`

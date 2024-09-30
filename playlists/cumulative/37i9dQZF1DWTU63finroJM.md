@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,665 songs - 3 day 18 hr 49 min
+1,666 songs - 3 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-15 | 2024-04-06 |
-| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 |  |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 | 2024-09-30 |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2022-03-24 | 2022-04-14 |
 | [a quien culpar](https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [a quien culpar](https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8) | 4:10 | 2022-06-29 | 2023-05-09 |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-12 | 2023-10-21 |
@@ -1147,6 +1147,7 @@
 | [Romeo & Juliet](https://open.spotify.com/track/15ueqDtpGZiLqFgvMhSO4g) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LiFE](https://open.spotify.com/album/31u6IEytVZAg4vMJDDRg8Q) | 1:57 | 2022-06-29 | 2022-08-02 |
 | [Romeo & Juliet](https://open.spotify.com/track/79w4V0SDJMEX8XfbTphGj6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LiFE](https://open.spotify.com/album/3eDblJjH34dAlUmE650U0f) | 1:57 | 2022-02-03 | 2022-07-29 |
 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 | 2022-03-24 | 2022-08-02 |
+| [Round & Round](https://open.spotify.com/track/6yASkBM9miqxp1wTpD56YT) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [What's Mine Is YOURS](https://open.spotify.com/album/4nem5cmNI5CaxWGai82X9W) | 3:03 | 2024-09-27 |  |
 | [RUB\-A\-DUM](https://open.spotify.com/track/2pVTldTTlm2lUamv5PIRBr) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [CONMIGO](https://open.spotify.com/album/7on227flmHtscIcPulRIES) | 3:19 | 2022-03-24 | 2022-04-18 |
 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-24 | 2022-08-02 |
 | [Run](https://open.spotify.com/track/31EQWjQaZlrcOs79RaevI9) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Run](https://open.spotify.com/album/1FajFZ6AJFRaN6itdQ4vhL) | 2:20 | 2024-08-02 |  |

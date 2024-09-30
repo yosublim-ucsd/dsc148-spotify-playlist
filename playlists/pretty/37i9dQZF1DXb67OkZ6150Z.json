@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Ethel Cain",
-  "num_followers": 294692,
+  "num_followers": 294709,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Music Sounds Better with You",
         "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "The Georgia EP",
+        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 126343,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "The Georgia EP",
-        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 294078,
-      "name": "agora hills - Spotify Singles",
-      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224429,
       "name": "Believe",
       "url": "https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 294078,
+      "name": "agora hills - Spotify Singles",
+      "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        },
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        },
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1203,6 +1203,30 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1291,8 +1315,24 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
       "artists": [
         {
@@ -1308,25 +1348,9 @@
           "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1395,30 +1419,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Once in a Lifetime",
-        "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 199062,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Once in a Lifetime",
+        "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 249789,
+      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Music From The Pen Gala 1983",
         "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 225013,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 249789,
-      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
       "artists": [
         {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     }
   ],
   "unique_name": "Indie Covers",

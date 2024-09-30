@@ -158,10 +158,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 177250,
       "name": "Anger",
       "url": "https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt"
+    },
+    {
+      "album": {
+        "name": "Mountain Music",
+        "url": "https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177547,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol"
     },
     {
       "album": {

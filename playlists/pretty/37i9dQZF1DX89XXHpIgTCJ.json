@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 310849,
+  "num_followers": 310876,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2024-05-27 20:22:06",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "Guilty All the Same (feat. Rakim)",
+      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "AfterLife (Deluxe)",
         "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
       },
@@ -443,22 +463,18 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
-      "duration_ms": 355120,
-      "name": "Guilty All the Same (feat. Rakim)",
-      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "added_at": "2024-05-27 20:22:06",
@@ -611,70 +627,6 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 382826,
-      "name": "Rollin' (Urban Assault Vehicle)",
-      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
         "name": "Crank That (Soulja Boy) [Travis Barker Remix]",
         "url": "https://open.spotify.com/album/69DoMDa1QmUvCAoMElNI33"
       },
@@ -751,6 +703,54 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 382826,
+      "name": "Rollin' (Urban Assault Vehicle)",
+      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2024-05-27 20:22:06",
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "Lemonade (with Denzel Curry)",
         "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 232906,
       "name": "Wu-Tang Clan Ain't Nothing Ta F**K Wit",
       "url": "https://open.spotify.com/track/66ZZ9lN9KKiA8zplDXM7GX"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2024-05-27 20:22:06",

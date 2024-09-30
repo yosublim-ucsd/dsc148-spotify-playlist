@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
@@ -4281,6 +4281,28 @@
     },
     {
       "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
+    },
+    {
+      "album": {
         "name": "Te Ver De Novo",
         "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
       },
@@ -4378,6 +4400,24 @@
       "duration_ms": 152000,
       "name": "Tirando Onda",
       "url": "https://open.spotify.com/track/50FnFhL9vKRMifYnUwoZio"
+    },
+    {
+      "album": {
+        "name": "De Peito Aberto, Pt. 2",
+        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127850,
+      "name": "Toca o Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
     },
     {
       "album": {

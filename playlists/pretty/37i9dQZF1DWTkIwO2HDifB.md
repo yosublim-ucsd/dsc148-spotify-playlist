@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Nois Já Tá Rico e os funks mais 🔑 do Brasil\. Foto: Mc Ryan SP, Mc IG
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,361,815 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,362,033 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

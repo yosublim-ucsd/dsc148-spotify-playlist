@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 71473,
+  "num_followers": 71533,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Olive Branch (Ghosn Zeytoun)",
-        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 85999,
-      "name": "Olive Branch (Ghosn Zeytoun)",
-      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "R3D",
         "url": "https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx"
       },
@@ -327,6 +311,22 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Olive Branch (Ghosn Zeytoun)",
+        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 85999,
+      "name": "Olive Branch (Ghosn Zeytoun)",
+      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "The Pen & The Sword",
         "url": "https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW"
       },
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Nirvana in Gaza",
-        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Nirvana in Gaza",
-      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
       },
@@ -371,22 +355,6 @@
       "duration_ms": 199333,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 165959,
-      "name": "Al Sham",
-      "url": "https://open.spotify.com/track/1bSspJxJRjA5w05kq1QFvS"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -447,6 +415,38 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Nirvana in Gaza",
+        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Nirvana in Gaza",
+      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "WOLEDTO",
+        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 165959,
+      "name": "Al Sham",
+      "url": "https://open.spotify.com/track/1bSspJxJRjA5w05kq1QFvS"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "Promises of the Storm",
         "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 285040,
       "name": "The Trees We Wear",
       "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "Can I Live",
-        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
-      },
-      "artists": [
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -543,18 +511,18 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Kounili El Musica",
-        "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
       },
       "artists": [
         {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
         }
       ],
-      "duration_ms": 175626,
-      "name": "Kounili El Musica",
-      "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
+      "duration_ms": 112000,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -571,6 +539,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "Kounili El Musica",
+        "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "Kounili El Musica",
+      "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -611,6 +595,38 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "Shamstep",
+        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 311506,
+      "name": "Everyland",
+      "url": "https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Shamstep",
-        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 311506,
-      "name": "Everyland",
-      "url": "https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "Ishraq Reminiscence",
         "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "Killing The Game",
         "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141055,
       "name": "Killing The Game",
       "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Overdose (From the Netflix Series \"Mo\")",
+        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        },
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "duration_ms": 174673,
+      "name": "Overdose - From the Netflix Series \"Mo\"",
+      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 81005,
       "name": "Palestine",
       "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "Overdose (From the Netflix Series \"Mo\")",
-        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        },
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        }
-      ],
-      "duration_ms": 174673,
-      "name": "Overdose - From the Netflix Series \"Mo\"",
-      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "Laween",
         "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 169970,
       "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Shauq",
-        "url": "https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 333640,
-      "name": "Sitti (Grandma)",
-      "url": "https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
       },
@@ -1251,22 +1235,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Muntasib Alqamah Amshi",
-        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 363206,
-      "name": "Erfaa Rasak",
-      "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "Maskhara",
         "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
       },
@@ -1279,6 +1247,38 @@
       "duration_ms": 186411,
       "name": "Maskhara",
       "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "Shauq",
+        "url": "https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 333640,
+      "name": "Sitti (Grandma)",
+      "url": "https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/6fe5pvtNjQfAKLqpy2fcqi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "duration_ms": 188814,
+      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/50nQfig1MXSz66GHJflQMq"
     }
   ],
   "unique_name": "Palestine Sounds",

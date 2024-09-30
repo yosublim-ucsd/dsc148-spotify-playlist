@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-300 songs - 1 day 1 hr 27 min
+301 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-16 |  |
 | [Chayanat](https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Chayanat](https://open.spotify.com/album/2EyvDomj1NOcjAuhtPr5Nb) | 5:24 | 2022-05-17 | 2024-02-21 |
 | [CHEHRE](https://open.spotify.com/track/0O46s6kYXJKLlxdtb4CGPE) | [Vipul Singh Verma](https://open.spotify.com/artist/1gZkFfU1aSn1idsp5XPUhV) | [CHEHRE](https://open.spotify.com/album/7qA8fbtcZh93BVlzbUeS4J) | 6:03 | 2024-07-08 |  |
+| [Daavaanal](https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq), [Harsh Karmakar](https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X), [Mrunmay Chhavan](https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR) | [Daavaanal](https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD) | 3:32 | 2024-09-29 |  |
 | [Dekho Saiya](https://open.spotify.com/track/66Mls8TEgZlsAQiEC4uRuP) | [Srabani Roy](https://open.spotify.com/artist/0sy9FSD4cX5gZVj9ysrx9H) | [Dekho Saiya](https://open.spotify.com/album/0ELfqU60XiASZjmLEYKkCu) | 4:45 | 2024-07-10 |  |
 | [Delhi Drill](https://open.spotify.com/track/23Utm1XwZgklunyVtft0ih) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW) | 1:57 | 2024-02-20 | 2024-04-19 |
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 | 2024-02-21 |
@@ -179,7 +180,7 @@
 | [Muskurahat \- Reprise](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:14 | 2022-12-07 |  |
 | [Na Jaa Re](https://open.spotify.com/track/2jeoBarLHPGSvGzywjhkkH) | [Omkar Bhat](https://open.spotify.com/artist/2UXkOhxWQ7Nu9BYgP3ZsiN) | [Na Jaa Re](https://open.spotify.com/album/0i90Y3Ta2l0BvOUTucXvyh) | 2:24 | 2024-04-26 | 2024-07-09 |
 | [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 | 2023-03-09 |
-| [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 |  |
+| [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 | 2024-09-30 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 | 2024-09-21 |
 | [Naina](https://open.spotify.com/track/1Qm4pSItUMDa0ROpSQ8ztj) | [Durba Banerjee](https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8), [Krishh Datta](https://open.spotify.com/artist/5GcmYWhvuXI2WHxtqcg5Ru) | [Naina](https://open.spotify.com/album/3daIlwFLqnqixreRQBMykM) | 5:16 | 2024-08-01 |  |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |

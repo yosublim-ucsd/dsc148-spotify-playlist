@@ -1,12 +1,12 @@
 {
-  "description": "This is Deftones. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 381976,
+  "description": "This Is Deftones. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 382164,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAv7U1tPd5O3MoWAaI/WiBA",
+  "snapshot_id": "ZvdHAAAAAABNOOKSP/Gxsd6TPkZEzE2y",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Hole in the Earth",
-      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Xerces",
-      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
     },
     {
       "added_at": null,

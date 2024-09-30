@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,542 likes - 65 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,603 likes - 65 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

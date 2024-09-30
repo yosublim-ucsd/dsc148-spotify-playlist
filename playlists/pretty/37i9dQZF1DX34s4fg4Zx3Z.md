@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Dyna V
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,554 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,559 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 8 | [Yêu Em Hơn Chính Em](https://open.spotify.com/track/0wgjBFdrm7UEUHfOaQqikt) | [Phan Thanh Nhàn](https://open.spotify.com/artist/7dgX8INIOI7DBw2yfX7MyT) | [Nàng](https://open.spotify.com/album/6EahRONNhIaALuV4VdrSuO) | 4:00 |
 | 9 | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/track/2whoMvTSstJqIS97nkV86c) | [4ward](https://open.spotify.com/artist/3ti1GHWONsfMrH0SdMeFQr), [HKayy](https://open.spotify.com/artist/0apE0aOjydd6Dmaw22mncd), [XNBC](https://open.spotify.com/artist/2XHgi3GL7NWNWoY6b6JqvK) | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/album/7vKZc4dEv9VOfLtoQW76Zi) | 3:51 |
 | 10 | [Bí Đỏ](https://open.spotify.com/track/3QXjaVyveOkMmO99IH4ELL) | [Mũ Len.](https://open.spotify.com/artist/45lpgI6ITJrVqau83nBFwN), [dknâgn](https://open.spotify.com/artist/0Fl954pzIFCYSQgdWo30c1) | [Bí Đỏ](https://open.spotify.com/album/11YskLhhBfsof3IjN8sCHq) | 2:51 |
-| 11 | [Đừng Vội](https://open.spotify.com/track/1oTjl176CzwqFYJqTzruDn) | [boum](https://open.spotify.com/artist/6pbEZvsDqs2SGANNddwtOi), [Song Ngọc](https://open.spotify.com/artist/7Gn1qamGk5dX7fzivM6WzV) | [Đừng Vội](https://open.spotify.com/album/1ET2UdrlwcyEs6yz3oi2UA) | 4:09 |
+| 11 | [Đừng Vội](https://open.spotify.com/track/1oTjl176CzwqFYJqTzruDn) | [boum](https://open.spotify.com/artist/6pbEZvsDqs2SGANNddwtOi), [Song Ngọc](https://open.spotify.com/artist/4WkXPZRqqWYoVnLSdimQNm) | [Đừng Vội](https://open.spotify.com/album/1ET2UdrlwcyEs6yz3oi2UA) | 4:09 |
 | 12 | [Thời Giờ](https://open.spotify.com/track/0imK2bmUNM6RgU1DyIiHzF) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [KayTee](https://open.spotify.com/artist/248WoYEoxyIPtzMbAmtSTF) | [Thời Giờ](https://open.spotify.com/album/2n5Y25cIbcncFg7w0MQHeJ) | 3:58 |
 | 13 | [TAY LÀM HÀM NHAI](https://open.spotify.com/track/5CTWr9sOICXmCc4phTg0rS) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [TAY LÀM HÀM NHAI](https://open.spotify.com/album/1bU1YjPKQDMN4taFPoM2KD) | 2:55 |
 | 14 | [Ẩn Ý](https://open.spotify.com/track/6SRxIgqb0qEfg0GBLk8nIb) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Ẩn Ý](https://open.spotify.com/album/5GLG1aX4sgE0Y5yX6WYU3r) | 5:10 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This Is Sister Rosetta Tharpe\. Todas as faixas essenciais numa única playlist.
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,091 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,104 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 25 | [Down by the Riverside](https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 2:51 |
 | 26 | [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 |
 | 27 | [All Alone](https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:37 |
-| 28 | [What Have I Done?](https://open.spotify.com/track/1cqaPGJvAWWzHmb0gUxktT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 |
-| 29 | [Fly Away](https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:27 |
+| 28 | [Fly Away](https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:27 |
+| 29 | [What Have I Done?](https://open.spotify.com/track/1cqaPGJvAWWzHmb0gUxktT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 |
 | 30 | [Sit Down](https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:13 |
 | 31 | [Father Prepare Me](https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:10 |
-| 32 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 |
-| 33 | [This Is A Mean Old World To Live In](https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth: All New! Her Greatest Gospel Hits](https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa) | 3:07 |
+| 32 | [This Is A Mean Old World To Live In](https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth: All New! Her Greatest Gospel Hits](https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa) | 3:07 |
+| 33 | [Come By Here](https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 3:42 |
 | 34 | [I Want A Tall Skinny Papa](https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:51 |
 | 35 | [Ninety\-Nine and a Half Won't Do](https://open.spotify.com/track/2KOP1uow1HZGQEqIRlGmfD) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:00 |
-| 36 | [Come By Here](https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 3:42 |
+| 36 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 |
 | 37 | [Strange Things Are Happening](https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:21 |
 | 38 | [Up Above My Head](https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [American Epic: The Soundtrack](https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ) | 2:58 |
 | 39 | [Don't You Weep, o Mary, Don't You Weep](https://open.spotify.com/track/1UouZhAKNnv2f2smBOrGU8) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:30 |
-| 40 | [The Lord Followed Me](https://open.spotify.com/track/4qAYd3Z76F8mo5F2T3LoVq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 3:10 |
-| 41 | [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 |
+| 40 | [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 |
+| 41 | [The Lord Followed Me](https://open.spotify.com/track/4qAYd3Z76F8mo5F2T3LoVq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 3:10 |
 | 42 | [Pure Religion](https://open.spotify.com/track/5QYpxuGQBvYhnqRNbbXS1t) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:35 |
 | 43 | [Stretch Out](https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:45 |
 | 44 | [Beams Of Heaven](https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 |
 | 50 | [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 |
 
-Snapshot ID: `ZvX1gAAAAADqoy3OfinfbVBkS+T65Xta`
+Snapshot ID: `ZvdHAAAAAAD7uzfnkIkihuoLrlWAUBNg`

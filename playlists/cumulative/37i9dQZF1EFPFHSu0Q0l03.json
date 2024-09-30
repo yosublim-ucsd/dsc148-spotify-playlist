@@ -2642,10 +2642,28 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 208837,
       "name": "Name of God",
       "url": "https://open.spotify.com/track/3eqY61qcLkjspAxSVcp4rf"
+    },
+    {
+      "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209080,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55"
     },
     {
       "album": {

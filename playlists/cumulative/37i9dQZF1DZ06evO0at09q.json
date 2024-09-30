@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-03",
-  "description": "This is: Qlank. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 243809,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 230400,
       "name": "Who R U",
       "url": "https://open.spotify.com/track/1d537C0yp0ZscVNI8yfqvr"

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,619 songs - 3 day 12 hr 10 min
+1,621 songs - 3 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-05-23 | 2024-06-21 |
 | [Aska](https://open.spotify.com/track/1cahT3TKkFmggbAoL6sRQO) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aska](https://open.spotify.com/album/0hDiIyy8derMbYJ9N4Eghx) | 3:54 | 2022-01-13 | 2022-07-29 |
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
-| [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 |  |
+| [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-09-30 |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
 | [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-07-23 |
@@ -242,6 +242,7 @@
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
 | [Crash](https://open.spotify.com/track/4gJdZtzkAx877Q3T6zdt4T) | [Daniel Gidlund](https://open.spotify.com/artist/16MsIlrZeMWpSAk1RlULB6) | [Crash](https://open.spotify.com/album/4TDoinDsR2KzvdrqzBMrId) | 3:26 | 2024-08-22 | 2024-09-08 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-05-12 | 2023-02-01 |
+| [Cry](https://open.spotify.com/track/7FD2G3OxS0gtv4DyAVLeK9) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cry](https://open.spotify.com/album/6qGGbXGhMDyKrbM18rRROD) | 2:45 | 2024-09-26 |  |
 | [Cry over me](https://open.spotify.com/track/5HdoVX4952B9unJEjoemUI) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Cry over me](https://open.spotify.com/album/65igJnmDIP8wnxFik4Eanz) | 2:50 | 2021-12-16 | 2022-04-02 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-16 | 2024-06-14 |
 | [Cut Them Out](https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Cut Them Out](https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR) | 3:07 | 2024-02-02 | 2024-03-25 |
@@ -349,6 +350,7 @@
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Dumba Nengue](https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Du Gamla Du Nya](https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7) | 3:58 | 2021-12-16 | 2022-03-10 |
 | [Dummare](https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Dummare](https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa) | 2:30 | 2024-02-15 | 2024-04-05 |
+| [Duolingo](https://open.spotify.com/track/1I9f4i2InzK8rvpct86djH) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Duolingo](https://open.spotify.com/album/1gguRd8uFWsYC6r8hoVIVf) | 2:06 | 2024-09-26 |  |
 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 | 2024-01-25 | 2024-03-15 |
 | [Dust](https://open.spotify.com/track/6t0iX8lmj5PjV9mJbYAE1i) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust, Pt\. 1](https://open.spotify.com/album/2mCYJpGg7PU8zDCib4DrpS) | 3:40 | 2024-04-11 | 2024-05-17 |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 |  |
@@ -1371,7 +1373,7 @@
 | [Tagit över himlen](https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Joanné Nugas](https://open.spotify.com/artist/7ArfjsEANVFT6WSDiJ7i8T) | [Tagit över himlen](https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT) | 2:27 | 2023-08-26 | 2024-01-19 |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 | 2023-11-17 |
 | [Take My Breath Away](https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Take My Breath Away](https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk) | 3:00 | 2024-02-22 | 2024-04-12 |
-| [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 |  |
+| [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-09-30 |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-27 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tappat Sina Blad](https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Tappat Sina Blad](https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ) | 2:28 | 2024-08-29 |  |

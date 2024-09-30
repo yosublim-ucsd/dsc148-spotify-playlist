@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edlvia P\u00e9rez Cruz.",
-  "num_followers": 329575,
+  "num_followers": 329591,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
@@ -499,38 +499,6 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -543,6 +511,22 @@
       "duration_ms": 194480,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "\u00bfSer\u00e1 Posible El Sur?",
-        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Todo Cambia",
-      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -591,6 +575,22 @@
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "\u00bfSer\u00e1 Posible El Sur?",
+        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 115200,
       "name": "Toda una Vida",
       "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "Mirame",
-        "url": "https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        },
-        {
-          "name": "Antonio Banderas",
-          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "No Se por Que Te Quiero",
-      "url": "https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
         "name": "Luna nueva",
         "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
       },
@@ -1011,22 +991,6 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -1043,6 +1007,26 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
+        "name": "Mirame",
+        "url": "https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        },
+        {
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "No Se por Que Te Quiero",
+      "url": "https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
         "name": "\u00daltimo Acto",
         "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
@@ -1055,6 +1039,38 @@
       "duration_ms": 206880,
       "name": "Solo Otra Vez - Alone Again",
       "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1095,22 +1111,6 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 442680,
-      "name": "Ahora Que Te Encuentro",
-      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
         "name": "Silvio Rodriguez y Pablo Milanes",
         "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 190066,
       "name": "Te Doy Una Cancion",
       "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 442680,
+      "name": "Ahora Que Te Encuentro",
+      "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "El Abrazo",
-        "url": "https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 238430,
-      "name": "La Cara Amable del Mundo",
-      "url": "https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+        "name": "El Abrazo",
+        "url": "https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+      "duration_ms": 238430,
+      "name": "La Cara Amable del Mundo",
+      "url": "https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-09-23 14:03:16",
       "album": {
-        "name": "Llegas t\u00fa",
-        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 160452,
-      "name": "Llegas t\u00fa",
-      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1591,6 +1591,22 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
+    },
+    {
+      "added_at": "2024-09-23 14:03:16",
+      "album": {
+        "name": "Llegas t\u00fa",
+        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Llegas t\u00fa",
+      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
     },
     {
       "added_at": "2024-09-23 14:03:16",
@@ -1631,22 +1647,6 @@
       "duration_ms": 281095,
       "name": "Qui\u00e9reme Bien (feat. Leiva)",
       "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
-    },
-    {
-      "added_at": "2024-09-23 14:03:16",
-      "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2024-09-23 14:03:16",

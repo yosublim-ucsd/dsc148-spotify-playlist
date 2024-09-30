@@ -1,12 +1,12 @@
 {
-  "description": "This Is Muse. Los temas esenciales, todos en una lista.",
-  "num_followers": 787045,
+  "description": "This is Muse. The essential tracks, all in one playlist.",
+  "num_followers": 787123,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAABsc+Q/yTrJCQukSSZ2dasw",
+  "snapshot_id": "ZvdHAAAAAACtzXVOSlZIdeY8jaqsp23g",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
       "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
         {
           "name": "Muse",
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 371005,
-      "name": "1685 (feat. Muse)",
-      "url": "https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd"
+      "duration_ms": 262947,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
       "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
         {
           "name": "Muse",
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262947,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+      "duration_ms": 371005,
+      "name": "1685 (feat. Muse)",
+      "url": "https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd"
     },
     {
       "added_at": null,

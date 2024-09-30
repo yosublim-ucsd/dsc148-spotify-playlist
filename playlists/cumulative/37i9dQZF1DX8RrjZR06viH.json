@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+    },
+    {
+      "album": {
         "name": "Glem meg, men jeg glemmer aldri",
         "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 195607,
       "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
       "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"

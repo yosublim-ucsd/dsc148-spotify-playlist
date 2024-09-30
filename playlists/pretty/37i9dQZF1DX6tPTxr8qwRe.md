@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,795 likes - 69 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,785 likes - 69 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

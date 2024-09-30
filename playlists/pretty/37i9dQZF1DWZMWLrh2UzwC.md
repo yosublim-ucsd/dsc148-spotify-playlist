@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,748 likes - 120 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,750 likes - 120 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 19 | [January Eyes](https://open.spotify.com/track/5JF8J7YAYj8G6nasF0tZcI) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Hey There Elijah](https://open.spotify.com/album/5WGHlb3tEgQ7qagXPTALYe) | 2:29 |
 | 20 | [Setia2u](https://open.spotify.com/track/1eca4fNdl0LJiYu5HdU79w) | [Candy](https://open.spotify.com/artist/5YKtQxW27hc10L9zoUts00) | [Setia2u](https://open.spotify.com/album/35kGA8zxW141ye4p4J4Kji) | 3:50 |
 | 21 | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/track/5PCJejKeoiBxJYqsU01Y4H) | [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c), [Orang Malaya](https://open.spotify.com/artist/0EluFJFfb096k5EAfLF14y), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/album/1Vaz8J7uagLCjEuqPBozV8) | 3:59 |
-| 22 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
+| 22 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 23 | [Memerang](https://open.spotify.com/track/3zLeAw6KK7LMHN8qGZjekK) | [Ayda Jebat](https://open.spotify.com/artist/6Rn72M0IKflDApCt0UMhfR) | [Memerang](https://open.spotify.com/album/2fheJ1poROUuSKMuKU6eK6) | 3:22 |
 | 24 | [最好的安排](https://open.spotify.com/track/3FpTGfyVhFiPAXPYva8WLv) | [Suki Low](https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD) | [最好的安排](https://open.spotify.com/album/3pIsHsRBNhtg73sqgmX8Gh) | 3:26 |
 | 25 | [月光](https://open.spotify.com/track/0Zw6QN8KhI3z0Cu4lcXnf6) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [月光](https://open.spotify.com/album/5wJNMYHUUBBZdDaK9gRV4J) | 3:41 |

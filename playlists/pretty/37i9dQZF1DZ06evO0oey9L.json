@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 90415,
+  "num_followers": 90430,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAACT6YIC/hr5uukP5E2dWrLu",
+  "snapshot_id": "ZvdHAAAAAABbNstgfO5alH6MDrRsKIBs",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
+        "name": "Tra Trakas",
+        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Alexander Zavala",
+          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
         }
       ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+      "duration_ms": 163500,
+      "name": "Tra Trakas",
+      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
     },
     {
       "added_at": null,
@@ -567,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tra Trakas",
-        "url": "https://open.spotify.com/album/76DBFZhf7io5sgfc4RFet6"
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Alexander Zavala",
-          "url": "https://open.spotify.com/artist/5LLbUKVUcJvtSeYSAIPhxW"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Tra Trakas",
-      "url": "https://open.spotify.com/track/4MEEp4mHgEYZ8m3cSvbqSc"
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,

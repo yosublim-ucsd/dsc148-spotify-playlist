@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 96000,
       "name": "clavia",
       "url": "https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 137171,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/6nSaVcMVPGqrgZo8dXaw6a"
@@ -6792,6 +6792,24 @@
       "duration_ms": 130988,
       "name": "Emotional Avocado Toast",
       "url": "https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr"
+    },
+    {
+      "album": {
+        "name": "empty beach",
+        "url": "https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx"
+      },
+      "artists": [
+        {
+          "name": "Nitta' Gritta'",
+          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "empty beach",
+      "url": "https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB"
     },
     {
       "album": {
@@ -14551,6 +14569,24 @@
     },
     {
       "album": {
+        "name": "Matsuoka",
+        "url": "https://open.spotify.com/album/3F43SAWw5a25Rm5P2n74yD"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113942,
+      "name": "Matsuoka",
+      "url": "https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN"
+    },
+    {
+      "album": {
         "name": "Matter Over Mind",
         "url": "https://open.spotify.com/album/4uCWRaKCVEF0vsdegesZg3"
       },
@@ -19506,7 +19542,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 127100,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3Qtzn3z8izPWUOfMJyV8lL"
@@ -26752,6 +26788,24 @@
       "duration_ms": 122022,
       "name": "Watch Your Step",
       "url": "https://open.spotify.com/track/611q9eZ9TfWhuSNYrAizmx"
+    },
+    {
+      "album": {
+        "name": "waterlily",
+        "url": "https://open.spotify.com/album/7s5MN3NWNSAcHy7MZ1t0Xv"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133588,
+      "name": "waterlily",
+      "url": "https://open.spotify.com/track/5mo909cydKvQcD35Hj1fRJ"
     },
     {
       "album": {

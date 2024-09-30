@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "En Vivo Con La Vallarta Show y Marco Flores",
+        "url": "https://open.spotify.com/album/3KQst1V31AZN80Ff5jlKu7"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        },
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241650,
+      "name": "Celoso - En Vivo",
+      "url": "https://open.spotify.com/track/3hKZdVQm4E5N5Ds1nqSm23"
+    },
+    {
+      "album": {
         "name": "Esa Chica Me Vacila",
         "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },

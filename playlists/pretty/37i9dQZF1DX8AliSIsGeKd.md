@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,184 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,386 likes - 90 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [The Way She Stares](https://open.spotify.com/track/6p8mKSOtTzFknLcghCLQRK) | [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [The Way She Stares](https://open.spotify.com/album/4ndUO0n6Ye827FhzSe8ETy) | 5:48 |
 | 90 | [C & T](https://open.spotify.com/track/0pSsZ2J6u5Zy6sd0lZKYIa) | [Huerta](https://open.spotify.com/artist/5RJa5zWNuVuSfqJB0Jx2ZY) | [C & T](https://open.spotify.com/album/1IiHLib5hSDQ2B9rYTtq0v) | 6:40 |
 
-Snapshot ID: `ZvXZYAAAAADU6BwVRAipF+kx09a4+LZl`
+Snapshot ID: `ZvXZYAAAAABQgwLnhvQVkj2NU2eUa0Fk`

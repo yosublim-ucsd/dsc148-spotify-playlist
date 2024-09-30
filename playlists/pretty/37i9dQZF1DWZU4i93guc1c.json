@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Vivienne Mort\n",
-  "num_followers": 21475,
+  "num_followers": 21484,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u041f\u043e\u0440\u0446\u0435\u043b\u044f\u043d\u043e\u0432\u0456 \u043e\u0447\u0456",
-        "url": "https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E"
-      },
-      "artists": [
-        {
-          "name": "Schmalgauzen",
-          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
-        }
-      ],
-      "duration_ms": 203671,
-      "name": "\u041f\u043e\u0440\u0446\u0435\u043b\u044f\u043d\u043e\u0432\u0456 \u043e\u0447\u0456",
-      "url": "https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
         "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 142384,
       "name": "\u0414\u043e\u0442\u0438\u043a\u0438",
       "url": "https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u041f\u043e\u0440\u0446\u0435\u043b\u044f\u043d\u043e\u0432\u0456 \u043e\u0447\u0456",
+        "url": "https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E"
+      },
+      "artists": [
+        {
+          "name": "Schmalgauzen",
+          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
+        }
+      ],
+      "duration_ms": 203671,
+      "name": "\u041f\u043e\u0440\u0446\u0435\u043b\u044f\u043d\u043e\u0432\u0456 \u043e\u0447\u0456",
+      "url": "https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
+        "name": "Masandra",
+        "url": "https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 264489,
+      "name": "Masandra",
+      "url": "https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
         "name": "\u0441\u043b\u0456\u0434\u0438",
         "url": "https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213000,
       "name": "\u0441\u043b\u0456\u0434\u0438",
       "url": "https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "Masandra",
-        "url": "https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp"
-      },
-      "artists": [
-        {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
-        }
-      ],
-      "duration_ms": 264489,
-      "name": "Masandra",
-      "url": "https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
-        "url": "https://open.spotify.com/album/1IWKmRFRTAk4uRWP7W0OLj"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
-      "url": "https://open.spotify.com/track/14hIalSRI75sy1sdl4hWz4"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
         "url": "https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 324728,
       "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
+        "url": "https://open.spotify.com/album/1IWKmRFRTAk4uRWP7W0OLj"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
+      "url": "https://open.spotify.com/track/14hIalSRI75sy1sdl4hWz4"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
-      },
-      "artists": [
-        {
-          "name": "Bahroma",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 142666,
       "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
+      },
+      "artists": [
+        {
+          "name": "Bahroma",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1135,46 +1135,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
-        "url": "https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB"
-      },
-      "artists": [
-        {
-          "name": "Epolets",
-          "url": "https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP"
-        },
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 140454,
-      "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
-      "url": "https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
-        "url": "https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX"
-      },
-      "artists": [
-        {
-          "name": "The Curly",
-          "url": "https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD"
-        },
-        {
-          "name": "\u041e\u0434\u0438\u043d \u0414\u0435\u043d\u044c \u041f\u043e\u0442\u043e\u043c\u0443",
-          "url": "https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
-      "url": "https://open.spotify.com/track/5kHIwn2e40ZIIS4aAd7rVd"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u043d\u0435\u043f\u043e\u0442\u0440\u0456\u0431",
         "url": "https://open.spotify.com/album/1GOXM7UiojvvOAEK8dUr04"
       },
@@ -1191,6 +1151,26 @@
       "duration_ms": 198500,
       "name": "\u043d\u0435\u043f\u043e\u0442\u0440\u0456\u0431",
       "url": "https://open.spotify.com/track/4rAPA46mWYkFUIVEXYn8ta"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
+        "url": "https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB"
+      },
+      "artists": [
+        {
+          "name": "Epolets",
+          "url": "https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP"
+        },
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 140454,
+      "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
+      "url": "https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1223,6 +1203,26 @@
       "duration_ms": 130798,
       "name": "\u041a\u0438\u0446\u044f \u0437\u043b\u0438\u0436\u0435",
       "url": "https://open.spotify.com/track/2PrwY0j7aRvbpdTLDtRkzt"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
+        "url": "https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX"
+      },
+      "artists": [
+        {
+          "name": "The Curly",
+          "url": "https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD"
+        },
+        {
+          "name": "\u041e\u0434\u0438\u043d \u0414\u0435\u043d\u044c \u041f\u043e\u0442\u043e\u043c\u0443",
+          "url": "https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
+      "url": "https://open.spotify.com/track/5kHIwn2e40ZIIS4aAd7rVd"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
+        "name": "\u0414\u0438\u0445\u043e\u0442\u043e\u043c\u0456\u044f",
+        "url": "https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u043e\u043d\u043a\u0430",
+          "url": "https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG"
+        }
+      ],
+      "duration_ms": 341753,
+      "name": "\u0414\u0438\u0445\u043e\u0442\u043e\u043c\u0456\u044f",
+      "url": "https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
         "name": "\u0432\u0441\u0435 \u043c\u0438\u043d\u0435 (\u043d\u0456\u0447)",
         "url": "https://open.spotify.com/album/3ORqC8eQOR9SJJg4MfPYVf"
       },
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u0414\u0438\u0445\u043e\u0442\u043e\u043c\u0456\u044f",
-        "url": "https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv"
+        "name": "\u0421\u0423\u041c",
+        "url": "https://open.spotify.com/album/1LJILVMh66d4eMZFiyZGoD"
       },
       "artists": [
         {
-          "name": "\u0422\u043e\u043d\u043a\u0430",
-          "url": "https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG"
+          "name": "GEZWEIRDO",
+          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
         }
       ],
-      "duration_ms": 341753,
-      "name": "\u0414\u0438\u0445\u043e\u0442\u043e\u043c\u0456\u044f",
-      "url": "https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "\u0434\u0456\u043c",
-        "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
-      },
-      "artists": [
-        {
-          "name": "MOLODI",
-          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "\u0434\u0456\u043c",
-      "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
+      "duration_ms": 205399,
+      "name": "\u0421\u0423\u041c",
+      "url": "https://open.spotify.com/track/2DmrKWpePwANHwyMQaDmo3"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 693794,
+  "num_followers": 693935,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 247388,
       "name": "House of The Rising Sun",
       "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 274829,
       "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
-        }
-      ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -1463,18 +1443,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1491,6 +1475,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-09-13 18:20:42",

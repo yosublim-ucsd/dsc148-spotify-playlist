@@ -1,12 +1,12 @@
 {
-  "description": "This is Five Finger Death Punch. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 551669,
+  "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
+  "num_followers": 551719,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAZr9LJnYZLqFDAKM7iVmI9",
+  "snapshot_id": "ZvdHAAAAAAABOLYDQfyq6a+OMmUl35pl",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 274615,
-      "name": "Blue on Black",
-      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
+      "duration_ms": 246209,
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 246209,
-      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
-      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
     },
     {
       "added_at": null,

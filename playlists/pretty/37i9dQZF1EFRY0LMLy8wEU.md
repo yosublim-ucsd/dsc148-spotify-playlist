@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 29 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 29 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 2 | [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 |
 | 3 | [Catch Me](https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Wearing A Blindfold And Running](https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj) | 4:41 |
 | 4 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 |
-| 5 | [Keep My Eyes Up](https://open.spotify.com/track/3HwgZ9A7lgMdfhp83DLjCz) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:15 |
-| 6 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
+| 5 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
+| 6 | [Keep My Eyes Up](https://open.spotify.com/track/3HwgZ9A7lgMdfhp83DLjCz) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:15 |
 | 7 | [Everything That Has Breath \(Praise\) \- Live](https://open.spotify.com/track/4VaFwW2mZqKymb7svsYFI4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:28 |
 | 8 | [Freight Train \- Live](https://open.spotify.com/track/3qt10TUcKVGQq9bbcRLAx2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation \- Live](https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx) | 4:45 |
 | 9 | [Satisfied / Keep My Eyes Up \- Medley](https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire](https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd) | 7:26 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 28 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
 | 29 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbdYigAAAADwtLQqOYqlt2Skp+xDBy+l`
+Snapshot ID: `AbdeKgAAAAB8YWLANrhd++kPFJP4opoI`

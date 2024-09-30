@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
-  "num_followers": 215181,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 215236,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADqfxrEd0VHmkleKZSjragG",
+  "snapshot_id": "ZvdHAAAAAAApe94I4Bdt9qmO4yK2EVcr",
   "tracks": [
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 212156,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te solt\u00e9 la rienda",
         "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Historia",
+        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 212156,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+        "name": "Suavecito",
+        "url": "https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/5d0uHar8bt0Sv010LQr64q"
+      "duration_ms": 183520,
+      "name": "Suavecito",
+      "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

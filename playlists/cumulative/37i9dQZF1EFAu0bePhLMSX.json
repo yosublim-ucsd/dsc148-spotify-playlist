@@ -1943,6 +1943,32 @@
     },
     {
       "album": {
+        "name": "Earworm",
+        "url": "https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN"
+      },
+      "artists": [
+        {
+          "name": "Russell Small",
+          "url": "https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16"
+        },
+        {
+          "name": "DNO P",
+          "url": "https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o"
+        },
+        {
+          "name": "Katherine Ellis",
+          "url": "https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286471,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a"
+    },
+    {
+      "album": {
         "name": "Melanie C",
         "url": "https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg"
       },

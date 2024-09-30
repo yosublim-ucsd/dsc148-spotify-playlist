@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 454093,
+  "num_followers": 458451,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 243875,
-      "name": "I Hate It Here",
-      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 243875,
+      "name": "I Hate It Here",
+      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom",
-      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -355,6 +339,22 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "how can i pretend?",
         "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
     },
     {
       "added_at": "2024-09-20 11:42:08",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Please Be Rude",
-        "url": "https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Please Be Rude",
-      "url": "https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-09-06 12:17:08",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "Please Be Rude",
+        "url": "https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 180000,
+      "name": "Please Be Rude",
+      "url": "https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Weed Garden",
         "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Never, No Not Once",
-        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+        "name": "Notes from the Archive: Recordings 2011-2016",
+        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        },
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 298864,
-      "name": "Never, No Not Once",
-      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+      "duration_ms": 382613,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -943,6 +947,22 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
     },
     {
       "added_at": "2024-09-20 11:42:08",
@@ -977,42 +997,6 @@
       "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
-        "name": "Notes from the Archive: Recordings 2011-2016",
-        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        },
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 382613,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
       "added_at": "2024-09-06 12:17:08",
       "album": {
         "name": "I Cried, I Wept",
@@ -1043,6 +1027,22 @@
       "duration_ms": 181760,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2024-09-06 12:17:08",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 206008,
       "name": "Punchline",
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
         "name": "Headlands",
         "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 175878,
       "name": "When Will I Be Alright",
       "url": "https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2024-08-18 19:56:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-18 19:56:47",
       "album": {
-        "name": "Pull",
-        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Pull",
-      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
-    },
-    {
-      "added_at": "2024-08-18 19:56:47",
-      "album": {
         "name": "Anywhere from Here",
         "url": "https://open.spotify.com/album/4ySzF5KyOtlBFWmqrVGvxy"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 222442,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/4AZ0sJsofN1fu52BaYDfQX"
+    },
+    {
+      "added_at": "2024-08-18 19:56:47",
+      "album": {
+        "name": "Pull",
+        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Pull",
+      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
     },
     {
       "added_at": "2024-08-18 19:56:47",

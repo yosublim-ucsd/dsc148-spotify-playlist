@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,387 likes - 254 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,411 likes - 254 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 253 | [The Duel](https://open.spotify.com/track/1UkMDUFCYEU3E0iAX9r7Ya) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Last Duel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1eQizLr3OaSw1VxfDRQtMx) | 5:12 |
 | 254 | [New Horizons](https://open.spotify.com/track/36brKgwtrp23PHA5etAKpp) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Scream \(Music From The Motion Picture\)](https://open.spotify.com/album/3Ogf02e98cddaZ7orthtIm) | 3:49 |
 
-Snapshot ID: `ZvEjDAAAAABf++4PDaVS2UEa9muq6Zv1`
+Snapshot ID: `ZvEjDAAAAABbaGitDbVFVRULFAAy3P+p`

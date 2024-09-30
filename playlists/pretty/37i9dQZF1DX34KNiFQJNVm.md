@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Henrique & Juliano, Maiara & Maraísa, Glória Groove e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,938,889 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939,303 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
 | 13 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
 | 14 | [Se Eu For Eu Vou Com Você](https://open.spotify.com/track/3FZtmq2WRhNokyGAGv3iec) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Eu Nunca Fui Embora \- PARTE 2](https://open.spotify.com/album/3ea6pVcsDemi8tpWlx2Zda) | 3:38 |
-| 15 | [Vontade](https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Doug Now](https://open.spotify.com/artist/5nX28sEyu1TH2jbYmSD82b), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), ["Matheuzin"](https://open.spotify.com/artist/3SMunlucr4jZlqPR0etQps), [Gabruga](https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr) | [Vontade](https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A) | 3:28 |
+| 15 | [Vontade](https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), ["Matheuzin"](https://open.spotify.com/artist/3SMunlucr4jZlqPR0etQps), [Gabruga](https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr) | [Vontade](https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A) | 3:28 |
 | 16 | [me chama](https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [me chama](https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R) | 2:37 |
 | 17 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
 | 18 | [Dia 1 \- Ao Vivo](https://open.spotify.com/track/3hOEoT2oxqpfFe7sjQrsgA) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Dia 1 \(Ao Vivo\)](https://open.spotify.com/album/3JfBVupnDt9rPcJGzO5Nzs) | 3:19 |

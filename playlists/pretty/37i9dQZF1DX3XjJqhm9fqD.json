@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 90140,
+  "num_followers": 90163,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -499,34 +499,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
-        "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "David Tort",
-          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
-        },
-        {
-          "name": "Markem",
-          "url": "https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE"
-        },
-        {
-          "name": "Yas Cepeda",
-          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
-      "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -563,42 +535,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "40 %",
-        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
-      },
-      "artists": [
-        {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "40 %",
-      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Sak Pase (with Saint Levant & Lolo Zoua\u00ef)",
         "url": "https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp"
       },
@@ -623,6 +559,54 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
+        "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "David Tort",
+          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
+        },
+        {
+          "name": "Markem",
+          "url": "https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE"
+        },
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
+      "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 512940,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "40 %",
+        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
+      },
+      "artists": [
+        {
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "40 %",
+      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Liki Tiki",
         "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
       },
@@ -847,22 +847,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+        "name": "HoneyComb",
+        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         },
         {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+      "duration_ms": 139752,
+      "name": "HoneyComb",
+      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -903,6 +907,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Map Rap Ak Ke Kontan",
         "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 138333,
       "name": "Veye Priye",
       "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "HoneyComb",
-        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 139752,
-      "name": "HoneyComb",
-      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1031,30 +1031,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Rap ap rete Rap",
-        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
       "artists": [
         {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Medjy",
-          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+          "name": "Roberto Martino",
+          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
         }
       ],
-      "duration_ms": 236923,
-      "name": "Si Yo Vle",
-      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+      "duration_ms": 363533,
+      "name": "Tu me touches",
+      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1071,22 +1059,6 @@
       "duration_ms": 161717,
       "name": "Ti Kabrit",
       "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Roberto Martino",
-          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
-        }
-      ],
-      "duration_ms": 363533,
-      "name": "Tu me touches",
-      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1131,6 +1103,34 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+        }
+      ],
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "TRANSITIONS EP",
-        "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 170550,
-      "name": "Guava",
-      "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "TRANSITIONS EP",
+        "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 170550,
+      "name": "Guava",
+      "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Bal Tout",
         "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Say It Like",
         "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 174720,
       "name": "Say It Like",
       "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
-      },
-      "artists": [
-        {
-          "name": "Chabin",
-          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 173025,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
+      },
+      "artists": [
+        {
+          "name": "Chabin",
+          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "duration_ms": 173025,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
     },
     {
       "added_at": "2024-05-24 04:00:00",

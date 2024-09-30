@@ -175,62 +175,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica 14",
-        "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 849230,
-      "name": "Poesia Ac\u00fastica 14",
-      "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Chuva de Ver\u00e3o (Modo Esquece)",
         "url": "https://open.spotify.com/album/2sAhH6CkhXvRWof3Xq4gnl"
       },
@@ -303,6 +247,62 @@
       "duration_ms": 238763,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Poesia Ac\u00fastica 14",
+        "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 849230,
+      "name": "Poesia Ac\u00fastica 14",
+      "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -551,6 +551,30 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "RIMAR 10 - Ondas Tropicais",
         "url": "https://open.spotify.com/album/43inBOr435EK5yIQNoDqMe"
       },
@@ -583,30 +607,6 @@
       "duration_ms": 310153,
       "name": "RIMAR 10 - Ondas Tropicais",
       "url": "https://open.spotify.com/track/1E2UfbGwjU0GZMiClR9LZl"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -879,18 +879,38 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
-        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
+        "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
+        "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
       },
       "artists": [
         {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Mc Orelha",
+          "url": "https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
+        },
+        {
+          "name": "MC FAEL",
+          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
+        },
+        {
+          "name": "NK da Grota",
+          "url": "https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7"
         }
       ],
-      "duration_ms": 163530,
-      "name": "T\u00c1 FAZENDO OQ?",
-      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
+      "duration_ms": 248275,
+      "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
+      "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -907,6 +927,22 @@
       "duration_ms": 196729,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
+        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "duration_ms": 163530,
+      "name": "T\u00c1 FAZENDO OQ?",
+      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -983,42 +1019,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
-        "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "DoisP",
-          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
-        },
-        {
-          "name": "Mc Orelha",
-          "url": "https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
-        },
-        {
-          "name": "MC FAEL",
-          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
-        },
-        {
-          "name": "NK da Grota",
-          "url": "https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
-      "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Ela \u00c9 Um V\u00edcio",
         "url": "https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ"
       },
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
-      },
-      "artists": [
-        {
-          "name": "POLLO",
-          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Nossa Viagem",
         "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
       },
@@ -1119,22 +1099,6 @@
       "duration_ms": 156800,
       "name": "Nossa Viagem",
       "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "DOUTOR",
-        "url": "https://open.spotify.com/album/4qVtkOVXvzzLV2JFR7eqT2"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 168976,
-      "name": "DOUTOR",
-      "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1191,6 +1155,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "DOUTOR",
+        "url": "https://open.spotify.com/album/4qVtkOVXvzzLV2JFR7eqT2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 168976,
+      "name": "DOUTOR",
+      "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 136901,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1327,6 +1327,42 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "De Peito Aberto, Pt. 2",
+        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 127850,
+      "name": "Toca o Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Tudo Come\u00e7ou",
         "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
       },
@@ -1387,54 +1423,6 @@
       "duration_ms": 105600,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "DoisZ",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Elementar",
-        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Terreiro",
-          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
-        },
-        {
-          "name": "Theus Terreiro",
-          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
-        },
-        {
-          "name": "YellowLab",
-          "url": "https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 170700,
-      "name": "Deixa Queimar",
-      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
     }
   ],
   "unique_name": "Resenha na Praia",

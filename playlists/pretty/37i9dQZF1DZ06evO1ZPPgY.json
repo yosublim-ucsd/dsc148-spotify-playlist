@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 220679,
+  "num_followers": 220701,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAC0SgAL0yhD8FiPOXgjZmgn",
+  "snapshot_id": "ZvdHAAAAAAAx0fgc1NH+t4v0/b7WRGvW",
   "tracks": [
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 452306,
-      "name": "Sha La La Means I Love You",
-      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+      "duration_ms": 323000,
+      "name": "Standing In The Shadows Of Love",
+      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Standing In The Shadows Of Love",
-      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     },
     {
       "added_at": null,

@@ -18162,7 +18162,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
@@ -23152,7 +23152,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 131106,
       "name": "Llorando Ausencia",
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
@@ -28688,7 +28688,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 163922,
       "name": "NADA VA A ESTAR MAL",
       "url": "https://open.spotify.com/track/1BtEZst2yFs34cYfRBmzth"
@@ -37346,7 +37346,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -37430,6 +37430,28 @@
       "duration_ms": 247468,
       "name": "SERIO CON ESE Q",
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
+    },
+    {
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247468,
+      "name": "SERIO CON ESE Q",
+      "url": "https://open.spotify.com/track/5KJUqkXzzwEkoTuIL4EYEI"
     },
     {
       "album": {
@@ -40548,7 +40570,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 152957,
       "name": "Tattoo - Spanish Version",
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"

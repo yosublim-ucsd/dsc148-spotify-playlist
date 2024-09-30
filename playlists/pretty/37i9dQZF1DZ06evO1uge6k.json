@@ -1,12 +1,12 @@
 {
-  "description": "This Is ZZ Top. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 247293,
+  "description": "This is ZZ Top\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 247333,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAByqNeUMR1PulYiS1RK7fuL",
+  "snapshot_id": "ZvdHAAAAAADFJe1vcjJoRUYcV6wC5a5s",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 254093,
-      "name": "A Fool for Your Stockings",
-      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
+      "duration_ms": 209426,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 189666,
       "name": "Precious and Grace (2005 Remaster)",
       "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Master of Sparks (2006 Remaster)",
-      "url": "https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212026,
       "name": "Stages",
       "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Master of Sparks (2006 Remaster)",
+      "url": "https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 144813,
-      "name": "Heard It on the X (2005 Remaster)",
-      "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 209133,
       "name": "Velcro Fly",
       "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 144813,
+      "name": "Heard It on the X (2005 Remaster)",
+      "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
     },
     {
       "added_at": null,

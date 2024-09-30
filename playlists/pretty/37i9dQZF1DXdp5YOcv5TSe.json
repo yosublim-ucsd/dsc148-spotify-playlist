@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 LoL",
-  "num_followers": 74989,
+  "num_followers": 75020,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 192120,
       "name": "Drag Me Down",
       "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
-        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 96739,
-      "name": "The Grid",
-      "url": "https://open.spotify.com/track/2tRWMCijEFsGPDxBgHxHre"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 191066,
       "name": "Rey's Theme",
       "url": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
+        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 96739,
+      "name": "The Grid",
+      "url": "https://open.spotify.com/track/2tRWMCijEFsGPDxBgHxHre"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "\u300c\u30d0\u30d6\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Extra Track ver.)",
         "url": "https://open.spotify.com/album/3lJzrLnPz32TybtaoknkoF"
       },
@@ -823,6 +843,26 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
+        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Ben Del Maestro",
+          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
+      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "SHINee The 3rd Album Chapter 2. 'Why So Serious? - The Misconceptions Of Me'",
         "url": "https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj"
       },
@@ -851,46 +891,6 @@
       "duration_ms": 187326,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7j2FhVH4n7X7D669o8T87z"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
-        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
-      },
-      "artists": [
-        {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        },
-        {
-          "name": "Ben Del Maestro",
-          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
-      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
     }
   ],
   "unique_name": "G2 Esports",

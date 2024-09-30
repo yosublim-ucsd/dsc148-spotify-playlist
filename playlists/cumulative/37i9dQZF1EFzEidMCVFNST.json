@@ -4576,10 +4576,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 122538,
       "name": "Nome aos Bois",
       "url": "https://open.spotify.com/track/7J32zg9XBrmutzavJoNPJ3"
+    },
+    {
+      "album": {
+        "name": "Prazer, Eu Sou Kadu Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mmewW8gVhqvdn1sb18lDU"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "Raquel dos Teclados",
+          "url": "https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122538,
+      "name": "Nome aos Bois - Ao Vivo",
+      "url": "https://open.spotify.com/track/4laI4kZd9tPKDUUXfE0Hc8"
     },
     {
       "album": {
@@ -5874,6 +5896,24 @@
     {
       "album": {
         "name": "RASCUNHO",
+        "url": "https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163194,
+      "name": "RASCUNHO",
+      "url": "https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J"
+    },
+    {
+      "album": {
+        "name": "RASCUNHO",
         "url": "https://open.spotify.com/album/5EJ3c9jg1lTDl8tzELC4nV"
       },
       "artists": [
@@ -5884,7 +5924,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 163194,
       "name": "RASCUNHO",
       "url": "https://open.spotify.com/track/5qY6KlNVjy04tR7a3PqZ1K"
@@ -6478,10 +6518,40 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 147576,
       "name": "Sem Sentimento Nenhum",
       "url": "https://open.spotify.com/track/3bIHaq2rziiZyL6xVm7FSG"
+    },
+    {
+      "album": {
+        "name": "Prazer, Eu Sou Kadu Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mmewW8gVhqvdn1sb18lDU"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/2Qz2IHFF1ajmyKu0YiAD9s"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147576,
+      "name": "Sem Sentimento Nenhum - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TiiFZpcN6h2S1DKqHLQVb"
     },
     {
       "album": {

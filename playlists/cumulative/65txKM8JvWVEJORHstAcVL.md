@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(22/9/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(29/9/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-103 songs - 5 hr 9 min
+104 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Abans que s'acabi el Món](https://open.spotify.com/track/2Mcm9St5ujvazdS4SB4n8L) | [Gertrudis](https://open.spotify.com/artist/3eAm5IYwnH7uTX5EBT9sbi) | [Abans que s'acabi el Món](https://open.spotify.com/album/6O90WPSc1nfGH5lCyfcsLw) | 2:49 | 2024-03-03 | 2024-06-03 |
 | [ACTITUD](https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Fraktal](https://open.spotify.com/artist/3E3CNsYCMGVEbSoHw0dgLn), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [ACTITUD](https://open.spotify.com/album/1rRgIp7kMofwXGZp6Wj5bk) | 3:06 | 2024-06-16 |  |
 | [Això és l'estiu](https://open.spotify.com/track/2afUtubQ3Gq6q9LXUP7mmt) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Això és l'estiu](https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4) | 3:21 | 2024-09-01 |  |
-| [ARA](https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso \(y el tuyo\)](https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr) | 3:06 | 2024-04-28 |  |
+| [ARA](https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso \(y el tuyo\)](https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr) | 3:06 | 2024-04-28 | 2024-09-30 |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa) | 2:51 | 2024-08-04 |  |
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-07-16 | 2024-04-15 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-08-18 |  |
@@ -30,6 +30,7 @@
 | [COVARDS](https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [COVARDS](https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0) | 3:09 | 2024-02-25 | 2024-09-16 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-13 | 2024-05-27 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-11 | 2024-04-29 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-29 |  |
 | [DIABLA](https://open.spotify.com/track/5lDRfQXgTA985GAb0ngSHi) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [DIABLA](https://open.spotify.com/album/2amTmaItOxGECKzmyCHHF0) | 2:42 | 2023-12-10 | 2024-07-01 |
 | [Dins del meu cap](https://open.spotify.com/track/5AxKeSyenbb6lH0xYF5kjk) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dins del meu cap](https://open.spotify.com/album/1IFZOhoZpcCzCGly6B2ewd) | 3:00 | 2024-05-12 |  |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-03-24 | 2024-05-13 |

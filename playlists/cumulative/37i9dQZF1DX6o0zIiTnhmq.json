@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Gayatri Mantra 108 Times",
+        "url": "https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw"
+      },
+      "artists": [
+        {
+          "name": "Lakshit Patiyal",
+          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1404745,
+      "name": "Gayatri Mantra 108 Times",
+      "url": "https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG"
+    },
+    {
+      "album": {
         "name": "Gayatri Mantra-----Jagjit Singh",
         "url": "https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg"
       },
@@ -1546,7 +1568,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 602746,
       "name": "Ong Namo (Wisdom)",
       "url": "https://open.spotify.com/track/0edFHoTkMCh2gzsk11kCDM"

@@ -1,12 +1,12 @@
 {
-  "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 83441,
+  "description": "This is LEGADO 7. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 83473,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADHOBGCZKhww2d6WehY+l7P",
+  "snapshot_id": "ZvdHAAAAAACOWw6evX7zdXAzhUJIbalS",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 209642,
       "name": "Mi Talento",
       "url": "https://open.spotify.com/track/5AXJJsYCu7WafYOqM9gPom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
       "duration_ms": 141197,
       "name": "El Amor No Va Conmigo",
       "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Que Me Cerr\u00f3 la Puerta",
-        "url": "https://open.spotify.com/album/0RxCvHCUdi49gwWg83eIcq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 182124,
-      "name": "El Que Me Cerr\u00f3 la Puerta",
-      "url": "https://open.spotify.com/track/1t4U0iirg1JtCJQnRdHuY5"
     },
     {
       "added_at": null,
@@ -719,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diecinueve",
-        "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
+        "name": "El Que Me Cerr\u00f3 la Puerta",
+        "url": "https://open.spotify.com/album/0RxCvHCUdi49gwWg83eIcq"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 171925,
-      "name": "El Diecinueve",
-      "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
+      "duration_ms": 182124,
+      "name": "El Que Me Cerr\u00f3 la Puerta",
+      "url": "https://open.spotify.com/track/1t4U0iirg1JtCJQnRdHuY5"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diecinueve",
+        "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "El Diecinueve",
+      "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble M",
-        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 146749,
-      "name": "El Doble M",
-      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 189516,
       "name": "El Compa \u00c1ngel",
       "url": "https://open.spotify.com/track/0x0EuFuoOISC3ge1C58wHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Doble M",
+        "url": "https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 146749,
+      "name": "El Doble M",
+      "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
     },
     {
       "added_at": null,

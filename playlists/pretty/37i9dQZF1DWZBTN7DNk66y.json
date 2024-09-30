@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Julieta Rada & iLe.",
-  "num_followers": 25957,
+  "num_followers": 25961,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "T\u00c1",
         "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 140500,
       "name": "Ana Mar\u00eda",
       "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "El Rostro de los Acantilados",
+        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 271006,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 204576,
       "name": "Alabanza",
       "url": "https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "El Rostro de los Acantilados",
-        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 271006,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 195529,
-      "name": "Cuadros",
-      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Vals de la Luna",
         "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190416,
       "name": "Vals de la Luna",
       "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Cuadros",
+      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Las Mareas",
         "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 194085,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "As\u00ed Sea",
-        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216766,
-      "name": "As\u00ed Sea",
-      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
         "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 367388,
       "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
       "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "As\u00ed Sea",
+        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "As\u00ed Sea",
+      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Los Ancestros",
         "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 250723,
       "name": "Los Ancestros",
       "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+        }
+      ],
+      "duration_ms": 142364,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
-        }
-      ],
-      "duration_ms": 142364,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
-      },
-      "artists": [
-        {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 191339,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "FR\u00c1GIL",
+        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+      },
+      "artists": [
+        {
+          "name": "Juan Cottet",
+          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Frascuelo",
+      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Abanicos negros",
-        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Cuturi",
-          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
-        }
-      ],
-      "duration_ms": 162843,
-      "name": "Abanicos negros",
-      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Cortina",
         "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 191118,
       "name": "Cortina",
       "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Abanicos negros",
+        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Cuturi",
+          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
+        }
+      ],
+      "duration_ms": 162843,
+      "name": "Abanicos negros",
+      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Baguala de Salta, Chicoana",
+        "url": "https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "Baguala de Salta, Chicoana",
+      "url": "https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Nubil",
         "url": "https://open.spotify.com/album/2kyWzKHKCMweAVi3Sq2mhs"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 181243,
       "name": "Nubil",
       "url": "https://open.spotify.com/track/3zsRHcAWaSSFKM9vVEeagj"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Baguala de Salta, Chicoana",
-        "url": "https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "Baguala de Salta, Chicoana",
-      "url": "https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5"
     },
     {
       "added_at": "2024-09-06 03:00:00",

@@ -7767,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Multiverse, Pt. 1",
+        "url": "https://open.spotify.com/album/0PR680urTPeYuw70ONHPHP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Power",
+          "url": "https://open.spotify.com/artist/12uvc7Jyw3SUOpFtnKOUkX"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6hEWgRCOBXa2PsRefCs6lU"
+    },
+    {
+      "album": {
         "name": "Lighthouse (Andrelli Remix)",
         "url": "https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA"
       },

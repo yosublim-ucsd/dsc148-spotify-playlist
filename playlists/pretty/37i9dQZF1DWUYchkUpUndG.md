@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ?si=aldOr8I9RVC1j0PguzRxug>Matt Redman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,023 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,056 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

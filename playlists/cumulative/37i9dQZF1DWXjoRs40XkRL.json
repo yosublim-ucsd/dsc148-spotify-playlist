@@ -1185,6 +1185,36 @@
     },
     {
       "album": {
+        "name": "Daavaanal",
+        "url": "https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD"
+      },
+      "artists": [
+        {
+          "name": "Antara Ansuna",
+          "url": "https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq"
+        },
+        {
+          "name": "Harsh Karmakar",
+          "url": "https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        },
+        {
+          "name": "Mrunmay Chhavan",
+          "url": "https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212424,
+      "name": "Daavaanal",
+      "url": "https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT"
+    },
+    {
+      "album": {
         "name": "Dekho Saiya",
         "url": "https://open.spotify.com/album/0ELfqU60XiASZjmLEYKkCu"
       },
@@ -3778,7 +3808,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 217808,
       "name": "Nadiya",
       "url": "https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd"

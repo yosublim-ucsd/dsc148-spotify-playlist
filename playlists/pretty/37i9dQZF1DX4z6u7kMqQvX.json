@@ -43,6 +43,22 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 238612,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 238612,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "En el Caribe Tambi\u00e9n Pasa Esto",
         "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 266240,
       "name": "Desde Dentro",
       "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Isita Querida",
-        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Isita Querida",
-      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -583,6 +567,42 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Isita Querida",
+        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Isita Querida",
+      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 152405,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -619,26 +639,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Enamorada",
-        "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 152405,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "mi mundo entero",
+        "url": "https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 192625,
+      "name": "mi mundo entero",
+      "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -687,22 +703,6 @@
       "duration_ms": 250790,
       "name": "Te Dej\u00e9 una Carta",
       "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "mi mundo entero",
-        "url": "https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 192625,
-      "name": "mi mundo entero",
-      "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
         "name": "Donde Vas?",
         "url": "https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 187514,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Que te hizo ir",
-        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Que te hizo ir",
-      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Que te hizo ir",
+        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Que te hizo ir",
+      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
+        "name": "Cantamos en mi terraza? #2",
+        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
+      },
+      "artists": [
+        {
+          "name": "Jacinta",
+          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
+        },
+        {
+          "name": "Santiago Manrique",
+          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
+        }
+      ],
+      "duration_ms": 274407,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1335,26 +1355,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "Domingo Escarlata",
         "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
       },
@@ -1371,6 +1371,26 @@
       "duration_ms": 229253,
       "name": "Domingo Escarlata",
       "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1455,26 +1475,6 @@
       "duration_ms": 217888,
       "name": "TODO LO QUE HICIMOS.",
       "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
-        "name": "Cantamos en mi terraza? #2",
-        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
-      },
-      "artists": [
-        {
-          "name": "Jacinta",
-          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
-        },
-        {
-          "name": "Santiago Manrique",
-          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
-        }
-      ],
-      "duration_ms": 274407,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
     },
     {
       "added_at": "2024-09-26 19:23:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-09-26 19:23:33",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
-    },
-    {
-      "added_at": "2024-09-26 19:23:33",
-      "album": {
         "name": "Tu Costado M\u00e1s Feroz",
         "url": "https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 162288,
       "name": "Radar",
       "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
+    },
+    {
+      "added_at": "2024-09-26 19:23:33",
+      "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-09-26 19:23:33",

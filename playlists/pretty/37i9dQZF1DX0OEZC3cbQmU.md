@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,298 likes - 75 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,884 likes - 75 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Eu Tenho uma Promessa](https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa](https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc) | 4:31 |
 | 75 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 
-Snapshot ID: `ZvYf7AAAAAAAEAYLOOo/USQNOm0TCj9N`
+Snapshot ID: `ZvYf7AAAAACES4O5GeG3oDvBsq5Y9o9U`

@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
+    },
+    {
+      "album": {
         "name": "Passo dopo Passo",
         "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
       },
@@ -2172,6 +2190,24 @@
       "duration_ms": 212000,
       "name": "Raccontarsi favole",
       "url": "https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah"
+    },
+    {
+      "album": {
+        "name": "Ragazza del Mare",
+        "url": "https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ"
+      },
+      "artists": [
+        {
+          "name": "Napoleone",
+          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165143,
+      "name": "Ragazza del Mare",
+      "url": "https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM"
     },
     {
       "album": {
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 116317,
       "name": "Solo per guardarti",
       "url": "https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa"

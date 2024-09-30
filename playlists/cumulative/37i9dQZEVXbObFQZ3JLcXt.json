@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -7122,6 +7122,24 @@
       "duration_ms": 191950,
       "name": "Rahasia Hati",
       "url": "https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM"
+    },
+    {
+      "album": {
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250682,
+      "name": "Rahasia Hati",
+      "url": "https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa"
     },
     {
       "album": {

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Late Start",
+        "url": "https://open.spotify.com/album/39crSASAQumXtIGURlbaDD"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194454,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/40michyETM6sSdEipUW6BW"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 194454,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm"
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Late Start",
+        "url": "https://open.spotify.com/album/39crSASAQumXtIGURlbaDD"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Hope Is a Scary Thing",
+      "url": "https://open.spotify.com/track/4IBOh3IntIdiMwN6IuUIpJ"
+    },
+    {
+      "album": {
         "name": "Hope Is a Scary Thing",
         "url": "https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu"
       },
@@ -596,7 +632,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 168666,
       "name": "Hope Is a Scary Thing",
       "url": "https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg"

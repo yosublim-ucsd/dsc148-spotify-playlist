@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "After Eight",
+        "url": "https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh"
+      },
+      "artists": [
+        {
+          "name": "Taco",
+          "url": "https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281160,
+      "name": "Puttin' on the Ritz",
+      "url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
+    },
+    {
+      "album": {
         "name": "Goths (Deluxe Version)",
         "url": "https://open.spotify.com/album/0qiQRfHW1HvMTnYGtYgrtQ"
       },

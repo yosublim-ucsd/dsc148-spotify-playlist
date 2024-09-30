@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 100206,
+  "num_followers": 100350,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zo8s+AAAAADqBmCmtImotEkF1RlIXxMB",
   "tracks": [
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Internacionales Y Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
-    },
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 175493,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Internacionales Y Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -123,34 +107,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Canta Trovador",
-        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -171,6 +139,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Canta Trovador",
+        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -215,6 +199,22 @@
       "duration_ms": 262333,
       "name": "Tu \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 190640,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -279,22 +279,6 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Exitos Con Mariachi",
+        "url": "https://open.spotify.com/album/6F03Kjdql6MfZnNFIIH3zy"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Esa Pared",
+      "url": "https://open.spotify.com/track/2D7QsEzkNUzzFKqIFmvXcY"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Me Bebi Tu Recuerdo",
         "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Solo Baladas",
         "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 206000,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Exitos Con Mariachi",
-        "url": "https://open.spotify.com/album/6F03Kjdql6MfZnNFIIH3zy"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Esa Pared",
-      "url": "https://open.spotify.com/track/2D7QsEzkNUzzFKqIFmvXcY"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -443,34 +427,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
         }
       ],
-      "duration_ms": 207186,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "El Quinto Trago",
-        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -491,6 +459,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "El Quinto Trago",
+        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Serie 32: Yndio",
         "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
@@ -503,6 +487,54 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Como sufro",
+      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -539,38 +571,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Como sufro",
-      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+      "duration_ms": 211586,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "Ya se va",
-      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 194426,
       "name": "Par De Anillos",
       "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "A Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "A Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "A Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
         }
       ],
-      "duration_ms": 206386,
-      "name": "A Tu Recuerdo",
-      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
+      "duration_ms": 171213,
+      "name": "Ya se va",
+      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "\u00c9xitos De \u00c9poca (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Eres Mi Mundo",
-      "url": "https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Los Exitos de Los Terricolas",
         "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245880,
       "name": "Luto En Mi Alma",
       "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "\u00c9xitos De \u00c9poca (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Eres Mi Mundo",
+      "url": "https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 228925,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
         "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 159666,
       "name": "Y...",
       "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 228925,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Una Carta",
-      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "No Son Palabritas",
+      "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 187786,
       "name": "Porque Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "No Son Palabritas",
-      "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 259578,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/0QwRB5Q6nxAN0AsLavgFOa"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "D\u00e9jenme llorar",
-      "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Como No Voy a Quererte",
-        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
-      },
-      "artists": [
-        {
-          "name": "Los Prados",
-          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Como No Voy a Quererte",
-      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "\"Gold\"",
         "url": "https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 213613,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "D\u00e9jenme llorar",
+      "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Como No Voy a Quererte",
+        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
+      },
+      "artists": [
+        {
+          "name": "Los Prados",
+          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Como No Voy a Quererte",
+      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1323,34 +1323,18 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+        "name": "Tesoros De Coleccion - Los Tukas",
+        "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Los Tukas",
+          "url": "https://open.spotify.com/artist/1iXBLpnqdQ2EkMeGuoVPYC"
         }
       ],
-      "duration_ms": 207026,
-      "name": "Anny",
-      "url": "https://open.spotify.com/track/0OBQLc9oXzswaPg4gobM5h"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Tu inolvidable sonrisa",
-      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
+      "duration_ms": 154400,
+      "name": "Nacimos para Amarnos",
+      "url": "https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Tesoros De Coleccion - Los Tukas",
-        "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
       },
       "artists": [
         {
-          "name": "Los Tukas",
-          "url": "https://open.spotify.com/artist/1iXBLpnqdQ2EkMeGuoVPYC"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 154400,
-      "name": "Nacimos para Amarnos",
-      "url": "https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc"
+      "duration_ms": 207026,
+      "name": "Anny",
+      "url": "https://open.spotify.com/track/0OBQLc9oXzswaPg4gobM5h"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Tu inolvidable sonrisa",
+      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "El Sonido Vol I",
-        "url": "https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Asi No Te Amara Jamas",
-      "url": "https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Una Sola Caida Y Las Abandonadas",
         "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 176226,
       "name": "Una Sola Ca\u00edda",
       "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "El Sonido Vol I",
+        "url": "https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Asi No Te Amara Jamas",
+      "url": "https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE"
     },
     {
       "added_at": "2024-07-11 00:53:12",

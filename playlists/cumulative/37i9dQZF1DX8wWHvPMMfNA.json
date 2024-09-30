@@ -6474,7 +6474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 289133,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2"
@@ -14122,6 +14122,24 @@
       "duration_ms": 191970,
       "name": "The Swing of Things",
       "url": "https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN"
+    },
+    {
+      "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/5JkyU3K3UiykUp8xluYvnC"
+      },
+      "artists": [
+        {
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/71R9uY40h8SwfXdwelSH81"
     },
     {
       "album": {

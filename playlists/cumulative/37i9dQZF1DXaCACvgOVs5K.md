@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-332 songs - 20 hr 9 min
+333 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2023-04-04 | 2023-10-01 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-04-04 | 2024-04-20 |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 | 2024-08-05 |
+| [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 | 2024-09-26 |  |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-19 | 2024-09-19 |
 | [Hold On](https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Hold On](https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi) | 3:07 | 2024-07-19 |  |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-19 |  |
@@ -169,7 +170,7 @@
 | [Levitate](https://open.spotify.com/track/3pA6bEb7Y0lGeyysqDlzDm) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/7DnifJAeP8n2eMj1vG89Hs) | 3:26 | 2023-10-19 | 2024-04-19 |
 | [Levitate](https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh) | 3:26 | 2023-07-26 | 2024-04-20 |
 | [Levitate](https://open.spotify.com/track/3EY2rIi7ZoAkT1QkxjhL5D) | [hamza7](https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [Levitate](https://open.spotify.com/album/4ljJEzIccdz9CtcoOmFEgy) | 3:26 | 2023-10-19 | 2023-12-17 |
-| [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-08-26 |  |
+| [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-08-26 | 2024-09-30 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-13 |  |
 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 | 2022-08-26 | 2024-04-20 |
 | [Lights Out \(feat\. Fred again..\) \- HAAi Remix](https://open.spotify.com/track/1Esx2RJjRR3oiErJKOrY8H) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Lights Out \(HAAi Remix\)](https://open.spotify.com/album/1pd6c8qLXwdveETC6NYxNj) | 6:15 | 2024-04-19 | 2024-05-17 |

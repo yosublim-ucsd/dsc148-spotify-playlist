@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-958 songs - 1 day 13 hr 10 min
+959 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 | 2022-04-15 | 2022-09-17 |
 | [Locust](https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Locust](https://open.spotify.com/album/2D0W7K61oCTDtycvniH6Xd) | 1:57 | 2022-10-14 | 2022-11-25 |
 | [Locust](https://open.spotify.com/track/5MaPFUOETqvw2bNIAuJkTP) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Arboretum](https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm) | 1:57 | 2022-11-11 | 2023-10-20 |
+| [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 | 2024-09-27 |  |
 | [London Fog](https://open.spotify.com/track/0GPdHDsdp4G9I2kPYIF4bJ) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [London Fog](https://open.spotify.com/album/1VFSW0adOoY2V7VGxh0lws) | 2:28 | 2022-09-16 | 2024-09-14 |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-04-15 | 2022-09-09 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 | 2022-09-03 |
@@ -669,7 +670,7 @@
 | [rodeo](https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [rodeo](https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5) | 2:09 | 2024-06-05 | 2024-06-29 |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |
-| [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 |  |
+| [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 | 2024-09-30 |
 | [Rose Cruise](https://open.spotify.com/track/48QMprf8rodxvXB6HbgxoJ) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Rose Cruise](https://open.spotify.com/album/0ryWLsNdVLeRdfMYBQsJVp) | 3:00 | 2022-04-15 | 2022-07-22 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
 | [Round on Me](https://open.spotify.com/track/37iYwXkFgvgFcTXBkYkzrz) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Round On Me](https://open.spotify.com/album/2TvkgXoOUKmAfbHQfQNcM8) | 2:21 | 2022-04-15 | 2024-02-02 |

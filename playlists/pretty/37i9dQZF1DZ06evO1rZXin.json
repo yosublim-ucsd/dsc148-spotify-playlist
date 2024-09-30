@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAYPBHlM6DfDCIcMHuXW6qV",
+  "snapshot_id": "ZvdHAAAAAAD1ISgId+BGBwYlonje9XUo",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
       "duration_ms": 155000,
       "name": "El Mero Mero",
       "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con La Vallarta Show y Marco Flores",
+        "url": "https://open.spotify.com/album/3KQst1V31AZN80Ff5jlKu7"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        },
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 241650,
+      "name": "Celoso - En Vivo",
+      "url": "https://open.spotify.com/track/3hKZdVQm4E5N5Ds1nqSm23"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38088,
+  "num_followers": 38090,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAB08x9d1LzEL8LsWh3ujNzC",
+  "snapshot_id": "ZvdHAAAAAAD8pDaOnFM2RyV0bseTrafb",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 169166,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+      "duration_ms": 169166,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
       "duration_ms": 111541,
       "name": "NI**AS NEED JESUS",
       "url": "https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+        "name": "SOMEONE ELSE (featuring Jacob Banks)",
+        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
       },
       "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 51880,
-      "name": "Lovely Nanna",
-      "url": "https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU"
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (featuring Jacob Banks)",
+      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
     }
   ],
   "unique_name": "This Is Jacob Banks",

@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Minz",
-  "num_followers": 239677,
+  "num_followers": 239698,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+      "duration_ms": 216564,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 216564,
-      "name": "Turn Me Up",
-      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
       },
@@ -1047,26 +1027,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "diallo",
-        "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 163008,
-      "name": "diallo",
-      "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1107,6 +1083,30 @@
       "duration_ms": 151456,
       "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "diallo",
+        "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 163008,
+      "name": "diallo",
+      "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1159,6 +1159,22 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Bodija / Folake",
+        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 146685,
       "name": "1942 (feat. Milar)",
       "url": "https://open.spotify.com/track/69v07HAZ1Gk5pICKGaaATc"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Bodija / Folake",
-        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Blended",
+        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Blended",
-        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
     },
     {
       "added_at": "2024-09-20 00:01:00",

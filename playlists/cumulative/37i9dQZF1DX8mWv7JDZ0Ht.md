@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem
 
-701 songs - 1 day 10 hr 53 min
+702 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2022-12-02 | 2023-06-15 |
 | [Tela Crua](https://open.spotify.com/track/3w7DZzCH9557MSCAcC3AHL) | [Babi Ceresa](https://open.spotify.com/artist/6j6YUS7ZfbpHmphffIBqWY), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Tela Crua](https://open.spotify.com/album/2jeDKTduy4R3kG2gVgTjVC) | 3:45 | 2023-11-24 | 2024-02-03 |
 | [Telepatia](https://open.spotify.com/track/5qQakX292WkdKg4N4e9JHE) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Espiral](https://open.spotify.com/album/31c2DFsGxwU9A4eGKQ98aH) | 3:25 | 2024-04-09 | 2024-06-29 |
-| [Tem Muito Ainda](https://open.spotify.com/track/4biFLgrgHWAz0bjJDskOwk) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Tem Muito Ainda](https://open.spotify.com/album/5VQcaPwlPXzQ4tmOXsNDrT) | 3:09 | 2024-09-20 |  |
+| [Tem Muito Ainda](https://open.spotify.com/track/4biFLgrgHWAz0bjJDskOwk) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Tem Muito Ainda](https://open.spotify.com/album/5VQcaPwlPXzQ4tmOXsNDrT) | 3:09 | 2024-09-20 | 2024-09-30 |
 | [Tempo Demais](https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Tempo Demais](https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd) | 2:48 | 2023-08-04 | 2023-09-02 |
 | [Tenha do Seu Lado](https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Tenha Do Seu Lado](https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3) | 3:22 | 2022-05-13 | 2022-10-11 |
 | [Tenta](https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg), [Annalu](https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx) | [Tenta](https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y) | 3:17 | 2023-09-08 |  |
@@ -656,6 +656,7 @@
 | [vai e vem](https://open.spotify.com/track/1nuC5t3OBnMLZCmvzf7oxK) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [vai e vem](https://open.spotify.com/album/0Ik66eoE66yFyeDE5teHDz) | 2:09 | 2023-12-22 | 2024-01-20 |
 | [vai, namora](https://open.spotify.com/track/6umXzROy7UNOu7futjIe79) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [vai, namora](https://open.spotify.com/album/0jnQaxwTVAe0svwkieGJkJ) | 2:33 | 2023-03-24 | 2023-04-09 |
 | [Vale Mais \- Ao Vivo](https://open.spotify.com/track/2yrU2kVQPiGH8EjOABgwQa) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Quebra\-Cabeça \(Ao Vivo\)](https://open.spotify.com/album/5UZ6rFnscv270vq8rMPeqJ) | 2:58 | 2023-07-28 | 2023-08-26 |
+| [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |
 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 | 2022-05-13 | 2022-12-10 |
 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2023-09-29 | 2024-06-08 |
 | [Vem Cá, Me Beija](https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L), [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [Vem Cá, Me Beija](https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P) | 2:38 | 2024-05-24 |  |

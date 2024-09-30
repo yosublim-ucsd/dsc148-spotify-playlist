@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 89620,
+  "num_followers": 89672,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
         "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+        "name": "Cheo",
+        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -231,22 +247,6 @@
       "duration_ms": 228440,
       "name": "Calle Luna Calle Sol",
       "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Creativo",
         "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
@@ -327,38 +307,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+        "name": "Plant\u00e9 Bandera",
+        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
         },
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Chamaco Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -387,38 +351,18 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Plant\u00e9 Bandera",
-        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Chamaco Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+      "duration_ms": 266400,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -436,9 +380,45 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 371773,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -495,22 +475,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Oh Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Picadillo A La Criolla",
         "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
       },
@@ -563,6 +527,42 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Barretto Power",
         "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 270613,
       "name": "Quitate La M\u00e1scara",
       "url": "https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 306640,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -631,6 +611,26 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 306640,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Fe, Esperanza y Caridad",
         "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 180560,
       "name": "El Negro Bemb\u00f3n",
       "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -779,38 +779,6 @@
       "duration_ms": 346306,
       "name": "Mi Ritmo Es Bueno",
       "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Harlow",
-          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
-        }
-      ],
-      "duration_ms": 314960,
-      "name": "El Paso De Encarnaci\u00f3n",
-      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Soy Feliz",
-      "url": "https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -831,6 +799,58 @@
       "duration_ms": 513320,
       "name": "Yo Puedo Vivir Del Amor",
       "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        }
+      ],
+      "duration_ms": 314960,
+      "name": "El Paso De Encarnaci\u00f3n",
+      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Soy Feliz",
+      "url": "https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -875,38 +895,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Rey del Bajo",
-        "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
+        "name": "Tumi Cuba Classics Volume 4: Son",
+        "url": "https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS"
       },
       "artists": [
         {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Cuando Te Vea",
-      "url": "https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Son 14",
+          "url": "https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht"
         },
         {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+          "name": "Adalberto Alvarez",
+          "url": "https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0"
         }
       ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+      "duration_ms": 365240,
+      "name": "Tal Vez Vuelvas a Llamarme",
+      "url": "https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn"
     }
   ],
   "unique_name": "Salsa Brava",

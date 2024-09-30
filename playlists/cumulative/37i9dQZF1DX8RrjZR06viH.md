@@ -4,7 +4,7 @@
 
 > 🍂
 
-114 songs - 5 hr 47 min
+115 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 | 2024-06-27 |  |
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 |  |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2024-06-27 |  |
+| [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 | 2024-09-26 |  |
 | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI) | 2:22 | 2024-06-27 |  |
 | [Glimt i Øyet](https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Glimt i Øyet](https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr) | 2:20 | 2024-06-27 | 2024-07-18 |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-27 |  |
@@ -86,7 +87,7 @@
 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 | 2024-06-27 |  |
 | [Rød cabriolet](https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Rød cabriolet](https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg) | 3:43 | 2024-09-16 |  |
 | [Sent](https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Sent](https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3) | 2:15 | 2024-06-27 | 2024-07-16 |
-| [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 |  |
+| [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 | 2024-09-30 |
 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 | 2024-07-11 |  |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 |  |
 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-06-27 |  |

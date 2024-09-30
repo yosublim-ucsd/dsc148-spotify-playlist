@@ -1,12 +1,12 @@
 {
-  "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8171,
+  "description": "This is Hawthorne Heights\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 8174,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAACzdio+EMAXs993tGDchEIP",
+  "snapshot_id": "ZvdHAAAAAACZRt2aC8MkBK+tGOJBQNmU",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 163605,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Just Another Ghost",
+      "url": "https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 185250,
-      "name": "Just Another Ghost",
-      "url": "https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp"
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
     },
     {
       "added_at": null,

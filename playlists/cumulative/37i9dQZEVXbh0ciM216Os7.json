@@ -2641,6 +2641,32 @@
     },
     {
       "album": {
+        "name": "Be A Lion",
+        "url": "https://open.spotify.com/album/5E5PfAqOue4iVpJFZGoKhp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Exile",
+          "url": "https://open.spotify.com/artist/4t2mLJtuEDw5ho4IDSX406"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205897,
+      "name": "Be A Lion",
+      "url": "https://open.spotify.com/track/66Us7kb5sPqWNixTYcIRDS"
+    },
+    {
+      "album": {
         "name": "Be Or Busy (Mukthi)",
         "url": "https://open.spotify.com/album/5TX0Es6rmWnhfGb5p0ayUT"
       },
@@ -19170,7 +19196,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 250666,
       "name": "Lion in The ZOO",
       "url": "https://open.spotify.com/track/2JFblRwJkn1BsJsi4D7Eaw"
@@ -38036,6 +38062,28 @@
       "duration_ms": 189149,
       "name": "WU-Sopranos",
       "url": "https://open.spotify.com/track/1PTI6KO3is7kWQwVOWfheO"
+    },
+    {
+      "album": {
+        "name": "Digital Temple",
+        "url": "https://open.spotify.com/album/54uLeloBjpZT1tFZbDV8CF"
+      },
+      "artists": [
+        {
+          "name": "Warnutz the Loser",
+          "url": "https://open.spotify.com/artist/333enrsTNFhcULlvvsZRf7"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82477,
+      "name": "Wu-Tang Freestyle",
+      "url": "https://open.spotify.com/track/1NGeXjNvisyYjPap6NJgb7"
     },
     {
       "album": {

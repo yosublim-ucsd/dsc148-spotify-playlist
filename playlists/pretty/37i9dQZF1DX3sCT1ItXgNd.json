@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Dani Fern\u00e1ndez",
-  "num_followers": 965230,
+  "num_followers": 965198,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
         "name": "CARITA TRISTE",
         "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 140867,
       "name": "Viento",
       "url": "https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -451,70 +451,6 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "INSOMNIO",
-        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 218710,
-      "name": "INSOMNIO",
-      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
-        "name": "Mil preguntas",
-        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 199701,
-      "name": "Mil preguntas",
-      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
-        "name": "te vas a inventar",
-        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 172029,
-      "name": "te vas a inventar",
-      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
         "name": "Tienes Que Saber",
         "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
       },
@@ -535,6 +471,54 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 164599,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218710,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "Mil preguntas",
+        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 199701,
+      "name": "Mil preguntas",
+      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
         "name": "zarcillos de plata",
         "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 198009,
       "name": "zarcillos de plata",
       "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "te vas a inventar",
+        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 172029,
+      "name": "te vas a inventar",
+      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "A Las 12",
-        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "A Las 12",
-      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
         "name": "no te deseo lo peor :)",
         "url": "https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 189781,
       "name": "no te deseo lo peor :)",
       "url": "https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "A Las 12",
+        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "A Las 12",
+      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
+        "name": "Mi + 1",
+        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Mi + 1",
+      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
         "name": "GARITO EN MALASA\u00d1A",
         "url": "https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 159163,
       "name": "Lo Dejo Todo",
       "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
-        "name": "Mi + 1",
-        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        },
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Mi + 1",
-      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
     },
     {
       "added_at": "2024-09-23 16:30:05",

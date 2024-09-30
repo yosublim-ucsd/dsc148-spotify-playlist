@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,528 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,608 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Not Nice](https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:45 |
 | 53 | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/track/57ciWTOKgrXVBxktMJyUB1) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/album/3VEC69yVh8w9R4Rk8aMliW) | 3:46 |
 
-Snapshot ID: `ZvX1gAAAAADv5VUGn658b40N4AsDz9JF`
+Snapshot ID: `ZvdHAAAAAAB9GdlgpKtg2JEJiKcVjIq9`

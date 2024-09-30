@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,272 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,243 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 61 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 |
 | 62 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 
-Snapshot ID: `Zu2QnAAAAAC45CVgwvwh/UKmSeJuBWBX`
+Snapshot ID: `Zu2QnAAAAACiyfq7x1vT05hsswGdt4qG`

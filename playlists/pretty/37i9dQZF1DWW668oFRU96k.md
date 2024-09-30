@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dimitri Vegas x Like Mike x NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,404 likes - 83 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,405 likes - 83 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 82 | [Ethernal](https://open.spotify.com/track/67UOBhv3Ak7FUCHLZ4nSeg) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Desire](https://open.spotify.com/album/0kPrrEMt3ShdXXZxNBCvdy) | 4:24 |
 | 83 | [Teenage Crime](https://open.spotify.com/track/5fusHmFCPhaiGcEVigKGL4) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw), [Solina](https://open.spotify.com/artist/30aS844d1Z9H1wjYvoPr9q) | [Teenage Crime](https://open.spotify.com/album/3XKqy65bPnZ6Ic7FKuuaw7) | 2:13 |
 
-Snapshot ID: `ZvWFAAAAAACy8lJQisPKQSqTKaNerGda`
+Snapshot ID: `ZvWFAAAAAAB0cjdoKBvoVuAtouVndiRe`

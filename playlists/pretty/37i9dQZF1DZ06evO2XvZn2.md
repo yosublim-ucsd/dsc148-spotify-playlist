@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
+> This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,131 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,127 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 40 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 41 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 |
 
-Snapshot ID: `ZvX1gAAAAAAwdk1AfrNDtmXL318DCTXS`
+Snapshot ID: `ZvdHAAAAAABYQIpXGep7L4gpOBXlwU2Y`

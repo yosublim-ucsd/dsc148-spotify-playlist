@@ -2,7 +2,7 @@
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This Is City Girls\. Los temas esenciales, todos en una lista.
+> This is City Girls\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 80 songs - 3 hr 49 min
 

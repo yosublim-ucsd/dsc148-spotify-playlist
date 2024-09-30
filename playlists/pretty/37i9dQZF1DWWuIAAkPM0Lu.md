@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a> udlever sin Harley Quinn aka\. Lee 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,665 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,701 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

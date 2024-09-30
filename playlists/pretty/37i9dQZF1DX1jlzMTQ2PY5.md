@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,259 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,311 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 28 | [Try Again](https://open.spotify.com/track/0SJExjBtsh8tcKE1ZTYDyP) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [Try Again](https://open.spotify.com/album/3KjLZmbiLld9UQQB2twWJQ) | 4:58 |
 | 29 | [NOT FOR YOU](https://open.spotify.com/track/5B2xXCfmRlOlBA8YCcQzw9) | [SISICA](https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D) | [RECREATION](https://open.spotify.com/album/2tqqSO4VOIG6BN7xjSmemx) | 2:32 |
 | 30 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
-| 31 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 31 | [Where The Flowers Grow](https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Where The Flowers Grow](https://open.spotify.com/album/2mICl0woSF5tieybH5Theo) | 3:53 |
 | 32 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
-| 33 | [Where The Flowers Grow](https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Where The Flowers Grow](https://open.spotify.com/album/2mICl0woSF5tieybH5Theo) | 3:53 |
+| 33 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
 | 34 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
-| 35 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
-| 36 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 35 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 36 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
 | 37 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
 | 38 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
 | 39 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |

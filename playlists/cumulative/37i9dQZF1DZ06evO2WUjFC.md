@@ -2,7 +2,7 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This Is Danny Felix\. Los temas esenciales, todos en una lista.
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
 87 songs - 4 hr 52 min
 
@@ -34,7 +34,7 @@
 | [El 0\-10](https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El 0\-10](https://open.spotify.com/album/3InQJ7xM3XPE7BzMizPgW6) | 2:42 | 2024-01-29 |  |
 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 | 2024-02-14 | 2024-04-07 |
 | [EL ATASCADO](https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-27 |  |
-| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 | 2024-09-25 |
+| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 |  |
 | [EL GAVILÁN](https://open.spotify.com/track/3DEyKgtG8Z1enjpfGDuETH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GAVILÁN](https://open.spotify.com/album/6Seu8jXab2lGU2CJ2Jofuu) | 4:28 | 2024-07-08 | 2024-08-25 |
 | [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 |  |
 | [EL MAGO “EL MÁGICO”](https://open.spotify.com/track/7n1mrrgEcpSXpjULsOQZmO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:03 | 2024-01-29 | 2024-06-12 |
@@ -92,7 +92,7 @@
 | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7) | 3:18 | 2024-01-29 |  |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |
 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 | 2024-01-29 |  |
-| [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 | 2024-01-29 |  |
+| [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 | 2024-01-29 | 2024-09-30 |
 | [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 | 2024-01-29 | 2024-07-10 |
 | [¿Con Quién?](https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:54 | 2024-01-29 |  |
 

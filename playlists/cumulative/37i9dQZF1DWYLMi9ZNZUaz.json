@@ -1011,6 +1011,32 @@
     },
     {
       "album": {
+        "name": "Con R\u1ed1i C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/0kqLpa7omt2sRiBcEukQYt"
+      },
+      "artists": [
+        {
+          "name": "MIKY \u0110\u00d3NG TUNE",
+          "url": "https://open.spotify.com/artist/1tRP0noS09cFWZBux7RSW4"
+        },
+        {
+          "name": "DT T\u1eadp Rap",
+          "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
+        },
+        {
+          "name": "AEP SIMON",
+          "url": "https://open.spotify.com/artist/69b3wAh06ngvbRYCuz3BLG"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213498,
+      "name": "Con R\u1ed1i C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/2XZUmT7eshcGzB0w9FlcYs"
+    },
+    {
+      "album": {
         "name": "Cypher 2G2G",
         "url": "https://open.spotify.com/album/2Ts7YFVcnlksAYYsh1xQgt"
       },
@@ -1504,6 +1530,32 @@
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
+    },
+    {
+      "album": {
+        "name": "FASHION RAPPER",
+        "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
+      },
+      "artists": [
+        {
+          "name": "PRVCY Rockey",
+          "url": "https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB"
+        },
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "Adam, The Litder",
+          "url": "https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205656,
+      "name": "FASHION RAPPER",
+      "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
     },
     {
       "album": {
@@ -2066,7 +2118,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 228630,
       "name": "Khi M\u00e0",
       "url": "https://open.spotify.com/track/0Lf0ydJp4nbcEkYgPtIUuD"
@@ -2166,6 +2218,64 @@
       "duration_ms": 179254,
       "name": "Kh\u1eafc C\u1ed1t Ghi T\u00e2m",
       "url": "https://open.spotify.com/track/7CBBqjNG4lgQa1E8gTHYwS"
+    },
+    {
+      "album": {
+        "name": "KH\u1ec6NH",
+        "url": "https://open.spotify.com/album/4L3a0bt0BsU0eB0TA2wXj8"
+      },
+      "artists": [
+        {
+          "name": "Rapital",
+          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
+        },
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF"
+        },
+        {
+          "name": "RPT TC",
+          "url": "https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL"
+        },
+        {
+          "name": "RPT NASTEE",
+          "url": "https://open.spotify.com/artist/2UmNjakLrkm86OpLFV83Tl"
+        },
+        {
+          "name": "RPT ENTITI",
+          "url": "https://open.spotify.com/artist/6spj1oQB5NmpkuhD7vwUjB"
+        },
+        {
+          "name": "RPT Duke",
+          "url": "https://open.spotify.com/artist/70ul4x62GYiCglAJJltlnZ"
+        },
+        {
+          "name": "Rpt dillus",
+          "url": "https://open.spotify.com/artist/1jhdeCovregOnbIjGQ80Pr"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        },
+        {
+          "name": "Sony Tran",
+          "url": "https://open.spotify.com/artist/6w4Cn8sKMa6PYhT91LoTTy"
+        },
+        {
+          "name": "RPT Orijinn",
+          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401571,
+      "name": "KH\u1ec6NH",
+      "url": "https://open.spotify.com/track/3xNOqy2XkiEHnstMc8st2P"
     },
     {
       "album": {
@@ -2920,7 +3030,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 147475,
       "name": "ng\u01b0\u1eddi \u0111i\u00ean",
       "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
@@ -4696,7 +4806,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 187454,
       "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
       "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 1 hr 53 min
+41 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [To Rome](https://open.spotify.com/track/042S4XST0fErx11OThUPEo) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [To Rome](https://open.spotify.com/album/1EOo3qQCXs7Fsuek9NDxmP) | 2:43 | 2024-06-13 |  |
 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 | 2024-06-13 |  |
 | [Until I Die](https://open.spotify.com/track/6AApDhkIqCqsvQcHr52Bol) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Until I Die](https://open.spotify.com/album/0SRVVuGlXtvlWPnjxbOpSc) | 2:46 | 2024-06-13 |  |
-| [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-06-13 |  |
+| [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-06-13 | 2024-09-30 |
+| [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 | 2024-09-29 |  |
 | [Whenever](https://open.spotify.com/track/7fgA9z6o0nGjHc3Z51jZ98) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/0LDN5mUewZZhYmCGnBWHj5) | 2:35 | 2024-09-26 | 2024-09-28 |
 | [You Don't Have To Like It](https://open.spotify.com/track/1WU93pZQ3WBHNPZj4zHby8) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [You Don't Have To Like It](https://open.spotify.com/album/5szVCtzZfyhSL6HZl0LkMZ) | 2:57 | 2024-06-13 |  |
 | [You Got Me](https://open.spotify.com/track/4nVayQ2bTwoQTTUEse49Pq) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Vergeet De Tijd](https://open.spotify.com/album/0f2JlVi8G2XI4hnSdVSrhk) | 3:07 | 2024-06-13 |  |

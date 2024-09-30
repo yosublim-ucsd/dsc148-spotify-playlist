@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største dk rap lige nu 🌊🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,242 likes - 67 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,252 likes - 67 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -487,6 +487,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 190821,
+      "name": "View",
+      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 193321,
       "name": "200%",
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Odd - The 4th Album",
-        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 190821,
-      "name": "View",
-      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 201325,
       "name": "Give it to me",
       "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Lucifer - The 2nd Album",
-        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Electric Shock - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "KARA 3rd Album STEP",
         "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
@@ -851,6 +867,22 @@
       "duration_ms": 203586,
       "name": "STEP",
       "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "INSANE LOVE",
         "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 221371,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Hot Summer - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "\uae30\ub300\ud574",
+      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 196826,
-      "name": "\uae30\ub300\ud574",
-      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+      "duration_ms": 226274,
+      "name": "A Little Girl",
+      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1059,22 +1075,6 @@
       "duration_ms": 209801,
       "name": "History",
       "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
-      },
-      "artists": [
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 226274,
-      "name": "A Little Girl",
-      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Mini Album 'HI! PRISTIN'",
-        "url": "https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe"
-      },
-      "artists": [
-        {
-          "name": "PRISTIN",
-          "url": "https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D"
-        }
-      ],
-      "duration_ms": 192830,
-      "name": "WEE WOO",
-      "url": "https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "NU ABO",
         "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
+        "name": "The 1st Mini Album 'HI! PRISTIN'",
+        "url": "https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "PRISTIN",
+          "url": "https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D"
         }
       ],
-      "duration_ms": 242207,
-      "name": "Every End of the Day",
-      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
+      "duration_ms": 192830,
+      "name": "WEE WOO",
+      "url": "https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1331,6 +1315,22 @@
       "duration_ms": 250644,
       "name": "Severely",
       "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 242207,
+      "name": "Every End of the Day",
+      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "SOBER - KR Ver.",
-      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "JANUS (1)",
         "url": "https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP"
       },
@@ -1579,22 +1563,6 @@
       "duration_ms": 208248,
       "name": "JANUS",
       "url": "https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1615,18 +1583,50 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "KARA 4th Album [Full Bloom] (4)",
-        "url": "https://open.spotify.com/album/0W2QlrSKNnvpXZl3LgFNhv"
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
         }
       ],
-      "duration_ms": 186044,
-      "name": "Damaged Lady",
-      "url": "https://open.spotify.com/track/1X1Z8YnSOYkgzWBEYGoF2M"
+      "duration_ms": 204181,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "\uc5ec\uc790 \ub300\ud1b5\ub839",
+        "url": "https://open.spotify.com/album/6u4OXPhdT6eQa9jrNnhfPX"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "\uc5ec\uc790 \ub300\ud1b5\ub839",
+      "url": "https://open.spotify.com/track/0cFGAeKZriFUSwg1b0CIY7"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "SOBER - KR Ver.",
+      "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

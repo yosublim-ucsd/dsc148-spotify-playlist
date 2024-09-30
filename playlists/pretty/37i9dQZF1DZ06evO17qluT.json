@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 58428,
+  "num_followers": 58461,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADvVdbstDa+w3bxL+4GUzjM",
+  "snapshot_id": "ZvdHAAAAAACozR+XiAQk5MQiXxdDfFxh",
   "tracks": [
     {
       "added_at": null,
@@ -1223,30 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFIA",
-        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUNNING",
         "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 238247,
       "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
       "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFIA",
+        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
     },
     {
       "added_at": null,
@@ -1303,34 +1303,6 @@
       "duration_ms": 270062,
       "name": "ROMPEU O COURO.",
       "url": "https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "REAL NIGGA",
-      "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
     },
     {
       "added_at": null,
@@ -1375,6 +1347,34 @@
       "duration_ms": 398478,
       "name": "Poetas No Topo 1",
       "url": "https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "REAL NIGGA",
+      "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
     }
   ],
   "unique_name": "This Is BK",

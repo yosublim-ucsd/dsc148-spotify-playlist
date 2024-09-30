@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,742 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,815 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 18 | [All Around the World](https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Affection \(Deluxe\)](https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g) | 4:28 |
 | 19 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
 | 20 | [Clouds Across the Moon](https://open.spotify.com/track/1GT9jsKDk6osfnR5lWIUMD) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 4:45 |
-| 21 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
-| 22 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
+| 21 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
+| 22 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
 | 23 | [Home](https://open.spotify.com/track/0UTXxfjK3aLg6YYZ7l6mZI) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Thug World Order](https://open.spotify.com/album/49MVSncbwoqaflc3rKkOXw) | 5:18 |
 | 24 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 |
 | 25 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 38 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
 | 39 | [I'm Your Pusher](https://open.spotify.com/track/7dxAjXJvJ63V0bjQ13cCa9) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Colors](https://open.spotify.com/album/6axoq3JzasaOsl9FmLp0v9) | 5:35 |
 | 40 | [History \- Special Dance Mix](https://open.spotify.com/track/7wjpIve8KZjIfxF8crW5SF) | [Mai Tai](https://open.spotify.com/artist/0L0XA2oh77ZfPZiaBxw96D) | [History](https://open.spotify.com/album/6oPuo7PCqssFcUZkuGxoeq) | 7:18 |
-| 41 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
-| 42 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
+| 41 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
+| 42 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
 | 43 | [Chord Orbit](https://open.spotify.com/track/3vFj9rJXCjvfFUnXxNBRri) | [Gerd](https://open.spotify.com/artist/29IzCNDrWGPFXMmtCY3N83) | [Planet F.M.D.X\. Pt\. 2](https://open.spotify.com/album/7dRA65jkQ7svaLwYiDt2aw) | 5:41 |
 | 44 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
 | 45 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |
 | 46 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
 | 47 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
-| 48 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
-| 49 | [Throw Your Hands](https://open.spotify.com/track/4Fetk6GvNL2fYVo0UQbLcN) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 8:32 |
-| 50 | [\(Still\) Life Keeps Moving](https://open.spotify.com/track/7JchPuGyPUkiQzCT7OE6Q6) | [Nexus 21](https://open.spotify.com/artist/0TVk9mRwjSjGyvr667ZnGQ) | [The Rhythm Of Life](https://open.spotify.com/album/2iugUgRbxIQ5zrb4PLyYlE) | 4:54 |
+| 48 | [London Xpress \- Mix](https://open.spotify.com/track/3knSDfm5xye88oHYzN3Tck) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [London Xpress](https://open.spotify.com/album/1T2aYLIfRcbzgc7jrTYrkU) | 6:48 |
+| 49 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
+| 50 | [Throw Your Hands](https://open.spotify.com/track/4Fetk6GvNL2fYVo0UQbLcN) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 8:32 |
 
 Snapshot ID: `Zo5FlAAAAACBt/v/r2ft9VlIkPavPLHU`

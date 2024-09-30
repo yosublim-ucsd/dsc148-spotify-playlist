@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "OFA (Oxlade From Africa)",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "ASUNASA - HOLD YOUR WAIST",
+      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
+    },
+    {
+      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -1348,6 +1370,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/7rflzEdNH5uSR6GtcNlusz"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131530,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/2uYhLPiKQo6NMtisvDiDpG"
     },
     {
       "album": {
@@ -3159,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/48adyhddPaE5YihkleCu7I"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277894,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
+    },
+    {
+      "album": {
         "name": "HUH?",
         "url": "https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t"
       },
@@ -3322,6 +3380,24 @@
       "duration_ms": 166200,
       "name": "I Hate That I Care",
       "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+    },
+    {
+      "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/6X0cAmyh8VKZKgTK7P5jAy"
+      },
+      "artists": [
+        {
+          "name": "I Am Roze",
+          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/0PwKHU6kWQ2GC1m37nqL43"
     },
     {
       "album": {
@@ -5226,7 +5302,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
@@ -6333,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194928,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
+    },
+    {
+      "album": {
         "name": "Stop This Feeling",
         "url": "https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF"
       },
@@ -6774,6 +6868,24 @@
       "duration_ms": 167809,
       "name": "That's Not What My Friends Say",
       "url": "https://open.spotify.com/track/21qvsxlG1BCkUlsdzfxu05"
+    },
+    {
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "album": {

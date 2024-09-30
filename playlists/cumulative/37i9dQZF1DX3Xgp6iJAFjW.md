@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-178 songs - 12 hr 9 min
+179 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baracunatana](https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 4:46 | 2022-12-18 | 2024-04-19 |
 | [Bebo Hoy Bebo Mañana](https://open.spotify.com/track/5N8NdJ4K7GT7FCaH1gx1WC) | [Conjunto Quisquella](https://open.spotify.com/artist/0YhGsTSxJheGpoWWHq8Jeb) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:54 | 2022-11-25 | 2022-12-19 |
 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 | 2023-12-19 |  |
+| [Bomba De Navidad](https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:20 | 2023-12-19 |  |
 | [Bomba en Navidad](https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 5:06 | 2023-11-17 |  |
 | [Bomba en Navidad](https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Felices Pascuas](https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6) | 5:06 | 2022-11-25 | 2023-11-18 |
 | [Cantares de Navidad](https://open.spotify.com/track/2Jrp6IZC9nuxFKICHs6ioH) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:04 | 2022-11-25 | 2022-12-19 |
@@ -70,7 +71,7 @@
 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 | 2022-11-25 | 2023-11-18 |
 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 | 2022-12-18 |  |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Cantares de Navidad](https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF) | 4:59 | 2022-11-25 | 2022-12-19 |
-| [El envío navideño](https://open.spotify.com/track/5MDow7yE7yj5dA1wN48uU6) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Merengue On](https://open.spotify.com/album/63aZn7WBMRf51fq1OW9jtF) | 4:19 | 2023-12-19 |  |
+| [El envío navideño](https://open.spotify.com/track/5MDow7yE7yj5dA1wN48uU6) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Merengue On](https://open.spotify.com/album/63aZn7WBMRf51fq1OW9jtF) | 4:19 | 2023-12-19 | 2024-09-30 |
 | [El Guayabo de la Ye](https://open.spotify.com/track/0rDw3cIlcXAzfs3rSttbp4) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Una Historia una Leyenda](https://open.spotify.com/album/0LRokwF90cBI9I16p5uldZ) | 3:39 | 2022-11-25 | 2023-08-17 |
 | [El Guayabo de la Ye](https://open.spotify.com/track/4ZZYF38rwSmsFR61G07953) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Inocente](https://open.spotify.com/album/7LPDVaGHgqr876Av8TUyyD) | 3:36 | 2023-08-16 | 2024-04-19 |
 | [El Hijo Ausente](https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [16 Exitos, Vol\. 1](https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1) | 2:53 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 16 min
+56 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [La Muerte Del Cardenal](https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 4:12 | 2022-07-10 | 2024-09-28 |
 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 | 2022-06-01 |  |
 | [Los Primos](https://open.spotify.com/track/66W3b4kPwrwpgVT0RQnzgQ) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 3:25 | 2022-07-10 | 2024-09-29 |
+| [Los Primos](https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:25 | 2024-09-30 |  |
 | [Los Principios \- En Vivo](https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:03 | 2024-09-28 |  |
 | [Los Principios \- En Vivo](https://open.spotify.com/track/4zkVf0U3iKwA9KzPgkWJvg) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \- En Vivo](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:03 | 2022-06-01 | 2024-09-28 |
 | [Mi Mas Grande Anhelo \- En Vivo](https://open.spotify.com/track/2d1L4Y2w64kvM9SijhNShW) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 4:07 | 2024-09-29 |  |

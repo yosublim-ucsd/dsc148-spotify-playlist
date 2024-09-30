@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 219974,
       "name": "Chand",
       "url": "https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS"
@@ -2162,6 +2162,36 @@
       "duration_ms": 202220,
       "name": "Ghulaam",
       "url": "https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg"
+    },
+    {
+      "album": {
+        "name": "Ghum",
+        "url": "https://open.spotify.com/album/16nwvylfu4PFM6jvckEMjD"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        },
+        {
+          "name": "Aaghaz",
+          "url": "https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192048,
+      "name": "Ghum",
+      "url": "https://open.spotify.com/track/4KJUTpVHxRNGEf8UxSdnTz"
     },
     {
       "album": {
@@ -3998,7 +4028,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 182297,
       "name": "Khwabeeda",
       "url": "https://open.spotify.com/track/2DXu3ElQkuOW2dNsfgHiHX"
@@ -5265,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "nadaaniyan (with Jonita Gandhi)",
+        "url": "https://open.spotify.com/album/7CzvCp9WP896ZTH2JZpbLD"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "nadaaniyan (with Jonita Gandhi)",
+      "url": "https://open.spotify.com/track/3bCtOEC3jLaxwpfQMb5f68"
+    },
+    {
+      "album": {
         "name": "Nai Lagda",
         "url": "https://open.spotify.com/album/6g39saDUux7Pe1wZLdcoR1"
       },
@@ -5384,7 +5436,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 283088,
       "name": "O Saajna",
       "url": "https://open.spotify.com/track/5mbunFqwSF7Zo77lbJlLku"
@@ -6006,7 +6058,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 217058,
       "name": "Raaz Ban Chalun",
       "url": "https://open.spotify.com/track/2W4HPVMuouumyVBWqfI2FX"
@@ -7597,6 +7649,28 @@
     },
     {
       "album": {
+        "name": "Surmai Aasmaan",
+        "url": "https://open.spotify.com/album/0f5uTVVpTRV3Ll4OXxaWPK"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Shaad Safwi",
+          "url": "https://open.spotify.com/artist/4rkKKxGZDj5Vy9ChzXV0qf"
+        },
+        {
+          "name": "Schumaila Rehmat Hussain",
+          "url": "https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308365,
+      "name": "Tum Aur Main",
+      "url": "https://open.spotify.com/track/6gpNOSTliKqZdmBKG5wtOq"
+    },
+    {
+      "album": {
         "name": "Tum Aur Main",
         "url": "https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU"
       },
@@ -7612,6 +7686,28 @@
       "duration_ms": 163383,
       "name": "Tum Aur Main",
       "url": "https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB"
+    },
+    {
+      "album": {
+        "name": "Tum Hi Ho Zindagi",
+        "url": "https://open.spotify.com/album/3pU6Zmnvcn2GSiLKcn4E0B"
+      },
+      "artists": [
+        {
+          "name": "Dr Prashant Shah",
+          "url": "https://open.spotify.com/artist/0S5pmNjdaDdybWL6TSZTpj"
+        },
+        {
+          "name": "Mithun Kumar",
+          "url": "https://open.spotify.com/artist/7D7J1kkyEyVW7n05cd7hof"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105999,
+      "name": "Tum Hi Ho Zindagi",
+      "url": "https://open.spotify.com/track/63fb4uUccR5njgRs53yhI0"
     },
     {
       "album": {

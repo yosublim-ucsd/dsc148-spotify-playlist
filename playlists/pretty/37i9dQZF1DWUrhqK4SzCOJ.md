@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 
 > Kung Hei Fat Choi! Hit play and get the authentic Chinese New Year atmosphere right away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,565 likes - 145 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 145 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

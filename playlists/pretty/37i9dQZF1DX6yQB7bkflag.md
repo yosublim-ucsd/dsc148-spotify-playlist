@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,181 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,182 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 22 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 | 23 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
 | 24 | [January Eyes](https://open.spotify.com/track/5JF8J7YAYj8G6nasF0tZcI) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Hey There Elijah](https://open.spotify.com/album/5WGHlb3tEgQ7qagXPTALYe) | 2:29 |
-| 25 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
+| 25 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 26 | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/track/5PCJejKeoiBxJYqsU01Y4H) | [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c), [Orang Malaya](https://open.spotify.com/artist/0EluFJFfb096k5EAfLF14y), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/album/1Vaz8J7uagLCjEuqPBozV8) | 3:59 |
 | 27 | [Adiwira](https://open.spotify.com/track/77Rclu7W7JH0sUdaaFNfN7) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Adiwira](https://open.spotify.com/album/7wi8NeAyOByese2502QHTO) | 3:13 |
 | 28 | [Lost Satellite](https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ) | [Hanif Andarevi](https://open.spotify.com/artist/46jG6QBzEDi15k17UjJCQS) | [RECEIVER](https://open.spotify.com/album/3kxtHT2VcwsHiSbISsEahV) | 4:21 |

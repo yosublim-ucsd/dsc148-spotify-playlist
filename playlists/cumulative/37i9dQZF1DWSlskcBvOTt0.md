@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-753 songs - 2 day 19 hr 52 min
+754 songs - 2 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-13 |  |
 | [Mirage](https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Mirage](https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU) | 4:39 | 2024-09-13 |  |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-07 | 2023-09-30 |
+| [Mogolu \- Major Lazer Remix](https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Mogolu \- Major Lazer Remix](https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK) | 4:43 | 2024-09-27 |  |
 | [MONTE](https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [MONTE](https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt) | 5:21 | 2023-09-01 | 2024-08-10 |
 | [Moogami](https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Moogami EP](https://open.spotify.com/album/7dFiAtaxK2FejRLMb9pAfW) | 9:01 | 2021-04-21 | 2022-07-16 |
 | [More & More \- No Vox Mix](https://open.spotify.com/track/0BV51sEynTVwGWq4PPQThN) | [Groovefella](https://open.spotify.com/artist/45ysl7gfRvC0FUIbmbXw9G) | [More & More](https://open.spotify.com/album/0mvLf6QrDCW3T4rkCNsyZ1) | 7:17 | 2021-04-21 | 2022-07-11 |
@@ -662,7 +663,7 @@
 | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep) | 3:30 | 2023-07-28 | 2024-09-28 |
 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 | 2024-03-08 |  |
 | [The High](https://open.spotify.com/track/4EG4CocKZV7FAs71MTiUUv) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The High](https://open.spotify.com/album/3F4A5UXMww9UFt9lf1YAvm) | 6:12 | 2022-06-03 | 2022-07-28 |
-| [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 | 2024-04-12 |  |
+| [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 | 2024-04-12 | 2024-09-30 |
 | [The Mad Eyed Arper \- Orignal Mix](https://open.spotify.com/track/6sQ3ZxNGKRwwjclHLlAvLb) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Arpiano](https://open.spotify.com/album/6kx0Dh1xPYWgSqOk7LSXnf) | 7:01 | 2021-04-21 | 2022-04-21 |
 | [The Night Is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 | 2023-07-21 | 2023-11-23 |
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2022-12-02 | 2024-03-13 |

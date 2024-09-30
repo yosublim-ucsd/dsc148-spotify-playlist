@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 12 hr 8 min
+190 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [No Big Deal](https://open.spotify.com/track/4vMNMYn2Bz0nqtZxccAORL) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:34 | 2021-12-27 |  |
 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 | 2021-12-27 |  |
 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 | 2021-12-27 |  |
+| [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 | 2024-09-29 |  |
 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 | 2021-12-27 |  |
 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 | 2021-12-27 |  |
 | [One More Sleep](https://open.spotify.com/track/2jqXzaPkPbdiXFCZIQ2RDf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [One More Sleep \(Official Video\)](https://open.spotify.com/album/4aAbT8kUrf1fYRUPC4U8PN) | 2:47 | 2023-12-13 | 2024-01-30 |

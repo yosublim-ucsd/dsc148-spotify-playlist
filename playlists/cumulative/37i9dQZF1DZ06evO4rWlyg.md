@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4rWlyg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4rWlyg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4rWlyg)
 
-### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
+### [This Is ビョーク](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is Björk\. The essential tracks, all in one playlist.
+> This is ビョーク。アーティストの代表曲をひとつのプレイリストに。
 
 141 songs - 10 hr 6 min
 
@@ -50,8 +50,8 @@
 | [Enjoy](https://open.spotify.com/track/6JQVN9gi04NCK1tiz0aQA1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2024-03-07 | 2024-04-03 |
 | [Enjoy](https://open.spotify.com/track/28GJnnbJ7fOKi2YBqlxWb9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:57 | 2023-11-10 | 2024-03-08 |
 | [Enjoy](https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:57 | 2024-04-02 |  |
-| [Fagurt Er í Fjörðum](https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 0:44 | 2024-03-05 | 2024-03-18 |
-| [Fagurt Er Í Fjörðum](https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 0:44 | 2024-03-17 |  |
+| [Fagurt Er í Fjörðum](https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 0:44 | 2024-03-05 |  |
+| [Fagurt Er Í Fjörðum](https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 0:44 | 2024-03-17 | 2024-09-30 |
 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/7sxmybK8Eo24k9uOWttqWS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 0:44 | 2023-11-10 | 2024-01-28 |
 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 | 2024-01-29 |  |
 | [Fossora](https://open.spotify.com/track/6JjISShxjXOGx8C40pBtQJ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 4:19 | 2023-11-10 | 2024-01-30 |

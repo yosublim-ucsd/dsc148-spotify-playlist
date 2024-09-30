@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205505,
+      "name": "Los Primos",
+      "url": "https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d"
+    },
+    {
+      "album": {
         "name": "Recuerdos Para Pistear - En Vivo",
         "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },

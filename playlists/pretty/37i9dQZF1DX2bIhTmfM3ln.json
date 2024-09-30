@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 38760,
+  "num_followers": 38775,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 168779,
       "name": "Double",
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -479,22 +499,6 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ"
       },
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "INTOXYCATED",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -551,22 +551,22 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+        "name": "INTOXYCATED",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+      "duration_ms": 212000,
+      "name": "INTOXYCATED",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -763,26 +747,6 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -799,6 +763,42 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
         "name": "LOVE OR LAMBA",
         "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 172893,
       "name": "Gangsta Love Letter",
       "url": "https://open.spotify.com/track/2Q41UXE6Q7hyR4asg7rYwh"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
         "name": "BOOK OF VASA",
         "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "Will I?",
-        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+        "name": "Son of Chike",
+        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 164081,
-      "name": "Will I?",
-      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+      "duration_ms": 152315,
+      "name": "Mma (Beauty)",
+      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "Son of Chike",
-        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 152315,
-      "name": "Mma (Beauty)",
-      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 156448,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -1367,22 +1383,6 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
-        "name": "Bus Stop",
-        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 182361,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
     },
     {
       "added_at": "2024-09-27 10:55:21",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-09-27 10:55:21",
       "album": {
-        "name": "OVAMI",
-        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "OVAMI",
-      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
-    },
-    {
-      "added_at": "2024-09-27 10:55:21",
-      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 164800,
       "name": "Ole",
       "url": "https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P"
+    },
+    {
+      "added_at": "2024-09-27 10:55:21",
+      "album": {
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     }
   ],
   "unique_name": "Lovin' Beats",

@@ -4723,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "ASCO.",
+        "url": "https://open.spotify.com/album/0ADANL8ewDoFK2YAN6T604"
+      },
+      "artists": [
+        {
+          "name": "Kairos 8ight",
+          "url": "https://open.spotify.com/artist/2rLx6YpFPf9wezm1vN7nQq"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225529,
+      "name": "ASCO.",
+      "url": "https://open.spotify.com/track/10kuPao3IycpymSxle1PSP"
+    },
+    {
+      "album": {
         "name": "GODDESS the EP",
         "url": "https://open.spotify.com/album/6r3U5CbZ0n6IdVQ5WTNm8g"
       },
@@ -6840,6 +6858,24 @@
       "duration_ms": 125520,
       "name": "Bella Hadid (Come to Madrid)",
       "url": "https://open.spotify.com/track/721Eo2ZnPI4psc1gTM2Zec"
+    },
+    {
+      "album": {
+        "name": "Bello",
+        "url": "https://open.spotify.com/album/2S6MrTU4GLgQO1TwnfuBIn"
+      },
+      "artists": [
+        {
+          "name": "Tiancho",
+          "url": "https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185330,
+      "name": "Bello",
+      "url": "https://open.spotify.com/track/1AfApkGhtPW2rMeiEf2uee"
     },
     {
       "album": {
@@ -19034,7 +19070,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 142989,
       "name": "D\u00f3nde Est\u00e1s?",
       "url": "https://open.spotify.com/track/4XnOUP9FmtTXmIyiFMDlyP"
@@ -20492,6 +20528,24 @@
       "duration_ms": 272040,
       "name": "Everything (... Is Never Quite Enough)",
       "url": "https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/00qVy2r1bSpxaQyCBQuHbf"
+      },
+      "artists": [
+        {
+          "name": "Alejandra O'Leary",
+          "url": "https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220641,
+      "name": "Everything and Anything",
+      "url": "https://open.spotify.com/track/6NF37GshCNOl3xorfCrp79"
     },
     {
       "album": {
@@ -45335,6 +45389,24 @@
     },
     {
       "album": {
+        "name": "Natura",
+        "url": "https://open.spotify.com/album/28nLTk6WjHAN6eLBAkj4Ec"
+      },
+      "artists": [
+        {
+          "name": "Tiancho",
+          "url": "https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133419,
+      "name": "Natura",
+      "url": "https://open.spotify.com/track/6l8Izf9TLqwcpmA2HLOwsq"
+    },
+    {
+      "album": {
         "name": "Party King",
         "url": "https://open.spotify.com/album/2OuLdErybwLlZImvi8k911"
       },
@@ -55435,6 +55507,24 @@
     },
     {
       "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/3VS81WgvgXM99ySFNtJgZY"
+      },
+      "artists": [
+        {
+          "name": "The Artist Ren",
+          "url": "https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205024,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/5kqMI0NlneZOjeN3RluxGK"
+    },
+    {
+      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/5kk395EVWSwONgyztm4rzo"
       },
@@ -62826,7 +62916,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 150000,
       "name": "Su\u00e9ltate",
       "url": "https://open.spotify.com/track/7uolRIeUqiQDK8nFNHqR4y"

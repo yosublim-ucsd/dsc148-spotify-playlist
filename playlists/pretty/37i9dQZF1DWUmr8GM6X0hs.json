@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 88649,
+  "num_followers": 88700,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
+      },
+      "artists": [
+        {
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 178493,
       "name": "Aunque Me Cueste la Vida",
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Inolvidable (Boleros)",
-        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
-      },
-      "artists": [
-        {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ma\u00f1anas de Carnaval",
-      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+        "name": "Con Alma de Bolero",
+        "url": "https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI"
       },
       "artists": [
         {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+          "name": "Cecilia Bracamonte",
+          "url": "https://open.spotify.com/artist/2mjCLOUytfzQD0ymy3024f"
         }
       ],
-      "duration_ms": 113652,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd"
+      "duration_ms": 220146,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE"
     }
   ],
   "unique_name": "Boleros en Casa",

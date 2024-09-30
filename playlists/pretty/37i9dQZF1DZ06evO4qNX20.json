@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 310395,
+  "num_followers": 310485,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADjzJ0coWvRnELhf9lLXrvV",
+  "snapshot_id": "ZvdHAAAAAAA7pMvWHW+jNYRuZ2spw9aL",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+        "name": "Nieves de Enero",
+        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 199045,
-      "name": "Corazoncito Tirano",
-      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+      "duration_ms": 213089,
+      "name": "Nocturno A Rosario",
+      "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nieves de Enero",
-        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 213089,
-      "name": "Nocturno A Rosario",
-      "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
+      "duration_ms": 199045,
+      "name": "Corazoncito Tirano",
+      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: SASAMI
 
-1,966 songs - 4 day 7 hr 53 min
+1,967 songs - 4 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-05-03 | 2022-04-20 |
 | [best u ever had <3](https://open.spotify.com/track/4hRZhP4YuDU44uv6SLodJ6) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [best u ever had <3](https://open.spotify.com/album/54OU5EKjpz9XjbnnzqJOg5) | 2:57 | 2021-07-19 | 2022-04-15 |
 | [bestfriends girl](https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [bestfriends girl](https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE) | 2:31 | 2023-06-09 | 2023-06-24 |
+| [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-09-13 |  |
 | [Besties Only](https://open.spotify.com/track/6ZIYgVQeQthFwBi3IcBdLE) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Besties Only](https://open.spotify.com/album/0BWZzqXrUcUD9yNcG6w5tD) | 3:34 | 2024-02-09 | 2024-02-28 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-03 | 2021-10-11 |
 | [Better](https://open.spotify.com/track/1tQrrq5hXEfS22tricqxlD) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Better](https://open.spotify.com/album/48VFHdF37YoHLh0p4hiovu) | 4:42 | 2020-11-13 | 2021-05-28 |
@@ -1877,7 +1878,7 @@
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-08 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-06-16 | 2023-09-30 |
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-11-03 | 2022-04-16 |
-| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-21 |  |
+| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-21 | 2024-09-30 |
 | [We’re So In Tune](https://open.spotify.com/track/7wjusjmjeqGJmuoGFYnMeM) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Mood Ring](https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5) | 4:00 | 2021-10-11 | 2021-10-16 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2023-06-17 |
 | [What If I Love You](https://open.spotify.com/track/26kVXR9aQXzDiKggPGnUQR) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/7cf0JlwRmn6rEcKlxhj4za) | 2:38 | 2021-05-04 | 2022-04-11 |

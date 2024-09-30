@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/79gWc6dZ1dXH7rC67DTunz"
+    },
+    {
+      "album": {
         "name": "Ban the disco (Crackazat Remix)",
         "url": "https://open.spotify.com/album/78VqZmY1I8nrv2fBh7gBQI"
       },
@@ -1522,6 +1544,28 @@
       "duration_ms": 184320,
       "name": "Freak Ya Tail",
       "url": "https://open.spotify.com/track/3yEbhEldwdL0jfrqm64x5E"
+    },
+    {
+      "album": {
+        "name": "Freaky Feed Me (feat. Leven Kali) / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215192,
+      "name": "Freaky Feed Me (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
       "album": {
@@ -5328,6 +5372,24 @@
       "duration_ms": 228750,
       "name": "Where Ya At",
       "url": "https://open.spotify.com/track/1iqIsrWTMiRNMNCD1tvxwT"
+    },
+    {
+      "album": {
+        "name": "WHERE'S MY VAPE?",
+        "url": "https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279428,
+      "name": "WHERE'S MY VAPE?",
+      "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"
     },
     {
       "album": {

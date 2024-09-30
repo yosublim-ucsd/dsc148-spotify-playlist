@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-980 songs - 2 day 10 hr 7 min
+981 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 | 2023-08-24 |
 | [好心情](https://open.spotify.com/track/6EgON1H8N1DtJQSPYD2nVA) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Sunny Day 好心情](https://open.spotify.com/album/1l27426A8E0QFaZu670vNo) | 4:54 | 2023-07-07 | 2023-07-09 |
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-11-09 | 2024-09-29 |
+| [如果爱忘了 \- Live](https://open.spotify.com/track/4JBZuPALOvU2PC8E7t02vY) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [如果爱忘了 \(Live\)](https://open.spotify.com/album/2mpNdZ0Qcyvda6vwYDGIau) | 4:05 | 2024-09-29 |  |
 | [如果爱忘了 \- Live](https://open.spotify.com/track/5klrVTKUgkEf7UWr4my5Mr) | [汪苏泷](https://open.spotify.com/artist/6gjMR7Zdys0AHlJAWH2dfv), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [如果爱忘了 \(Live\)](https://open.spotify.com/album/7zhaXi6KWaRfaxfSazFiNd) | 4:05 | 2024-06-19 | 2024-07-14 |
 | [如果爱忘了 Live \- Live](https://open.spotify.com/track/1eYWAccbk9N3aQbl3Of2HC) | [汪苏泷 单依纯](https://open.spotify.com/artist/1lxxeTmZABdR9eyE4xUtU5) | [如果爱忘了 Live](https://open.spotify.com/album/5jA85i8LzXfPGDLjTD4g09) | 4:05 | 2024-05-08 | 2024-05-10 |
 | [如果能幸福 \- HBO Asia原創影集《戒指流浪記》片尾曲](https://open.spotify.com/track/0TVrlU8El0K6U1pC2LOt09) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果能幸福 \(HBO Asia原創影集《戒指流浪記》片尾曲\)](https://open.spotify.com/album/72fDUWj0QsUgA9EoGv2Yoq) | 4:19 | 2021-03-27\* | 2021-08-17 |
@@ -814,7 +815,7 @@
 | [我的菜](https://open.spotify.com/track/4MEppzv2w453mxG5ot8und) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [影子計劃 Shadow Project](https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 4:00 | 2021-07-01 | 2021-07-15 |
 | [我這個人](https://open.spotify.com/track/7DlndpsN2MZYcMOjXYQ7rJ) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:49 | 2021-11-30 | 2022-01-08 |
 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2021-03-27\* | 2021-04-02 |
-| [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/album/5mb99zTzuEmUFdUcslQbQS) | 3:20 | 2024-08-15 |  |
+| [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/album/5mb99zTzuEmUFdUcslQbQS) | 3:20 | 2024-08-15 | 2024-09-30 |
 | [才二十三](https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [才二十三](https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh) | 3:44 | 2024-08-24 | 2024-08-26 |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2021-03-27\* | 2024-04-21 |
 | [抱一抱一下](https://open.spotify.com/track/6SGR2LQdKn1mqbwVNR8kz7) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [柯佳嬿](https://open.spotify.com/artist/0L61ClriEEw74NE3HCTkAS) | [抱一抱一下](https://open.spotify.com/album/0f4nwlvnd30tiDBXPj7r3U) | 3:31 | 2021-11-25 | 2021-12-10 |

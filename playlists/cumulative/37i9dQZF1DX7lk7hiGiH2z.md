@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-386 songs - 18 hr 3 min
+387 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,12 +80,13 @@
 | [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 | 2023-06-28 | 2024-09-10 |
 | [Die Biene Maja](https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 2:38 | 2024-04-02 |  |
 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 | 2023-08-31 | 2024-04-19 |
-| [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 |  |
+| [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 | 2024-09-30 |
 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 | 2023-06-28 |  |
 | [Die Karawane zieht weiter](https://open.spotify.com/track/0l9edyzp7U2zFdvIHT0dEa) | [Karneval!](https://open.spotify.com/artist/4jPCWOIjl0rhs8XWhlq1pt) | [Karneval Megaparty 2011](https://open.spotify.com/album/0NMiaHTe8FYgxnge7H8F0n) | 3:17 | 2024-02-06 | 2024-02-16 |
 | [Die krassesten Schlitten](https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Das Weihnachtsalbum](https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4) | 2:59 | 2023-11-14 | 2024-03-02 |
 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 | 2023-11-07 | 2023-11-16 |
 | [Die Laternenzeit](https://open.spotify.com/track/0spx207TZmxa4EdKToZNL2) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Herbst Kinderdisco mit Volker Rosin](https://open.spotify.com/album/0ZjXoJ2VR9hQxTflKvPxvI) | 3:23 | 2023-11-05 | 2023-11-16 |
+| [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 | 2024-09-27 |  |
 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 | 2023-11-22 | 2024-03-02 |
 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 | 2023-11-14 | 2023-12-30 |
 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 | 2023-08-31 |  |

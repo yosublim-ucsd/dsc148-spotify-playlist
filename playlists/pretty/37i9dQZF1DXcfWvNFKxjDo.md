@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Pascal Letoublon, RANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,040 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,069 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [U Cannot Hide](https://open.spotify.com/track/3qmfs32mlgS0chtqgJ6Y7Z) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Francesco Bianco](https://open.spotify.com/artist/7dt83r6nSbqoJCZ2GM4k9E) | [U Cannot Hide](https://open.spotify.com/album/03e34LWC62TLTT889vmZ09) | 2:42 |
 | 75 | [schön wenn man sich vermisst](https://open.spotify.com/track/6C1GAZxgzoNjwpH4EV4xog) | [Ben Factor](https://open.spotify.com/artist/16Z37kyA2PJ85ppgwBAHtC), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [schön wenn man sich vermisst](https://open.spotify.com/album/1TdO65xMT8X0vRTKOy8bz3) | 3:05 |
 
-Snapshot ID: `ZvZzFwAAAACElLeXAVo8oCtYb3Gbcmgk`
+Snapshot ID: `ZvZzFwAAAAB4aCSrt+DLcYWIhAGZPI2x`

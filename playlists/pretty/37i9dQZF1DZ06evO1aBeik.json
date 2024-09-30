@@ -1,12 +1,12 @@
 {
-  "description": "This Is Post Malone. Los temas esenciales, todos en una lista.",
-  "num_followers": 2725336,
+  "description": "This is Post Malone. The essential tracks, all in one playlist.",
+  "num_followers": 2725556,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAABqaXwDyrlIkajSGP3YA1eK",
+  "snapshot_id": "ZvdHAAAAAAB8wtR8/B66LL4Kgcdkc27K",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 185608,
-      "name": "Killed A Man",
-      "url": "https://open.spotify.com/track/3G8syjk315Wb6f3mG3rgC1"
+      "duration_ms": 169864,
+      "name": "Who Needs You",
+      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 169864,
-      "name": "Who Needs You",
-      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
+      "duration_ms": 185608,
+      "name": "Killed A Man",
+      "url": "https://open.spotify.com/track/3G8syjk315Wb6f3mG3rgC1"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
     },
     {
       "added_at": null,

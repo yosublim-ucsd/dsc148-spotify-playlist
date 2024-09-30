@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "TRANSFORMER",
+        "url": "https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231982,
+      "name": "TRANSFORMER",
+      "url": "https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL"
+    },
+    {
+      "album": {
         "name": "TRAP U",
         "url": "https://open.spotify.com/album/4I17f75qSQFip4K3R8s9dg"
       },
@@ -7254,7 +7272,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 257349,
       "name": "\u0e27\u0e31\u0e19\u0e40\u0e01\u0e34\u0e14\u0e40\u0e18\u0e2d (TO YOU)",
       "url": "https://open.spotify.com/track/4lRNBvxCNxib1awUUyc8Cn"

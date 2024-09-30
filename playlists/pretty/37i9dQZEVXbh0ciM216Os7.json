@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAyrpfiLjDo/c531ewYNA5K",
+  "snapshot_id": "AAAAAAAAAADfkVSMzf3gTkMsskQBkfsw",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -119,6 +119,54 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Marathon Racing",
+        "url": "https://open.spotify.com/album/7yQW3zLypi8fMyzB6hocOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Squires",
+          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "Marathon Racing",
+      "url": "https://open.spotify.com/track/31vW5iPfBge4raNU2Uy2xQ"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Be A Lion",
+        "url": "https://open.spotify.com/album/5E5PfAqOue4iVpJFZGoKhp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Exile",
+          "url": "https://open.spotify.com/artist/4t2mLJtuEDw5ho4IDSX406"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "duration_ms": 205897,
+      "name": "Be A Lion",
+      "url": "https://open.spotify.com/track/66Us7kb5sPqWNixTYcIRDS"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Staccs vs Starks (feat. Ghostface Killah)",
         "url": "https://open.spotify.com/album/2rLNrZU0DTSj66MoyFPbUU"
       },
@@ -135,54 +183,6 @@
       "duration_ms": 181295,
       "name": "Staccs vs Starks (feat. Ghostface Killah)",
       "url": "https://open.spotify.com/track/5s06VoSp0h0Q0azM5LEiyh"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Lion in The ZOO",
-        "url": "https://open.spotify.com/album/1aRYNEwNqq9CX5OMJzafAC"
-      },
-      "artists": [
-        {
-          "name": "J-Toon",
-          "url": "https://open.spotify.com/artist/7iz2MwYC2pb4OYG3ZbyZNR"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Lion in The ZOO",
-      "url": "https://open.spotify.com/track/2JFblRwJkn1BsJsi4D7Eaw"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Bumblebee Tuna (with Andy Frasco)",
-        "url": "https://open.spotify.com/album/0xOXAk7QKVFqKq2LneMIFb"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Andy Frasco & The U.N.",
-          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
-        }
-      ],
-      "duration_ms": 101626,
-      "name": "Bumblebee Tuna (with Andy Frasco)",
-      "url": "https://open.spotify.com/track/3AHz579I1l0csbP89u5B70"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -235,6 +235,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Bumblebee Tuna (with Andy Frasco)",
+        "url": "https://open.spotify.com/album/0xOXAk7QKVFqKq2LneMIFb"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Andy Frasco & The U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "duration_ms": 101626,
+      "name": "Bumblebee Tuna (with Andy Frasco)",
+      "url": "https://open.spotify.com/track/3AHz579I1l0csbP89u5B70"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Guardians Of Time",
         "url": "https://open.spotify.com/album/0huLazla7SzUmZcLdKiiwt"
       },
@@ -275,26 +295,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Marathon Racing",
-        "url": "https://open.spotify.com/album/7yQW3zLypi8fMyzB6hocOO"
+        "name": "Digital Temple",
+        "url": "https://open.spotify.com/album/54uLeloBjpZT1tFZbDV8CF"
       },
       "artists": [
         {
-          "name": "Mike Squires",
-          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
+          "name": "Warnutz the Loser",
+          "url": "https://open.spotify.com/artist/333enrsTNFhcULlvvsZRf7"
         },
         {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         }
       ],
-      "duration_ms": 184390,
-      "name": "Marathon Racing",
-      "url": "https://open.spotify.com/track/31vW5iPfBge4raNU2Uy2xQ"
+      "duration_ms": 82477,
+      "name": "Wu-Tang Freestyle",
+      "url": "https://open.spotify.com/track/1NGeXjNvisyYjPap6NJgb7"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -495,6 +511,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Still Too Deep",
         "url": "https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr"
       },
@@ -515,22 +547,6 @@
       "duration_ms": 201900,
       "name": "I Try (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/3DhxAnsGkBgc7UxC4IZRyi"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 586291,
-      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 130391,
       "name": "8 Days",
       "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 586291,
+      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
     },
     {
       "added_at": "2024-09-27 04:00:00",

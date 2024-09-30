@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: d4vd",
-  "num_followers": 34087,
+  "num_followers": 34093,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuHrjgAAAACRHps2ewJExdAgUVHh29jt",
+  "snapshot_id": "ZvlStgAAAABhF8UuvcgbAqscHcbLg2wM",
   "tracks": [
     {
       "added_at": "2024-09-11 19:12:14",
@@ -23,6 +23,42 @@
       "duration_ms": 210666,
       "name": "There Goes My Baby",
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "OFA (Oxlade From Africa)",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "ASUNASA - HOLD YOUR WAIST",
+      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
     },
     {
       "added_at": "2024-09-11 19:12:14",
@@ -59,6 +95,22 @@
       "duration_ms": 225880,
       "name": "I'm Not People",
       "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
+    },
+    {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
     },
     {
       "added_at": "2024-09-11 19:12:14",
@@ -145,6 +197,22 @@
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "Houston",
+        "url": "https://open.spotify.com/album/48adyhddPaE5YihkleCu7I"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
+    },
+    {
       "added_at": "2024-09-11 19:12:14",
       "album": {
         "name": "Quantum Baby",
@@ -159,6 +227,22 @@
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/6X0cAmyh8VKZKgTK7P5jAy"
+      },
+      "artists": [
+        {
+          "name": "I Am Roze",
+          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/0PwKHU6kWQ2GC1m37nqL43"
     },
     {
       "added_at": "2024-09-11 19:12:14",
@@ -207,6 +291,22 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2024-09-29 13:14:30",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/7rflzEdNH5uSR6GtcNlusz"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 131530,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/2uYhLPiKQo6NMtisvDiDpG"
     },
     {
       "added_at": "2024-09-11 19:12:14",
@@ -531,22 +631,6 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2024-09-11 19:12:14",
-      "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2024-09-11 19:12:14",

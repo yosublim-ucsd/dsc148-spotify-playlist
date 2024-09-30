@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Nadja Evelina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,930 likes - 108 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,946 likes - 108 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

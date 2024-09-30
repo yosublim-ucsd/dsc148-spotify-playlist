@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from SOPHIE \(pictured\), Lady Gaga,  Nines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,911 likes - 118 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,954 likes - 118 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 117 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 |
 | 118 | [Blockbuster Video](https://open.spotify.com/track/0ZGH19YWpwb1ah1jwHVvXU) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Encino](https://open.spotify.com/album/6ULjffAptxcARwJ2ngZCMN) | 3:19 |
 
-Snapshot ID: `ZvZ19QAAAABtttRr/HT/y9PezrkJ4C6l`
+Snapshot ID: `ZvZ19QAAAAAXjHBHav0zCy9d/8NU3Sy+`

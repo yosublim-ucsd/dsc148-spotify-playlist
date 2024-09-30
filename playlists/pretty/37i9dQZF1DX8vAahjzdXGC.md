@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Adrian Khalif, Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,415 likes - 114 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,464 likes - 114 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 42 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/28BSE1rkmo0M3ZOYlSTsGk) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 |
 | 43 | [Adiwira](https://open.spotify.com/track/77Rclu7W7JH0sUdaaFNfN7) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Adiwira](https://open.spotify.com/album/7wi8NeAyOByese2502QHTO) | 3:13 |
 | 44 | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/track/5PCJejKeoiBxJYqsU01Y4H) | [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c), [Orang Malaya](https://open.spotify.com/artist/0EluFJFfb096k5EAfLF14y), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sabar Sayang \(feat\. Orang Malaya & Yuna\)](https://open.spotify.com/album/1Vaz8J7uagLCjEuqPBozV8) | 3:59 |
-| 45 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
+| 45 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 46 | [Ayo Pacaran](https://open.spotify.com/track/4QmYFCV4TONa606AsUtsX7) | [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Ayo Pacaran](https://open.spotify.com/album/590nt1T363E9VnRAf9irRu) | 3:39 |
 | 47 | [coffee or tea](https://open.spotify.com/track/2RtF9UDCHVuJnbYivS2zE0) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [coffee or tea](https://open.spotify.com/album/2JploZX8nlgLqbTZgaSdDU) | 3:33 |
 | 48 | [Undercover Plan](https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Undercover Plan](https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0) | 3:18 |

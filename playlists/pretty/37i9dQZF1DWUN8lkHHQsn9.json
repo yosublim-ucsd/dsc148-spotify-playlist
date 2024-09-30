@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:3jLSR7Z9iOyhSFBwQeS7es\">NIEB\u00d8</a>",
-  "num_followers": 43206,
+  "num_followers": 43185,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "Zapomniana Twarz",
-        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
-      },
-      "artists": [
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Zapomniana Twarz",
-      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/18XoNEtXXRrJyP9XJoQY3h"
       },
@@ -227,22 +211,6 @@
       "duration_ms": 237600,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1MmIVXWV7tldbdqdmK2YH7"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "GEJSZA",
-        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
-      },
-      "artists": [
-        {
-          "name": "RUSKIEFAJKI",
-          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "GEJSZA",
-      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -263,6 +231,38 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "GEJSZA",
+        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
+      },
+      "artists": [
+        {
+          "name": "RUSKIEFAJKI",
+          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "GEJSZA",
+      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 251586,
       "name": "Chodzili\u015bmy nocami",
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "MONACHOPSIS EP",
-        "url": "https://open.spotify.com/album/3C9o0dZxsvEUTs5XMCbzsF"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "je\u015bli chcesz mnie",
-      "url": "https://open.spotify.com/track/101GNvx8Kxx3oOg3ZOU86X"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -331,22 +315,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "Klub Z\u0142amanych Serc",
-        "url": "https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU"
-      },
-      "artists": [
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Klub Z\u0142amanych Serc",
-      "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Oprawieni Idole",
         "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 239000,
       "name": "Oprawieni Idole",
       "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "MONACHOPSIS EP",
+        "url": "https://open.spotify.com/album/3C9o0dZxsvEUTs5XMCbzsF"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "je\u015bli chcesz mnie",
+      "url": "https://open.spotify.com/track/101GNvx8Kxx3oOg3ZOU86X"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "Klub Z\u0142amanych Serc",
+        "url": "https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Klub Z\u0142amanych Serc",
+      "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "AWATAR 2",
-        "url": "https://open.spotify.com/album/7aAO04AuhqRnwrTK1ZcLFN"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "AWATAR 2",
-      "url": "https://open.spotify.com/track/0iu3FoQzBep5R2rIHDJ0js"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "glorious",
         "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
       },
@@ -447,22 +431,6 @@
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 307146,
-      "name": "Dziewczyny",
-      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -483,6 +451,38 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "AWATAR 2",
+        "url": "https://open.spotify.com/album/7aAO04AuhqRnwrTK1ZcLFN"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "AWATAR 2",
+      "url": "https://open.spotify.com/track/0iu3FoQzBep5R2rIHDJ0js"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "1986",
+        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 307146,
+      "name": "Dziewczyny",
+      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "Randomowe noce",
         "url": "https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 136434,
       "name": "Randomowe noce",
       "url": "https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "sweet",
-        "url": "https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "sweet",
-      "url": "https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -535,22 +519,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "romantyzuj\u0119 EP",
-        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "deszcz",
-      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "I'm Not Good at Having Fun",
         "url": "https://open.spotify.com/album/065L2oXOHBw0zrpsdZZ9L9"
       },
@@ -563,6 +531,38 @@
       "duration_ms": 196750,
       "name": "Fool",
       "url": "https://open.spotify.com/track/61sjvigGC35wcL622wYK9M"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "sweet",
+        "url": "https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "sweet",
+      "url": "https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "romantyzuj\u0119 EP",
+        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "deszcz",
+      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 97225,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -759,34 +775,18 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "mam ci\u0119 na oku",
-        "url": "https://open.spotify.com/album/6jBc00kDUGTmwtGVcxls0y"
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "mam ci\u0119 na oku",
-      "url": "https://open.spotify.com/track/3322tQszVawkGwzFfu3JVf"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 97225,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -807,34 +807,18 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "Bezsens",
-        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+        "name": "mam ci\u0119 na oku",
+        "url": "https://open.spotify.com/album/6jBc00kDUGTmwtGVcxls0y"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 163076,
-      "name": "Bezsens",
-      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+      "duration_ms": 183000,
+      "name": "mam ci\u0119 na oku",
+      "url": "https://open.spotify.com/track/3322tQszVawkGwzFfu3JVf"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -851,6 +835,22 @@
       "duration_ms": 168387,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -891,38 +891,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "\u015bwiat lepiej smakuje",
-        "url": "https://open.spotify.com/album/5DsDMvV6GY9pwJdgcMLqGn"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "\u015bwiat lepiej smakuje",
-      "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 179111,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "\u015bwiat lepiej smakuje",
+        "url": "https://open.spotify.com/album/5DsDMvV6GY9pwJdgcMLqGn"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "\u015bwiat lepiej smakuje",
+      "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 143443,
       "name": "oddaj\u0119 Ci melodi\u0119",
       "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "\u00c9CHO",
-        "url": "https://open.spotify.com/album/6T3TiVHvEfu7Oz8pjieI95"
-      },
-      "artists": [
-        {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
-        }
-      ],
-      "duration_ms": 279999,
-      "name": "les roses noires",
-      "url": "https://open.spotify.com/track/22GboJxbPd0ifja8gUQflF"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "\u00c9CHO",
+        "url": "https://open.spotify.com/album/6T3TiVHvEfu7Oz8pjieI95"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "duration_ms": 279999,
+      "name": "les roses noires",
+      "url": "https://open.spotify.com/track/22GboJxbPd0ifja8gUQflF"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1291,54 +1291,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Przekle\u0144stwa Niewinno\u015bci",
         "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
       },
@@ -1359,6 +1311,38 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "SLAY",
         "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
@@ -1375,34 +1359,34 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "rozbijam si\u0119",
-        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 212368,
-      "name": "rozbijam si\u0119",
-      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "Stukamy si\u0119 browarami",
-        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
+        "name": "December",
+        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
       },
       "artists": [
         {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
         }
       ],
-      "duration_ms": 205502,
-      "name": "Stukamy si\u0119 browarami",
-      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
+      "duration_ms": 172750,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1423,34 +1407,34 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "OKO",
-        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
+        "name": "Stukamy si\u0119 browarami",
+        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Prawda",
-      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
+      "duration_ms": 205502,
+      "name": "Stukamy si\u0119 browarami",
+      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
     },
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
+        "name": "rozbijam si\u0119",
+        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
       },
       "artists": [
         {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 172750,
-      "name": "December",
-      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
+      "duration_ms": 212368,
+      "name": "rozbijam si\u0119",
+      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
+        "name": "OKO",
+        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Prawda",
+      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 179400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1551,22 +1535,6 @@
     {
       "added_at": "2024-09-09 22:01:00",
       "album": {
-        "name": "miss u",
-        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 150001,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
-    },
-    {
-      "added_at": "2024-09-09 22:01:00",
-      "album": {
         "name": "Rozkosz",
         "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
       },
@@ -1579,6 +1547,22 @@
       "duration_ms": 184218,
       "name": "Rozkosz",
       "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 150001,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
     },
     {
       "added_at": "2024-09-09 22:01:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 238000,
       "name": "Raj",
       "url": "https://open.spotify.com/track/2rogt6ZAO25BkUtcM3Bz7h"
+    },
+    {
+      "added_at": "2024-09-09 22:01:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2024-09-09 22:01:00",

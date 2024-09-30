@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Sep 22:02 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALmgIRdVOhUMTHBdWBJTWzQwakWnHP",
+  "snapshot_id": "AAALnO7Pg7h3aCWRr+tQZ6MKmEgjOWHV",
   "tracks": [
     {
       "added_at": "2024-09-25 22:02:54",
@@ -23,6 +23,58 @@
       "duration_ms": 248000,
       "name": "iii",
       "url": "https://open.spotify.com/track/5kXkBySxLQ9cJ0z0gYdNTu"
+    },
+    {
+      "added_at": "2024-09-29 22:02:51",
+      "album": {
+        "name": "Death Will Fall",
+        "url": "https://open.spotify.com/album/10uymltJhB7op7DZ25BTPG"
+      },
+      "artists": [
+        {
+          "name": "Chonny Jash",
+          "url": "https://open.spotify.com/artist/2hvntb0GuCXAFKwgc7X0o5"
+        }
+      ],
+      "duration_ms": 274158,
+      "name": "Death Will Fall",
+      "url": "https://open.spotify.com/track/6KqiYlxJzyMGEMRbEvkiNY"
+    },
+    {
+      "added_at": "2024-09-29 22:02:51",
+      "album": {
+        "name": "story of my L:ove",
+        "url": "https://open.spotify.com/album/6uC8kvmmIWmjLf9vFzLFpU"
+      },
+      "artists": [
+        {
+          "name": "PENIEL",
+          "url": "https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Daydream (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/5fHCn4TLpUK9lyYbRp0FDJ"
+    },
+    {
+      "added_at": "2024-09-29 22:02:51",
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/4MTZZ6IVXuY4cLFcCrHB7P"
+      },
+      "artists": [
+        {
+          "name": "Nokia Angel",
+          "url": "https://open.spotify.com/artist/0G2xkjzM76THRB0rEgx7N8"
+        }
+      ],
+      "duration_ms": 188403,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs"
     },
     {
       "added_at": "2024-09-28 22:02:37",
@@ -863,54 +915,6 @@
       "duration_ms": 167049,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/4X0xMyrV9jPPKZNsUMwtjS"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 201217,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/68W26RygfhJZk02bByVKXy"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "Cerchio",
-        "url": "https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Cerchio",
-      "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "Rosy",
-        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 196944,
-      "name": "Rosy",
-      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     }
   ],
   "unique_name": "New Singles Now",

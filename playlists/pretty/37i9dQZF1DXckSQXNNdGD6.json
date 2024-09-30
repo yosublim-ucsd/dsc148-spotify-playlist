@@ -171,6 +171,22 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "duration_ms": 217233,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko"
+    },
+    {
+      "added_at": "2024-09-03 22:00:00",
+      "album": {
         "name": "Mocatriz",
         "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 237228,
       "name": "Mocatriz",
       "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
-    },
-    {
-      "added_at": "2024-09-03 22:00:00",
-      "album": {
-        "name": "Madre Fundadora",
-        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Ave Mar\u00eda Put\u00edsima",
-      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -227,18 +223,18 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ"
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
       "artists": [
         {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 217233,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko"
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+        "name": "Madre Fundadora",
+        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+      "duration_ms": 170322,
+      "name": "Ave Mar\u00eda Put\u00edsima",
+      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -383,34 +383,38 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "Nunca Llega 05",
-        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
+        "name": "La Magia de Tu Melena",
+        "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "ORTIGA",
+          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
         }
       ],
-      "duration_ms": 159056,
-      "name": "Nunca Llega 05",
-      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
+      "duration_ms": 186500,
+      "name": "La Magia de Tu Melena",
+      "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
     },
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "Morreo (feat. The Calorettes)",
-        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
       },
       "artists": [
         {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 193100,
-      "name": "Morreo (feat. The Calorettes)",
-      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
+      "duration_ms": 182948,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -471,18 +475,18 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
+        "name": "Nunca Llega 05",
+        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 182948,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
+      "duration_ms": 159056,
+      "name": "Nunca Llega 05",
+      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "La Magia de Tu Melena",
-        "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
+        "name": "Morreo (feat. The Calorettes)",
+        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
       },
       "artists": [
         {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
-        },
-        {
-          "name": "ORTIGA",
-          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
         }
       ],
-      "duration_ms": 186500,
-      "name": "La Magia de Tu Melena",
-      "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
+      "duration_ms": 193100,
+      "name": "Morreo (feat. The Calorettes)",
+      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+    },
+    {
+      "added_at": "2024-09-03 22:00:00",
+      "album": {
         "name": "Reggaeton Cristiano",
         "url": "https://open.spotify.com/album/4C4GlvaDKglOAXNPNKsupf"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 188000,
       "name": "Reggaeton Cristiano",
       "url": "https://open.spotify.com/track/3AxnNLgUlAX4tCmyAkN420"
-    },
-    {
-      "added_at": "2024-09-03 22:00:00",
-      "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
-    },
-    {
-      "added_at": "2024-09-03 22:00:00",
-      "album": {
         "name": "Quiero Hacer M\u00fasica",
         "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200437,
       "name": "Quiero Hacer M\u00fasica",
       "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
+    },
+    {
+      "added_at": "2024-09-03 22:00:00",
+      "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-09-03 22:00:00",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-09-03 22:00:00",
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
+        "name": "Manual de Cortejo",
+        "url": "https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk"
       },
       "artists": [
         {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
         }
       ],
-      "duration_ms": 147895,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
+      "duration_ms": 218177,
+      "name": "Arboleda Bien Plantada",
+      "url": "https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

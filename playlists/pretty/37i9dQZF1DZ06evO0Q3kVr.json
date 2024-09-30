@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 5114,
+  "description": "This Is Banda Bostik. Los temas esenciales, todos en una lista.",
+  "num_followers": 5117,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAACWmxL4udGIYLzyikCkupD7",
+  "snapshot_id": "ZvdHAAAAAAA4aHGuqc2rLXMW7gS+e/cu",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 236193,
-      "name": "Pandillero, Pt. 1",
-      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 346488,
       "name": "Juan Sin Miedo",
       "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 213623,
-      "name": "Pandillero, Pt. 2",
-      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 296472,
       "name": "\u00bfPor Qu\u00e9?",
       "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 213623,
+      "name": "Pandillero, Pt. 2",
+      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "La Rola De Jhony",
-      "url": "https://open.spotify.com/track/2EcgblAP05X1GYbhQqXUAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 268887,
       "name": "Ciego",
       "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "La Rola De Jhony",
+      "url": "https://open.spotify.com/track/2EcgblAP05X1GYbhQqXUAN"
     },
     {
       "added_at": null,

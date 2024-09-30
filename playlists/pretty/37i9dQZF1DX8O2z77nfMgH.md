@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,800 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,802 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 |
 | 70 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
 
-Snapshot ID: `ZvYtwAAAAAAs09VPhcmpdW1iSFzlZA/M`
+Snapshot ID: `ZvoR8AAAAAAMZMqrPCsgDmbCSTVN75R0`

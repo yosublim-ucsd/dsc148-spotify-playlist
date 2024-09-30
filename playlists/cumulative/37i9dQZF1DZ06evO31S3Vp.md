@@ -2,7 +2,7 @@
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 
-> This is Jão\. The essential tracks, all in one playlist.
+> This Is Jão\. Los temas esenciales, todos en una lista.
 
 49 songs - 2 hr 34 min
 

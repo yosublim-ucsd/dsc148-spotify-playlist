@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,923 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,956 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vontade](https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Doug Now](https://open.spotify.com/artist/5nX28sEyu1TH2jbYmSD82b), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), ["Matheuzin"](https://open.spotify.com/artist/3SMunlucr4jZlqPR0etQps), [Gabruga](https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr) | [Vontade](https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A) | 3:28 |
+| 1 | [Vontade](https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Dougnow](https://open.spotify.com/artist/2qO980bLuBOI3XFp0FyuOW), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), ["Matheuzin"](https://open.spotify.com/artist/3SMunlucr4jZlqPR0etQps), [Gabruga](https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr) | [Vontade](https://open.spotify.com/album/6IT92tjnsblFcjZcwGhv8A) | 3:28 |
 | 2 | [QUOTIDIANO](https://open.spotify.com/track/3s9OCHTLhDUKDbILzGyQVa) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [QUOTIDIANO](https://open.spotify.com/album/06OqaTB5yk6C9NGmw5yKQa) | 3:13 |
 | 3 | [Centrão Nervoso](https://open.spotify.com/track/5j7tP2sdKax0UjNFbUMgTu) | [iann guxtavo](https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3), [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [Elleven](https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW) | [Centrão Nervoso](https://open.spotify.com/album/5UPasMcuZ8QxI8DfuKnTki) | 2:08 |
 | 4 | [Veja Como o Mundo Roda](https://open.spotify.com/track/3zvgMHDI226Xb6PzMqreJK) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Veja Como o Mundo Roda](https://open.spotify.com/album/6UHzMFQvOT316hYAhRStQ1) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Hóspede](https://open.spotify.com/track/5sRqhiLhIgYnXZ2QxFiXa2) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Caco](https://open.spotify.com/artist/4ooTDZgSDcUCsSJLHTe740), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Hóspede](https://open.spotify.com/album/6Chvr6fJfbcYflOIS9TBeH) | 2:53 |
 | 75 | [121](https://open.spotify.com/track/3cNgdCPJXPeFHmdsdM1PGe) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [121](https://open.spotify.com/album/7jVhJ7QWMikLJUdRVqYf2A) | 1:42 |
 
-Snapshot ID: `ZvYf7AAAAAC/Cv86nfA96ahsqlv1Olkn`
+Snapshot ID: `ZvYf7AAAAACMpVekGKXoxmy08lSiQRIu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:1P8PmsHk2ZIxMQcFC3n7vm">Ryan Hylton</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,537 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,558 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372205,
+  "num_followers": 372192,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Sagrado Profano",
+        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 196601,
+      "name": "Sagrado Profano",
+      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Era uma vez",
         "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Sagrado Profano",
-        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 196601,
-      "name": "Sagrado Profano",
-      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -303,6 +303,26 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -387,42 +407,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "recadin no espelho",
-        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 124312,
-      "name": "recadin no espelho",
-      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "No Escuro,",
         "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
       },
@@ -531,22 +511,6 @@
       "duration_ms": 169845,
       "name": "(N\u00e3o) Quero Me Apaixonar",
       "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -591,6 +555,42 @@
       "duration_ms": 180009,
       "name": "Raio X - Ao Vivo",
       "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Me Deixa Viver",
-        "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
-      },
-      "artists": [
-        {
-          "name": "GIANA",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 194722,
-      "name": "Me Deixa Viver",
-      "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Nu",
         "url": "https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR"
       },
@@ -707,22 +691,18 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "Me Deixa Viver",
+        "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
+      "duration_ms": 194722,
+      "name": "Me Deixa Viver",
+      "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -739,6 +719,26 @@
       "duration_ms": 192421,
       "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
       "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Te Ver Superar",
         "url": "https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 144000,
       "name": "M\u00e9nage",
       "url": "https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Sad Baile",
         "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+        "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/6xue42a9yzitbZU6PFw8if"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Anny Koch",
+          "url": "https://open.spotify.com/artist/4HesLRHyeGpme1tlDMKgun"
         }
       ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+      "duration_ms": 147629,
+      "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/4AGnHJJX1gzFtwaAJs87iz"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -959,22 +975,6 @@
       "duration_ms": 133140,
       "name": "Casi Casi",
       "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
-        "url": "https://open.spotify.com/album/6xue42a9yzitbZU6PFw8if"
-      },
-      "artists": [
-        {
-          "name": "Anny Koch",
-          "url": "https://open.spotify.com/artist/4HesLRHyeGpme1tlDMKgun"
-        }
-      ],
-      "duration_ms": 147629,
-      "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/4AGnHJJX1gzFtwaAJs87iz"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Brigas Demais - Live",
-        "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 257216,
-      "name": "Brigas Demais - Live",
-      "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Brigas Demais - Live",
+        "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 257216,
+      "name": "Brigas Demais - Live",
+      "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Pelo Avesso",
+      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -1271,26 +1287,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Fim",
-        "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        },
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 135993,
-      "name": "Fim",
-      "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1315,18 +1311,50 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+        "name": "Fim",
+        "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         }
       ],
-      "duration_ms": 159637,
-      "name": "Pelo Avesso",
-      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+      "duration_ms": 135993,
+      "name": "Fim",
+      "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Senhorita XX",
+        "url": "https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6"
+      },
+      "artists": [
+        {
+          "name": "Cabal",
+          "url": "https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Edie",
+          "url": "https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 238656,
+      "name": "Senhorita XX",
+      "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1363,6 +1391,26 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        }
+      ],
+      "duration_ms": 146237,
+      "name": "Eu Tenho o Molho",
+      "url": "https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1387,50 +1435,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Senhorita XX",
-        "url": "https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6"
-      },
-      "artists": [
-        {
-          "name": "Cabal",
-          "url": "https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Edie",
-          "url": "https://open.spotify.com/artist/1IkKFD4QqHiqTM0aGzx8Mu"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 238656,
-      "name": "Senhorita XX",
-      "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Suma\u00fama",
-        "url": "https://open.spotify.com/album/2n9Jup0IdHxQFNZGROe6FS"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea Guajajara",
-          "url": "https://open.spotify.com/artist/3PMGE59u9984fAh4jVYP6C"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Suma\u00fama",
-      "url": "https://open.spotify.com/track/5UGW4lRaR6jfx1be4WxOn8"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -1443,6 +1447,22 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Me Leia",
+        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 228644,
+      "name": "Me Leia",
+      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1463,6 +1483,54 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Suma\u00fama",
+        "url": "https://open.spotify.com/album/2n9Jup0IdHxQFNZGROe6FS"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea Guajajara",
+          "url": "https://open.spotify.com/artist/3PMGE59u9984fAh4jVYP6C"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Suma\u00fama",
+      "url": "https://open.spotify.com/track/5UGW4lRaR6jfx1be4WxOn8"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 148873,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "SE EU FOSSE UMA GAROTA BRANCA",
+        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "SE EU FOSSE UMA GAROTA BRANCA",
+      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Chegou ao Fim",
         "url": "https://open.spotify.com/album/2Fw3vpcYADaatQUkWjSKGZ"
       },
@@ -1475,42 +1543,6 @@
       "duration_ms": 212500,
       "name": "Chegou ao Fim",
       "url": "https://open.spotify.com/track/6wFzrcUOVKdz6KheZBRdCh"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        }
-      ],
-      "duration_ms": 146237,
-      "name": "Eu Tenho o Molho",
-      "url": "https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Me Leia",
-        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 228644,
-      "name": "Me Leia",
-      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1563,38 +1595,6 @@
       "duration_ms": 167076,
       "name": "7AM",
       "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "SE EU FOSSE UMA GAROTA BRANCA",
-        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
-      },
-      "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "SE EU FOSSE UMA GAROTA BRANCA",
-      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 148873,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
     },
     {
       "added_at": "2024-09-27 13:18:03",

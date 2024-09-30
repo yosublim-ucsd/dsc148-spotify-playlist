@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
         "name": "Lowlife",
         "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 233626,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -323,18 +307,18 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 136362,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
+        "name": "Good Bi",
+        "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
+      },
+      "artists": [
+        {
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Good Bi",
+      "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
         "name": "WEEDKILLER",
         "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 255875,
       "name": "Dying Star (feat. Ethel Cain)",
       "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
-        "name": "Good Bi",
-        "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
-      },
-      "artists": [
-        {
-          "name": "Beth McCarthy",
-          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Good Bi",
-      "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Matriarchy",
-        "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
       },
       "artists": [
         {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 164206,
-      "name": "Matriarchy",
-      "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "Matriarchy",
+        "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "Matriarchy",
+      "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
         "name": "breakdown. - Underworld Rework",
         "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Babyface",
-        "url": "https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH"
-      },
-      "artists": [
-        {
-          "name": "Artio",
-          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
-        }
-      ],
-      "duration_ms": 206023,
-      "name": "Babyface",
-      "url": "https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "Piggie",
         "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "ABOMINATION",
-        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+        "name": "Babyface",
+        "url": "https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH"
       },
       "artists": [
         {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+          "name": "Artio",
+          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
         }
       ],
-      "duration_ms": 198549,
-      "name": "ABOMINATION",
-      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
+      "duration_ms": 206023,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
+        "name": "ABOMINATION",
+        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 198549,
+      "name": "ABOMINATION",
+      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
         "name": "Crush Me Up",
         "url": "https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 150828,
       "name": "Crush Me Up",
       "url": "https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "You Know What You\u2019ve Done",
+        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 191883,
+      "name": "You Know What You\u2019ve Done",
+      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "You Know What You\u2019ve Done",
-        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 191883,
-      "name": "You Know What You\u2019ve Done",
-      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "idc",
         "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "SEWERSTAR",
-        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
-      },
-      "artists": [
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "L.E.E.C.H.E.S",
-      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "HENRY'S REVENGE",
-        "url": "https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7"
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
       "artists": [
         {
-          "name": "SHERELLE",
-          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
         }
       ],
-      "duration_ms": 264446,
-      "name": "HENRY'S REVENGE",
-      "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
+      "duration_ms": 244000,
+      "name": "L.E.E.C.H.E.S",
+      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 181959,
       "name": "Dancing star",
       "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "HENRY'S REVENGE",
+        "url": "https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "duration_ms": 264446,
+      "name": "HENRY'S REVENGE",
+      "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
     },
     {
       "added_at": "2024-09-09 23:00:00",

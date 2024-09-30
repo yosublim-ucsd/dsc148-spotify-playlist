@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 97 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
 | 98 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
 | 99 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
-| 100 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 |
+| 100 | [Anger](https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 2:57 |
 | 101 | [The Side I Never Show](https://open.spotify.com/track/2ClZAETDCvVsSTZphhhzio) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [The Side I Never Show](https://open.spotify.com/album/11bwEhlNGnrVZaUIKwqhln) | 3:48 |
 | 102 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
 | 103 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 128 | [Walk Away](https://open.spotify.com/track/40COlkwjf7rVerBqzNYFOj) | [Kingsland Road](https://open.spotify.com/artist/5z3iTZIRcqy0MyPQY9vEZG) | [We Are the Young](https://open.spotify.com/album/7lSQAPah3kFTIYiUNUAKw4) | 3:47 |
 | 129 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
 | 130 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
-| 131 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 132 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 |
+| 131 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 |
+| 132 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 133 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbdYsgAAAADToykAgz/dq6s0+wMaTUY/`
+Snapshot ID: `AbdeUgAAAAA7ai14QhfoYA2M5tFhVhSC`

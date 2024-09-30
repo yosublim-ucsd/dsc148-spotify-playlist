@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167659,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T"
+    },
+    {
+      "album": {
         "name": "Nota de Pasion (feat. Arcangel)",
         "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
       },
@@ -494,7 +516,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 173034,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm"

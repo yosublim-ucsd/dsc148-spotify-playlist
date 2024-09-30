@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105133,
+  "num_followers": 105129,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "I'M HIS, HE'S MINE (feat. Doechii)",
-        "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 223955,
       "name": "Death Wish Love (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "I'M HIS, HE'S MINE (feat. Doechii)",
+        "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -595,26 +595,6 @@
       "duration_ms": 143976,
       "name": "Fall At Your Feet (with Dean Lewis)",
       "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -687,6 +667,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 150190,
-      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 150190,
+      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -771,6 +771,26 @@
       "duration_ms": 216471,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -815,6 +835,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -835,26 +875,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -867,6 +887,22 @@
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -979,26 +1015,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "SOS (Sex on Sight) (feat. USHER)",
         "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 245435,
-      "name": "Happy Mistake",
-      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
       },
@@ -1199,22 +1219,6 @@
       "duration_ms": 135198,
       "name": "Sweet Oblivion",
       "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "I Hope It Hurts",
-        "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 249003,
-      "name": "I Hope It Hurts",
-      "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1235,18 +1239,38 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp"
+        "name": "SkyLL",
+        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
         }
       ],
-      "duration_ms": 182206,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z"
+      "duration_ms": 178930,
+      "name": "Tro P\u00e5 Det",
+      "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "I Hope It Hurts",
+        "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Hope It Hurts",
+      "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1271,6 +1295,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182206,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
       },
@@ -1291,22 +1331,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "SkyLL",
-        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 178930,
-      "name": "Tro P\u00e5 Det",
-      "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
+      "duration_ms": 178714,
+      "name": "Folie \u00e0 Deux",
+      "url": "https://open.spotify.com/track/1ud0FiEQLVIDlWEqDIEvwW"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1347,42 +1383,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
-        "url": "https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 166339,
-      "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
-      "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Young Again",
-        "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Young Again",
-      "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "H V D O L",
         "url": "https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz"
       },
@@ -1419,38 +1419,38 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+        "name": "Young Again",
+        "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+      "duration_ms": 196190,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
     },
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Complicated (with Fridayy)",
-        "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
+        "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+        "url": "https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 270545,
-      "name": "Complicated (with Fridayy)",
-      "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
+      "duration_ms": 166339,
+      "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+      "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
     }
   ],
   "unique_name": "De nye",

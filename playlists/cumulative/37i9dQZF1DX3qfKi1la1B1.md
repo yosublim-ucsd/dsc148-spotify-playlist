@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-407 songs - 1 day 2 hr 6 min
+408 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-28 | 2024-04-19 |
 | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/track/1OgRCIOlkWGrWMLXpKSuvm) | [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/album/0lwkjGUrX0qFHjDWv89M7e) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Aey Nehin](https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:45 | 2024-06-07 | 2024-07-05 |
+| [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-09-27 |  |
 | [All I Have](https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [All I Have](https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2) | 3:46 | 2024-04-17 | 2024-06-13 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-20 | 2023-01-11 |
 | [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 | 2023-08-04 |
@@ -331,7 +332,7 @@
 | [Sur](https://open.spotify.com/track/1WFBVAU9j3JU3Z3rCyP6GO) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Tangle](https://open.spotify.com/album/1NrCxfNA536ebbuDA4P39E) | 3:51 | 2023-11-30 | 2024-02-09 |
 | [Søulмaтe \- Remix](https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Tsudio Studio](https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE) | [Søulмaтe \(Remix\)](https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc) | 4:19 | 2024-05-23 |  |
 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-15 | 2023-10-13 |
-| [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 |  |
+| [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 | 2024-09-30 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-02-27 |  |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-14 | 2023-10-03 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-13 | 2023-05-16 |

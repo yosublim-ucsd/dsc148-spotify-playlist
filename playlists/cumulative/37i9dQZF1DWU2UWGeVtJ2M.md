@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-341 songs - 19 hr 7 min
+342 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amore](https://open.spotify.com/track/7dEhUSzB32GMXhkrqtEYec) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3) | [Amore](https://open.spotify.com/album/30MfxQbaHfZ9VqDOyFBjuj) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2022-07-25 |  |
 | [Apathy](https://open.spotify.com/track/5t3JUzspTv8op7W0vX9KL4) | [shy\-c](https://open.spotify.com/artist/08UgDZuFwNBio0gstXxJqm) | [Apathy](https://open.spotify.com/album/6s9lnnZnoPeqzRf78rVsUt) | 3:27 | 2022-06-06 | 2022-07-29 |
-| [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 | 2022-06-06 |  |
+| [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 | 2022-06-06 | 2024-09-30 |
 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 | 2022-07-25 |  |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2022-06-06 | 2022-07-29 |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-25 | 2024-04-19 |
@@ -280,6 +280,7 @@
 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 | 2022-12-26 | 2024-04-19 |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2022-08-29 | 2022-10-13 |
 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 |  |
+| [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 | 2024-09-30 |  |
 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 | 2022-07-25 |  |
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-11 |  |
 | [Sugar Water](https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb) | [Cibo Matto](https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6) | [Viva! La Woman](https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W) | 4:29 | 2024-05-27 |  |

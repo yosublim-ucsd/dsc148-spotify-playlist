@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: DORI(\ub3c4\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 474341,
+  "num_followers": 474514,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
       "added_at": "2024-09-26 05:37:31",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 260430,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
         "name": "Closely Far Away",
         "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 215400,
       "name": "Baby I Need You",
       "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 260430,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL"
     },
     {
       "added_at": "2024-09-26 05:37:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
+        "name": "Calibrate",
+        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
-        "name": "Calibrate",
-        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
     },
     {
       "added_at": "2024-09-26 05:37:31",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
         "name": "\"L\"",
         "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     },
     {
       "added_at": "2024-09-26 05:37:31",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2024-09-26 05:37:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-26 05:37:31",
       "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
-    },
-    {
-      "added_at": "2024-09-26 05:37:31",
-      "album": {
         "name": "Memoirs",
         "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254852,
       "name": "My Dear Love",
       "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
+    },
+    {
+      "added_at": "2024-09-26 05:37:31",
+      "album": {
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
       "added_at": "2024-09-26 05:37:31",

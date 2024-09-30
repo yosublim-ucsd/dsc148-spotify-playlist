@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Etta.
 
-261 songs - 13 hr 3 min
+262 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Yks mun ex](https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Yks mun ex](https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH) | 2:30 | 2024-08-09 |  |
 | [Yli susta](https://open.spotify.com/track/0C8Z8ubIsyVIVNFGETg0MA) | [Joonatan](https://open.spotify.com/artist/27ddiSC5Zm4SifSaMvYEE2) | [Yli susta](https://open.spotify.com/album/4U6R08i36xNrksAd3sQBCi) | 2:22 | 2024-07-02 | 2024-07-27 |
 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 | 2024-07-04 | 2024-08-23 |
+| [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 | 2024-09-29 |  |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-07-02 | 2024-07-12 |
 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 | 2024-09-12 |  |
 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 | 2024-07-02 | 2024-08-02 |

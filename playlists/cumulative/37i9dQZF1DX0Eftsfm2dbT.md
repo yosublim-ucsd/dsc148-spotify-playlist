@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: OMSB, JJJ
 
-1,101 songs - 2 day 8 hr 34 min
+1,102 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [I Don’t Know Yet \- SBFP ver\. \- Mixed](https://open.spotify.com/track/4uwiTJFWyu7dKTpThidRuZ) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 3:20 | 2024-05-09 | 2024-05-22 |
 | [I Go](https://open.spotify.com/track/1ay4woTlMEut2QJ6f3j1j2) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Just Do It](https://open.spotify.com/album/2D0uq1J0YyaD0INIazzGdR) | 2:26 | 2024-08-21 | 2024-08-28 |
 | [I Know You](https://open.spotify.com/track/27NbjcreI0jVyHMpBiXtm1) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [I Know You](https://open.spotify.com/album/0ZgxRRsipMaf2JWzkLG7I1) | 2:08 | 2024-09-24 |  |
+| [i like it](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2024-09-30 |  |
 | [I&I](https://open.spotify.com/track/6gExdJSBCQWalHneNf2QLt) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA) | [Between Forever and a Moment](https://open.spotify.com/album/70OR8KC6G8dlPmD3Aq9ddf) | 1:57 | 2024-09-24 |  |
 | [I'm so high](https://open.spotify.com/track/4rbX1cgXUDlQ0AEBTKB6Hz) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [K\-nice](https://open.spotify.com/artist/5nvn3gfRWLq9Ndfm69XBS6) | [O.B.S 10](https://open.spotify.com/album/3MToBsh7uqlVCkJQNwlA9V) | 3:02 | 2024-07-23 | 2024-08-07 |
 | [I'ma beliver](https://open.spotify.com/track/5EykQQCDxQMsAkvZRYgmue) | [罰当](https://open.spotify.com/artist/7ErKCBi0MGvoud71tTcHBn) | [I'ma beliver](https://open.spotify.com/album/4Izjt3nqSLoa5q15WXFGVq) | 2:46 | 2024-05-15 | 2024-05-22 |

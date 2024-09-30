@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Kim Ximya\(김심야\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,448 likes - 103 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,416 likes - 103 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

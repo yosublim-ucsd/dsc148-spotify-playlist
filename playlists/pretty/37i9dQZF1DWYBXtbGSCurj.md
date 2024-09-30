@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Orochi, Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,174 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,152 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 |
 | 75 | [BB ATLETA](https://open.spotify.com/track/10A5iL0LUxbWr02ID6kYtu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY) | [BB ATLETA](https://open.spotify.com/album/6w7nsP45gbt3ihNGGLV5Ua) | 3:22 |
 
-Snapshot ID: `ZvYf7AAAAACI+LuG/zVJme9okgRCgCFu`
+Snapshot ID: `ZvYf7AAAAAB005NRMzvbT0yV+g7I/bup`

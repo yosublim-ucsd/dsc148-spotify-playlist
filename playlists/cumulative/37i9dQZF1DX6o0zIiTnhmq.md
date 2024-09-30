@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-121 songs - 1 day 7 hr 55 min
+122 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 | 2023-09-15 |  |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 | 2022-01-24 | 2023-06-23 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 | 2022-01-24 | 2023-03-12 |
+| [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 | 2024-09-29 |  |
 | [Gayatri Mantra Without Rhythm](https://open.spotify.com/track/7DF6xE3PU2agEw7pEheTWt) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Gayatri Mantra\-\-\-\-\-Jagjit Singh](https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg) | 7:51 | 2022-01-24 |  |
 | [Green Tara Mantra](https://open.spotify.com/track/3oaoSGOrDm3YwrK3cEMeI8) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [H\. H\. the 14th Dalai Lama](https://open.spotify.com/artist/0cXH1d3YdsSeiJTeUnmiw9) | [Prayer: a Multi\-Cultural Journey of Spirit](https://open.spotify.com/album/0o6DPWJW0uQE5JmnXMLnaw) | 7:22 | 2023-07-28 | 2023-09-07 |
 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [His Holiness The Dalai Lama](https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 | 2023-05-23 |  |
@@ -85,7 +86,7 @@
 | [Om Sahana Vavatu \(Shanti Mantra\)](https://open.spotify.com/track/0qMsQ5dt3QUgA0iJiNCT5r) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 2:03 | 2022-01-24 | 2023-10-27 |
 | [Om Shanti: Mantra for Peace](https://open.spotify.com/track/0uRzptpVnUqMLvz7ZrhMgP) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:00 | 2022-01-24 | 2023-11-08 |
 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 | 2022-01-24 |  |
-| [Ong Namo \(Wisdom\)](https://open.spotify.com/track/0edFHoTkMCh2gzsk11kCDM) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Mantras for Divine Grace](https://open.spotify.com/album/0YtJffc8FISzmdKptIVei7) | 10:02 | 2023-05-23 |  |
+| [Ong Namo \(Wisdom\)](https://open.spotify.com/track/0edFHoTkMCh2gzsk11kCDM) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Mantras for Divine Grace](https://open.spotify.com/album/0YtJffc8FISzmdKptIVei7) | 10:02 | 2023-05-23 | 2024-09-30 |
 | [Pran Sutra: Dhan Dhan Ram Das Gur](https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:12 | 2022-01-24 | 2024-02-16 |
 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 | 2022-01-24 | 2023-06-21 |
 | [Radhe Shyam](https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh) | [Dj Mausam](https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW) | [Radhe Shyam](https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU) | 2:13 | 2023-04-10 | 2023-05-24 |

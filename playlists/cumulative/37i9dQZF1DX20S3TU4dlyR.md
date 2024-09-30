@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-256 songs - 17 hr 0 min
+257 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 | 2022-05-06 | 2023-01-27 |
 | [Feliz \- Remaster 2023](https://open.spotify.com/track/4GHEj2oYCgQYqdQJSwLG70) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [SIG RAGGA \(Remaster 2023\)](https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy) | 5:44 | 2023-06-09 | 2024-04-19 |
 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 | 2022-05-06 |  |
-| [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 | 2022-05-06 |  |
+| [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 | 2022-05-06 | 2024-09-30 |
 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 | 2022-05-06 |  |
 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 | 2022-05-06 | 2023-10-05 |
 | [Groovy Situation](https://open.spotify.com/track/7zM2gNp7NvfPjOhk4GnP02) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groovy Situation](https://open.spotify.com/album/4c5m1OxbeVq69jcWAAsBX1) | 3:45 | 2022-05-06 | 2022-07-06 |
@@ -189,6 +189,7 @@
 | [Pupilas Lejanas \(En Vivo\)](https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:00 | 2022-05-06 |  |
 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 | 2022-05-06 |  |
 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 | 2022-05-06 |  |
+| [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w) | 3:30 | 2024-09-27 |  |
 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 | 2022-05-06 |  |
 | [Reggae en el Universo](https://open.spotify.com/track/2Ia1yLjMXjNoGGqXb9rDHj) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Reggae en el Universo](https://open.spotify.com/album/5vBxBN71u1eiOpSyPVBrQ0) | 3:56 | 2023-08-18 | 2023-10-09 |
 | [Repatriation](https://open.spotify.com/track/5ix1mGbHcNmDaeQLqDwbKY) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Repatriation](https://open.spotify.com/album/4lrBWxskUMFVgEa0oJ0bdq) | 3:38 | 2022-05-06 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Rondine
 
-157 songs - 7 hr 35 min
+159 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Basilico](https://open.spotify.com/track/6XkkzEM5GJZRrJUOnKJ0h3) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Basilico](https://open.spotify.com/album/3MsSeDl0DyyG3HX46FsV23) | 2:19 | 2024-06-27 | 2024-07-12 |
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
-| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 |  |
+| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-09-30 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 |  |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
@@ -112,6 +112,7 @@
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 |  |
 | [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 | 2024-09-27 |
+| [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 |  |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 |  |
@@ -125,6 +126,7 @@
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |
 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 | 2024-08-29 |  |
+| [Ragazza del Mare](https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG) | [Ragazza del Mare](https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ) | 2:45 | 2024-09-26 |  |
 | [Ragazza del ‘99](https://open.spotify.com/track/76uaJQ5isjG1PV998e5ulQ) | [Boetti](https://open.spotify.com/artist/1DBR12wJQpK03Xe1M6G0vt) | [Ragazza del ‘99](https://open.spotify.com/album/0z7UGEskI3o62QgXlSZ2DQ) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-26 |  |
 | [Rumore](https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Rumore](https://open.spotify.com/album/6QOsXyx17cx4ZsDylUEQNH) | 2:29 | 2024-06-27 | 2024-07-12 |
@@ -139,7 +141,7 @@
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 |  |
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 |  |
-| [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 |  |
+| [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |
 | [SOTTOCASSA](https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SOTTOCASSA](https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi) | 3:36 | 2024-06-27 | 2024-07-12 |
 | [Spezzabuio](https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Spezzabuio](https://open.spotify.com/album/004Mgjg73He63yXE08l2ln) | 3:01 | 2024-09-05 | 2024-09-27 |
 | [Sto grande carro](https://open.spotify.com/track/3tJCSVef5sXu6gic1VnAJF) | [chela](https://open.spotify.com/artist/3eKuNJjfZsVt03Qfla2s0u) | [Sto grande carro](https://open.spotify.com/album/7sknGlGWbt7BdpIBQOcagv) | 2:25 | 2024-08-09 | 2024-09-27 |

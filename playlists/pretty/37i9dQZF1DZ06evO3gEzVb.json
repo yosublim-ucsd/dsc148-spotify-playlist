@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 5670,
+  "num_followers": 5675,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADSBzoJGUnFnFfIdseOnXss",
+  "snapshot_id": "ZvdHAAAAAAClpSbsXdDiRBSeO9+/f3aD",
   "tracks": [
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 265786,
-      "name": "A Plus",
-      "url": "https://open.spotify.com/track/3lmSEuWtALQtKtE1bEu0ab"
+      "duration_ms": 300893,
+      "name": "Me Ma Afa Wotrim Mu",
+      "url": "https://open.spotify.com/track/00zyVdxD2TI7BbVEjjtTNT"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahenfo Kyiniye",
-        "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
       "artists": [
         {
           "name": "Daddy Lumba",
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        },
-        {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         }
       ],
-      "duration_ms": 265186,
-      "name": "Gyabi Wu a Gyabi Te Ase",
-      "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
+      "duration_ms": 308106,
+      "name": "Fakye",
+      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
     },
     {
       "added_at": null,
@@ -692,25 +688,29 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 300893,
-      "name": "Me Ma Afa Wotrim Mu",
-      "url": "https://open.spotify.com/track/00zyVdxD2TI7BbVEjjtTNT"
+      "duration_ms": 265786,
+      "name": "A Plus",
+      "url": "https://open.spotify.com/track/3lmSEuWtALQtKtE1bEu0ab"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+        "name": "Ahenfo Kyiniye",
+        "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
       "artists": [
         {
           "name": "Daddy Lumba",
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         }
       ],
-      "duration_ms": 308106,
-      "name": "Fakye",
-      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
+      "duration_ms": 265186,
+      "name": "Gyabi Wu a Gyabi Te Ase",
+      "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ma Afa Wotrim Ne",
-        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 318398,
-      "name": "Osoo Me So Bone",
-      "url": "https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aben Wo Aha",
         "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 330730,
       "name": "Nyame Nhyira Mmaa",
       "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Ma Afa Wotrim Ne",
+        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 318398,
+      "name": "Osoo Me So Bone",
+      "url": "https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx"
     },
     {
       "added_at": null,

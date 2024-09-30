@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Olly, Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,327 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,316 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

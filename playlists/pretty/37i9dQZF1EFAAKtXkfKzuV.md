@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201 likes - 67 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 67 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 42 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
 | 43 | [Gone for Good](https://open.spotify.com/track/7ay7NUJBH3Sh5fyaJd8V0R) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Gone for Good](https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr) | 2:33 |
 | 44 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
-| 45 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
-| 46 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
-| 47 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
+| 45 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
+| 46 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
+| 47 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 48 | [Met Yet](https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [Met Yet](https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu) | 2:35 |
 | 49 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
 | 50 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 54 | [Was zu verlieren](https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:28 |
 | 55 | [Inbetween](https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:16 |
 | 56 | [Help Me Remember \(feat\. Dyson\)](https://open.spotify.com/track/0eAHSsGHWWXcNl9cOad785) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 2:47 |
-| 57 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
-| 58 | [Coastline](https://open.spotify.com/track/3uwWGnv59syk9cAbN2HXph) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Coastline](https://open.spotify.com/album/6zIMOxR0eTVMysptGAncV1) | 2:38 |
-| 59 | [Roter Faden](https://open.spotify.com/track/2BPcjLnDQJRjWpE9ZVpBbU) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Im Augenblick](https://open.spotify.com/album/3jRxbPw4QFookuslpPgygA) | 2:39 |
-| 60 | [MONEY](https://open.spotify.com/track/3D6JJ2oNOvbHtEYq4L1J0m) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/38qSpkFwaTyqjF02ZoCRfe) | 3:01 |
+| 57 | [Coastline](https://open.spotify.com/track/3uwWGnv59syk9cAbN2HXph) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Coastline](https://open.spotify.com/album/6zIMOxR0eTVMysptGAncV1) | 2:38 |
+| 58 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
+| 59 | [MONEY](https://open.spotify.com/track/3D6JJ2oNOvbHtEYq4L1J0m) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/38qSpkFwaTyqjF02ZoCRfe) | 3:01 |
+| 60 | [Roter Faden](https://open.spotify.com/track/2BPcjLnDQJRjWpE9ZVpBbU) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Im Augenblick](https://open.spotify.com/album/3jRxbPw4QFookuslpPgygA) | 2:39 |
 | 61 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 |
 | 62 | [Version von mir](https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
 | 63 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 66 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 67 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbdYsgAAAAD7hSAs9pD11+yx9M+87uGe`
+Snapshot ID: `AbdeUgAAAAAl9fpFP+Fo5Onb4IbIOv+S`

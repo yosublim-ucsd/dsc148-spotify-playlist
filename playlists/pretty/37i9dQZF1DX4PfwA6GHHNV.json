@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18891,
+  "num_followers": 18898,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,30 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "1 a 1.",
         "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
@@ -543,26 +567,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -587,22 +603,6 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Pu'ce",
         "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
@@ -707,6 +687,46 @@
       "duration_ms": 165309,
       "name": "Pu'ce",
       "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -755,30 +775,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
-      },
-      "artists": [
-        {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -799,22 +795,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
         }
       ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
       },
@@ -1003,8 +1023,8 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
       "artists": [
         {
@@ -1012,13 +1032,13 @@
           "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1059,26 +1079,6 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     }
   ],
   "unique_name": "pique afrobeats",

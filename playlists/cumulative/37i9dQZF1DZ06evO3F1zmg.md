@@ -2,7 +2,7 @@
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This Is Saweetie\. Todas as faixas essenciais numa única playlist.
+> This is Saweetie\. The essential tracks, all in one playlist.
 
 93 songs - 4 hr 19 min
 

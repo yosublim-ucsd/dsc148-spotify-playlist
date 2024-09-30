@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 116247,
+  "num_followers": 116287,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -363,22 +347,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
       "artists": [
         {
-          "name": "Cobra Starship",
-          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
-        },
-        {
-          "name": "Leighton Meester",
-          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 196413,
-      "name": "Good Girls Go Bad (feat. Leighton Meester)",
-      "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -395,6 +375,26 @@
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
+      },
+      "artists": [
+        {
+          "name": "Cobra Starship",
+          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
+        },
+        {
+          "name": "Leighton Meester",
+          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Good Girls Go Bad (feat. Leighton Meester)",
+      "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -747,8 +747,8 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
       },
       "artists": [
         {
@@ -756,9 +756,25 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -831,38 +847,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Perfect Day Single",
         "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 159013,
       "name": "Mine",
       "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I Don't Wanna Grow Up",
         "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 194586,
-      "name": "Lost In My Bedroom",
-      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1403,6 +1387,22 @@
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Lost In My Bedroom",
+      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Record Collection",
-        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "The Business Intl",
-          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Somebody to Love Me",
-      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Somebody to Love Me",
+      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
     },
     {
       "added_at": "2024-06-02 21:23:10",

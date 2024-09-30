@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-133 songs - 10 hr 49 min
+134 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Ithaka](https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 3:29 | 2023-12-04 |  |
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2022-09-12 |  |
 | [Last Ride Home](https://open.spotify.com/track/22QZgO76vLjdpZY161iF72) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [The Gotland Session](https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA) | 3:13 | 2022-11-07 | 2023-12-02 |
-| [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2024-05-20 |  |
+| [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2024-05-20 | 2024-09-30 |
 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 | 2022-11-07 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-10-10 |  |
 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 | 2022-09-12 | 2024-04-19 |
@@ -127,6 +127,7 @@
 | [The Tearjerker Returns](https://open.spotify.com/track/0WG0GMBpWDNJzSqCpZAIhq) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Study Deep Focus](https://open.spotify.com/album/5qeut0jStJIZ5mX7uDKjPn) | 3:32 | 2024-03-11 | 2024-03-24 |
 | [The Third One](https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Tuulikki Bartosik](https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS) | [The Rocket](https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo) | 5:10 | 2024-04-08 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-09-12 | 2024-04-19 |
+| [Tranquillity \- Remastered 1994](https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:03 | 2024-09-16 |  |
 | [Travels](https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9) | [Pat Metheny Trio](https://open.spotify.com/artist/4JHW2v09dlK6Pq116CCuCy) | [Trio 99\-00](https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP) | 5:43 | 2022-09-12 |  |
 | [Two Sleepy People](https://open.spotify.com/track/7otQlbcqXVYIIYQKO3o2Ga) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Stride](https://open.spotify.com/album/0O6aXFgmvoU9Ute7Ui5m8v) | 6:36 | 2024-01-22 | 2024-04-19 |
 | [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 | 2022-09-12 | 2024-01-14 |

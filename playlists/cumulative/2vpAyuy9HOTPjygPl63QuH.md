@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,987 songs - 4 day 16 hr 30 min
+1,988 songs - 4 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1788,6 +1788,7 @@
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-12 | 2023-05-20 |
 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 | 2023-09-15 | 2023-09-23 |
 | [Transition](https://open.spotify.com/track/56Xq0vLkepDrZMID5KrLZr) | [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Transition](https://open.spotify.com/album/2DrPOMyvDHigSYlCdmh7d5) | 3:08 | 2023-05-19 | 2023-06-10 |
+| [Transmission](https://open.spotify.com/track/4adBrCnxQNuQhQXRtWHkT4) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Transmission EP](https://open.spotify.com/album/5vNlY4XEMsKQU3sKw1RtB3) | 5:13 | 2024-09-29 |  |
 | [Transmutation](https://open.spotify.com/track/6WUcxAdepUxqi5YubQDo2c) | [Saint Carmo](https://open.spotify.com/artist/2zWhtVzLYRT1wHYVEDcHDa) | [Transmutation](https://open.spotify.com/album/1TD19tZDPAKjr3bXJ739Jn) | 5:48 | 2023-12-04 | 2023-12-17 |
 | [Trick Me](https://open.spotify.com/track/7aO5LZYbKVD2RwIzlbNBCY) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trick Me](https://open.spotify.com/album/3u1FMzwmX0pSCbeqtvWFmB) | 2:22 | 2023-01-06 | 2023-01-14 |
 | [Tricky Freak](https://open.spotify.com/track/7Ein0XRZaeXG9KClGNjLnx) | [Holt 88](https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu) | [Tricky Freak](https://open.spotify.com/album/0ltG1bnpLNEtuzgUgxb8jD) | 4:33 | 2023-01-13 | 2023-01-22 |

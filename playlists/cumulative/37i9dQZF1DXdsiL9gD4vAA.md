@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-176 songs - 15 hr 51 min
+177 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/33SsZaZgRY8vUI3suEPkEg) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 8:36 | 2022-11-09 | 2022-11-13 |
 | [Haq](https://open.spotify.com/track/5fPHj5LjzN3IIBFldMc05g) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 6:26 | 2023-10-16 |  |
 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 | 2021-12-01 |  |
+| [Hoke Majboor](https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Akshay Raheja](https://open.spotify.com/artist/7kF45gEqMa6LuPf1fA7hsr), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Taaza Khabar \(Season 2\)](https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm) | 4:17 | 2024-09-29 |  |
 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 | 2022-07-26 | 2023-05-16 |
 | [Hoshwalon Ko Khabar Kya \(From "Sarfarosh"\)](https://open.spotify.com/track/03BvoVjiTrsFdBtOIzDsfy) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 5:07 | 2021-12-01 | 2022-07-29 |
 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 | 2023-04-16 |  |
@@ -169,7 +170,7 @@
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
-| [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 | 2024-08-20 |  |
+| [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 | 2024-08-20 | 2024-09-30 |
 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 | 2024-08-19 |  |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
 | [Woh Dehleez](https://open.spotify.com/track/7417MJt7NRvYGAcltQ5fyr) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/65E83zzOXqaokPZl6yO1pN) | 5:28 | 2023-12-12 | 2024-04-19 |

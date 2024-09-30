@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 231560,
       "name": "bury me.",
       "url": "https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG"
@@ -2222,6 +2222,24 @@
       "duration_ms": 228542,
       "name": "Morning Haze",
       "url": "https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE"
+    },
+    {
+      "album": {
+        "name": "Mush",
+        "url": "https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg"
+      },
+      "artists": [
+        {
+          "name": "Spare Parts For Broken Hearts",
+          "url": "https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220878,
+      "name": "Mush",
+      "url": "https://open.spotify.com/track/3vIBgMOO5BY8WfWZDfY0FO"
     },
     {
       "album": {

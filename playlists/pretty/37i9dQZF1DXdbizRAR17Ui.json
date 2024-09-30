@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 197738,
+  "num_followers": 197759,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 243100,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "The Path Less Travelled",
         "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
       },
@@ -855,22 +839,38 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias"
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
       },
       "artists": [
         {
-          "name": "bailey",
-          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
-        },
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 165131,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0"
+      "duration_ms": 243100,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "oceanic (feat. Vagabon) [rebirth]",
+        "url": "https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "oceanic (feat. Vagabon) [rebirth]",
+      "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
     }
   ],
   "unique_name": "4AM Chillout",

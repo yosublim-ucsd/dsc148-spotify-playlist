@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: 4EVE
 
-569 songs - 1 day 9 hr 50 min
+570 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 | 2024-09-13 |
+| [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 |  |
 | [TRAP U](https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [TRAP U](https://open.spotify.com/album/4I17f75qSQFip4K3R8s9dg) | 4:24 | 2024-08-29 |  |
 | [TRY](https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [TRY](https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa) | 3:32 | 2024-04-04 | 2024-04-19 |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
@@ -391,7 +392,7 @@
 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 | 2022-07-28 | 2024-03-29 |
 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:10 | 2022-05-26 | 2022-12-24 |
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-01-17 |  |
-| [วันเกิดเธอ \(TO YOU\)](https://open.spotify.com/track/4lRNBvxCNxib1awUUyc8Cn) | [Phuwin](https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0) | [วันเกิดเธอ \(TO YOU\) \- Single](https://open.spotify.com/album/2ezJ2HDHy4WvRd28oiiPR6) | 4:17 | 2024-09-19 |  |
+| [วันเกิดเธอ \(TO YOU\)](https://open.spotify.com/track/4lRNBvxCNxib1awUUyc8Cn) | [Phuwin](https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0) | [วันเกิดเธอ \(TO YOU\) \- Single](https://open.spotify.com/album/2ezJ2HDHy4WvRd28oiiPR6) | 4:17 | 2024-09-19 | 2024-09-30 |
 | [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 | 2022-07-24 | 2022-12-02 |
 | [วายโอยู \(Y.O.U\)](https://open.spotify.com/track/3MZ6pw9dt75zdCZCv79FKf) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz), [Yakoolza](https://open.spotify.com/artist/7rTs3ZRedzB7EumYiJgkYQ) | [วายโอยู \(Y.O.U\)](https://open.spotify.com/album/60YKWacud7mhWVrTqARj0p) | 3:54 | 2022-06-16 | 2022-06-24 |
 | [ว่าไงนะ Feat\. Nam iWish](https://open.spotify.com/track/67kJqf9wQnXugBcKoX04IB) | [Gee Pussadee](https://open.spotify.com/artist/5dZsLOLTJgo4oecyWvMkUd) | [ว่าไงนะ Feat\. Nam iWish](https://open.spotify.com/album/2LQcoI7YoGBwajXHSGc4Jw) | 3:30 | 2022-08-25 | 2022-09-01 |

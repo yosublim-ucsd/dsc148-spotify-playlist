@@ -1,12 +1,12 @@
 {
-  "description": "This is Millencolin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 28142,
+  "description": "This is Millencolin. The essential tracks, all in one playlist.",
+  "num_followers": 28147,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAADDE5U01a6VLIdwzYCOjUXG",
+  "snapshot_id": "ZvdHAAAAAAC98gRM4HGSx/bm34WkWAvs",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 141706,
-      "name": "Leona",
-      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
+      "duration_ms": 121373,
+      "name": "Dance Craze",
+      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 121373,
-      "name": "Dance Craze",
-      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
+      "duration_ms": 141706,
+      "name": "Leona",
+      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
     },
     {
       "added_at": null,

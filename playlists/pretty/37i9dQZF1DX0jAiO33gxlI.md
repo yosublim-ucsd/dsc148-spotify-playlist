@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Monna Brutal
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,861 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,857 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Será Que Vai Me Atender](https://open.spotify.com/track/0MnqaonXswLq0eXummRsoz) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 1:57 |
 | 74 | [Spice](https://open.spotify.com/track/40pvoMvErxOKzeXSScaUaV) | [Espectro](https://open.spotify.com/artist/7phgIJ88gDxkUK6pbkQw8r), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Spice](https://open.spotify.com/album/2qhHeH0LDJrQVjK4sHvsP6) | 2:41 |
 
-Snapshot ID: `ZvYf7AAAAABrpg0ZIj/5w5fbuhSzoYGT`
+Snapshot ID: `ZvYf7AAAAADXgltQL0rg5WA48ELBYs7S`

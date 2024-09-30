@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,127 likes - 102 songs - 5 hr 56 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,128 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kirie and Shuichi](https://open.spotify.com/track/2aTO74K3NrPd5Klvyv9LtB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Uzumaki \(Anime Original Series Soundtrack\)](https://open.spotify.com/album/7jSnAYdc0Aysd2ONzzVwLX) | 1:55 |
+| 1 | [Kirie and Shuichi](https://open.spotify.com/track/2aTO74K3NrPd5Klvyv9LtB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Uzumaki \(Anime Series Original Soundtrack\)](https://open.spotify.com/album/7jSnAYdc0Aysd2ONzzVwLX) | 1:55 |
 | 2 | [MoonPhase; Cycle 1; War](https://open.spotify.com/track/1zcRyoI7ZvTDabUc20DPdj) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Bye Bye, Earth \- Vol\. 2 \(Original Anime Series Soundtrack\)](https://open.spotify.com/album/7fYxDdaH0b60xo3xBB2wYe) | 2:42 |
 | 3 | [Water Run](https://open.spotify.com/track/0TT96iwokXhohfFvdCOsrb) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Bye Bye, Earth \- Vol\. 1 \(Original Anime Series Soundtrack\)](https://open.spotify.com/album/1xqVscAg5Apa7CR6BATdRD) | 3:01 |
 | 4 | [Rival](https://open.spotify.com/track/58buWmTxt2T1MVwKZHfNSY) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 3\]](https://open.spotify.com/album/7L6s9A3DNnd5NFXFnoJt5T) | 2:14 |

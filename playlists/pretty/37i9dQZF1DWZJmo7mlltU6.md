@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,745 likes - 93 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,780 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

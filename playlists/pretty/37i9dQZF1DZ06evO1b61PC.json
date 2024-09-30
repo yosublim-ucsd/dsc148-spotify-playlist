@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jai Wolf. Los temas esenciales, todos en una lista.",
-  "num_followers": 11052,
+  "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
+  "num_followers": 11055,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAiwKrW3NLxS++HQFwOylIh",
+  "snapshot_id": "ZvdHAAAAAADWpuluwjhxqahTQ1biaY5D",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 286013,
       "name": "Still Sleeping",
       "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 229906,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy For Me (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 201444,
       "name": "Easy For Me - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
     },
     {
       "added_at": null,
@@ -496,25 +496,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Manic Pixie Dream",
-      "url": "https://open.spotify.com/track/6Tc4FcAwioZOazAmzcZtqr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "This Space In My Heart Is for You",
-      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 39613,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk"
+      "duration_ms": 95500,
+      "name": "This Space In My Heart Is for You",
+      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
     },
     {
       "added_at": null,
@@ -564,9 +548,25 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
+      "duration_ms": 211506,
+      "name": "Manic Pixie Dream",
+      "url": "https://open.spotify.com/track/6Tc4FcAwioZOazAmzcZtqr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 39613,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk"
     },
     {
       "added_at": null,

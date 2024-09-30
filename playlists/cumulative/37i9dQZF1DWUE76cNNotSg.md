@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-518 songs - 1 day 8 hr 39 min
+519 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Time to Walk Away](https://open.spotify.com/track/01AbB47Hm60LTIStyzMb2g) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:15 | 2020-12-22 | 2022-11-13 |
 | [Time to Walk Away](https://open.spotify.com/track/0ozdeuPnd24tukUW4fVfMj) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Time to Walk Away](https://open.spotify.com/album/4MoTIwqELUIZOr3wFgfuq5) | 4:15 | 2020-12-22 | 2022-07-29 |
 | [To Survive](https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [To Survive](https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89) | 3:58 | 2024-08-30 |  |
+| [TOGETHER](https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [TOGETHER](https://open.spotify.com/album/5ZXVSBUNbM34iNAqcFK8Hs) | 3:52 | 2024-09-20 |  |
 | [Together Forever](https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Together Forever](https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7) | 4:37 | 2024-01-12 | 2024-04-28 |
 | [Too Late](https://open.spotify.com/track/2WZtkWWGWjGMxQubujRiqZ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:12 | 2020-12-22 | 2022-07-29 |
 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 | 2020-12-22 | 2024-04-19 |
@@ -474,7 +475,7 @@
 | [Try](https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Try](https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5) | 3:47 | 2023-12-01 | 2024-04-06 |
 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 | 2020-12-22 | 2023-12-16 |
 | [Tuesday](https://open.spotify.com/track/6bWCYpcxs8nEV9Veixv1RU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/2zxImbTSvIPzi3lqEX2TQb) | 3:11 | 2020-12-22 | 2022-07-29 |
-| [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 |  |
+| [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 | 2024-09-30 |
 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 | 2023-12-01 | 2024-04-27 |
 | [Type of Girl](https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [Type of Girl](https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd) | 4:16 | 2024-03-29 | 2024-07-13 |
 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2024-01-12 |  |

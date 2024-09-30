@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -920,10 +920,28 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 209169,
       "name": "Closing Time In California",
       "url": "https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw"
+    },
+    {
+      "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209169,
+      "name": "Closing Time In California",
+      "url": "https://open.spotify.com/track/7JVGoVpU5oR7vvNJWlvtiM"
     },
     {
       "album": {
@@ -2860,6 +2878,24 @@
       "duration_ms": 211960,
       "name": "Jonesin'",
       "url": "https://open.spotify.com/track/0ebjRWVCjmmYgp4NnHGl8O"
+    },
+    {
+      "album": {
+        "name": "Mind Of A Country Boy",
+        "url": "https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188350,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/4z6dUXoilOKQSwH21Z4MLL"
     },
     {
       "album": {

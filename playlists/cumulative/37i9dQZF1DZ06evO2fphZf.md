@@ -2,7 +2,7 @@
 
 ### [This Is thủy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fphZf)
 
-> This Is thủy\. Los temas esenciales, todos en una lista.
+> This is thủy\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 54 songs - 2 hr 43 min
 

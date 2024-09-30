@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 276248,
+  "num_followers": 276308,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -195,54 +211,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Boleros De Los Panchos, Vol. 2",
-        "url": "https://open.spotify.com/album/1ubW9KMjzTp6Hyz9VTeniU"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 160478,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/1ter8c0ngrbC23lfKLrCan"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Usted",
-        "url": "https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 176533,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Boleros De Los Panchos, Vol. 2",
+        "url": "https://open.spotify.com/album/1ubW9KMjzTp6Hyz9VTeniU"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 160478,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/1ter8c0ngrbC23lfKLrCan"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -279,18 +263,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+        "name": "Usted",
+        "url": "https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig"
       },
       "artists": [
         {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Cerca del Mar",
-      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
+      "duration_ms": 196066,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -311,6 +295,38 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
+        "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas",
+          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
+        }
+      ],
+      "duration_ms": 190386,
+      "name": "Pagina Blanca",
+      "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Cerca del Mar",
+      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Dos Idolos Cantando",
         "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 173200,
       "name": "En Mi Viejo San Juan (with Javier Sol\u00eds)",
       "url": "https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
-        "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas",
-          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
-        }
-      ],
-      "duration_ms": 190386,
-      "name": "Pagina Blanca",
-      "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "The Golden Record Vol. 2",
-        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Somos Novios",
         "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
       },
@@ -779,6 +747,54 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "The Golden Record Vol. 2",
+        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
       },
@@ -807,38 +823,6 @@
       "duration_ms": 170666,
       "name": "No Me Platiques Ya",
       "url": "https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "The Golden Record, Vol. 1",
-        "url": "https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Novia M\u00eda",
-      "url": "https://open.spotify.com/track/5IJ691iklYJBremu40wZLI"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "The Golden Record, Vol. 1",
+        "url": "https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Novia M\u00eda",
+      "url": "https://open.spotify.com/track/5IJ691iklYJBremu40wZLI"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Exitos de los Tres Reyes",
-        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 172160,
       "name": "Suspenso Infernal",
       "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Cuando Me Vaya",
-      "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -995,6 +979,38 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Exitos de los Tres Reyes",
+        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1031,18 +1047,26 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1091,30 +1115,6 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Bodas De Plata",
-        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Flor Sin Reto\u00f1o",
-      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Bodas De Plata",
+        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Flor Sin Reto\u00f1o",
+      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
+        "url": "https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs"
+      },
+      "artists": [
+        {
+          "name": "Trio Vegabaje\u00f1o",
+          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
         "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
       },
@@ -1547,18 +1563,42 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
-        "url": "https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs"
+        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
+        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
       },
       "artists": [
         {
-          "name": "Trio Vegabaje\u00f1o",
-          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
         }
       ],
-      "duration_ms": 187466,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo"
+      "duration_ms": 150146,
+      "name": "Un Dia",
+      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1591,46 +1631,6 @@
       "duration_ms": 165800,
       "name": "Son De La Loma",
       "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
-        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
-      },
-      "artists": [
-        {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "Un Dia",
-      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1683,26 +1683,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
+        "url": "https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Tr\u00edo Divina Ilusi\u00f3n",
+          "url": "https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8"
         }
       ],
-      "duration_ms": 188963,
-      "name": "Esta Melodia",
-      "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
+      "duration_ms": 196546,
+      "name": "Mil Violines",
+      "url": "https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q"
     }
   ],
   "unique_name": "Tr\u00edos y Boleros Rom\u00e1nticos",

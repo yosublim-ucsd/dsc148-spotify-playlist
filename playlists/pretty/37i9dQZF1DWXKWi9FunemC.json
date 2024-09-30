@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 336917,
+  "num_followers": 337042,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -399,46 +399,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "on Christ the solid rock i stand.",
-        "url": "https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r"
-      },
-      "artists": [
-        {
-          "name": "Spencer Boliou",
-          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
-        },
-        {
-          "name": "Lofi Hymns.",
-          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "on Christ the solid rock i stand.",
-      "url": "https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -463,18 +423,42 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+        "name": "on Christ the solid rock i stand.",
+        "url": "https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "Lofi Hymns.",
+          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
         }
       ],
-      "duration_ms": 259868,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
+      "duration_ms": 154000,
+      "name": "on Christ the solid rock i stand.",
+      "url": "https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -495,6 +479,22 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 218382,
       "name": "Still There's Something",
       "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
         }
       ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1163,6 +1147,22 @@
       "duration_ms": 213453,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "You Never Break a Promise",
+        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        }
+      ],
+      "duration_ms": 337760,
+      "name": "You Never Break a Promise",
+      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Foolish & Ruined",
         "url": "https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "You Never Break a Promise",
-        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
       "artists": [
         {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 337760,
-      "name": "You Never Break a Promise",
-      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1263,22 +1279,6 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Go With Me",
-        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 265566,
-      "name": "Go With Me",
-      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stay Close",
         "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 194716,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Go With Me",
+        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 265566,
+      "name": "Go With Me",
+      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Teach Us That One Song",
-        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 240337,
       "name": "One Too Many Reasons",
       "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Us That One Song",
+        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "This Wine Is Alive",
-        "url": "https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 167464,
-      "name": "This Wine Is Alive",
-      "url": "https://open.spotify.com/track/3mnTUaCnwreaKe2rbeJitq"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 133159,
       "name": "ILY",
       "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "This Wine Is Alive",
+        "url": "https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 167464,
+      "name": "This Wine Is Alive",
+      "url": "https://open.spotify.com/track/3mnTUaCnwreaKe2rbeJitq"
     },
     {
       "added_at": "2024-08-03 00:38:12",

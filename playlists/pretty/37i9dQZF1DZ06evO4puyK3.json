@@ -1,12 +1,12 @@
 {
   "description": "This Is Gloria Groove. Los temas esenciales, todos en una lista.",
-  "num_followers": 161620,
+  "num_followers": 161652,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAAwxOLUKI9xQVqJeGEjMdjn",
+  "snapshot_id": "ZvdHAAAAAABB7jRSSWjLvCGw5WpIo6BD",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
       },
       "artists": [
         {
@@ -276,17 +276,13 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 165111,
-      "name": "DA BRABA",
-      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+      "duration_ms": 145670,
+      "name": "Chamada Proibida - Ao Vivo",
+      "url": "https://open.spotify.com/track/1p8BTJLHwFgakOEDHXdPn4"
     },
     {
       "added_at": null,
@@ -311,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bumbum de Ouro",
         "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
       },
@@ -323,6 +343,42 @@
       "duration_ms": 167234,
       "name": "Bumbum de Ouro",
       "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 160630,
+      "name": "Larica De Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/5gnTi78Q7nDlA2pqa4nKnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 1 - Ao Vivo",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 222208,
+      "name": "Loucuras De Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
     },
     {
       "added_at": null,
@@ -363,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 175682,
+      "name": "Linguagem Do Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata da GG, Vol. 1 - Ao Vivo",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
@@ -372,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 222208,
-      "name": "Loucuras De Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
+      "duration_ms": 235288,
+      "name": "A Tua Voz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vzSkAwsW0mO5ZM0ks7Bta"
     },
     {
       "added_at": null,
@@ -419,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Entendi Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apaga a Luz",
         "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
       },
@@ -431,22 +519,6 @@
       "duration_ms": 228210,
       "name": "Apaga a Luz",
       "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata da GG, Vol. 1 - Ao Vivo",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 235288,
-      "name": "A Tua Voz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vzSkAwsW0mO5ZM0ks7Bta"
     },
     {
       "added_at": null,
@@ -479,6 +551,26 @@
       "duration_ms": 168887,
       "name": "BONEKINHA",
       "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 169084,
+      "name": "Lado Insano - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oV23GAoNGnhkYj1xOTr41"
     },
     {
       "added_at": null,
@@ -523,6 +615,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 198304,
+      "name": "SOBREVIVI",
+      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "Programa Favorito - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pw2ElZp6xu4qhRKSNNZ3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -547,26 +675,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 198304,
-      "name": "SOBREVIVI",
-      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
     },
     {
       "added_at": null,
@@ -711,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 160630,
-      "name": "Larica De Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/5gnTi78Q7nDlA2pqa4nKnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -775,46 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PROIBIDONA",
-        "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 157649,
-      "name": "PROIBIDONA",
-      "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 200645,
-      "name": "Madrugada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7rsJEsqKp96ub5jXsHE3vv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -851,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 187311,
       "name": "Rol\u00ea",
       "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "Linguagem Do Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
     },
     {
       "added_at": null,
@@ -923,6 +939,30 @@
       "duration_ms": 128781,
       "name": "Furduncin",
       "url": "https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "PROIBIDONA",
+      "url": "https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE"
     },
     {
       "added_at": null,
@@ -963,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 145670,
-      "name": "Chamada Proibida - Ao Vivo",
-      "url": "https://open.spotify.com/track/1p8BTJLHwFgakOEDHXdPn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -1003,30 +1023,6 @@
       "duration_ms": 119965,
       "name": "BEAT MEGATR\u00d4NICO",
       "url": "https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Rebola (Participa\u00e7\u00e3o especial de Carlinhos Brown e Gloria Groove)",
-      "url": "https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA"
     }
   ],
   "unique_name": "This Is Gloria Groove",

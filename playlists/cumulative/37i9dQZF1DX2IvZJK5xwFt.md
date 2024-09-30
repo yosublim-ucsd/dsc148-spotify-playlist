@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-629 songs - 1 day 15 hr 4 min
+631 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All My Friends Are Turning Blue](https://open.spotify.com/track/77xjaND0eyUHUK1zkBY3DQ) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [All My Friends Are Turning Blue](https://open.spotify.com/album/3J3UxKYc8Nsp8p9ysbNlvO) | 3:39 | 2022-05-06 | 2022-05-13 |
 | [All Or Nothing](https://open.spotify.com/track/0zOqKu2FY6N6BiNoC91MgY) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [All Or Nothing](https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO) | 3:35 | 2022-06-16 | 2023-02-10 |
 | [All Threes](https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 5:24 | 2024-09-19 |  |
+| [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-29 |  |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-05 |  |
 | [Already Over \(Part 2\)](https://open.spotify.com/track/04zxcLZo2WLXcJKjp5wEjb) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [THE CRIMSON CHAPTER](https://open.spotify.com/album/1Wh4dLzzX2zQOmsDZMYJju) | 2:32 | 2023-11-30 | 2023-12-23 |
 | [Angel Numbers](https://open.spotify.com/track/6ND0L5nr36N57nWWGbuY4F) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Angel Numbers](https://open.spotify.com/album/4QgETdX1QjaF27i2OrSNqB) | 3:07 | 2022-06-16 | 2022-07-01 |
@@ -233,6 +234,7 @@
 | [Heartbreak Feels So Good](https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:37 | 2023-07-20 | 2024-04-19 |
 | [Heartbreak Feels So Good](https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:37 | 2023-05-04 | 2023-07-28 |
 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-22 |  |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-29 |  |
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 | 2023-04-14 |
 | [Her](https://open.spotify.com/track/3GGC9T0BpAQVuFxhdKd58W) | [Too Tired](https://open.spotify.com/artist/72Io2PZQgqVbYdkzPByKCT) | [Her](https://open.spotify.com/album/2X7ThRYFzSoTvhYyImTEiP) | 4:48 | 2023-09-22 | 2023-10-17 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-14 | 2022-10-07 |
@@ -350,7 +352,7 @@
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-09-22 | 2023-10-17 |
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-16 | 2023-03-04 |
 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 | 2023-06-15 |  |
-| [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 |  |
+| [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 | 2024-09-30 |
 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 | 2023-05-25 | 2023-07-08 |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 | 2022-09-15 | 2022-10-06 |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:33 | 2022-09-29 | 2023-03-18 |
@@ -536,7 +538,7 @@
 | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/track/5CrxpX3CGHZ26aWicYuvcO) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/album/1t635fQlMDBH9RHu8DZgTK) | 3:32 | 2023-11-23 | 2023-12-01 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-05-06 | 2022-05-16 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-06 |  |
-| [The Longest Kiss](https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [The Longest Kiss](https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy) | 2:49 | 2024-09-19 |  |
+| [The Longest Kiss](https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [The Longest Kiss](https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy) | 2:49 | 2024-09-19 | 2024-09-30 |
 | [The Middle](https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 2](https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG) | 3:55 | 2024-09-19 |  |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 | 2023-06-02 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-05-06 | 2022-05-20 |

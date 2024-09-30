@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: INFEKT
 
-773 songs - 1 day 18 hr 59 min
+774 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Humanoid](https://open.spotify.com/track/1retGwEQw5T9eiQ2Xeo5kJ) | [Echo Drone](https://open.spotify.com/artist/03PGDP8aU9P7vOFqZN9S2i), [EVVDE](https://open.spotify.com/artist/4xrF8iZCI0XIAg6bqfMydR) | [Humanoid](https://open.spotify.com/album/5iEc6HJS81arsm07qRjKor) | 3:07 | 2024-03-22 | 2024-04-27 |
 | [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 | 2023-06-10 |
 | [Hush](https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Hush](https://open.spotify.com/album/44izydeupjKkWEGoytnwWH) | 2:03 | 2024-06-21 |  |
+| [HUSTLE](https://open.spotify.com/track/4auf8M6t7Y9kiHcqutCGgP) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [HUSTLE](https://open.spotify.com/album/1hInf7nLuHuVCEqCK5ymCr) | 2:48 | 2024-09-20 |  |
 | [Hyperdrive](https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M) | [Hyperdrive](https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl) | 3:09 | 2023-06-23 | 2024-02-03 |
 | [Hypnotic](https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Hypnotic EP](https://open.spotify.com/album/3YX26AlAsr09SsX7adaLwY) | 2:56 | 2022-10-21 | 2022-12-08 |
 | [Hypnotic Cycle](https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Hypnotic Cycle](https://open.spotify.com/album/4zyAbKVLa8au49nyUv3e1r) | 3:02 | 2024-06-14 | 2024-09-08 |
@@ -538,7 +539,7 @@
 | [RAD](https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [RAD](https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3) | 4:05 | 2023-10-13 | 2023-10-21 |
 | [RAD](https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [HEARTWAVE](https://open.spotify.com/album/4FevY6KzCiRMzeCO2D4jcB) | 4:05 | 2023-10-13 | 2024-04-19 |
 | [Ragnarok](https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Ragnarok](https://open.spotify.com/album/263NdHDN0i3w7CNrfDFh6P) | 4:09 | 2022-04-08 | 2023-04-01 |
-| [Rave Operator](https://open.spotify.com/track/37vXJPguVozs4XKe31ilWD) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [Rave Operator / Sewer Party](https://open.spotify.com/album/43czCEDLV4BAKuwx7Dsidc) | 4:43 | 2024-08-09 |  |
+| [Rave Operator](https://open.spotify.com/track/37vXJPguVozs4XKe31ilWD) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [Rave Operator / Sewer Party](https://open.spotify.com/album/43czCEDLV4BAKuwx7Dsidc) | 4:43 | 2024-08-09 | 2024-09-30 |
 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 | 2023-10-13 |  |
 | [Ravestab](https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Wax Gibbons EP](https://open.spotify.com/album/2byGPU6HriaXEvGCVsSFiw) | 2:57 | 2021-12-17 | 2022-03-12 |
 | [Raveyard](https://open.spotify.com/track/47Azb1Ud85D0xD9TIiLY4H) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Raveyard EP](https://open.spotify.com/album/6bZLh5NXERd8EMo447YbYL) | 2:30 | 2022-03-18 | 2023-02-26 |

@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-345 songs - 17 hr 59 min
+346 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/track/6D5dUvVqQg7my6kcUOz66F) | [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3), [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0), [EMMA LX](https://open.spotify.com/artist/234RuCfsiahEnp6JER6r5f) | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/album/3kgf0hZ1ban42XGYl7PqsH) | 2:52 | 2024-02-19 | 2024-06-24 |
 | [Wooo](https://open.spotify.com/track/1siRzsZXjvNBvebxJRMeQB) | [Jan Orozco](https://open.spotify.com/artist/7vVH3zLirKAwQ1N1uMdb1x) | [Wooo](https://open.spotify.com/album/4NsSZaxAIMuSaFPzu8BrIk) | 2:54 | 2024-01-17 | 2024-01-30 |
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2024-01-08 | 2024-01-22 |
+| [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 | 2024-09-29 |  |
 | [Yes I Think](https://open.spotify.com/track/5DbsTx09Ogp2v5aGXGBMIY) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Yes I Think](https://open.spotify.com/album/00AMcalcSxR6TiKfxMJU2A) | 2:11 | 2024-01-08 | 2024-01-22 |
 | [You Don't Want This](https://open.spotify.com/track/361oezwj8CXRHJHRDoaCM4) | [Mirage](https://open.spotify.com/artist/1t7EIjSsW1qmSwU3d10Aiy) | [Off The Grid](https://open.spotify.com/album/5dk6ax11T6s3QmwBUQPSod) | 3:23 | 2024-08-19 | 2024-09-29 |
 | [You Feel](https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [You Feel](https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu) | 3:00 | 2023-12-31 | 2024-01-09 |

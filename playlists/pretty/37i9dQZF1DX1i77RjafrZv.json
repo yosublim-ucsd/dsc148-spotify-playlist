@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319102,
+  "num_followers": 319118,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,38 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Les Champs-Elys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -207,38 +239,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Les Champs-Elys\u00e9es",
-        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Les Champs-Elys\u00e9es",
-      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 261106,
       "name": "Je T\u2019aime",
       "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -287,22 +303,6 @@
       "duration_ms": 214826,
       "name": "S'il suffisait d'aimer",
       "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Fragile (Remastered)",
-        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "L'encre de tes yeux - Remastered",
-      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Hommages",
-        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
+        "name": "Fragile (Remastered)",
+        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
       "artists": [
         {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Comme d'habitude",
-      "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
+      "duration_ms": 186706,
+      "name": "L'encre de tes yeux - Remastered",
+      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -471,18 +455,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+        "name": "Hommages",
+        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
         }
       ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+      "duration_ms": 249333,
+      "name": "Comme d'habitude",
+      "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -503,22 +487,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Mais je t'aime",
-        "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Camille Lellouche",
-          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
         }
       ],
-      "duration_ms": 268243,
-      "name": "Mais je t'aime",
-      "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -535,6 +515,26 @@
       "duration_ms": 372186,
       "name": "Morgane de toi",
       "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Mais je t'aime",
+        "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Camille Lellouche",
+          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+        }
+      ],
+      "duration_ms": 268243,
+      "name": "Mais je t'aime",
+      "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 207133,
       "name": "10 ans de nous",
       "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -719,6 +703,22 @@
       "duration_ms": 225997,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Laisse moi t'aimer",
-      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Chante Prevert",
         "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Laisse moi t'aimer",
+      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Les amoureux des bancs publics",
-      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Sauver l'amour (Remastered)",
         "url": "https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
       },
       "artists": [
         {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
         }
       ],
-      "duration_ms": 267466,
-      "name": "La chanson des vieux amants",
-      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1083,6 +1067,22 @@
       "duration_ms": 220386,
       "name": "Toi mon amour",
       "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "La chanson des vieux amants",
+      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
     },
     {
       "added_at": "2024-05-23 16:09:45",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This is Belinda\. The essential tracks, all in one playlist.
+> This Is Belinda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,129 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,139 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [Amigos por Siempre](https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:14 |
 | 50 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 |
 
-Snapshot ID: `ZvX1gAAAAADZabUUorKjBvmyCbhfAm1Z`
+Snapshot ID: `ZvdHAAAAAABP6DoRPa0zHXmVukSRDrCH`

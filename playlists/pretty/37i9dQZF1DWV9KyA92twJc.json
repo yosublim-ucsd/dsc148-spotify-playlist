@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e0\u05d5\u05e2\u05d4 \u05e7\u05d9\u05e8\u05dc",
-  "num_followers": 25598,
+  "num_followers": 25597,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "Doing So Much Better",
         "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Single Soon",
         "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },
       "artists": [
         {
-          "name": "Peer Tasi",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 224000,
-      "name": "\u05e8\u05d5\u05d6",
-      "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 206218,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\u05e8\u05d5\u05d6",
+      "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
-      },
-      "artists": [
-        {
-          "name": "Peer Tasi",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "THE LAST EPISODE",
         "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
@@ -1271,26 +1255,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "ShrekDiMC",
-          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-      "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -1303,6 +1267,22 @@
       "duration_ms": 219800,
       "name": "Middle Ground",
       "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "ShrekDiMC",
+          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05dc\u05d9\u05e8\u05d6",
         "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
       },
@@ -1355,70 +1355,6 @@
       "duration_ms": 114625,
       "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 170900,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
-        "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
-      },
-      "artists": [
-        {
-          "name": "Peer Tasi",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 182700,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
-        "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05dc\u05d3.",
-          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
-      "url": "https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
-        "url": "https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d2\u05dc \u05d0\u05d5\u05e9\u05e8\u05d9",
-          "url": "https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q"
-        }
-      ],
-      "duration_ms": 190039,
-      "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
-      "url": "https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1439,6 +1375,54 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 170900,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+        "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05dc\u05d3.",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+      "url": "https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
+        "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
         "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196548,
       "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
+        "url": "https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d2\u05dc \u05d0\u05d5\u05e9\u05e8\u05d9",
+          "url": "https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q"
+        }
+      ],
+      "duration_ms": 190039,
+      "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
+      "url": "https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "GODMOTHER (feat. Eden Ben Zaken)",
         "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05d0\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
         }
       ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+      "duration_ms": 165000,
+      "name": "\u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
         "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 232284,
       "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
       "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05d0\u05e0\u05d9",
-        "url": "https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "\u05d0\u05e0\u05d9",
-      "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
     },
     {
       "added_at": "2024-09-19 21:00:00",

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: MOTHICA
 
-826 songs - 1 day 18 hr 32 min
+827 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 | 2022-08-13 |
 | [Dullshine](https://open.spotify.com/track/2ndDKpjgNOFDl6ZH63arC4) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Dullshine](https://open.spotify.com/album/47yoU0ZF9KINsCzrDBbC3b) | 3:51 | 2022-03-24 | 2022-04-19 |
+| [DUMB](https://open.spotify.com/track/0O354383OL3XXPICUiHOkl) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [DUMB](https://open.spotify.com/album/3pNjQuJygUNCQhfmkNzbc1) | 2:28 | 2024-08-23 |  |
 | [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 | 2024-04-19 | 2024-08-24 |
 | [dumb with you](https://open.spotify.com/track/0nJbXArCCbkRflshkWQUJM) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 2:59 | 2024-02-20 | 2024-04-20 |
 | [Dying Breed](https://open.spotify.com/track/1cS6quzGhImyJPMiNxfxkA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Dying Breed](https://open.spotify.com/album/3UL8kVLqJVXaS3tYsYpqf2) | 4:06 | 2022-03-24 | 2022-04-19 |
@@ -811,7 +812,7 @@
 | [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-10-06 | 2023-10-26 |
 | [Without You](https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Without You](https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4) | 3:11 | 2024-06-21 |  |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2022-03-24 | 2022-04-18 |
-| [Wreck My Life](https://open.spotify.com/track/6aQjGC72O7dBSu1Bq6Gp8f) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Wreck My Life](https://open.spotify.com/album/26f9WTLH0fX4YJ0hjX86qB) | 2:47 | 2024-08-23 |  |
+| [Wreck My Life](https://open.spotify.com/track/6aQjGC72O7dBSu1Bq6Gp8f) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Wreck My Life](https://open.spotify.com/album/26f9WTLH0fX4YJ0hjX86qB) | 2:47 | 2024-08-23 | 2024-09-30 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2022-03-24 | 2022-08-06 |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-03-24 | 2022-08-06 |
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-09 | 2023-10-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: imase + なとり \*👉 <a href="https://spice.eplus.jp/articles/332168?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,843 likes - 94 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,848 likes - 94 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [ムジナ](https://open.spotify.com/track/3JAQsJDpBf5Aqad2YPo1Q9) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [ムジナ](https://open.spotify.com/album/7bUrYKEqodcRSD0Bkqhlw8) | 3:16 |
 | 49 | [夏をかえして](https://open.spotify.com/track/7ev8sHSvx2AvFukSKUTWRP) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夏をかえして](https://open.spotify.com/album/1UIUFh6tWULOtLigaZhWfU) | 3:24 |
 | 50 | [Summer Crazy Days](https://open.spotify.com/track/2ac7479JiPcg72grAeAw73) | [JINTANA & EMERALDS](https://open.spotify.com/artist/7snZZXktojahPBXT5CW6eM), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Kaoru Kami](https://open.spotify.com/artist/1BRzQbU1sUvl0csEhRSsPn), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [Summer Crazy Days c/w A MOMENT OF SILENCE](https://open.spotify.com/album/4KzSqbnqfp57Ctc1EqfqNv) | 4:55 |
-| 51 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
+| 51 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
 | 52 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 |
 | 53 | [VENDER WOH!](https://open.spotify.com/track/3eNTFzTkuKnfy1cyhQIN9K) | [U\-zhaan × mabanua](https://open.spotify.com/artist/10n68AxWiZKeuM0aPkvwww), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS) | [VENDER WOH!](https://open.spotify.com/album/7dAGJCz6iYSReIt1bZo1HY) | 5:55 |
 | 54 | [heart drumn](https://open.spotify.com/track/71Dmm2c94SWE36kk6yRG1a) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [heart drumn](https://open.spotify.com/album/5VJRYX3AoJHsNRjAmfP6hH) | 2:39 |

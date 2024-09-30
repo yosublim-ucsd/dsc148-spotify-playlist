@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Grupo Menos É Mais e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,373,050 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,373,511 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 50 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 |
 
-Snapshot ID: `ZvYfsAAAAABMwcvMKsjeOrI3KDcepkSl`
+Snapshot ID: `ZvYfsAAAAAAafYChJpQhGq6LkOuDnuxD`

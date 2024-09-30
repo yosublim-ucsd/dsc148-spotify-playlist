@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Ainwayi Yunhi (From \"CTRL\")",
+        "url": "https://open.spotify.com/album/2ljRD9afbcRB5VkedYOyOO"
+      },
+      "artists": [
+        {
+          "name": "Anika Bharwani",
+          "url": "https://open.spotify.com/artist/7BNFngNcjxgOryBTFHKxHA"
+        },
+        {
+          "name": "Sneha Khanwalkar",
+          "url": "https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270865,
+      "name": "Ainwayi Yunhi - From \"CTRL\"",
+      "url": "https://open.spotify.com/track/2ZSRo6xUMxaiwVzPyepQpd"
+    },
+    {
+      "album": {
         "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -628,7 +654,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 209090,
       "name": "Babu Ki Baby",
       "url": "https://open.spotify.com/track/0S3diq6mskjS06udazx2AP"
@@ -1347,7 +1373,7 @@
     },
     {
       "album": {
-        "name": "Call Me Bae - Original Series Soundtrack",
+        "name": "Call Me Bae (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
       },
       "artists": [
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 185806,
       "name": "Holiyaan - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/4s2O13zv052LCfm2a5FNKv"
@@ -3681,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "Khushiyon Ki Khidkiyaan",
+        "url": "https://open.spotify.com/album/3YRZqciPqWlJ2lnpUoOWiZ"
+      },
+      "artists": [
+        {
+          "name": "Nikitha Venkatesh",
+          "url": "https://open.spotify.com/artist/6XkwgUoGqTzwLhVYmZmqeG"
+        },
+        {
+          "name": "Nimish Shah",
+          "url": "https://open.spotify.com/artist/7DxsSjeJmwDkghseVrFfkK"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201459,
+      "name": "Khushiyon Ki Khidkiyaan",
+      "url": "https://open.spotify.com/track/79g912tBMwgvwQznCDwfNu"
+    },
+    {
+      "album": {
         "name": "Khwaab",
         "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
       },
@@ -3740,6 +3788,32 @@
       "duration_ms": 214752,
       "name": "Kitna Aasaan",
       "url": "https://open.spotify.com/track/56cXwVKPsJxzqKn17tOQqM"
+    },
+    {
+      "album": {
+        "name": "Binny And Family",
+        "url": "https://open.spotify.com/album/0eoRM09KI92VQ0KJ9PMdaq"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Lalit Pandit",
+          "url": "https://open.spotify.com/artist/0El2QAwuEZvpsW2eRZiUdX"
+        },
+        {
+          "name": "Ssanjay Tripaathy",
+          "url": "https://open.spotify.com/artist/1xvUz5RWhWC685oo94dhHk"
+        }
+      ],
+      "date_added": "2024-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254086,
+      "name": "Kuch Humare (Female Version)",
+      "url": "https://open.spotify.com/track/5Z7NQft4kP2ZLG9e8NTvUZ"
     },
     {
       "album": {
@@ -7540,7 +7614,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-30",
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"

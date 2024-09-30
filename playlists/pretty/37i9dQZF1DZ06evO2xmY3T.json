@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cardi B. Los temas esenciales, todos en una lista.",
-  "num_followers": 675081,
+  "description": "This is Cardi B. The essential tracks, all in one playlist.",
+  "num_followers": 675129,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1gAAAAAA+KIQwMoGlqsZAOHYmWJbM",
+  "snapshot_id": "ZvdHAAAAAADkpnQw+vcD35zFFzl4H2am",
   "tracks": [
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 281112,
+      "name": "Bitter - Narration By Cardi B",
+      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 276214,
       "name": "No Love (with SZA & Cardi B) - Extended Version",
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 281112,
-      "name": "Bitter - Narration By Cardi B",
-      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
     },
     {
       "added_at": null,

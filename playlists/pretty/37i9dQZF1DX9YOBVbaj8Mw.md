@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,511 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,513 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 17 | [Soundtrack](https://open.spotify.com/track/5bKltagkEhBFsVsv7arzPR) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Wracając](https://open.spotify.com/album/4cPdaFlz0WZLlyfZzzi0ZB) | 3:18 |
 | 18 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 |
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |
-| 20 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
+| 20 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
-| 22 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 22 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
 | 23 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
 | 24 | [Ostatnia taka zima](https://open.spotify.com/track/5RrqO7f46CZaoe2N0J4jz4) | [Zima Stulecia](https://open.spotify.com/artist/6zipCNbD8O4KIXfKhCaEsK) | [Minus 30°C](https://open.spotify.com/album/5fkmehd41xw4Aop984INzI) | 3:39 |
 | 25 | [Devil In You](https://open.spotify.com/track/4YrSOC41YPRrQq0cuxTJgu) | [John Porter](https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt), [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [On The Wrong Planet](https://open.spotify.com/album/0qKDzYpw0Bvo9MkpXTptNF) | 5:03 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 72 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 73 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |
 | 74 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
-| 75 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
-| 76 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
+| 75 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
+| 76 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
 | 77 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |

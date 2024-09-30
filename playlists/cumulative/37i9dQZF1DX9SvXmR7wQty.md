@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lydia Képinski, Simon Proulx
 
-2,849 songs - 6 day 7 hr 34 min
+2,850 songs - 6 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-10-20 | 2024-01-27 |
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-04-19 | 2024-04-27 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2023-10-20 | 2023-10-30 |
+| [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 | 2024-09-20 |  |
 | [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 | 2023-10-30 |
 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 | 2024-08-09 | 2024-09-14 |
 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 | 2024-05-17 | 2024-05-25 |
@@ -2430,7 +2431,7 @@
 | [Submergé](https://open.spotify.com/track/46ae6uZp2EKthMU14RcyQh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 3:01 | 2023-11-17 | 2023-11-25 |
 | [Sucré salé](https://open.spotify.com/track/13GYItYsEpYNQyTzmLG0Pe) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Sucré salé](https://open.spotify.com/album/66JXzIZeS6SfDD6S5vvDGU) | 3:12 | 2022-04-15 | 2022-04-29 |
 | [Suffit d'attendre I](https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Aurore](https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m) | 1:36 | 2022-09-16 | 2022-09-24 |
-| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 |  |
+| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 | 2024-09-30 |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-28 | 2022-02-12 |
 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 | 2024-03-29 | 2024-04-06 |
 | [Summer Hunting \(Remix\)](https://open.spotify.com/track/4zLdbIH7sP4W2C3599ip9I) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Summer Hunting \(Remix\)](https://open.spotify.com/album/1gDyPNLgWmPvWb6pLVyL4W) | 4:40 | 2022-04-01 | 2022-04-16 |
