@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Temporary Fiction",
+        "url": "https://open.spotify.com/album/1SB9N45PdLVqswBBz1ge4F"
+      },
+      "artists": [
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Breath Hold",
+      "url": "https://open.spotify.com/track/4JcyMeWwmvTHBBJNxtFfhp"
+    },
+    {
+      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -2786,6 +2804,24 @@
       "duration_ms": 190807,
       "name": "For Another One",
       "url": "https://open.spotify.com/track/1p3cobnspNSIRYaHMpLncQ"
+    },
+    {
+      "album": {
+        "name": "Temporary Fiction (Remixes)",
+        "url": "https://open.spotify.com/album/25eWkFEsyo1Rt6DB92oFFt"
+      },
+      "artists": [
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Fore to the Come",
+      "url": "https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3"
     },
     {
       "album": {

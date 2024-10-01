@@ -2,7 +2,7 @@
 
 ### [This Is KB](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djsfT)
 
-> This is KB\. The essential tracks, all in one playlist.
+> This Is KB\. Los temas esenciales, todos en una lista.
 
 77 songs - 4 hr 33 min
 

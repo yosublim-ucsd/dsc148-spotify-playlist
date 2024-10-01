@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 219428,
       "name": "ARGO",
       "url": "https://open.spotify.com/track/4BLlezhbGazfpE0OXUUKuj"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 251625,
       "name": "Ballad of the Ravenous",
       "url": "https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt"
@@ -1062,6 +1062,24 @@
       "duration_ms": 230400,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR"
+    },
+    {
+      "album": {
+        "name": "Illicit Trade",
+        "url": "https://open.spotify.com/album/6qZUIBDNdADMI1xVXFvtDt"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/6XD4nqj9zcLFIvSAMuBQQf"
     },
     {
       "album": {
@@ -1958,6 +1976,24 @@
       "duration_ms": 321742,
       "name": "Contra Theory",
       "url": "https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7EE8YvysQ7SzedaQ3Izw5i"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151205,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e"
     },
     {
       "album": {
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 211862,
       "name": "False Angel",
       "url": "https://open.spotify.com/track/5yvNQcSjq21zPFBUaQvJvh"
@@ -10368,7 +10404,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 289000,
       "name": "South Street",
       "url": "https://open.spotify.com/track/0R6jR68WZTeSZYvbzOR1on"
@@ -10684,6 +10720,24 @@
       "duration_ms": 163155,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7pGClgDyg6EzpEulHy3pMh"
+    },
+    {
+      "album": {
+        "name": "sticky icky!",
+        "url": "https://open.spotify.com/album/3Zmgegv64kiZd6CMblnL6n"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "sticky icky!",
+      "url": "https://open.spotify.com/track/1kTJlyZLjjbpoM8Yd5bTOZ"
     },
     {
       "album": {
@@ -12530,6 +12584,32 @@
       "duration_ms": 454400,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/02sVsBVipXWONilEMGe8IE"
+    },
+    {
+      "album": {
+        "name": "Who's Laughing Now - A Hundred Drums Remix",
+        "url": "https://open.spotify.com/album/31SK5QOjF2DhFBXAsSznBf"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Who's Laughing Now - A Hundred Drums Remix",
+      "url": "https://open.spotify.com/track/39XzfK4wI5C16ou4HRiCmu"
     },
     {
       "album": {

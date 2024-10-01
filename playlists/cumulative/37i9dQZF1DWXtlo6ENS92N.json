@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "Padman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "Aaj Se Teri",
+      "url": "https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x"
+    },
+    {
+      "album": {
         "name": "Simmba",
         "url": "https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 260590,
       "name": "Humdard",
       "url": "https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg"
@@ -2364,6 +2382,24 @@
       "duration_ms": 226941,
       "name": "Nazm Nazm",
       "url": "https://open.spotify.com/track/1We89SAonMk70QBbfXERxa"
+    },
+    {
+      "album": {
+        "name": "Bareilly Ki Barfi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xDQeAsyh56C6vYxQKpYAm"
+      },
+      "artists": [
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226941,
+      "name": "Nazm Nazm",
+      "url": "https://open.spotify.com/track/2HFVjplAK4y4yBibQbgNyT"
     },
     {
       "album": {

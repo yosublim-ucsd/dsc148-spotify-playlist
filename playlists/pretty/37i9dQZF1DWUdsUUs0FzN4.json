@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18980,
+  "num_followers": 18978,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "ADANXITO",
-        "url": "https://open.spotify.com/album/21eWhKw46cGMA9DToSAnLN"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 197157,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Mata (Remix)",
         "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 227080,
       "name": "Mata - Remix",
       "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "ADANXITO",
+        "url": "https://open.spotify.com/album/21eWhKw46cGMA9DToSAnLN"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 197157,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
     },
     {
       "added_at": "2024-08-30 06:00:00",

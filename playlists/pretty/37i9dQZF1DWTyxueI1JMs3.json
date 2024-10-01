@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u30a4\u30b1\u30e1\u30f3\u5f79\u8005\u80b2\u6210\u30b2\u30fc\u30e0\u300eA3!\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 39115,
+  "num_followers": 39114,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! First SPRING EP",
-        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "SICK SICK SICK",
-      "url": "https://open.spotify.com/track/3mJa4cWzm6jm0ixuE2T8vp"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
         "name": "A3! SUNNY SPRING EP",
         "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 254320,
       "name": "SEEDS",
       "url": "https://open.spotify.com/track/6vrucKEjf6fvdJIZ5b8u13"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! First SPRING EP",
+        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/3mJa4cWzm6jm0ixuE2T8vp"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -555,46 +555,6 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        },
-        {
-          "name": "\u9808\u7396\u30ad\u30a8\u30eb&\u5b87\u66fd\u30da\u30c6\u30f3",
-          "url": "https://open.spotify.com/artist/51yM8t8QYurzscTXnLUd7b"
-        },
-        {
-          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "\u8703\u6c17\u697c\u306f\u5947\u8853\u306e\u591c\u306b",
-      "url": "https://open.spotify.com/track/0yLz8shFdFLZJiqTQQGocf"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! VIVID SUMMER EP",
-        "url": "https://open.spotify.com/album/4HKVLKLzSJ6JYik9Bw8b5j"
-      },
-      "artists": [
-        {
-          "name": "\u590f\u7d44",
-          "url": "https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "\u590f\u3063\u3066\u2606\u30d1\u30ea\u30d1\u30ea!",
-      "url": "https://open.spotify.com/track/1fUqgxAGojE1ujirUKbNnW"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
         "name": "A3! First WINTER EP",
         "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
       },
@@ -627,6 +587,46 @@
       "duration_ms": 237640,
       "name": "to bloom\u2026",
       "url": "https://open.spotify.com/track/2p4YKA6IGbSKxyXJZ8jFV3"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! VIVID SUMMER EP",
+        "url": "https://open.spotify.com/album/4HKVLKLzSJ6JYik9Bw8b5j"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u7d44",
+          "url": "https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "\u590f\u3063\u3066\u2606\u30d1\u30ea\u30d1\u30ea!",
+      "url": "https://open.spotify.com/track/1fUqgxAGojE1ujirUKbNnW"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        },
+        {
+          "name": "\u9808\u7396\u30ad\u30a8\u30eb&\u5b87\u66fd\u30da\u30c6\u30f3",
+          "url": "https://open.spotify.com/artist/51yM8t8QYurzscTXnLUd7b"
+        },
+        {
+          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "\u8703\u6c17\u697c\u306f\u5947\u8853\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/0yLz8shFdFLZJiqTQQGocf"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -759,6 +759,38 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
+      },
+      "artists": [
+        {
+          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Real Luck",
+      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! SUNNY WINTER EP",
+        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
         "name": "A3! BRIGHT WINTER EP",
         "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
       },
@@ -784,22 +816,6 @@
       },
       "artists": [
         {
-          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Real Luck",
-      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
           "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
           "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
         }
@@ -811,18 +827,18 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! SUNNY WINTER EP",
-        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
       "artists": [
         {
-          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
-          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
+          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
         }
       ],
-      "duration_ms": 170253,
-      "name": "\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq"
+      "duration_ms": 257120,
+      "name": "\u9913\u9b3c\u6271\u3044",
+      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 234066,
       "name": "\u306f\u3058\u307e\u308a\u306f\u30ab\u30eb\u30c6\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
-          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "\u9913\u9b3c\u6271\u3044",
-      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
+        },
+        {
+          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
+          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "RESPAWN",
+      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
         "name": "A3! EVER LASTING LP",
         "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
@@ -963,42 +983,6 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
-        },
-        {
-          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
-          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "RESPAWN",
-      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! First AUTUMN EP",
-        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
-      },
-      "artists": [
-        {
-          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
-          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
         "name": "A3! First WINTER EP",
         "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 317760,
       "name": "Don't cry\u2026",
       "url": "https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! First AUTUMN EP",
+        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
+      },
+      "artists": [
+        {
+          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
+          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
     },
     {
       "added_at": "2024-08-27 15:00:00",

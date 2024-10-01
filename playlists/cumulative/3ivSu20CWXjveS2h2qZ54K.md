@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,653 songs - 3 day 19 hr 33 min
+1,654 songs - 3 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 | 2024-05-24 | 2024-06-12 |
 | [El amor es una cosa](https://open.spotify.com/track/5Xb6EBNQJchUI9pfGGfdBq) | [Amarillo Fiesta](https://open.spotify.com/artist/1WtAt5aQmMPP12o51x97kY) | [El amor es una cosa](https://open.spotify.com/album/6OauSVNzqu7pItbKrSdA2n) | 2:59 | 2024-07-01 | 2024-07-13 |
 | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 | 2024-09-06 | 2024-09-14 |
+| [El día de las flores](https://open.spotify.com/track/4HeYFHwzOIL6bbuDwNLLrD) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [El día de las flores](https://open.spotify.com/album/43OQMrGllHGY6oAvY5hgbR) | 3:38 | 2024-09-30 |  |
 | [El Entusiasmo](https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [El Entusiasmo](https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO) | 2:58 | 2024-06-07 | 2024-06-15 |
 | [El Incendio](https://open.spotify.com/track/4udviqcEwhnZ9fqTgwecUf) | [Casino Montreal](https://open.spotify.com/artist/0VXzhlJIwcZxSkxRUqIAG5) | [El Incendio](https://open.spotify.com/album/5osVHUqEO2rqfBszpMbOpg) | 3:40 | 2024-05-17 | 2024-05-25 |
 | [El Monte del Edén](https://open.spotify.com/track/6RGT8vxM0yXy0JuPqvlKQ8) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU), [Lejia](https://open.spotify.com/artist/0Ti9aPTvRHntpUMBPNxCeR) | [El Monte del Edén](https://open.spotify.com/album/1S1wzi39nGEhAR8mjG0G9y) | 3:35 | 2024-06-21 | 2024-06-29 |

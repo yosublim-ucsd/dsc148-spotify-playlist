@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,418 likes - 99 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,486 likes - 99 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DNA](https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [DNA](https://open.spotify.com/album/45JiIIrnW41aiZrXvtKN8Q) | 2:11 |
-| 2 | [INGEN VILA](https://open.spotify.com/track/05HOlWlep1D7Fx5xtkXbNb) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [INGEN VILA](https://open.spotify.com/album/1xoHKNgvq7DozZNB4Eq1Tt) | 2:10 |
-| 3 | [Ska Du Med](https://open.spotify.com/track/2OBPcWM3GYFpGvaCRoTYlg) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ska Du Med](https://open.spotify.com/album/2fGskogtwo8VOklp0B6wUJ) | 2:23 |
-| 4 | [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 |
-| 5 | [SOM OSS](https://open.spotify.com/track/2MOj51vwsIaMR5pkUp1o6c) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SOM OSS](https://open.spotify.com/album/6qJKrwSYsjyk8vzlXYtjz0) | 2:12 |
-| 6 | [I Might](https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [I Might](https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d) | 2:38 |
-| 7 | [YA ZINA \(GUAPA\)](https://open.spotify.com/track/2P1TVmmeDXGjcP5CX8lSKA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [YA ZINA \(GUAPA\)](https://open.spotify.com/album/1eOtwP7tRr793JXfrvo7Ge) | 2:10 |
-| 8 | [pengar in/pengar ut](https://open.spotify.com/track/7fuTPfgaSPGlnw7FfiPrJ2) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [pengar in/pengar ut](https://open.spotify.com/album/1MxRFOWBQ0Dy6qsXRmeG8F) | 2:01 |
-| 9 | [PSG](https://open.spotify.com/track/00R2eVdkti9OZboefW2f4i) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [PSG](https://open.spotify.com/album/3DqTOXqAYA9sjSjpdQ7aHw) | 2:40 |
+| 2 | [PSG](https://open.spotify.com/track/00R2eVdkti9OZboefW2f4i) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [PSG](https://open.spotify.com/album/3DqTOXqAYA9sjSjpdQ7aHw) | 2:40 |
+| 3 | [INGEN VILA](https://open.spotify.com/track/05HOlWlep1D7Fx5xtkXbNb) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [INGEN VILA](https://open.spotify.com/album/1xoHKNgvq7DozZNB4Eq1Tt) | 2:10 |
+| 4 | [Ska Du Med](https://open.spotify.com/track/2OBPcWM3GYFpGvaCRoTYlg) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ska Du Med](https://open.spotify.com/album/2fGskogtwo8VOklp0B6wUJ) | 2:23 |
+| 5 | [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 |
+| 6 | [SOM OSS](https://open.spotify.com/track/2MOj51vwsIaMR5pkUp1o6c) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SOM OSS](https://open.spotify.com/album/6qJKrwSYsjyk8vzlXYtjz0) | 2:12 |
+| 7 | [I Might](https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [I Might](https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d) | 2:38 |
+| 8 | [YA ZINA \(GUAPA\)](https://open.spotify.com/track/2P1TVmmeDXGjcP5CX8lSKA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [YA ZINA \(GUAPA\)](https://open.spotify.com/album/1eOtwP7tRr793JXfrvo7Ge) | 2:10 |
+| 9 | [pengar in/pengar ut](https://open.spotify.com/track/7fuTPfgaSPGlnw7FfiPrJ2) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [pengar in/pengar ut](https://open.spotify.com/album/1MxRFOWBQ0Dy6qsXRmeG8F) | 2:01 |
 | 10 | [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 |
 | 11 | [WOW](https://open.spotify.com/track/1TBxNKhPQJ13Tr0Sg8G79G) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [SONDURE](https://open.spotify.com/artist/24UMSNeejy6uKN8e9LMnsH) | [WOW](https://open.spotify.com/album/6FBDgkpd4tF6o1Um4l1Dcy) | 2:20 |
 | 12 | [Italien](https://open.spotify.com/track/3d1tnJsmQEi01ZMNZ7dkGn) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Italien](https://open.spotify.com/album/566wa077XLx6FqMV0NSOIR) | 2:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [Rolex & Rose](https://open.spotify.com/track/0vNFt9TUiieyROntKMpM5J) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Rolex & Rose](https://open.spotify.com/album/5CXNlIMz8BMYDJObB2cGCO) | 2:27 |
 | 99 | [ANTISOCIAL](https://open.spotify.com/track/2eu219w7ZOFnr1H0DL6WtZ) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:28 |
 
-Snapshot ID: `ZvXZYAAAAAAP8P+A8Od4d9idgMg6B2HF`
+Snapshot ID: `ZvqZaAAAAAC8tGFxGe5NJ1Km1V2Buhhy`

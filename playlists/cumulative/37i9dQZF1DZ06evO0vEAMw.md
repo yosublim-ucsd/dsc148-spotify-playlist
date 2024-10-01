@@ -2,7 +2,7 @@
 
 ### [This Is Davido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vEAMw)
 
-> This Is Davido\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Davido\. The essential tracks, all in one playlist.
 
 131 songs - 7 hr 19 min
 

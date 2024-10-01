@@ -4811,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Child",
+        "url": "https://open.spotify.com/album/6ptDIlzQych7XzDsuIZBQM"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Child",
+      "url": "https://open.spotify.com/track/67r0i04P2mbsjog2G7ovLv"
+    },
+    {
+      "album": {
         "name": "Chinatown",
         "url": "https://open.spotify.com/album/1cQliCnbdYb2c2va7FU4qq"
       },
@@ -6484,6 +6502,24 @@
       "duration_ms": 144680,
       "name": "Different",
       "url": "https://open.spotify.com/track/3Uo9AhOgwBcU0gxKiiyCIN"
+    },
+    {
+      "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/1Db0UhjPxm1Xw9Q69uIBp6"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196686,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/0SSvsdk6TlKbBHGtBk4XPa"
     },
     {
       "album": {
@@ -14850,7 +14886,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 147692,
       "name": "Lim\u00f3n",
       "url": "https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd"
@@ -27008,7 +27044,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 165286,
       "name": "We Be Killing it",
       "url": "https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn"

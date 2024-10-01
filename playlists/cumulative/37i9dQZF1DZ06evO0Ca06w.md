@@ -2,7 +2,7 @@
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba。アーティストの代表曲をひとつのプレイリストに。
+> This is Miriam Makeba\. Track\-track unggulan, semuanya dalam satu playlist.
 
 180 songs - 9 hr 23 min
 

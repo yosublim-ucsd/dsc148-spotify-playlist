@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > <a href="https://www.instagram.com/justinug\_/g"> Justin UG</a> takes over Internet Famous with the hits that have defined Nigerian Music for Naija's Indpendence Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,390 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,511 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 ### [Halloween Fiesta](https://open.spotify.com/playlist/37i9dQZF1DX3z5yKRkYm4P)
 
-> Los muertos al cajón y los vivos al fiestón.
+> Los muertos al cajón y los vivos al fiestón con Beetlejuice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,531 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,617 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,23 +57,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 47 | [Raska Yu](https://open.spotify.com/track/3bYH2PgsgrueYBR8QfZDG5) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/424vDJAprPQClfrHzL0zwx) | 3:33 |
 | 48 | [El Muerto Vivo](https://open.spotify.com/track/13xUIHPhcJDT6n5byeyNTS) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [El Muerto Vivo](https://open.spotify.com/album/0IkaUOrF11X6cB5HvMxMBO) | 2:50 |
 | 49 | [Papá Soy una Zombie](https://open.spotify.com/track/4pAk5rjfyA4BkUKysqNk5U) | [Los Tiki Phantoms](https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt) | [Papá Soy una Zombie](https://open.spotify.com/album/1zfreS1Ke3BkR6ty0RHvIX) | 2:32 |
-| 50 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
-| 51 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 |
-| 52 | [Las Momias](https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa) | [Los Golden Calavera](https://open.spotify.com/artist/4UW7bHZdY0XURnDVPWGOZi) | [Música para Locos \(Vol\. 1\)](https://open.spotify.com/album/0sWQzugWG2XYRWkzpBiEdT) | 4:32 |
-| 53 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
-| 54 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
-| 55 | [Stinkin' zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 |
-| 56 | [Fantasmagoria \- Hidrogenesse Remix](https://open.spotify.com/track/2s6iIcUL7JpA4iL9zY4BcA) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Fantasmagoria \(Hidrogenesse Remix\)](https://open.spotify.com/album/4tf8LecJdP92YCbmhLPiVm) | 5:12 |
-| 57 | [Vampira's Curse](https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl) | [The Guitaraculas](https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo) | [Two Bottles of Blood](https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1) | 2:44 |
-| 58 | [Cementerio](https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:20 |
-| 59 | [Fantomasofobia](https://open.spotify.com/track/4KjAMjd0AAK5S5B4eZ6HPO) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Crazy Price](https://open.spotify.com/album/0tclwXq336fULv62h4jo7F) | 3:12 |
-| 60 | [La Danza de Los Muertos](https://open.spotify.com/track/0fQFRLksWvatYenS4aoU29) | [The Anacondas](https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz) | [Bad Buzz \- Lost in the Space Age](https://open.spotify.com/album/3z41QSxd3tPuGxbMJZXRbQ) | 2:53 |
-| 61 | [Cien Metros para el Cementerio](https://open.spotify.com/track/0StEd2tjZaIOIMGjoD9Y5a) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [LP2](https://open.spotify.com/album/3OwdtsYbAP9gOt4narwwRR) | 3:56 |
-| 62 | [Rosemary's Baby](https://open.spotify.com/track/4uXE5sKzOQBo6E2ykCuG5X) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/2jDzhDqU9ZzZ3iHkCtY0Rh) | 3:20 |
-| 63 | [Day of the Dead](https://open.spotify.com/track/3TrWVqco778i7hg88YQTgw) | [The Tiger Lillies](https://open.spotify.com/artist/72o2T9aqYR2PFNYpzYrMmw) | [Corrido De La Sangre](https://open.spotify.com/album/0u33GdU1jBMhI5SsTMkoFY) | 2:31 |
-| 64 | [El baile de las momias](https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r) | [Gangrena Surf](https://open.spotify.com/artist/1R18ekUeS9uxa1c9bSg6V8) | [En vivo Sesiones Nostromo](https://open.spotify.com/album/1oetk83qaS5s7UUhjnINAR) | 2:10 |
-| 65 | [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 |
-| 66 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
+| 50 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
+| 51 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
+| 52 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 |
+| 53 | [Las Momias](https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa) | [Los Golden Calavera](https://open.spotify.com/artist/4UW7bHZdY0XURnDVPWGOZi) | [Música para Locos \(Vol\. 1\)](https://open.spotify.com/album/0sWQzugWG2XYRWkzpBiEdT) | 4:32 |
+| 54 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
+| 55 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 56 | [Stinkin' zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 |
+| 57 | [Fantasmagoria \- Hidrogenesse Remix](https://open.spotify.com/track/2s6iIcUL7JpA4iL9zY4BcA) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Fantasmagoria \(Hidrogenesse Remix\)](https://open.spotify.com/album/4tf8LecJdP92YCbmhLPiVm) | 5:12 |
+| 58 | [Vampira's Curse](https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl) | [The Guitaraculas](https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo) | [Two Bottles of Blood](https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1) | 2:44 |
+| 59 | [Cementerio](https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:20 |
+| 60 | [Fantomasofobia](https://open.spotify.com/track/4KjAMjd0AAK5S5B4eZ6HPO) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Crazy Price](https://open.spotify.com/album/0tclwXq336fULv62h4jo7F) | 3:12 |
+| 61 | [La Danza de Los Muertos](https://open.spotify.com/track/0fQFRLksWvatYenS4aoU29) | [The Anacondas](https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz) | [Bad Buzz \- Lost in the Space Age](https://open.spotify.com/album/3z41QSxd3tPuGxbMJZXRbQ) | 2:53 |
+| 62 | [Cien Metros para el Cementerio](https://open.spotify.com/track/0StEd2tjZaIOIMGjoD9Y5a) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [LP2](https://open.spotify.com/album/3OwdtsYbAP9gOt4narwwRR) | 3:56 |
+| 63 | [Rosemary's Baby](https://open.spotify.com/track/4uXE5sKzOQBo6E2ykCuG5X) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/2jDzhDqU9ZzZ3iHkCtY0Rh) | 3:20 |
+| 64 | [Day of the Dead](https://open.spotify.com/track/3TrWVqco778i7hg88YQTgw) | [The Tiger Lillies](https://open.spotify.com/artist/72o2T9aqYR2PFNYpzYrMmw) | [Corrido De La Sangre](https://open.spotify.com/album/0u33GdU1jBMhI5SsTMkoFY) | 2:31 |
+| 65 | [El baile de las momias](https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r) | [Gangrena Surf](https://open.spotify.com/artist/1R18ekUeS9uxa1c9bSg6V8) | [En vivo Sesiones Nostromo](https://open.spotify.com/album/1oetk83qaS5s7UUhjnINAR) | 2:10 |
+| 66 | [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 |
 | 67 | [Horror En El Hipermercado](https://open.spotify.com/track/3rdZn4Vjk2zteCrWHXAe7t) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Horror En El Hipermercado](https://open.spotify.com/album/5YUi5kDEV083NMBDz6Shxc) | 2:21 |
 | 68 | [Dracula](https://open.spotify.com/track/08qq7XjoPnQgo8QHiJvURk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Clint Eastwood](https://open.spotify.com/album/3sB5GyaLFk9Vlf9UG7B1W8) | 4:41 |
 | 69 | [La Tumba](https://open.spotify.com/track/4b20jg6rGAHohIxakXx9zO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `ZvQVfwAAAAARWU9DeweZzj9gGZnA+637`
+Snapshot ID: `ZvsGbQAAAADwgswU64ibZD5GOu8YYgrS`

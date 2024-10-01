@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Sep 16:03 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALnO7Pg7h3aCWRr+tQZ6MKmEgjOWHV",
+  "snapshot_id": "AAALohq5JaKRth4LeRXa+ro3T99+Dh74",
   "tracks": [
     {
       "added_at": "2024-09-25 22:02:54",
@@ -23,6 +23,142 @@
       "duration_ms": 248000,
       "name": "iii",
       "url": "https://open.spotify.com/track/5kXkBySxLQ9cJ0z0gYdNTu"
+    },
+    {
+      "added_at": "2024-09-30 16:03:21",
+      "album": {
+        "name": "Without A Leg To Stand On",
+        "url": "https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Without A Leg To Stand On",
+      "url": "https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm"
+    },
+    {
+      "added_at": "2024-09-30 10:03:03",
+      "album": {
+        "name": "C2",
+        "url": "https://open.spotify.com/album/1M1k2yttLtpOFqDLzLY7OM"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "C2",
+      "url": "https://open.spotify.com/track/4DrvOsrKmR9wD6yR0VFuvn"
+    },
+    {
+      "added_at": "2024-09-30 04:03:35",
+      "album": {
+        "name": "Kamikaze Comic",
+        "url": "https://open.spotify.com/album/1IyAn07bOZdtlXqy1HzPSb"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "Kamikaze Comic",
+      "url": "https://open.spotify.com/track/5ICK1BSMnDkYulOijLCJzi"
+    },
+    {
+      "added_at": "2024-09-30 04:03:35",
+      "album": {
+        "name": "Believe What You Want",
+        "url": "https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Believe What You Want",
+      "url": "https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl"
+    },
+    {
+      "added_at": "2024-09-30 10:03:03",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
+    },
+    {
+      "added_at": "2024-09-30 16:03:21",
+      "album": {
+        "name": "Bangin & Swangin",
+        "url": "https://open.spotify.com/album/3xS2bT0J7WStBeE6L7ZWTX"
+      },
+      "artists": [
+        {
+          "name": "Bway Yungy",
+          "url": "https://open.spotify.com/artist/7BDaqFWndPKDEGdbph2CNe"
+        }
+      ],
+      "duration_ms": 128063,
+      "name": "Bangin & Swangin",
+      "url": "https://open.spotify.com/track/1ZVOOmDqzLRwpZREVnN6Jo"
+    },
+    {
+      "added_at": "2024-09-30 04:03:35",
+      "album": {
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+    },
+    {
+      "added_at": "2024-09-30 10:03:03",
+      "album": {
+        "name": "Rush of Joy",
+        "url": "https://open.spotify.com/album/2Juxt6AGZbUjobdNqJzMzb"
+      },
+      "artists": [
+        {
+          "name": "WHIB",
+          "url": "https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "Rush of Joy",
+      "url": "https://open.spotify.com/track/0UHlLbSuG6Z5OhQJJekHuj"
     },
     {
       "added_at": "2024-09-29 22:02:51",
@@ -775,146 +911,6 @@
       "duration_ms": 225212,
       "name": "Project Z",
       "url": "https://open.spotify.com/track/3CLhTFlOw3qvfQhl4ax4Qg"
-    },
-    {
-      "added_at": "2024-09-27 16:02:42",
-      "album": {
-        "name": "VRP",
-        "url": "https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "VRP",
-      "url": "https://open.spotify.com/track/39aVVheaIKKIbd3iBPYcn3"
-    },
-    {
-      "added_at": "2024-09-27 16:02:42",
-      "album": {
-        "name": "YIEE",
-        "url": "https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa"
-      },
-      "artists": [
-        {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
-        }
-      ],
-      "duration_ms": 233951,
-      "name": "YIEE",
-      "url": "https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "PISSED OFF",
-        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 161177,
-      "name": "PISSED OFF",
-      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "won't cry",
-        "url": "https://open.spotify.com/album/65uJLSRQEKhV8SoVovQtdr"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 220302,
-      "name": "won't cry",
-      "url": "https://open.spotify.com/track/73wMV0p5r0yaPJvBOoTmHH"
-    },
-    {
-      "added_at": "2024-09-27 04:04:04",
-      "album": {
-        "name": "MTG Saudade De Voc\u00ea",
-        "url": "https://open.spotify.com/album/5Nofl9OIElP8nDWBRR3q8e"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "MTG Saudade De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2XrLagEoGrRftlSBuDXV9G"
-    },
-    {
-      "added_at": "2024-09-27 22:02:26",
-      "album": {
-        "name": "HIGH RISE",
-        "url": "https://open.spotify.com/album/6B3eUKgLAZYwPw5msRMcaO"
-      },
-      "artists": [
-        {
-          "name": "Baby Kia",
-          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
-        }
-      ],
-      "duration_ms": 133290,
-      "name": "HIGH RISE",
-      "url": "https://open.spotify.com/track/5zsuDllo1MhhH56DlvS0XC"
-    },
-    {
-      "added_at": "2024-09-27 10:02:55",
-      "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 167049,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS"
     }
   ],
   "unique_name": "New Singles Now",

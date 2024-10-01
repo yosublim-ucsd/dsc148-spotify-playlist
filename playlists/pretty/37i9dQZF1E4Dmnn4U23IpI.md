@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Ollie Wride, Gunship and more
+> With Gunship, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,446 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,458 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 30 | [I'm a Believer](https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 5:11 |
 | 31 | [Los Angeles](https://open.spotify.com/track/5MPLeS9KdZlA04OOCUb5Bt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/4W76YA2i0qSPFKIGG6rA6a) | 6:29 |
 | 32 | [Control](https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 4:01 |
-| 33 | [Alice](https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Alice](https://open.spotify.com/album/3wwjDBE8eNzgNVIxnWuwwc) | 4:57 |
+| 33 | [Long Island](https://open.spotify.com/track/1lMjZqCXMgLFCtyW3oYmIY) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Kaye Kiernan](https://open.spotify.com/artist/6oqTN3xSzKg4nRiYoEZD7m) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 3:46 |
 | 34 | [The Drone Racing League](https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:41 |
-| 35 | [Lightyears](https://open.spotify.com/track/4gPWWrsvQtFKMUmhvjanBh) | [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7), [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Outland](https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5) | 4:23 |
+| 35 | [Lying to Myself](https://open.spotify.com/track/37A4nDMBJLMiwubQMjCWYo) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 3:29 |
 | 36 | [Shadows](https://open.spotify.com/track/1aXYM5lT1PfKE8gCu90oIe) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:27 |
-| 37 | [Firewall](https://open.spotify.com/track/0lZqONtjkea7wUGONJbbYo) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Lisa Marie Perkins](https://open.spotify.com/artist/0VvELCFnlmbHZWuY7KoYRF) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 4:11 |
-| 38 | [Miracle Mile](https://open.spotify.com/track/4TIQ6wKE248iWrQWEJZlkr) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:17 |
-| 39 | ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 |
-| 40 | [Interspace](https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Interspace](https://open.spotify.com/album/72fxvL27SI7AYnbGAn6Iss) | 5:23 |
+| 37 | ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 |
+| 38 | [Only When It's Dark](https://open.spotify.com/track/05auOjVROFlChSRdINOGUr) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Sentimental](https://open.spotify.com/album/2n7yk5MepcS82A75Co2qKv) | 5:07 |
+| 39 | [Firewall](https://open.spotify.com/track/0lZqONtjkea7wUGONJbbYo) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Lisa Marie Perkins](https://open.spotify.com/artist/0VvELCFnlmbHZWuY7KoYRF) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 4:11 |
+| 40 | [Dark All Day](https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Tim Cappello](https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:27 |
 | 41 | [The Equaliser \(Not Alone\)](https://open.spotify.com/track/4tXSYvu77bFRRXmQailX3f) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr) | 3:49 |
-| 42 | [1984 \(Reprise\)](https://open.spotify.com/track/6zis306o9zhksqQoFyOMZJ) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 2:31 |
-| 43 | [Long Island](https://open.spotify.com/track/1lMjZqCXMgLFCtyW3oYmIY) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Kaye Kiernan](https://open.spotify.com/artist/6oqTN3xSzKg4nRiYoEZD7m) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 3:46 |
-| 44 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 |
+| 42 | [Interspace](https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Interspace](https://open.spotify.com/album/72fxvL27SI7AYnbGAn6Iss) | 5:23 |
+| 43 | [Lightyears](https://open.spotify.com/track/4gPWWrsvQtFKMUmhvjanBh) | [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7), [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Outland](https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5) | 4:23 |
+| 44 | [Miracle Mile](https://open.spotify.com/track/4TIQ6wKE248iWrQWEJZlkr) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:17 |
 | 45 | [End of the Night \(feat\. Doubleboy\)](https://open.spotify.com/track/59q31baYiGMndSq261KEkq) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Doubleboy](https://open.spotify.com/artist/5pW7z7jKT6YI37HP8lHWAJ) | [End of the Night](https://open.spotify.com/album/5RF60Ao2uqDcPTVq8vu9tX) | 3:56 |
 | 46 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
-| 47 | [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 |
-| 48 | [Lying to Myself](https://open.spotify.com/track/37A4nDMBJLMiwubQMjCWYo) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 3:29 |
-| 49 | [Do It Again](https://open.spotify.com/track/2cj5qEqQOnx8LV67Ja7jLB) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Soulless Computer Boy and the Eternal Render](https://open.spotify.com/album/5TF3a1VrbsQ68hUMrdNqeo) | 3:27 |
-| 50 | [Don't Give Up \- The Midnight Remix](https://open.spotify.com/track/2LqFe2b7ukUf2T4UlL6Fg3) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Don't Give Up \(The Midnight Remix\)](https://open.spotify.com/album/39AyS3AwUgr06llLE82Er3) | 4:12 |
+| 47 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 |
+| 48 | [1984 \(Reprise\)](https://open.spotify.com/track/6zis306o9zhksqQoFyOMZJ) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 2:31 |
+| 49 | [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 |
+| 50 | [Do It Again](https://open.spotify.com/track/2cj5qEqQOnx8LV67Ja7jLB) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Soulless Computer Boy and the Eternal Render](https://open.spotify.com/album/5TF3a1VrbsQ68hUMrdNqeo) | 3:27 |
 
-Snapshot ID: `ZvoWrAAAAAC5ZQCamrGW7Iw5Cd9RBf8f`
+Snapshot ID: `ZvtmhAAAAAD2iUYssAdvGLOIEUtfRB4+`

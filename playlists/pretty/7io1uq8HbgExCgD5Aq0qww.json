@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAHEJcRHh8wCSGdF+YMhtWozzTZuxn",
+  "snapshot_id": "AAAAHqe7rj0J3ONHmU0s8TSLNMi4BP+H",
   "tracks": [
     {
       "added_at": "2023-03-21 22:26:52",
@@ -411,6 +411,38 @@
       "duration_ms": 206506,
       "name": "The Piper",
       "url": "https://open.spotify.com/track/5jBPAlYvSkGDz4iDW7r2FC"
+    },
+    {
+      "added_at": "2024-09-30 08:37:51",
+      "album": {
+        "name": "A TV Show Called Earth",
+        "url": "https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7"
+      },
+      "artists": [
+        {
+          "name": "Philip Labes",
+          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
+        }
+      ],
+      "duration_ms": 202958,
+      "name": "A TV Show Called Earth",
+      "url": "https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD"
+    },
+    {
+      "added_at": "2024-09-30 13:05:14",
+      "album": {
+        "name": "Good & Evil",
+        "url": "https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Misery Fell",
+      "url": "https://open.spotify.com/track/01BMA2zYOX51Vz7QHdSAgO"
     }
   ],
   "unique_name": "The Bard",

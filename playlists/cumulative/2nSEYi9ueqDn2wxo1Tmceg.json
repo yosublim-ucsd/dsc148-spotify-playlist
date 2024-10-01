@@ -8115,6 +8115,24 @@
     },
     {
       "album": {
+        "name": "Human Frailty",
+        "url": "https://open.spotify.com/album/3KadBbHYnVGo9PP4dHYKr5"
+      },
+      "artists": [
+        {
+          "name": "One True Pairing",
+          "url": "https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Human Frailty",
+      "url": "https://open.spotify.com/track/0CnWLDcUZgOzZMrYLXsWAI"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk"
       },

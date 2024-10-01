@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 68117,
+  "num_followers": 68132,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "Kayah & Bregovic",
-        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
-      },
-      "artists": [
-        {
-          "name": "Kayah",
-          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
-        },
-        {
-          "name": "Goran Bregovi\u0107",
-          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "\u015apij Kochanie \u015apij",
-      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
         "name": "Z calych sil",
         "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 229800,
       "name": "Na Chwile",
       "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
+        "name": "Kayah & Bregovic",
+        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
+      },
+      "artists": [
+        {
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        },
+        {
+          "name": "Goran Bregovi\u0107",
+          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "\u015apij Kochanie \u015apij",
+      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "Ksiega Urodzaju",
-        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
       },
       "artists": [
         {
-          "name": "Marcin Rozynek",
-          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Silacz",
-      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
+      "duration_ms": 251540,
+      "name": "Dobry moment",
+      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+        "name": "Ksiega Urodzaju",
+        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
       },
       "artists": [
         {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+          "name": "Marcin Rozynek",
+          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
         }
       ],
-      "duration_ms": 251540,
-      "name": "Dobry moment",
-      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
+      "duration_ms": 239600,
+      "name": "Silacz",
+      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
     },
     {
       "added_at": "2024-08-04 17:24:59",

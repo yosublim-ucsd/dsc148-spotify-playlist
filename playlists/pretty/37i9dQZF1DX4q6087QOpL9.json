@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 111867,
+  "num_followers": 111903,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Lilac's Cloud",
-        "url": "https://open.spotify.com/album/69Uetd4cP8vmJ3RoojxT5Z"
-      },
-      "artists": [
-        {
-          "name": "Melle Jutte",
-          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
-        }
-      ],
-      "duration_ms": 363945,
-      "name": "Lilac's Cloud",
-      "url": "https://open.spotify.com/track/6bIF8vBFSZiRE3mTeROnUo"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/4TZOEyKYoNOU41wGX5WHMl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 508111,
       "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
       "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Lilac's Cloud",
+        "url": "https://open.spotify.com/album/69Uetd4cP8vmJ3RoojxT5Z"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "duration_ms": 363945,
+      "name": "Lilac's Cloud",
+      "url": "https://open.spotify.com/track/6bIF8vBFSZiRE3mTeROnUo"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Nothing But Happiness",
-        "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
+        "name": "You Bring Joy",
+        "url": "https://open.spotify.com/album/1tc5XtUJoVoMT4e5RR2Vmx"
       },
       "artists": [
         {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
         }
       ],
-      "duration_ms": 203405,
-      "name": "Nothing But Happiness",
-      "url": "https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04"
+      "duration_ms": 208906,
+      "name": "You Bring Joy - Radio Edit",
+      "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "You Bring Joy",
-        "url": "https://open.spotify.com/album/1tc5XtUJoVoMT4e5RR2Vmx"
+        "name": "Nothing But Happiness",
+        "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
       },
       "artists": [
         {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
         }
       ],
-      "duration_ms": 208906,
-      "name": "You Bring Joy - Radio Edit",
-      "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"
+      "duration_ms": 203405,
+      "name": "Nothing But Happiness",
+      "url": "https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "duration_ms": 606093,
+      "name": "See-Line Woman - Masters At Work Remix",
+      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 236900,
       "name": "Holy Sun - Retromigration Remix - Edit",
       "url": "https://open.spotify.com/track/4AR4AyuKGNdqtaFZgOvsj6"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        }
-      ],
-      "duration_ms": 606093,
-      "name": "See-Line Woman - Masters At Work Remix",
-      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Stand (feat. Cor.Ece)",
+        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        }
+      ],
+      "duration_ms": 182821,
+      "name": "Stand (feat. Cor.Ece) - Edit",
+      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "As Long As You Believe (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/0zixIlzr498H0saKAnv9Ta"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Stand (feat. Cor.Ece)",
-        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Cor.Ece",
-          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
-        }
-      ],
-      "duration_ms": 182821,
-      "name": "Stand (feat. Cor.Ece) - Edit",
-      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
       },
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Did You Pray Today? (feat. Annette Bowen)",
-        "url": "https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
       },
       "artists": [
         {
-          "name": "Melvo Baptiste",
-          "url": "https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6"
+          "name": "ADO",
+          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
         },
         {
-          "name": "Annette Bowen",
-          "url": "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
-      "duration_ms": 251020,
-      "name": "Did You Pray Today? (feat. Annette Bowen)",
-      "url": "https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM"
+      "duration_ms": 264552,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
+        "name": "Did You Pray Today? (feat. Annette Bowen)",
+        "url": "https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq"
       },
       "artists": [
         {
-          "name": "ADO",
-          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
+          "name": "Melvo Baptiste",
+          "url": "https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6"
         },
         {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+          "name": "Annette Bowen",
+          "url": "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
         }
       ],
-      "duration_ms": 264552,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
+      "duration_ms": 251020,
+      "name": "Did You Pray Today? (feat. Annette Bowen)",
+      "url": "https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Charlotte Small",
+          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
+        }
+      ],
+      "duration_ms": 497280,
+      "name": "Rain - Terry Hunter Rainy Daze Remix",
+      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 265231,
       "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Charlotte Small",
-          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
-        }
-      ],
-      "duration_ms": 497280,
-      "name": "Rain - Terry Hunter Rainy Daze Remix",
-      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Karma (Sean McCabe Remixes)",
-        "url": "https://open.spotify.com/album/7ziUNFQLfEcYx3ZBv23X3x"
-      },
-      "artists": [
-        {
-          "name": "Urban Sound Lab",
-          "url": "https://open.spotify.com/artist/3ur3PdWkk4GMGoj5PJOlep"
-        },
-        {
-          "name": "Terrance Downs",
-          "url": "https://open.spotify.com/artist/1KDBl8mLNeeeqXeUFVFh4s"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Karma - Sean McCabe Remix Edit",
-      "url": "https://open.spotify.com/track/1fExe1OCy813VOBEBuXy78"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "I Never Knew Love",
         "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
       },
@@ -1615,6 +1591,30 @@
       "duration_ms": 406813,
       "name": "Bad Habit - feat. Lisa Millett",
       "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Karma (Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/7ziUNFQLfEcYx3ZBv23X3x"
+      },
+      "artists": [
+        {
+          "name": "Urban Sound Lab",
+          "url": "https://open.spotify.com/artist/3ur3PdWkk4GMGoj5PJOlep"
+        },
+        {
+          "name": "Terrance Downs",
+          "url": "https://open.spotify.com/artist/1KDBl8mLNeeeqXeUFVFh4s"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Karma - Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/1fExe1OCy813VOBEBuXy78"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Tell Me Something (Crackazat Remix)",
         "url": "https://open.spotify.com/album/0OBU1JgxQuzsFHTf4PR08g"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 356065,
       "name": "Tell Me Something - Crackazat Remix",
       "url": "https://open.spotify.com/track/39JHqw7TkS6glDAONPcJqD"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6DHn0ZNxRs5zOX6MV6SeRn"
+      },
+      "artists": [
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        },
+        {
+          "name": "Lil Suze",
+          "url": "https://open.spotify.com/artist/0nV2RnpJHOREvbTUTukvsJ"
+        }
+      ],
+      "duration_ms": 445515,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/77nls8dLY9q4nTBwkiYUbK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "U Got Me Dancing (DJ Spen & Reelsoul Radio Edit)",
         "url": "https://open.spotify.com/album/3SvgnfS05c2DlMp5rLM1WN"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 144390,
       "name": "U Got Me Dancing - DJ Spen & Reelsoul Radio Edit",
       "url": "https://open.spotify.com/track/3Ve725pdNmdrS2IYb1zSLk"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6DHn0ZNxRs5zOX6MV6SeRn"
-      },
-      "artists": [
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        },
-        {
-          "name": "Lil Suze",
-          "url": "https://open.spotify.com/artist/0nV2RnpJHOREvbTUTukvsJ"
-        }
-      ],
-      "duration_ms": 445515,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/77nls8dLY9q4nTBwkiYUbK"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2011,30 +2011,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
-      },
-      "artists": [
-        {
-          "name": "DJ Gomi",
-          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
-        },
-        {
-          "name": "Louie Balo",
-          "url": "https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X"
-        },
-        {
-          "name": "Yasmeen",
-          "url": "https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl"
-        }
-      ],
-      "duration_ms": 490466,
-      "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
-      "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX"
       },
@@ -2075,6 +2051,30 @@
       "duration_ms": 476097,
       "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
       "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
+      },
+      "artists": [
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        },
+        {
+          "name": "Louie Balo",
+          "url": "https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X"
+        },
+        {
+          "name": "Yasmeen",
+          "url": "https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl"
+        }
+      ],
+      "duration_ms": 490466,
+      "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
+      "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Warning (Radio Edit)",
         "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
@@ -2191,26 +2211,6 @@
       "duration_ms": 232258,
       "name": "Warning - Radio Edit",
       "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2479,26 +2479,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Betcha Wouldn't Hurt Me",
-        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
-      },
-      "artists": [
-        {
-          "name": "Teddy Douglas",
-          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
-        },
-        {
-          "name": "Sharon Brown Adams",
-          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
-        }
-      ],
-      "duration_ms": 350431,
-      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
-      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Sentindo Muito Bem",
         "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
       },
@@ -2515,6 +2495,26 @@
       "duration_ms": 435306,
       "name": "Sentindo Muito Bem - Original Mix",
       "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        },
+        {
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
+        }
+      ],
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2579,6 +2579,30 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
+        "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
+      },
+      "artists": [
+        {
+          "name": "Maysa",
+          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+        }
+      ],
+      "duration_ms": 440975,
+      "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
+      "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
         "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
       },
@@ -2607,26 +2631,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-        "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
       },
       "artists": [
         {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
         }
       ],
-      "duration_ms": 440975,
-      "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-      "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2651,22 +2667,6 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
-      },
-      "artists": [
-        {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
-        }
-      ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -2859,26 +2859,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/790TQ951CFuspPv3o8uu9c"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Shea Soul",
-          "url": "https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh"
-        }
-      ],
-      "duration_ms": 368780,
-      "name": "Home - Vocal Mix",
-      "url": "https://open.spotify.com/track/5KVlKPgHoznMmMqjRUKMHD"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
       },
@@ -2895,6 +2875,26 @@
       "duration_ms": 554754,
       "name": "Earl Montana",
       "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/790TQ951CFuspPv3o8uu9c"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Shea Soul",
+          "url": "https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh"
+        }
+      ],
+      "duration_ms": 368780,
+      "name": "Home - Vocal Mix",
+      "url": "https://open.spotify.com/track/5KVlKPgHoznMmMqjRUKMHD"
     },
     {
       "added_at": "2024-09-26 22:00:00",

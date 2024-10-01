@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 120588,
+  "num_followers": 120629,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAACk/gL+uLfhJ5PCBXvrRfpb",
+  "snapshot_id": "ZvoTIgAAAAB6TvtrGBUvUyNbyC9TsoF8",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -87,6 +87,26 @@
       "duration_ms": 191128,
       "name": "Parchecito (Remix)",
       "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
+    },
+    {
+      "added_at": "2024-09-30 02:55:30",
+      "album": {
+        "name": "Fans",
+        "url": "https://open.spotify.com/album/6wwCLmkL1FglW591bh1KL1"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 168445,
+      "name": "Fans",
+      "url": "https://open.spotify.com/track/16QsGYythDEi35Pr2I7uLC"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -209,6 +229,30 @@
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
     },
     {
+      "added_at": "2024-09-30 02:55:30",
+      "album": {
+        "name": "Un Like",
+        "url": "https://open.spotify.com/album/4PDGRObNT5p5wgxgsXa5Qr"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        },
+        {
+          "name": "Max Perry",
+          "url": "https://open.spotify.com/artist/3g5anBLg3bhR2jwkiTOmYM"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Un Like",
+      "url": "https://open.spotify.com/track/348J6PE2ZgHpE7dFQj9aQc"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Chacal",
@@ -269,26 +313,6 @@
       "url": "https://open.spotify.com/track/5rsan8lppmmLdAd6pEhRiQ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "I'll Show You",
-        "url": "https://open.spotify.com/album/58nMzmrXTZTUHqadHUoq5m"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "I'll Show You",
-      "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "FAVELA",
@@ -309,28 +333,40 @@
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-30 02:55:30",
       "album": {
-        "name": "Ojitos Cafe",
-        "url": "https://open.spotify.com/album/5X7Z8z6DXF127mbngPHljg"
+        "name": "Habla Como Pana",
+        "url": "https://open.spotify.com/album/5thPm1C4pzx4S6pqimkYop"
       },
       "artists": [
         {
-          "name": "El Dusty",
-          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
         },
         {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
         },
         {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+          "name": "Mar Maria",
+          "url": "https://open.spotify.com/artist/6K2FLYn2eBtSvEye5ZeMoG"
+        },
+        {
+          "name": "Carlienis",
+          "url": "https://open.spotify.com/artist/4UYhJWF3UggiWaek5Fr8n6"
+        },
+        {
+          "name": "El Zeta",
+          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
+        },
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Ojitos Cafe",
-      "url": "https://open.spotify.com/track/3pKUAIXQGfZC2dfWV9nXi2"
+      "duration_ms": 168979,
+      "name": "Habla Como Pana - Remix",
+      "url": "https://open.spotify.com/track/3k09BifCNcHUNKHNmkNv6G"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1107,26 +1143,6 @@
       "duration_ms": 202581,
       "name": "Qu\u00e9 Prefieres?",
       "url": "https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Si Te Parto",
-        "url": "https://open.spotify.com/album/1QJL2JSYWMxG87wFI3ydHm"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        },
-        {
-          "name": "La Baby",
-          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Si Te Parto",
-      "url": "https://open.spotify.com/track/2z9eihSsKW03aUgcD683LZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",

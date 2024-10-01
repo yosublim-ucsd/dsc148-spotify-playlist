@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover :  Max\n",
+  "description": "Check out the latest hits from Sandalwood!\nCover :  Murphy\n",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -18821,6 +18821,32 @@
     },
     {
       "album": {
+        "name": "Mogachi (From \"Murphy\")",
+        "url": "https://open.spotify.com/album/608Mzx1kAwEwLEfJccWYIK"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        },
+        {
+          "name": "Nadia Rebelo",
+          "url": "https://open.spotify.com/artist/1ebUN4cXj2yYORWOojeU9p"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Mogachi (From \"Murphy\")",
+      "url": "https://open.spotify.com/track/6PD9exSQzp6pz2qPwF8uol"
+    },
+    {
+      "album": {
         "name": "Mogadalli (From \"Richie\")",
         "url": "https://open.spotify.com/album/3vfkCDtawX1gXcEUgnp4Fl"
       },
@@ -20330,7 +20356,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 202139,
       "name": "Nanagu Ninagu (From \"Thangalaan\") - Kannada",
       "url": "https://open.spotify.com/track/3JuOHIQNKsg7JMo9RDPQsk"
@@ -22050,6 +22076,32 @@
       "duration_ms": 201443,
       "name": "Ninna Hegalu (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/6kc8YThnO6FC7lfdh8QONk"
+    },
+    {
+      "album": {
+        "name": "Ninna Jhothe (From \"Mr. Celebrity - Kannada\")",
+        "url": "https://open.spotify.com/album/7K0IB4VsX2Q68yJXQcxUpX"
+      },
+      "artists": [
+        {
+          "name": "Vinod Yajamanya",
+          "url": "https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR"
+        },
+        {
+          "name": "Rama Durgam",
+          "url": "https://open.spotify.com/artist/09dYbajCM8q1uSNMukcKsL"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Ninna Jhothe (From \"Mr. Celebrity - Kannada\")",
+      "url": "https://open.spotify.com/track/4S6E46imKvcVG4S3EUBqOq"
     },
     {
       "album": {
@@ -25916,7 +25968,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 65000,
       "name": "Ranebennur Ka Raja (Theme Music)",
       "url": "https://open.spotify.com/track/2p5BLJaPiTjpXwLERXdmOO"

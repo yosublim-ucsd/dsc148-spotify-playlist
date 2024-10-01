@@ -4829,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "Vizardit",
+        "url": "https://open.spotify.com/album/1T8zqrK1dACnjDWICATKGH"
+      },
+      "artists": [
+        {
+          "name": "Hild\u00e1 L\u00e4nsman",
+          "url": "https://open.spotify.com/artist/3qjN2jBKLV1lbJ476k9e1P"
+        },
+        {
+          "name": "Tuomas Norvio",
+          "url": "https://open.spotify.com/artist/6cJR1BWIq2MZwAqmEOHDlC"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Vizardit",
+      "url": "https://open.spotify.com/track/5GOslFje4LJbJiMT4TfXpl"
+    },
+    {
+      "album": {
         "name": "Ehk\u00e4 me n\u00e4hd\u00e4\u00e4n huomenna",
         "url": "https://open.spotify.com/album/0qHxHlLaqnWtiBDKVX4SZ7"
       },

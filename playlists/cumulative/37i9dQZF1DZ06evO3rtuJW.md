@@ -2,7 +2,7 @@
 
 ### [This Is G Herbo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rtuJW)
 
-> This is G Herbo\. The essential tracks, all in one playlist.
+> This is G Herbo\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 136 songs - 6 hr 46 min
 

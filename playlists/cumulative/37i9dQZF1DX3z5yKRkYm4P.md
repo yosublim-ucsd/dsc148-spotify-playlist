@@ -2,7 +2,7 @@
 
 ### [Halloween Fiesta](https://open.spotify.com/playlist/37i9dQZF1DX3z5yKRkYm4P)
 
-> Los muertos al cajón y los vivos al fiestón.
+> Los muertos al cajón y los vivos al fiestón con Beetlejuice.
 
 115 songs - 6 hr 26 min
 

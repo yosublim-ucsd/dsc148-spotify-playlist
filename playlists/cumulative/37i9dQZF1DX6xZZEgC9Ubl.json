@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "100$",
+        "url": "https://open.spotify.com/album/6cZjAGLgKKUTyqGHww7CuZ"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8vesick",
+          "url": "https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164140,
+      "name": "100$ (sped up)",
+      "url": "https://open.spotify.com/track/3QVj1vEdBVFNWtzCVrCGOT"
+    },
+    {
+      "album": {
         "name": "2 Late",
         "url": "https://open.spotify.com/album/4LGEU7vdGCH8fDNmPz8R2W"
       },
@@ -1024,6 +1042,24 @@
       "duration_ms": 128125,
       "name": "ANGST",
       "url": "https://open.spotify.com/track/0NNYa3XHmIxW0qPw5tqcKg"
+    },
+    {
+      "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129586,
+      "name": "another song",
+      "url": "https://open.spotify.com/track/7znnURzbiabwxPXttDlY5G"
     },
     {
       "album": {
@@ -2745,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/5zQOHCZjMhgwfKWtSjVT0M"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90647,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/4W6orj6Dwn2k5puHmfqPzS"
+    },
+    {
+      "album": {
         "name": "COMATOSE",
         "url": "https://open.spotify.com/album/6BcAcmEItC72RQupMu6qgy"
       },
@@ -3563,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "DON'T WORRY, I'LL BE FINE",
+        "url": "https://open.spotify.com/album/09natI8LumZF8kRgCuUSRe"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130322,
+      "name": "DIRTBAG",
+      "url": "https://open.spotify.com/track/50E0Pl2yc4rycFqTH1cGRD"
+    },
+    {
+      "album": {
         "name": "Disappointment (feat. Rxseboy)",
         "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
       },
@@ -3578,7 +3650,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 142092,
       "name": "Disappointment (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
@@ -5101,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7bwKJKf5LTnSoKC2bABLmn"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178264,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/0vuajUp8yvRmxl1p0vMr4K"
+    },
+    {
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
       },
@@ -5338,7 +5428,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 134885,
       "name": "fragment",
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
@@ -5614,7 +5704,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 124000,
       "name": "FWM2",
       "url": "https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v"
@@ -5708,6 +5798,24 @@
       "duration_ms": 105257,
       "name": "get me high",
       "url": "https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst"
+    },
+    {
+      "album": {
+        "name": "ghost in the flesh",
+        "url": "https://open.spotify.com/album/0SMJ11BJlIFC7KBjwNaRqr"
+      },
+      "artists": [
+        {
+          "name": "conscience",
+          "url": "https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "ghost in the flesh",
+      "url": "https://open.spotify.com/track/46eaJ7saGguB0WfBJS04D9"
     },
     {
       "album": {
@@ -9490,7 +9598,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173893,
       "name": "Lying To Myself",
       "url": "https://open.spotify.com/track/3f07vmqG0FxVFdUWqTREEw"
@@ -10110,7 +10218,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173545,
       "name": "mistakes",
       "url": "https://open.spotify.com/track/15dJLTji58BsvcTDZ2QxQG"
@@ -10794,7 +10902,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 152845,
       "name": "nobody else",
       "url": "https://open.spotify.com/track/5tNsiJvMrreUQASdTU4FVh"
@@ -12228,7 +12336,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 226451,
       "name": "poisonous waters",
       "url": "https://open.spotify.com/track/5ubCpyTHviD1uU9qzmxMIZ"
@@ -14640,7 +14748,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
@@ -16605,6 +16713,24 @@
     },
     {
       "album": {
+        "name": "UPSET BOULDER",
+        "url": "https://open.spotify.com/album/1LUyXu80KBI7E3prbEPJ7P"
+      },
+      "artists": [
+        {
+          "name": "Vwillz",
+          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122758,
+      "name": "UPSET BOULDER",
+      "url": "https://open.spotify.com/track/4BOaSGGR7vqOjhoHZdREpz"
+    },
+    {
+      "album": {
         "name": "Used and Abused",
         "url": "https://open.spotify.com/album/1w0MBnT1F7aOiiA7i04gmB"
       },
@@ -17912,6 +18038,24 @@
       "duration_ms": 180062,
       "name": "World a Fuck",
       "url": "https://open.spotify.com/track/2dXB7f4cfJNvDZUQg7uS6S"
+    },
+    {
+      "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155711,
+      "name": "World Tour (Aquafina)",
+      "url": "https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G"
     },
     {
       "album": {

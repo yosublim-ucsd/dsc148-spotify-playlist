@@ -2,7 +2,7 @@
 
 ### [This Is Bonobo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02Y0rS)
 
-> This is Bonobo。アーティストの代表曲をひとつのプレイリストに。
+> This is Bonobo\. The essential tracks, all in one playlist.
 
 90 songs - 7 hr 7 min
 

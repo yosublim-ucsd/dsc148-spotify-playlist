@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Le meilleur de la chanson française actuelle\. Photo : Zaho de Sagazan
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,456 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,476 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 48 | [La route de Vénus](https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La route de Vénus](https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7) | 3:10 |
 | 49 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 |
 
-Snapshot ID: `ZvXZYAAAAABi4bR+P26jElgfs8aRwDJy`
+Snapshot ID: `ZvqbqAAAAAAPbz+JVYCgFR11QFwZj5/I`

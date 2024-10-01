@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Kim Ximya\(김심야\)\)
+> The fresh & hottest K\-Hip hop tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,416 likes - 103 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,377 likes - 103 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 102 | [THE NICE FREESTYLE](https://open.spotify.com/track/4zXBEMN4LdPPwnAytHrxi2) | [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK) | [THE NICE FREESTYLE](https://open.spotify.com/album/5zTGDCsfu2yTf8NA2OXHfl) | 3:29 |
 | 103 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `ZvPWSQAAAAB5X+KSDQ3sDFd2N8QdwG+7`
+Snapshot ID: `ZvpagAAAAAAPhPeX7pbDZdugMCPAjoY6`

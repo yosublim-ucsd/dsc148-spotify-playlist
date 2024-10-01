@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is The XCERTS\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is The XCERTS. The essential tracks, all in one playlist.",
   "name": "This Is The XCERTS",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 167691,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 317573,
       "name": "Hurt with Me",
       "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 165334,
       "name": "Lust In Translation",
       "url": "https://open.spotify.com/track/7KVn75EGzjgomi0hAKSHcU"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 212746,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z"

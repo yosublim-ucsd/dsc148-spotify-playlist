@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 362346,
       "name": "Aeterna",
       "url": "https://open.spotify.com/track/0e0YvuEbZFJycBvYlIC2wz"
@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Heavy Metal Viking",
+        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231356,
+      "name": "Heavy Metal Viking",
+      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
+    },
+    {
+      "album": {
         "name": "HELIX",
         "url": "https://open.spotify.com/album/1ahaJDVWamBPImLRWpqWiX"
       },
@@ -7368,6 +7386,24 @@
       "duration_ms": 286160,
       "name": "Portrait of Us",
       "url": "https://open.spotify.com/track/67uIun0M8fLAW6ZkVqdSSJ"
+    },
+    {
+      "album": {
+        "name": "Power Of The Beast",
+        "url": "https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269665,
+      "name": "Power Of The Beast",
+      "url": "https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY"
     },
     {
       "album": {
@@ -10382,7 +10418,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 282610,
       "name": "Total T-Rex Terror",
       "url": "https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe"

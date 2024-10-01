@@ -2,7 +2,7 @@
 
 ### [This Is Auli'i Cravalho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
 
-> This is Auli'i Cravalho\. Todos os maiores hits em uma só playlist.
+> This Is Auli'i Cravalho\. Los temas esenciales, todos en una lista.
 
 28 songs - 1 hr 20 min
 

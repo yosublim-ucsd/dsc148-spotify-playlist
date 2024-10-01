@@ -3433,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "King Forever",
+        "url": "https://open.spotify.com/album/3acIRjFB8PR3MRcBNDeUeJ"
+      },
+      "artists": [
+        {
+          "name": "Julian Roberts",
+          "url": "https://open.spotify.com/artist/3iEUsaFN1cxgIUgjJSrE8c"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365217,
+      "name": "King Forever",
+      "url": "https://open.spotify.com/track/5FGeFdpVtoI7cFv4q835Ou"
+    },
+    {
+      "album": {
         "name": "Kingdom Love",
         "url": "https://open.spotify.com/album/1mkKTWvru1BNoKlQAHdn79"
       },
@@ -4046,7 +4068,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
@@ -4672,6 +4694,24 @@
       "duration_ms": 157500,
       "name": "Pariwo",
       "url": "https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM"
+    },
+    {
+      "album": {
+        "name": "perfect union",
+        "url": "https://open.spotify.com/album/53HnNVVIVvgsRMNI49KLip"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210745,
+      "name": "perfect union",
+      "url": "https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK"
     },
     {
       "album": {
@@ -5674,7 +5714,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 344733,
       "name": "Victory Belongs To Jesus (Live)",
       "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"

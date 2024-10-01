@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: imase + なとり \*👉 <a href="https://spice.eplus.jp/articles/332168?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-7,899 songs - 20 day 6 hr 26 min
+7,900 songs - 20 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3536,6 +3536,7 @@
 | [Popcorn and Coke](https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Shaped Canvas 3](https://open.spotify.com/album/6Pl3PiHUB4elhbqXPl4Brb) | 2:37 | 2023-10-24 | 2023-11-01 |
 | [POPSONG](https://open.spotify.com/track/0eJbIqK9VQJ5uCvA8HMvAs) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [POPSONG](https://open.spotify.com/album/73WQe5LHQLGOs4mZP1iLsy) | 3:46 | 2023-05-30 | 2023-06-07 |
 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-06 | 2023-06-14 |
+| [Porcupine Tattoo](https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Porcupine Tattoo](https://open.spotify.com/album/7yHTcBmhMU0hRmoFQIDVOf) | 3:26 | 2024-09-25 |  |
 | [Portrait](https://open.spotify.com/track/3rrVjrKZsqfEvQJK1MYkV8) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [Portrait](https://open.spotify.com/album/0zA9ivzofydgFII9B04DIb) | 4:04 | 2024-02-20 | 2024-02-28 |
 | [Possible](https://open.spotify.com/track/6Nd8Tlw3PQC7B5hGho4Hqw) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [THE LAST](https://open.spotify.com/album/7Hl8NkajzggE7S2Uloz4O1) | 4:26 | 2023-10-24 | 2023-11-01 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-24 | 2024-05-01 |

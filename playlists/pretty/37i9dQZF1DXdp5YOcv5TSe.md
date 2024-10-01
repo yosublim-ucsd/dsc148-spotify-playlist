@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 LoL
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,020 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,068 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Excuse Me Miss](https://open.spotify.com/track/6yARHSUTgFimuEpkKI2TF6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album Chapter 2\. 'Why So Serious? \- The Misconceptions Of Me'](https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj) | 3:42 |
 | 50 | [Fire](https://open.spotify.com/track/7j2FhVH4n7X7D669o8T87z) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:07 |
 
-Snapshot ID: `ZvMqyQAAAABZTieInFhZMnn3MGQjqJzJ`
+Snapshot ID: `Zvq6mgAAAABnVfZKboehFIh6iW4KAmD0`

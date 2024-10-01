@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Indochine
+> Les meilleures nouveautés de la scène rock française\. Photo : Last Train
 
-264 songs - 16 hr 5 min
+267 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-02-09 |
 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 | 2023-10-20 | 2023-12-01 |
 | [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 | 2023-09-28 | 2023-10-23 |
+| [Beauty and the Beat](https://open.spotify.com/track/22mWSz9nouFgzGrwdzCJvy) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Beauty and the Beat](https://open.spotify.com/album/7LgHbc8k8FOjdWUHPrrb06) | 4:08 | 2024-09-30 |  |
 | [Bewitched Me](https://open.spotify.com/track/1kJdkrtByJFrUe3eIefo47) | [Howlin' Jaws](https://open.spotify.com/artist/5i6iGHHnuGDlQR9PLaqikc) | [Half Asleep Half Awake](https://open.spotify.com/album/6ur6w7vngoC5G6I6IgS4Wr) | 2:22 | 2023-11-30 | 2024-01-19 |
 | [BIG](https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [BIG](https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q) | 2:15 | 2023-10-19 | 2024-02-09 |
 | [Big Bad World](https://open.spotify.com/track/5Kxvk9n1gYl1AbXHI2r8Nk) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 5:03 | 2024-02-15 | 2024-06-28 |
@@ -63,7 +64,7 @@
 | [Constant Rebirth](https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Constant Rebirth](https://open.spotify.com/album/177ZDDCagLXjwZyglACK5Y) | 3:54 | 2023-11-16 | 2024-01-19 |
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-07-18 |  |
 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 | 2023-09-28 | 2023-11-10 |
-| [Curse](https://open.spotify.com/track/5oDoLOYCpj3yWvdOYPI0j8) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Curse](https://open.spotify.com/album/3prw2GR8dd3xJB9b1jWSx5) | 3:02 | 2024-05-02 |  |
+| [Curse](https://open.spotify.com/track/5oDoLOYCpj3yWvdOYPI0j8) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Curse](https://open.spotify.com/album/3prw2GR8dd3xJB9b1jWSx5) | 3:02 | 2024-05-02 | 2024-10-01 |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-09-28 | 2024-06-14 |
 | [Dance](https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX) | [MADAM](https://open.spotify.com/artist/6JbwGT0YARZ43pze31ST8h) | [Thanks for the Noise](https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3) | 3:28 | 2024-04-11 |  |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-11-09 | 2023-12-08 |
@@ -98,6 +99,7 @@
 | [Guess Who's Back](https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi) | [The Big Idea](https://open.spotify.com/artist/3pXrb8c666Unh7CI7coovt) | [Guess Who's Back](https://open.spotify.com/album/67kQJAVLDFZqF2auxwolVv) | 3:19 | 2023-11-16 | 2024-03-01 |
 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-01 | 2024-03-01 |
 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-06 |  |
+| [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-09-30 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 | 2024-02-09 |
 | [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 | 2024-04-25 |  |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-02 | 2024-02-16 |
@@ -196,7 +198,7 @@
 | [SDF](https://open.spotify.com/track/0ydZv3UFUX0IvluLpxFqt4) | [Les Sales Majestés](https://open.spotify.com/artist/1qMwG3Gg5RJkSMXS8dFWYw) | [SDF](https://open.spotify.com/album/2DRsEdyoXZSOcByISNhJFR) | 3:10 | 2024-04-11 | 2024-05-24 |
 | [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-25 | 2024-06-28 |
 | [Serotonin](https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Serotonin](https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj) | 4:23 | 2023-12-14 | 2024-03-15 |
-| [Shadow](https://open.spotify.com/track/5orwwYcf7dNnRe3l0D5xJc) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Shadow](https://open.spotify.com/album/7LNWP5nj2Tto1dfJxSwfwz) | 4:09 | 2024-05-09 |  |
+| [Shadow](https://open.spotify.com/track/5orwwYcf7dNnRe3l0D5xJc) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Shadow](https://open.spotify.com/album/7LNWP5nj2Tto1dfJxSwfwz) | 4:09 | 2024-05-09 | 2024-10-01 |
 | [She Said](https://open.spotify.com/track/6nFyCnc6iKU5G2u8GIE6um) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [She Said](https://open.spotify.com/album/6n9BWTvWeTpd0dnLHv0xdH) | 3:30 | 2024-02-15 | 2024-04-19 |
 | [Sheer](https://open.spotify.com/track/51bCjqkHdXpJVrouWac7OU) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Sheer](https://open.spotify.com/album/0FWk1F0liElxKrWMyHjAzP) | 2:54 | 2024-03-14 | 2024-05-17 |
 | [Silly Dreams](https://open.spotify.com/track/1tuZGEBipGpUXYcz5u3lIx) | [Gurl](https://open.spotify.com/artist/4Fj5Yd9zJaMILwRxWlHSTB) | [Silly Dreams](https://open.spotify.com/album/1rw3wL6MeQmcyM4rbqTe7z) | 3:59 | 2023-09-28 | 2024-02-09 |
@@ -251,11 +253,12 @@
 | [Tout ce qu’on FFFait](https://open.spotify.com/track/3rc4EzfgwJ1R3YV2HQO4d3) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [I Scream](https://open.spotify.com/album/49ZIzeby1m55F18p2haiMy) | 4:01 | 2024-04-18 | 2024-04-26 |
 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-09-28 | 2023-11-10 |
 | [Trouble Don't Last](https://open.spotify.com/track/6XGbbKHaw25B4jGg7D9sN6) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Trouble Don't Last](https://open.spotify.com/album/0FHwczgZJ2Rses5cSMoMfP) | 4:22 | 2024-01-18 | 2024-02-16 |
+| [Tu Nous Mérites Pas](https://open.spotify.com/track/2MxvNkqDGtJCvNhcQmvjN7) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Apocalypto](https://open.spotify.com/album/6H0OO1uVub5IVdJBbXIv0u) | 3:28 | 2024-09-30 |  |
 | [Unsaid](https://open.spotify.com/track/49uhJCtngaCbxNbL2Q0iXF) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Unsaid](https://open.spotify.com/album/4ilcQu9fD4aieiRbfziPCw) | 4:34 | 2024-03-14 | 2024-05-10 |
 | [Us Blazing](https://open.spotify.com/track/2zbYpfHRqYn5HD4G5PySMt) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Strangers](https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW) | 3:09 | 2023-09-28 | 2023-12-15 |
 | [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 | 2024-01-04 | 2024-02-02 |
 | [Velvet Moon](https://open.spotify.com/track/2dx6O9590PI61Wsthx1jp3) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Velvet Moon](https://open.spotify.com/album/7lbzoBCV4BsfWVkJpHz83R) | 2:40 | 2023-09-28 | 2023-10-20 |
-| [Villains](https://open.spotify.com/track/63GDtWCM1asvKArbBLxLxi) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ) | [Villains](https://open.spotify.com/album/2ya7UANtfIYibL2V5HodKV) | 2:27 | 2024-04-18 |  |
+| [Villains](https://open.spotify.com/track/63GDtWCM1asvKArbBLxLxi) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ) | [Villains](https://open.spotify.com/album/2ya7UANtfIYibL2V5HodKV) | 2:27 | 2024-04-18 | 2024-10-01 |
 | [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2023-12-08 | 2024-01-26 |
 | [Wake Up And Run](https://open.spotify.com/track/1EIafjiwfoNU83IiSGJgF2) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Wake Up And Run](https://open.spotify.com/album/6aqGXCLhXYxFsUpuXOw69T) | 3:28 | 2024-05-30 | 2024-08-23 |
 | [Wasted](https://open.spotify.com/track/1v7EnFmEQkRFj3ilzUElwq) | [GRENADE](https://open.spotify.com/artist/3iA64D60HnedIfGDqHmKYW) | [Wasted](https://open.spotify.com/album/34VGAwtVtYRtvwD27nynjX) | 2:29 | 2024-06-20 |  |

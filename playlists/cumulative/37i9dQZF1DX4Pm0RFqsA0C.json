@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125129,
+      "name": "\uc778\ud615",
+      "url": "https://open.spotify.com/track/5m51MHtLkaSFDrdkceXQoG"
+    },
+    {
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 211253,
       "name": "\ucd1b\ubd88\ud558\ub098 One Candle",
       "url": "https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB"

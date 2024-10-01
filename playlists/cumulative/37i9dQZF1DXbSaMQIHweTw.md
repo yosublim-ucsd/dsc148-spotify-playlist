@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-156 songs - 8 hr 20 min
+157 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,13 +70,14 @@
 | [Ghost Rider](https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Ghost Rider](https://open.spotify.com/album/7LZBdskdqo3OHvjlRYplgp) | 2:46 | 2023-03-17 | 2023-04-25 |
 | [God Bless You](https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [God Bless You](https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2) | 2:36 | 2024-07-29 |  |
 | [Good Boy](https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Good Boy](https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK) | 2:41 | 2023-11-15 | 2024-05-23 |
-| [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-17 |  |
+| [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-17 | 2024-10-01 |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-17 |  |
 | [Gulab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 | 2023-10-19 |  |
 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 | 2023-03-17 |  |
 | [Haalaat](https://open.spotify.com/track/78mlRr3vhLikHTWNkPhlOf) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Haalaat](https://open.spotify.com/album/20TsuaBtaR4x4Sci8r3HLz) | 3:56 | 2023-03-17 | 2023-04-25 |
 | [Halaat](https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:40 | 2024-09-19 |  |
 | [Heal](https://open.spotify.com/track/63fTryyhjbkCk8njSv4i18) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Heal](https://open.spotify.com/album/5QcuKHa15Dq0hEOUDIrOYT) | 3:04 | 2023-03-17 | 2023-04-25 |
+| [Hood Life](https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Hood Life](https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU) | 3:17 | 2024-09-30 |  |
 | [Hood Poetry](https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 3:15 | 2024-09-19 |  |
 | [Independent](https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Independent](https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge) | 3:40 | 2024-05-22 |  |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-17 | 2023-12-14 |

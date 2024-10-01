@@ -1,12 +1,12 @@
 {
-  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 414941,
+  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
+  "num_followers": 415031,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAAA1xM3SX/Jx8kCngmcRTnTH",
+  "snapshot_id": "ZviYgAAAAAAbCWW5OEGQLDgEgHsKsKZc",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
       },
       "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 182000,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
+      "duration_ms": 173336,
+      "name": "Un Par De Ojitos Negros - En Vivo",
+      "url": "https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3"
     },
     {
       "added_at": null,
@@ -431,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "Un Par De Ojitos Negros - En Vivo",
-      "url": "https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enfiestados En Culiacan",
         "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
@@ -460,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 164435,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
+      "duration_ms": 182000,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
     },
     {
       "added_at": null,
@@ -528,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 246428,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
+      "duration_ms": 164435,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 215666,
       "name": "Juan Ramos - En Vivo",
       "url": "https://open.spotify.com/track/5QGFnRUd57iEStVfRRgpzE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+      },
+      "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 246428,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
     },
     {
       "added_at": null,

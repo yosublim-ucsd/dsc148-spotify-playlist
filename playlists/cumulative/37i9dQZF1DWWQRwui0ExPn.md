@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,983 songs - 11 day 0 hr 45 min
+6,985 songs - 11 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3584,7 +3584,7 @@
 | [Low Light](https://open.spotify.com/track/3k2LhixJoiaBmzPVoVDXsq) | [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Low Light](https://open.spotify.com/album/0xEEiASBiCjfRTivyc640F) | 1:49 | 2022-12-02 | 2024-01-19 |
 | [Low Light](https://open.spotify.com/track/50GgGFke22W9dVw6AgGHJu) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Low Light](https://open.spotify.com/album/541XWxsAYmzTzAGndjcEy3) | 2:07 | 2023-08-03 | 2024-01-12 |
 | [Low Tide](https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Low Tide](https://open.spotify.com/album/4NKElIDmOSXyChrfwC5DW2) | 2:16 | 2024-04-19 |  |
-| [Low.noise](https://open.spotify.com/track/11UKFXDDUgzeBsPuRMvbs7) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Low.noise](https://open.spotify.com/album/7wg5ljVlAdJY01bRiV1VWo) | 1:25 | 2024-01-12 |  |
+| [Low.noise](https://open.spotify.com/track/11UKFXDDUgzeBsPuRMvbs7) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Low.noise](https://open.spotify.com/album/7wg5ljVlAdJY01bRiV1VWo) | 1:25 | 2024-01-12 | 2024-10-01 |
 | [Lowaltitude](https://open.spotify.com/track/2VjiQGqn4r6Y0a7V2V4NPB) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Lowaltitude](https://open.spotify.com/album/6NCUt3BUBQUn3XaLcgB8lO) | 2:05 | 2022-05-27 | 2022-09-23 |
 | [Lowkey](https://open.spotify.com/track/2vPZkk05tEl3NCwTSLqf9H) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Lowkey](https://open.spotify.com/album/16c23L2Mjpd6FbVMhLXCfl) | 2:08 | 2020-01-03 | 2020-07-07 |
 | [Lowkey](https://open.spotify.com/track/4sJFru7sPCDgKaYFBBgFB2) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lowkey](https://open.spotify.com/album/1h2ThUgZxnvMrDyRhbtRlP) | 2:18 | 2023-09-22 | 2023-11-11 |
@@ -5097,6 +5097,7 @@
 | [Sabrina](https://open.spotify.com/track/0EOYfOyUX2MtToXw2iUERC) | [PawnShop Guy](https://open.spotify.com/artist/3dYZvW3b9n2aZcV1Z4d07B) | [After Hours](https://open.spotify.com/album/5mL40kAbYKTFXVyYHkVKXs) | 1:39 | 2020-11-05 | 2021-10-20 |
 | [Sad Dude On A Bike](https://open.spotify.com/track/6u5G6HFf2DvoPFGO2xctCE) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Sad Dude On A Bike](https://open.spotify.com/album/5etsGrW2Cw65rqUHnRpwpg) | 1:47 | 2022-02-25 | 2022-07-30 |
 | [Sad Emoji](https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sad Emoji](https://open.spotify.com/album/6wJVzVhr5oSNfqzkTDCRez) | 2:15 | 2021-06-18 | 2022-01-14 |
+| [Sad Pengu](https://open.spotify.com/track/1xfMS6x3X5wCzEQMjlFRTO) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [Sad Pengu](https://open.spotify.com/album/4yFZLHNP2aPqURjf5P52MK) | 2:08 | 2024-09-27 |  |
 | [Sad Turtle](https://open.spotify.com/track/3M0shkCw5qy6ETcsNvXBLe) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Sad Turtle](https://open.spotify.com/album/3dK2CjpSp9eDbP96cwkS5L) | 2:00 | 2023-01-20 | 2023-09-30 |
 | [SaDa](https://open.spotify.com/track/7bJ4RdquDO1A29rJ34tiMz) | [furino](https://open.spotify.com/artist/1sv4gTq127OMmuGVbaZbfU) | [SaDa](https://open.spotify.com/album/1alrJ841wrZewCQYfqwtVs) | 2:04 | 2019-11-08 | 2021-07-11 |
 | [Safe and Sound](https://open.spotify.com/track/4nz74ILBRpGRGOGwxNot3M) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Safe and Sound](https://open.spotify.com/album/3lLpKjgwSljg32gbQQKcQD) | 2:21 | 2022-08-12 | 2022-11-25 |
@@ -5366,7 +5367,7 @@
 | [Skydancer](https://open.spotify.com/track/5nD9zxsQ5C4Dh3Lc0HNf5G) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [EP IV](https://open.spotify.com/album/2oEMy6PdPZrBvj9158T7yv) | 2:11 | 2023-03-24 | 2023-10-20 |
 | [Skyhigh](https://open.spotify.com/track/77TvxMEVhaiM584C73Oh02) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Skyhigh](https://open.spotify.com/album/4PAW3fn3HCb1yXfadEYlaC) | 2:42 | 2019-12-23 | 2020-06-24 |
 | [Skyline](https://open.spotify.com/track/5BkBICccXAYEXxPpeX7Z9k) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Skyline](https://open.spotify.com/album/3dwaVCYZqGQUC6sMfoBfwC) | 1:52 | 2022-01-14 | 2022-07-08 |
-| [Skylines](https://open.spotify.com/track/6RgNJnwbaILu1WojxGFwYC) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skylines](https://open.spotify.com/album/5QkLU7I5qnD4mU8judrJfv) | 2:03 | 2022-10-28 |  |
+| [Skylines](https://open.spotify.com/track/6RgNJnwbaILu1WojxGFwYC) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skylines](https://open.spotify.com/album/5QkLU7I5qnD4mU8judrJfv) | 2:03 | 2022-10-28 | 2024-10-01 |
 | [Skypiea Chill](https://open.spotify.com/track/46JerED6uxiEBsQh6Tho01) | [O.Z.W](https://open.spotify.com/artist/6ocegjI6qFERFhKcHo1lvz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Skypiea Chill](https://open.spotify.com/album/4jdldy30fheOTotwhsS8t1) | 2:45 | 2022-09-02 | 2022-12-03 |
 | [Slack](https://open.spotify.com/track/1NinSAwNClX9Vl5v66qWE2) | [DJ Buzz](https://open.spotify.com/artist/4OL7JQEzpw3nyfQn0DrrB6) | [Slack](https://open.spotify.com/album/7yhbDimWjJ14ps15Bubqka) | 2:39 | 2023-04-05 | 2023-10-27 |
 | [Slack\-jawed](https://open.spotify.com/track/3FXTVPlMP7FfGOafCOk3Cc) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Slack\-jawed](https://open.spotify.com/album/6TxO2cqvIqROVKsBX6OxrK) | 2:09 | 2023-09-29 | 2024-04-27 |
@@ -6956,6 +6957,7 @@
 | [Your Vibe](https://open.spotify.com/track/1DM6OEWbOSsaL0eDMQBmhV) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [De La Crème](https://open.spotify.com/album/7sdDO4v6wf19Kz60IszTap) | 1:27 | 2022-02-25 | 2022-07-16 |
 | [Yours](https://open.spotify.com/track/6LjKrcsIkqKBu3R77CgFxF) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Yours](https://open.spotify.com/album/5PPOFjyayurcIKf6M4YRbz) | 2:26 | 2021-11-20 | 2022-06-17 |
 | [yours in the end](https://open.spotify.com/track/4wLxKc5S6xM2J9Z7YFjsRv) | [Shiro](https://open.spotify.com/artist/1udlYKXZJPJW9zFMz6deuj) | [yours in the end](https://open.spotify.com/album/0ARqopFhP54PReshHnrWjY) | 1:37 | 2021-10-20 | 2022-04-24 |
+| [Youthful Spirit](https://open.spotify.com/track/67TkL3Uis6G3rdiWsq1N6b) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Youthful Spirit](https://open.spotify.com/album/2LiwJJaTROBzfBQWDixD5k) | 2:40 | 2024-09-27 |  |
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-09-29 |
 | [yugatu](https://open.spotify.com/track/3eq5UzNAoGMdns6JayLaZg) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [yugatu](https://open.spotify.com/album/1aI9v6ZA0k88NrdpqfNhCc) | 3:22 | 2022-07-15 | 2022-10-24 |
 | [yugatu](https://open.spotify.com/track/7Im8ZwdtOa8brvg6sreL0w) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 3:22 | 2022-10-14 | 2022-10-28 |

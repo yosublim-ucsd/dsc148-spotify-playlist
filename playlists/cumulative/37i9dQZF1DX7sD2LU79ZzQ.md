@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Keisya Levronka
 
-504 songs - 1 day 8 hr 51 min
+505 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3..2..1](https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [3..2..1](https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg) | 3:23 | 2024-07-11 | 2024-08-16 |
 | [Aamiin](https://open.spotify.com/track/3FRGbPa2bnTnKJorChtfmk) | [Bisma Karisma](https://open.spotify.com/artist/2enJCAxn8Ol08JzJYBWaBc) | [Aamiin](https://open.spotify.com/album/4wqO9XYOpfoQLVX185d1Cp) | 4:00 | 2024-03-28 | 2024-04-26 |
 | [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-19 |  |
+| [Abangku](https://open.spotify.com/track/58w5cBvrboUzlt5Ui4Wqj8) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Abangku](https://open.spotify.com/album/4QxhzrKRjmqdTCFrvO7773) | 3:29 | 2024-09-26 |  |
 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 | 2024-01-18 | 2024-03-22 |
 | [Ade 2024](https://open.spotify.com/track/6PVtqu8Lrjckx3sASMpMij) | [Project Pop](https://open.spotify.com/artist/2D3ztMHoKJOJs3HgQJPXf6), [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK), [Nagita Slavina](https://open.spotify.com/artist/63PbdDwARA6MC2VixhGkD0) | [PROJECT POP 2856](https://open.spotify.com/album/3j8X0tnyGb892c9RyOveK9) | 3:53 | 2024-06-27 | 2024-07-19 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-18 | 2024-03-22 |

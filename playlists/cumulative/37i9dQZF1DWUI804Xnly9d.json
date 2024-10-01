@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 200390,
       "name": "Dooriyan",
       "url": "https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB"
@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Kedarnath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238369,
+      "name": "Jaan 'Nisaar",
+      "url": "https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M"
+    },
+    {
+      "album": {
         "name": "Tejas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt"
       },
@@ -3810,6 +3828,32 @@
       "duration_ms": 160229,
       "name": "Kho Gaya Kyun",
       "url": "https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0"
+    },
+    {
+      "album": {
+        "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213055,
+      "name": "Kho Gaye Hum Kahan",
+      "url": "https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98"
     },
     {
       "album": {
@@ -8450,7 +8494,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 209635,
       "name": "Zinda Dili (Acoustic)",
       "url": "https://open.spotify.com/track/63zdWfw8X4chrbl36Ag9nX"

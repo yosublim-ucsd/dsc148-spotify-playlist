@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 132925,
+  "num_followers": 132922,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Terrorista del Amor",
-      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
       "url": "https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Terrorista del Amor",
+      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Maris",
-        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
-      },
-      "artists": [
-        {
-          "name": "JORGE",
-          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Maris",
-      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Flor de Laranjeira",
         "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210866,
       "name": "N\u00f3",
       "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Maris",
+        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
+      },
+      "artists": [
+        {
+          "name": "JORGE",
+          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Maris",
+      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "SEM MALDADE",
         "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170465,
       "name": "SEM MALDADE",
       "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2023-06-23 03:00:00",

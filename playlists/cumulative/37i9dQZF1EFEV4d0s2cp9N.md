@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EFEV4d0s2cp9N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFEV4d0s2cp9N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFEV4d0s2cp9N)
 
-### [Written By BLVSH](https://open.spotify.com/playlist/37i9dQZF1EFEV4d0s2cp9N)
+### [Written By Blush Davis](https://open.spotify.com/playlist/37i9dQZF1EFEV4d0s2cp9N)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">BLVSH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 55 songs - 2 hr 42 min
 

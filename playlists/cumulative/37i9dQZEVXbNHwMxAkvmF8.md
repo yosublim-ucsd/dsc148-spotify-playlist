@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,261 songs - 2 day 18 hr 42 min
+1,262 songs - 2 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,11 +557,12 @@
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-01 |
 | [Játék](https://open.spotify.com/track/2dleJPgG3pSBPfo1AYwVQv) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:26 | 2024-06-13 | 2024-06-23 |
 | [Jéghidegen](https://open.spotify.com/track/0ppLdQ8oJifyUvSVPPyes4) | [Mehringer Marci](https://open.spotify.com/artist/5F3j6uAy19mqLhQy50x1At) | [Jéghidegen](https://open.spotify.com/album/12e6xF8lsLLFxIn4pfrf8S) | 2:55 | 2022-04-16 | 2022-04-18 |
+| [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-09-30 |  |
 | [Jó modor 2](https://open.spotify.com/track/2m4M8p4bmwEXdRH2NE1iBj) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:34 | 2023-04-08 | 2023-04-23 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-05 |
 | [Kamagra Gang](https://open.spotify.com/track/2RXUQI9ymvyPCmD2V5Hm44) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Kamagra Gang](https://open.spotify.com/album/6esO71DZDwxvtHTpC6v6Vy) | 2:49 | 2023-04-24 | 2023-05-21 |
 | [kaotikus egy ház!](https://open.spotify.com/track/3viRS8dmqrg2j71qisdECB) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 | 2023-05-02 | 2023-07-30 |
-| [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-04-19 |  |
+| [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-04-19 | 2024-10-01 |
 | [Karaoke](https://open.spotify.com/track/3mLECVIVueSn6iQMMSWpT8) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 3:21 | 2022-04-23 | 2022-04-25 |
 | [KARDHAL](https://open.spotify.com/track/6W42SdBZFdyR26wHv3relZ) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KARDHAL](https://open.spotify.com/album/5qwSvnyPwvijsbUan4zqya) | 3:54 | 2022-04-16 | 2022-04-23 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-27 |

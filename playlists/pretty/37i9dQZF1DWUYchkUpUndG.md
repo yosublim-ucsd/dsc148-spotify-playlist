@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ?si=aldOr8I9RVC1j0PguzRxug>Matt Redman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,056 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,063 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 25 | [Grateful \(I Am Standing\)](https://open.spotify.com/track/7t1trkTt4w0X55XibuG24F) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [Grateful \(I Am Standing\)](https://open.spotify.com/album/6VV3RsF32v6eXm1JwzBdmu) | 2:55 |
 | 26 | [Living Water](https://open.spotify.com/track/5xVtLhfxJKrlwXPhNYfhcD) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Living Water](https://open.spotify.com/album/4ryDqnS7aEjvOV2dkzDSRB) | 2:31 |
 | 27 | [NeVeR](https://open.spotify.com/track/5ubJeMF2mU09jiE91IsIRB) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [NeVeR](https://open.spotify.com/album/3omiFMtOK5ha3MmA6wYW3X) | 2:55 |
-| 28 | [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 |
+| 28 | [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 |
 | 29 | [Te Amo](https://open.spotify.com/track/6tM4E2Je4omnd7FwHt6tyf) | [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Te Amo](https://open.spotify.com/album/48QpXRtvOmjb5sSbs4JZZc) | 3:46 |
 | 30 | [All Power Belongs To God](https://open.spotify.com/track/1hNqwnnTHZnUQvhmL5ZTqC) | [Progress](https://open.spotify.com/artist/2UBDBFHsLBu7pP7dTqKiKx) | [All Power Belongs To God](https://open.spotify.com/album/3v17skYQWXurdzj3u12gt6) | 2:51 |
 | 31 | [Patchy Drumsticks](https://open.spotify.com/track/4bGjtNrETvephq7hOg8m8m) | [WNF](https://open.spotify.com/artist/29w32WrsbtECibZZ1utJiS), [6TINTMay](https://open.spotify.com/artist/7JVZp3OG6v1sjWTwoKQ64L) | [Patchy Drumsticks](https://open.spotify.com/album/62PHH2OOyDia4SIq8qhXBy) | 3:54 |

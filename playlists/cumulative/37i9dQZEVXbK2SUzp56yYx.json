@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 98000,
       "name": "A-What",
       "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -2676,6 +2676,24 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "album": {
@@ -5548,7 +5566,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -12012,7 +12030,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 189500,
       "name": "\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6U6PO5A5gI9jzwOpWF4y90"
@@ -13416,7 +13434,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 172745,
       "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
       "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"
@@ -14090,7 +14108,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 195709,
       "name": "\u0421\u043d\u044b",
       "url": "https://open.spotify.com/track/3elEKVMMpKYSDt0LsUo8EE"
@@ -14726,7 +14744,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 122613,
       "name": "\u0423\u0432\u0430\u0436\u0430\u044e \u043c\u0443\u0436\u0447\u0438\u043d",
       "url": "https://open.spotify.com/track/478TXWPAvpsYdWHiLhWjii"

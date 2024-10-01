@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e\">Buz\u00f3n de Quejas</a>",
-  "name": "RADAR Podcasters M\u00e9xico",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb?si=f879e1af96ed4d5d\">Se regalan sustos</a>",
+  "name": "RADAR Creadores M\u00e9xico",
   "tracks": [
     {
       "album": {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 3613753,
       "name": "23. L\u2019Or\u00e9al: la pol\u00e9mica historia de la mujer m\u00e1s rica del mundo",
       "url": "https://open.spotify.com/episode/0nMQmRIzqGr1DkgfWIMOEY"
@@ -106,10 +106,46 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4791013,
       "name": "24. WeWork: Subida y ca\u00edda del unicornio m\u00e1s grande de la historia",
       "url": "https://open.spotify.com/episode/2kKEhYbDvUyGaXXaSleiXx"
+    },
+    {
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3500146,
+      "name": "26. Herm\u00e9s: El verdadero lujo",
+      "url": "https://open.spotify.com/episode/4SEDWbUJaOBuPqXULZPfbA"
+    },
+    {
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5696888,
+      "name": "27. Starbucks: \u00bfser\u00e1 la estrategia correcta regresar a sus or\u00edgenes?",
+      "url": "https://open.spotify.com/episode/3SVsIvZS962Pmv55TxCDHY"
     },
     {
       "album": {
@@ -268,7 +304,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4670563,
       "name": "Cap\u00edtulo 25: Polic\u00edas",
       "url": "https://open.spotify.com/episode/6LCNTrvFPVUGDGuSXPNKFr"
@@ -286,10 +322,46 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4939937,
       "name": "Cap\u00edtulo 26: Gimnasios",
       "url": "https://open.spotify.com/episode/1z03UWVUI3X8ziVrKoAwVS"
+    },
+    {
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4632711,
+      "name": "Cap\u00edtulo 29: Terremotos",
+      "url": "https://open.spotify.com/episode/2yXWY1MM2pDLHuvCz2bgGv"
+    },
+    {
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5106207,
+      "name": "Cap\u00edtulo 30: OVNIS",
+      "url": "https://open.spotify.com/episode/4kvephPkou5KoGnP7qkewd"
     },
     {
       "album": {
@@ -322,7 +394,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4228237,
       "name": "CONTACTO CON EXTRATERRESTRES Y DEMONIOS FT YOHANAN DIAZ",
       "url": "https://open.spotify.com/episode/0fyON3ai628tZCgXgcqSb4"
@@ -520,7 +592,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4028010,
       "name": "Episodio 115 / Phishing",
       "url": "https://open.spotify.com/episode/22A9pAjbOpqyPwMUvL1VKD"
@@ -538,10 +610,46 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 4130005,
       "name": "Episodio 116 / Cocinar",
       "url": "https://open.spotify.com/episode/2vAA2zrUb2XfkwrKoBzzcs"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3954026,
+      "name": "Episodio 123 / Pack por error",
+      "url": "https://open.spotify.com/episode/4JoqCVNgtWHpZ3mhfsFXl7"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4377983,
+      "name": "Episodio 124 / Mi peor pedx pt 1 (Con Podcast De fondo)",
+      "url": "https://open.spotify.com/episode/10BrthAzINGQ4q3YADsDWK"
     },
     {
       "album": {
@@ -578,6 +686,24 @@
       "duration_ms": 6407422,
       "name": "Feliz D\u00eda del Ni\u00f1o, Ni\u00f1a y Ni\u00f1e | El Lado Oscuro de los Ni\u00f1os Estrellas",
       "url": "https://open.spotify.com/episode/6odbgvQ8qBwFHz6zGt3Hcd"
+    },
+    {
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5976328,
+      "name": "La Brujer\u00eda en la Santer\u00eda Ft \"El Muerto\" | Escalofriantes Voces se Hicieron Presentes en el Estudio",
+      "url": "https://open.spotify.com/episode/1NVFZSryOF6vZiDB5J2hOT"
     },
     {
       "album": {
@@ -646,10 +772,46 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 3488357,
       "name": "Mi Amigo Imaginario Me Quer\u00eda MATAR Ft. Felisa Vicente",
       "url": "https://open.spotify.com/episode/4ZXpTxB5XogjtbK5epZEEp"
+    },
+    {
+      "album": {
+        "name": "Las Alucines",
+        "url": "https://open.spotify.com/album/5kopp3hL0uRgLZUh7nOvia"
+      },
+      "artists": [
+        {
+          "name": "Las Alucines",
+          "url": "https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4514878,
+      "name": "Mi sue\u00f1o Buch\u00f3n | Las Alucines | 01x01",
+      "url": "https://open.spotify.com/episode/2NCO4Fp8mXojdozCtcTGcA"
+    },
+    {
+      "album": {
+        "name": "Las Alucines",
+        "url": "https://open.spotify.com/album/5kopp3hL0uRgLZUh7nOvia"
+      },
+      "artists": [
+        {
+          "name": "Las Alucines",
+          "url": "https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4952725,
+      "name": "Momento m\u00e1s Stalker | Las Alucines | 01x02",
+      "url": "https://open.spotify.com/episode/3cMs2PXwTxiqLI8Dso0NF3"
     },
     {
       "album": {
@@ -686,6 +848,24 @@
       "duration_ms": 4753057,
       "name": "OVULANDO Y PELIGRANDO",
       "url": "https://open.spotify.com/episode/5JxLBlw6oVhRUSOEP8TBNe"
+    },
+    {
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5690514,
+      "name": "Perfil Criminal del Monstruo de Toluca | Oscar Garc\u00eda Guzm\u00e1n",
+      "url": "https://open.spotify.com/episode/0WGjSEsxx3xgSFtSk0Vyxt"
     },
     {
       "album": {
@@ -826,10 +1006,28 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 3345151,
       "name": "T3 I EP.10 I [ SE ASUSTAN EN LESBIAN ]",
       "url": "https://open.spotify.com/episode/2Sm75KSgktkiAEWMwK0JAV"
+    },
+    {
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4771071,
+      "name": "T3 I EP.12 I SOMOS KASIMERITOS",
+      "url": "https://open.spotify.com/episode/6gUBooQVMSk9XR5YwJgmhe"
     },
     {
       "album": {

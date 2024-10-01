@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 172966,
+  "num_followers": 173034,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
-      },
-      "artists": [
-        {
-          "name": "Hey Lu",
-          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
-        }
-      ],
-      "duration_ms": 178496,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Mit Schinken durch die Menopause",
         "url": "https://open.spotify.com/album/7DS04VL8tgQqEhGDfzphwh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 197532,
       "name": "Nervenheilanstalt",
       "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+      },
+      "artists": [
+        {
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+        }
+      ],
+      "duration_ms": 178496,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Cr\u00edo Cuervos",
-        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
-      },
-      "artists": [
-        {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        }
-      ],
-      "duration_ms": 238808,
-      "name": "Cr\u00edo Cuervos",
-      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1357,20 +1341,20 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+        "name": "Cr\u00edo Cuervos",
+        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
       },
       "artists": [
         {
-          "name": "House on the Strand",
-          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
         }
       ],
-      "duration_ms": 327804,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
+      "duration_ms": 238808,
+      "name": "Cr\u00edo Cuervos",
+      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
       },
       "artists": [
         {
-          "name": "Frank Rodas",
-          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
+          "name": "House on the Strand",
+          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
         }
       ],
-      "duration_ms": 548586,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
+      "duration_ms": 327804,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1419,6 +1403,22 @@
       "duration_ms": 261004,
       "name": "Sundown Muse",
       "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
+      },
+      "artists": [
+        {
+          "name": "Frank Rodas",
+          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
+        }
+      ],
+      "duration_ms": 548586,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
-      },
-      "artists": [
-        {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Ines",
-      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Bearings: Soundtracks for the Bardos",
         "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 240868,
       "name": "Gate VIII",
       "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
+      },
+      "artists": [
+        {
+          "name": "Alena Spanger",
+          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "5GTOUR",
-        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
-      },
-      "artists": [
-        {
-          "name": "John T. Gast",
-          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Manc TK 2",
-      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Trois Horses",
         "url": "https://open.spotify.com/album/05bmyDRJZb9BWCjdNGWhVm"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 204000,
       "name": "affinity",
       "url": "https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "5GTOUR",
+        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
+      },
+      "artists": [
+        {
+          "name": "John T. Gast",
+          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Manc TK 2",
+      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
     },
     {
       "added_at": "2024-09-11 04:16:56",

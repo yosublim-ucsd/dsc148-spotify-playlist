@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Codiciado\. Los temas esenciales, todos en una lista.
 
 38 songs - 2 hr 6 min
 

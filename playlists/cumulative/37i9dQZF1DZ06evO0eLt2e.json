@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-30",
-  "description": "This is Kris Kristofferson. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
   "name": "This Is Kris Kristofferson",
   "tracks": [
     {
@@ -740,6 +740,24 @@
       "duration_ms": 211653,
       "name": "If You Don't Like Hank Williams",
       "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185560,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3"
     },
     {
       "album": {
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 374508,
       "name": "Toast to Freedom - Long Version",
       "url": "https://open.spotify.com/track/0SQPaGnphdxWDKJxtQ7NY5"

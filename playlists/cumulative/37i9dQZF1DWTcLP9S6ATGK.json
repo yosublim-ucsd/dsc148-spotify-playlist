@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abangku",
+        "url": "https://open.spotify.com/album/4QxhzrKRjmqdTCFrvO7773"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209766,
+      "name": "Abangku",
+      "url": "https://open.spotify.com/track/58w5cBvrboUzlt5Ui4Wqj8"
+    },
+    {
+      "album": {
         "name": "Akhir Cinta",
         "url": "https://open.spotify.com/album/2r7WyPCKOAT8O9MpNsEFjd"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is: Jon Hassell\. Alle wichtigen Tracks in einer Playlist.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
 133 songs - 13 hr 19 min
 

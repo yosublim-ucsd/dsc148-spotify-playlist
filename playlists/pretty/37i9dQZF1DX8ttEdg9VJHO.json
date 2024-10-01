@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353907,
+  "num_followers": 353899,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Der letzte Tanz",
-        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Der letzte Tanz",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "Der letzte Tanz",
+        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Der letzte Tanz",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
+        "name": "Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 163746,
+      "name": "Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
         "name": "Best Night Ever",
         "url": "https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Can't Love You Anymore",
-        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
+        "name": "Sweethoneylove",
+        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
       "artists": [
         {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
         }
       ],
-      "duration_ms": 163746,
-      "name": "Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
+      "duration_ms": 150540,
+      "name": "Sweethoneylove",
+      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -1147,22 +1163,6 @@
       "duration_ms": 214383,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
-        "name": "Sweethoneylove",
-        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
-      },
-      "artists": [
-        {
-          "name": "Baba Blakes",
-          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Sweethoneylove",
-      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     }
   ],
   "unique_name": "Feelgood Pop",

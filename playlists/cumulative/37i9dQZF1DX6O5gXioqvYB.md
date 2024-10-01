@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Rondine
 
-159 songs - 7 hr 41 min
+161 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [Basilico](https://open.spotify.com/track/6XkkzEM5GJZRrJUOnKJ0h3) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Basilico](https://open.spotify.com/album/3MsSeDl0DyyG3HX46FsV23) | 2:19 | 2024-06-27 | 2024-07-12 |
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
+| [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-09-30 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
@@ -94,7 +95,7 @@
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 |  |
 | [Musica Leggera](https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Musica Leggera](https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m) | 2:49 | 2024-08-22 |  |
-| [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 | 2024-06-27 |  |
+| [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 | 2024-06-27 | 2024-10-01 |
 | [Nel cielo più nero](https://open.spotify.com/track/1Ty9Tt0jBLvD7xenWomg2d) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [Nel cielo più nero](https://open.spotify.com/album/4Pmew4fVz53mElFWOoT2ai) | 2:39 | 2024-06-27 | 2024-07-12 |
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-11 | 2024-08-23 |
 | [Niente di speciale](https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy) | [Santamarya](https://open.spotify.com/artist/21KDEhlB91nNVLCeUr3Rx0) | [Niente di speciale](https://open.spotify.com/album/2koptZ6UdppJIRrgXfLSo8) | 3:26 | 2024-07-04 | 2024-09-27 |
@@ -139,6 +140,7 @@
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 | 2024-08-29 |  |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 |  |
+| [Settembre](https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX) | [Nuela](https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP) | [Settembre](https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5) | 3:01 | 2024-09-26 |  |
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 |  |
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 | 2024-09-30 |
@@ -152,7 +154,7 @@
 | [Terra Promessa](https://open.spotify.com/track/7zXVRY8P0o2NmYxNQ7CxgK) | [Fiori di Cadillac](https://open.spotify.com/artist/7MX0HjZPITk7J6eOFSjtOu) | [Terra Promessa](https://open.spotify.com/album/2GTlsoI6zoUHXLsMlWYIcf) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [tilt](https://open.spotify.com/track/2JYtO885AdTPes9p3neSbF) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tilt](https://open.spotify.com/album/61rbZKR0tNU5ImzbKQf9gz) | 2:49 | 2024-07-11 | 2024-08-23 |
 | [torno a casa presto](https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [torno a casa presto](https://open.spotify.com/album/568Mq2tEmW5mU5Kn3XwF2m) | 3:08 | 2024-06-27 | 2024-08-02 |
-| [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 | 2024-09-26 |  |
+| [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 | 2024-09-26 | 2024-10-01 |
 | [tutte le tue onde](https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [tutte le tue onde](https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi) | 2:24 | 2024-09-05 |  |
 | [tuttoaposto](https://open.spotify.com/track/651BJ5dPNUhbW8n4KXhDla) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [tuttoaposto](https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA) | 3:03 | 2024-06-27 | 2024-07-05 |
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-06-27 | 2024-07-12 |

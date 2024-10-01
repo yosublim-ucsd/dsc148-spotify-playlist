@@ -2,7 +2,7 @@
 
 ### [90s House Classics](https://open.spotify.com/playlist/37i9dQZF1DWTU3Zl0elDUa)
 
-> Essential club anthems from the golden era of house music\. Cover: Crystal Waters
+> Essential club anthems from the golden era of house music\. Cover: MK at Drumsheds London
 
 144 songs - 13 hr 12 min
 

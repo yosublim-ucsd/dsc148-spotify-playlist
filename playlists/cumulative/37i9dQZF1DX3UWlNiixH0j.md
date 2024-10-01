@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Billyrrom
 
-1,902 songs - 4 day 22 hr 13 min
+1,903 songs - 4 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-05 | 2023-11-22 |
 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 | 2024-04-16 | 2024-09-18 |
 | [FACTORY OF DREAMS](https://open.spotify.com/track/6rgTTHu9HAVxwCDgxk30eD) | [RIS\-707](https://open.spotify.com/artist/4ES1QNmEX5bYxGXxDKZmTI) | [DANCE CULT](https://open.spotify.com/album/6P8AGJeGv4SHa9IK6UCs7e) | 4:17 | 2024-04-16 | 2024-04-24 |
-| [Faded Corners](https://open.spotify.com/track/00zMa6h4I1Qd0XI953ATyP) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5) | [Faded Corners](https://open.spotify.com/album/7gMMghwlMcjypT1oFjMYtA) | 4:56 | 2024-09-17 |  |
+| [Faded Corners](https://open.spotify.com/track/00zMa6h4I1Qd0XI953ATyP) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5) | [Faded Corners](https://open.spotify.com/album/7gMMghwlMcjypT1oFjMYtA) | 4:56 | 2024-09-17 | 2024-10-01 |
 | [Faded Corners \- Salamanda Remix](https://open.spotify.com/track/5uQtfKfU4IWkDaGL7lvvez) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Faded Corners \(Salamanda Remix\)](https://open.spotify.com/album/4dlNPTexE4Lh8wCcu6bHV8) | 4:42 | 2024-09-17 | 2024-09-25 |
 | [FAKE MOON](https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [FAKE MOON](https://open.spotify.com/album/049vN5HuMG3Yo6UYLYqD29) | 3:19 | 2024-02-27 | 2024-04-24 |
 | [FAKE SUMMER](https://open.spotify.com/track/4XturgJyq6UTHciwCYIBEe) | [Bailefunk Kakeko](https://open.spotify.com/artist/1HwLXF2eM4TFgUwric8Ivg), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [MOTTO! BABBI FES](https://open.spotify.com/album/03qTvyZV4183Z211h4WJgz) | 2:26 | 2023-04-18 | 2023-04-26 |
@@ -1587,6 +1587,7 @@
 | [向日葵](https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [向日葵](https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr) | 3:19 | 2023-05-30 | 2023-09-06 |
 | [君が月](https://open.spotify.com/track/2ElXUarSsxLsuMeT7quZUR) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [君が月](https://open.spotify.com/album/1hhiBnQFx0Eez2GJkBc8Tg) | 3:14 | 2023-03-30 | 2023-09-06 |
 | [君が生きる理由](https://open.spotify.com/track/1hUsp6U54Ym6ld2I4Vf1Vi) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [君が生きる理由](https://open.spotify.com/album/4MGPUuaWREftVQyTOn14ww) | 3:14 | 2023-10-05 | 2023-11-29 |
+| [君という天使](https://open.spotify.com/track/0S9ZxxN9F1811xKFacBCFs) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [溢れ出す](https://open.spotify.com/album/2yNfzEkafkkNx9Vs8ivYGb) | 3:43 | 2024-09-24 |  |
 | [君の番号](https://open.spotify.com/track/6hmzZaa6oeyC2ioXjusveZ) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [君の番号](https://open.spotify.com/album/70aM48fVaokzKGhQhP4MVf) | 5:10 | 2024-01-16 | 2024-01-24 |
 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 | 2024-02-20 | 2024-03-20 |
 | [君はきっとずっと知らない](https://open.spotify.com/track/6e2hujM6wRXaFbiP4ymEBZ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [君はきっとずっと知らない](https://open.spotify.com/album/0D4JE4zZolmrUF19ALtgFo) | 3:40 | 2024-04-23 | 2024-05-22 |

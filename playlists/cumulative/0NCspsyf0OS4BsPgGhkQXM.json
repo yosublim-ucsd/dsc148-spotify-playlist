@@ -1723,6 +1723,46 @@
     },
     {
       "album": {
+        "name": "Bad Karma (MEMBA Remix)",
+        "url": "https://open.spotify.com/album/7ajmIWq3o3ef9qyBkFeF1w"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Bad Karma - MEMBA Remix",
+      "url": "https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8"
+    },
+    {
+      "album": {
+        "name": "Bad Karma (VIP)",
+        "url": "https://open.spotify.com/album/1mt6b5YpeXL65TZ1kxbIdv"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Bad Karma - VIP",
+      "url": "https://open.spotify.com/track/5iyCikM91efwKUlK6FAtBB"
+    },
+    {
+      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },

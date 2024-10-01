@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2024\. Raúl Beltrán en portada.
 
-1,287 songs - 2 day 17 hr 40 min
+1,288 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,6 +1065,7 @@
 | [Por Las Calles](https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Dani G](https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq) | [Por Las Calles](https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e) | 2:29 | 2024-03-01 | 2024-03-16 |
 | [Por Los Míos](https://open.spotify.com/track/5NkNurvhiesKAZGdjag90d) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Por Los Míos](https://open.spotify.com/album/3msi2DuRz2v3xxNb8IuygJ) | 2:37 | 2024-02-02 | 2024-03-02 |
 | [Por Matamoros](https://open.spotify.com/track/2OG8usH0UK8tffxquRL9R2) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Por Matamoros](https://open.spotify.com/album/1rcelQu6CJqIABJn1DUhE6) | 3:31 | 2024-03-15 | 2024-04-19 |
+| [Por Si Se Les Olvidaba](https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Por Si Se Les Olvidaba](https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck) | 2:40 | 2024-09-30 |  |
 | [Porfirio Diaz](https://open.spotify.com/track/4e69Brl1rtVza6VLv11HEf) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Porfirio Diaz](https://open.spotify.com/album/4uUdUGknQ3W5WeSlFmEnCv) | 3:07 | 2023-09-29 | 2023-12-09 |
 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2023-04-07 | 2023-07-01 |
 | [Positivo y Avanzando](https://open.spotify.com/track/5IuDYw7YdYv8dZ7aqz1I1P) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Positivo y Avanzando](https://open.spotify.com/album/6TEhIb6jPAmVz3TsKGvBDm) | 3:33 | 2024-01-19 | 2024-02-17 |
@@ -1235,7 +1236,7 @@
 | [Un Convoy](https://open.spotify.com/track/2FuBrFc0xPEbu3UTeYj4aG) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:38 | 2023-06-30 | 2023-08-12 |
 | [Un Día Regresaré](https://open.spotify.com/track/0oWJrub46Ib2L4VuM2iWmC) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Un Día Regresaré](https://open.spotify.com/album/6VNm7GUhcXaQcYmDA8NaTL) | 2:51 | 2023-08-04 | 2023-09-23 |
 | [Un Gallito](https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Nico Orozco](https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe) | [Un Gallito](https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ) | 3:02 | 2023-02-24 | 2023-04-09 |
-| [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 | 2024-09-06 |  |
+| [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 | 2024-09-06 | 2024-10-01 |
 | [un loquerón](https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [hecho en México](https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS) | 3:03 | 2023-07-07 | 2023-07-29 |
 | [Un Pase](https://open.spotify.com/track/53um7euBFtbt5LC2OfxaXs) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Carlos Caro](https://open.spotify.com/artist/3zXsxf39Mj3d96u8Seopdd) | [Un Pase](https://open.spotify.com/album/2xCXVa2YtY5zw8GBG8x8AC) | 2:46 | 2023-11-17 | 2023-12-09 |
 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 | 2023-02-03 | 2023-06-17 |

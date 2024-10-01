@@ -21806,7 +21806,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 195000,
       "name": "Feel it",
       "url": "https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd"
@@ -30320,7 +30320,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 252500,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/4geBj8XbdKnVsw0y01bjLs"
@@ -33382,7 +33382,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 198000,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/4oGvFg5XEGVoyJ4vMyy1db"
@@ -37754,6 +37754,24 @@
       "duration_ms": 213000,
       "name": "Libra",
       "url": "https://open.spotify.com/track/4yd9clPex4qB4M2supYKmg"
+    },
+    {
+      "album": {
+        "name": "Lick My Body",
+        "url": "https://open.spotify.com/album/2CIqoe1a5sb6a6lBMPybQS"
+      },
+      "artists": [
+        {
+          "name": "Atear",
+          "url": "https://open.spotify.com/artist/3xbOCmrA0GhzSg6MTGCD85"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Lick My Body",
+      "url": "https://open.spotify.com/track/14lMGhPuCKTJvT19gfky49"
     },
     {
       "album": {
@@ -42594,6 +42612,24 @@
       "duration_ms": 167217,
       "name": "Mhmm",
       "url": "https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc"
+    },
+    {
+      "album": {
+        "name": "Mi Paso",
+        "url": "https://open.spotify.com/album/5cKzGrS16OSJD4zkfAJN0W"
+      },
+      "artists": [
+        {
+          "name": "Isa Navarro",
+          "url": "https://open.spotify.com/artist/36UWMmw48VBENoexcFMlMO"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169452,
+      "name": "Mi Paso",
+      "url": "https://open.spotify.com/track/5sxSgdwHBphYXpyRwkOhE8"
     },
     {
       "album": {
@@ -56363,6 +56399,24 @@
     },
     {
       "album": {
+        "name": "Savior Complex",
+        "url": "https://open.spotify.com/album/7c0cdpPsG02ZUsrAV0mbu0"
+      },
+      "artists": [
+        {
+          "name": "Peyton Shay",
+          "url": "https://open.spotify.com/artist/3ASCFTkBFRrX6KDFju42Xd"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192637,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/1vz7wap09y2JGnVWJIImr6"
+    },
+    {
+      "album": {
         "name": "Saviour",
         "url": "https://open.spotify.com/album/6UONmsq7qrzQTBbEGptYd6"
       },
@@ -57104,7 +57158,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 236391,
       "name": "September Smiles",
       "url": "https://open.spotify.com/track/3fERHHJyud25vPeIx8ETFm"
@@ -68562,7 +68616,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 211894,
       "name": "Tunnels",
       "url": "https://open.spotify.com/track/67KIcqIxHXdEeDzGzrws88"
@@ -69490,7 +69544,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 195830,
       "name": "uprobablyforgotusbynow",
       "url": "https://open.spotify.com/track/0RgDMO9DOz3eozfcixyc7V"

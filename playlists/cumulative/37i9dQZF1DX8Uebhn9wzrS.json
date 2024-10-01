@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -11172,7 +11172,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 138461,
       "name": "Fare Wells",
       "url": "https://open.spotify.com/track/1ACtHypM6VcEFCncUM0dAZ"
@@ -16088,7 +16088,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 123000,
       "name": "Iced Out",
       "url": "https://open.spotify.com/track/6N8OGfRHG6gqfpq1BULhzg"
@@ -19994,6 +19994,28 @@
       "duration_ms": 120000,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA"
+    },
+    {
+      "album": {
+        "name": "luminescence",
+        "url": "https://open.spotify.com/album/6QoHfpdvlgwU1H2dLkpgPG"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "luminescence",
+      "url": "https://open.spotify.com/track/4C5PiNdh6l3qJZyXGZnzAr"
     },
     {
       "album": {
@@ -32847,6 +32869,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6q2ce3gSOf1osMaAHJBAEl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Static",
+          "url": "https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133806,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/3a2fLFjazrZlinsXTZB3T3"
+    },
+    {
+      "album": {
         "name": "Sunflower Fields",
         "url": "https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z"
       },
@@ -38120,6 +38160,24 @@
       "duration_ms": 124857,
       "name": "Whistling Vibe",
       "url": "https://open.spotify.com/track/7cyFTgbWmruA5q4Rd2zjQ6"
+    },
+    {
+      "album": {
+        "name": "White Tulips",
+        "url": "https://open.spotify.com/album/3mVg5ZjCa830aYk6XSULqY"
+      },
+      "artists": [
+        {
+          "name": "Kind Puppy",
+          "url": "https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115670,
+      "name": "White Tulips",
+      "url": "https://open.spotify.com/track/5xF0QSqQvh7q51oAtNSitG"
     },
     {
       "album": {

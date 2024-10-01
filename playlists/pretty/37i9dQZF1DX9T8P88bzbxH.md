@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 ### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Ready to spill your GUTS\. Cover: Olivia Rodrigo
+> Get ready to spill your GUTS\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,627 likes - 23 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,589 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 22 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 23 | [get him back!](https://open.spotify.com/track/5D27wJnVQwYD7fAKaODHgs) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 3:31 |
 
-Snapshot ID: `ZvgpLAAAAADwAP7tBIpKcQ0NZgm8Wqj9`
+Snapshot ID: `ZvtASgAAAAAw6mONdztH147NdT90A7Fb`

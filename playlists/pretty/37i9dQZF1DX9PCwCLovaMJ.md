@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 881 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 31 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 32 | [school reunion](https://open.spotify.com/track/4AOoWI8ZCJ5bkyj7Ivj1Ez) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 2:54 |
 | 33 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 |
-| 34 | [Ha dig tillbaka](https://open.spotify.com/track/649oxel9UoY2RRdX3RwHgp) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Ha dig tillbaka](https://open.spotify.com/album/5fWRxcHoeJxVYK8BXCM2Ph) | 2:32 |
-| 35 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 |
+| 34 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 |
+| 35 | [Ha dig tillbaka](https://open.spotify.com/track/649oxel9UoY2RRdX3RwHgp) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Ha dig tillbaka](https://open.spotify.com/album/5fWRxcHoeJxVYK8BXCM2Ph) | 2:32 |
 | 36 | [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 |
 | 37 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 38 | [Mördare](https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Mördare](https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW) | 2:49 |
 | 39 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
-| 40 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
-| 41 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
+| 40 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
+| 41 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 42 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
-| 43 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
-| 44 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
+| 43 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
+| 44 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 45 | [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 |
 | 46 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
 | 47 | [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 85 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
 | 86 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 |
 | 87 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 88 | [Gråt, gråt, gråt](https://open.spotify.com/track/2XrjVzi8zZYLhqioB2OwoY) | [Llojd](https://open.spotify.com/artist/04Axa6ilD95HIZIx5zUg6W) | [Gråt, gråt, gråt](https://open.spotify.com/album/5wLqkxwXm4o3JauQDiSXtf) | 3:28 |
-| 89 | [Psycho](https://open.spotify.com/track/2xxvHVBorURtGuDpPOZrcY) | [valliant](https://open.spotify.com/artist/64AJiH9KDoNZyK6Twv26V0) | [Psycho](https://open.spotify.com/album/2yEGgj2PQSolKeFgVjMgZf) | 3:10 |
-| 90 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |
+| 88 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |
+| 89 | [Gråt, gråt, gråt](https://open.spotify.com/track/2XrjVzi8zZYLhqioB2OwoY) | [Llojd](https://open.spotify.com/artist/04Axa6ilD95HIZIx5zUg6W) | [Gråt, gråt, gråt](https://open.spotify.com/album/5wLqkxwXm4o3JauQDiSXtf) | 3:28 |
+| 90 | [Psycho](https://open.spotify.com/track/2xxvHVBorURtGuDpPOZrcY) | [valliant](https://open.spotify.com/artist/64AJiH9KDoNZyK6Twv26V0) | [Psycho](https://open.spotify.com/album/2yEGgj2PQSolKeFgVjMgZf) | 3:10 |
 | 91 | [Dream on](https://open.spotify.com/track/0UIIuquwAzJz3mKqyOQ2no) | [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Dream on](https://open.spotify.com/album/0HGjJL1K04PkgMqSYT6i0m) | 2:55 |
 | 92 | [DEJ](https://open.spotify.com/track/4SQ6M0PFvvZ0CM1uy0ePuM) | [LUA](https://open.spotify.com/artist/6wm2Tx4v7VopkIHfBOjNX4) | [DEJ](https://open.spotify.com/album/4mMFHE6InLn4q6kpw9Je7f) | 3:00 |
 | 93 | [starfish in low tide](https://open.spotify.com/track/6bkSb870jIWyXt3tIKK5Ie) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy \(with friends\)](https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW) | 2:18 |

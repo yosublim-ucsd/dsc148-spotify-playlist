@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: The Black Dahlia Murder
 
-7,530 songs - 21 day 3 hr 48 min
+7,532 songs - 21 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1722,6 +1722,7 @@
 | [Desynchronized](https://open.spotify.com/track/1672rPu6CiaYMH7PBVDlIC) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Devoid of Love & Light](https://open.spotify.com/album/6KpPYQmyAaCLBN6kqMLE7c) | 4:40 | 2024-05-17 | 2024-05-25 |
 | [Determined To Rule](https://open.spotify.com/track/7xZmCA7BFugkY7kIqluKa6) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Determined To Rule](https://open.spotify.com/album/0vDJeTgxkGEW1KI7BEsaWw) | 3:17 | 2023-06-23 | 2023-07-01 |
 | [Dethroned](https://open.spotify.com/track/1bqSqUyp81LKTIdLH4YH35) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Dethroned](https://open.spotify.com/album/4s765hpMPLPNP4I34iMUHa) | 2:38 | 2022-02-17 | 2022-03-04 |
+| [Detonate](https://open.spotify.com/track/1Z7oxZBiKBYnCuNperLPPt) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Detonate](https://open.spotify.com/album/74D6rJlu03Bz1AKOc9a7RE) | 3:58 | 2024-09-30 |  |
 | [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-08-18 | 2023-08-26 |
 | [Detox](https://open.spotify.com/track/7J5D2xb93lA2y1mhXqFBdV) | [Everyone Dies In Utah](https://open.spotify.com/artist/774W1e3IymmIaynDaDxBcK) | [Detox](https://open.spotify.com/album/0UrfZWsifWKGtG6yTsF4nv) | 3:26 | 2023-03-24 | 2023-04-01 |
 | [DEUS](https://open.spotify.com/track/1eGI5LpalsoOav652WSu8Y) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [DEUS](https://open.spotify.com/album/2zmeNYCK3nJ2yGNKUmRKxj) | 2:54 | 2022-11-11 | 2022-11-19 |
@@ -2631,6 +2632,7 @@
 | [Fuego](https://open.spotify.com/track/0Nn7NYekiEjWXWeX9ShW9u) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Fuego](https://open.spotify.com/album/1nfb9jmF67AWe7XMaJNAIM) | 2:37 | 2023-05-12 | 2023-05-20 |
 | [Fueled by Fear](https://open.spotify.com/track/28VjeeMBGBMuwd2C33kP2F) | [Wraith](https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS) | [Fueled By Fear](https://open.spotify.com/album/1m4W60ZhCEbFjgImaaT06T) | 3:33 | 2024-06-28 | 2024-07-06 |
 | [Fugitive](https://open.spotify.com/track/2hm0UQcIHqrOXKuhw1NNWs) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Fugitive](https://open.spotify.com/album/2FOtY16UuWTg7u385duFB4) | 3:56 | 2023-10-27 | 2023-11-04 |
+| [FUHAI](https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [FUHAI](https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g) | 3:13 | 2024-09-30 |  |
 | [Fukstar](https://open.spotify.com/track/2sPZty2EZFubLWq43vnO2P) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Fukstar](https://open.spotify.com/album/6Onj8WCbrAt8xD9z21W7H6) | 3:36 | 2022-07-08 | 2022-07-16 |
 | [Full Blossom](https://open.spotify.com/track/4Krk9GaYtNQtuh4u8dT0nX) | [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Full Blossom](https://open.spotify.com/album/0dirzcT6E6vAphhNU3vgUK) | 4:32 | 2024-08-23 | 2024-08-31 |
 | [Full Fathom Five](https://open.spotify.com/track/2zBmWfRbtON2JgjwAVHorP) | [Atlantis Chronicles](https://open.spotify.com/artist/2yQwuvF6qxv98dqMrZ8iTm) | [Nera](https://open.spotify.com/album/7lxj95PeLr0SAQtSTNJxQH) | 3:51 | 2022-07-22 | 2022-07-30 |

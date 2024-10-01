@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-691 songs - 1 day 6 hr 46 min
+692 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Dream About You](https://open.spotify.com/track/4OHXs82HQ65Ic5CLXK95rh) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [Dream About You](https://open.spotify.com/album/3ZDQLK78aaH5MSsyrA3qoS) | 2:24 | 2024-08-16 | 2024-09-15 |
 | [Dream Path](https://open.spotify.com/track/7ppTIlAO8YZ1WrPfxk5ZQR) | [Illogical Post](https://open.spotify.com/artist/5816rxZvGt0n5eAs43GrFH) | [Dream Path](https://open.spotify.com/album/1zdPqkqZczev04lRjKXuIG) | 3:20 | 2024-09-20 |  |
 | [Dreamers](https://open.spotify.com/track/2PWTaCreHWYPpQ6LfPGVKj) | [Moonsound](https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN), [Jean Gavril](https://open.spotify.com/artist/3mhjDUn6g7D85To8ywwqbN) | [Dreamers](https://open.spotify.com/album/0NXQeg3isSatHdnXZPzDwk) | 2:25 | 2024-01-26 | 2024-03-16 |
+| [Dreamin'](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Dreamin'](https://open.spotify.com/album/0ierS5XJBIGXN7FDA0bh0E) | 2:17 | 2024-09-30 |  |
 | [Drifted Away](https://open.spotify.com/track/4FEg06HTTbU1bgzXd0gHvy) | [Jace Winter](https://open.spotify.com/artist/5xdImw7qBLc0z1HfGI8OYW), [Night Sky](https://open.spotify.com/artist/7CxLhJWH8dGeJI4P0egvFy) | [Drifted Away](https://open.spotify.com/album/69l2W9QiQFYS0x2lYrQWrC) | 2:38 | 2024-07-12 |  |
 | [Drifting Away](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm) | [Aron Matthews](https://open.spotify.com/artist/7cmyUzMi6RNTKMiEpLUyxH), [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y) | [Drifting Away](https://open.spotify.com/album/6dqO17ZAmTToFgzHt0jEtY) | 2:15 | 2024-06-21 | 2024-07-20 |
 | [Drown](https://open.spotify.com/track/5a6jHrqHx5cptxUiz9Xkcr) | [L E V I N E](https://open.spotify.com/artist/5ayT62iFq2QvMNLftUTFKL), [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [Mal](https://open.spotify.com/artist/4DUBElQBKTaH6X02yEpQ4m), [Tc\-5](https://open.spotify.com/artist/5kXoJQjiH4i9wBHGvxki2k) | [Drown](https://open.spotify.com/album/44fUkMvrwwPafXsG7y8VQm) | 2:27 | 2024-09-13 |  |
@@ -369,7 +370,7 @@
 | [Lifetime](https://open.spotify.com/track/0kQ4IoRD7iLZ7ykm9SFgsb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Lifetime](https://open.spotify.com/album/3NaWbhdg7dEVoud2qBQOWy) | 2:08 | 2024-05-10 |  |
 | [light on](https://open.spotify.com/track/6L0ofQJUzCgcKGojFR4xl1) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [light on](https://open.spotify.com/album/5HO1TtZm5RlnnjyzwmamB0) | 3:05 | 2024-02-02 | 2024-03-16 |
 | [Light Up](https://open.spotify.com/track/3gMOvvmQCVwhdHZREkBSMn) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Light Up](https://open.spotify.com/album/6tyv8yEMeYQfL3M1Srnw7l) | 2:12 | 2024-06-21 | 2024-09-10 |
-| [Lighthouse](https://open.spotify.com/track/6hEWgRCOBXa2PsRefCs6lU) | [Jordan Power](https://open.spotify.com/artist/12uvc7Jyw3SUOpFtnKOUkX) | [Multiverse, Pt\. 1](https://open.spotify.com/album/0PR680urTPeYuw70ONHPHP) | 2:59 | 2024-09-29 |  |
+| [Lighthouse](https://open.spotify.com/track/6hEWgRCOBXa2PsRefCs6lU) | [Jordan Power](https://open.spotify.com/artist/12uvc7Jyw3SUOpFtnKOUkX) | [Multiverse, Pt\. 1](https://open.spotify.com/album/0PR680urTPeYuw70ONHPHP) | 2:59 | 2024-09-29 | 2024-10-01 |
 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 | 2023-12-28 | 2024-09-10 |
 | [Lights](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lights](https://open.spotify.com/album/4FrF6htdcJ27dUsBbumiAj) | 2:17 | 2024-05-10 | 2024-06-15 |
 | [Like a Mystery](https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Like a Mystery](https://open.spotify.com/album/2A56tnGbitndWfuakU2QKU) | 2:18 | 2024-09-15 |  |

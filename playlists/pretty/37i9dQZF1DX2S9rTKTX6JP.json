@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 693935,
+  "num_followers": 694057,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 218354,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "End of Beginning (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "End of Beginning - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Lest We Forget - The Best Of",
         "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "End of Beginning (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "End of Beginning - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Pisces Iscariot (Remastered)",
         "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -1879,6 +1879,22 @@
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "One Step Closer \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "One Step Closer \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1915,22 +1931,6 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "One Step Closer \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "One Step Closer \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Polly",
-        "url": "https://open.spotify.com/album/1uPQ4bQDdmMJrTo4fsFoxx"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 143539,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/1oLz0WqVox2U4MFXvO8lqL"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Polly",
+        "url": "https://open.spotify.com/album/1uPQ4bQDdmMJrTo4fsFoxx"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 143539,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/1oLz0WqVox2U4MFXvO8lqL"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Music From The Motion Picture Not Another Teen Movie",
         "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
       },
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Summer In the City",
-        "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 188513,
-      "name": "Summer in the City",
-      "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "DANSE MACABRE",
         "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 265547,
       "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
       "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Summer In the City",
+        "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 188513,
+      "name": "Summer in the City",
+      "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Free Rein to Passions (Deluxe)",
-        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 130397,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 233596,
       "name": "Blank Generation - Studio Version - Recorded at Electric Lady Studios",
       "url": "https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Free Rein to Passions (Deluxe)",
+        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 130397,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
     },
     {
       "added_at": "2024-09-13 18:20:42",

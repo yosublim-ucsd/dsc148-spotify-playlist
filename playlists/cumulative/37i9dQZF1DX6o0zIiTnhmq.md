@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-122 songs - 1 day 8 hr 19 min
+123 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 | 2024-04-19 |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 |  |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
+| [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 | 2024-09-30 |  |
 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 | 2023-12-26 |  |
 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 | 2023-02-10 |  |
 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 | 2022-01-24 |  |
@@ -125,7 +126,7 @@
 | [Tilak Mantra](https://open.spotify.com/track/3aTqStXPCeMC41rIUPv7XJ) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 0:39 | 2022-01-24 | 2022-07-29 |
 | [Vakratunda Mahakaya](https://open.spotify.com/track/4RNQ6ZcedmBb7G6OgtyLXh) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Suresh Wadkar \- Spiritual Collection](https://open.spotify.com/album/4pE8xstdoCqJEbxPafoKiy) | 7:15 | 2024-02-15 | 2024-04-19 |
 | [Vakratunda Mahakaya \- Suresh Wadkar](https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Ganesh Bhakti Sangrah](https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs) | 7:15 | 2023-09-14 |  |
-| [Vakratundaya](https://open.spotify.com/track/6daNcoFm3KBCMPC5twXIxC) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Vakratundaya](https://open.spotify.com/album/3Slo9j43IefQn4QVJeXukv) | 6:02 | 2023-11-05 |  |
+| [Vakratundaya](https://open.spotify.com/track/6daNcoFm3KBCMPC5twXIxC) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Vakratundaya](https://open.spotify.com/album/3Slo9j43IefQn4QVJeXukv) | 6:02 | 2023-11-05 | 2024-10-01 |
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP) | 10:11 | 2023-07-05 |  |
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/34iVe1a0rFn8PIsp2UxlSJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/23UptOy5AgH08OYuSoftn8) | 10:11 | 2024-04-05 | 2024-04-19 |
 | [Waheguru Wahe Jio](https://open.spotify.com/track/0lliLuoYQoVwXaCyNXMoqK) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 45:01 | 2022-01-24 |  |

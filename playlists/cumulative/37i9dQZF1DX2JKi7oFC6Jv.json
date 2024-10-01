@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "The best in UK Funky. Cover: Roska",
+  "description": "The best in UK Funky: celebrating 30 years of Rinse with a Katy B takeover!",
   "name": "UK Funky",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 382336,
       "name": "As I",
       "url": "https://open.spotify.com/track/5I0Y8d1UZaHNWnRPtYrMum"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 382336,
       "name": "As I (feat. Katy B)",
       "url": "https://open.spotify.com/track/4m4bkvpKjOr439pmr4892r"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 224541,
       "name": "B2B",
       "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
@@ -425,6 +425,32 @@
     },
     {
       "album": {
+        "name": "Bust Your Windows",
+        "url": "https://open.spotify.com/album/5aaup0npZmZo3FO2Hm1d8Y"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Gracious K",
+          "url": "https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy"
+        },
+        {
+          "name": "DJ Naughty",
+          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399680,
+      "name": "Bust Your Windows (feat. Gracious K) - DJ Naughty (UK Funky Remix)",
+      "url": "https://open.spotify.com/track/4ENaM9gBkb3jB2wkY8kq2g"
+    },
+    {
+      "album": {
         "name": "Cattiva II / Nightmare",
         "url": "https://open.spotify.com/album/7wuzqUy3RfyAwJAvGIzhYK"
       },
@@ -436,7 +462,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 301250,
       "name": "Cattiva II",
       "url": "https://open.spotify.com/track/4tmVNT48Gax72Z34z8USF5"
@@ -458,6 +484,24 @@
       "duration_ms": 301250,
       "name": "Cattiva II",
       "url": "https://open.spotify.com/track/7ogVjE9sdMw6z61M1qfEX6"
+    },
+    {
+      "album": {
+        "name": "Appocolipto",
+        "url": "https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G"
+      },
+      "artists": [
+        {
+          "name": "Apple",
+          "url": "https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237238,
+      "name": "Chantes",
+      "url": "https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1"
     },
     {
       "album": {
@@ -586,6 +630,28 @@
       "duration_ms": 323760,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/264HgVS2eKtoZHdaFX0JTR"
+    },
+    {
+      "album": {
+        "name": "Daydreaming (Radio Edit)",
+        "url": "https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Calista",
+          "url": "https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Daydreaming - Radio Edit",
+      "url": "https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK"
     },
     {
       "album": {
@@ -742,7 +808,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 258746,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn"
@@ -768,7 +834,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 425638,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90"
@@ -940,7 +1006,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 235275,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
@@ -1578,10 +1644,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173706,
       "name": "In The Air (feat. Katie Pearl) - Original Club Mix Radio Edit",
       "url": "https://open.spotify.com/track/7nVRzqdBTNYHnIxYRZ7jYp"
+    },
+    {
+      "album": {
+        "name": "In The Morning (Let Your Love Come In)",
+        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+      },
+      "artists": [
+        {
+          "name": "Egypt",
+          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134785,
+      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
     },
     {
       "album": {
@@ -1600,7 +1684,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173675,
       "name": "In The Morning (Let Your Love Come In) - Sticky Radio Edit",
       "url": "https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg"
@@ -1750,7 +1834,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 236977,
       "name": "Mad In The Fete (feat. Bala Bala Boyz)",
       "url": "https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX"
@@ -1798,7 +1882,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173693,
       "name": "Make It Funky For Me - radio edit",
       "url": "https://open.spotify.com/track/3uYePIsCgDSJDS8hdR6gQb"
@@ -2613,6 +2697,32 @@
     },
     {
       "album": {
+        "name": "Tell Me (feat. Katy B & MC Versatile)",
+        "url": "https://open.spotify.com/album/26iWNjee7UmqOwfDyz4uAk"
+      },
+      "artists": [
+        {
+          "name": "DJ NG",
+          "url": "https://open.spotify.com/artist/2nXsXdrmdtqDOfqMhHc1Vx"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "MC Versatile",
+          "url": "https://open.spotify.com/artist/2RM4Va9A9LfmBxrSOziGBa"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194477,
+      "name": "Tell Me (feat. Katy B & MC Versatile) - Radio Edit",
+      "url": "https://open.spotify.com/track/13rUxMWdSRgA6xHUHLb6jT"
+    },
+    {
+      "album": {
         "name": "100 Garage Classics",
         "url": "https://open.spotify.com/album/7tyainJj06ucZPMpJDLjud"
       },
@@ -2744,7 +2854,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 228500,
       "name": "Timbao",
       "url": "https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ"
@@ -2856,7 +2966,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 308356,
       "name": "Tribal Warrior",
       "url": "https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS"
@@ -3088,7 +3198,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 460712,
       "name": "Yellowtail",
       "url": "https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC"
@@ -3132,7 +3242,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 255004,
       "name": "You",
       "url": "https://open.spotify.com/track/3wG8a1EraWKj9FnoVWaO2t"

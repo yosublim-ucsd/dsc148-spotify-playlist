@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
+  "description": "This is La Fiera de Ojinaga. Tutti i brani in un'unica playlist.",
   "name": "This Is La Fiera de Ojinaga",
   "tracks": [
     {
@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "No Quer\u00eda Hacerte Llorar",
+        "url": "https://open.spotify.com/album/02xAkEA8q6170NgZdSoYsi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        },
+        {
+          "name": "Manuel Reza",
+          "url": "https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207470,
+      "name": "No Quer\u00eda Hacerte Llorar",
+      "url": "https://open.spotify.com/track/04YZ3EDM7zyhcJQt2QgwCj"
+    },
+    {
+      "album": {
         "name": "No Quiero Compartir",
         "url": "https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k"
       },
@@ -844,7 +866,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 136810,
       "name": "Si Te Quedas Conmigo",
       "url": "https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT"

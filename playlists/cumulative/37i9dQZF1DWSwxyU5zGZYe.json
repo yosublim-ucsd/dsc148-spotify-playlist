@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 254750,
       "name": "Galliyan (Unplugged)",
       "url": "https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP"
@@ -1630,6 +1630,32 @@
       "duration_ms": 251704,
       "name": "Khaabon Ke Parinday",
       "url": "https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx"
+    },
+    {
+      "album": {
+        "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213055,
+      "name": "Kho Gaye Hum Kahan",
+      "url": "https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98"
     },
     {
       "album": {

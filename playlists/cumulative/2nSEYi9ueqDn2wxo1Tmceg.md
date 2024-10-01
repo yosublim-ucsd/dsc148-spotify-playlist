@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,080 songs - 3 day 2 hr 1 min
+1,081 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [How It Starts](https://open.spotify.com/track/3lATVxAMvFaussyy90K72j) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [On Grace & Dignity](https://open.spotify.com/album/1KBJKlupJF0ViWwQuxsw1f) | 3:52 | 2023-02-15 | 2023-03-30 |
 | [How To Walk](https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [How To Walk](https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG) | 3:54 | 2024-07-10 | 2024-08-29 |
 | [How We See The Light](https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [How We See The Light](https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f) | 4:45 | 2024-03-26 | 2024-05-09 |
+| [Human Frailty](https://open.spotify.com/track/0CnWLDcUZgOzZMrYLXsWAI) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [Human Frailty](https://open.spotify.com/album/3KadBbHYnVGo9PP4dHYKr5) | 3:26 | 2024-09-30 |  |
 | [Hysteria](https://open.spotify.com/track/0tCgJnSBX2A6vB8KMP7p1A) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 4:03 | 2022-10-12 | 2022-11-10 |
 | [Höstens Färger](https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket Och Tusen Aldrig Nog](https://open.spotify.com/album/7DmBpVv1p9SemMSn7bqGyj) | 3:30 | 2022-10-12 | 2022-11-24 |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-26 | 2022-12-08 |

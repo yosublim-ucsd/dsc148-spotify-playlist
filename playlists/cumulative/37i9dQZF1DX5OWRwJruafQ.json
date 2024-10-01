@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Magical",
+        "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145765,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v"
+    },
+    {
+      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy"
       },
@@ -2672,6 +2690,36 @@
       "duration_ms": 166617,
       "name": "Dil Tod Da (Remix) - Remix Version",
       "url": "https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q"
+    },
+    {
+      "album": {
+        "name": "Dil Vadda",
+        "url": "https://open.spotify.com/album/0mAU3kbR9BgGE8SHx8yIri"
+      },
+      "artists": [
+        {
+          "name": "Harsh Ghotra",
+          "url": "https://open.spotify.com/artist/0VJyYibVbklwXW7vUweaCU"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Garry Vander",
+          "url": "https://open.spotify.com/artist/4wnUqVk9HvkeGgpEcuBE39"
+        },
+        {
+          "name": "Beatcop",
+          "url": "https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188999,
+      "name": "Dil Vadda",
+      "url": "https://open.spotify.com/track/6yvKn1YtSndOeVmD9FxUvG"
     },
     {
       "album": {
@@ -5396,7 +5444,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 215233,
       "name": "Kamyabi",
       "url": "https://open.spotify.com/track/2GpThs67kEgRTVQP8nGchd"
@@ -9450,7 +9498,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 161838,
       "name": "The Jatts",
       "url": "https://open.spotify.com/track/1MjEoamhGYge7UU3L6iunw"

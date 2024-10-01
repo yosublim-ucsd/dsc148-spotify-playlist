@@ -2,7 +2,7 @@
 
 ### [This Is ZZ Top](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uge6k)
 
-> This is ZZ Top。アーティストの代表曲をひとつのプレイリストに。
+> This is ZZ Top\. The essential tracks, all in one playlist.
 
 138 songs - 8 hr 31 min
 

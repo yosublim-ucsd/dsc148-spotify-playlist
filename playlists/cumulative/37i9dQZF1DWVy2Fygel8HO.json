@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p"
+      },
+      "artists": [
+        {
+          "name": "Odette Montano",
+          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211204,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y"
+    },
+    {
+      "album": {
         "name": "Pale Horizon",
         "url": "https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT"
       },
@@ -1670,6 +1688,24 @@
       "duration_ms": 142127,
       "name": "Seamless",
       "url": "https://open.spotify.com/track/1DkHsipoHreKriNWagcghR"
+    },
+    {
+      "album": {
+        "name": "Seasons Flowing",
+        "url": "https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj"
+      },
+      "artists": [
+        {
+          "name": "Fleur Bloom",
+          "url": "https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Seasons Flowing",
+      "url": "https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm"
     },
     {
       "album": {

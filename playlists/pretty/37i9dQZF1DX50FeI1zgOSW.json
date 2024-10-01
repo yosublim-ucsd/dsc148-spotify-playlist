@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13026,
+  "num_followers": 13039,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0MJgAAAAC5i6JKb2a01FjsJcKjf7hx",
+  "snapshot_id": "ZvqSiAAAAAAF4WDCBPq95AiAGuJZDVZ8",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -41,26 +41,6 @@
       "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
     },
     {
-      "added_at": "2024-09-13 04:45:53",
-      "album": {
-        "name": "ALANGATTI MAZHA",
-        "url": "https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Rahul Hariharan",
-          "url": "https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn"
-        }
-      ],
-      "duration_ms": 111627,
-      "name": "ALANGATTI MAZHA",
-      "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
-    },
-    {
       "added_at": "2024-09-18 12:03:42",
       "album": {
         "name": "Swipe Swipe",
@@ -75,6 +55,22 @@
       "duration_ms": 180000,
       "name": "Swipe Swipe",
       "url": "https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR"
+    },
+    {
+      "added_at": "2024-09-30 11:59:04",
+      "album": {
+        "name": "Kadhal Vizhi",
+        "url": "https://open.spotify.com/album/2wH6h441uGVIGArtLaERQ9"
+      },
+      "artists": [
+        {
+          "name": "ChaaiSmokers",
+          "url": "https://open.spotify.com/artist/61E6hWD8uFULJv5S35vytj"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Kadhal Vizhi",
+      "url": "https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ"
     },
     {
       "added_at": "2024-09-20 05:46:14",
@@ -121,6 +117,26 @@
       "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
     },
     {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "ALANGATTI MAZHA",
+        "url": "https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Rahul Hariharan",
+          "url": "https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "ALANGATTI MAZHA",
+      "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
+    },
+    {
       "added_at": "2024-09-19 11:30:22",
       "album": {
         "name": "Morattu School - From \"Think Indie\"",
@@ -155,6 +171,26 @@
       "duration_ms": 212000,
       "name": "Morattu School - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
+    },
+    {
+      "added_at": "2024-09-30 07:51:10",
+      "album": {
+        "name": "BACHELOR PARTY",
+        "url": "https://open.spotify.com/album/26mvPxCtFLqnchjkrvWOUj"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        }
+      ],
+      "duration_ms": 142169,
+      "name": "BACHELOR PARTY",
+      "url": "https://open.spotify.com/track/34wSQJTGR7iEU96azpgEz1"
     },
     {
       "added_at": "2024-09-20 05:37:49",
@@ -403,6 +439,22 @@
       "duration_ms": 227200,
       "name": "Arakkiye",
       "url": "https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk"
+    },
+    {
+      "added_at": "2024-09-30 07:50:04",
+      "album": {
+        "name": "Usuru Motham",
+        "url": "https://open.spotify.com/album/271FpH1atiqoGg53OaQTbe"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Usuru Motham",
+      "url": "https://open.spotify.com/track/4MbDnGT1Ukl3UAb0Z9Zxsv"
     },
     {
       "added_at": "2024-08-28 07:37:29",

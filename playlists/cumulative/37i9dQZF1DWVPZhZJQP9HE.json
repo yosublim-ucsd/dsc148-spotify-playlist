@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "HIGH FASHION",
+        "url": "https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132845,
+      "name": "HIGH FASHION",
+      "url": "https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb"
+    },
+    {
+      "album": {
         "name": "i Aval",
         "url": "https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ"
       },
@@ -6978,6 +6996,32 @@
       "duration_ms": 60000,
       "name": "Nanba Vaa",
       "url": "https://open.spotify.com/track/3G0YAgG4LtEAWAv9QclhuD"
+    },
+    {
+      "album": {
+        "name": "Nandhalala",
+        "url": "https://open.spotify.com/album/4ysW0ACkS5ISJYdLviVxoi"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        },
+        {
+          "name": "Sahi Siva",
+          "url": "https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3"
+        },
+        {
+          "name": "Jerone B",
+          "url": "https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196555,
+      "name": "Nandhalala",
+      "url": "https://open.spotify.com/track/4jjWEPfeDIFgluCqoD6F2S"
     },
     {
       "album": {

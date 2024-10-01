@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140432,
+  "num_followers": 140439,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Conto os Dias",
-        "url": "https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 203645,
-      "name": "Conto os Dias",
-      "url": "https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Conto os Dias",
+        "url": "https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 203645,
+      "name": "Conto os Dias",
+      "url": "https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Pouso",
-        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
-      },
-      "artists": [
-        {
-          "name": "Zimbra",
-          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Eu Vi Tudo",
-      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 442667,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Pouso",
+        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
+      },
+      "artists": [
+        {
+          "name": "Zimbra",
+          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Eu Vi Tudo",
+      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -447,22 +447,18 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "O Amor Liberta",
-        "url": "https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd"
+        "name": "Antissocial",
+        "url": "https://open.spotify.com/album/1dzVpgwhLIPUW7ZVuW43mB"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+          "name": "QuatroK",
+          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
         }
       ],
-      "duration_ms": 192634,
-      "name": "Come\u00e7a Tudo Outra Vez",
-      "url": "https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5"
+      "duration_ms": 163487,
+      "name": "Antissocial",
+      "url": "https://open.spotify.com/track/1qF7eDzaR22J0uJjZFWdQB"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -483,6 +479,26 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
+        "name": "O Amor Liberta",
+        "url": "https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 192634,
+      "name": "Come\u00e7a Tudo Outra Vez",
+      "url": "https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
         "name": "S\u00f3 n\u00f3s 2",
         "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 218589,
       "name": "S\u00f3 n\u00f3s 2",
       "url": "https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
-        "name": "Antissocial",
-        "url": "https://open.spotify.com/album/1dzVpgwhLIPUW7ZVuW43mB"
-      },
-      "artists": [
-        {
-          "name": "QuatroK",
-          "url": "https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n"
-        }
-      ],
-      "duration_ms": 163487,
-      "name": "Antissocial",
-      "url": "https://open.spotify.com/track/1qF7eDzaR22J0uJjZFWdQB"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 193469,
       "name": "Tela Quente - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
-      },
-      "artists": [
-        {
-          "name": "Dnaipes",
-          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
-        }
-      ],
-      "duration_ms": 226624,
-      "name": "Alquimia",
-      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Tudo Fica Bem - Ac\u00fastico",
         "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 165489,
       "name": "Tudo Fica Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
+      },
+      "artists": [
+        {
+          "name": "Dnaipes",
+          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
+        }
+      ],
+      "duration_ms": 226624,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Invis\u00edvel",
-        "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
       },
       "artists": [
         {
@@ -1116,13 +1116,13 @@
           "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
         },
         {
-          "name": "De Maria",
-          "url": "https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn"
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
         }
       ],
-      "duration_ms": 212297,
-      "name": "Invis\u00edvel",
-      "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
+      "duration_ms": 193423,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
+        "name": "Invis\u00edvel",
+        "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "De Maria",
+          "url": "https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "Invis\u00edvel",
+      "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
         "name": "DAVI",
         "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 199680,
       "name": "Mais um Trabalhador",
       "url": "https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        },
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
     },
     {
       "added_at": "2024-09-27 13:31:33",

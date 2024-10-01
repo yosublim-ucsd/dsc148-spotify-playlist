@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 125218,
       "name": "Baby Flower",
       "url": "https://open.spotify.com/track/5zTat5HOiOvF8trDPsCa7l"
@@ -5207,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Fly Butterfly",
+        "url": "https://open.spotify.com/album/2yxb5xXzp36cysMStaz045"
+      },
+      "artists": [
+        {
+          "name": "Zuri\u00f1e Ilaria",
+          "url": "https://open.spotify.com/artist/3apw3LIPziUL8PWtHoEibN"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108210,
+      "name": "Fly Butterfly",
+      "url": "https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN"
+    },
+    {
+      "album": {
         "name": "Fly little butterfly",
         "url": "https://open.spotify.com/album/6fEaZltf12WMdbT5EM3ubk"
       },
@@ -6176,6 +6194,24 @@
       "duration_ms": 116254,
       "name": "Goodnight Mister Bunny",
       "url": "https://open.spotify.com/track/2pKx9SJpSZ8QsiO1cUyx2x"
+    },
+    {
+      "album": {
+        "name": "Goodnight Moon",
+        "url": "https://open.spotify.com/album/7dkatsU7jo86zN8rwfV0fp"
+      },
+      "artists": [
+        {
+          "name": "Thomas Scheller",
+          "url": "https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169731,
+      "name": "Goodnight Moon",
+      "url": "https://open.spotify.com/track/4ccNgPrStOC8rIjyprbnXQ"
     },
     {
       "album": {
@@ -8242,7 +8278,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 126034,
       "name": "Jumping In The Puddle",
       "url": "https://open.spotify.com/track/6N3Tx16SWULq3znz9FuYST"
@@ -8944,7 +8980,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 101463,
       "name": "Little Dreamer",
       "url": "https://open.spotify.com/track/59I123c49GQS8E3H17PTJm"
@@ -9880,7 +9916,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 110011,
       "name": "Miss Polly Had a Dolly",
       "url": "https://open.spotify.com/track/3de9dZSLiksNDC1aNpYbsi"
@@ -10546,7 +10582,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 124000,
       "name": "My Brother Charlie",
       "url": "https://open.spotify.com/track/6JuYU8DQl781m1J92vGVrC"
@@ -10802,6 +10838,60 @@
       "duration_ms": 85043,
       "name": "My Island",
       "url": "https://open.spotify.com/track/0utNwwCUb1Tfq1RnlNqss4"
+    },
+    {
+      "album": {
+        "name": "My Little Bird",
+        "url": "https://open.spotify.com/album/6vdt3oBzrPGWR8mPGJk948"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sleep",
+          "url": "https://open.spotify.com/artist/1FgjU1p0WJxHTLPxd1o7vi"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78928,
+      "name": "My Little Bird",
+      "url": "https://open.spotify.com/track/2ivqXqbed8qlUW890qqOiI"
+    },
+    {
+      "album": {
+        "name": "My Little Cat",
+        "url": "https://open.spotify.com/album/4rfAwWGX508yWzvGfcL4mk"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101719,
+      "name": "My Little Cat",
+      "url": "https://open.spotify.com/track/2JnqypQMsZWAoQDIMSpZIF"
+    },
+    {
+      "album": {
+        "name": "My little rainbow",
+        "url": "https://open.spotify.com/album/5PxTlfNfmsQkTFMcW34d6h"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "My little rainbow",
+      "url": "https://open.spotify.com/track/0wK05M3wzD12F1C76MuPyK"
     },
     {
       "album": {
@@ -11068,7 +11158,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 124285,
       "name": "My Sunshine",
       "url": "https://open.spotify.com/track/1ikXHodxfzZNYZXSzv0UST"
@@ -11374,7 +11464,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 125318,
       "name": "Now The Night Is Here",
       "url": "https://open.spotify.com/track/3YYIWnW0I3mmRJFBnLguL4"
@@ -12047,6 +12137,24 @@
     },
     {
       "album": {
+        "name": "Playing With Leaves",
+        "url": "https://open.spotify.com/album/2WgU0TvMznsZyZjSllsiJc"
+      },
+      "artists": [
+        {
+          "name": "Philip Berg",
+          "url": "https://open.spotify.com/artist/5SuoJwXJbEpgRJLfqOWTQ3"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107890,
+      "name": "Playing With Leaves",
+      "url": "https://open.spotify.com/track/0swfhyV723N4nOZDegevHF"
+    },
+    {
+      "album": {
         "name": "Polly the Pirate",
         "url": "https://open.spotify.com/album/1kDPZB9RBEEfhR0T5vHzvA"
       },
@@ -12400,7 +12508,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 68275,
       "name": "Rain Rain, Go Away",
       "url": "https://open.spotify.com/track/3W2uPHkZrhRBoPvVEzxZtC"
@@ -12616,7 +12724,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 85306,
       "name": "Rest Your Head on My Shoulder",
       "url": "https://open.spotify.com/track/6dj1sdJpygoCS6ELlLF6QV"
@@ -12836,6 +12944,24 @@
       "duration_ms": 118031,
       "name": "Sailing on a Banana",
       "url": "https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP"
+    },
+    {
+      "album": {
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/3ZhpOzrlslc7xlMZ2CtTSh"
+      },
+      "artists": [
+        {
+          "name": "Sofia Runmon",
+          "url": "https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127769,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/7rhYftKoKVvpYcKzfkvRQQ"
     },
     {
       "album": {
@@ -14668,7 +14794,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 100639,
       "name": "Starlight Serenade",
       "url": "https://open.spotify.com/track/3OjmWIwHphQh76k1dQj1RU"
@@ -16007,6 +16133,24 @@
     },
     {
       "album": {
+        "name": "The Moon Above",
+        "url": "https://open.spotify.com/album/54mTxczsB3GC4RewOMDCJu"
+      },
+      "artists": [
+        {
+          "name": "Carla Galloway",
+          "url": "https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "The Moon Above",
+      "url": "https://open.spotify.com/track/27RV6pYoZ8CGeLUDtmii50"
+    },
+    {
+      "album": {
         "name": "The Moon and Me",
         "url": "https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu"
       },
@@ -16094,6 +16238,24 @@
       "duration_ms": 81937,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/1NFGCM05E8UmXCYlYxGZ1x"
+    },
+    {
+      "album": {
+        "name": "The Morning's Ray",
+        "url": "https://open.spotify.com/album/1XxPKm338wkahUZjARv3W6"
+      },
+      "artists": [
+        {
+          "name": "Lill Bosse",
+          "url": "https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82387,
+      "name": "The Morning's Ray",
+      "url": "https://open.spotify.com/track/1TEBZhf9ebuJa4ytLn0CUd"
     },
     {
       "album": {
@@ -16940,6 +17102,24 @@
       "duration_ms": 94219,
       "name": "To My Best Friend",
       "url": "https://open.spotify.com/track/7r3iFiKhZpkeceWizmIWSY"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/0wdBrzSIAyRinqwAmexE8C"
+      },
+      "artists": [
+        {
+          "name": "Jian Mor\u00e9t",
+          "url": "https://open.spotify.com/artist/4SU4BEsDDmELEYvyKWMzQT"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111455,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1WsFmntOT8EUtFAkHnYzZ0"
     },
     {
       "album": {

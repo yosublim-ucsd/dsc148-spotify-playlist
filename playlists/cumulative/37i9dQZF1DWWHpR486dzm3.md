@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Alma Alanko.
 
-279 songs - 16 hr 32 min
+280 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Viisaat lapset](https://open.spotify.com/track/2YUFL03F9q5HdiiwL3uzUl) | [Sanni Reilin](https://open.spotify.com/artist/3iYdKXNnpMDCv5e9h6UVPP) | [Viisaat lapset](https://open.spotify.com/album/3WTH4tOTrReGth1hQyyJll) | 2:23 | 2024-07-04 | 2024-08-09 |
 | [Vika biisi](https://open.spotify.com/track/0S2b8Lk27xM4hG3yEQCm2L) | [Hattara](https://open.spotify.com/artist/4bK357VA5lfLjj5GwFFjuR) | [Vika biisi](https://open.spotify.com/album/7xvHNbURnkssGXD4bCpDA9) | 3:13 | 2024-07-02 | 2024-07-12 |
 | [Vilja kasvaa](https://open.spotify.com/track/2av0FunYgQvBmbmOLmcFeG) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Vilja kasvaa](https://open.spotify.com/album/3gnMnXx0vjjnADWW5VDUJu) | 3:11 | 2024-07-25 | 2024-08-30 |
+| [Vizardit](https://open.spotify.com/track/5GOslFje4LJbJiMT4TfXpl) | [Hildá Länsman](https://open.spotify.com/artist/3qjN2jBKLV1lbJ476k9e1P), [Tuomas Norvio](https://open.spotify.com/artist/6cJR1BWIq2MZwAqmEOHDlC) | [Vizardit](https://open.spotify.com/album/1T8zqrK1dACnjDWICATKGH) | 4:29 | 2024-09-30 |  |
 | [Voiko uniin luottaa?](https://open.spotify.com/track/2a6GCM0h8Xd1ZOHxUkzAg2) | [Hattara](https://open.spotify.com/artist/4bK357VA5lfLjj5GwFFjuR) | [Ehkä me nähdään huomenna](https://open.spotify.com/album/0qHxHlLaqnWtiBDKVX4SZ7) | 2:10 | 2024-08-15 | 2024-08-23 |
 | [Vähän jotain musta \- Remix](https://open.spotify.com/track/25XiBsIAj97ySM59gIfvBe) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Vähän jotain musta \(Remix\)](https://open.spotify.com/album/6W3IO7Tr8yoZkKCUHUiwjE) | 4:24 | 2024-07-02 | 2024-07-09 |
 | [Väriympyrä](https://open.spotify.com/track/3uz4ZPxPgss1zqI7htj1yE) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Väriympyrä](https://open.spotify.com/album/4ZLHMZPjawszJ4r89d702E) | 2:44 | 2024-09-12 |  |

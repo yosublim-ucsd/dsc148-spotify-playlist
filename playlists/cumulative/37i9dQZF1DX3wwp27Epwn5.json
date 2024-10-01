@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 212117,
       "name": "Aaya (From \"Thalapathy Is The G.O.A.T.\")",
       "url": "https://open.spotify.com/track/4J3d6IFZwkYN2sHe0W1WrL"
@@ -576,6 +576,28 @@
       "duration_ms": 173353,
       "name": "Crakk Title Track (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
       "url": "https://open.spotify.com/track/4sUr5QdkFfotWv5UCnnKw8"
+    },
+    {
+      "album": {
+        "name": "Dangal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299325,
+      "name": "Dangal",
+      "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
     },
     {
       "album": {
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 174107,
       "name": "Raula Raula",
       "url": "https://open.spotify.com/track/59wwFmFLincPeHJZMp7wZ2"
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 215483,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"

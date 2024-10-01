@@ -2,7 +2,7 @@
 
 ### [This Is Chris Tomlin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MV2cU)
 
-> This is Chris Tomlin\. المقاطع الأساسية، كلها في قايمة أغاني واحدة.
+> This is Chris Tomlin\. Tutti i brani in un'unica playlist.
 
 74 songs - 5 hr 36 min
 

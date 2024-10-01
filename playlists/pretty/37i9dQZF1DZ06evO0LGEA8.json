@@ -1,12 +1,12 @@
 {
-  "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 246141,
+  "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
+  "num_followers": 246293,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAABvknPjhFKUUrgIgYvb6R5/",
+  "snapshot_id": "ZviYgAAAAAAO/kda3c1jq33+2wRIypIR",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 300300,
-      "name": "Amor al Arte",
-      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico 20s",
         "url": "https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 202597,
       "name": "No que no eras fan",
       "url": "https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 300300,
+      "name": "Amor al Arte",
+      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 294504,
       "name": "Primero Lo Que Deja",
       "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,

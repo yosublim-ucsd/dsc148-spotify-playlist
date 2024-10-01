@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Jailer",
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Vettaiyan",
   "name": "Kollywood Cream",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 272000,
       "name": "Adiye - From \"Bachelor\"",
       "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 217459,
       "name": "Ei Suzhali",
       "url": "https://open.spotify.com/track/2lOrPIWA114GA1OFEcHc8R"
@@ -836,6 +836,36 @@
       "duration_ms": 270720,
       "name": "Ethir Neechal",
       "url": "https://open.spotify.com/track/1LFTKTSfPQRM3a8mOvNtnE"
+    },
+    {
+      "album": {
+        "name": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
+        "url": "https://open.spotify.com/album/09Wjf3AwDGRQrKqddhqHKa"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
+      "url": "https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN"
     },
     {
       "album": {
@@ -1020,7 +1050,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 235391,
       "name": "Idhayathai Yedho Ondru",
       "url": "https://open.spotify.com/track/23bpCCVsTUKviTEfoy4tbM"
@@ -1719,6 +1749,32 @@
     },
     {
       "album": {
+        "name": "Brother (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VvHyjV3V9uVVzH6JaJ3ca"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "Dacalty",
+          "url": "https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254228,
+      "name": "Makkamishi",
+      "url": "https://open.spotify.com/track/0EvlR7AONHr9BcsFp1QOGE"
+    },
+    {
+      "album": {
         "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
       },
@@ -1981,6 +2037,32 @@
     },
     {
       "album": {
+        "name": "Thangalaan (Original Motion Picture Soundtrack) - Tamil",
+        "url": "https://open.spotify.com/album/7BQyrySqccnKrr1dfxTW7R"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Minikki Minikki",
+      "url": "https://open.spotify.com/track/48SUyK7lpQElCnhFjP3qPc"
+    },
+    {
+      "album": {
         "name": "Kadal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3j8iyHi0RxqLLV97ZGOCPm"
       },
@@ -2022,7 +2104,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 332702,
       "name": "Mudhal Nee Mudivum Nee Title Track",
       "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
@@ -2192,6 +2274,28 @@
       "duration_ms": 215489,
       "name": "Namma Satham (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS"
+    },
+    {
+      "album": {
+        "name": "Maragatha Naanayam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZD93IwA101GrvSLMwG3Sj"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276250,
+      "name": "Nee Kavithaigala",
+      "url": "https://open.spotify.com/track/6R0FwF48PO2BrdZpLeWi42"
     },
     {
       "album": {
@@ -2475,6 +2579,28 @@
     },
     {
       "album": {
+        "name": "Mayakkam Enna",
+        "url": "https://open.spotify.com/album/2Y1L4ov5riEAOhF0FvKwCa"
+      },
+      "artists": [
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332711,
+      "name": "Pirai Thedum",
+      "url": "https://open.spotify.com/track/4Dd5XLOdAAmURIZSLThPvH"
+    },
+    {
+      "album": {
         "name": "Neram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zEO7lQavgGnCcrQthxujb"
       },
@@ -2490,6 +2616,28 @@
       "duration_ms": 146933,
       "name": "Pistah",
       "url": "https://open.spotify.com/track/4oWyW7U9YVox9jqTar9k0V"
+    },
+    {
+      "album": {
+        "name": "Velai Illa Pattadhaari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TOKHFSj7mBAKfnkrPGxq0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223326,
+      "name": "Po Indru Neeyaga (From \"Velai Illa Pattadhaari\")",
+      "url": "https://open.spotify.com/track/45TUsDINS6CMvccCZ25YKk"
     },
     {
       "album": {
@@ -2560,7 +2708,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 396466,
       "name": "Pookkal Pookkum",
       "url": "https://open.spotify.com/track/7hMKAmUlUUYa5qEiHWK4bk"
@@ -2607,6 +2755,32 @@
     },
     {
       "album": {
+        "name": "Blue Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/056Bmd8V35Hm8WrMGYDFaN"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157650,
+      "name": "Railin Oligal",
+      "url": "https://open.spotify.com/track/0vvKTDg4oR8WA0jc55nhwV"
+    },
+    {
+      "album": {
         "name": "Railin Oligal (From \"Blue Star\")",
         "url": "https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC"
       },
@@ -2626,7 +2800,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 157650,
       "name": "Railin Oligal - From \"Blue Star\"",
       "url": "https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK"
@@ -3890,7 +4064,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale",
       "url": "https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh"

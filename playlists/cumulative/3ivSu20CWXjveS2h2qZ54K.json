@@ -8671,6 +8671,28 @@
     },
     {
       "album": {
+        "name": "El d\u00eda de las flores",
+        "url": "https://open.spotify.com/album/43OQMrGllHGY6oAvY5hgbR"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        },
+        {
+          "name": "Eterna Inocencia",
+          "url": "https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218039,
+      "name": "El d\u00eda de las flores",
+      "url": "https://open.spotify.com/track/4HeYFHwzOIL6bbuDwNLLrD"
+    },
+    {
+      "album": {
         "name": "El Entusiasmo",
         "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
       },

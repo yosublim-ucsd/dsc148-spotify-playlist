@@ -2,7 +2,7 @@
 
 ### [This Is Hawthorne Heights](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0y67IT)
 
-> This is Hawthorne Heights。アーティストの代表曲をひとつのプレイリストに。
+> This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 1 min
 

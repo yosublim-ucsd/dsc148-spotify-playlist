@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 196840,
       "name": "Mutiny",
       "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
@@ -834,6 +834,24 @@
       "duration_ms": 169960,
       "name": "Old Ghost / New Regrets",
       "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
+    },
+    {
+      "album": {
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/4u3LudcqUJmDjx2eRi1YES"
     },
     {
       "album": {

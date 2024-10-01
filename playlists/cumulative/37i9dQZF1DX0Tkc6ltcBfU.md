@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Playboi Carti
 
-1,561 songs - 3 day 1 hr 52 min
+1,562 songs - 3 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,7 @@
 | [Rich Niggaz](https://open.spotify.com/track/6JNDrnCTLgQKT6SW5NlYLz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Greatest Of All Trappers \- Gangsta Grillz Edition](https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD) | 4:18 | 2024-08-16 | 2024-08-24 |
 | [Richer Than I Ever Been](https://open.spotify.com/track/6APhSotnV8vcCFG87XiYfo) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 2:52 | 2021-12-10 | 2021-12-24 |
 | [Ride Home](https://open.spotify.com/track/2rnWo5yqcjpx0lldvnTdIU) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ride Home](https://open.spotify.com/album/73tlDSppnnmvWbbBPRQDI6) | 2:58 | 2024-04-19 | 2024-05-04 |
-| [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 | 2024-01-19 |  |
+| [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 | 2024-01-19 | 2024-10-01 |
 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 | 2022-07-15 | 2022-09-03 |
 | [Right Now](https://open.spotify.com/track/5xdK8zqIkSy6ogJ2gJ486w) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Meet The Reap](https://open.spotify.com/album/5XVDMCHpVCu2wsPErKXDDj) | 1:58 | 2024-09-13 | 2024-09-17 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-07-16 |
@@ -1549,6 +1549,7 @@
 | [YAE ENERGY](https://open.spotify.com/track/6og219WwSl2pU7oXyXfRMe) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [YAE ENERGY](https://open.spotify.com/album/1dCGJXNs3NhNRgT5manGI7) | 1:42 | 2021-11-14 | 2022-01-22 |
 | [Yak Flow](https://open.spotify.com/track/0PP7bQ2n8pnTrHT81t3GPd) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Yak Flow](https://open.spotify.com/album/09E5HODaBOJacIB2xHlzrL) | 2:37 | 2022-04-08 | 2022-05-28 |
 | [Yak's Prayer \(feat\. Kodak Black\)](https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:24 | 2024-07-27 | 2024-09-10 |
+| [Yak's Prayer \(feat\. Kodak Black\)](https://open.spotify.com/track/7wn8bBeGvvxMuNiVKI0CSH) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2) | 3:24 | 2024-09-30 |  |
 | [Ye](https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Ye](https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql) | 2:11 | 2023-05-19 | 2023-06-03 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 |  |
 | [Yeah Whoa \(feat\. Nardo Wick & Gucci Mane\)](https://open.spotify.com/track/0WSGHNx7oMYAV2WAJzLhQf) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:36 | 2022-06-17 | 2022-08-06 |

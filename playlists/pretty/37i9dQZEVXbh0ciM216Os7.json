@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADfkVSMzf3gTkMsskQBkfsw",
+  "snapshot_id": "AAAAAAAAAABAsX3/tjJDdC3Qp+JT4GNi",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -143,46 +143,42 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Be A Lion",
-        "url": "https://open.spotify.com/album/5E5PfAqOue4iVpJFZGoKhp"
+        "name": "DIAMOND CIGARS",
+        "url": "https://open.spotify.com/album/6z5oI1R1PnTPhBM0oFFQoo"
       },
       "artists": [
         {
-          "name": "Mr. Exile",
-          "url": "https://open.spotify.com/artist/4t2mLJtuEDw5ho4IDSX406"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        }
-      ],
-      "duration_ms": 205897,
-      "name": "Be A Lion",
-      "url": "https://open.spotify.com/track/66Us7kb5sPqWNixTYcIRDS"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Staccs vs Starks (feat. Ghostface Killah)",
-        "url": "https://open.spotify.com/album/2rLNrZU0DTSj66MoyFPbUU"
-      },
-      "artists": [
-        {
-          "name": "Stacctonio",
-          "url": "https://open.spotify.com/artist/3ZBy9MMMp8zEEVB24dofOd"
+          "name": "Little Larry",
+          "url": "https://open.spotify.com/artist/7EBeBK8nKGwZ7trZTGBCb6"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 181295,
-      "name": "Staccs vs Starks (feat. Ghostface Killah)",
-      "url": "https://open.spotify.com/track/5s06VoSp0h0Q0azM5LEiyh"
+      "duration_ms": 102000,
+      "name": "DIAMOND CIGARS",
+      "url": "https://open.spotify.com/track/20xATlbTt4WqbIdXI58LG0"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -215,22 +211,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+        "name": "Digital Temple",
+        "url": "https://open.spotify.com/album/54uLeloBjpZT1tFZbDV8CF"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Warnutz the Loser",
+          "url": "https://open.spotify.com/artist/333enrsTNFhcULlvvsZRf7"
         },
         {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         }
       ],
-      "duration_ms": 159200,
-      "name": "wanted (feat. kamasi washington)",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+      "duration_ms": 82477,
+      "name": "Wu-Tang Freestyle",
+      "url": "https://open.spotify.com/track/1NGeXjNvisyYjPap6NJgb7"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -255,6 +251,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "From Your Own Eyes",
+        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "From Your Own Eyes",
+      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Guardians Of Time",
         "url": "https://open.spotify.com/album/0huLazla7SzUmZcLdKiiwt"
       },
@@ -275,42 +287,6 @@
       "duration_ms": 262170,
       "name": "Guardians Of Time",
       "url": "https://open.spotify.com/track/52ciEgOT9msJ3r0YTnquhT"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "From Your Own Eyes",
-        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "From Your Own Eyes",
-      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Digital Temple",
-        "url": "https://open.spotify.com/album/54uLeloBjpZT1tFZbDV8CF"
-      },
-      "artists": [
-        {
-          "name": "Warnutz the Loser",
-          "url": "https://open.spotify.com/artist/333enrsTNFhcULlvvsZRf7"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        }
-      ],
-      "duration_ms": 82477,
-      "name": "Wu-Tang Freestyle",
-      "url": "https://open.spotify.com/track/1NGeXjNvisyYjPap6NJgb7"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -399,30 +375,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Big Body Bes",
-          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Minnesota Fats",
-      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
       },
@@ -443,6 +395,30 @@
       "duration_ms": 175466,
       "name": "WAR",
       "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -583,6 +559,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 458858,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Still Infinite (Redux)",
         "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
       },
@@ -603,22 +595,6 @@
       "duration_ms": 215173,
       "name": "Still Infinite (Redux)",
       "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 458858,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
     },
     {
       "added_at": "2024-09-27 04:00:00",

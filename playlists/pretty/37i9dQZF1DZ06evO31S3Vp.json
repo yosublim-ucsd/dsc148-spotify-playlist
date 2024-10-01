@@ -1,12 +1,12 @@
 {
-  "description": "This Is J\u00e3o. Los temas esenciales, todos en una lista.",
-  "num_followers": 200692,
+  "description": "This is J\u00e3o. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 200724,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAABsknd6qSNSuFLqhnP7Tdr7",
+  "snapshot_id": "ZviYgAAAAADqKuSbzyx4UlkHnQ2glITf",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Imaturo",
+      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisas da Gera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Imaturo",
-      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
+      "duration_ms": 100665,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/48hK09fSQ98TncY4VaPvnX"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 100665,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/48hK09fSQ98TncY4VaPvnX"
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,

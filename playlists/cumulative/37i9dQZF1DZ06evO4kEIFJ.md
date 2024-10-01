@@ -2,7 +2,7 @@
 
 ### [This Is Lil Nas X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ)
 
-> This Is Lil Nas X\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Lil Nas X\. Tutti i brani in un'unica playlist.
 
 30 songs - 1 hr 20 min
 

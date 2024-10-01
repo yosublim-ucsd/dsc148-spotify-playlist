@@ -2,7 +2,7 @@
 
 ### [This Is Iggy Pop](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK)
 
-> This Is Iggy Pop\. Los temas esenciales, todos en una lista.
+> This Is Iggy Pop\. Les titres incontournables, réunis dans une seule et même playlist.
 
 94 songs - 5 hr 55 min
 

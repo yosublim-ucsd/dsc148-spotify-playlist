@@ -2,7 +2,7 @@
 
 ### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Ready to spill your GUTS\. Cover: Olivia Rodrigo
+> Get ready to spill your GUTS\. Cover: Olivia Rodrigo
 
 237 songs - 13 hr 28 min
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-869 songs - 1 day 18 hr 14 min
+870 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 | 2024-05-01 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-19 | 2024-03-25 |
 | [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 | 2024-08-19 | 2024-09-30 |
-| [AZR](https://open.spotify.com/track/1NjLNGrLWN5q1A4A3xCra3) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [AZR](https://open.spotify.com/album/4VfuOSOk3ayrCQRUCG3Jbt) | 2:25 | 2024-09-03 |  |
+| [AZR](https://open.spotify.com/track/1NjLNGrLWN5q1A4A3xCra3) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [AZR](https://open.spotify.com/album/4VfuOSOk3ayrCQRUCG3Jbt) | 2:25 | 2024-09-03 | 2024-10-01 |
 | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq) | [Salvatore Mancuso](https://open.spotify.com/artist/4LVJtOjpXBAj6kRVQQultK), [Max Niklas](https://open.spotify.com/artist/2odc9r3Utp0yWZkPcexIdi) | [Baby, You're the One \(Whole Again\)](https://open.spotify.com/album/6E5nsoVzcVSwx4L47mhMcA) | 2:11 | 2024-08-13 |  |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-27 | 2024-09-22 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-01-29 | 2024-02-21 |
@@ -453,6 +453,7 @@
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-01-29 | 2024-02-07 |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2024-08-07 | 2024-08-28 |
 | [LET'S GO](https://open.spotify.com/track/5YU6E3o8PGh6MoqVIyOBih) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg) | [LET'S GO](https://open.spotify.com/album/5jgGbUAAJE2s8OFiWryF7N) | 3:13 | 2024-08-03 | 2024-08-07 |
+| [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-30 |  |
 | [Letztendlich](https://open.spotify.com/track/6Ysm6WDVXjmAZOnOtjtmD0) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Letztendlich](https://open.spotify.com/album/4ndqsfxyeN7NMXyvkBpHTh) | 1:46 | 2024-05-21 | 2024-06-05 |
 | [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-13 | 2024-05-22 |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-02-06 | 2024-02-24 |
@@ -638,7 +639,7 @@
 | [Ramm4](https://open.spotify.com/track/23US11vojzIqOpQj5W7qCd) | [Deep Voice Guy](https://open.spotify.com/artist/0nyL0J01zSrYPJlEk7jwwO) | [Ramm4](https://open.spotify.com/album/5LDdp9BoNj0BGDUM9OYACa) | 6:14 | 2024-07-22 | 2024-07-27 |
 | [Ramonda](https://open.spotify.com/track/3q58lQ4ByWV5MR0VSeNer3) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Ramonda](https://open.spotify.com/album/0EpFshvEJwsgYIdfLrsiGe) | 2:54 | 2024-03-07 | 2024-03-13 |
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-07-16 | 2024-07-24 |
-| [Rapstar](https://open.spotify.com/track/57gjUsErLOYxTOqyiK6CVm) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Rapstar](https://open.spotify.com/album/0cFeIIO2YVok8hKk1HPjxd) | 3:06 | 2024-09-24 |  |
+| [Rapstar](https://open.spotify.com/track/57gjUsErLOYxTOqyiK6CVm) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Rapstar](https://open.spotify.com/album/0cFeIIO2YVok8hKk1HPjxd) | 3:06 | 2024-09-24 | 2024-10-01 |
 | [Rasenschach](https://open.spotify.com/track/16hNeZ78WOpMzZrK3AKDxc) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Rasenschach](https://open.spotify.com/album/1R9wTJVdwXeItPICT8w2Ks) | 2:24 | 2024-07-13 | 2024-07-15 |
 | [Rasenschach](https://open.spotify.com/track/2p7k0RHPeNU8H7CSRWwIgp) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Rasenschach](https://open.spotify.com/album/17PIYVAjbb7QAhEYtUpu17) | 2:24 | 2024-07-09 | 2024-07-14 |
 | [Rasenschach](https://open.spotify.com/track/5F6SWgvyg6PYxmeAHhoXxJ) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [ICKE](https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8) | 2:24 | 2024-09-08 | 2024-09-19 |
@@ -851,7 +852,7 @@
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-20 | 2024-08-28 |
 | [Willkommen in Autriche](https://open.spotify.com/track/0V3aF1AzXM09yHxdPjVPY4) | [Drogu](https://open.spotify.com/artist/3goABzDqMQzXyB8oyxguy8) | [Willkommen in Autriche](https://open.spotify.com/album/16FIyLt4OFcpUsnW39cMRW) | 2:21 | 2024-07-02 | 2024-07-24 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-06-04 | 2024-06-14 |
-| [Woops \- Original Remastered Mix](https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY) | [Bountyhunter](https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl) | [Woops](https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU) | 4:16 | 2024-09-06 | 2024-09-28 |
+| [Woops \- Original Remastered Mix](https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY) | [Bountyhunter](https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl) | [Woops](https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU) | 4:16 | 2024-09-06 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-05-14 | 2024-06-02 |
 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-15 | 2024-08-18 |
 | [Y\-3 x Shababs Botten](https://open.spotify.com/track/7icJUZLZXNag4LVJBnHRux) | [prod.67](https://open.spotify.com/artist/3wKcnxVgBBbeR3yIVOReYS), [67.ege](https://open.spotify.com/artist/1qTvjIrzZW0sOne2lRbnOj) | [Y\-3 x Shababs Botten](https://open.spotify.com/album/4AyMtiPy1X4TfKipAbwgwQ) | 2:10 | 2024-09-19 | 2024-09-25 |

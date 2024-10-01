@@ -4,7 +4,7 @@
 
 > Playlist
 
-529 songs - 1 day 7 hr 39 min
+531 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Boogie Board](https://open.spotify.com/track/2fxvzbFrmMuTbGdt9t3ReA) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Sueños Que Sobran](https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz) | 3:04 | 2023-10-25 |  |
 | [Bower](https://open.spotify.com/track/2eEIkMa5HTRCBG1YE4I4jL) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bower](https://open.spotify.com/album/7JNHlZOeBqXNAGTMbi8UPt) | 2:54 | 2023-10-25 |  |
 | [Boy Dreams](https://open.spotify.com/track/0jbBK4xLKd7sKPsUR6SHBA) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 3:04 | 2023-10-25 |  |
+| [Breath Hold](https://open.spotify.com/track/4JcyMeWwmvTHBBJNxtFfhp) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction](https://open.spotify.com/album/1SB9N45PdLVqswBBz1ge4F) | 3:33 | 2024-09-30 |  |
 | [Breathe In](https://open.spotify.com/track/1D5YKgGM9362atCDq0bg7G) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:15 | 2023-10-25 |  |
 | [Breeze](https://open.spotify.com/track/4fF2nOsPektn8js9fG5Cdr) | [Jermango Dreaming](https://open.spotify.com/artist/3FzmHDnTOHBoH6BIwyllIj) | [Breeze](https://open.spotify.com/album/4d9iqudSbaVJ9SGUL37Kfr) | 3:53 | 2023-10-25 |  |
 | [Bring Me to Tears](https://open.spotify.com/track/1DVQVW99aNA5Xvzp5W9pqF) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2023-10-25 |  |
@@ -160,6 +161,7 @@
 | [Flowers](https://open.spotify.com/track/7ELRIwLlCifSY1HG2hgd4m) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:41 | 2023-10-25 |  |
 | [Flowers in the Garden](https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 4:05 | 2024-02-20 |  |
 | [For Another One](https://open.spotify.com/track/1p3cobnspNSIRYaHMpLncQ) | [Nic Clay](https://open.spotify.com/artist/3Irb4dWmjcnpsDDbbBbZso) | [For Another One](https://open.spotify.com/album/5RhtSUPZQNOPDmXtNm3PzA) | 3:10 | 2023-10-25 |  |
+| [Fore to the Come](https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction \(Remixes\)](https://open.spotify.com/album/25eWkFEsyo1Rt6DB92oFFt) | 2:21 | 2024-09-30 |  |
 | [Forest](https://open.spotify.com/track/0sZvJwI3qwlBe6IdleZtDS) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Certified Organic](https://open.spotify.com/album/5ymG66yGKMJCwJ9kcu3qTy) | 2:34 | 2023-10-25 |  |
 | [Forever and More](https://open.spotify.com/track/1xhkbc481N3PiE28jj4pmN) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Forever and More](https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng) | 4:22 | 2023-10-25 |  |
 | [Forever Inbetweeners](https://open.spotify.com/track/7b91OEs7jrHYggqBAWwH1Q) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 3:12 | 2023-10-25 |  |

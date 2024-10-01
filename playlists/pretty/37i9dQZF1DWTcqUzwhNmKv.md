@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Serj Tankian on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,977 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,131 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 10 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 |
 | 11 | [Exhumed](https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Exhumed](https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15) | 3:54 |
 | 12 | [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 |
-| 13 | [Cannibal](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
+| 13 | [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
 | 14 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 |
 | 15 | [Better Written Villain](https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [People Watching](https://open.spotify.com/album/1PRvYCv9h0rlR4AP54yOnN) | 3:43 |
 | 16 | [Brave New World](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Brave New World](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |

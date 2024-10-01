@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 351640,
       "name": ">>>>>>>>>>>Mocean",
       "url": "https://open.spotify.com/track/7jPfshwQln5K26tGgteUra"
@@ -106,10 +106,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 256800,
       "name": "A Night In Tunisia - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7mwfuAhF0DclPHLhKEyYdl"
+    },
+    {
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409626,
+      "name": "Adam's Apple - Remastered",
+      "url": "https://open.spotify.com/track/0QRcIGOrLvLNhIB9SLXW9F"
     },
     {
       "album": {
@@ -225,6 +243,24 @@
     },
     {
       "album": {
+        "name": "The Invisible Hand",
+        "url": "https://open.spotify.com/album/1PCsTrhVsXocwFGpbq0GHt"
+      },
+      "artists": [
+        {
+          "name": "Greg Osby",
+          "url": "https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482133,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/5YaEzMErUkFhkvYRLqFj7c"
+    },
+    {
+      "album": {
         "name": "Deciphering The Message",
         "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
@@ -254,7 +290,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 659520,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
@@ -297,6 +333,60 @@
     },
     {
       "album": {
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372306,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7bCpCdVjSmZ9OGlRkFbHSm"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463240,
+      "name": "Benny's Tune",
+      "url": "https://open.spotify.com/track/3BM48UPM2NbMQC75y2hBZr"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/18Z4yumEaGfFohmhJGjdo9"
+      },
+      "artists": [
+        {
+          "name": "Jason Moran",
+          "url": "https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275800,
+      "name": "Blue Blocks",
+      "url": "https://open.spotify.com/track/68SovZFzrvO7JqSxCpNfEU"
+    },
+    {
+      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -315,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383573,
+      "name": "Blue Frenzy - Remastered 2004",
+      "url": "https://open.spotify.com/track/5xgeO0wpUxkWntIc609J87"
+    },
+    {
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
@@ -326,7 +434,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 386200,
       "name": "Blue Riff - Remastered",
       "url": "https://open.spotify.com/track/1kZSU9gn34W6gl1t8kBSap"
@@ -344,7 +452,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 317560,
       "name": "Blue Samba - Remastered",
       "url": "https://open.spotify.com/track/6VB4NISQyautyrBN1SGzgJ"
@@ -416,7 +524,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 404146,
       "name": "Blues For Philly Joe - Remastered",
       "url": "https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj"
@@ -470,7 +578,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 226026,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu"
@@ -542,7 +650,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 445066,
       "name": "Bright Eyes - Live",
       "url": "https://open.spotify.com/track/5c17qhp5zR2gs61XNEpAnC"
@@ -564,6 +672,24 @@
       "duration_ms": 523760,
       "name": "Broad Way Blues",
       "url": "https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe"
+    },
+    {
+      "album": {
+        "name": "Time Waits: The Amazing Bud Powell, Vol. 4",
+        "url": "https://open.spotify.com/album/4GxQznOnt2L9ZgyBJXaqGH"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334480,
+      "name": "Buster Rides Again - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2Q9JCcBc3HFIwXouooW1Y4"
     },
     {
       "album": {
@@ -596,7 +722,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 237293,
       "name": "Castle Park",
       "url": "https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3"
@@ -632,7 +758,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 383400,
       "name": "Ceora",
       "url": "https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk"
@@ -650,7 +776,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 393746,
       "name": "Cheese Cake - Rudy Van Gelder Edition / Remastered 1999",
       "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
@@ -794,7 +920,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 264346,
       "name": "Congalegre",
       "url": "https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B"
@@ -852,6 +978,42 @@
       "duration_ms": 384363,
       "name": "Dance Kobina",
       "url": "https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV"
+    },
+    {
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384866,
+      "name": "Das' Dat",
+      "url": "https://open.spotify.com/track/3Jo5ZN5h9i6OiGiZhLYPxm"
+    },
+    {
+      "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527040,
+      "name": "Dat Dere - Remastered 2005",
+      "url": "https://open.spotify.com/track/0fYXEHGIJqfimplx8Y4683"
     },
     {
       "album": {
@@ -985,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Green Is Beautiful",
+        "url": "https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364440,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/5dBxtEw5LNYyDcrvifLUIg"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
       },
@@ -1032,7 +1212,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 449773,
       "name": "Footprints - Remastered",
       "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
@@ -1356,9 +1536,9 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 429040,
-      "name": "I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "name": "I Remember Clifford - Rudy Van Gelder Edition / Remastered 2007",
       "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
     },
     {
@@ -1458,7 +1638,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 176296,
       "name": "Jackie Gets Out",
       "url": "https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy"
@@ -1476,9 +1656,9 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 482880,
-      "name": "Joshua Fit De Battle Of Jericho - 2004 Remaster",
+      "name": "Joshua Fit De Battle Of Jericho - Remastered 2004",
       "url": "https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8"
     },
     {
@@ -1516,6 +1696,24 @@
       "duration_ms": 329160,
       "name": "Jumpin' The Blues - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0okh476MArSQObZ4jAr0Ji"
+    },
+    {
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426026,
+      "name": "Laconia",
+      "url": "https://open.spotify.com/track/1WGNVSc8ac52NOumYQhOtu"
     },
     {
       "album": {
@@ -1591,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469533,
+      "name": "Little Sheri - 1960 Version/2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3Hz6lojzMHSLzwaHap8teT"
+    },
+    {
+      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -1620,7 +1836,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 190800,
       "name": "Loie - Rudy Van Gelder Edition / 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/5u37dzOTaofExiyOlYir65"
@@ -1689,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "The Right Touch",
+        "url": "https://open.spotify.com/album/7EKS9Uqb0JT3ETU2snZNs9"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396573,
+      "name": "Make It Good - Remastered 2006",
+      "url": "https://open.spotify.com/track/0LyNNcmxLFFHLRk3gBOCa2"
+    },
+    {
+      "album": {
         "name": "Trompeta Toccata (Remastered 2014)",
         "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
       },
@@ -1700,7 +1934,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 663160,
       "name": "Mamacita - Remastered 2014",
       "url": "https://open.spotify.com/track/2OAGhItJNa421Rdtby3ZuQ"
@@ -1718,7 +1952,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 376333,
       "name": "March On Selma - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
@@ -1794,7 +2028,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 493253,
       "name": "Mosaic - 2005 Remaster",
       "url": "https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA"
@@ -1873,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/3rTLTIj9UU6uss4re4G2H8"
+    },
+    {
+      "album": {
         "name": "Moon Rappin'",
         "url": "https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8"
       },
@@ -1888,6 +2140,24 @@
       "duration_ms": 396040,
       "name": "Oblighetto",
       "url": "https://open.spotify.com/track/5H9ndwyE50LFwZFuZnVe2o"
+    },
+    {
+      "album": {
+        "name": "A Night At The Village Vanguard (The Complete Masters)",
+        "url": "https://open.spotify.com/album/4ZsJnvskaNpZ03ynI0mqlH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480306,
+      "name": "Old Devil Moon - Live At The Village Vanguard/1957",
+      "url": "https://open.spotify.com/track/563DRE35ni2ptksbwhmu62"
     },
     {
       "album": {
@@ -1938,7 +2208,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 350606,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF"
@@ -1974,9 +2244,9 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 505453,
-      "name": "One For Daddy-O - Remastered",
+      "name": "One For Daddy-O",
       "url": "https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS"
     },
     {
@@ -2071,6 +2341,42 @@
     },
     {
       "album": {
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342360,
+      "name": "Perception - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
+    },
+    {
+      "album": {
+        "name": "Into Somethin'",
+        "url": "https://open.spotify.com/album/6jz1LVL5ZczIGFMvuluVqy"
+      },
+      "artists": [
+        {
+          "name": "Larry Young",
+          "url": "https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578933,
+      "name": "Plaza De Toros",
+      "url": "https://open.spotify.com/track/0xa6IpXH766gq9prbIGdHb"
+    },
+    {
+      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
@@ -2082,7 +2388,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 331253,
       "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
@@ -2100,7 +2406,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 260266,
       "name": "Queen Of The South",
       "url": "https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH"
@@ -2136,7 +2442,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 441333,
       "name": "Rejuvenation Agenda - Live",
       "url": "https://open.spotify.com/track/1atkWGZTTHjsiR4jJ8bAeV"
@@ -2158,6 +2464,24 @@
       "duration_ms": 692610,
       "name": "Requiem - Live",
       "url": "https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d"
+    },
+    {
+      "album": {
+        "name": "Echoes Of The Inner Prophet",
+        "url": "https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/4wzAKkVFNSweyya6K3QYcj"
     },
     {
       "album": {
@@ -2215,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Una Mas",
+        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440213,
+      "name": "Sao Paulo - Remastered",
+      "url": "https://open.spotify.com/track/3pXbEignfHxOSrMaLez5Uy"
+    },
+    {
+      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -2244,7 +2586,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 340226,
       "name": "Second Light",
       "url": "https://open.spotify.com/track/51pE38tcmotzrDe6DZ8JDm"
@@ -2395,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+    },
+    {
+      "album": {
         "name": "A Swingin' Affair",
         "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
@@ -2406,10 +2766,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 387560,
       "name": "Soy Califa - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/7ueu8ToQEZOzjz0QE3iqhJ"
+    },
+    {
+      "album": {
+        "name": "Sonny's Crib",
+        "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410773,
+      "name": "Speak Low - Remastered 1998",
+      "url": "https://open.spotify.com/track/48maZW59yoavD1b4gbSGro"
     },
     {
       "album": {
@@ -2496,10 +2878,32 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 377236,
       "name": "Sway",
       "url": "https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr"
+    },
+    {
+      "album": {
+        "name": "Bells On Sand",
+        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Justin Brown",
+          "url": "https://open.spotify.com/artist/4YzUifC19loaHMPE0MdGNv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "That Roy",
+      "url": "https://open.spotify.com/track/7G035a84qdhNfjm2pV29Zx"
     },
     {
       "album": {
@@ -2586,7 +2990,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 441426,
       "name": "The Moontrane - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998",
       "url": "https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ"
@@ -2608,6 +3012,24 @@
       "duration_ms": 187769,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2"
+    },
+    {
+      "album": {
+        "name": "Rainbow Sign",
+        "url": "https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/0Z3NypT7ZsF02VVjah5HM0"
     },
     {
       "album": {
@@ -2676,7 +3098,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 368402,
       "name": "The Solitary Seeker",
       "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
@@ -2712,7 +3134,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 342493,
       "name": "The Windjammer",
       "url": "https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q"
@@ -2813,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Speakin' My Piece",
+        "url": "https://open.spotify.com/album/5gwzr2XR4G2poz1uNQFlzr"
+      },
+      "artists": [
+        {
+          "name": "Horace Parlan Quintet",
+          "url": "https://open.spotify.com/artist/1rItXCYDwGC1ScW5BVVtBy"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378693,
+      "name": "Up In Cynthia's Room - Remastered",
+      "url": "https://open.spotify.com/track/2687Dgajyh03l62gkUox0l"
+    },
+    {
+      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -2864,7 +3304,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 394975,
       "name": "Water Spirits: Izinkonjana",
       "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
@@ -2925,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Good Move",
+        "url": "https://open.spotify.com/album/5Z0wod4JuOLmsprgbhlzmt"
+      },
+      "artists": [
+        {
+          "name": "Freddie Roach",
+          "url": "https://open.spotify.com/artist/0G8byCYIfj5KtkipBDYrrL"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319666,
+      "name": "When Malindy Sings",
+      "url": "https://open.spotify.com/track/1POz8QAq49DFcathFYplyp"
+    },
+    {
+      "album": {
         "name": "Places And Spaces",
         "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
       },
@@ -2958,7 +3416,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 480000,
       "name": "Yams",
       "url": "https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U"

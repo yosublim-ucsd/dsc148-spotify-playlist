@@ -2681,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/7LnmVCMcb4eIPRYWctTzRM"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283742,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2tHWfJzKknUb1bLCabCUp2"
+    },
+    {
+      "album": {
         "name": "Unjust Images EP",
         "url": "https://open.spotify.com/album/3jw0JnPopHVbT5aomB5coZ"
       },
@@ -3008,6 +3026,28 @@
       "duration_ms": 256463,
       "name": "Keep the Pressure On",
       "url": "https://open.spotify.com/track/4LPfMqurTNTpdGl7OULJvW"
+    },
+    {
+      "album": {
+        "name": "Lavande",
+        "url": "https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC"
+      },
+      "artists": [
+        {
+          "name": "UFO95",
+          "url": "https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk"
+        },
+        {
+          "name": "R\u00f8dh\u00e5d",
+          "url": "https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363156,
+      "name": "Lavande 01 [240107.2]",
+      "url": "https://open.spotify.com/track/0qixcOUj0RP0FjxYhQpAE2"
     },
     {
       "album": {
@@ -4184,6 +4224,24 @@
       "duration_ms": 330000,
       "name": "Purple Eye - Mixed",
       "url": "https://open.spotify.com/track/32E7D0IqDZtzwh2Exf306b"
+    },
+    {
+      "album": {
+        "name": "Test & Push",
+        "url": "https://open.spotify.com/album/4xSRyzSwMRyaV1Cv8WfQJn"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366857,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/4QqxwwOGa1DTRTYZpzGZ2L"
     },
     {
       "album": {
@@ -5962,6 +6020,28 @@
       "duration_ms": 399676,
       "name": "Very Chic Blackman (Horatio Remix)",
       "url": "https://open.spotify.com/track/60JxGJU55HwhvdXA1YdRlT"
+    },
+    {
+      "album": {
+        "name": "Video Siren (The Remixes)",
+        "url": "https://open.spotify.com/album/1ddYrBqk5cODw3axH8bhmM"
+      },
+      "artists": [
+        {
+          "name": "Gary Beck",
+          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
+        },
+        {
+          "name": "Mark Broom",
+          "url": "https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265587,
+      "name": "Video Siren - Mark Broom Remix",
+      "url": "https://open.spotify.com/track/7mHzntMAsIAW1ANfs8dhw6"
     },
     {
       "album": {

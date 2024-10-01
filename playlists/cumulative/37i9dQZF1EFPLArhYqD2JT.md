@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-394 songs - 20 hr 1 min
+395 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Doin' What Comes Naturally \- From "Annie Get Your Gun"](https://open.spotify.com/track/6j7RShSki4cT1HwlviMRJi) | [Ethel Merman](https://open.spotify.com/artist/4Kgu9tJgtNXTWMjefKahs9), [Annie Get Your Gun Original 1946 Chorus](https://open.spotify.com/artist/2QHfHshqK1xQ2raUN3YHvd) | [Songs She Has Made Famous \(Deluxe Edition\)](https://open.spotify.com/album/6vcOFY5VUMJYxee5ZVfKJw) | 3:25 | 2024-07-26 |  |
 | [Don't Be Afraid of Romance](https://open.spotify.com/track/7lR9ZHtG7PvX7X4JJORGxm) | [Douglas Gamley Orchestra](https://open.spotify.com/artist/2WkPbU8uzeFBzoMCU41naf) | [Mr\. President & Other Show Stoppers from Irving Berlin's Broadway](https://open.spotify.com/album/0nmMtS4SnkPDVVGmL0ktaw) | 2:53 | 2024-07-26 |  |
 | [Down In Chattanooga](https://open.spotify.com/track/7CeCIsxnrqr84L67Evk8bo) | [Kim Criswell](https://open.spotify.com/artist/0uusW198iXgIdooU7txyAw), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Something to Dance About \(The Music of Irving Berlin\)](https://open.spotify.com/album/0oHQAH8akcOURZZQc6RTxo) | 2:45 | 2024-07-26 |  |
+| [Down in My Heart](https://open.spotify.com/track/5i2htOvtGdlfn5yNNUtR7f) | [Matthew Nardozzi](https://open.spotify.com/artist/4Ak3IP9Vd0WoRHmoujkYLi), [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:35 | 2024-09-30 |  |
 | [Dream On, Little Soldier Boy](https://open.spotify.com/track/3IrGOrTpDiCyt1CTA7mJAr) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:48 | 2024-07-26 |  |
 | [Drum Crazy](https://open.spotify.com/track/4mNzNvfIx7rRcvoNSJH10K) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 4:01 | 2024-07-26 |  |
 | [Easter Parade](https://open.spotify.com/track/521xvXNh0pQWnEfDxz4w6L) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Holiday Inn \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:11 | 2024-07-26 |  |

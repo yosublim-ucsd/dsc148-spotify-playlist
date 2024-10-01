@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A TV Show Called Earth",
+        "url": "https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7"
+      },
+      "artists": [
+        {
+          "name": "Philip Labes",
+          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202958,
+      "name": "A TV Show Called Earth",
+      "url": "https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD"
+    },
+    {
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 221480,
       "name": "Mercy Down",
       "url": "https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5"
+    },
+    {
+      "album": {
+        "name": "Good & Evil",
+        "url": "https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214826,
+      "name": "Misery Fell",
+      "url": "https://open.spotify.com/track/01BMA2zYOX51Vz7QHdSAgO"
     },
     {
       "album": {

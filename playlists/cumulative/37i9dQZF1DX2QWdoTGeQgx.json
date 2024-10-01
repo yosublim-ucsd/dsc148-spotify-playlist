@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 229981,
       "name": "BESTFRiEND (feat. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid)",
       "url": "https://open.spotify.com/track/3EkueWJSbk5wXE3YCtXf0N"
@@ -6800,6 +6800,24 @@
       "duration_ms": 252000,
       "name": "venus (stripped ver.)",
       "url": "https://open.spotify.com/track/06plHU0Ih0ttyWj9XwxlGC"
+    },
+    {
+      "album": {
+        "name": "venus",
+        "url": "https://open.spotify.com/album/4dF6MbQvHwGpOjnhhhTjMh"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "venus (stripped ver.)",
+      "url": "https://open.spotify.com/track/6RnS4JGdae76y9lXr9Bxpe"
     },
     {
       "album": {

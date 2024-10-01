@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 陳明憙 Jocelyn Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,306 likes - 377 songs - 22 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,307 likes - 377 songs - 22 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

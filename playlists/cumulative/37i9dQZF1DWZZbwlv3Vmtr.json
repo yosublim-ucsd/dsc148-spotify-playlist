@@ -3007,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "dancing lights",
+        "url": "https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144041,
+      "name": "dancing lights",
+      "url": "https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo"
+    },
+    {
+      "album": {
         "name": "Moontape 02",
         "url": "https://open.spotify.com/album/199UPhNxxHoISxibHPidnY"
       },
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 130588,
       "name": "Float",
       "url": "https://open.spotify.com/track/0XSq6J7KEeR5IH7GjfeDfX"
@@ -9811,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "neon glow",
+        "url": "https://open.spotify.com/album/1vkxeA90QkysyBu9kAdS0f"
+      },
+      "artists": [
+        {
+          "name": "haywrd",
+          "url": "https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161958,
+      "name": "neon glow",
+      "url": "https://open.spotify.com/track/4R3zRuU2z2QkZP8lim6fMe"
+    },
+    {
+      "album": {
         "name": "Neon Tapestries",
         "url": "https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P"
       },
@@ -10336,10 +10372,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 131420,
       "name": "Oboe on Jupiter",
       "url": "https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5"
+    },
+    {
+      "album": {
+        "name": "Ocean Ride",
+        "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
+      },
+      "artists": [
+        {
+          "name": "aunt",
+          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129037,
+      "name": "Ocean Ride",
+      "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
     },
     {
       "album": {
@@ -11664,7 +11718,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 129229,
       "name": "Purple Dye",
       "url": "https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ"

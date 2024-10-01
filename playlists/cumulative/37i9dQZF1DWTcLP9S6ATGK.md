@@ -4,12 +4,13 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: giring ganesha
 
-208 songs - 13 hr 30 min
+209 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 |  |
 | [1/4 Abad](https://open.spotify.com/track/3u1oInsDmRgFS2RQjj31Xw) | [Inas Hafizhah](https://open.spotify.com/artist/56TjIdgDbkfyq7XFyfOHhQ) | [1/4 Abad](https://open.spotify.com/album/70fxTYg33X4CFENLcZ146N) | 3:27 | 2024-06-27 | 2024-08-16 |
+| [Abangku](https://open.spotify.com/track/58w5cBvrboUzlt5Ui4Wqj8) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Abangku](https://open.spotify.com/album/4QxhzrKRjmqdTCFrvO7773) | 3:29 | 2024-09-26 |  |
 | [Akhir Cinta](https://open.spotify.com/track/2RcgOUhhLdK3cDi5ROBdD5) | [Iga Azwika](https://open.spotify.com/artist/6CUzR2a7m9M60s0c7QLbAt) | [Akhir Cinta](https://open.spotify.com/album/2r7WyPCKOAT8O9MpNsEFjd) | 4:45 | 2024-06-27 | 2024-08-02 |
 | [Asal Kau Setia](https://open.spotify.com/track/6HTmI2i0dHqIri9N7zFLB9) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Asal Kau Setia](https://open.spotify.com/album/72ewUTUCGva6ZssfZocK0B) | 3:30 | 2024-08-01 |  |
 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2024-09-26 |  |

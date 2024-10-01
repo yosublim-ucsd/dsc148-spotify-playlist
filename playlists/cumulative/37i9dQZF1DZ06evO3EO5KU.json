@@ -6,6 +6,28 @@
     {
       "album": {
         "name": "11 + 11",
+        "url": "https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "La Duda",
+          "url": "https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "11 + 11",
+      "url": "https://open.spotify.com/track/2YwUKXOwzoVhgSDZ5XzCjU"
+    },
+    {
+      "album": {
+        "name": "11 + 11",
         "url": "https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y"
       },
       "artists": [
@@ -20,7 +42,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 196375,
       "name": "11 + 11",
       "url": "https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm"
@@ -333,7 +355,7 @@
     },
     {
       "album": {
-        "name": "Bien Guerrero (En Vivo)",
+        "name": "Bien Guerrero - En Vivo",
         "url": "https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF"
       },
       "artists": [
@@ -348,7 +370,7 @@
       ],
       "date_added": "2023-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 216746,
       "name": "Bien Guerrero - En Vivo",
       "url": "https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc"
@@ -870,7 +892,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 210134,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf"
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 168850,
       "name": "Jugar a Los Besos",
       "url": "https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t"
@@ -1816,7 +1838,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 251626,
       "name": "Relatos De Juan Jose - En Vivo",
       "url": "https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC"

@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 420000,
       "name": "Genesis.",
       "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
@@ -2328,6 +2328,28 @@
       "duration_ms": 160800,
       "name": "\u043d\u0435 \u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/3L7V3plVALWOfp4eHzUo2V"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
+        "url": "https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm"
+      },
+      "artists": [
+        {
+          "name": "M\u00c9LOVIN",
+          "url": "https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL"
+        },
+        {
+          "name": "iSKra",
+          "url": "https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192711,
+      "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
+      "url": "https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ"
     },
     {
       "album": {

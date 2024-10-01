@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,093 songs - 2 day 8 hr 29 min
+1,095 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,8 @@
 | [Back To U](https://open.spotify.com/track/19m23w2ANVhtB7rApM6pbN) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Back To U](https://open.spotify.com/album/0hKOffv9vWtya3CkEXrVhO) | 3:34 | 2022-01-14 | 2023-04-09 |
 | [bad guy](https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ) | [bad guy](https://open.spotify.com/album/3Au2Jv6CGEyc9FLVT7moz9) | 2:18 | 2022-01-14 | 2022-02-10 |
 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 | 2022-11-22 |  |
+| [Bad Karma \- MEMBA Remix](https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Bad Karma \(MEMBA Remix\)](https://open.spotify.com/album/7ajmIWq3o3ef9qyBkFeF1w) | 2:18 | 2024-09-30 |  |
+| [Bad Karma \- VIP](https://open.spotify.com/track/5iyCikM91efwKUlK6FAtBB) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma \(VIP\)](https://open.spotify.com/album/1mt6b5YpeXL65TZ1kxbIdv) | 2:52 | 2024-09-30 |  |
 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 | 2023-08-18 | 2023-09-07 |
 | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/track/3v0uz2vv9JmVMVyppnHC7n) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/album/0QZBvLW6rPnsKH72NoXa5e) | 3:52 | 2023-03-18 | 2023-07-29 |
 | [Bass In Yo Face](https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Bass In Yo Face](https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra) | 3:07 | 2023-12-01 |  |

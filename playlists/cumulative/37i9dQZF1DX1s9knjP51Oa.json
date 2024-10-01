@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Dark Seasons",
+        "url": "https://open.spotify.com/album/5IXfi0G7kp6PK0dRvGQn4b"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Val\u00e9rie",
+          "url": "https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161742,
+      "name": "Dark Seasons",
+      "url": "https://open.spotify.com/track/3qeeFt8y4ooVnBzkAD3iQh"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3b4fmBYxqQaqoLqxcTdfmx"
       },
@@ -5054,6 +5072,24 @@
       "duration_ms": 143376,
       "name": "Glow",
       "url": "https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p"
+      },
+      "artists": [
+        {
+          "name": "Odette Montano",
+          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211204,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y"
     },
     {
       "album": {
@@ -9606,7 +9642,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 129028,
       "name": "quiet dream",
       "url": "https://open.spotify.com/track/45eijXxK33ulZc8WByHYUu"

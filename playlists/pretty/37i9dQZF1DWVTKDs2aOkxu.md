@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Soft Launch\-ing milkshake season 🥛
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,825 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,787 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 84 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
 | 85 | [heat](https://open.spotify.com/track/3YzjkiK7zrHNONvu2vwuVU) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [heat](https://open.spotify.com/album/4m3Mfj6DYZwR6t9zMoSecI) | 3:04 |
 
-Snapshot ID: `ZvXncAAAAACsEZz0DJ2KrPzk47jG3Tui`
+Snapshot ID: `ZvXncAAAAAAXnsS/B//uYm2+nXcS+zpo`

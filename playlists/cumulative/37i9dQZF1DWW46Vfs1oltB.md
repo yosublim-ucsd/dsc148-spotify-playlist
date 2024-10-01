@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Kim Ximya\(김심야\)\)
+> The fresh & hottest K\-Hip hop tracks.
 
 1,318 songs - 2 day 23 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3psi=rrKVOvJyTmayxgah2I2jgg">Rowena Fysx</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,233 likes - 262 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,275 likes - 262 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

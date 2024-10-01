@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Fehér Krisztián
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Lady Gaga, Bruno Mars
 
 68 songs - 3 hr 17 min
 

@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Cap",
+        "url": "https://open.spotify.com/album/5BFHimAdjW6707MsKwPPzN"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "Cap",
+      "url": "https://open.spotify.com/track/46d9wSmQTSyBrJKQ9YwNHb"
+    },
+    {
+      "album": {
         "name": "Carioca",
         "url": "https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 166151,
       "name": "Dale Bien Duro",
       "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 150967,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
@@ -3432,6 +3450,24 @@
       "duration_ms": 143333,
       "name": "La Negra",
       "url": "https://open.spotify.com/track/5V2emIkSLAecBdvMebSUno"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Latina",
+        "url": "https://open.spotify.com/album/5K8Z4sHnr1OV5bK26uMgDJ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "La Ni\u00f1a Latina",
+      "url": "https://open.spotify.com/track/1rbrPMvCjBmOmvNYfuZYV2"
     },
     {
       "album": {
@@ -5605,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Sopa De Caracol",
+        "url": "https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Sopa De Caracol",
+      "url": "https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h"
+    },
+    {
+      "album": {
         "name": "Soy Candela",
         "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
       },
@@ -6730,7 +6788,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 162000,
       "name": "Yo Contigo",
       "url": "https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI"

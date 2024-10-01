@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 407066,
+  "num_followers": 407183,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Es el Momento",
-        "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
-      },
-      "artists": [
-        {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 220448,
-      "name": "El Amor",
-      "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Es el Momento",
+        "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 220448,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "Sin Miedo a Vivir",
         "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 171000,
       "name": "Sin Miedo a Vivir",
       "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "CASIPUEDOOLERTE",
-        "url": "https://open.spotify.com/album/3Su6riSp1IFOy2BXShjlmQ"
-      },
-      "artists": [
-        {
-          "name": "PALOMA PALOMA",
-          "url": "https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm"
-        }
-      ],
-      "duration_ms": 156322,
-      "name": "CASIPUEDOOLERTE",
-      "url": "https://open.spotify.com/track/4Ehq0uN6TYzexj2k1Sde9T"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "CASIPUEDOOLERTE",
+        "url": "https://open.spotify.com/album/3Su6riSp1IFOy2BXShjlmQ"
+      },
+      "artists": [
+        {
+          "name": "PALOMA PALOMA",
+          "url": "https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm"
+        }
+      ],
+      "duration_ms": 156322,
+      "name": "CASIPUEDOOLERTE",
+      "url": "https://open.spotify.com/track/4Ehq0uN6TYzexj2k1Sde9T"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Boredom (Demo 2015)",
-        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
-      },
-      "artists": [
-        {
-          "name": "N\u00faria Graham",
-          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Boredom",
-      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Una y otra vez",
         "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Boredom (Demo 2015)",
+        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
+      },
+      "artists": [
+        {
+          "name": "N\u00faria Graham",
+          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Boredom",
+      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
       "artists": [
         {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
         }
       ],
-      "duration_ms": 165882,
-      "name": "Ca\u00edmos las dos",
-      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+      "duration_ms": 165882,
+      "name": "Ca\u00edmos las dos",
+      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1499,18 +1479,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
       "artists": [
         {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
         }
       ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1551,22 +1535,18 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
-        "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
       },
       "artists": [
         {
-          "name": "Pen\u00e9lope",
-          "url": "https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr"
-        },
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
         }
       ],
-      "duration_ms": 200696,
-      "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
-      "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1587,18 +1567,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Aunque no quiera te amar\u00e9",
-        "url": "https://open.spotify.com/album/3NEwvrKd0nfGRbyelNUscz"
+        "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+        "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
       "artists": [
         {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+          "name": "Pen\u00e9lope",
+          "url": "https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
         }
       ],
-      "duration_ms": 125046,
-      "name": "Aunque no quiera te amar\u00e9",
-      "url": "https://open.spotify.com/track/07oIpKa4ecuirknaJezKXi"
+      "duration_ms": 200696,
+      "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+      "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1615,6 +1599,42 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Aunque no quiera te amar\u00e9",
+        "url": "https://open.spotify.com/album/3NEwvrKd0nfGRbyelNUscz"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 125046,
+      "name": "Aunque no quiera te amar\u00e9",
+      "url": "https://open.spotify.com/track/07oIpKa4ecuirknaJezKXi"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5"
+      },
+      "artists": [
+        {
+          "name": "xicu",
+          "url": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
+        },
+        {
+          "name": "J\u00falia Serrasolsas",
+          "url": "https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm"
+        }
+      ],
+      "duration_ms": 197328,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1647,26 +1667,6 @@
       "duration_ms": 216800,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5"
-      },
-      "artists": [
-        {
-          "name": "xicu",
-          "url": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
-        },
-        {
-          "name": "J\u00falia Serrasolsas",
-          "url": "https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm"
-        }
-      ],
-      "duration_ms": 197328,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
     },
     {
       "added_at": "2024-09-24 13:23:41",

@@ -835,6 +835,32 @@
     },
     {
       "album": {
+        "name": "Andaaz",
+        "url": "https://open.spotify.com/album/6Hr0iNHhD3oXVwbDoaBRvo"
+      },
+      "artists": [
+        {
+          "name": "Miel",
+          "url": "https://open.spotify.com/artist/2I4d4IjYlEXRqoxyFZdWdN"
+        },
+        {
+          "name": "Gaurav Dev",
+          "url": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Andaaz",
+      "url": "https://open.spotify.com/track/6sYk0YASzhRJ7xqc7ahNkI"
+    },
+    {
+      "album": {
         "name": "Apa Fer Milaange",
         "url": "https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5"
       },
@@ -4109,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Magical",
+        "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Doubts",
+      "url": "https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n"
       },
@@ -5828,7 +5872,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 215342,
       "name": "Haule Haule (From \"Tabaah\")",
       "url": "https://open.spotify.com/track/1MznXUfKywMbhpRYziwU8j"
@@ -6614,6 +6658,24 @@
       "duration_ms": 156800,
       "name": "Ishq Mohobbat",
       "url": "https://open.spotify.com/track/32ubUB7dKjWQ3lWdOtE2mk"
+    },
+    {
+      "album": {
+        "name": "Ishq Ruhani",
+        "url": "https://open.spotify.com/album/6FSNKEDTSmJviQFhETtLVO"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166439,
+      "name": "Ishq Ruhani",
+      "url": "https://open.spotify.com/track/1TaYCKeD9ThjR10ywFn3uU"
     },
     {
       "album": {
@@ -8372,7 +8434,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 199534,
       "name": "Khuda Qurban (From \"Bibi Rajni\")",
       "url": "https://open.spotify.com/track/1KNX0PtjsneFeNt8wfydZU"
@@ -11488,7 +11550,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 152000,
       "name": "Nasha Teri Akh Da",
       "url": "https://open.spotify.com/track/4Y7aOUB8qILqIpsivvbeVv"
@@ -13270,6 +13332,28 @@
       "duration_ms": 157884,
       "name": "Pyar Nal",
       "url": "https://open.spotify.com/track/1KyitUYIbvPmWTYG6uByWh"
+    },
+    {
+      "album": {
+        "name": "Pyar Vyar",
+        "url": "https://open.spotify.com/album/1YaX3jBYGKD0s6JqZZA3Cs"
+      },
+      "artists": [
+        {
+          "name": "Bunny Johal",
+          "url": "https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS"
+        },
+        {
+          "name": "Honey Dhillon",
+          "url": "https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235664,
+      "name": "Pyar Vyar",
+      "url": "https://open.spotify.com/track/2eCXDhSwQHRqJZVFDMTkEi"
     },
     {
       "album": {
@@ -16166,7 +16250,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 210000,
       "name": "Supna",
       "url": "https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ"

@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 171147,
       "name": "Akhiyaan Gulaab",
       "url": "https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri"
@@ -809,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Dhadak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243484,
+      "name": "Dhadak - Title Track",
+      "url": "https://open.spotify.com/track/4SrVkrpAyykhbVnATbfvPV"
+    },
+    {
+      "album": {
         "name": "Dhadak",
         "url": "https://open.spotify.com/album/5Pn4u5kYgcx8cjSmeY6aFu"
       },
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 222500,
       "name": "Duniyaa",
       "url": "https://open.spotify.com/track/14cceH4q4ME5ywqe2DbFGs"
@@ -1505,6 +1527,32 @@
     },
     {
       "album": {
+        "name": "Jaan Ban Gaye (From \"Khuda Haafiz\")",
+        "url": "https://open.spotify.com/album/0pTiclHjaVSmSkmGj0Hvnt"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211673,
+      "name": "Jaan Ban Gaye - From \"Khuda Haafiz\"",
+      "url": "https://open.spotify.com/track/7y5t2ePdh0lAejWJ8vPSuP"
+    },
+    {
+      "album": {
         "name": "Jaanam (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/75lhBPvfb1RqeiuRZ6hOHN"
       },
@@ -1978,7 +2026,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 234722,
       "name": "Kaise Hua",
       "url": "https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7"
@@ -3391,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Bareilly Ki Barfi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xDQeAsyh56C6vYxQKpYAm"
+      },
+      "artists": [
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226941,
+      "name": "Nazm Nazm",
+      "url": "https://open.spotify.com/track/2HFVjplAK4y4yBibQbgNyT"
+    },
+    {
+      "album": {
         "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
       },
@@ -3954,7 +4020,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -4518,6 +4584,28 @@
       "duration_ms": 200437,
       "name": "Sukoon Mila",
       "url": "https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs"
+    },
+    {
+      "album": {
+        "name": "ABCD 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Fgkza2TGktWPN0keaZK5z"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218724,
+      "name": "Sun Saathiya",
+      "url": "https://open.spotify.com/track/5a2Hoi1wuhCA6Ob7pbOlpW"
     },
     {
       "album": {

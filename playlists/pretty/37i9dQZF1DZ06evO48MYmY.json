@@ -1,12 +1,12 @@
 {
-  "description": "This Is Simon & Garfunkel. Los temas esenciales, todos en una lista.",
-  "num_followers": 335643,
+  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
+  "num_followers": 335679,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAAClL8JR1p7hk4YBmN7N0BN3",
+  "snapshot_id": "ZviYgAAAAAAKuzEwmGk9e0N1u1LA7vZs",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 142293,
-      "name": "At the Zoo",
-      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167160,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 142293,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 168026,
       "name": "The Sun Is Burning",
       "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live 1969",
-        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
-      "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 170200,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
+      "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live 1969",
-        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
-      "url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 138600,
       "name": "You Don't Know Where Your Interest Lies - Single B-Side - 1968",
       "url": "https://open.spotify.com/track/0umD849rktmP7fcXCSukYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
+      "url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover:
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Seether
 
 1,286 songs - 3 day 4 hr 49 min
 

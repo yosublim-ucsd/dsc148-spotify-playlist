@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-54 songs - 3 hr 24 min
+56 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 | 2024-08-23 |  |
 | [Lift Up Holy Hands/He's Alive \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0f4KJyCfLckEa8b3nncFwM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 6:59 | 2024-08-23 |  |
 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 | 2024-08-23 |  |
+| [Mail Never Sent...](https://open.spotify.com/track/1PdFkWgUBtg5wcxGz0Muqw) | [CHOI SIWON](https://open.spotify.com/artist/2rg9fZFK6wnlbRKUv7zkht) | [DNA Lover \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/5Qk1PMRLM719e4WUnDATWX) | 3:23 | 2024-09-30 |  |
+| [Mail Never Sent..\. \- Instrumental](https://open.spotify.com/track/7cx2lDlfHAR93Z6hb3SgWS) | [CHOI SIWON](https://open.spotify.com/artist/2rg9fZFK6wnlbRKUv7zkht) | [DNA Lover \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/5Qk1PMRLM719e4WUnDATWX) | 3:23 | 2024-09-30 |  |
 | [Miss You](https://open.spotify.com/track/62iFQArtVPHIJh7zNWFtQ5) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [inner](https://open.spotify.com/album/07uJH3r3JrSbaQGeQyfnwJ) | 3:44 | 2024-08-23 |  |
 | [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 | 2024-09-23 |  |
 | [Please Wait](https://open.spotify.com/track/7be6Hh3raT7CwyXv6G9FOl) | [Airmangirl](https://open.spotify.com/artist/6lHqZFk7FgvUD9Ib5QGPzu) | [Please Wait](https://open.spotify.com/album/1sZVgmq6mgnx1dvjFnJLT3) | 3:07 | 2024-08-23 |  |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,444 likes - 90 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,456 likes - 90 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 |
-| 2 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
-| 3 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 |
-| 4 | [Gedachte](https://open.spotify.com/track/1VzPkbJzhNRS06LA7yv2XS) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Gedachte](https://open.spotify.com/album/3ILSWFslN31ehe3IzNqlaQ) | 2:11 |
-| 5 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
-| 6 | [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 |
-| 7 | [Don't Copy My Flow](https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au) | 2:52 |
-| 8 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 |
-| 9 | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/track/0M1zul8oY1bHAcKFs7HIeE) | [Y2K SPORTS](https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv) | [Doner Kebab Nacho Alejandro Garnacho \- Remixes](https://open.spotify.com/album/6qRq8ga460MnXLgGkDdbqt) | 2:15 |
+| 2 | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/track/0M1zul8oY1bHAcKFs7HIeE) | [Y2K SPORTS](https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv) | [Doner Kebab Nacho Alejandro Garnacho \- Remixes](https://open.spotify.com/album/6qRq8ga460MnXLgGkDdbqt) | 2:15 |
+| 3 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
+| 4 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 |
+| 5 | [Gedachte](https://open.spotify.com/track/1VzPkbJzhNRS06LA7yv2XS) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Gedachte](https://open.spotify.com/album/3ILSWFslN31ehe3IzNqlaQ) | 2:11 |
+| 6 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
+| 7 | [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 |
+| 8 | [Don't Copy My Flow](https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au) | 2:52 |
+| 9 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 |
 | 10 | [Dubai Mall](https://open.spotify.com/track/3drEDWdAmV5hf0yyVZcUGW) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hoogseizoen \(Deluxe\)](https://open.spotify.com/album/4SyOVodNvFJFAdtFKXHFIS) | 2:30 |
 | 11 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
 | 12 | [Bulletproof \- Techno](https://open.spotify.com/track/3YqNM0sEyoxa7r5qRrYqRp) | [Hyper Hamster](https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [Techno Cats](https://open.spotify.com/artist/4uMWA9vlZvYaMf19OoQ0Lh) | [Bulletproof \(Techno\)](https://open.spotify.com/album/2UGRcy0PFLyVeSFj8LjM2B) | 2:22 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 89 | [Helemaal Naar De Klotuh!](https://open.spotify.com/track/5dxGjVQocFOjacTNkj4RKH) | [Berend Beuker](https://open.spotify.com/artist/7d5H9a4u4OJpKZJ14MANNB) | [Helemaal Naar De Klotuh!](https://open.spotify.com/album/5FU7lT09hwJNvkRjSOE7Oy) | 2:52 |
 | 90 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 |
 
-Snapshot ID: `ZvXZYAAAAABftpS+no1rdggpjhrCyQ0E`
+Snapshot ID: `ZvpmogAAAAC76EHPh1ptNayXwzHVGKEC`

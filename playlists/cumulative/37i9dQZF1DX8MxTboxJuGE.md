@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-127 songs - 9 hr 35 min
+128 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 | 2024-04-06 |
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 | 2023-11-04 |
 | [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 | 2023-09-16 |
+| [The Gallows](https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Gallows](https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH) | 3:50 | 2024-09-30 |  |
 | [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:37 | 2024-04-05 |  |
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 | 2024-04-19 |
 | [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 | 2023-08-12 |

@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "BACHELOR PARTY",
+        "url": "https://open.spotify.com/album/26mvPxCtFLqnchjkrvWOUj"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142169,
+      "name": "BACHELOR PARTY",
+      "url": "https://open.spotify.com/track/34wSQJTGR7iEU96azpgEz1"
+    },
+    {
+      "album": {
         "name": "Bigger Dreams",
         "url": "https://open.spotify.com/album/4hXSfo4J0e7Ryc4pcVISjX"
       },
@@ -2604,6 +2626,24 @@
       "duration_ms": 156290,
       "name": "Kadhal Thorkum Nerame",
       "url": "https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF"
+    },
+    {
+      "album": {
+        "name": "Kadhal Vizhi",
+        "url": "https://open.spotify.com/album/2wH6h441uGVIGArtLaERQ9"
+      },
+      "artists": [
+        {
+          "name": "ChaaiSmokers",
+          "url": "https://open.spotify.com/artist/61E6hWD8uFULJv5S35vytj"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186620,
+      "name": "Kadhal Vizhi",
+      "url": "https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ"
     },
     {
       "album": {
@@ -7170,6 +7210,24 @@
       "duration_ms": 171891,
       "name": "Uruttuvah Ularuveh",
       "url": "https://open.spotify.com/track/2IOUMctG2IYgY7SCbjX5Fd"
+    },
+    {
+      "album": {
+        "name": "Usuru Motham",
+        "url": "https://open.spotify.com/album/271FpH1atiqoGg53OaQTbe"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Usuru Motham",
+      "url": "https://open.spotify.com/track/4MbDnGT1Ukl3UAb0Z9Zxsv"
     },
     {
       "album": {

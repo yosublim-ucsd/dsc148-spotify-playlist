@@ -1,12 +1,12 @@
 {
-  "description": "This is: League of Legends. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 388626,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 388672,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAAArY8Z8Moo6yNTerdd5oErF",
+  "snapshot_id": "ZviYgAAAAABjBVfoO0YHmT8Yi4SRxH3u",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn It All Down",
+        "url": "https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 217088,
       "name": "MORE",
       "url": "https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn It All Down",
-        "url": "https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE"
     },
     {
       "added_at": null,
@@ -451,34 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/14M8F8rKpr6LGlIgPmm6t6"
-      },
-      "artists": [
-        {
-          "name": "MIYAVI",
-          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 161376,
-      "name": "Snakes (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/7LmyUD78mtwBDzgVV4P5F4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playground (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/5Cpryyv5Q7sPkLuRh82gvo"
       },
@@ -503,26 +475,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
+        "name": "Snakes (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/14M8F8rKpr6LGlIgPmm6t6"
       },
       "artists": [
         {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        },
-        {
-          "name": "Ray Chen",
-          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
         }
       ],
-      "duration_ms": 198187,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
+      "duration_ms": 161376,
+      "name": "Snakes (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7LmyUD78mtwBDzgVV4P5F4"
     },
     {
       "added_at": null,
@@ -591,6 +567,30 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
+        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194815,
+      "name": "No Chill (Heartsteel)",
+      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 161348,
       "name": "Vi, the Piltover Enforcer (Here Comes Vi) (From League of Legends: Season 2)",
       "url": "https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
-        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194815,
-      "name": "No Chill (Heartsteel)",
-      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
     }
   ],
   "unique_name": "This Is League of Legends",

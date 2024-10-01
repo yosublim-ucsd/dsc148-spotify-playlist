@@ -2,7 +2,7 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. Tutti i brani in un'unica playlist.
+> This is Bear McCreary。アーティストの代表曲をひとつのプレイリストに。
 
 105 songs - 6 hr 19 min
 

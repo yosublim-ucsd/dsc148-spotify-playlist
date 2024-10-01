@@ -2,7 +2,7 @@
 
 ### [This Is Mastodon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UB5PW)
 
-> This is Mastodon\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Mastodon\. The essential tracks, all in one playlist.
 
 70 songs - 5 hr 48 min
 

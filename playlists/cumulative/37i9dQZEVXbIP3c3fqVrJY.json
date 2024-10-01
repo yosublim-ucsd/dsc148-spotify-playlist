@@ -12074,7 +12074,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -13754,7 +13754,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -17070,7 +17070,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/7ohN6rdDFsiuXFONB2ooA8"
@@ -20666,7 +20666,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -21086,7 +21086,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -26856,7 +26856,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -28860,7 +28860,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 231193,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
@@ -31722,6 +31722,24 @@
       "duration_ms": 181132,
       "name": "Zlatej Kluk",
       "url": "https://open.spotify.com/track/0q9zdBBU7zupk59ZwmjJNg"
+    },
+    {
+      "album": {
+        "name": "Zlat\u00fd Srdce",
+        "url": "https://open.spotify.com/album/5X6RcDr4vicx0zfioVhAX6"
+      },
+      "artists": [
+        {
+          "name": "Richardino69",
+          "url": "https://open.spotify.com/artist/18mvtwXoEDHOxB6HTvoc4W"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128940,
+      "name": "Zlat\u00fd Srdce",
+      "url": "https://open.spotify.com/track/4Quqe9leJauohN6jzz7eis"
     },
     {
       "album": {

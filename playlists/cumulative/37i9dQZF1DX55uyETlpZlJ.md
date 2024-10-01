@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-390 songs - 21 hr 17 min
+391 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Sakkare](https://open.spotify.com/track/2wFS5t4oQI78R9uwZEVocD) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Hitesh High](https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb) | [Sakkare](https://open.spotify.com/album/4BibKRX0U1t5h1qhyfJHEW) | 2:35 | 2024-08-05 |  |
 | [Sakkare Chakori \- Kannada](https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Kiran Kaverappa](https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9) | [Sakkare Chakori \- Kannada](https://open.spotify.com/album/5e2iPdKcYMiG6dJxNr356c) | 4:55 | 2024-06-10 |  |
 | [Samaya](https://open.spotify.com/track/20BJuCXShibTVncYK69A65) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Samaya](https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1) | 3:43 | 2022-09-16 | 2023-07-04 |
+| [Sanchari](https://open.spotify.com/track/35Y4JnKCyaRFEvAjSJ8da9) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Sanchari](https://open.spotify.com/album/4GYgujBBza8uMCuPAxxiTi) | 5:02 | 2024-09-30 |  |
 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 | 2024-03-05 |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
 | [Saniha](https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Saniha](https://open.spotify.com/album/1jG0j98LGR6d1QX8K7J3B8) | 3:36 | 2024-07-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2035098,
+  "num_followers": 2035063,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5o8xL+22+0kWNuUNZZe6GDro8K/ky",
+  "snapshot_id": "AAA5p0NDKn/rMyMyIjvjPd+CDFPAaARR",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -63,6 +63,26 @@
       "duration_ms": 214204,
       "name": "Hislerim",
       "url": "https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV"
+    },
+    {
+      "added_at": "2024-09-30 21:00:35",
+      "album": {
+        "name": "Bad Karma (MEMBA Remix)",
+        "url": "https://open.spotify.com/album/7ajmIWq3o3ef9qyBkFeF1w"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Bad Karma - MEMBA Remix",
+      "url": "https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8"
     },
     {
       "added_at": "2024-05-10 21:40:09",
@@ -351,6 +371,22 @@
       "duration_ms": 128575,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "added_at": "2024-09-30 21:00:42",
+      "album": {
+        "name": "Bad Karma (VIP)",
+        "url": "https://open.spotify.com/album/1mt6b5YpeXL65TZ1kxbIdv"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Bad Karma - VIP",
+      "url": "https://open.spotify.com/track/5iyCikM91efwKUlK6FAtBB"
     },
     {
       "added_at": "2024-01-29 22:53:51",

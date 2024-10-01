@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:6cbdCv0bmLwcxSVFM7tuyG">John Mark Pantana</a>  and <a href="spotify:artist:2bEFxVGVlzEIEdDAaQZCrc">LOVKN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,302 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,309 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 43 | [Only You Can Do](https://open.spotify.com/track/2D5EuhwoRmJ6PWStJlkFxD) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Only You Can Do](https://open.spotify.com/album/5Lo4lIOE4lKcejF7tkEaVV) | 4:00 |
 | 44 | [Freedom](https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Freedom](https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f) | 2:43 |
 | 45 | [Rendez\-vous](https://open.spotify.com/track/4I1wEjJgLWr6MuDouJBDaA) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [RENDEZ\-VOUS](https://open.spotify.com/album/09CbB8oXl3muvWJiPt3ERY) | 2:24 |
-| 46 | [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 |
+| 46 | [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 |
 | 47 | [The Source](https://open.spotify.com/track/3iYBAZBnST0Mj8FrKiSoiV) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [The Source](https://open.spotify.com/album/6gSUiVBOTiFwSKRuEVj1uA) | 2:40 |
 | 48 | [Under You](https://open.spotify.com/track/2DLkIGiOf7BkjfDv8T73jw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Under You](https://open.spotify.com/album/0vQnoahMSVX5JdIF5mOo76) | 3:49 |
 | 49 | [Reflections](https://open.spotify.com/track/3mEN18c24V0dmuZ9Rf2TAM) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Reflections](https://open.spotify.com/album/1yR6dI1NBHLZX3Tp9CyLOD) | 3:16 |

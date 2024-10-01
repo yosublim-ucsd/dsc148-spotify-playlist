@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Christian Lee Hutson
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,171 likes - 114 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,202 likes - 114 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

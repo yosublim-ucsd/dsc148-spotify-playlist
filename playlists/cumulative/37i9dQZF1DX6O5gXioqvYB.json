@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "BRONCIO",
+        "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
+      },
+      "artists": [
+        {
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "BRONCIO",
+      "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
+    },
+    {
+      "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG"
       },
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 130909,
       "name": "Ne faccio un dramma",
       "url": "https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ"
@@ -2443,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+      },
+      "artists": [
+        {
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+    },
+    {
+      "album": {
         "name": "SISSI 2",
         "url": "https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ"
       },
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 192786,
       "name": "Tutta La Notte",
       "url": "https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV"

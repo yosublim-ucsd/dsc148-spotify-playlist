@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: U.BAR.E\(유발이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,679 likes - 101 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,675 likes - 101 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

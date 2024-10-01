@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO, Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,813 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,843 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [gasleuchte](https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [gasleuchte](https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP) | 2:56 |
 | 80 | [Zu viel / nicht genug](https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Zu viel / nicht genug](https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2) | 2:36 |
 
-Snapshot ID: `ZvXZYAAAAACU40Ih/VDP1UtNkLYrMoXB`
+Snapshot ID: `ZvXZYAAAAADNDZTrqF8Hw+RDdEfEfMA/`

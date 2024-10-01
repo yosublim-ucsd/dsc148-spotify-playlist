@@ -6958,7 +6958,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 73423,
       "name": "Beijos, Blues e Poesia",
       "url": "https://open.spotify.com/track/2LA2EvpxdC33cignxvKkNt"
@@ -12246,7 +12246,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
@@ -24371,6 +24371,24 @@
     },
     {
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -26802,7 +26820,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 386213,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/6MJFW1C2Rj0pGPQptwq2mS"
@@ -26824,7 +26842,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 388226,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
@@ -31895,6 +31913,24 @@
     },
     {
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -34290,7 +34326,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 107651,
       "name": "MTG DIAMANTE ROSA 2",
       "url": "https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e"
@@ -35750,6 +35786,24 @@
       "duration_ms": 221064,
       "name": "Nego Doce",
       "url": "https://open.spotify.com/track/7jp2LRqPh9olzx19U74OaM"
+    },
+    {
+      "album": {
+        "name": "Nego Raul",
+        "url": "https://open.spotify.com/album/7qkhmQV5lYNIw7N5t7VDdl"
+      },
+      "artists": [
+        {
+          "name": "Klaus Millions",
+          "url": "https://open.spotify.com/artist/5j333AGNVDmUb6YCcGapr7"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641590,
+      "name": "Nego Raul",
+      "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
     },
     {
       "album": {

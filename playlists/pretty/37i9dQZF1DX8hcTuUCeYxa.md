@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Soft Launch
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,579 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,612 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
 | 90 | [Firestarter](https://open.spotify.com/track/6GnY2yqr84fRPSkuhdbiKJ) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Firestarter](https://open.spotify.com/album/2ieS7CRYPvkHAnhaIvKLK8) | 3:11 |
 
-Snapshot ID: `ZvZdMQAAAADHNHyIr59iF+ERpDOGVcXd`
+Snapshot ID: `ZvZdMQAAAACds9IR3icFQXIZoM759MfZ`

@@ -1385,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Chip Deffaa's Irving Berlin: Love Songs and Such",
+        "url": "https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8"
+      },
+      "artists": [
+        {
+          "name": "Matthew Nardozzi",
+          "url": "https://open.spotify.com/artist/4Ak3IP9Vd0WoRHmoujkYLi"
+        },
+        {
+          "name": "Emily Bordonaro",
+          "url": "https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155440,
+      "name": "Down in My Heart",
+      "url": "https://open.spotify.com/track/5i2htOvtGdlfn5yNNUtR7f"
+    },
+    {
+      "album": {
         "name": "Rilla of Green Gables (Original Cast Recording)",
         "url": "https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb"
       },

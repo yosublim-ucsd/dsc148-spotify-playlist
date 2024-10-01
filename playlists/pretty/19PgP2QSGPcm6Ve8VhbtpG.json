@@ -1,18 +1,18 @@
 {
   "description": "The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more. Stranger Things, Top Gun, Back to the Future.",
-  "num_followers": 2556597,
+  "num_followers": 2556985,
   "original_name": "80s HITS | TOP 100 SONGS ",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAAMcxgx16UsZJWOshKD31OJuhx4dr0M",
+  "snapshot_id": "AAAMdngzpdhmucKTTWoRsfS03mAx4ATG",
   "tracks": [
     {
-      "added_at": "2024-09-25 18:36:25",
+      "added_at": "2024-09-25 18:36:47",
       "album": {
-        "name": "Girl, You Know It's True (Sped Up)",
-        "url": "https://open.spotify.com/album/1tV043n5LcKr4gNFgqlJsb"
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
         }
       ],
-      "duration_ms": 198573,
-      "name": "Girl You Know It's True",
-      "url": "https://open.spotify.com/track/6CTnIURom7GvzLqXuFHrXA"
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
       "added_at": "2024-08-22 15:01:53",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
+      "added_at": "2024-09-25 18:36:25",
+      "album": {
+        "name": "Girl, You Know It's True (Sped Up)",
+        "url": "https://open.spotify.com/album/1tV043n5LcKr4gNFgqlJsb"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Girl You Know It's True",
+      "url": "https://open.spotify.com/track/6CTnIURom7GvzLqXuFHrXA"
+    },
+    {
       "added_at": "2024-08-22 15:01:53",
       "album": {
         "name": "Play Deep",
@@ -103,22 +119,6 @@
       "duration_ms": 216466,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
-    },
-    {
-      "added_at": "2024-09-25 18:36:47",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
       "added_at": "2024-08-22 15:01:53",

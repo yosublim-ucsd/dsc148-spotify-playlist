@@ -4,7 +4,7 @@
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-303 songs - 18 hr 24 min
+304 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Jee Karr Daa](https://open.spotify.com/track/5dKlbv9CJjO5tC1jFQgZeH) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Jee Karr Daa](https://open.spotify.com/album/4wSjxf4oBhpj9F8B8m46BZ) | 3:18 | 2020-03-09 | 2022-04-19 |
 | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH) | 3:42 | 2023-02-06 | 2023-09-26 |
 | [Jhoome Jo Pathaan](https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 3:28 | 2023-01-24 |  |
+| [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-09-30 |  |
 | [Jugni 2.0](https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Iyan Rose](https://open.spotify.com/artist/7ysTASyLV8jrYJHPfrUPzA) | [Jugni 2.0](https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB) | 3:04 | 2021-01-22 | 2022-01-14 |
 | [Jwalamukhi](https://open.spotify.com/track/138nVAT9PmSHTgNY84YMc6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [99 Songs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zvGX2DvCOUKaRqfcWZrLi) | 4:08 | 2021-04-12 | 2022-04-19 |
 | [Kabhii Tumhhe](https://open.spotify.com/track/6Sflud15ff1KqBzg6wj78S) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Shershaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK) | 3:50 | 2021-09-03 | 2022-08-20 |

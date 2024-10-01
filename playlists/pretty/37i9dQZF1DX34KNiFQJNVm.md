@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Henrique & Juliano, Maiara & Maraísa, Glória Groove e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939,303 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939,592 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 89 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
 | 90 | [Essas Ruas](https://open.spotify.com/track/01fiVlMnhPmbZ3fOOw3DuA) | [Dactes](https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS), [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Todo Dia Uma Vida](https://open.spotify.com/album/1yBSmlqMtGSGX2j8WkkMFB) | 2:04 |
 
-Snapshot ID: `ZvcDkgAAAAB0hagVzUFGcuM9snz+z5/4`
+Snapshot ID: `ZvcDkgAAAADU4r0yU/dlTOs8K6mzPI0m`

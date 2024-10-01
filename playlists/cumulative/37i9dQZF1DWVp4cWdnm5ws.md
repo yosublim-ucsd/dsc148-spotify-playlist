@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2024\. Cover: Cup of Joe
 
-211 songs - 12 hr 59 min
+212 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
 | [PRETTY PLEASE](https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [PRETTY PLEASE](https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO) | 3:04 | 2023-06-16 | 2024-04-03 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |
+| [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-30 |  |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |
 | [Risk It](https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Risk It](https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m) | 3:45 | 2022-10-25 | 2022-12-01 |
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |

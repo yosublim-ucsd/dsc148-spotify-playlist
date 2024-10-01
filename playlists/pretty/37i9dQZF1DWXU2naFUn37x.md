@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Side Baby in cover della playlist con il top dello street rap italiano 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,920 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,022 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 |
-| 2 | [Pluh](https://open.spotify.com/track/326ALxsYnYfrZcIzOFvsIT) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:43 |
+| 1 | [Pluh](https://open.spotify.com/track/326ALxsYnYfrZcIzOFvsIT) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:43 |
+| 2 | [VRP](https://open.spotify.com/track/39aVVheaIKKIbd3iBPYcn3) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [VRP](https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5) | 2:28 |
 | 3 | [CONVOGLIO \(feat\. Tony Effe\)](https://open.spotify.com/track/0AMQo5EwkBmYaedxmy4BuI) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:57 |
 | 4 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 5 | [Cerchio](https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cerchio](https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS) | 2:08 |
-| 6 | [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 |
-| 7 | [GHETTO SUPERSTAR \(feat\. Ghali\)](https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 4:01 |
-| 8 | [VRP](https://open.spotify.com/track/39aVVheaIKKIbd3iBPYcn3) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [VRP](https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5) | 2:28 |
+| 6 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 |
+| 7 | [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 |
+| 8 | [GHETTO SUPERSTAR \(feat\. Ghali\)](https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 4:01 |
 | 9 | [Milano Angels](https://open.spotify.com/track/5kQwHYmtLVJaBwh6NqD4JW) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:07 |
 | 10 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 |
 | 11 | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
 | 50 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |
 
-Snapshot ID: `ZvXZnAAAAACsa43K3jMahqsz0d4BfFd3`
+Snapshot ID: `Zvp0nAAAAACR0XMS0C8p93YnlYvfbs5M`

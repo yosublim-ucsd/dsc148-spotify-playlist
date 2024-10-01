@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Celebrate Gospel Heritage Month with weekly takeovers by Gospel legends!  This week's guest curator: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,851 likes - 90 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,898 likes - 90 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

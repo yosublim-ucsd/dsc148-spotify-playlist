@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Kizz Daniel and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,622 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,681 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 44 | [Ashuabi](https://open.spotify.com/track/3mVPT2RTkWxFRWjkEw8Y4y) | [King Luca](https://open.spotify.com/artist/1DEN3iWZL55rYkQCXVwkLz), [Krys M](https://open.spotify.com/artist/6B6DGmfpucF3zITrGDzbCi) | [Ashuabi](https://open.spotify.com/album/4Ivc5uU9Uo6fVGtc3Z1pV1) | 2:48 |
 | 45 | [All I Desire](https://open.spotify.com/track/1hvAsuWqPuDhnXWc7YCa93) | [Khid Ceejay](https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9) | [All I Desire](https://open.spotify.com/album/4xLkIDfZY8W68buYkkyZx5) | 2:39 |
 | 46 | [Call Me Maybe](https://open.spotify.com/track/3Tfhq3S61A7GDQ6prePMLO) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [Call Me Maybe](https://open.spotify.com/album/2mCxdsVpTW3X2N3EO0LXA9) | 2:38 |
-| 47 | [Billionaire](https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u) | [Lonair](https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Cramps](https://open.spotify.com/album/1qQH0EkB9ZqzIFxeys49lZ) | 3:12 |
-| 48 | [Faaji](https://open.spotify.com/track/5SpvM4kBRQrhBDu1hMa4fE) | [Ebun Yelé](https://open.spotify.com/artist/7tJ0fLl9b0EhdOUdcACZ2R), [Barber Chair](https://open.spotify.com/artist/2VEmDp6e4QdWZ6phwtQW4U) | [Faaji](https://open.spotify.com/album/0Xqid92lHJJ94YwcUzy3To) | 2:29 |
-| 49 | [Lifestyle](https://open.spotify.com/track/6YuC0er4QTtapTlAamM74d) | [Randommuzik](https://open.spotify.com/artist/4OeKf1TH79nu7kW1e82NHk) | [Lifestyle / Tattoo](https://open.spotify.com/album/7mU7DGQe5o3U3yYls1Zr5I) | 3:00 |
-| 50 | [Ceiling](https://open.spotify.com/track/6BRRJmpiGjPjC2GK05YvUx) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Ceiling](https://open.spotify.com/album/1WYdpb2r1FmMFMJeQxBKTV) | 2:33 |
-| 51 | [Bia](https://open.spotify.com/track/0Y57RrdZtaBYibRPwmPW70) | [Kehne](https://open.spotify.com/artist/64YrHk9Eas75hAl2q5y6o1) | [Bia](https://open.spotify.com/album/3aWetexAaZ5gC9JVEIN3Nz) | 3:30 |
-| 52 | [Jekasoro](https://open.spotify.com/track/6aM9gqrk4TJaYiLHB3NJlv) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Jekasoro](https://open.spotify.com/album/1vNa83E7iYAwrI6lAKnqOp) | 1:38 |
-| 53 | [Diamonds](https://open.spotify.com/track/3ZdnGzYr0dbbIg5Qmmh4RG) | [Luca Damon](https://open.spotify.com/artist/2kCgetHSczLvg0guPqQ1mk), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Diamonds](https://open.spotify.com/album/6Ftvyt9ybVtPqENtDIB7uD) | 2:52 |
-| 54 | [Kings](https://open.spotify.com/track/2WWR1TRPB0fyu1VSy6msrw) | [Larey Ugee](https://open.spotify.com/artist/6vW8GFgT33m7UYUAHqyEaU), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Kings](https://open.spotify.com/album/5hXhzFKS6L86PLGNKtVoEf) | 2:46 |
-| 55 | [Melissa](https://open.spotify.com/track/5LGCv73ozVKi7MgSD87JAO) | [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Melissa](https://open.spotify.com/album/3MqKEvBvuQiOYpGjGZZIBc) | 2:51 |
-| 56 | [Loving You](https://open.spotify.com/track/1gMPMoF3utbyYVeZRAWJgZ) | [NGwide](https://open.spotify.com/artist/6m4v2YRSRuGyGUhcHOitD3), [Yung6ix](https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [Loving You](https://open.spotify.com/album/7o6jXvGV3fPulKKsBTfxSp) | 3:41 |
-| 57 | [Surprise](https://open.spotify.com/track/4EV9osS1yUK7LUsp9v61jO) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Surprise](https://open.spotify.com/album/1lvyR32EQmPMOdOO08n4UL) | 1:55 |
-| 58 | [Give Up](https://open.spotify.com/track/4C6QLRs0T8UrJYUOa4eIiN) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Drela](https://open.spotify.com/artist/3ajvYzyRAl54iNmwsuQMHN) | [Give Up](https://open.spotify.com/album/5hAVCKclSxGTRfJLkdUmGz) | 2:38 |
-| 59 | [Display](https://open.spotify.com/track/5IvMrYNg1LN5vTnGTzE8jH) | [Yungskid](https://open.spotify.com/artist/65B7EAZCC0XSEkeREM1RXZ) | [Display](https://open.spotify.com/album/7vDssceutxs3RwNMcHuir5) | 2:39 |
-| 60 | [Sisi Nene](https://open.spotify.com/track/15ZgA1CgLRDssIEOGhhSsL) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Sisi Nene](https://open.spotify.com/album/5tYkS5doJnIaD0jKpi8oWY) | 2:35 |
+| 47 | [Faaji](https://open.spotify.com/track/5SpvM4kBRQrhBDu1hMa4fE) | [Ebun Yelé](https://open.spotify.com/artist/7tJ0fLl9b0EhdOUdcACZ2R), [Barber Chair](https://open.spotify.com/artist/2VEmDp6e4QdWZ6phwtQW4U) | [Faaji](https://open.spotify.com/album/0Xqid92lHJJ94YwcUzy3To) | 2:29 |
+| 48 | [Lifestyle](https://open.spotify.com/track/6YuC0er4QTtapTlAamM74d) | [Randommuzik](https://open.spotify.com/artist/4OeKf1TH79nu7kW1e82NHk) | [Lifestyle / Tattoo](https://open.spotify.com/album/7mU7DGQe5o3U3yYls1Zr5I) | 3:00 |
+| 49 | [Ceiling](https://open.spotify.com/track/6BRRJmpiGjPjC2GK05YvUx) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Ceiling](https://open.spotify.com/album/1WYdpb2r1FmMFMJeQxBKTV) | 2:33 |
+| 50 | [Bia](https://open.spotify.com/track/0Y57RrdZtaBYibRPwmPW70) | [Kehne](https://open.spotify.com/artist/64YrHk9Eas75hAl2q5y6o1) | [Bia](https://open.spotify.com/album/3aWetexAaZ5gC9JVEIN3Nz) | 3:30 |
+| 51 | [Jekasoro](https://open.spotify.com/track/6aM9gqrk4TJaYiLHB3NJlv) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Jekasoro](https://open.spotify.com/album/1vNa83E7iYAwrI6lAKnqOp) | 1:38 |
+| 52 | [Diamonds](https://open.spotify.com/track/3ZdnGzYr0dbbIg5Qmmh4RG) | [Luca Damon](https://open.spotify.com/artist/2kCgetHSczLvg0guPqQ1mk), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Diamonds](https://open.spotify.com/album/6Ftvyt9ybVtPqENtDIB7uD) | 2:52 |
+| 53 | [Kings](https://open.spotify.com/track/2WWR1TRPB0fyu1VSy6msrw) | [Larey Ugee](https://open.spotify.com/artist/6vW8GFgT33m7UYUAHqyEaU), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Kings](https://open.spotify.com/album/5hXhzFKS6L86PLGNKtVoEf) | 2:46 |
+| 54 | [Melissa](https://open.spotify.com/track/5LGCv73ozVKi7MgSD87JAO) | [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Melissa](https://open.spotify.com/album/3MqKEvBvuQiOYpGjGZZIBc) | 2:51 |
+| 55 | [Loving You](https://open.spotify.com/track/1gMPMoF3utbyYVeZRAWJgZ) | [NGwide](https://open.spotify.com/artist/6m4v2YRSRuGyGUhcHOitD3), [Yung6ix](https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [Loving You](https://open.spotify.com/album/7o6jXvGV3fPulKKsBTfxSp) | 3:41 |
+| 56 | [Surprise](https://open.spotify.com/track/4EV9osS1yUK7LUsp9v61jO) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Surprise](https://open.spotify.com/album/1lvyR32EQmPMOdOO08n4UL) | 1:55 |
+| 57 | [Give Up](https://open.spotify.com/track/4C6QLRs0T8UrJYUOa4eIiN) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Drela](https://open.spotify.com/artist/3ajvYzyRAl54iNmwsuQMHN) | [Give Up](https://open.spotify.com/album/5hAVCKclSxGTRfJLkdUmGz) | 2:38 |
+| 58 | [Display](https://open.spotify.com/track/5IvMrYNg1LN5vTnGTzE8jH) | [Yungskid](https://open.spotify.com/artist/65B7EAZCC0XSEkeREM1RXZ) | [Display](https://open.spotify.com/album/7vDssceutxs3RwNMcHuir5) | 2:39 |
+| 59 | [Sisi Nene](https://open.spotify.com/track/15ZgA1CgLRDssIEOGhhSsL) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Sisi Nene](https://open.spotify.com/album/5tYkS5doJnIaD0jKpi8oWY) | 2:35 |
 
-Snapshot ID: `ZvX1vAAAAAD2tszXwwoylrRIUDaRUNM4`
+Snapshot ID: `Zvp3WwAAAACO8mhekj4MR4oDn9JgOCz3`

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Whitechapel
 
-592 songs - 1 day 14 hr 38 min
+593 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [FUCK YOURSELF](https://open.spotify.com/track/5yzD10olIEz7M9vP4pzVh1) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3TPhuvHZwz3F8PG0yTIPHK) | [FUCK YOURSELF](https://open.spotify.com/album/1HPYqNlffOiRBjxG8K4cbC) | 2:26 | 2023-08-16 | 2024-04-19 |
 | [Fuck Yourself](https://open.spotify.com/track/1QoIM17rGzqkTl3nVoqhIM) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Fuck Yourself](https://open.spotify.com/album/2PazSbFVYokXamGsETzwgI) | 2:26 | 2021-12-17 |  |
 | [FUCK YOURSELF](https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup) | [FUCK YOURSELF](https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi) | 2:26 | 2022-07-08 | 2023-10-21 |
+| [FUHAI](https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [FUHAI](https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g) | 3:13 | 2024-09-30 |  |
 | [Full Blossom](https://open.spotify.com/track/4Krk9GaYtNQtuh4u8dT0nX) | [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Full Blossom](https://open.spotify.com/album/0dirzcT6E6vAphhNU3vgUK) | 4:32 | 2024-08-23 |  |
 | [Gaslight](https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Fear & Loathing](https://open.spotify.com/album/3EUZvLhYbNlBzFjXmfWGFk) | 3:10 | 2023-03-24 |  |
 | [Gaslight](https://open.spotify.com/track/49yo9KMW5LEYNvGoh7TEVG) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Fear & Loathing](https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A) | 3:10 | 2023-06-16 | 2024-04-19 |
@@ -471,7 +472,7 @@
 | [SIZE KING](https://open.spotify.com/track/7fpIvMIwGsEay62dM0x0iF) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [SIZE KING](https://open.spotify.com/album/6QzutCHeLazqlapllPDTJx) | 3:04 | 2024-06-10 | 2024-06-26 |
 | [Sleep](https://open.spotify.com/track/7LDa5bi1KDATomNnlwA3Sb) | [Dead Crown](https://open.spotify.com/artist/0xsafxjO0RXHb2YTxtKTyh) | [Sleep](https://open.spotify.com/album/2Xx98iZ9d9ljsHxEb02MS9) | 3:11 | 2022-07-29 |  |
 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [GRAVESIDE CONFESSIONS](https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ) | 4:21 | 2022-07-08 | 2024-04-19 |
-| [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 | 2021-12-17 |  |
+| [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 | 2021-12-17 | 2024-10-01 |
 | [Smoldered](https://open.spotify.com/track/6WvDSdmAlcO9h2FWtsSYjN) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe), [Chaney Crabb](https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ) | [Smoldered](https://open.spotify.com/album/3nzyvzWv4ePq1gsxUUAWF0) | 5:12 | 2021-12-31 | 2022-07-29 |
 | [snuff.tape](https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [snuff.tape](https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y) | 3:39 | 2024-08-23 |  |
 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 | 2022-01-14 | 2022-06-25 |

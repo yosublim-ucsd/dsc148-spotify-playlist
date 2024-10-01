@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 
-> This is Lauren Daigle\. المقاطع الأساسية، كلها في قايمة أغاني واحدة.
+> This is Lauren Daigle\. Tutti i brani in un'unica playlist.
 
 75 songs - 5 hr 1 min
 

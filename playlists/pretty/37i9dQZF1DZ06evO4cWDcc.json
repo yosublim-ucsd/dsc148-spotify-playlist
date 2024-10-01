@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 310812,
+  "num_followers": 310844,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvdHAAAAAADFchmJidztC4H9TddtjEg9",
+  "snapshot_id": "ZviYgAAAAAAwesvM89YRzPfAKkScBv3g",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Drifting (Alternate Version / November 20, 1970)",
+        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 341800,
-      "name": "Hear My Train a Comin'",
-      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+      "duration_ms": 159693,
+      "name": "Drifting - Alternate Version / November 20, 1970",
+      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifting (Alternate Version / November 20, 1970)",
-        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Drifting - Alternate Version / November 20, 1970",
-      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
+      "duration_ms": 341800,
+      "name": "Hear My Train a Comin'",
+      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
     },
     {
       "added_at": null,

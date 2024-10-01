@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: NCT WISH) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: VANNER) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 170093,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/3Qa5RL4Fzfo11zkK5zTMWL"
@@ -654,6 +654,24 @@
       "duration_ms": 196373,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE"
+    },
+    {
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/0lXBzEH64vsXEaqYfSbdRT"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2nynjVyEYneNyGqV7fwvNv"
     },
     {
       "album": {
@@ -7376,7 +7394,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 197520,
       "name": "OUR DAYS",
       "url": "https://open.spotify.com/track/31SfUhe4smQ6X31pmE9u4L"
@@ -7578,6 +7596,24 @@
       "duration_ms": 234856,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "album": {
+        "name": "ROAD TO KINGDOM : ACE OF ACE \u3008VS\u3009, Pt. 1",
+        "url": "https://open.spotify.com/album/6W0s29sQ6fxisO5BGnuP3f"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Phobia",
+      "url": "https://open.spotify.com/track/0WabV8qHO7mdiyIfaRACeW"
     },
     {
       "album": {

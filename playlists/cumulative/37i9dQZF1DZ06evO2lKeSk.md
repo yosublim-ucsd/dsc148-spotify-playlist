@@ -2,7 +2,7 @@
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This is Ana Gabriel\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Ana Gabriel\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 6 min
 

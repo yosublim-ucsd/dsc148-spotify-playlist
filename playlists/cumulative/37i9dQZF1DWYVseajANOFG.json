@@ -2298,6 +2298,28 @@
     {
       "album": {
         "name": "Fans",
+        "url": "https://open.spotify.com/album/6wwCLmkL1FglW591bh1KL1"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168445,
+      "name": "Fans",
+      "url": "https://open.spotify.com/track/16QsGYythDEi35Pr2I7uLC"
+    },
+    {
+      "album": {
+        "name": "Fans",
         "url": "https://open.spotify.com/album/0pxXkHchNygHA1UXigfCEg"
       },
       "artists": [
@@ -2697,6 +2719,44 @@
     },
     {
       "album": {
+        "name": "Habla Como Pana",
+        "url": "https://open.spotify.com/album/5thPm1C4pzx4S6pqimkYop"
+      },
+      "artists": [
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
+        },
+        {
+          "name": "Mar Maria",
+          "url": "https://open.spotify.com/artist/6K2FLYn2eBtSvEye5ZeMoG"
+        },
+        {
+          "name": "Carlienis",
+          "url": "https://open.spotify.com/artist/4UYhJWF3UggiWaek5Fr8n6"
+        },
+        {
+          "name": "El Zeta",
+          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
+        },
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Habla Como Pana - Remix",
+      "url": "https://open.spotify.com/track/3k09BifCNcHUNKHNmkNv6G"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -2850,7 +2910,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 187636,
       "name": "I'll Show You",
       "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
@@ -5108,7 +5168,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 163200,
       "name": "Ojitos Cafe",
       "url": "https://open.spotify.com/track/3pKUAIXQGfZC2dfWV9nXi2"
@@ -6456,7 +6516,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-01",
       "duration_ms": 137631,
       "name": "Si Te Parto",
       "url": "https://open.spotify.com/track/2z9eihSsKW03aUgcD683LZ"
@@ -7624,6 +7684,32 @@
       "duration_ms": 232411,
       "name": "Un Ghetto",
       "url": "https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n"
+    },
+    {
+      "album": {
+        "name": "Un Like",
+        "url": "https://open.spotify.com/album/4PDGRObNT5p5wgxgsXa5Qr"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        },
+        {
+          "name": "Max Perry",
+          "url": "https://open.spotify.com/artist/3g5anBLg3bhR2jwkiTOmYM"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Un Like",
+      "url": "https://open.spotify.com/track/348J6PE2ZgHpE7dFQj9aQc"
     },
     {
       "album": {

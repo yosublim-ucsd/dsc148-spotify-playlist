@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile)",
-  "num_followers": 21382,
+  "num_followers": 21395,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALFXODCi0O5NcS6wsWmC5NgrTw5Jj5",
+  "snapshot_id": "AAALGZJs4FRh89Y8UKs677RKXKugU1M1",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -571,6 +571,70 @@
       "duration_ms": 163603,
       "name": "Every Time I Hear",
       "url": "https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0"
+    },
+    {
+      "added_at": "2024-09-30 18:35:46",
+      "album": {
+        "name": "Shaded Tree",
+        "url": "https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo"
+      },
+      "artists": [
+        {
+          "name": "Good Sad Happy Bad",
+          "url": "https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Shaded Tree",
+      "url": "https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr"
+    },
+    {
+      "added_at": "2024-09-30 18:43:06",
+      "album": {
+        "name": "Secant",
+        "url": "https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov"
+      },
+      "artists": [
+        {
+          "name": "Akusmi",
+          "url": "https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS"
+        }
+      ],
+      "duration_ms": 409322,
+      "name": "Secant",
+      "url": "https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0"
+    },
+    {
+      "added_at": "2024-09-30 19:11:26",
+      "album": {
+        "name": "Early Morning Walk",
+        "url": "https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ"
+      },
+      "artists": [
+        {
+          "name": "Laura Watling",
+          "url": "https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "October",
+      "url": "https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m"
+    },
+    {
+      "added_at": "2024-09-30 19:17:23",
+      "album": {
+        "name": "Now Run",
+        "url": "https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb"
+      },
+      "artists": [
+        {
+          "name": "Pencil Legs",
+          "url": "https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4"
+        }
+      ],
+      "duration_ms": 165580,
+      "name": "Now Run",
+      "url": "https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA"
     }
   ],
   "unique_name": "what dreams may come",

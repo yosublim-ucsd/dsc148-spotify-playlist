@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,725 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,781 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 72 | [Atropos](https://open.spotify.com/track/0pfbHUS1He5Mjt0EmP8Mrl) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/7sB6EpMHLkV8POwkBM4tjB) | 8:23 |
 | 73 | [Tightrope](https://open.spotify.com/track/56X96FF5Z4GkA269Gn7wGD) | [Tiles](https://open.spotify.com/artist/6yMiXmPJYL5192HSsKVNNb) | [Tightrope](https://open.spotify.com/album/710dhYTLq50hAYZN1Kavab) | 3:55 |
 | 74 | [Festina Lente](https://open.spotify.com/track/3ckZjrL87FcyRv1gsPWL2Q) | [Imaginaerium](https://open.spotify.com/artist/36lGqY0ctI5w9Zgxh4weom) | [Festina Lente](https://open.spotify.com/album/6aL7jzlucXGRg7t6Z5tri5) | 2:28 |
-| 75 | [Cannibal](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
+| 75 | [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
 
 Snapshot ID: `ZvYtwAAAAACLQZH4LCoM0lkVpaYi2ZXa`

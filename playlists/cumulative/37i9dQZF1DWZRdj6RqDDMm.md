@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=CpG0PAoPTDG4Ofil9G4flQ>Marizu
 
-347 songs - 20 hr 14 min
+348 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2023-10-20 |  |
 | [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 | 2024-08-16 |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 | 2024-07-05 |
-| [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 | 2024-09-27 |  |
+| [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 | 2024-09-27 |  |
 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 | 2023-11-24 | 2024-01-26 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 | 2024-06-07 |
 | [Drought Is Over \- Live](https://open.spotify.com/track/4hD3YpKYxanh4n9KyG3c2z) | [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s) | [Drought Is Over \(Live\)](https://open.spotify.com/album/2QaERS9ehpJs34yWtznjL8) | 2:37 | 2024-05-17 | 2024-07-05 |
@@ -243,6 +243,7 @@
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-10-20 | 2024-01-26 |
 | [Peace of Mind](https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Peace of Mind](https://open.spotify.com/album/3jc3sH2Yyoxh8usQ1MchUZ) | 3:00 | 2024-04-12 | 2024-06-07 |
 | [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 | 2024-02-02 | 2024-03-29 |
+| [perfect union](https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [perfect union](https://open.spotify.com/album/53HnNVVIVvgsRMNI49KLip) | 3:30 | 2024-09-30 |  |
 | [Pillar](https://open.spotify.com/track/5odjPxvmThtKws5v0lLnCi) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Pillar](https://open.spotify.com/album/6sUlyjObnWxGJrlKBSGo7A) | 3:21 | 2024-06-14 | 2024-08-09 |
 | [Play](https://open.spotify.com/track/2DgWCbFj8aqPxJ7UdEoa0o) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Play](https://open.spotify.com/album/3xljurwYixcnwp5Z55mSYl) | 2:55 | 2024-03-01 | 2024-04-06 |
 | [Pour Me](https://open.spotify.com/track/0zEkKDvd4LvaKIvbl7r2qg) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi), [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Pour Me](https://open.spotify.com/album/69Ez4lhB1Dw2uEsuhB6KRz) | 3:18 | 2024-01-26 | 2024-03-29 |
