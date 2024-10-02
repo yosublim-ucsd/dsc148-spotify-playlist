@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan",
-  "num_followers": 67255,
+  "num_followers": 67429,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-09-30 07:39:08",
       "album": {
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
     },
     {
       "added_at": "2024-09-30 07:39:08",
@@ -875,38 +875,6 @@
     {
       "added_at": "2024-09-30 07:39:08",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -927,6 +895,38 @@
     {
       "added_at": "2024-09-30 07:39:08",
       "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
     },
     {
       "added_at": "2024-09-30 07:39:08",
@@ -959,22 +975,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
     },
     {
       "added_at": "2024-09-30 07:39:08",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-09-30 07:39:08",
       "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 145910,
-      "name": "La Pio Pio",
-      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
       "added_at": "2024-09-30 07:39:08",
@@ -1075,26 +1079,6 @@
     {
       "added_at": "2024-09-30 07:39:08",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
-    },
-    {
-      "added_at": "2024-09-30 07:39:08",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 134482,
       "name": "50 Billion (feat. Zlatan)",
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+    },
+    {
+      "added_at": "2024-09-30 07:39:08",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 145910,
+      "name": "La Pio Pio",
+      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
       "added_at": "2024-09-30 07:39:08",

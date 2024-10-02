@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "A Minor Talent",
+        "url": "https://open.spotify.com/album/2xwG9Qg8jZJRRUfd8M7kiD"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "A Minor Talent",
+      "url": "https://open.spotify.com/track/6nSIVgNWX3OjzHbnmfKg7s"
+    },
+    {
+      "album": {
         "name": "A Minor Thing",
         "url": "https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 202769,
       "name": "A Wondrous Day at Sea",
       "url": "https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 244504,
       "name": "Blue Serenade",
       "url": "https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK"
@@ -6892,7 +6910,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 148303,
       "name": "I Cover the Waterfront",
       "url": "https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 253213,
       "name": "I've Told Every Little Star",
       "url": "https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx"
@@ -8656,7 +8674,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 156299,
       "name": "Jazz Junction",
       "url": "https://open.spotify.com/track/1grGYyIWIJ44ApvRXWCvdN"
@@ -9736,7 +9754,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 241273,
       "name": "Little One",
       "url": "https://open.spotify.com/track/0RiEqTnuAuI6wgxfOSHthW"
@@ -12724,7 +12742,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 225000,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/6rlpFctD1ZdWfNHxhqiWVw"
@@ -13174,7 +13192,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 264626,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8"
@@ -13534,7 +13552,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 163735,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/6NAB0x89rLc7ATK2bcSCLV"
@@ -14064,6 +14082,24 @@
       "duration_ms": 226220,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4"
+    },
+    {
+      "album": {
+        "name": "Shimmer Through",
+        "url": "https://open.spotify.com/album/3IcPECf5cE4czhZqmDhiki"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248106,
+      "name": "Shimmer Through",
+      "url": "https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT"
     },
     {
       "album": {
@@ -14780,7 +14816,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 219069,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
@@ -16534,6 +16570,24 @@
     {
       "album": {
         "name": "The Sparkle in Your Eyes",
+        "url": "https://open.spotify.com/album/7bGU9EwvmmnRgJBMlVKWmE"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171192,
+      "name": "The Sparkle in Your Eyes",
+      "url": "https://open.spotify.com/track/7ygQiqupeK6sx4xAeWUctG"
+    },
+    {
+      "album": {
+        "name": "The Sparkle in Your Eyes",
         "url": "https://open.spotify.com/album/4NUdzaHTQQq8w2oYLBBgc2"
       },
       "artists": [
@@ -17272,6 +17326,24 @@
       "duration_ms": 197427,
       "name": "Time For Us All",
       "url": "https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28"
+    },
+    {
+      "album": {
+        "name": "Time Passes Quickly",
+        "url": "https://open.spotify.com/album/3QC3utZMD4qR2aeSX6OOwX"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Time Passes Quickly",
+      "url": "https://open.spotify.com/track/2NsN8ak00vcXTEzymRT0RZ"
     },
     {
       "album": {
@@ -18456,7 +18528,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 269602,
       "name": "When we danced",
       "url": "https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5"
@@ -19260,6 +19332,24 @@
       "duration_ms": 144855,
       "name": "You Left With My Heart Still Yours",
       "url": "https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP"
+    },
+    {
+      "album": {
+        "name": "You Me and the Caf\u00e9",
+        "url": "https://open.spotify.com/album/5Q3mFgACKHDAEau43lnLMC"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204528,
+      "name": "You Me and the Caf\u00e9",
+      "url": "https://open.spotify.com/track/5lDgrkJHQfllLKM6LtCsOE"
     },
     {
       "album": {

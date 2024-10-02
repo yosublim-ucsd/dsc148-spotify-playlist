@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-116 songs - 6 hr 8 min
+117 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Babe Bhangra Paunde Ne](https://open.spotify.com/track/3mSTEc5jfuaQ6Hz3uXPlTV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 1:54 | 2022-10-07 | 2022-11-13 |
 | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/1whtXubWCdWMhvZiymscRH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/0p1TPVG9FeMFXXV9CXvq2e) | 1:54 | 2022-10-07 | 2024-04-19 |
 | [Babe Bhangra Paunde Ne \- Title Track](https://open.spotify.com/track/03EgzQpFoUvDp6NI03ZS5d) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Babe Bhangra Paunde Ne \- Title Track \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/4kif1ckv7sR6g1nxOPntiU) | 1:54 | 2024-04-05 |  |
+| [Bach baliye](https://open.spotify.com/track/509WQBvemcYvF3rSGhmWCu) | [Jassi Sohal](https://open.spotify.com/artist/45fT4owqYRKTnrtLiAN9wZ) | [Bach baliye](https://open.spotify.com/album/7ulrr7fTSBI9b6J9UbDvB0) | 2:37 | 2024-10-01 |  |
 | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3) | 2:38 | 2021-12-18 | 2023-07-27 |
 | [Bai Bai](https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Bai Bai](https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii) | 4:33 | 2021-12-18 |  |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-01-10 |  |
@@ -72,7 +73,7 @@
 | [Let 'em Play](https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW) | 3:12 | 2021-12-18 |  |
 | [Let 'em Play](https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/3eo5DzbsNmG1KYZgwEUeLX) | 3:15 | 2022-07-05 | 2024-04-19 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2021-12-18 |  |
-| [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-01-10 |  |
+| [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-01-10 | 2024-10-02 |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2021-12-18 |  |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 |  |
 | [Me and My Girlfriend](https://open.spotify.com/track/1cQQk3EyZsWrbIzRBz68P9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2021-12-18 | 2022-01-11 |

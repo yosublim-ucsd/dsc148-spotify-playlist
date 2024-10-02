@@ -4685,7 +4685,7 @@
     },
     {
       "album": {
-        "name": "Blue Devils - Remix",
+        "name": "Blue Devils (Remix)",
         "url": "https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I"
       },
       "artists": [
@@ -21314,7 +21314,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0uXW44uIa0ODz7ut3HT7f6"
@@ -34754,7 +34754,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 132266,
       "name": "The Largest",
       "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
@@ -34854,6 +34854,24 @@
       "duration_ms": 208233,
       "name": "The Type (feat. YTB Fatt)",
       "url": "https://open.spotify.com/track/7k2lQiLrZFJcnaOqsG2mdR"
+    },
+    {
+      "album": {
+        "name": "The Viper",
+        "url": "https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150997,
+      "name": "The Viper",
+      "url": "https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx"
     },
     {
       "album": {
@@ -39458,7 +39476,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 121887,
       "name": "Yea Yea",
       "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"

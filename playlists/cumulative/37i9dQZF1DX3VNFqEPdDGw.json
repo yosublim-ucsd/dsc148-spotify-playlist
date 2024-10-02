@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Bach baliye",
+        "url": "https://open.spotify.com/album/7ulrr7fTSBI9b6J9UbDvB0"
+      },
+      "artists": [
+        {
+          "name": "Jassi Sohal",
+          "url": "https://open.spotify.com/artist/45fT4owqYRKTnrtLiAN9wZ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "Bach baliye",
+      "url": "https://open.spotify.com/track/509WQBvemcYvF3rSGhmWCu"
+    },
+    {
+      "album": {
         "name": "Badmashi (feat. Gurlez Akhtar)",
         "url": "https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3"
       },
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"

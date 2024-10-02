@@ -1,12 +1,12 @@
 {
   "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
-  "num_followers": 965578,
+  "num_followers": 965958,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAAY5UAEt0AIB5spbB8EICix",
+  "snapshot_id": "ZvnqAAAAAAB51tBf85Pk8v1/JufTzMti",
   "tracks": [
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Duele Equivocarse",
         "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 227044,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": null,

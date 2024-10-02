@@ -2,7 +2,7 @@
 
 ### [Top Christian Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
+> Top Christian Worship 2024 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
 516 songs - 2 day 2 hr 22 min
 

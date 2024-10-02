@@ -1,73 +1,13 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 546942,
+  "num_followers": 547169,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAAAQ3dPCiY5n4DgEpc2yC0fY",
+  "snapshot_id": "ZvvB6AAAAADMaVoIouYJAyVod5LTSr45",
   "tracks": [
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
-        "url": "https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 147969,
-      "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
-      "url": "https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Dance All Night",
-        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
-    },
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
@@ -95,6 +35,30 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Song 2",
+        "url": "https://open.spotify.com/album/4azfA0LZ09hbdlsH3BYwKF"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        },
+        {
+          "name": "Rumix",
+          "url": "https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2"
+        },
+        {
+          "name": "Highbreeze",
+          "url": "https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Time To Say Goodbye",
         "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
       },
@@ -111,6 +75,46 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -151,42 +155,42 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+      "duration_ms": 192890,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Raving",
-        "url": "https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf"
+        "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
+        "url": "https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
         }
       ],
-      "duration_ms": 138951,
-      "name": "Raving",
-      "url": "https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm"
+      "duration_ms": 147969,
+      "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
+      "url": "https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -251,6 +255,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Raving",
+        "url": "https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "Raving",
+      "url": "https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -279,26 +303,6 @@
       "duration_ms": 168800,
       "name": "Meet Her At The Love Parade",
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Ritmo De La Noche (Vamos A La Playa)",
-        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        }
-      ],
-      "duration_ms": 171555,
-      "name": "Ritmo De La Noche (Vamos A La Playa)",
-      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -339,26 +343,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Song 2",
-        "url": "https://open.spotify.com/album/4azfA0LZ09hbdlsH3BYwKF"
+        "name": "Ritmo De La Noche (Vamos A La Playa)",
+        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
       },
       "artists": [
         {
-          "name": "D-Devils",
-          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Rumix",
-          "url": "https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2"
-        },
-        {
-          "name": "Highbreeze",
-          "url": "https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O"
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
         }
       ],
-      "duration_ms": 144857,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB"
+      "duration_ms": 171555,
+      "name": "Ritmo De La Noche (Vamos A La Playa)",
+      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
+      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Gonna Dance with Somebody",
         "url": "https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 187655,
       "name": "Gonna Dance with Somebody",
       "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
-        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
-      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
       },
@@ -1095,26 +1075,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Day In Day Out",
-        "url": "https://open.spotify.com/album/4se3kTCYGDoCQiiaQRlt86"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Lady Leshurr",
-          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Day In Day Out",
-      "url": "https://open.spotify.com/track/73I2irWOxmbD8oyIeHbdmi"
+      "duration_ms": 172444,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1135,6 +1111,30 @@
       "duration_ms": 147397,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Day In Day Out",
+        "url": "https://open.spotify.com/album/4se3kTCYGDoCQiiaQRlt86"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Day In Day Out",
+      "url": "https://open.spotify.com/track/73I2irWOxmbD8oyIeHbdmi"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Traffic Lights",
         "url": "https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 128274,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": "2024-09-26 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,402 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,405 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 39 | [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 |
 | 40 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
 | 41 | [Keine Love](https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Keine Love](https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw) | 2:38 |
-| 42 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 |
-| 43 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
+| 42 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
+| 43 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 |
 | 44 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 45 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 46 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 57 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 58 | [Gummie](https://open.spotify.com/track/2VS4DvkyetQCSnfMXHBASG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Gummie](https://open.spotify.com/album/53w2aqJQv74dnJ0ogfTN5U) | 2:54 |
 | 59 | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA) | 2:36 |
-| 60 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
-| 61 | [Love You](https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv) | [Curly J](https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl) | [Love You](https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn) | 2:26 |
+| 60 | [Love You](https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv) | [Curly J](https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl) | [Love You](https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn) | 2:26 |
+| 61 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 62 | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM) | 3:32 |
 | 63 | [4AM](https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Jaye EL](https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz) | [4AM](https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7) | 1:54 |
 | 64 | [All In My Head](https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [All In My Head](https://open.spotify.com/album/4BLSfmhCOxS2VVSQ7tPaBV) | 2:14 |

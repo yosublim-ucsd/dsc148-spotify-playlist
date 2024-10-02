@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Cody Johnson with Carrie Underwood, Luke Bryan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,621 likes - 78 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,877 likes - 78 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 11 | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/track/1pbWkKLJUUFyEBJ82Ha26S) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY) | 2:57 |
 | 12 | [Say Less](https://open.spotify.com/track/6FgTg9bfG505KTGzTcV953) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Say Less](https://open.spotify.com/album/0MS2yJBndggAEHUtlz83MS) | 3:22 |
 | 13 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 |
-| 14 | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/album/3DpaVejfdvvZ5eJELYSzvJ) | 3:12 |
+| 14 | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/album/3DpaVejfdvvZ5eJELYSzvJ) | 3:14 |
 | 15 | [Home In Hometown](https://open.spotify.com/track/49almk01OsUOPoeQsmYPiS) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Home In Hometown](https://open.spotify.com/album/4VEnVzEWMDdcd2c3aPZLna) | 3:23 |
 | 16 | [When the New Wears Off](https://open.spotify.com/track/4EeI2O5vCcDWd4YxoSwyzQ) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Backside of 30](https://open.spotify.com/album/4sVsopAEAkZXIKYXSiNIKq) | 4:26 |
 | 17 | [Suit and Tie \(Sixteen Tons\)](https://open.spotify.com/track/0Q1lKJvnvThBEFTUpkDNsd) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Suit and Tie \(Sixteen Tons\)](https://open.spotify.com/album/0HFq313JlYDuIR4Viv51JF) | 2:09 |

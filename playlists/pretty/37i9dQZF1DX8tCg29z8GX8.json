@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14887,
+  "num_followers": 14893,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
         "name": "EKELEBE (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 222222,
       "name": "EKELEBE (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -1067,6 +1067,54 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
+        "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
+        "url": "https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl"
+      },
+      "artists": [
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "DJ Exit",
+          "url": "https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u"
+        }
+      ],
+      "duration_ms": 339928,
+      "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
+      "url": "https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
         "name": "OH NO",
         "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
       },
@@ -1131,22 +1179,6 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
         "name": "Bad Friends",
         "url": "https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme"
       },
@@ -1183,38 +1215,6 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
-        "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
-        "url": "https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl"
-      },
-      "artists": [
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Matute Boy",
-          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
-        },
-        {
-          "name": "DJ Exit",
-          "url": "https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u"
-        }
-      ],
-      "duration_ms": 339928,
-      "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
-      "url": "https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Odo Bi Ye Bad",
-        "url": "https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV"
-      },
-      "artists": [
-        {
-          "name": "Rap Fada",
-          "url": "https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a"
-        },
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Odo Bi Ye Bad",
-      "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Odo Bi Ye Bad",
+        "url": "https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV"
+      },
+      "artists": [
+        {
+          "name": "Rap Fada",
+          "url": "https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Odo Bi Ye Bad",
+      "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/5FxxGiOmN3t6E5YuAj0gpQ"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Amerado",
-          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
-        }
-      ],
-      "duration_ms": 208876,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/49UE0b2lwMw7edazWGvdy7"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/5FxxGiOmN3t6E5YuAj0gpQ"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "duration_ms": 208876,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/49UE0b2lwMw7edazWGvdy7"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 157541,
-      "name": "I Lied",
-      "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
-    },
-    {
-      "added_at": "2024-09-30 10:06:08",
-      "album": {
         "name": "Denge II",
         "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
@@ -1535,18 +1503,34 @@
     {
       "added_at": "2024-09-30 10:06:08",
       "album": {
-        "name": "Killa Ji Mi",
-        "url": "https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q"
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 163376,
-      "name": "Killa Ji Mi",
-      "url": "https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf"
+      "duration_ms": 157541,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-09-30 10:06:08",
@@ -1567,6 +1551,22 @@
       "duration_ms": 202352,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR"
+    },
+    {
+      "added_at": "2024-09-30 10:06:08",
+      "album": {
+        "name": "Killa Ji Mi",
+        "url": "https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 163376,
+      "name": "Killa Ji Mi",
+      "url": "https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf"
     },
     {
       "added_at": "2024-09-30 10:06:08",

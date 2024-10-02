@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Gera MX y Alemán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,555 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,529 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

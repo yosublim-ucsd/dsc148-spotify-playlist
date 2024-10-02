@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YENA\(최예나\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,451 likes - 269 songs - 15 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,508 likes - 269 songs - 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 79 | [Comedy](https://open.spotify.com/track/0tKNRYvQgt31N7ATjOmmtR) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Comedy](https://open.spotify.com/album/2FXxansaOKMLK1ksKPHsWl) | 3:13 |
 | 80 | [Tenessy](https://open.spotify.com/track/1yhzVxZNRo7xRAAShWpEtL) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [DTF](https://open.spotify.com/album/7obZqAqI5n3XjskNyW3DmE) | 2:01 |
 | 81 | [﻿I Miss You \(feat\. Baby Blue\)](https://open.spotify.com/track/2f0WkwE1Pryqm7T2jhfv2C) | [﻿The Next Story\(TNS\)](https://open.spotify.com/artist/5rX4gSfI9LZtEmbtQrDRAP), [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [The Next Story EP.1](https://open.spotify.com/album/3yKBAuPCabLiThuPvIbYfR) | 3:39 |
-| 82 | [Love in Silence](https://open.spotify.com/track/2N1MZWXY5V3OXd3rLVXB73) | [Vanilla Unity](https://open.spotify.com/artist/6KQFBP9FWrWZHzkR0WRkdO) | [Dear Harry, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1DVOfyLqaFI0WmAxcs26uA) | 3:12 |
+| 82 | [Love in Silence](https://open.spotify.com/track/2N1MZWXY5V3OXd3rLVXB73) | [Vanilla Unity](https://open.spotify.com/artist/6KQFBP9FWrWZHzkR0WRkdO) | [Dear Hyeri, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1DVOfyLqaFI0WmAxcs26uA) | 3:12 |
 | 83 | [Why so pretty?](https://open.spotify.com/track/65LzNqgq9kwLjWERh2dVWH) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [Why so pretty?](https://open.spotify.com/album/4oYPYyudmzuwWFNzzxSWbW) | 3:31 |
-| 84 | [Pink Mully \(Feat\. Yeo in hye\)](https://open.spotify.com/track/5nROUoXr0iLadTG0JbhpTA) | [BaB](https://open.spotify.com/artist/4IntnMtAydhIlsMwJv7nyx), [Yeo in hye](https://open.spotify.com/artist/6bcOAOajNavXIB7ObcFrkC) | [Pink Mully \(Feat\. Yeo in hye\)](https://open.spotify.com/album/53h6s3YxAX5YtU28U9TUXs) | 2:55 |
+| 84 | [Pink Mully \(Feat\. Yeo in hye\)](https://open.spotify.com/track/5nROUoXr0iLadTG0JbhpTA) | [BaB](https://open.spotify.com/artist/1m2Iq0NHYC7XMZzGBsMCw4), [Yeo in hye](https://open.spotify.com/artist/6bcOAOajNavXIB7ObcFrkC) | [Pink Mully \(Feat\. Yeo in hye\)](https://open.spotify.com/album/53h6s3YxAX5YtU28U9TUXs) | 2:55 |
 | 85 | [Savior](https://open.spotify.com/track/5LvjZr6NWW4MswueJcfYLH) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Savior](https://open.spotify.com/album/3js2LwDaCGs8dgta2rBK99) | 4:24 |
 | 86 | [No Paradise](https://open.spotify.com/track/0MEHt8ptnvi0hsuXmD5tZv) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [No Paradise](https://open.spotify.com/album/2ocMaTjs01tgQKYSbNb9vN) | 3:15 |
 | 87 | [Pleasure Shop](https://open.spotify.com/track/2022n4pxaEaDC2YvzVl1w7) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 3:02 |

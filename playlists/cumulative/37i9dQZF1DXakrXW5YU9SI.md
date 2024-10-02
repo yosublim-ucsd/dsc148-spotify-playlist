@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 zmysłów](https://open.spotify.com/track/3SSFzI5YpojR8fzirESKBj) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12 zmysłów](https://open.spotify.com/album/36FiFtrAbtAJnayjiMtS6R) | 3:17 | 2024-09-12 |  |
+| [12 zmysłów](https://open.spotify.com/track/3SSFzI5YpojR8fzirESKBj) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12 zmysłów](https://open.spotify.com/album/36FiFtrAbtAJnayjiMtS6R) | 3:17 | 2024-09-12 | 2024-10-02 |
 | [5 milionów influencerek](https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [5 milionów influencerek](https://open.spotify.com/album/2f4NFjKewTTexTmEJbEKiE) | 2:49 | 2024-07-11 | 2024-08-21 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-05 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 | 2024-09-13 |
@@ -99,7 +99,7 @@
 | [Lato na Grochowie](https://open.spotify.com/track/47uePh0f652cC2LNVj9AFc) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Lato na Grochowie](https://open.spotify.com/album/5yFcKcjCAWuXodnt5S4qJc) | 2:42 | 2024-08-20 | 2024-08-24 |
 | [Le bois brûle](https://open.spotify.com/track/3j5yLii9A2RXboXDxddsZE) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Le bois brûle](https://open.spotify.com/album/5xMtoetMCz6QQvEPSZV5Q7) | 4:04 | 2024-07-18 | 2024-07-27 |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-28 | 2024-08-21 |
-| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 | 2024-09-29 |
+| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 |  |
 | [Listopad](https://open.spotify.com/track/2WhpBpERJZv3384qNExPZP) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Listopad](https://open.spotify.com/album/1nLWz8HpZNpfmqzLwYSeJF) | 3:22 | 2024-09-27 |  |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-09-12 |  |
 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 | 2024-08-20 | 2024-09-13 |

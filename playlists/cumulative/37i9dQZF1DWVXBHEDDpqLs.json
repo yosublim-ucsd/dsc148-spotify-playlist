@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 331740,
       "name": "Abspace",
       "url": "https://open.spotify.com/track/5RavJnpyens0YSNFEHxsPA"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 277567,
       "name": "Asa",
       "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 338823,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/380kcVQTdRwczzyjUWpSrS"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 340207,
       "name": "Balet",
       "url": "https://open.spotify.com/track/2xy3WkjpcWPoEkpanNnTD9"
@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "La Boix Vol. 1",
+        "url": "https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex"
+      },
+      "artists": [
+        {
+          "name": "LA Boix",
+          "url": "https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "Black Razz",
+      "url": "https://open.spotify.com/track/2zQPemdru2fLGPrgo6Dw1G"
+    },
+    {
+      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 264178,
       "name": "blueworld 22",
       "url": "https://open.spotify.com/track/5TznmzKrWdZPAUjWn63HaL"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 291555,
       "name": "Flangelic",
       "url": "https://open.spotify.com/track/1HLH4jJHqPzgBOVYyu4R2Y"
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 341368,
       "name": "Genesis - SEL.6 Remix",
       "url": "https://open.spotify.com/track/7d8KQcKyeqmE2WPgmvoz1S"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 241045,
       "name": "Ghetto Capitalism",
       "url": "https://open.spotify.com/track/4DuRwaaj9Fy5t7BRL5ySQO"
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 282860,
       "name": "Got Fire",
       "url": "https://open.spotify.com/track/6rTGkil9AFabyn9YGzFDBO"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 222001,
       "name": "Hit Dat",
       "url": "https://open.spotify.com/track/0XUGPaOHr0fph8LooPy2G1"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 412342,
       "name": "Layers - Clap! Clap! Remix",
       "url": "https://open.spotify.com/track/0wzF1p53ODNdHYGkZ9hkxD"
@@ -4408,7 +4426,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 375652,
       "name": "Mecha - Peder Mannerfelt Remix",
       "url": "https://open.spotify.com/track/74wro4HBePR7hlHy3HQXSs"
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 305562,
       "name": "Numerical Deviant",
       "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 292735,
       "name": "Nuna",
       "url": "https://open.spotify.com/track/0lKHnJrslVlkQ0U464vI4I"
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 309197,
       "name": "Popit",
       "url": "https://open.spotify.com/track/6T5zmsY5utkXYPTxZpqohQ"
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 188444,
       "name": "Pyrophobia",
       "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
@@ -5500,7 +5518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 386874,
       "name": "Reformat",
       "url": "https://open.spotify.com/track/6adYIR4efbaEJcv5iVMIIZ"
@@ -6004,7 +6022,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 148965,
       "name": "Skin Like Rose",
       "url": "https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt"

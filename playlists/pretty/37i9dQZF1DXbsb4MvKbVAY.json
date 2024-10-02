@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udd25 Kannessa NOTO ja KIKI.",
-  "num_followers": 24068,
+  "num_followers": 24069,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+        "name": "I'd Rather Pretend (with d4vd)",
+        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend (with d4vd)",
+      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1043,22 +1043,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "I'd Rather Pretend (with d4vd)",
-        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
       "artists": [
         {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 184560,
-      "name": "I'd Rather Pretend (with d4vd)",
-      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
+        "name": "Spot a Fake",
+        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Spot a Fake",
+      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
         "name": "this is what forever feels like",
         "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 154841,
       "name": "this is what forever feels like (with Nick Jonas)",
       "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
-        "name": "Spot a Fake",
-        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Spot a Fake",
-      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
         "name": "Thick Of It All",
         "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
@@ -1307,26 +1323,6 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "GET UP BITCH! shake ya ass (with Anitta)",
-        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "GET UP BITCH! shake ya ass (with Anitta)",
-      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
         "name": "L\u00f6yt\u00e4\u00e4 mut",
         "url": "https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX"
       },
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "Love Tune",
-        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+        "name": "GET UP BITCH! shake ya ass (with Anitta)",
+        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 187507,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+      "duration_ms": 213333,
+      "name": "GET UP BITCH! shake ya ass (with Anitta)",
+      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "YUNO",
-        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "On / Off",
-      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
         "name": "ROADMAN",
         "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 176788,
       "name": "Taikuri",
       "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
+        "name": "YUNO",
+        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "On / Off",
+      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
+        "name": "Otan Kii",
+        "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 177233,
+      "name": "Otan Kii",
+      "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
         "name": "Why I Love You So",
         "url": "https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx"
       },
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "Otan Kii",
-        "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 177233,
-      "name": "Otan Kii",
-      "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
         "name": "I Hope It Hurts",
         "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
       },
@@ -1571,26 +1571,6 @@
       "duration_ms": 249003,
       "name": "I Hope It Hurts",
       "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
-        "name": "Vitun hyvin",
-        "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 180099,
-      "name": "Vitun hyvin",
-      "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
+        "name": "Vitun hyvin",
+        "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 180099,
+      "name": "Vitun hyvin",
+      "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
         "name": "Suomalainen Superstara",
         "url": "https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW"
       },
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
+        "name": "Rakasta mua, rakasta mua, rakasta",
+        "url": "https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z"
+      },
+      "artists": [
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        }
+      ],
+      "duration_ms": 184948,
+      "name": "Rakasta mua, rakasta mua, rakasta",
+      "url": "https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb"
+    },
+    {
+      "added_at": "2024-09-30 12:28:11",
+      "album": {
         "name": "\u00c4rsytt\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "Rakasta mua, rakasta mua, rakasta",
-        "url": "https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z"
+        "name": "Dice",
+        "url": "https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk"
       },
       "artists": [
         {
-          "name": "Sara Siipola",
-          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
         }
       ],
-      "duration_ms": 184948,
-      "name": "Rakasta mua, rakasta mua, rakasta",
-      "url": "https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb"
+      "duration_ms": 180159,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc"
     },
     {
       "added_at": "2024-09-30 12:28:11",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "Dice",
-        "url": "https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk"
-      },
-      "artists": [
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 180159,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc"
-    },
-    {
-      "added_at": "2024-09-30 12:28:11",
-      "album": {
         "name": "Ikuinen elokuu",
         "url": "https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ"
       },
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-09-30 12:28:11",
       "album": {
-        "name": "Neliapila",
-        "url": "https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio"
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT"
       },
       "artists": [
         {
-          "name": "LAVAREDO",
-          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 153259,
-      "name": "Neliapila",
-      "url": "https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr"
+      "duration_ms": 212008,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
     }
   ],
   "unique_name": "Ensisoitossa",

@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-198 songs - 11 hr 37 min
+199 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,11 +178,12 @@
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |
 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 | 2022-11-25 | 2023-09-02 |
 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 | 2024-05-10 |  |
+| [take your vibes and go \- Preditah Remix](https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go \(Preditah Remix\)](https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN) | 4:52 | 2024-09-26 |  |
 | [TEMPORARY FRIENDS](https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [TEMPORARY FRIENDS](https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2) | 3:01 | 2024-05-31 |  |
 | [Tenner](https://open.spotify.com/track/2RFtiHW05Wfq3N4Pvp2w4Y) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/1GHh2bQGnhmFxFVSnFPhk9) | 2:26 | 2023-11-17 | 2024-02-09 |
 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 | 2022-11-25 | 2023-04-15 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-11-25 | 2023-10-21 |
-| [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 | 2024-05-10 |  |
+| [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 | 2024-05-10 | 2024-10-02 |
 | [The Way Things Were \- Joe Hertz Remix](https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [The Way Things Were \(Joe Hertz Remix\)](https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf) | 3:20 | 2024-02-23 | 2024-09-27 |
 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 | 2022-11-25 | 2024-08-23 |
 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 | 2023-10-20 |  |

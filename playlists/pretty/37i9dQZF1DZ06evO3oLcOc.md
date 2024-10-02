@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This is Tyga\. Todos os maiores hits em uma só playlist.
+> This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,650 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,668 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 47 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 48 | [Uh Huh](https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Uh Huh](https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ) | 2:15 |
 | 49 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
-| 50 | [Comfortable \- Remix](https://open.spotify.com/track/5pkYVjstaM5ggccn417pzg) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Comfortable \(Remix\)](https://open.spotify.com/album/0boACLdefRAXstqsLWMAhT) | 2:49 |
+| 50 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 
-Snapshot ID: `ZviYgAAAAAC2nUuXhkALB7vTb6Sn/qHY`
+Snapshot ID: `ZvnqAAAAAABCipULjPyDF+YSIvfgG05p`

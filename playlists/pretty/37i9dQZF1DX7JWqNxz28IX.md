@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,615 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,614 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 30 | [pochi colori per rappresentarmi.](https://open.spotify.com/track/7boSLIOLKEDWb2eX9oKhDZ) | [NEVERMIND E ATMO](https://open.spotify.com/artist/5QUtV3KeHsXa6oAJXxHUjH) | [pochi colori per rappresentarmi.](https://open.spotify.com/album/5FslhF5Y1thJWVSz6uiNTv) | 1:30 |
 | 31 | [Giovane e triste](https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:06 |
 | 32 | [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 |
-| 33 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
-| 34 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 33 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 34 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
 | 35 | [JAPANESE](https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP) | [ViraH](https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS) | [JAPANESE](https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP) | 3:06 |
 | 36 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
 | 37 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 88 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
 | 89 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
 | 90 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
-| 91 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 |
-| 92 | [Freddo](https://open.spotify.com/track/68IqPazGKvaQRO9ZWh7cri) | [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb) | [GARA 7](https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX) | 2:56 |
+| 91 | [Freddo](https://open.spotify.com/track/68IqPazGKvaQRO9ZWh7cri) | [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb) | [GARA 7](https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX) | 2:56 |
+| 92 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 93 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 |
-| 94 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 95 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 94 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 95 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 |
 | 96 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
 | 97 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
-| 98 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 |
-| 99 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
-| 100 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 |
+| 98 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
+| 99 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 |
+| 100 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 
 Snapshot ID: `ZoLO2AAAAACt7u3qlKMzU5W18OQSErWj`

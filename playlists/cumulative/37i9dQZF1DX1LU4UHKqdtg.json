@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ"
+    },
+    {
+      "album": {
         "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
         "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
       },
@@ -12397,6 +12415,24 @@
     },
     {
       "album": {
+        "name": "NEMONEMO",
+        "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "NEMONEMO",
+      "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
+    },
+    {
+      "album": {
         "name": "Geekyland",
         "url": "https://open.spotify.com/album/6Az8pkdJ1s4utD6I7kbdYG"
       },
@@ -16188,7 +16224,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 270573,
       "name": "Shout it out",
       "url": "https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z"
@@ -21846,7 +21882,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 177360,
       "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
       "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"

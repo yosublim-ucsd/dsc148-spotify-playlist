@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,761 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,923 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 10 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 |
 | 11 | [Say Less](https://open.spotify.com/track/6FgTg9bfG505KTGzTcV953) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Say Less](https://open.spotify.com/album/0MS2yJBndggAEHUtlz83MS) | 3:22 |
 | 12 | [Love on the Line](https://open.spotify.com/track/1M95X9GeTRLXczFunvGCn7) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 3:24 |
-| 13 | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/album/3DpaVejfdvvZ5eJELYSzvJ) | 3:12 |
+| 13 | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/track/5HAUAMj3DISV7dHqgsKFbD) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [I've Been Drinking \(feat\. Hannah McFarland\)](https://open.spotify.com/album/3DpaVejfdvvZ5eJELYSzvJ) | 3:14 |
 | 14 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 |
 | 15 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 |
 | 16 | [All Over Again](https://open.spotify.com/track/5C7i53sJkEPv1uoTuGUxRq) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [about: TIME](https://open.spotify.com/album/4nwlULAhGFt6xBG8HZHv2Q) | 2:41 |

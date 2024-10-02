@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69826,
+  "num_followers": 69830,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 230800,
       "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Don't Start Now (Live in LA Remix)",
         "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 340075,
       "name": "Don't Start Now - Live in LA Remix",
       "url": "https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -587,22 +587,6 @@
       "duration_ms": 362216,
       "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -667,6 +651,22 @@
       "duration_ms": 239733,
       "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "All of Me (Live)",
-        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "All of Me - Live",
-      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 262533,
       "name": "Maps - Live In Manchester",
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "All of Me (Live)",
+        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "All of Me - Live",
+      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Soul Live",
-        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Crazy - Live",
-      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Pompeii / Come As You Are - MTV Unplugged",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 268690,
       "name": "Pompeii - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Soul Live",
+        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 441666,
+      "name": "Crazy - Live",
+      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-02-13 05:00:00",

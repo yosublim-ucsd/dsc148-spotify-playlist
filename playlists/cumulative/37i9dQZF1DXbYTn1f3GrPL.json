@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 187250,
       "name": "Connemara",
       "url": "https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6"
@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Grounded in Love",
+        "url": "https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143625,
+      "name": "Grounded in Love",
+      "url": "https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf"
+    },
+    {
+      "album": {
         "name": "Growing Old",
         "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 144525,
       "name": "La Vie Est Un R\u00eave",
       "url": "https://open.spotify.com/track/0BOiThUDNdqjVwtDrdXdC4"
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 124000,
       "name": "Slow Sorrow",
       "url": "https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib"
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 124452,
       "name": "Time is the Longest Distance",
       "url": "https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL"

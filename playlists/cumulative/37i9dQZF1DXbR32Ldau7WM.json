@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: BAND-MAID",
+  "description": "The biggest rock artists in Japan right now!  Cover: Queen Bee (\u5973\u738b\u8702)",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -9303,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Speak Like",
+        "url": "https://open.spotify.com/album/5MWnWYNZg6X31mxDE3Cqiw"
+      },
+      "artists": [
+        {
+          "name": "Velludo",
+          "url": "https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169631,
+      "name": "Speak Like",
+      "url": "https://open.spotify.com/track/1fT0s3i9dKmBT9PrIJLB5Y"
+    },
+    {
+      "album": {
         "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
         "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
       },
@@ -9538,7 +9556,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 235747,
       "name": "STARS",
       "url": "https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw"
@@ -9698,6 +9716,28 @@
       "duration_ms": 225185,
       "name": "still in me",
       "url": "https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM"
+    },
+    {
+      "album": {
+        "name": "Straight Up feat. JESSE",
+        "url": "https://open.spotify.com/album/4KedQNW6Evrgu7vZCJtYYG"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Straight Up feat. JESSE",
+      "url": "https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x"
     },
     {
       "album": {
@@ -10678,7 +10718,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 233393,
       "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
       "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
@@ -10924,6 +10964,24 @@
       "duration_ms": 256959,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/1rc0mAmqWlGRNrCmhD84k9"
+    },
+    {
+      "album": {
+        "name": "UNDER and OVER",
+        "url": "https://open.spotify.com/album/60lSvl6D1arg4yafpzexwV"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234250,
+      "name": "UNDER and OVER",
+      "url": "https://open.spotify.com/track/46mVcLRZJ5PRJ3CsoRXDTY"
     },
     {
       "album": {
@@ -14912,7 +14970,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 203830,
       "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
@@ -15110,7 +15168,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 328333,
       "name": "\u30d2\u30c8\u30b7\u30ba\u30af",
       "url": "https://open.spotify.com/track/27zFF1QpIIJRsu7thB9QvG"
@@ -15222,6 +15280,24 @@
       "duration_ms": 277026,
       "name": "\u30d6\u30c3\u30ab\u30c4\u5e30\u308a\u306e\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/7bYnsTGKItlm0hK7pPNLk2"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30af\u30b5\u30d0\u30a4\u30d0\u30eb-2024-",
+        "url": "https://open.spotify.com/album/4qydEtYLoRYgbsvGn8h1rg"
+      },
+      "artists": [
+        {
+          "name": "Gacharic Spin",
+          "url": "https://open.spotify.com/artist/6CnfLzYowhw2LCyfz4aLkC"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275906,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30b5\u30d0\u30a4\u30d0\u30eb-2024-",
+      "url": "https://open.spotify.com/track/3ZRXjWqpShK2kQf0ocZhrz"
     },
     {
       "album": {
@@ -15868,7 +15944,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 286200,
       "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
       "url": "https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ"
@@ -18658,6 +18734,24 @@
       "duration_ms": 250973,
       "name": "\u72c2\u4e71 Hey Kids!!",
       "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
+    },
+    {
+      "album": {
+        "name": "\u72c2\u8a69\u66f2",
+        "url": "https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254733,
+      "name": "\u72c2\u8a69\u66f2",
+      "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
     },
     {
       "album": {

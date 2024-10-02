@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:6cbdCv0bmLwcxSVFM7tuyG">John Mark Pantana</a>  and <a href="spotify:artist:2bEFxVGVlzEIEdDAaQZCrc">LOVKN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,309 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,335 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RIPE](https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Childlike](https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa) | 2:17 |
 | 2 | [Yesterday, Today, & Tomorrow](https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Yesterday, Today, & Tomorrow](https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP) | 3:22 |
 | 3 | [Canyon](https://open.spotify.com/track/0REJJmNEYM3adUdtnYxuCe) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [The Coal](https://open.spotify.com/album/3IKEC5VlZzQ3Ml3dpq3pRc) | 2:54 |
-| 4 | [Nothin' Sweeter \- Extra Sweet Version](https://open.spotify.com/track/7KYdYmstJgHuzdqkAYBWWZ) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Nothin' Sweeter \- Extra Sweet Version](https://open.spotify.com/album/5nur6NKYj5fj3DXVO5cPpc) | 2:50 |
+| 4 | [Nothin' Sweeter \- Extra Sweet Version](https://open.spotify.com/track/7KYdYmstJgHuzdqkAYBWWZ) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Nothin' Sweeter \(Extra Sweet Version\)](https://open.spotify.com/album/5nur6NKYj5fj3DXVO5cPpc) | 2:50 |
 | 5 | [Every Step](https://open.spotify.com/track/49dhmLeioBaPcK2kceSTVE) | [TIDES](https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ) | [Every Step](https://open.spotify.com/album/6urvuLVMsFovYFlIso9cO9) | 2:21 |
 | 6 | [LIAR LIAR](https://open.spotify.com/track/5Kucl7me7FqouDlCPZUmuF) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [HAPPY TO BE HERE](https://open.spotify.com/album/2yL7ZUWn3LNeZe1IIDjrOD) | 2:45 |
 | 7 | [Nothing I Have To Hide](https://open.spotify.com/track/7yB8sAWod9fWE8oLa0PsJx) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Nothing I Have To Hide](https://open.spotify.com/album/09UqUX9BZUBa4N4jYtgFrX) | 3:31 |

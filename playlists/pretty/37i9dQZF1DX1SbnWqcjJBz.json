@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 116310,
+  "num_followers": 116365,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 241920,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
         "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Record Collection",
-        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "The Business Intl",
-          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Somebody to Love Me",
-      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 202640,
       "name": "Hair Body Face",
       "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Somebody to Love Me",
+      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
     },
     {
       "added_at": "2024-06-02 21:23:10",

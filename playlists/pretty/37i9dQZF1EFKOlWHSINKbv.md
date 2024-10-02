@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 76 | [Good Bye](https://open.spotify.com/track/0M8nmqTMpIzuCO0EQBeJCs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:10 |
 | 77 | [Famous Lies](https://open.spotify.com/track/5AG8xFKYpPKPDg1wq0P3D8) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 0:59 |
 | 78 | [Finish Line](https://open.spotify.com/track/5nNVUJaPFtJEni4RK5ZS3U) | [Daye Jack](https://open.spotify.com/artist/0LSjb1pZ3uHwuvIaVzhdyT) | [Surf the Web](https://open.spotify.com/album/61jcg6D6K4JHWP6FBx9kxa) | 3:59 |
-| 79 | [Credit \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/6GDMLZoykMpZ4JqQoyoZpQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Free TC](https://open.spotify.com/album/325oe5W5EgQVcuzNwBBnmt) | 6:11 |
-| 80 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
-| 81 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
+| 79 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
+| 80 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
+| 81 | [Credit \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/6GDMLZoykMpZ4JqQoyoZpQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Free TC](https://open.spotify.com/album/325oe5W5EgQVcuzNwBBnmt) | 6:11 |
 | 82 | [MOVIN' ON \(feat\. Anderson .Paak\)](https://open.spotify.com/track/0A74iSx3c4rSaM5oXfgQ7m) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:44 |
 | 83 | [Extra](https://open.spotify.com/track/4ACRXHoiz3J2JHG8DL4Z6X) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 5:53 |
 | 84 | [Heavy Love](https://open.spotify.com/track/4tivw0vYNflvw3YlAWx6Jp) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Mali Is...](https://open.spotify.com/album/7MMjwKpaSrATroOvGcjTGv) | 3:20 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 148 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 149 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 
-Snapshot ID: `Abdj6AAAAAAZlcVIZ40ACq6zzCSwF0aN`
+Snapshot ID: `AbdpfgAAAADG3lWrW+tEk8I0kavs0I/7`

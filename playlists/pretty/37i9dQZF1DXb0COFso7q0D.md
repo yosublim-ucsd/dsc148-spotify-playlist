@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras powered by  <a href="spotify:genre:0JQ5DAqbMKFJ1bGfuFbFuR">La Tierra de Música Mexicana</a> \.  Cover: Oscar Maydon & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,340,288 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,340,520 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

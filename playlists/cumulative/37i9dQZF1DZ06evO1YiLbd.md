@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-139 songs - 6 hr 23 min
+140 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Rody's Heart](https://open.spotify.com/track/2RsFq9HSoesTiuEVArS1sN) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 2:10 | 2023-02-12 | 2023-02-23 |
 | [SHAMAN KING FLOWERS](https://open.spotify.com/track/4XHB00UOLfZUiH6kePlHyi) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [赤坂陽月](https://open.spotify.com/artist/1QY9EmQ6dkc7QBQ87upBhl) | [「SHAMAN KING FLOWERS」ORIGINAL SOUNDTRACK VOL.1](https://open.spotify.com/album/4fLcbSdqzcV2E0XHFH0Rrg) | 3:50 | 2024-03-07 | 2024-04-05 |
 | [Shutter Speed, Aperture, ISO](https://open.spotify.com/track/7LbFveevqPd2Vele8E6aQG) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:53 | 2023-06-22 | 2023-09-13 |
+| [Sword of Courage](https://open.spotify.com/track/3WfVVKF0evK1vkfNj3oEEd) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録](https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ) | 4:02 | 2024-10-02 |  |
 | [The Demon Lord](https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Pre\-Release Soundtrack\)](https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy) | 3:10 | 2024-07-22 |  |
 | [The Force of All For One](https://open.spotify.com/track/4QWMaW2NDLjREyxZa6qDGY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:53 | 2022-12-23 |  |
 | [The Last Wielder](https://open.spotify.com/track/391YmNKpOcOx5BQvAVBga4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:17 | 2023-03-24 | 2023-06-16 |

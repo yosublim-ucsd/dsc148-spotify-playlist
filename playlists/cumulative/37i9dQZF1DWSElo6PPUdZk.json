@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "Dhola",
+        "url": "https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "Dhola",
+      "url": "https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1"
+    },
+    {
+      "album": {
         "name": "Dil Te",
         "url": "https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco"
       },
@@ -522,6 +544,32 @@
       "duration_ms": 149000,
       "name": "Doubts",
       "url": "https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a"
+    },
+    {
+      "album": {
+        "name": "Duhai",
+        "url": "https://open.spotify.com/album/2kFyyT7zmjKzX9YlSzM7nn"
+      },
+      "artists": [
+        {
+          "name": "Simar Sethi",
+          "url": "https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Kala Nizampuri",
+          "url": "https://open.spotify.com/artist/3xIfVA4SJfOhSAE615HStb"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205048,
+      "name": "Duhai",
+      "url": "https://open.spotify.com/track/6ETXqHQspCg58MedFnCnSi"
     },
     {
       "album": {
@@ -1106,7 +1154,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 215333,
       "name": "Ki Karde Je",
       "url": "https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz"
@@ -1132,6 +1180,24 @@
       "duration_ms": 187764,
       "name": "Kinna Pyar Karan",
       "url": "https://open.spotify.com/track/5k1zCA31FEQ62FrnV9RHIW"
+    },
+    {
+      "album": {
+        "name": "Kismat",
+        "url": "https://open.spotify.com/album/0o5lFAGhdz8lml9kqGqdoF"
+      },
+      "artists": [
+        {
+          "name": "Sona Walia",
+          "url": "https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236547,
+      "name": "Kismat",
+      "url": "https://open.spotify.com/track/23Om54rdyag2vKlK4pz07f"
     },
     {
       "album": {
@@ -1668,7 +1734,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170602,
       "name": "Pasand",
       "url": "https://open.spotify.com/track/6spnRIONdFbgl4NsBccGKO"
@@ -2036,7 +2102,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 212000,
       "name": "Supna Laavan Da",
       "url": "https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM"

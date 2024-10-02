@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Owen Riegling",
-  "num_followers": 64498,
+  "num_followers": 64518,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Tequila or Whiskey",
-        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 133695,
-      "name": "Tequila or Whiskey",
-      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Tequila or Whiskey",
+        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 133695,
+      "name": "Tequila or Whiskey",
+      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Bitter Winds",
-        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 261294,
-      "name": "Bitter Winds",
-      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "What Kind of Song",
         "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 243133,
       "name": "What Kind of Song",
       "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Bitter Winds",
+        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 261294,
+      "name": "Bitter Winds",
+      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Devil's Wine",
         "url": "https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 196637,
       "name": "Devil's Wine feat. Joe Newton",
       "url": "https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Concrete And Barbed Wire",
-        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "Concrete And Barbed Wire",
-      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Our Time In The Sun",
-        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Our Time In The Sun",
-      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/7E0FlADizNo6U4aALWAi7P"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 215661,
       "name": "Mountain Road",
       "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 180475,
+      "name": "Our Time In The Sun",
+      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Concrete And Barbed Wire",
+        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Concrete And Barbed Wire",
+      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
     },
     {
       "added_at": "2024-09-27 04:00:00",

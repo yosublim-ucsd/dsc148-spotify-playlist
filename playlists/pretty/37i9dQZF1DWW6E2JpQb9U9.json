@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 115589,
+  "num_followers": 115612,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
         "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 245699,
       "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Los Ni\u00f1os del Amanecer - En Vivo",
-        "url": "https://open.spotify.com/album/4Q2rTG3A9Ip34SokTw0mJA"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 399790,
-      "name": "Los Ni\u00f1os del Amanecer - En Vivo",
-      "url": "https://open.spotify.com/track/3XsUhshbLYMGz1A4MpPwkA"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Los Ni\u00f1os del Amanecer - En Vivo",
+        "url": "https://open.spotify.com/album/4Q2rTG3A9Ip34SokTw0mJA"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 399790,
+      "name": "Los Ni\u00f1os del Amanecer - En Vivo",
+      "url": "https://open.spotify.com/track/3XsUhshbLYMGz1A4MpPwkA"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Fabi\u00e1n Von Quintiero",
+          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
+        }
+      ],
+      "duration_ms": 298263,
+      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        },
-        {
-          "name": "Fabi\u00e1n Von Quintiero",
-          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
-        }
-      ],
-      "duration_ms": 298263,
-      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 346986,
       "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "14 de Julio (En Vivo)",
-        "url": "https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn"
-      },
-      "artists": [
-        {
-          "name": "Trotsky Vengar\u00e1n",
-          "url": "https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk"
-        },
-        {
-          "name": "Gabriel Peluffo",
-          "url": "https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6"
-        }
-      ],
-      "duration_ms": 217403,
-      "name": "14 de Julio - En Vivo",
-      "url": "https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "14 de Julio (En Vivo)",
+        "url": "https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn"
+      },
+      "artists": [
+        {
+          "name": "Trotsky Vengar\u00e1n",
+          "url": "https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk"
+        },
+        {
+          "name": "Gabriel Peluffo",
+          "url": "https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6"
+        }
+      ],
+      "duration_ms": 217403,
+      "name": "14 de Julio - En Vivo",
+      "url": "https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0"
     },
     {
       "added_at": "2024-09-13 03:00:00",

@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "En las cuevas",
+        "url": "https://open.spotify.com/album/52iNXS6WdhkgY3zErTiL0V"
+      },
+      "artists": [
+        {
+          "name": "Hudson Rull",
+          "url": "https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146283,
+      "name": "En las cuevas",
+      "url": "https://open.spotify.com/track/3aGrQQSWIje187XqHwvrIw"
+    },
+    {
+      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/09cW79JXOPShafrskPjFxK"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 145317,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 180889,
       "name": "Hopelessly in Love",
       "url": "https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 150521,
       "name": "immaginiamo (Whatever we imagine)",
       "url": "https://open.spotify.com/track/5jWtDmmaeWplwwR3xVG3EE"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 183250,
       "name": "In The Mood For Dreaming",
       "url": "https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 152990,
       "name": "Innamorarsi",
       "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
@@ -1692,6 +1710,24 @@
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
+    },
+    {
+      "album": {
+        "name": "le voyageur",
+        "url": "https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "le voyageur",
+      "url": "https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV"
     },
     {
       "album": {
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 167142,
       "name": "Lumi\u00e8re Du Matin",
       "url": "https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5"
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
@@ -2452,7 +2488,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 141775,
       "name": "Sagesse en Amour",
       "url": "https://open.spotify.com/track/7MJcTb10o1gms7Gr641tj7"
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 212374,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
@@ -2834,7 +2870,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 189500,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/2uB8FHqxIKWIwxhF6PbKJQ"
@@ -2870,7 +2906,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 143371,
       "name": "The Everglowing Sea",
       "url": "https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5"
@@ -3104,7 +3140,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 138618,
       "name": "Tread Softly",
       "url": "https://open.spotify.com/track/03P8X4jeamfDN208vUJK8k"
@@ -3212,7 +3248,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 127303,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"

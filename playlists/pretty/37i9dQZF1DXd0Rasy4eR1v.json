@@ -1,107 +1,535 @@
 {
-  "description": "Freshest Pakistani discoveries. Cover - Indiedanish",
-  "num_followers": 8681,
+  "description": "Editor's picks of freshest Pakistani discoveries you have not heard before. Cover: Ali Raza, AliSoomroMusic",
+  "num_followers": 8712,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuKCZgAAAABl+SHZxNjrBYH70rn1Smx8",
+  "snapshot_id": "ZvvVuAAAAABAe+G/wcNr72HZYlbrn2dF",
   "tracks": [
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Kadi Kadi",
-        "url": "https://open.spotify.com/album/6GUKecLQQ6bflSmP7nKNsS"
+        "name": "WAIT4U",
+        "url": "https://open.spotify.com/album/3xu1ZXOHH3PCdtwq1LYHTH"
       },
       "artists": [
         {
-          "name": "Ali Mustafa",
-          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW"
         },
         {
-          "name": "Indiedanish",
-          "url": "https://open.spotify.com/artist/5lUo8Dl9AEOYsPfvHhSCnI"
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "duration_ms": 179624,
+      "name": "WAIT4U",
+      "url": "https://open.spotify.com/track/4kAYBhuYdqtzQNcHgrVWfc"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "okay",
+        "url": "https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ"
+      },
+      "artists": [
+        {
+          "name": "Hatim",
+          "url": "https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "okay",
+      "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Baby Do You Know",
+        "url": "https://open.spotify.com/album/1svIwOhrD69f9sBLm1UoMc"
+      },
+      "artists": [
+        {
+          "name": "Sarmad Qadeer",
+          "url": "https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ"
         },
         {
-          "name": "Joshua Savio",
-          "url": "https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Kadi Kadi",
-      "url": "https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Silah",
-        "url": "https://open.spotify.com/album/4gHkDiXPtcYYP6dDOoYqce"
-      },
-      "artists": [
-        {
-          "name": "Ammaz Ali",
-          "url": "https://open.spotify.com/artist/5synhhykBpEe8szX5xKScC"
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
         },
         {
-          "name": "Mahad Sheikh",
-          "url": "https://open.spotify.com/artist/2bsO6llLoRgLaJ1HkX7cdS"
+          "name": "Supernova Muzic",
+          "url": "https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp"
         }
       ],
-      "duration_ms": 192490,
-      "name": "Silah",
-      "url": "https://open.spotify.com/track/5y3Vx1M0lTD5HnJfiSP3EU"
+      "duration_ms": 159571,
+      "name": "Baby Do You Know",
+      "url": "https://open.spotify.com/track/46PwoVq3BBBGq8I5vlnL6O"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Teri Muskurahat",
-        "url": "https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ"
+        "name": "Can't Take It",
+        "url": "https://open.spotify.com/album/4GWXlFFyLTbPBo2LOey8Hw"
       },
       "artists": [
         {
-          "name": "Ch Azan Ahmad",
-          "url": "https://open.spotify.com/artist/0Sg9mWWjJEv4btRVUa98FW"
+          "name": "Eman Pirzada",
+          "url": "https://open.spotify.com/artist/3v3BGQ7qgt24fIBpWHc3jX"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Teri Muskurahat",
-      "url": "https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ"
+      "duration_ms": 216486,
+      "name": "Can't Take It",
+      "url": "https://open.spotify.com/track/1XwOrMhdZfjfm0WgYBom6I"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "JANAB",
-        "url": "https://open.spotify.com/album/4SzwzHEyScXJN2AAwSSNUn"
+        "name": "AKH KASHNI",
+        "url": "https://open.spotify.com/album/212A0XvLgAoAqVxKGGGb8i"
       },
       "artists": [
         {
-          "name": "Numan Ahmed",
-          "url": "https://open.spotify.com/artist/39PADEbNWbCf6hPIXu1BJz"
+          "name": "Abby",
+          "url": "https://open.spotify.com/artist/7ceIXjxK9qglSC6ck8uluq"
+        },
+        {
+          "name": "Buzz Records",
+          "url": "https://open.spotify.com/artist/5ORJ4Z5Yp2Wo5fkkgw7LwF"
         }
       ],
-      "duration_ms": 187200,
-      "name": "JANAB",
-      "url": "https://open.spotify.com/track/32bpdtJ9zVmh2YZPvFbHXB"
+      "duration_ms": 112941,
+      "name": "AKH KASHNI",
+      "url": "https://open.spotify.com/track/1ZU8RdBDrMNvqYSYrQeEAs"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Halaat",
-        "url": "https://open.spotify.com/album/25or8vfKVWttGW0rwl5JNB"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6FHlVxKmN3GdhH5uPFgZ2e"
       },
       "artists": [
         {
-          "name": "Anonymoux",
-          "url": "https://open.spotify.com/artist/4HBodn8r0T8FcmBjubMDsM"
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Laiba Khurram",
+          "url": "https://open.spotify.com/artist/6kZAZpYJwnwpVF5R9nDTyz"
         }
       ],
-      "duration_ms": 174750,
-      "name": "Halaat",
-      "url": "https://open.spotify.com/track/74aL570BOUjAtuFtOEWfeh"
+      "duration_ms": 166200,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Andaz E Karam",
+        "url": "https://open.spotify.com/album/0GKiJHE5yAM4UUoILWLWZm"
+      },
+      "artists": [
+        {
+          "name": "Farasat Anees",
+          "url": "https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Andaz E Karam",
+      "url": "https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "STARGO TOR",
+        "url": "https://open.spotify.com/album/74XkyRanNGj0TwsiTRtSBt"
+      },
+      "artists": [
+        {
+          "name": "Zahoor",
+          "url": "https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD"
+        },
+        {
+          "name": "Bilaal Avaz",
+          "url": "https://open.spotify.com/artist/78Vd3fFv8wCebUf1Bq5hwa"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "STARGO TOR",
+      "url": "https://open.spotify.com/track/5XbgKymthy6ZYHz2VqBYOL"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "A Tale Of Two Cities",
+        "url": "https://open.spotify.com/album/5KbTJAJHqeFDYksJc3xeqf"
+      },
+      "artists": [
+        {
+          "name": "Umer Anjum",
+          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
+        },
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "A Tale Of Two Cities",
+      "url": "https://open.spotify.com/track/4Lx7B7UdNmiqSK4ctVjBko"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Bhuladay",
+        "url": "https://open.spotify.com/album/4zFBlwlxhKTRJJe5QyW1JL"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akhund",
+          "url": "https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq"
+        }
+      ],
+      "duration_ms": 224890,
+      "name": "Bhuladay",
+      "url": "https://open.spotify.com/track/3kc9LG5neh1ReRDRdxJvqg"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "The Society",
+        "url": "https://open.spotify.com/album/2g82BXpjyn5u465sUa4vUA"
+      },
+      "artists": [
+        {
+          "name": "Blue Smoke Syndicate",
+          "url": "https://open.spotify.com/artist/7mKpC1qZLZjALGwwiJFOsj"
+        }
+      ],
+      "duration_ms": 176199,
+      "name": "The Society",
+      "url": "https://open.spotify.com/track/72tUsn1iclxqQgYUJ4OoN5"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Dard",
+        "url": "https://open.spotify.com/album/27jC6AXjZuXoP7YNTGXUqY"
+      },
+      "artists": [
+        {
+          "name": "Ali Alvi",
+          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
+        },
+        {
+          "name": "Rakae Jamil",
+          "url": "https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Dard",
+      "url": "https://open.spotify.com/track/0vu1DU9N9OKavM3ujiU2gD"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/0yVIrFJPyE7OEBOAiJGhoP"
+      },
+      "artists": [
+        {
+          "name": "Adnan Ali",
+          "url": "https://open.spotify.com/artist/0iFTgkSjp5WBTbElQqgjXg"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/3VtBF6CD0XUIu87CvSmZET"
+        }
+      ],
+      "duration_ms": 192110,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0TGJyTwCyP3sVp3jn7QmHd"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Gumaan",
+        "url": "https://open.spotify.com/album/1R15Z1gfE34BKL02IjdmgX"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "duration_ms": 226744,
+      "name": "Gumaan",
+      "url": "https://open.spotify.com/track/0xdggw3QVLSqo5BgVqAVFI"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Lafz",
+        "url": "https://open.spotify.com/album/7jsNoiBRIVfeZjP9ft0AEI"
+      },
+      "artists": [
+        {
+          "name": "Adnan Ali",
+          "url": "https://open.spotify.com/artist/0iFTgkSjp5WBTbElQqgjXg"
+        },
+        {
+          "name": "Z4NE",
+          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
+        }
+      ],
+      "duration_ms": 178794,
+      "name": "Lafz",
+      "url": "https://open.spotify.com/track/5r7Wg0VNnHRuofYSUzMaoW"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "On This Side",
+        "url": "https://open.spotify.com/album/3G7wnVXClObr3WDAORrGBP"
+      },
+      "artists": [
+        {
+          "name": "shanks.",
+          "url": "https://open.spotify.com/artist/1BTAhC64HQDSnoGBybe2rC"
+        },
+        {
+          "name": "Ramees",
+          "url": "https://open.spotify.com/artist/0Y3hNjXiFT4AaOaDTvBsgd"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "duration_ms": 192072,
+      "name": "On This Side",
+      "url": "https://open.spotify.com/track/55Bvp8eox5o1uf80afxU3B"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Dil Ki Baatein",
+        "url": "https://open.spotify.com/album/3M3Pe6Fyhq8ENAmjaRri9g"
+      },
+      "artists": [
+        {
+          "name": "Daniyaal Omar",
+          "url": "https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "duration_ms": 152164,
+      "name": "Dil Ki Baatein",
+      "url": "https://open.spotify.com/track/3OwQqlEL3Q6JJh7WjzIQgN"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Maza",
+        "url": "https://open.spotify.com/album/5GS3OAAeAp0DA60rDuR7j7"
+      },
+      "artists": [
+        {
+          "name": "Amna Askari",
+          "url": "https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh"
+        }
+      ],
+      "duration_ms": 145423,
+      "name": "Maza",
+      "url": "https://open.spotify.com/track/78lG0FHBXVCc86Uaj8djb6"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/3oybMQFeAbtWb46jITrLzI"
+      },
+      "artists": [
+        {
+          "name": "DJ Ghasuray",
+          "url": "https://open.spotify.com/artist/365P0mrMcqFBkOCeutU6wl"
+        },
+        {
+          "name": "Ali Muhammad",
+          "url": "https://open.spotify.com/artist/0POHSy3qSHqd2VcXB8uqY1"
+        }
+      ],
+      "duration_ms": 245517,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/04sLEAGtV57PwAAi1IxVqF"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Urdh Chali",
+        "url": "https://open.spotify.com/album/6tAiB0ExMJxzIKdKucNruu"
+      },
+      "artists": [
+        {
+          "name": "Natasha Humera Ejaz",
+          "url": "https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp"
+        },
+        {
+          "name": "Naveed Nashad",
+          "url": "https://open.spotify.com/artist/22fO3UH96rJbcBGI0YN7Ue"
+        },
+        {
+          "name": "Foeseal",
+          "url": "https://open.spotify.com/artist/43lORWKm8crLlFQiQenEoJ"
+        },
+        {
+          "name": "Nimra Gilani",
+          "url": "https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD"
+        }
+      ],
+      "duration_ms": 202222,
+      "name": "Urdh Chali",
+      "url": "https://open.spotify.com/track/015M9PA6UCPjUK7SFTQGPr"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/4tB88mTRB8JM8YgNImNXhI"
+      },
+      "artists": [
+        {
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/2jBLgixVIe3718HCpO4kE0"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "26",
+      "url": "https://open.spotify.com/track/37HOIHwtaQRAIkLGct4Qg2"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Bechara",
+        "url": "https://open.spotify.com/album/7BYIBvze1oYaOw235A6ExC"
+      },
+      "artists": [
+        {
+          "name": "Shabi",
+          "url": "https://open.spotify.com/artist/2qw1k9QmIsWQ46Fds3Hmuh"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Bechara",
+      "url": "https://open.spotify.com/track/2opFSaUlno7TPxiUXSmfGH"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Laapata",
+        "url": "https://open.spotify.com/album/0CZsTH22cpfksj5bHmBbTx"
+      },
+      "artists": [
+        {
+          "name": "Dynaxty",
+          "url": "https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco"
+        },
+        {
+          "name": "Prod By Momin",
+          "url": "https://open.spotify.com/artist/4a3fZpl1sbHfaO29llsBYz"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Laapata",
+      "url": "https://open.spotify.com/track/2nsI9faQsGboqRRlw76lex"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Raabte",
+        "url": "https://open.spotify.com/album/2T7PrNAzsDQirawe8CVokc"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "duration_ms": 231041,
+      "name": "Raabte",
+      "url": "https://open.spotify.com/track/4CzE4GrlLi3VYTAbGQhhM4"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Sheesha",
+        "url": "https://open.spotify.com/album/0K65XKaIUZSYbBqAPIyhlK"
+      },
+      "artists": [
+        {
+          "name": "Muheet Khan",
+          "url": "https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9"
+        },
+        {
+          "name": "Illuminhadi",
+          "url": "https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf"
+        }
+      ],
+      "duration_ms": 171107,
+      "name": "Sheesha",
+      "url": "https://open.spotify.com/track/3ENvxpQf78f8fK7YvWzSco"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "common illness",
+        "url": "https://open.spotify.com/album/4EmGdQ2AGNhbVNYDoq7Qn7"
+      },
+      "artists": [
+        {
+          "name": "bitrees",
+          "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "thori si duniya",
+      "url": "https://open.spotify.com/track/2tv9GR5Btui0ffhGvt1WmW"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Nasli Hip Hop",
+        "url": "https://open.spotify.com/album/33ivqN592Yu5tdGgVyj7U1"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/3VtBF6CD0XUIu87CvSmZET"
+        },
+        {
+          "name": "Z4NE",
+          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
+        }
+      ],
+      "duration_ms": 209541,
+      "name": "Nasli Hip Hop",
+      "url": "https://open.spotify.com/track/6Cf1EKIMrVDBkjso0HqhiL"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "political pollution",
         "url": "https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU"
@@ -112,184 +540,48 @@
           "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
         }
       ],
-      "duration_ms": 159000,
-      "name": "officer",
-      "url": "https://open.spotify.com/track/0cS1lDeeNPeOnN04HwNLbP"
+      "duration_ms": 147000,
+      "name": "chaar din",
+      "url": "https://open.spotify.com/track/5dS4MpBlfhGzlGCG44khTj"
     },
     {
-      "added_at": "2024-09-12 05:55:50",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/3Id1NzsQpNd3FjvIeJbLPS"
+        "name": "Taras",
+        "url": "https://open.spotify.com/album/6JHcBSeikADiPIYNnmKnGo"
       },
       "artists": [
         {
-          "name": "Shareh",
-          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+          "name": "Emira Mir",
+          "url": "https://open.spotify.com/artist/21LZ9LvFeqYYoZKGGt6VRv"
+        }
+      ],
+      "duration_ms": 210289,
+      "name": "Taras",
+      "url": "https://open.spotify.com/track/41Yk3zyCwtsQbaeRPVccgU"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Khuaab",
+        "url": "https://open.spotify.com/album/511f96n5mUoxqAIb4fTDrQ"
+      },
+      "artists": [
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
         },
         {
-          "name": "superdupersultan",
-          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5GEbnAn1xQbZTOBNzyUiGJ"
+      "duration_ms": 181554,
+      "name": "Khuaab",
+      "url": "https://open.spotify.com/track/4wjgGU8uKzRzvOSq05xH8U"
     },
     {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Stash",
-        "url": "https://open.spotify.com/album/6cWYaBTYTRlmZzVKZklfD7"
-      },
-      "artists": [
-        {
-          "name": "Billy X",
-          "url": "https://open.spotify.com/artist/2BCblNa3Ws0JHIyTQAE3Sy"
-        }
-      ],
-      "duration_ms": 178049,
-      "name": "Stash",
-      "url": "https://open.spotify.com/track/2h9wqTSF1QRSD6L48Q4fJa"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/78ojKhpjH5LNqUcJcYiPiM"
-      },
-      "artists": [
-        {
-          "name": "Raafay Israr",
-          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0BbbAbw9ISKQuELWzKI22B"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Raw Cuts & Scratches",
-        "url": "https://open.spotify.com/album/01mkt3BrHw4noVLCskxPHY"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/3VtBF6CD0XUIu87CvSmZET"
-        },
-        {
-          "name": "Z4NE",
-          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
-        },
-        {
-          "name": "Umer Anjum",
-          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
-        }
-      ],
-      "duration_ms": 158328,
-      "name": "Scene Run",
-      "url": "https://open.spotify.com/track/4rHkRdGZYtp84Ogd2uTjCc"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Bad Examples",
-        "url": "https://open.spotify.com/album/47NRamD9OpfX4WvwEumtAc"
-      },
-      "artists": [
-        {
-          "name": "Umer Anjum",
-          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
-        },
-        {
-          "name": "Jokhay",
-          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "Welcome To The Good Days",
-      "url": "https://open.spotify.com/track/4j1j01DFAZVRrgX4UxzLzt"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Lapata",
-        "url": "https://open.spotify.com/album/59SMOfZMJW5PwTb9RZ73iq"
-      },
-      "artists": [
-        {
-          "name": "Babar Mangi",
-          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
-        },
-        {
-          "name": "Amjad Mirani",
-          "url": "https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu"
-        },
-        {
-          "name": "Kaashi Haider",
-          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Lapata",
-      "url": "https://open.spotify.com/track/7vuXRtCWnr0mXWVuS0Si3T"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Faasley",
-        "url": "https://open.spotify.com/album/5WUkYLdVUFljRP9ReHHprm"
-      },
-      "artists": [
-        {
-          "name": "Essa Barlas",
-          "url": "https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Faasley",
-      "url": "https://open.spotify.com/track/30K7OCqhAQWUM3xdIbb0Sy"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Jhoota Saala",
-        "url": "https://open.spotify.com/album/5mbPFKLs88JkduzdBZntOg"
-      },
-      "artists": [
-        {
-          "name": "Omar Mukhtar",
-          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
-        }
-      ],
-      "duration_ms": 167938,
-      "name": "Jhoota Saala",
-      "url": "https://open.spotify.com/track/4wktM4ysPIX7uWaCWCUnCf"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6fMezvxHyVFVvvwAaeVAND"
-      },
-      "artists": [
-        {
-          "name": "Pasha G",
-          "url": "https://open.spotify.com/artist/3a4JFzR5wlAFnJ2ClC8VPi"
-        },
-        {
-          "name": "AliSoomroMusic",
-          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/0E6uCcaspmtbS8GQu0Fa62"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "echoes of us",
         "url": "https://open.spotify.com/album/1pCoejoGcsv8wM6rUMsP6T"
@@ -309,27 +601,7 @@
       "url": "https://open.spotify.com/track/3RyyouypVpQpTeBVK1Q32r"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Khudi",
-        "url": "https://open.spotify.com/album/5FbE8wH5CQLlrHKh1aBaQ1"
-      },
-      "artists": [
-        {
-          "name": "Sameen Khawaja",
-          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
-        },
-        {
-          "name": "Ali Mustafa",
-          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "Khudi",
-      "url": "https://open.spotify.com/track/1oPPo0iInHz6DPp0ET9VYF"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Soch Le",
         "url": "https://open.spotify.com/album/0kAHa3ujohT9HqMTasmzzg"
@@ -349,51 +621,151 @@
       "url": "https://open.spotify.com/track/1GRYbdL9yTKB3rsmVnsqww"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Arz e Dil",
-        "url": "https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9"
+        "name": "I\u2019m Alright",
+        "url": "https://open.spotify.com/album/6eV5GkoUp9kyww94rrmJmK"
       },
       "artists": [
         {
-          "name": "Nikhil Iyer",
-          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+          "name": "Aizaz Ahmad",
+          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
         },
         {
-          "name": "Nirmal Roy",
-          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+          "name": "Ali Qasim",
+          "url": "https://open.spotify.com/artist/40cSxs10kIOMW69iQu1W1x"
         }
       ],
-      "duration_ms": 215357,
-      "name": "Arz e Dil",
-      "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
+      "duration_ms": 136363,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/5t6eaUFWlmG6fpXNLfoVfs"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Tu Aja",
-        "url": "https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey"
+        "name": "political pollution",
+        "url": "https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU"
       },
       "artists": [
         {
-          "name": "Masood Bukhari",
-          "url": "https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK"
-        },
-        {
-          "name": "Zaphixx",
-          "url": "https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m"
-        },
-        {
-          "name": "Muhammad Ali",
-          "url": "https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX"
+          "name": "bitrees",
+          "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
         }
       ],
-      "duration_ms": 135323,
-      "name": "Tu Aja",
-      "url": "https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm"
+      "duration_ms": 146400,
+      "name": "babu",
+      "url": "https://open.spotify.com/track/35E2OUOy1POX7TlpujvSNB"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Nishaani",
+        "url": "https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2"
+      },
+      "artists": [
+        {
+          "name": "Aqdas Asif",
+          "url": "https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR"
+        },
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        }
+      ],
+      "duration_ms": 187846,
+      "name": "Nishaani",
+      "url": "https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Meri Jana",
+        "url": "https://open.spotify.com/album/38Qk3pceWqVxEAKiHNhr8u"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Khan",
+          "url": "https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Meri Jana",
+      "url": "https://open.spotify.com/track/7ftINRJt24CLwaTB9MZ6lq"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Dooriyan",
+        "url": "https://open.spotify.com/album/5AclH8xkcEf3es4N9c5uun"
+      },
+      "artists": [
+        {
+          "name": "SEHER",
+          "url": "https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK"
+        }
+      ],
+      "duration_ms": 188111,
+      "name": "Dooriyan",
+      "url": "https://open.spotify.com/track/2Zp5nLl5jULzI53i9X893F"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Parwaah",
+        "url": "https://open.spotify.com/album/3FMVR3rWT0bqQV7nBtgBWl"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "duration_ms": 206446,
+      "name": "Parwaah",
+      "url": "https://open.spotify.com/track/6gKJGGdSdplnQMztBCCpnR"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Tera He",
+        "url": "https://open.spotify.com/album/5KtrNxdzIqQajheVrVCmDn"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Tera He",
+      "url": "https://open.spotify.com/track/29e40jsIZoGF6Z5xaTrL44"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Dhanak",
+        "url": "https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "Dhanak",
+      "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Ghar Aaja",
         "url": "https://open.spotify.com/album/7ibklgEhJViJluaWCWPOIg"
@@ -417,43 +789,7 @@
       "url": "https://open.spotify.com/track/067YSOlyXIegM18n2wTeKV"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "EGOISTIC",
-        "url": "https://open.spotify.com/album/25vH5hptp68W1wBzdNVWhA"
-      },
-      "artists": [
-        {
-          "name": "Arham Chaudhry",
-          "url": "https://open.spotify.com/artist/3Y2e3ncv5CN6yiSFtzYbcQ"
-        }
-      ],
-      "duration_ms": 147749,
-      "name": "EGOISTIC",
-      "url": "https://open.spotify.com/track/20Whh0LR8q5L8mz4FCeMVR"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Nasli Hip Hop",
-        "url": "https://open.spotify.com/album/33ivqN592Yu5tdGgVyj7U1"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/3VtBF6CD0XUIu87CvSmZET"
-        },
-        {
-          "name": "Z4NE",
-          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
-        }
-      ],
-      "duration_ms": 209541,
-      "name": "Nasli Hip Hop",
-      "url": "https://open.spotify.com/track/6Cf1EKIMrVDBkjso0HqhiL"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Hasrat",
         "url": "https://open.spotify.com/album/3rqciCsdHEau3b4ad0dCgh"
@@ -477,211 +813,115 @@
       "url": "https://open.spotify.com/track/7q3LVwL5p3kG5QX6pVALUm"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "heart $ick",
-        "url": "https://open.spotify.com/album/61XcYeNagkEkriEobvIN0t"
+        "name": "Paas",
+        "url": "https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb"
       },
       "artists": [
         {
-          "name": "Shareh",
-          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+          "name": "Marshall Ahmad",
+          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
         },
         {
-          "name": "superdupersultan",
-          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+          "name": "BAIG",
+          "url": "https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ"
         }
       ],
-      "duration_ms": 142450,
-      "name": "heart $ick",
-      "url": "https://open.spotify.com/track/4HqTwljlZlbHb3BNb2BkBi"
+      "duration_ms": 160000,
+      "name": "Paas",
+      "url": "https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "K-TOWN ANTFW",
-        "url": "https://open.spotify.com/album/17Rx93itVV4jjHAzQmCUtz"
+        "name": "Ishq Ibaadat",
+        "url": "https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC"
       },
       "artists": [
         {
-          "name": "Rawblotter",
-          "url": "https://open.spotify.com/artist/6DYVdkoOpNCTLNiSsuwLSG"
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
         },
         {
-          "name": "superdupersultan",
-          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
         }
       ],
-      "duration_ms": 163636,
-      "name": "K-TOWN ANTFW",
-      "url": "https://open.spotify.com/track/49mEitp2khaaR0jbd78Jpw"
+      "duration_ms": 161773,
+      "name": "Ishq Ibaadat",
+      "url": "https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Cosmic Love",
-        "url": "https://open.spotify.com/album/0n8stewHyrT2hcW5eJ8C18"
+        "name": "Maan Lo",
+        "url": "https://open.spotify.com/album/3QegCkvuZNppULPivxcr6x"
       },
       "artists": [
         {
-          "name": "TALKsick",
-          "url": "https://open.spotify.com/artist/6B035jH37tg6wkDq8WHCvg"
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        }
+      ],
+      "duration_ms": 148834,
+      "name": "Maan Lo",
+      "url": "https://open.spotify.com/track/5LenCWHfOGEcDv3XOYWvv9"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Raatain",
+        "url": "https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Ali",
+          "url": "https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x"
+        }
+      ],
+      "duration_ms": 126193,
+      "name": "Raatain",
+      "url": "https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Yaadein Teri",
+        "url": "https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8"
+      },
+      "artists": [
+        {
+          "name": "Mubeen Butt",
+          "url": "https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF"
+        }
+      ],
+      "duration_ms": 244862,
+      "name": "Yaadein Teri",
+      "url": "https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Khudi",
+        "url": "https://open.spotify.com/album/5FbE8wH5CQLlrHKh1aBaQ1"
+      },
+      "artists": [
+        {
+          "name": "Sameen Khawaja",
+          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
         },
         {
-          "name": "JANI",
-          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
-        },
-        {
-          "name": "Azlan109",
-          "url": "https://open.spotify.com/artist/6qGMIu6qhWLopGG0eFmI9a"
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
         }
       ],
-      "duration_ms": 185810,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/6WZIi78MVe7k78C6rKzIia"
+      "duration_ms": 206060,
+      "name": "Khudi",
+      "url": "https://open.spotify.com/track/1oPPo0iInHz6DPp0ET9VYF"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "No Tension Zone",
-        "url": "https://open.spotify.com/album/0G4Iw4h5Nsy9mV8dR19YLH"
-      },
-      "artists": [
-        {
-          "name": "Hashky",
-          "url": "https://open.spotify.com/artist/30elHElKTdECsqr0ODJBFR"
-        },
-        {
-          "name": "ITS Simar",
-          "url": "https://open.spotify.com/artist/2bGQrxPJiXRsqww7zKHnAf"
-        }
-      ],
-      "duration_ms": 150965,
-      "name": "No Tension Zone",
-      "url": "https://open.spotify.com/track/7DdYltzVGIUrUzYjXK34hW"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "political pollution",
-        "url": "https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU"
-      },
-      "artists": [
-        {
-          "name": "bitrees",
-          "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "chaar din",
-      "url": "https://open.spotify.com/track/5dS4MpBlfhGzlGCG44khTj"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "I\u2019m Alright",
-        "url": "https://open.spotify.com/album/6eV5GkoUp9kyww94rrmJmK"
-      },
-      "artists": [
-        {
-          "name": "Aizaz Ahmad",
-          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
-        },
-        {
-          "name": "Ali Qasim",
-          "url": "https://open.spotify.com/artist/40cSxs10kIOMW69iQu1W1x"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/5t6eaUFWlmG6fpXNLfoVfs"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "political pollution",
-        "url": "https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU"
-      },
-      "artists": [
-        {
-          "name": "bitrees",
-          "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "babu",
-      "url": "https://open.spotify.com/track/35E2OUOy1POX7TlpujvSNB"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "okay",
-        "url": "https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ"
-      },
-      "artists": [
-        {
-          "name": "Hatim",
-          "url": "https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "okay",
-      "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Nishaani",
-        "url": "https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2"
-      },
-      "artists": [
-        {
-          "name": "Aqdas Asif",
-          "url": "https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR"
-        },
-        {
-          "name": "danish roomi",
-          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
-        }
-      ],
-      "duration_ms": 187846,
-      "name": "Nishaani",
-      "url": "https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Unapologetic",
-        "url": "https://open.spotify.com/album/1rocZcmlehL2i0tlh6IERD"
-      },
-      "artists": [
-        {
-          "name": "Zaira Ali",
-          "url": "https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6"
-        }
-      ],
-      "duration_ms": 224017,
-      "name": "Unapologetic",
-      "url": "https://open.spotify.com/track/1viQyM3abUTDVb7K7QuF8O"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Meri Jana",
-        "url": "https://open.spotify.com/album/38Qk3pceWqVxEAKiHNhr8u"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Khan",
-          "url": "https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Meri Jana",
-      "url": "https://open.spotify.com/track/7ftINRJt24CLwaTB9MZ6lq"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "BCKN4TH",
         "url": "https://open.spotify.com/album/3u04VX3DWvLsEwKPo0pwYh"
@@ -705,199 +945,7 @@
       "url": "https://open.spotify.com/track/46grFgVVsRlpOFoDTsrabB"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Wasta",
-        "url": "https://open.spotify.com/album/3R6w6xyssAKl3MzOVNAbUZ"
-      },
-      "artists": [
-        {
-          "name": "Babar Mangi",
-          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
-        },
-        {
-          "name": "Arslan Shykh",
-          "url": "https://open.spotify.com/artist/7xxzZQYCRAhqTrfh9NmJPI"
-        },
-        {
-          "name": "Kaashi Haider",
-          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
-        }
-      ],
-      "duration_ms": 215862,
-      "name": "Wasta",
-      "url": "https://open.spotify.com/track/1sa4VjsTiP1B1JON8CvgUl"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "pancakes",
-        "url": "https://open.spotify.com/album/47H9i3reYIYbTaMRHkbxJq"
-      },
-      "artists": [
-        {
-          "name": "malick",
-          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
-        },
-        {
-          "name": "Huzaifa Yasir",
-          "url": "https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "pancakes",
-      "url": "https://open.spotify.com/track/7wNdTbtTSNEVPZNE5gcJAU"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Dooriyan",
-        "url": "https://open.spotify.com/album/5AclH8xkcEf3es4N9c5uun"
-      },
-      "artists": [
-        {
-          "name": "SEHER",
-          "url": "https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK"
-        }
-      ],
-      "duration_ms": 188111,
-      "name": "Dooriyan",
-      "url": "https://open.spotify.com/track/2Zp5nLl5jULzI53i9X893F"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Kamli",
-        "url": "https://open.spotify.com/album/7whqshrWRpD89eKzJx8dnU"
-      },
-      "artists": [
-        {
-          "name": "Ahsan Samraa",
-          "url": "https://open.spotify.com/artist/60AyZ7poR9Mj27ZtDEhqVV"
-        },
-        {
-          "name": "Beatsbykanwar",
-          "url": "https://open.spotify.com/artist/4NtATyMmXfykvzWyKtEOZH"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Kamli",
-      "url": "https://open.spotify.com/track/5wgaY24bpil186z4skJsWI"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Faasley",
-        "url": "https://open.spotify.com/album/0HthZKGQ3adVX0tonwgOEJ"
-      },
-      "artists": [
-        {
-          "name": "The Skinny guy",
-          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
-        },
-        {
-          "name": "Jayyke",
-          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
-        }
-      ],
-      "duration_ms": 229673,
-      "name": "Faasley",
-      "url": "https://open.spotify.com/track/2at6ZuQzPIp058oHDqRznT"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/6vKWjgUMdrKXR3ULMlWmxj"
-      },
-      "artists": [
-        {
-          "name": "malick",
-          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
-        },
-        {
-          "name": "Huzaifa Yasir",
-          "url": "https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/5Sb3Flioez2DSdAS60EBD9"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Taras",
-        "url": "https://open.spotify.com/album/6JHcBSeikADiPIYNnmKnGo"
-      },
-      "artists": [
-        {
-          "name": "Emira Mir",
-          "url": "https://open.spotify.com/artist/21LZ9LvFeqYYoZKGGt6VRv"
-        }
-      ],
-      "duration_ms": 210289,
-      "name": "Taras",
-      "url": "https://open.spotify.com/track/41Yk3zyCwtsQbaeRPVccgU"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "He Akhyun",
-        "url": "https://open.spotify.com/album/1gjqIDClmhXy6IYHIosEl1"
-      },
-      "artists": [
-        {
-          "name": "Kaashi Haider",
-          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
-        },
-        {
-          "name": "Amjad Mirani",
-          "url": "https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu"
-        },
-        {
-          "name": "Mahnoor Channa",
-          "url": "https://open.spotify.com/artist/3O9b891vTrJInjQsQisXyX"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "He Akhyun",
-      "url": "https://open.spotify.com/track/1i9HgHpt6sPCHXezFh4qc8"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Taarey",
-        "url": "https://open.spotify.com/album/0NsmGxKsu1wjhYCJHcbJq9"
-      },
-      "artists": [
-        {
-          "name": "Haadi Uppal",
-          "url": "https://open.spotify.com/artist/4VyjDb19fx3IhUB7rEYbM9"
-        }
-      ],
-      "duration_ms": 197268,
-      "name": "Taarey",
-      "url": "https://open.spotify.com/track/5R1KFsMRIodUuQA9Ed6Sdm"
-    },
-    {
-      "added_at": "2024-09-12 05:55:50",
-      "album": {
-        "name": "Jaan Meri",
-        "url": "https://open.spotify.com/album/459RlFSbuonkwqMyoa4OWF"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Zawar",
-          "url": "https://open.spotify.com/artist/2L4qELrDflJYHlRe9f6KbJ"
-        }
-      ],
-      "duration_ms": 160404,
-      "name": "Jaan Meri",
-      "url": "https://open.spotify.com/track/2ApxAy1MVKIiyHCUM6oBAD"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Forlorn Stories",
         "url": "https://open.spotify.com/album/5wuy7ubhb45rxQYVDeh1a8"
@@ -921,7 +969,7 @@
       "url": "https://open.spotify.com/track/4QEX0EzExFeZr5ui8Q9aJ6"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Tu Sath Chal",
         "url": "https://open.spotify.com/album/3HquJu2BLmOIvWzrnKAKfk"
@@ -945,27 +993,7 @@
       "url": "https://open.spotify.com/track/16DCjw2msVQUzSlbdSU033"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "On Mission",
-        "url": "https://open.spotify.com/album/7q67M8bx3gEpNMTjL0jZRL"
-      },
-      "artists": [
-        {
-          "name": "Yung Shaday",
-          "url": "https://open.spotify.com/artist/37uxYy1K8DSYnxvSWZPZpY"
-        },
-        {
-          "name": "Pius Arther",
-          "url": "https://open.spotify.com/artist/3vEbTcmXOBwR34FeJlmR4y"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "On Mission",
-      "url": "https://open.spotify.com/track/35R12XP7Eg0ywanskDpoVU"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Soniye",
         "url": "https://open.spotify.com/album/7GZRuBtq1HZyRUR3zr9fyo"
@@ -981,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2I6ujaosqdYmrDoAM7fc5T"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Alwida",
         "url": "https://open.spotify.com/album/1i8UpFX8iQ8QjUzV2icdCS"
@@ -1001,135 +1029,7 @@
       "url": "https://open.spotify.com/track/1h0CZs0va0t9shFDQYSqhf"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "CITYS ON FIRE",
-        "url": "https://open.spotify.com/album/4EabEX0NCoso5QyhvO56bC"
-      },
-      "artists": [
-        {
-          "name": "Haaezii",
-          "url": "https://open.spotify.com/artist/4lyNfSf1NYlkYCLSZKlgNR"
-        }
-      ],
-      "duration_ms": 185135,
-      "name": "CITYS ON FIRE",
-      "url": "https://open.spotify.com/track/6QIJb1TvLZ8wxCziqjH0YO"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Laapata",
-        "url": "https://open.spotify.com/album/0CZsTH22cpfksj5bHmBbTx"
-      },
-      "artists": [
-        {
-          "name": "Dynaxty",
-          "url": "https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco"
-        },
-        {
-          "name": "Prod By Momin",
-          "url": "https://open.spotify.com/artist/4a3fZpl1sbHfaO29llsBYz"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Laapata",
-      "url": "https://open.spotify.com/track/2nsI9faQsGboqRRlw76lex"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Rangrasiya",
-        "url": "https://open.spotify.com/album/3iwqspTZHMhQPy2z2weVvZ"
-      },
-      "artists": [
-        {
-          "name": "Nirmala Maghani",
-          "url": "https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Rangrasiya",
-      "url": "https://open.spotify.com/track/4QLIRTVyCqhUHJT8wl0gWk"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Je Pata Hunda",
-        "url": "https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc"
-      },
-      "artists": [
-        {
-          "name": "Nimra Mehra",
-          "url": "https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2"
-        }
-      ],
-      "duration_ms": 170777,
-      "name": "Je Pata Hunda",
-      "url": "https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Paas",
-        "url": "https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb"
-      },
-      "artists": [
-        {
-          "name": "Marshall Ahmad",
-          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
-        },
-        {
-          "name": "BAIG",
-          "url": "https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Paas",
-      "url": "https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Ishq Ibaadat",
-        "url": "https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC"
-      },
-      "artists": [
-        {
-          "name": "Ali Tariq",
-          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
-        },
-        {
-          "name": "Anmol Daniel",
-          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Ishq Ibaadat",
-      "url": "https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Parwaah",
-        "url": "https://open.spotify.com/album/3FMVR3rWT0bqQV7nBtgBWl"
-      },
-      "artists": [
-        {
-          "name": "Zeeshan Ali",
-          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
-        },
-        {
-          "name": "Anmol Daniel",
-          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
-        }
-      ],
-      "duration_ms": 206446,
-      "name": "Parwaah",
-      "url": "https://open.spotify.com/track/6gKJGGdSdplnQMztBCCpnR"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Callin",
         "url": "https://open.spotify.com/album/2nR8xPGuxPJocyIxyicBb3"
@@ -1149,199 +1049,7 @@
       "url": "https://open.spotify.com/track/7o2TnNkehiUrXYdCVpNxkw"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Khuaab",
-        "url": "https://open.spotify.com/album/511f96n5mUoxqAIb4fTDrQ"
-      },
-      "artists": [
-        {
-          "name": "Shahmeer Raza Khan",
-          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
-        },
-        {
-          "name": "Izzchughtai",
-          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
-        }
-      ],
-      "duration_ms": 181554,
-      "name": "Khuaab",
-      "url": "https://open.spotify.com/track/4wjgGU8uKzRzvOSq05xH8U"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Raabte",
-        "url": "https://open.spotify.com/album/2T7PrNAzsDQirawe8CVokc"
-      },
-      "artists": [
-        {
-          "name": "Ali Tariq",
-          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
-        }
-      ],
-      "duration_ms": 231041,
-      "name": "Raabte",
-      "url": "https://open.spotify.com/track/4CzE4GrlLi3VYTAbGQhhM4"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/2KuyT4q7FK11K6OqIhIWvn"
-      },
-      "artists": [
-        {
-          "name": "Raffey Anwar",
-          "url": "https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD"
-        },
-        {
-          "name": "Taimour Baig",
-          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/4K1XnpNeltlLMO85mtT6Yh"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Tera He",
-        "url": "https://open.spotify.com/album/5KtrNxdzIqQajheVrVCmDn"
-      },
-      "artists": [
-        {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
-        },
-        {
-          "name": "Izzchughtai",
-          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "Tera He",
-      "url": "https://open.spotify.com/track/29e40jsIZoGF6Z5xaTrL44"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Maan Lo",
-        "url": "https://open.spotify.com/album/3QegCkvuZNppULPivxcr6x"
-      },
-      "artists": [
-        {
-          "name": "Hamza Malik",
-          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
-        }
-      ],
-      "duration_ms": 148834,
-      "name": "Maan Lo",
-      "url": "https://open.spotify.com/track/5LenCWHfOGEcDv3XOYWvv9"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Dhanak",
-        "url": "https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8"
-      },
-      "artists": [
-        {
-          "name": "HYDR",
-          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
-        }
-      ],
-      "duration_ms": 159795,
-      "name": "Dhanak",
-      "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Raatain",
-        "url": "https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc"
-      },
-      "artists": [
-        {
-          "name": "Muhammad Ali",
-          "url": "https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x"
-        }
-      ],
-      "duration_ms": 126193,
-      "name": "Raatain",
-      "url": "https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Yaadein Teri",
-        "url": "https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8"
-      },
-      "artists": [
-        {
-          "name": "Mubeen Butt",
-          "url": "https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF"
-        }
-      ],
-      "duration_ms": 244862,
-      "name": "Yaadein Teri",
-      "url": "https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Sheesha",
-        "url": "https://open.spotify.com/album/0K65XKaIUZSYbBqAPIyhlK"
-      },
-      "artists": [
-        {
-          "name": "Muheet Khan",
-          "url": "https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9"
-        },
-        {
-          "name": "Illuminhadi",
-          "url": "https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf"
-        }
-      ],
-      "duration_ms": 171107,
-      "name": "Sheesha",
-      "url": "https://open.spotify.com/track/3ENvxpQf78f8fK7YvWzSco"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "common illness",
-        "url": "https://open.spotify.com/album/4EmGdQ2AGNhbVNYDoq7Qn7"
-      },
-      "artists": [
-        {
-          "name": "bitrees",
-          "url": "https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "thori si duniya",
-      "url": "https://open.spotify.com/track/2tv9GR5Btui0ffhGvt1WmW"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Ankhiyaan Da Tara",
-        "url": "https://open.spotify.com/album/6h4eNR3zaTBX8qtM9Wmt2M"
-      },
-      "artists": [
-        {
-          "name": "Sharib Ebad",
-          "url": "https://open.spotify.com/artist/2FeaUMKQXb23MvCmOGpFnu"
-        }
-      ],
-      "duration_ms": 215997,
-      "name": "Ankhiyaan Da Tara",
-      "url": "https://open.spotify.com/track/3BSmIkMUMUygY333eFAnql"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Out of Your Mind",
         "url": "https://open.spotify.com/album/3PBln2wFFoVudTcWu3TQLz"
@@ -1361,7 +1069,443 @@
       "url": "https://open.spotify.com/track/3H5diXlsQsH8bgkZMGcfCJ"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Arz e Dil",
+        "url": "https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "duration_ms": 215357,
+      "name": "Arz e Dil",
+      "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "heart $ick",
+        "url": "https://open.spotify.com/album/61XcYeNagkEkriEobvIN0t"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 142450,
+      "name": "heart $ick",
+      "url": "https://open.spotify.com/track/4HqTwljlZlbHb3BNb2BkBi"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "K-TOWN ANTFW",
+        "url": "https://open.spotify.com/album/17Rx93itVV4jjHAzQmCUtz"
+      },
+      "artists": [
+        {
+          "name": "Rawblotter",
+          "url": "https://open.spotify.com/artist/6DYVdkoOpNCTLNiSsuwLSG"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "K-TOWN ANTFW",
+      "url": "https://open.spotify.com/track/49mEitp2khaaR0jbd78Jpw"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Cosmic Love",
+        "url": "https://open.spotify.com/album/0n8stewHyrT2hcW5eJ8C18"
+      },
+      "artists": [
+        {
+          "name": "TALKsick",
+          "url": "https://open.spotify.com/artist/6B035jH37tg6wkDq8WHCvg"
+        },
+        {
+          "name": "JANI",
+          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+        },
+        {
+          "name": "Azlan109",
+          "url": "https://open.spotify.com/artist/6qGMIu6qhWLopGG0eFmI9a"
+        }
+      ],
+      "duration_ms": 185810,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/6WZIi78MVe7k78C6rKzIia"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "No Tension Zone",
+        "url": "https://open.spotify.com/album/0G4Iw4h5Nsy9mV8dR19YLH"
+      },
+      "artists": [
+        {
+          "name": "Hashky",
+          "url": "https://open.spotify.com/artist/30elHElKTdECsqr0ODJBFR"
+        },
+        {
+          "name": "ITS Simar",
+          "url": "https://open.spotify.com/artist/2bGQrxPJiXRsqww7zKHnAf"
+        }
+      ],
+      "duration_ms": 150965,
+      "name": "No Tension Zone",
+      "url": "https://open.spotify.com/track/7DdYltzVGIUrUzYjXK34hW"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/1rocZcmlehL2i0tlh6IERD"
+      },
+      "artists": [
+        {
+          "name": "Zaira Ali",
+          "url": "https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6"
+        }
+      ],
+      "duration_ms": 224017,
+      "name": "Unapologetic",
+      "url": "https://open.spotify.com/track/1viQyM3abUTDVb7K7QuF8O"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Faasley",
+        "url": "https://open.spotify.com/album/0HthZKGQ3adVX0tonwgOEJ"
+      },
+      "artists": [
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "duration_ms": 229673,
+      "name": "Faasley",
+      "url": "https://open.spotify.com/track/2at6ZuQzPIp058oHDqRznT"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Taarey",
+        "url": "https://open.spotify.com/album/0NsmGxKsu1wjhYCJHcbJq9"
+      },
+      "artists": [
+        {
+          "name": "Haadi Uppal",
+          "url": "https://open.spotify.com/artist/4VyjDb19fx3IhUB7rEYbM9"
+        }
+      ],
+      "duration_ms": 197268,
+      "name": "Taarey",
+      "url": "https://open.spotify.com/track/5R1KFsMRIodUuQA9Ed6Sdm"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Jaan Meri",
+        "url": "https://open.spotify.com/album/459RlFSbuonkwqMyoa4OWF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Zawar",
+          "url": "https://open.spotify.com/artist/2L4qELrDflJYHlRe9f6KbJ"
+        }
+      ],
+      "duration_ms": 160404,
+      "name": "Jaan Meri",
+      "url": "https://open.spotify.com/track/2ApxAy1MVKIiyHCUM6oBAD"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/2KuyT4q7FK11K6OqIhIWvn"
+      },
+      "artists": [
+        {
+          "name": "Raffey Anwar",
+          "url": "https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD"
+        },
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/4K1XnpNeltlLMO85mtT6Yh"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Je Pata Hunda",
+        "url": "https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc"
+      },
+      "artists": [
+        {
+          "name": "Nimra Mehra",
+          "url": "https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2"
+        }
+      ],
+      "duration_ms": 170777,
+      "name": "Je Pata Hunda",
+      "url": "https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Tu Aja",
+        "url": "https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey"
+      },
+      "artists": [
+        {
+          "name": "Masood Bukhari",
+          "url": "https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK"
+        },
+        {
+          "name": "Zaphixx",
+          "url": "https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m"
+        },
+        {
+          "name": "Muhammad Ali",
+          "url": "https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX"
+        }
+      ],
+      "duration_ms": 135323,
+      "name": "Tu Aja",
+      "url": "https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/3Id1NzsQpNd3FjvIeJbLPS"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5GEbnAn1xQbZTOBNzyUiGJ"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Jhoota Saala",
+        "url": "https://open.spotify.com/album/5mbPFKLs88JkduzdBZntOg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+        }
+      ],
+      "duration_ms": 167938,
+      "name": "Jhoota Saala",
+      "url": "https://open.spotify.com/track/4wktM4ysPIX7uWaCWCUnCf"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6fMezvxHyVFVvvwAaeVAND"
+      },
+      "artists": [
+        {
+          "name": "Pasha G",
+          "url": "https://open.spotify.com/artist/3a4JFzR5wlAFnJ2ClC8VPi"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/0E6uCcaspmtbS8GQu0Fa62"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Kadi Kadi",
+        "url": "https://open.spotify.com/album/6GUKecLQQ6bflSmP7nKNsS"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Indiedanish",
+          "url": "https://open.spotify.com/artist/5lUo8Dl9AEOYsPfvHhSCnI"
+        },
+        {
+          "name": "Joshua Savio",
+          "url": "https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Kadi Kadi",
+      "url": "https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "Wasta",
+        "url": "https://open.spotify.com/album/3R6w6xyssAKl3MzOVNAbUZ"
+      },
+      "artists": [
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Arslan Shykh",
+          "url": "https://open.spotify.com/artist/7xxzZQYCRAhqTrfh9NmJPI"
+        },
+        {
+          "name": "Kaashi Haider",
+          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
+        }
+      ],
+      "duration_ms": 215862,
+      "name": "Wasta",
+      "url": "https://open.spotify.com/track/1sa4VjsTiP1B1JON8CvgUl"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "pancakes",
+        "url": "https://open.spotify.com/album/47H9i3reYIYbTaMRHkbxJq"
+      },
+      "artists": [
+        {
+          "name": "malick",
+          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
+        },
+        {
+          "name": "Huzaifa Yasir",
+          "url": "https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "pancakes",
+      "url": "https://open.spotify.com/track/7wNdTbtTSNEVPZNE5gcJAU"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/6vKWjgUMdrKXR3ULMlWmxj"
+      },
+      "artists": [
+        {
+          "name": "malick",
+          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
+        },
+        {
+          "name": "Huzaifa Yasir",
+          "url": "https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/5Sb3Flioez2DSdAS60EBD9"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "He Akhyun",
+        "url": "https://open.spotify.com/album/1gjqIDClmhXy6IYHIosEl1"
+      },
+      "artists": [
+        {
+          "name": "Kaashi Haider",
+          "url": "https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf"
+        },
+        {
+          "name": "Amjad Mirani",
+          "url": "https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu"
+        },
+        {
+          "name": "Mahnoor Channa",
+          "url": "https://open.spotify.com/artist/3O9b891vTrJInjQsQisXyX"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "He Akhyun",
+      "url": "https://open.spotify.com/track/1i9HgHpt6sPCHXezFh4qc8"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "On Mission",
+        "url": "https://open.spotify.com/album/7q67M8bx3gEpNMTjL0jZRL"
+      },
+      "artists": [
+        {
+          "name": "Yung Shaday",
+          "url": "https://open.spotify.com/artist/37uxYy1K8DSYnxvSWZPZpY"
+        },
+        {
+          "name": "Pius Arther",
+          "url": "https://open.spotify.com/artist/3vEbTcmXOBwR34FeJlmR4y"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "On Mission",
+      "url": "https://open.spotify.com/track/35R12XP7Eg0ywanskDpoVU"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
+      "album": {
+        "name": "CITYS ON FIRE",
+        "url": "https://open.spotify.com/album/4EabEX0NCoso5QyhvO56bC"
+      },
+      "artists": [
+        {
+          "name": "Haaezii",
+          "url": "https://open.spotify.com/artist/4lyNfSf1NYlkYCLSZKlgNR"
+        }
+      ],
+      "duration_ms": 185135,
+      "name": "CITYS ON FIRE",
+      "url": "https://open.spotify.com/track/6QIJb1TvLZ8wxCziqjH0YO"
+    },
+    {
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/5JDEop7LuOwzpcaEextV63"
@@ -1381,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3Qsy57eEscwOPoB7zulaHr"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Tere Liye",
         "url": "https://open.spotify.com/album/67jgb93eP3o00vBCkbDHWF"
@@ -1397,39 +1541,7 @@
       "url": "https://open.spotify.com/track/3uuorgPYHjij0wCuz40hhx"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Rasheed Beopari",
-        "url": "https://open.spotify.com/album/6LwRhn1sOchzGGkcrxOpKb"
-      },
-      "artists": [
-        {
-          "name": "Bhaloo",
-          "url": "https://open.spotify.com/artist/18va6InAyA0N64ZV2QM0Is"
-        },
-        {
-          "name": "Shahab Hussain",
-          "url": "https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up"
-        },
-        {
-          "name": "King Faludah",
-          "url": "https://open.spotify.com/artist/1y4aLVzUqqD4dAHQQyEXYn"
-        },
-        {
-          "name": "Anas Alam Khan",
-          "url": "https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd"
-        },
-        {
-          "name": "Aziz Kazi",
-          "url": "https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG"
-        }
-      ],
-      "duration_ms": 336085,
-      "name": "Rasheed Beopari",
-      "url": "https://open.spotify.com/track/5glP6z9yPYI0JIjfC63LiV"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Rukna Na",
         "url": "https://open.spotify.com/album/3bgRnXQcAOfkctNLi1vVxP"
@@ -1449,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1ge2rBUvqN6LNyJGDrp1S8"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/68dAQdEd55fJ4xdIQqWV1r"
@@ -1469,60 +1581,40 @@
       "url": "https://open.spotify.com/track/1hr9RwnjacmVFO2qHOFq2w"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Dost Yar",
-        "url": "https://open.spotify.com/album/1cunYnm6HwSBoIxlR8ySMm"
+        "name": "Kamli",
+        "url": "https://open.spotify.com/album/7whqshrWRpD89eKzJx8dnU"
       },
       "artists": [
         {
-          "name": "Maliha J. Khan",
-          "url": "https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl"
+          "name": "Ahsan Samraa",
+          "url": "https://open.spotify.com/artist/60AyZ7poR9Mj27ZtDEhqVV"
         },
         {
-          "name": "Shameer",
-          "url": "https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi"
+          "name": "Beatsbykanwar",
+          "url": "https://open.spotify.com/artist/4NtATyMmXfykvzWyKtEOZH"
         }
       ],
-      "duration_ms": 153658,
-      "name": "Dost Yar",
-      "url": "https://open.spotify.com/track/742EkmdFiTSeT6xeQDfCvT"
+      "duration_ms": 156521,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/5wgaY24bpil186z4skJsWI"
     },
     {
-      "added_at": "2024-09-12 01:00:00",
+      "added_at": "2024-10-01 10:58:00",
       "album": {
-        "name": "Kyun Chor Gaya",
-        "url": "https://open.spotify.com/album/0Pia4bgglWhJhFFArQUnjQ"
+        "name": "Rangrasiya",
+        "url": "https://open.spotify.com/album/3iwqspTZHMhQPy2z2weVvZ"
       },
       "artists": [
         {
-          "name": "Taha Hassan",
-          "url": "https://open.spotify.com/artist/05ekYRAvmmCSTPnkEbsC0U"
+          "name": "Nirmala Maghani",
+          "url": "https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Kyun Chor Gaya",
-      "url": "https://open.spotify.com/track/4aGa7xV7YZxD1cyhVRnvQG"
-    },
-    {
-      "added_at": "2024-09-12 01:00:00",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/1NOmiWGXm7MfpXwCcSCWzC"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mac",
-          "url": "https://open.spotify.com/artist/1zuMSSFJttHvJ4Sm2B2NL7"
-        },
-        {
-          "name": "RAMAN THE KID",
-          "url": "https://open.spotify.com/artist/40qn6Ee2morbxE1E0JT3tu"
-        }
-      ],
-      "duration_ms": 110735,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3z99yDWntQ05mP8tK5A07b"
+      "duration_ms": 190967,
+      "name": "Rangrasiya",
+      "url": "https://open.spotify.com/track/4QLIRTVyCqhUHJT8wl0gWk"
     }
   ],
   "unique_name": "Fresh Finds Pakistan",

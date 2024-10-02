@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 67942,
+  "description": "This is Lunay. The essential tracks, all in one playlist.",
+  "num_followers": 67959,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAByDBNENX0sRPBfvdfnwBTA",
+  "snapshot_id": "ZvnqAAAAAABnxysfa5uqHboK4fk5WC7g",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cama (Remix)",
         "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 330240,
       "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prendemos",
-        "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Prendemos",
-      "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prendemos",
+        "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Prendemos",
+      "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mezcalito en copa",
-        "url": "https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Mezcalito en copa",
-      "url": "https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 212657,
       "name": "OTRA NO",
       "url": "https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mezcalito en copa",
+        "url": "https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Mezcalito en copa",
+      "url": "https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN"
     },
     {
       "added_at": null,

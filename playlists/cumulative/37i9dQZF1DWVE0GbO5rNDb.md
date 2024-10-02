@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024 🍉
 
-400 songs - 19 hr 32 min
+401 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-24 |  |
 | [GO](https://open.spotify.com/track/2s0lm5AwB5xoul4SOftEMw) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe) | [GO](https://open.spotify.com/album/6cQ8DdwVVQgD4WmPQ4X8MK) | 2:31 | 2022-05-30 | 2022-07-09 |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-05-04 | 2024-05-14 |
-| [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 |  |
+| [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 | 2024-10-02 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-07 |  |
 | [Got You For Life](https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Ruhde](https://open.spotify.com/artist/1xLhhhPXc6NUNxUXDG5Psb) | [Got You For Life](https://open.spotify.com/album/1JIcujaJ1JCY6yH5h1HhfS) | 2:31 | 2022-05-17 | 2022-07-26 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-05-13 | 2023-03-18 |
@@ -375,6 +375,7 @@
 | [Underwater Love \- LA Vision Remix](https://open.spotify.com/track/1GHYYYmLvXEWaa7cLVsP2o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK) | [Underwater Love \(LA Vision Remix\)](https://open.spotify.com/album/1X7w3KI7jD7BdzyGm0FrOT) | 2:28 | 2022-05-06 | 2022-05-12 |
 | [Until the Sun Goes Down](https://open.spotify.com/track/7enRXIlD4EXNFiTw0F90pW) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW) | [Until the Sun Goes Down](https://open.spotify.com/album/3VxntUkcFedZ4GUpEXJFMw) | 2:31 | 2022-12-02 | 2023-03-18 |
 | [Viento](https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Viento](https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s) | 2:20 | 2024-06-16 |  |
+| [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-09-05 |  |
 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 | 2022-06-03 |  |
 | [We Are Young](https://open.spotify.com/track/0m3DyjpzLPa3LCurw5A9IR) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK) | [We Are Young](https://open.spotify.com/album/1D1MDVymPMOuJl9QFrHmDT) | 3:04 | 2022-05-06 | 2022-07-28 |
 | [We Got Love](https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [We Got Love](https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy) | 3:33 | 2022-05-06 | 2023-04-25 |

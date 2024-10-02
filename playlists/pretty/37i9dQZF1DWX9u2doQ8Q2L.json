@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 388183,
+  "num_followers": 388192,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 201251,
-      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 201251,
+      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "GRL GVNG",
-        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "GRL GVNG",
-      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174226,
       "name": "Love seeker",
       "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
-        "url": "https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
-      "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "Osanpo (Remix)",
         "url": "https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+        "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
+        "url": "https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x"
       },
       "artists": [
         {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         }
       ],
-      "duration_ms": 222753,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+      "duration_ms": 152288,
+      "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
+      "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1055,6 +1039,22 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 222753,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "JUNK TAPE",
-        "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
       "artists": [
         {
-          "name": "SOCKS",
-          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
-        },
-        {
-          "name": "DJ RYOW",
-          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
         }
       ],
-      "duration_ms": 144230,
-      "name": "Osanpo",
-      "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1171,34 +1167,22 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+        "name": "JUNK TAPE",
+        "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
       "artists": [
         {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+      "duration_ms": 144230,
+      "name": "Osanpo",
+      "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1215,6 +1199,22 @@
       "duration_ms": 200268,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
+        "name": "A24",
+        "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
+      },
+      "artists": [
+        {
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        },
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "A24",
+      "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
         "name": "Bad Bitch \u7f8e\u5b66 Remix",
         "url": "https://open.spotify.com/album/1dhoOKqxQ1A6lN0TVxb9WB"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 369111,
       "name": "Bad Bitch \u7f8e\u5b66 Remix",
       "url": "https://open.spotify.com/track/0ldJSvsmLivbEDWjMl5K2d"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
-        "name": "A24",
-        "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
-      },
-      "artists": [
-        {
-          "name": "BANNY BUGS",
-          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
-        },
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "A24",
-      "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
         "name": "\u3042\u306e\u5b50\u3068\u30c0\u30f3\u30b9 (feat. chelmico)",
         "url": "https://open.spotify.com/album/1Cqv6zjMexgzqw91Q9WGJK"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 265617,
       "name": "\u3042\u306e\u5b50\u3068\u30c0\u30f3\u30b9 (feat. chelmico)",
       "url": "https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": "2024-09-30 16:04:40",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
+        "name": "\u982c\u6756",
+        "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 220236,
+      "name": "\u982c\u6756",
+      "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "added_at": "2024-09-30 16:04:40",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/2g1y7o6N9KobCmJdt5P6AR"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "\u982c\u6756",
-        "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "\u982c\u6756",
-      "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
-    },
-    {
-      "added_at": "2024-09-30 16:04:40",
-      "album": {
         "name": "GO!!",
         "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
       },
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2024-09-30 16:04:40",
       "album": {
-        "name": "Once Upon a Night",
-        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+        "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+        "url": "https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 223395,
-      "name": "Once Upon a Night",
-      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
+      "duration_ms": 183000,
+      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+      "url": "https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3"
     }
   ],
   "unique_name": "Tokyo Rising",

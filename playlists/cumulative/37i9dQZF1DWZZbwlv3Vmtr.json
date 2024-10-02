@@ -8101,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "little memories",
+        "url": "https://open.spotify.com/album/6tTknlybqIFY34JNMJS0CU"
+      },
+      "artists": [
+        {
+          "name": "joe macchiato",
+          "url": "https://open.spotify.com/artist/5BmTJhUH8SPiSGwv00pr19"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120903,
+      "name": "little memories",
+      "url": "https://open.spotify.com/track/5cGpQgmRf14jnkfxAqOi3U"
+    },
+    {
+      "album": {
         "name": "Livin' Easy",
         "url": "https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x"
       },
@@ -17742,7 +17760,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 106206,
       "name": "Winter Wander",
       "url": "https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS"

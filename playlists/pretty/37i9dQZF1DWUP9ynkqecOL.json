@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23098,
+  "num_followers": 23108,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+      },
+      "artists": [
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
         "name": "Ca\u00f1averal",
         "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 178000,
       "name": "Ca\u00f1averal",
       "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2024-09-26 21:24:36",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-09-26 21:24:36",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2024-09-26 21:24:36",
-      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 192495,
       "name": "Gurisito Cosmico",
       "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "added_at": "2024-09-26 21:24:36",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2024-09-26 21:24:36",

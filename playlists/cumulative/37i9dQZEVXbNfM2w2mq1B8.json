@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 201533,
       "name": "Dai Mi Vsichko",
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
@@ -8998,7 +8998,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 431612,
       "name": "Feeling My Mind",
       "url": "https://open.spotify.com/track/2pqwfpIFFTMmGMMxg736Pr"
@@ -9016,7 +9016,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 268064,
       "name": "Feeling My Mind - Radio Edit",
       "url": "https://open.spotify.com/track/54GIpKWCbM8qNRp0DVk7U0"
@@ -25578,7 +25578,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -31987,6 +31987,32 @@
     },
     {
       "album": {
+        "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
+        "url": "https://open.spotify.com/album/3IjD58cSODRmxZvOwh2wru"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Slavi Trifonov",
+          "url": "https://open.spotify.com/artist/4hcbbb8RBjFjCuMhmVv1b9"
+        },
+        {
+          "name": "Ku-Ku Band",
+          "url": "https://open.spotify.com/artist/6dTTAcKWN7BmRGAmmAsdeX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262998,
+      "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
+      "url": "https://open.spotify.com/track/61J0JDkMW2ni0IuuALYqiS"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430\u043c\u0438\u043d\u0430\u0432\u0430\u043c",
         "url": "https://open.spotify.com/album/5im8AkrRZgzwAW9MAo29yO"
       },
@@ -33824,7 +33850,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 168333,
       "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
       "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"

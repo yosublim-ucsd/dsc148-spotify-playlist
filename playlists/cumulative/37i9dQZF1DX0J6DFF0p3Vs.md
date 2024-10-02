@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis Autumn](https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:14 | 2023-06-21 | 2023-09-02 |
-| [A Ballad For Doll \- Remastered](https://open.spotify.com/track/5CtjQPv8EHNL0VtpRn1hJA) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 3:16 | 2023-06-21 |  |
+| [A Ballad For Doll](https://open.spotify.com/track/5CtjQPv8EHNL0VtpRn1hJA) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 3:16 | 2023-06-21 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) | 3:04 | 2023-06-21 |  |
 | [A Foggy Day](https://open.spotify.com/track/31sgA9RhIPIKf0QAhjnHbi) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:54 | 2023-06-21 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2023-06-21 |  |

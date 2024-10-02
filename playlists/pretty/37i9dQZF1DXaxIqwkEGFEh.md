@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Real Boston Richey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,333 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,424 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 11 | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Dead N\*\*\*\*s \(feat\. Polo G & G Herbo\)](https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl) | 3:15 |
 | 12 | [40 Mo' Reasons](https://open.spotify.com/track/61siK7W8gG1ixD974Ethya) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [40 Mo' Reasons](https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK) | 3:22 |
 | 13 | [Reap](https://open.spotify.com/track/0G79wzmzEGi9IJ8dzft2A5) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Reap](https://open.spotify.com/album/5DgFzutF1rCDdC1NyMNp75) | 1:42 |
-| 14 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \- Remix](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 |
+| 14 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 |
 | 15 | [Q\-Dogz](https://open.spotify.com/track/7FHEzrax04uAKbFeNisJJO) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Q\-Dogz](https://open.spotify.com/album/7KASuF4SJeTxKsq3XbPGej) | 2:05 |
 | 16 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 |
 | 17 | [Seven Years](https://open.spotify.com/track/7BA7DeWLj4FNFgY22z4TXo) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Seven Years](https://open.spotify.com/album/0iNNUarK9SKrnWbEst6DYv) | 2:36 |

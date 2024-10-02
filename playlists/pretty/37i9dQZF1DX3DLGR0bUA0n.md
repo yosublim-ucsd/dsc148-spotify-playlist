@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,866 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,915 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,17 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 67 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |
 | 68 | [Coyuca De Catalan \(Zapateado\)](https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches En Vivo 2013](https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix) | 4:36 |
 | 69 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
-| 70 | [Amores Con Mi Estilo](https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Amores Con Mi Estilo](https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4) | 3:02 |
-| 71 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
-| 72 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
+| 70 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
+| 71 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
+| 72 | [Amores Con Mi Estilo](https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Amores Con Mi Estilo](https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4) | 3:02 |
 | 73 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
 | 74 | [Frente A Frente](https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:55 |
 | 75 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 76 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 77 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |
 | 78 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
-| 79 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
-| 80 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
+| 79 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
+| 80 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
 | 81 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
 | 82 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
 | 83 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |

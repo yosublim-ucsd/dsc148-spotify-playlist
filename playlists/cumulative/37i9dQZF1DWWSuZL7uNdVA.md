@@ -4,7 +4,7 @@
 
 > Linkin Park au top des meilleurs morceaux rock du moment.
 
-252 songs - 14 hr 12 min
+253 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Take a Bow](https://open.spotify.com/track/08rBgaCVTpoVWkmrvR7pEI) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/2ZVBJR0iHqyTLV15RlPdTf) | 6:54 | 2023-10-19 | 2023-11-04 |
 | [Take a Bow](https://open.spotify.com/track/0vqZ2u5pftJ3LSqI2pOCqf) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 6:54 | 2023-10-26 | 2024-02-16 |
 | [Take a Bow](https://open.spotify.com/track/7Di847sIIrgAWLer6C33pJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Take a Bow](https://open.spotify.com/album/6jYav3AeS4FJ89epXScuuG) | 6:54 | 2023-09-28 | 2023-10-22 |
+| [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-10-01 |  |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-28 | 2023-11-17 |
 | [Takes Me Back](https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Takes Me Back](https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE) | 3:51 | 2024-06-27 | 2024-09-20 |
 | [Tamagotchi](https://open.spotify.com/track/5tY2w7GAcE6vhSAKHaigSk) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Tamagotchi](https://open.spotify.com/album/5LfIrn2CRhwWfIJ9bCttaz) | 3:34 | 2023-11-16 | 2024-01-12 |

@@ -6994,7 +6994,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 211062,
       "name": "Finally Here",
       "url": "https://open.spotify.com/track/6ANENgseDtE4Nb6Yvg1MmD"
@@ -8100,6 +8100,28 @@
       "duration_ms": 257142,
       "name": "Head To Toe",
       "url": "https://open.spotify.com/track/2KwEYn8hjQzGNy4sM002Mo"
+    },
+    {
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
     },
     {
       "album": {
@@ -16676,7 +16698,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 207840,
       "name": "Pretoria",
       "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
@@ -19393,6 +19415,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6LkurPSxQp2hYWtRgPOnQ1"
+      },
+      "artists": [
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
+        },
+        {
+          "name": "Masuda",
+          "url": "https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299822,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6liVqLO60pM5HCWE59YC38"
+    },
+    {
+      "album": {
         "name": "Steeldrum",
         "url": "https://open.spotify.com/album/4y2BAR2Brc4rrVHgF1bCcQ"
       },
@@ -20259,6 +20303,32 @@
     },
     {
       "album": {
+        "name": "Tendani",
+        "url": "https://open.spotify.com/album/0OgjkOSuZ0mMYftKotcUG1"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Epitome Resound",
+          "url": "https://open.spotify.com/artist/52435lhoc7MuLE3GRKrGyG"
+        },
+        {
+          "name": "Fulu",
+          "url": "https://open.spotify.com/artist/7jbDqflsBZikMTtYKzt3MC"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Tendani",
+      "url": "https://open.spotify.com/track/3xfrMDmH7NDw6Pk2MFpv85"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -21118,7 +21188,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 302027,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/5Pkpb4N9wLNpPnsQMQ5Wqh"

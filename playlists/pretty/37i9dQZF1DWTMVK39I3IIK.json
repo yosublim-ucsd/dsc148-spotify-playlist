@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:4gepV1NXit1T15YxX0Bv27\">Bette</a>",
-  "num_followers": 45390,
+  "num_followers": 45393,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Gi' Mig Lige",
-        "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
+        "name": "F\u00f8lsom dreng",
+        "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
       },
       "artists": [
         {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
         }
       ],
-      "duration_ms": 161608,
-      "name": "Gi' Mig Lige",
-      "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+      "duration_ms": 198998,
+      "name": "F\u00f8lsom dreng",
+      "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "F\u00f8lsom dreng",
-        "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
+        "name": "Gi' Mig Lige",
+        "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
       "artists": [
         {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
         }
       ],
-      "duration_ms": 198998,
-      "name": "F\u00f8lsom dreng",
-      "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
+      "duration_ms": 161608,
+      "name": "Gi' Mig Lige",
+      "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Det er din k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 227698,
+      "name": "Det er din k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -595,38 +611,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Det er din k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 227698,
-      "name": "Det er din k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Lige s\u00e5 fucked som mig",
         "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 196510,
       "name": "D\u00e5rligste Bedste Id\u00e9",
       "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 162573,
       "name": "l\u00e6s mig (akustisk version)",
       "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Den Ud\u00f8delige Historie",
-        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
-      },
-      "artists": [
-        {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
-        }
-      ],
-      "duration_ms": 152729,
-      "name": "Den Ud\u00f8delige Historie",
-      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Din Sang",
         "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 176528,
       "name": "Din Sang",
       "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Den Ud\u00f8delige Historie",
+        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
+      },
+      "artists": [
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        }
+      ],
+      "duration_ms": 152729,
+      "name": "Den Ud\u00f8delige Historie",
+      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
     },
     {
       "added_at": "2024-09-26 22:00:00",

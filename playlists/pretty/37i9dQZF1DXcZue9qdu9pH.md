@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 21 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 |
 | 22 | [Perfect](https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B) | [Perfect](https://open.spotify.com/album/07lMSOElGW77832xvtCJes) | 2:50 |
 | 23 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 |
-| 24 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/13KQydMRX3mIb9SN5whvYF) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 |
+| 24 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 |
 | 25 | [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 |
 | 26 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
 | 27 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 |

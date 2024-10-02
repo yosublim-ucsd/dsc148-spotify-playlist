@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=CpG0PAoPTDG4Ofil9G4flQ>Marizu
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,061 likes - 111 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,156 likes - 111 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

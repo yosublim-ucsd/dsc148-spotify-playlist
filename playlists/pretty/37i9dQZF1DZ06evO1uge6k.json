@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 247364,
+  "num_followers": 247407,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAABLiFYBr8I0abNErBIvrQtp",
+  "snapshot_id": "ZvnqAAAAAADotcCvuFlP2zjEeKCW4frV",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Futura",
+        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 183800,
       "name": "Tube Snake Boogie",
       "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Can't Stop Rockin'",
-      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura",
-        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 243160,
-      "name": "I Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+      "duration_ms": 181666,
+      "name": "Can't Stop Rockin'",
+      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 242866,
-      "name": "Planet of Women",
-      "url": "https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG"
+      "duration_ms": 221626,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
     },
     {
       "added_at": null,

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Songs of Origin",
+        "url": "https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194478,
+      "name": "Bird cage blue and yellow",
+      "url": "https://open.spotify.com/track/3qhyW08FypET71F65dYZZc"
+    },
+    {
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },

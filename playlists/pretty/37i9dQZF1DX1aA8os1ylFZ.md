@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,398 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,420 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 67 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
 | 68 | [Boys Lie](https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Boys Lie](https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG) | 2:30 |
 | 69 | [Say You Do](https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [EightyThrilla](https://open.spotify.com/artist/11K0tW3obVss3xQmgAxXvF) | [Say You Do](https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4) | 3:09 |
-| 70 | [Therapy](https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh), [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Therapy](https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH) | 3:25 |
-| 71 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
+| 70 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
+| 71 | [Therapy](https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh), [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Therapy](https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH) | 3:25 |
 | 72 | [speed up](https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [speed up](https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG) | 2:29 |
 | 73 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 |
 | 74 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |

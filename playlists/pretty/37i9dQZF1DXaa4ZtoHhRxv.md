@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,259 likes - 176 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,310 likes - 176 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 45 | [Friday Night](https://open.spotify.com/track/16CoJMdBSUp0Dxd8wZdO1a) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Friday Night](https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5) | 2:40 |
 | 46 | [Missing You](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Missing You \(feat\. Nate Smith\)](https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh) | 3:07 |
 | 47 | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \- GOLDHOUSE Remix](https://open.spotify.com/track/3waUCQw6FzbImpXAQ282Zm) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \[GOLDHOUSE Remix\]](https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg) | 3:37 |
-| 48 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \- Platinum Edition](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
+| 48 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 49 | [We Got History \- VAVO & DLAY Remix](https://open.spotify.com/track/5wzVRwT7LAUmafyhGLoUL7) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [DLAY](https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT) | [We Got History \(VAVO & DLAY Remix\)](https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18) | 2:10 |
 | 50 | [High Heels \- Whistle While You Twerk](https://open.spotify.com/track/7nhTJJi2DYRYfQthsIJ5zM) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [High Heels \(Whistle While You Twerk\)](https://open.spotify.com/album/6UBDYoJ4Tji6oCp2oVlDmZ) | 2:42 |
 | 51 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 |

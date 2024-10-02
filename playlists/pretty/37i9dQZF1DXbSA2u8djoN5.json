@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Pepy, Sami G",
-  "num_followers": 19008,
+  "num_followers": 19015,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-09-26 21:00:00",
       "album": {
-        "name": "0 contact",
-        "url": "https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH"
-      },
-      "artists": [
-        {
-          "name": "Alduts Sherdley",
-          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "0 contact",
-      "url": "https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6"
-    },
-    {
-      "added_at": "2024-09-26 21:00:00",
-      "album": {
         "name": "Legenda",
         "url": "https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP"
       },
@@ -947,22 +931,38 @@
     {
       "added_at": "2024-09-26 21:00:00",
       "album": {
-        "name": "Flori de Lavand\u0103",
-        "url": "https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD"
+        "name": "0 contact",
+        "url": "https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH"
       },
       "artists": [
         {
-          "name": "Keed",
-          "url": "https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol"
-        },
-        {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
         }
       ],
-      "duration_ms": 194380,
-      "name": "Flori de Lavand\u0103",
-      "url": "https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK"
+      "duration_ms": 150000,
+      "name": "0 contact",
+      "url": "https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6"
+    },
+    {
+      "added_at": "2024-09-26 21:00:00",
+      "album": {
+        "name": "Gr\u0103dina interioar\u0103",
+        "url": "https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz"
+      },
+      "artists": [
+        {
+          "name": "Dragonu AKA 47",
+          "url": "https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 266206,
+      "name": "Gr\u0103dina interioar\u0103",
+      "url": "https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx"
     }
   ],
   "unique_name": "Suflet + Sunet",

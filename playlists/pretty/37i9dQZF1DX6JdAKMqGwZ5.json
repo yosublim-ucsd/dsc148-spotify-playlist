@@ -1,12 +1,12 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Blackpanda.",
-  "num_followers": 195278,
+  "num_followers": 195285,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAAB21harTGxl/Z/ptOwg6es4",
+  "snapshot_id": "ZvvOvgAAAAByD3F3PpFkEHpb4GPlgZaA",
   "tracks": [
     {
       "added_at": "2024-09-26 22:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "MERCURIO",
-        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "COTILLEO",
         "url": "https://open.spotify.com/album/5KUSmymFWOTrx3rXafBXXB"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 190222,
       "name": "COTILLEO",
       "url": "https://open.spotify.com/track/1EFWFmJ3tPqe3zic7bvDrj"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "MERCURIO",
+        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "MonteViso",
-        "url": "https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o"
+        "name": "Amor A\u00e9reo",
+        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
         }
       ],
-      "duration_ms": 251533,
-      "name": "MonteViso",
-      "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
+      "duration_ms": 164133,
+      "name": "Amor A\u00e9reo",
+      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Amor A\u00e9reo",
-        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
+        "name": "MonteViso",
+        "url": "https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o"
       },
       "artists": [
         {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Amor A\u00e9reo",
-      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
+      "duration_ms": 251533,
+      "name": "MonteViso",
+      "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Con otra cabeza",
-        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 149352,
-      "name": "Con otra cabeza",
-      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Las musas de Madrid",
         "url": "https://open.spotify.com/album/3f0JZ1QFz8WRE0Hd9NbgNP"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 169914,
       "name": "Las musas de Madrid",
       "url": "https://open.spotify.com/track/1C7J7LnRtJoYMrMI42WgDe"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Con otra cabeza",
+        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Con otra cabeza",
+      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "dos sombras",
         "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ressaca a sa platja",
-        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 176654,
-      "name": "Ressaca a sa platja",
-      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Ressaca a sa platja",
+        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 176654,
+      "name": "Ressaca a sa platja",
+      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Tiemblo",
         "url": "https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 164130,
       "name": "Tiemblo",
       "url": "https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
-      },
-      "artists": [
-        {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -895,6 +879,38 @@
       "duration_ms": 182596,
       "name": "Igual hemos roto y no me he enterado",
       "url": "https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+      },
+      "artists": [
+        {
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 214752,
+      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -935,22 +951,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Al Amanecer",
-        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 191617,
-      "name": "Al Amanecer",
-      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Al Amanecer",
+        "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Al Amanecer",
+      "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Autom\u00f3viles",
         "url": "https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 228890,
       "name": "Autom\u00f3viles",
       "url": "https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 214752,
-      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Quiero Hacer M\u00fasica",
-        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
+        "name": "Todas las Drogas del Mundo",
+        "url": "https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM"
       },
       "artists": [
         {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
         }
       ],
-      "duration_ms": 200437,
-      "name": "Quiero Hacer M\u00fasica",
-      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
+      "duration_ms": 218409,
+      "name": "Todas las Drogas del Mundo",
+      "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Todas las Drogas del Mundo",
-        "url": "https://open.spotify.com/album/1dmxJQ49QgpSth3mEUvsOM"
+        "name": "Quiero Hacer M\u00fasica",
+        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
       },
       "artists": [
         {
-          "name": "Belarte",
-          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 218409,
-      "name": "Todas las Drogas del Mundo",
-      "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
+      "duration_ms": 200437,
+      "name": "Quiero Hacer M\u00fasica",
+      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "No Te Voy a Besar",
-        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
-      },
-      "artists": [
-        {
-          "name": "Venga, Bea",
-          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
-        },
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "No Te Voy a Besar",
-      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Braille",
         "url": "https://open.spotify.com/album/7wMwfQcUeM2yPRQRDNV0Ft"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 204421,
       "name": "Braille",
       "url": "https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "No Te Voy a Besar",
+        "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "No Te Voy a Besar",
+      "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
     },
     {
       "added_at": "2024-09-26 22:00:00",

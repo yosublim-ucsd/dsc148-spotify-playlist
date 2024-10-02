@@ -2,7 +2,7 @@
 
 ### [This Is Liran' Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1)
 
-> This Is Liran' Roll\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Liran' Roll\. The essential tracks, all in one playlist.
 
 62 songs - 4 hr 6 min
 

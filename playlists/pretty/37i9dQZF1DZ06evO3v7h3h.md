@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. The essential tracks, all in one playlist.
+> This is Rashid\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,260 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,258 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 37 | [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 |
 | 38 | [Idas e Vindas](https://open.spotify.com/track/1NKc3yIiSuAKuZvTk1h62d) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Vinhos & Fumaça](https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa) | 3:36 |
 | 39 | [Diário de Bordo 6](https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Diário de Bordo 6](https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5) | 4:25 |
-| 40 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
-| 41 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
-| 42 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
+| 40 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
+| 41 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
+| 42 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 |
 | 43 | [Gênesis](https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Gênesis](https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB) | 4:00 |
 | 44 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
 | 45 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Outra Dose 2 \- Ao Vivo](https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:12 |
 | 50 | [Pílula Vermelha, Pílula Azul \(Incidental: Banditismo por uma Questão de Classe\)](https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:09 |
 
-Snapshot ID: `ZviYgAAAAABV4/yhnwzrBSHHxHRYijOp`
+Snapshot ID: `ZvnqAAAAAAC8NtXmGjl1Q0T5Y4jIfXaL`

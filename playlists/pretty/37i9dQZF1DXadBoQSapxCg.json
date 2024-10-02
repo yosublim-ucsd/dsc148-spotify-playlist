@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 313302,
+  "num_followers": 313297,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
+        }
+      ],
+      "duration_ms": 229366,
+      "name": "\u00c1guias e Sereias",
+      "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -947,6 +967,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -971,42 +1007,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Mark Exodus",
-          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
-        }
-      ],
-      "duration_ms": 229366,
-      "name": "\u00c1guias e Sereias",
-      "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"
     },
     {
       "added_at": "2024-09-27 03:01:00",

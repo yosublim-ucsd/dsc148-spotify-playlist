@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "bLACKbLUE",
+        "url": "https://open.spotify.com/album/1ulr9SX47HJ1SNRvGPFOli"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245453,
+      "name": "B-Cuz",
+      "url": "https://open.spotify.com/track/3L6UQB8Av3FJFQ3GBK4vrL"
+    },
+    {
+      "album": {
         "name": "\u65e5\u672c\u30c6\u30ec\u30d3\u7cfb\u706b\u66dc\u30c9\u30e9\u30de\u300c\u8ca7\u4e4f\u7537\u5b50\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7mEJs3rEABEunfhoRtrr55"
       },

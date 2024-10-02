@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,072,722 likes - 136 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,072,662 likes - 136 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

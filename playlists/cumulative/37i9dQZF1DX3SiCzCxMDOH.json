@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "End of Spring",
+        "url": "https://open.spotify.com/album/2ASeVSvK1auCf1b3wc625S"
+      },
+      "artists": [
+        {
+          "name": "Ivory Soul Trio",
+          "url": "https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156841,
+      "name": "End of Spring",
+      "url": "https://open.spotify.com/track/5WT0ix5s8hhENzQseg8j0t"
+    },
+    {
+      "album": {
         "name": "English Rose",
         "url": "https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX"
       },
@@ -6528,6 +6546,24 @@
     {
       "album": {
         "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/6MgDYMCTMpcYitsHVjzCMp"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/38ncOMtYWke1G2W7PMtT8v"
+    },
+    {
+      "album": {
+        "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d"
       },
       "artists": [
@@ -7348,7 +7384,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170952,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr"
@@ -11369,6 +11405,24 @@
     },
     {
       "album": {
+        "name": "Solitude Symphony",
+        "url": "https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Solitude Symphony",
+      "url": "https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787"
+    },
+    {
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu"
       },
@@ -12764,7 +12818,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 239635,
       "name": "The Midnight Sun Never Sets",
       "url": "https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl"
@@ -13437,6 +13491,24 @@
     },
     {
       "album": {
+        "name": "Time Passes Quickly",
+        "url": "https://open.spotify.com/album/3QC3utZMD4qR2aeSX6OOwX"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Time Passes Quickly",
+      "url": "https://open.spotify.com/track/2NsN8ak00vcXTEzymRT0RZ"
+    },
+    {
+      "album": {
         "name": "Time Remembered",
         "url": "https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw"
       },
@@ -13542,6 +13614,24 @@
       "duration_ms": 146134,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt"
+    },
+    {
+      "album": {
+        "name": "Touch of Dance",
+        "url": "https://open.spotify.com/album/4zscRBwfVeaTxX1nff5Fle"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Touch of Dance",
+      "url": "https://open.spotify.com/track/0OhWWjGCYecXrEDwHioc5k"
     },
     {
       "album": {
@@ -13844,7 +13934,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 221431,
       "name": "Urban Jazz Chronicles",
       "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"

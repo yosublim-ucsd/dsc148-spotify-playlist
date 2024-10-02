@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 598932,
+  "num_followers": 599208,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 162748,
       "name": "On My Mind - Enzo is Burning Remix",
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 381463,
       "name": "Grapevine",
       "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Simple Times",
         "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 254314,
       "name": "Simple Times",
       "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1683,26 +1683,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
+        "name": "High",
+        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
         }
       ],
-      "duration_ms": 214575,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
+      "duration_ms": 180923,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1727,6 +1723,30 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 214575,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1835,6 +1855,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Sunday Shoutin' (TSHA Remix)",
+        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Corporate",
+          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 216622,
+      "name": "Sunday Shoutin' - TSHA Remix",
+      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "The Cure (feat. Chloe Paige)",
         "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
       },
@@ -1859,26 +1899,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Sunday Shoutin' (TSHA Remix)",
-        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Corporate",
-          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 216622,
-      "name": "Sunday Shoutin' - TSHA Remix",
-      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 241768,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
       "added_at": "2024-09-26 23:00:00",

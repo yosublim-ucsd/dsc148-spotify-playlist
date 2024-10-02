@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Sonata",
+        "url": "https://open.spotify.com/album/4aeodo8iBTwEaIUicB49wS"
+      },
+      "artists": [
+        {
+          "name": "Dancing and Dreaming",
+          "url": "https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Enchanted Sonata",
+      "url": "https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu"
+    },
+    {
+      "album": {
         "name": "Eosphoros T.Merula",
         "url": "https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 151480,
       "name": "Nota Placidit\u00e0",
       "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"

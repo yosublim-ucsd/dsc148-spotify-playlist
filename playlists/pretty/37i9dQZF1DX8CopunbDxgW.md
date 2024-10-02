@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: BAYNK
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,382 likes - 110 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,423 likes - 110 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

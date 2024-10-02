@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-806 songs - 1 day 19 hr 14 min
+807 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Imagination](https://open.spotify.com/track/1tHTm4TblBppg2Kck3Z9OZ) | [Kat Holland](https://open.spotify.com/artist/3LbG3YJCzxwKicBdQOgTFl) | [Imagination](https://open.spotify.com/album/2uAJIuuTdJgP4PqXtgKyMu) | 3:07 | 2021-01-15 |  |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-12 | 2021-05-12 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-03 |  |
+| [IN BETWEEN](https://open.spotify.com/track/4FwpZcJsV3k7sYaHQy23Sm) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [IN BETWEEN](https://open.spotify.com/album/3IybAkBmUEub2ypoh0vW94) | 4:19 | 2024-10-01 |  |
 | [In Between \(feat\. Jude York\)](https://open.spotify.com/track/2AGVgk4Irtuxo651StzYPa) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY), [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [In Between \(feat\. Jude York\)](https://open.spotify.com/album/06MrUCBDlGZMsvSlpUPjAs) | 2:50 | 2023-05-19 |  |
 | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/track/06SCbxyjwwX6hj9eMLsYHi) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/album/2uHzfyr7PQmAMZ9bmpxmxE) | 3:51 | 2021-03-06 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-25 | 2021-05-12 |

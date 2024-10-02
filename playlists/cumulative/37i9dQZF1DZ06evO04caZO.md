@@ -2,7 +2,7 @@
 
 ### [This Is The Strokes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO)
 
-> This is The Strokes\. The essential tracks, all in one playlist.
+> This Is The Strokes\. Todas as faixas essenciais numa única playlist.
 
 42 songs - 2 hr 33 min
 

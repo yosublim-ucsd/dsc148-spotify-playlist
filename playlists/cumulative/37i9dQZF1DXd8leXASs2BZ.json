@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Carz",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 140800,
       "name": "Danger Race",
       "url": "https://open.spotify.com/track/6N4tRgUWsHFaKUQzoTBIuU"
@@ -2748,6 +2748,24 @@
       "duration_ms": 174147,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
+    },
+    {
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/7Lde6Ai1eoH8U2fPCIHgYb"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179614,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/6a61ntKhW22DUQq8JxiEi8"
     },
     {
       "album": {
@@ -6850,7 +6868,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 134400,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1gOJUstp6RPiPolVNj1k4x"
@@ -8438,7 +8456,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 192000,
       "name": "Otsukaresama!!",
       "url": "https://open.spotify.com/track/1ThD1SMFOzFE5UCEQPSMEr"
@@ -9052,6 +9070,28 @@
       "duration_ms": 167341,
       "name": "PUFFY",
       "url": "https://open.spotify.com/track/2VNMDF9XndbjbyZasqfcje"
+    },
+    {
+      "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/0qkIVWS6aP674wtZ5PqpKV"
+      },
+      "artists": [
+        {
+          "name": "HekA",
+          "url": "https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx"
+        },
+        {
+          "name": "agul",
+          "url": "https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/526s517eKituXVXya59e9R"
     },
     {
       "album": {
@@ -10074,7 +10114,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 168888,
       "name": "Shakin'",
       "url": "https://open.spotify.com/track/5ZreAcjNsT2Ojw2aA8uIRP"
@@ -10825,6 +10865,24 @@
     },
     {
       "album": {
+        "name": "Sunahama",
+        "url": "https://open.spotify.com/album/0YhB5fKy1lUVCFRqxYIX4u"
+      },
+      "artists": [
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176037,
+      "name": "Sunahama",
+      "url": "https://open.spotify.com/track/0lPSiETYu7QbsJZbT6KGIJ"
+    },
+    {
+      "album": {
         "name": "Sunglasses freestyle",
         "url": "https://open.spotify.com/album/55qRduG3GgfKqPCYjeFq4Z"
       },
@@ -10854,7 +10912,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 180000,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/50Gbse2cd1N5xF5MjLOJL2"
@@ -11258,6 +11316,24 @@
       "duration_ms": 213600,
       "name": "Toku No Machi",
       "url": "https://open.spotify.com/track/3hpTcEcNdALCUwQf0RIMUd"
+    },
+    {
+      "album": {
+        "name": "Too busy work",
+        "url": "https://open.spotify.com/album/3h2CGevquC3dntTZrefUMG"
+      },
+      "artists": [
+        {
+          "name": "oops cool",
+          "url": "https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196237,
+      "name": "Too busy work",
+      "url": "https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY"
     },
     {
       "album": {
@@ -12969,6 +13045,24 @@
     },
     {
       "album": {
+        "name": "monologue",
+        "url": "https://open.spotify.com/album/3w2FWEmvuLgU5JPaDCFXLl"
+      },
+      "artists": [
+        {
+          "name": "Ty Lee",
+          "url": "https://open.spotify.com/artist/3krwyU6LZBM1Zh1R2RILwx"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "\u58ee",
+      "url": "https://open.spotify.com/track/5v3gStz5vXX0yDsHpJuuIn"
+    },
+    {
+      "album": {
         "name": "\u590f\u30ce\u96f2",
         "url": "https://open.spotify.com/album/5LjXBiDHnTj6yU8SHL0m3U"
       },
@@ -13522,10 +13616,36 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 155253,
       "name": "\u8a00\u3063\u305f!! - Remix",
       "url": "https://open.spotify.com/track/7D3Ie8dWI8Qjkvlwqc9uyn"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u3063\u305f!! (Remix)",
+        "url": "https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        },
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155253,
+      "name": "\u8a00\u3063\u305f!! - Remix",
+      "url": "https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH"
     },
     {
       "album": {

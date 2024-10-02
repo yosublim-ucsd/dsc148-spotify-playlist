@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Walk by the River",
+        "url": "https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "A Walk by the River",
+      "url": "https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170566,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 177874,
       "name": "cold embrace",
       "url": "https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170500,
       "name": "Funiculaire",
       "url": "https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ"
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 176000,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH"
@@ -4146,7 +4164,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 211764,
       "name": "Logos",
       "url": "https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 174107,
       "name": "Lost in Trees",
       "url": "https://open.spotify.com/track/4OKxyAfD6CQaMM8NiJlIPm"
@@ -5093,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125984,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/72a7BreUstd8JSHbPyMr0d"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi"
       },
@@ -5464,7 +5500,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 186000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v"
@@ -5504,6 +5540,24 @@
       "duration_ms": 171500,
       "name": "Phoneme",
       "url": "https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c"
+    },
+    {
+      "album": {
+        "name": "Physichromie",
+        "url": "https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g"
+      },
+      "artists": [
+        {
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Physichromie",
+      "url": "https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7"
     },
     {
       "album": {
@@ -6598,7 +6652,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 120500,
       "name": "Simple Beauty",
       "url": "https://open.spotify.com/track/2TAIbjpQTCZPkqB40Z8xA3"
@@ -6890,7 +6944,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 121857,
       "name": "Swamp",
       "url": "https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc"
@@ -7815,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "Unwind Dreams",
+        "url": "https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6"
+      },
+      "artists": [
+        {
+          "name": "Lakes of Lagan",
+          "url": "https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172959,
+      "name": "Unwind Dreams",
+      "url": "https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq"
+    },
+    {
+      "album": {
         "name": "Uprise",
         "url": "https://open.spotify.com/album/7L1L6rmODWaSldjBga3fEl"
       },
@@ -8492,7 +8564,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 131777,
       "name": "Yellow Entropy",
       "url": "https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw"

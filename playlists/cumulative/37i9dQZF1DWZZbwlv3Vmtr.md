@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-962 songs - 1 day 13 hr 19 min
+963 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
 | [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-15 | 2022-05-27 |
+| [little memories](https://open.spotify.com/track/5cGpQgmRf14jnkfxAqOi3U) | [joe macchiato](https://open.spotify.com/artist/5BmTJhUH8SPiSGwv00pr19) | [little memories](https://open.spotify.com/album/6tTknlybqIFY34JNMJS0CU) | 2:00 | 2024-09-27 |  |
 | [Livin' Easy](https://open.spotify.com/track/1mFgHisS18u9xDvpv4n2Iz) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Livin' Easy](https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x) | 2:12 | 2022-04-22 | 2023-10-13 |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2022-04-15 |  |
 | [Lo\-fi Love Letters](https://open.spotify.com/track/1vwVgDd0EHURAjoTb2glnM) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Lo\-fi Love Letters](https://open.spotify.com/album/1LDYsz7AHxedlGPb2Mj3Jw) | 1:59 | 2023-10-06 |  |
@@ -943,7 +944,7 @@
 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2022-10-14 | 2023-10-20 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
-| [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 |  |
+| [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 | 2024-10-02 |
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 | 2022-04-15 | 2023-10-13 |

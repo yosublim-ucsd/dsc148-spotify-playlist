@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-771 songs - 1 day 9 hr 30 min
+772 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [Oars divide the Ocean](https://open.spotify.com/track/4csYHITfr9K9BCtfuPc4eM) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Oars divide the Ocean](https://open.spotify.com/album/2l7xX5MupNbX1A1oThaT1Y) | 2:10 | 2023-01-06 |  |
 | [Oceanic](https://open.spotify.com/track/1OUYDyfAVycgQaKATXzqw8) | [Paul Turner](https://open.spotify.com/artist/7i4VoTrDKrU8S5722Zpm0V) | [Oceanic](https://open.spotify.com/album/122xCJaswpIDYyXgHibXQD) | 1:27 | 2022-09-02 | 2022-12-10 |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-10 | 2022-07-29 |
-| [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 |  |
+| [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 | 2024-10-02 |
 | [Old Novels](https://open.spotify.com/track/7qBvJvJkz9RAOwzAzxukbH) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Old Novels](https://open.spotify.com/album/6SGa8dYeTFicb8ORNNr33j) | 2:08 | 2023-08-10 |  |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2024-04-05 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2021-12-08 | 2023-03-10 |
@@ -749,6 +749,7 @@
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2021-12-08 | 2022-06-17 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2024-05-04 |
 | [When Time Stood Still](https://open.spotify.com/track/6EHCudtkELVk2YGHOv2NsB) | [Kyle Conners](https://open.spotify.com/artist/6AJslaemnAaB5OujGRqc2e) | [When Time Stood Still](https://open.spotify.com/album/6pwd0GXmwffQKAg0UnJXX4) | 3:07 | 2021-12-08 | 2023-09-29 |
+| [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 |  |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-24 |  |
 | [While You Dream](https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [While You Dream](https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ) | 2:09 | 2022-10-07 | 2024-05-24 |
 | [Whisper of the Heart](https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Whisper of the Heart](https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68) | 2:14 | 2023-06-02 |  |

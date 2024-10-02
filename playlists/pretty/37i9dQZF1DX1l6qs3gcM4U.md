@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Badoxa
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,770 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,824 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 52 | [Menta](https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Menta](https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk) | 3:16 |
 | 53 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
 | 54 | [Hey Odja](https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Hey Odja](https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU) | 2:47 |
-| 55 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
-| 56 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 |
+| 55 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 |
+| 56 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
 | 57 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
 | 58 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 59 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |

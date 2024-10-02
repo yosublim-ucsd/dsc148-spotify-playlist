@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Linkin Park",
-  "num_followers": 335505,
+  "num_followers": 335793,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "The Surface (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "ATTN.",
+      "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
       },
@@ -795,38 +811,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "The Surface (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "ATTN.",
-      "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Necessary Evil",
-        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Necessary Evil",
-      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "The Surface Seems So Far",
         "url": "https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 273173,
       "name": "Lost All Control",
       "url": "https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Dogs Of War",
         "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 142533,
       "name": "Power",
       "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 280251,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 280251,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Wake Up The Wicked (Deluxe Version)",
         "url": "https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 195655,
       "name": "We Don't Wanna Be No Saints",
       "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "NOSE BLEED",
-        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "NOSE BLEED",
-      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Masochistic Lovers",
+        "url": "https://open.spotify.com/album/1wlFijcLqrd0mQbBrVzUe8"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 126986,
+      "name": "Masochistic Lovers",
+      "url": "https://open.spotify.com/track/0J5uv1lTpYslQnbSlWBQYL"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1327,26 +1347,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "SO RAUS (feat. Fred Durst)",
-        "url": "https://open.spotify.com/album/5VVZUuK140VM27nsPrT1EC"
-      },
-      "artists": [
-        {
-          "name": "Alligatoah",
-          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "SO RAUS (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Down With The Wolves",
         "url": "https://open.spotify.com/album/2JZ6mupwhPXVdXRXRkGx90"
       },
@@ -1367,22 +1367,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Masochistic Lovers",
-        "url": "https://open.spotify.com/album/1wlFijcLqrd0mQbBrVzUe8"
+        "name": "SO RAUS (feat. Fred Durst)",
+        "url": "https://open.spotify.com/album/5VVZUuK140VM27nsPrT1EC"
       },
       "artists": [
         {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
         },
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 126986,
-      "name": "Masochistic Lovers",
-      "url": "https://open.spotify.com/track/0J5uv1lTpYslQnbSlWBQYL"
+      "duration_ms": 196293,
+      "name": "SO RAUS (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Full Of Emptiness",
-        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 174952,
-      "name": "Full Of Emptiness",
-      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
         "name": "Rockstar - Deluxe",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 191666,
       "name": "Fuse",
       "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Full Of Emptiness",
+        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 174952,
+      "name": "Full Of Emptiness",
+      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
     },
     {
       "added_at": "2024-09-26 22:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-09-26 22:00:00",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 321735,
       "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
       "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
       "added_at": "2024-09-26 22:00:00",

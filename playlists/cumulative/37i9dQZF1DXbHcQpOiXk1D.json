@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
@@ -6770,7 +6770,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 386885,
       "name": "Love of Mine",
       "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
@@ -8978,6 +8978,28 @@
       "duration_ms": 292495,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
+    },
+    {
+      "album": {
+        "name": "Reconsider Me",
+        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
+      },
+      "artists": [
+        {
+          "name": "Gan Gemi",
+          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
+        },
+        {
+          "name": "Underground Canopy",
+          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
     },
     {
       "album": {
@@ -12768,7 +12790,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"

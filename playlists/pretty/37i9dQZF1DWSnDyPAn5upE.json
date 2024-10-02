@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 62372,
+  "num_followers": 62416,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 174370,
-      "name": "I'm Clean Now",
-      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 110608,
       "name": "hold me",
       "url": "https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Blue Hills",
-        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Tides Do That with Me",
-      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Point Of Entry",
         "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 132000,
       "name": "Theories",
       "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Blue Hills",
+        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Tides Do That with Me",
+      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Northwest & Southeast",
+        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Thursday Night, Friday Morning",
+      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Tree of Life G Minor",
         "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Northwest & Southeast",
-        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Thursday Night, Friday Morning",
-      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Spirit of the Forest",
-        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Spirit of the Forest",
-      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -695,6 +675,26 @@
       "duration_ms": 276305,
       "name": "Tendril",
       "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Spirit of the Forest",
+        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "Spirit of the Forest",
+      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 182485,
+      "name": "Olga",
+      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Solari",
         "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 182485,
-      "name": "Olga",
-      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        },
+        {
+          "name": "Celeste Cescutti",
+          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
+        }
+      ],
+      "duration_ms": 264369,
+      "name": "Piccolo Corpo",
+      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 235160,
       "name": "An Ending (Ascent)",
       "url": "https://open.spotify.com/track/5vXobsCw0NvtXequNTTEM5"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        },
-        {
-          "name": "Celeste Cescutti",
-          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
-        }
-      ],
-      "duration_ms": 264369,
-      "name": "Piccolo Corpo",
-      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 292605,
       "name": "Pray for Us",
       "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 367253,
       "name": "Stretch Your Eyes - Ambient Acapella",
       "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1479,22 +1499,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Find Sound",
+        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
+      },
+      "artists": [
+        {
+          "name": "Shards",
+          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 280000,
       "name": "Remission",
       "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Find Sound",
-        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
-      },
-      "artists": [
-        {
-          "name": "Shards",
-          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",

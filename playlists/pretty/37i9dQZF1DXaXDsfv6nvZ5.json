@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 763004,
+  "num_followers": 763048,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -557,7 +557,7 @@
         }
       ],
       "duration_ms": 311038,
-      "name": "Bedroom Bully (feat. October London)",
+      "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
-    },
-    {
       "added_at": "2024-07-19 16:03:54",
       "album": {
         "name": "Butterflies",
@@ -1403,6 +1387,22 @@
       "duration_ms": 170579,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS"
     },
     {
+      "added_at": "2024-06-14 07:12:33",
+      "album": {
+        "name": "OOTW",
+        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 139458,
+      "name": "OOTW",
+      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
+    },
+    {
       "added_at": "2024-08-30 05:27:28",
       "album": {
         "name": "Beautiful Pain",
@@ -1485,22 +1501,6 @@
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
     },
     {
-      "added_at": "2024-06-14 07:12:33",
-      "album": {
-        "name": "OOTW",
-        "url": "https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 139458,
-      "name": "OOTW",
-      "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "When I Hear Your Name",
@@ -1537,6 +1537,26 @@
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
+      "added_at": "2024-05-24 07:09:55",
+      "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Blue",
@@ -1567,26 +1587,6 @@
       "duration_ms": 169015,
       "name": "Things I Never Said",
       "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
-    },
-    {
-      "added_at": "2024-05-24 07:09:55",
-      "album": {
-        "name": "dangerous game",
-        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
-      },
-      "artists": [
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 230936,
-      "name": "dangerous game",
-      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
     },
     {
       "added_at": "2024-03-01 06:13:32",
@@ -1663,6 +1663,22 @@
       "duration_ms": 240538,
       "name": "Remember (feat. Samara Joy, Robert Glasper)",
       "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1789,22 +1805,6 @@
       "url": "https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 282315,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Sorrow",
@@ -1821,20 +1821,20 @@
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "FOR THE BOY IN ME",
-        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 176785,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
+      "duration_ms": 282315,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -1901,6 +1901,22 @@
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "CLOSER",
@@ -1927,22 +1943,6 @@
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2024-09-13 09:22:53",
@@ -2037,22 +2037,6 @@
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
-      "added_at": "2024-07-26 10:15:07",
-      "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 186300,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
-    },
-    {
       "added_at": "2024-06-21 06:30:29",
       "album": {
         "name": "Lovely Day",
@@ -2103,6 +2087,38 @@
       "duration_ms": 239533,
       "name": "Great Wind",
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
+    },
+    {
+      "added_at": "2022-10-28 07:50:50",
+      "album": {
+        "name": "Heart Is On My Sleeve",
+        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Heart Is On My Sleeve",
+      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
+    },
+    {
+      "added_at": "2024-07-26 10:15:07",
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
     },
     {
       "added_at": "2023-09-01 04:50:07",
@@ -2225,26 +2241,6 @@
       "url": "https://open.spotify.com/track/3Mq49cV6a9smgKAx0ccej4"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Keen",
-        "url": "https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL"
-      },
-      "artists": [
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Keen",
-      "url": "https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl"
-    },
-    {
       "added_at": "2024-01-19 06:57:11",
       "album": {
         "name": "Where Do We Go",
@@ -2285,20 +2281,24 @@
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
-      "added_at": "2022-10-28 07:50:50",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Heart Is On My Sleeve",
-        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
+        "name": "Keen",
+        "url": "https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Heart Is On My Sleeve",
-      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
+      "duration_ms": 237066,
+      "name": "Keen",
+      "url": "https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl"
     },
     {
       "added_at": "2024-06-21 06:30:29",
@@ -2315,22 +2315,6 @@
       "duration_ms": 134400,
       "name": "Go Ur Own Way",
       "url": "https://open.spotify.com/track/1KOB1FwCB4yFfpAyEsZ3IK"
-    },
-    {
-      "added_at": "2024-07-05 18:12:55",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 219950,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2369,6 +2353,22 @@
       "url": "https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5"
     },
     {
+      "added_at": "2024-07-05 18:12:55",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 219950,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
+    },
+    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "Feel The Past, See The Future",
@@ -2401,6 +2401,22 @@
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
     },
     {
+      "added_at": "2024-09-27 17:40:25",
+      "album": {
+        "name": "A Beautiful Woman",
+        "url": "https://open.spotify.com/album/0JggrCT1CbsdZnkUytM420"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 204041,
+      "name": "A Beautiful Woman",
+      "url": "https://open.spotify.com/track/5PBNRXaQwtE6zNpPIRKasf"
+    },
+    {
       "added_at": "2024-07-26 10:15:07",
       "album": {
         "name": "The Art Of Making Love",
@@ -2431,26 +2447,6 @@
       "duration_ms": 163298,
       "name": "Fine By Myself",
       "url": "https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU"
-    },
-    {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Spend The Night",
-        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 193729,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
     },
     {
       "added_at": "2024-05-31 07:10:31",
@@ -2507,6 +2503,26 @@
       "duration_ms": 228684,
       "name": "Whatcha Done Now (feat. Kenyon Dixon)",
       "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
+    },
+    {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 193729,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2579,22 +2595,6 @@
       "duration_ms": 184128,
       "name": "Stand on Trial",
       "url": "https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7"
-    },
-    {
-      "added_at": "2024-09-27 17:40:25",
-      "album": {
-        "name": "A Beautiful Woman",
-        "url": "https://open.spotify.com/album/0JggrCT1CbsdZnkUytM420"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 204041,
-      "name": "A Beautiful Woman",
-      "url": "https://open.spotify.com/track/5PBNRXaQwtE6zNpPIRKasf"
     },
     {
       "added_at": "2024-03-08 14:46:00",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,174 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,214 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Harmony \(alap\)](https://open.spotify.com/track/5Z1ko5uIHPB7cMUzHJdDKh) | [Pandit Shivkumar Sharma & Pandit Hariprasad Chaurasia](https://open.spotify.com/artist/1nJHIxlczWcRhAGZLY1qom) | [The Valley Recalls \- Peace, Love & Harmony](https://open.spotify.com/album/2B5qYV1Iqjwsn8AIHVf9d9) | 9:00 |
 | 2 | [Raag Bhairavi \- Alap](https://open.spotify.com/track/0gSOxF4F3ZpnJa9U1TD3V8) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Call of the Divine](https://open.spotify.com/album/4KPf9aNI4Htq0vdATv3FTa) | 3:37 |
-| 3 | [Raga Sindhi Bhairavi: Dadra Tal \(6 beats\)](https://open.spotify.com/track/5CMW3bF5enCbAFV4aZTbec) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Ramnad Raghavan](https://open.spotify.com/artist/3gS4uNbTzraFAoJDWA2r4l) | [Raga Sindhi Bhairavi](https://open.spotify.com/album/7CrkucXPzqO5B0ScFRqQL9) | 11:51 |
-| 4 | [Raag Bhairavi \- Dhun](https://open.spotify.com/track/5fFhR97WE7XwlI2aTOF8nM) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Call of the Divine](https://open.spotify.com/album/4KPf9aNI4Htq0vdATv3FTa) | 7:38 |
+| 3 | [Raag Bhairavi \- Dhun](https://open.spotify.com/track/5fFhR97WE7XwlI2aTOF8nM) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Call of the Divine](https://open.spotify.com/album/4KPf9aNI4Htq0vdATv3FTa) | 7:38 |
+| 4 | [Raga Sindhi Bhairavi: Dadra Tal \(6 beats\)](https://open.spotify.com/track/5CMW3bF5enCbAFV4aZTbec) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Ramnad Raghavan](https://open.spotify.com/artist/3gS4uNbTzraFAoJDWA2r4l) | [Raga Sindhi Bhairavi](https://open.spotify.com/album/7CrkucXPzqO5B0ScFRqQL9) | 11:51 |
 | 5 | [Raga Jog](https://open.spotify.com/track/65YatRfLBfj43PN64k2li2) | [Nadiyon](https://open.spotify.com/artist/5qrL0zLxtiyX5IL2XvLUVQ) | [Raga Jog](https://open.spotify.com/album/1oxseQK7hwiESTjvuZM1oY) | 4:59 |
 | 6 | [Jogiya](https://open.spotify.com/track/7oDCqI6qYIc2ebiduj7RkM) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:59 |
 | 7 | [Flute Bhairavi](https://open.spotify.com/track/3y2qoG04eGcwXrpTzQSkzY) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 49 | [Alap & Jor](https://open.spotify.com/track/5z2AySosw7Cokl8HLq1mPd) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Hemant \- an evening Raga](https://open.spotify.com/album/341RD2w3IhyPqjspyD1Ux4) | 19:06 |
 | 50 | [Chants I\- Raag Bhatiyar](https://open.spotify.com/track/4yi7a4Ri25bJ5MaJKwajqb) | [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Sacred Mantras Of India](https://open.spotify.com/album/3mBlFtOgrQ18YdkLT83457) | 2:48 |
 
-Snapshot ID: `ZrXOGQAAAACM6K5s05f1qc34oo6BQLEZ`
+Snapshot ID: `Zvvc0wAAAAAZ5cL39s3yeEY7ZMF5IKvw`

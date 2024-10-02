@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 79761,
+  "num_followers": 79801,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Esse \u00c9 O Rem\u00e9dio",
         "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 235933,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
     },
     {
       "added_at": "2022-09-22 18:13:04",

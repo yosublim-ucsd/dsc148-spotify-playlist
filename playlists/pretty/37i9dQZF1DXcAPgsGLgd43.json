@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 60366,
+  "num_followers": 60398,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
-        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Sinatra",
-          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
-        },
-        {
-          "name": "Joe Mangione",
-          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
-        }
-      ],
-      "duration_ms": 167578,
-      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
-      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2024-09-30 14:41:09",
-      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2024-09-30 14:41:09",
+      "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2024-09-30 14:41:09",
+      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
-    },
-    {
-      "added_at": "2024-09-30 14:41:09",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1575,18 +1575,26 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1615,30 +1623,6 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Dame Mas",
-        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Mathieu Ruz",
-          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
-        }
-      ],
-      "duration_ms": 185476,
-      "name": "Dame Mas",
-      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
-    },
-    {
-      "added_at": "2024-09-30 14:41:09",
-      "album": {
         "name": "Wataqui",
         "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 154285,
       "name": "Wataqui",
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "added_at": "2024-09-30 14:41:09",
+      "album": {
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1847,30 +1847,22 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
       "artists": [
         {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
         },
         {
-          "name": "Wrex",
-          "url": "https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd"
-        },
-        {
-          "name": "Franklin Dam",
-          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
-        },
-        {
-          "name": "Javier Moreno",
-          "url": "https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq"
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
         }
       ],
-      "duration_ms": 172815,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1919,22 +1911,30 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
       },
       "artists": [
         {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
         },
         {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+          "name": "Wrex",
+          "url": "https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd"
+        },
+        {
+          "name": "Franklin Dam",
+          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
+        },
+        {
+          "name": "Javier Moreno",
+          "url": "https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+      "duration_ms": 172815,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
     },
     {
       "added_at": "2024-09-30 14:41:09",
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2024-09-30 14:41:09",
       "album": {
-        "name": "Diablo (Que Rico)",
-        "url": "https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl"
+        "name": "Dale Bien Duro",
+        "url": "https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE"
       },
       "artists": [
         {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
         },
         {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+          "name": "Dazed",
+          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Diablo (Que Rico)",
-      "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
+      "duration_ms": 166151,
+      "name": "Dale Bien Duro",
+      "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"
     }
   ],
   "unique_name": "Latin House",

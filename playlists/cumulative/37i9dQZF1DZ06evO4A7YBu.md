@@ -2,7 +2,7 @@
 
 ### [This Is Static\-X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A7YBu)
 
-> This is Static\-X。アーティストの代表曲をひとつのプレイリストに。
+> This is Static\-X\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 16 min
 

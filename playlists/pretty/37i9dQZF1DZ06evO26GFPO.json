@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 299309,
+  "num_followers": 299339,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAACJGz6MDdddRxcWoqvmQKUP",
+  "snapshot_id": "ZvnqAAAAAAA12EMOeZx6b8vvgmuiFNud",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
-        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 529585,
-      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
-      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
+        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 529585,
+      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
+      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
     },
     {
       "added_at": null,
@@ -890,11 +890,15 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gabby Moura",
+          "url": "https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK"
         }
       ],
-      "duration_ms": 147089,
-      "name": "Fora de Si - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
+      "duration_ms": 140703,
+      "name": "Me Arrepender - Ao Vivo",
+      "url": "https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT"
     }
   ],
   "unique_name": "This Is LUDMILLA",

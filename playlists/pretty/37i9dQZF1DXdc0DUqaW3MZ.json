@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 351347,
+  "num_followers": 351402,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Much",
+      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "We Aight (feat. Mayer Hawthorne)",
         "url": "https://open.spotify.com/album/7fRxTkxPZZh0j3O7ZXMGPs"
       },
@@ -1243,22 +1263,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+        "name": "Can't Afford Me",
+        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
       "artists": [
         {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+          "name": "Kuma Overdose",
+          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
         },
         {
-          "name": "Spencer Hunt",
-          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+          "name": "SA$H\u00a3R",
+          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
         }
       ],
-      "duration_ms": 179809,
-      "name": "Much",
-      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
+      "duration_ms": 218424,
+      "name": "Can't Afford Me",
+      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1279,26 +1299,6 @@
       "duration_ms": 195800,
       "name": "Happy Ending - A.G Remix",
       "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Can't Afford Me",
-        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
-      },
-      "artists": [
-        {
-          "name": "Kuma Overdose",
-          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
-        },
-        {
-          "name": "SA$H\u00a3R",
-          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "Can't Afford Me",
-      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
       },
       "artists": [
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         }
       ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     }
   ],
   "unique_name": "Soultronic",

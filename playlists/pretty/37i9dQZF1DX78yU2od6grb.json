@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553577,
+  "num_followers": 553579,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "Heading Home",
+      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 170157,
       "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
       "url": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "Heading Home",
-      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Believers",
-        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 159077,
-      "name": "Believers",
-      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 164884,
       "name": "I'm Just Feelin' (Du Du Du)",
       "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Believers",
+        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 159077,
+      "name": "Believers",
+      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1319,26 +1319,22 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "I Just Wanna (feat. Bow Anderson)",
-        "url": "https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS"
+        "name": "What If I Told You That I Love You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/3G8zAUpwiXw8WX51DRmrmd"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         },
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 159657,
-      "name": "I Just Wanna (feat. Bow Anderson)",
-      "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
+      "duration_ms": 157714,
+      "name": "What If I Told You That I Love You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1J5ubGIOlUBT3t3WgfYidN"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1367,22 +1363,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "What If I Told You That I Love You (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/3G8zAUpwiXw8WX51DRmrmd"
+        "name": "I Just Wanna (feat. Bow Anderson)",
+        "url": "https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS"
       },
       "artists": [
         {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 157714,
-      "name": "What If I Told You That I Love You - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1J5ubGIOlUBT3t3WgfYidN"
+      "duration_ms": 159657,
+      "name": "I Just Wanna (feat. Bow Anderson)",
+      "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Be Okay (with HRVY)",
-        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Be Okay (with HRVY)",
-      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb"
       },
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Be Okay (with HRVY)",
+        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Be Okay (with HRVY)",
+      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 179279,
       "name": "Swing",
       "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "World War Joy",
+        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "Call You Mine (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1647,26 +1667,6 @@
       "duration_ms": 168491,
       "name": "Waiting for the Summer",
       "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "World War Joy",
-        "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "Call You Mine (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
     },
     {
       "added_at": "2024-06-26 02:03:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 669701,
+  "num_followers": 669751,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADrKtlrJjOSc1vsZHxKQ6ne",
+  "snapshot_id": "ZvnqAAAAAABZPYftJjBSzWYIbyJgI8kl",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
-      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": null,
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
       "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+      "duration_ms": 223773,
+      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
+      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 263813,
-      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
-      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 278135,
-      "name": "You'll See",
-      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
+      "duration_ms": 263813,
+      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
+      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
     },
     {
       "added_at": null,
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
-        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 356000,
-      "name": "BREAK MY SOUL - THE QUEENS REMIX",
-      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
     },
     {
       "added_at": null,
@@ -823,34 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
+        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 308880,
-      "name": "Drowned World / Substitute for Love",
-      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MDNA",
-        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
+      "duration_ms": 356000,
+      "name": "BREAK MY SOUL - THE QUEENS REMIX",
+      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 298164,
       "name": "Medell\u00edn (with Maluma)",
       "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MDNA",
+        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madame X (Deluxe)",
         "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 245706,
       "name": "Faz Gostoso (feat. Anitta)",
       "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     }
   ],
   "unique_name": "This Is Madonna",

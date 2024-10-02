@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-778 songs - 1 day 9 hr 53 min
+779 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 | 2023-03-20 |  |
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2022-04-21 | 2022-08-10 |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-21 |  |
-| [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-21 |  |
+| [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-21 | 2024-10-02 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-21 | 2023-01-21 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-21 | 2022-09-24 |
@@ -239,7 +239,7 @@
 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 | 2022-07-20 | 2023-01-21 |
 | [Gocce d'acqua](https://open.spotify.com/track/5GYKdUcKo5iuhHla2ekgS9) | [Andrea Binotto](https://open.spotify.com/artist/5Xns08ygOlTCdopDUjG9x7) | [Gocce d'acqua](https://open.spotify.com/album/575inVw37bOZM4Kn5Pa37f) | 1:49 | 2022-04-21 | 2023-05-04 |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-04-21 | 2022-07-21 |
-| [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-21 |  |
+| [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-21 | 2024-10-02 |
 | [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 | 2022-04-21 | 2023-04-14 |
 | [Grandma's Place](https://open.spotify.com/track/75ZDycp7yczZ6AP5FuKb6M) | [Alexandra Zvereca](https://open.spotify.com/artist/3QqdShmpvga08ONuf6PHQZ) | [Grandma's Place](https://open.spotify.com/album/36G7CKOJqo55ZwOfT35CDR) | 1:56 | 2022-04-21 | 2022-07-20 |
 | [Gravitat](https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Gravitat](https://open.spotify.com/album/5d9ZEYv11fZMtrWx0pJuqd) | 2:30 | 2022-04-21 | 2022-07-21 |
@@ -456,7 +456,7 @@
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-21 | 2022-09-24 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-21 | 2023-01-19 |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-21 | 2024-02-14 |
-| [Once](https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Once](https://open.spotify.com/album/0sxYxNcxnOFwqO0n5TuMHR) | 2:39 | 2024-02-02 |  |
+| [Once](https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Once](https://open.spotify.com/album/0sxYxNcxnOFwqO0n5TuMHR) | 2:39 | 2024-02-02 | 2024-10-02 |
 | [Once Again](https://open.spotify.com/track/7D7QszPJ4qhcdqY4bV5BOo) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:47 | 2022-04-21 | 2022-09-24 |
 | [Once Upon an Autumn](https://open.spotify.com/track/19Ngdrq60emLeiLvGLnwbY) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Once Upon an Autumn](https://open.spotify.com/album/0DAq1lRzcSb2BCgeksrb2A) | 1:57 | 2022-04-21 | 2022-07-21 |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-04-21 | 2023-10-11 |
@@ -562,6 +562,7 @@
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-06 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2022-04-21 | 2024-02-14 |
 | [Satnam](https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z) | [Nathaniel Keys](https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq) | [Satnam](https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64) | 2:14 | 2024-02-27 |  |
+| [Saudade](https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Saudade](https://open.spotify.com/album/5Qp5uW1h6zUaiV1nqxIPvC) | 2:13 | 2024-10-01 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2022-04-21 | 2024-04-04 |
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2022-04-21 | 2022-07-20 |

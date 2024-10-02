@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 ### [Top Christian Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
+> Top Christian Worship 2024 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,042 likes - 157 songs - 14 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,050 likes - 157 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 156 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:26 |
 | 157 | [King Of Kings](https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:25 |
 
-Snapshot ID: `AAAfxkeGZtURF2Ycu+1yS98hf1VdxQBf`
+Snapshot ID: `AAAfx1ki7sC8exj5yNYaXcYyv1R0Xrcw`

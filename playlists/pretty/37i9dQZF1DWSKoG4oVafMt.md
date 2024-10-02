@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,830 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,919 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 12 | [Raja Rani](https://open.spotify.com/track/7MddugzwprJeR1zy4jSlcD) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Raja Rani](https://open.spotify.com/album/6nU0q2jRcAcwDR6wJiezEb) | 2:08 |
 | 13 | [Pyar Vyar](https://open.spotify.com/track/2eCXDhSwQHRqJZVFDMTkEi) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH) | [Pyar Vyar](https://open.spotify.com/album/1YaX3jBYGKD0s6JqZZA3Cs) | 3:55 |
 | 14 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
-| 15 | [Teri Akhiyaan](https://open.spotify.com/track/7l5au1hQteEtjPQaoCFvHU) | [Danny](https://open.spotify.com/artist/45S9bHFJXp1I4qmHcxio70), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Teri Akhiyaan](https://open.spotify.com/album/4CASduw4Iere3mRrsi4FBG) | 3:13 |
+| 15 | [Teri Akhiyaan](https://open.spotify.com/track/7l5au1hQteEtjPQaoCFvHU) | [Danny](https://open.spotify.com/artist/45S9bHFJXp1I4qmHcxio70), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Teri Akhiyaan](https://open.spotify.com/album/4CASduw4Iere3mRrsi4FBG) | 3:13 |
 | 16 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
 | 17 | [Hukam Karo](https://open.spotify.com/track/6F39pz9HMJVJFanrvOE2Ld) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Throwback](https://open.spotify.com/album/2BeZAJihScWoZzjKK63Dq9) | 2:17 |
 | 18 | [Khat](https://open.spotify.com/track/5bEzjIHl3yG5fyQ7BSobyI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Shukrana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zQmmjfL0y72hde3GHUGYp) | 2:53 |

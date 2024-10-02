@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,815 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,837 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 41 | [Perreotech \(Ven bebe\)](https://open.spotify.com/track/6OJzHPceODz6V96LspVatz) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Perreotech \(Ven bebe\)](https://open.spotify.com/album/3Ah629fSv5Du8UIEiZFokf) | 2:48 |
 | 42 | [No Me Conoce](https://open.spotify.com/track/3ZqFF35iQQcNe1SwyfjFoX) | [Joel Melody](https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb) | [Musica](https://open.spotify.com/album/04fipOKCuUZFhYlYLHmGHP) | 2:30 |
 | 43 | [En Espera](https://open.spotify.com/track/0gjAnIQQcrZUxN0gDRnrZi) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [En Espera](https://open.spotify.com/album/6UAU7iJZJFjbUjJbeaprNa) | 3:15 |
-| 44 | [PENSANDOTE](https://open.spotify.com/track/0kvxuaqAXIeBGTuKrbORow) | [DelaJowy](https://open.spotify.com/artist/5DCRo7NqbzqpmCSS8yJyvW), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [PENSANDOTE](https://open.spotify.com/album/1yRDGnRaYZ7u3lSQngZ9UD) | 2:51 |
+| 44 | [PENSANDOTE](https://open.spotify.com/track/0kvxuaqAXIeBGTuKrbORow) | [DelaJowy](https://open.spotify.com/artist/5DCRo7NqbzqpmCSS8yJyvW), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [PENSANDOTE](https://open.spotify.com/album/1yRDGnRaYZ7u3lSQngZ9UD) | 2:51 |
 | 45 | [Estupideces](https://open.spotify.com/track/1tJOfdNisn99x83Xnp8Ccs) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Dimelo, Mike](https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY) | 2:48 |
 | 46 | [Un Like](https://open.spotify.com/track/348J6PE2ZgHpE7dFQj9aQc) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf), [Max Perry](https://open.spotify.com/artist/3g5anBLg3bhR2jwkiTOmYM) | [Un Like](https://open.spotify.com/album/4PDGRObNT5p5wgxgsXa5Qr) | 3:18 |
 | 47 | [Lágrimas de Sequía](https://open.spotify.com/track/5NLueZYyw7ELXbxZKrrZS9) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU) | [Lágrimas de Sequía](https://open.spotify.com/album/39c3gCxqkOgin51oC7bngd) | 3:58 |

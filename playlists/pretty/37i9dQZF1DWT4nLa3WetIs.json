@@ -1,6 +1,6 @@
 {
   "description": "Timeless sounds of modern Afrobeats. Celebrating 10 years of Wizkid's Ojuelegba",
-  "num_followers": 182562,
+  "num_followers": 182944,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-09-15 00:01:00",
       "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 224003,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
-    },
-    {
-      "added_at": "2024-09-15 00:01:00",
-      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "added_at": "2024-09-15 00:01:00",
+      "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
     },
     {
       "added_at": "2024-09-15 00:01:00",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2024-09-15 00:01:00",
       "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+        "name": "Romantic (feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr"
       },
       "artists": [
         {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
         },
         {
-          "name": "Tiffany Owusu",
-          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 232255,
-      "name": "Azonto",
-      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
+      "duration_ms": 225933,
+      "name": "Romantic (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1"
     },
     {
       "added_at": "2024-09-15 00:01:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2024-09-15 00:01:00",
       "album": {
-        "name": "Romantic (feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr"
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
       },
       "artists": [
         {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Tiffany Owusu",
+          "url": "https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Romantic (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1"
+      "duration_ms": 232255,
+      "name": "Azonto",
+      "url": "https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha"
     },
     {
       "added_at": "2024-09-15 00:01:00",

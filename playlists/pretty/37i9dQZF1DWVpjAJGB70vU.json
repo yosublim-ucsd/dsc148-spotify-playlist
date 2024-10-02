@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Clay Walker's iconic album \"If I Could Make a Living\" on 90s Country!",
-  "num_followers": 1922515,
+  "num_followers": 1922842,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -715,8 +715,8 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "It's All About to Change",
-        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -831,8 +831,8 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "It's All About to Change",
+        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 152333,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
-    },
-    {
-      "added_at": "2024-09-25 22:42:05",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 188840,
       "name": "Life's a Dance",
       "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+    },
+    {
+      "added_at": "2024-09-25 22:42:05",
+      "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2024-09-25 22:42:05",
-      "album": {
         "name": "I Still Believe In You",
         "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 219506,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2024-09-25 22:42:05",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
         }
       ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "Whatcha Gonna Do With A Cowboy",
-        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Garth Brooks",
-          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Whatcha Gonna Do With A Cowboy",
-      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
+      "duration_ms": 232666,
+      "name": "Is There Life Out There",
+      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+        "name": "Whatcha Gonna Do With A Cowboy",
+        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Is There Life Out There",
-      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
+      "duration_ms": 155000,
+      "name": "Whatcha Gonna Do With A Cowboy",
+      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2024-09-25 22:42:05",
-      "album": {
         "name": "All I Can Be",
         "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 231506,
       "name": "Love, Me",
       "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+    },
+    {
+      "added_at": "2024-09-25 22:42:05",
+      "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2024-09-25 22:42:05",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-09-25 22:42:05",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
-    },
-    {
-      "added_at": "2024-09-25 22:42:05",
-      "album": {
         "name": "Extremes",
         "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 182960,
       "name": "That's My Story",
       "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
+    },
+    {
+      "added_at": "2024-09-25 22:42:05",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
     },
     {
       "added_at": "2024-09-25 22:42:05",

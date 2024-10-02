@@ -1094,10 +1094,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 268973,
       "name": "Spotless Mind",
       "url": "https://open.spotify.com/track/3F2Fp02Tqe5JNDjnLwQXt8"
+    },
+    {
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Spotless Mind",
+      "url": "https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ"
     },
     {
       "album": {

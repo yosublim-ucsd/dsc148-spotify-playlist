@@ -3681,7 +3681,7 @@
     },
     {
       "album": {
-        "name": "Blue Devils - Remix",
+        "name": "Blue Devils (Remix)",
         "url": "https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I"
       },
       "artists": [
@@ -21331,6 +21331,24 @@
     },
     {
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/1ink26LlxcUpm8A28hKWvz"
+      },
+      "artists": [
+        {
+          "name": "Shedeur Sanders",
+          "url": "https://open.spotify.com/artist/2cDrq2rlvZccVCFrBwRrAs"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119280,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/2r5Jr3cGJh2o1c04Al9pne"
+    },
+    {
+      "album": {
         "name": "CHOMP 2.5 (EP)",
         "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
@@ -27264,7 +27282,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 354750,
       "name": "Tears Of War",
       "url": "https://open.spotify.com/track/3VO1G2yBYY90M57J9bcOrY"

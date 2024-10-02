@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: ROSALÍA & Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,706 likes - 106 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,662 likes - 106 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
-| 2 | [If I Could Only Love You Again](https://open.spotify.com/track/2ia06pgK7yUu09EtbOJ3lR) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [If I Could Only Love You Again](https://open.spotify.com/album/2VYzA2rVyWgzJNy6g56OIZ) | 3:11 |
+| 1 | [If I Could Only Love You Again](https://open.spotify.com/track/2ia06pgK7yUu09EtbOJ3lR) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [If I Could Only Love You Again](https://open.spotify.com/album/2VYzA2rVyWgzJNy6g56OIZ) | 3:11 |
+| 2 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 3 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 |
 | 4 | [MASHUP](https://open.spotify.com/track/70KlBBhGkQtuVICtZwt9zL) | [JEMS!](https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [GEMS IN THE CORNERSTORE II](https://open.spotify.com/album/2KhWIDrrHqMEdXZsSj8vNk) | 2:40 |
 | 5 | [SPANK!](https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X) | [SPANK!](https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg) | 2:43 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 105 | [Counting Sheep](https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:59 |
 | 106 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 |
 
-Snapshot ID: `ZvdGBwAAAADGWeWQEMv0U0Fd4Ak4+rub`
+Snapshot ID: `ZvxougAAAAAJEWw3rQ+PcbXMgJhxGnAK`

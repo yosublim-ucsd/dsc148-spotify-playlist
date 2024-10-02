@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-512 songs - 21 hr 42 min
+514 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Carillon](https://open.spotify.com/track/4DFcAJPa336V5juq2BS5R8) | [Benvenuto Terzi](https://open.spotify.com/artist/11clFa5g42IhNMUfqrxi6J), [Antonio D'Alessandro](https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON) | [Carillon](https://open.spotify.com/album/6r8aoUwGCnuEgTTOUW4jMX) | 1:44 | 2022-06-17 | 2022-09-03 |
 | [Carmen](https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Carmen](https://open.spotify.com/album/5lTAEn3yYDwQogpKLv1Zhr) | 2:53 | 2024-05-24 |  |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-10 |  |
+| [Castlewood](https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Castlewood](https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf) | 2:10 | 2024-10-01 |  |
 | [Catarsis](https://open.spotify.com/track/6iCbVQ9zdBVnqcTwzKoPKJ) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Florecilla Recordings Vol\. 1 \- Elson Complex \(Guitar Solos\)](https://open.spotify.com/album/5W91yqEwwQ6gMwUFJt6AYd) | 2:35 | 2022-06-17 | 2023-03-10 |
 | [Cavatina](https://open.spotify.com/track/5jQFcU3fVqdpK6OmEQMTkU) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Antonio D'Alessandro](https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON) | [Cavatina](https://open.spotify.com/album/33HIobUCtzc0d67I2E9gwl) | 3:43 | 2022-06-17 | 2024-07-18 |
 | [Celestial](https://open.spotify.com/track/6BpicmKtoKZqysBUKgx92S) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [Celestial](https://open.spotify.com/album/3NISQObvJkBuOZdm8cXqAF) | 3:10 | 2022-09-02 | 2023-10-13 |
@@ -149,6 +150,7 @@
 | [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 |  |
 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Etude in E Minor](https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Etude in E Minor](https://open.spotify.com/album/28eDubaBkCUwj6Q78b6F20) | 1:12 | 2022-06-17 | 2023-02-25 |
+| [Evening Glow](https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Evening Glow](https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB) | 2:42 | 2024-10-01 |  |
 | [Every once in a while](https://open.spotify.com/track/6WjpwVoanq3l6MscaM7mUq) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Every once in a while](https://open.spotify.com/album/3WmAYO4PgPnUqFYe9ow9Nm) | 2:36 | 2024-08-08 |  |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 | 2023-06-03 |
 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 | 2022-06-17 | 2022-12-24 |

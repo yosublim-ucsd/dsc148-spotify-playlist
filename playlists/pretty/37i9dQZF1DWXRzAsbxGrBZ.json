@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 67299,
+  "num_followers": 67383,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,18 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Lost In Me",
-        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+        "name": "Jewels",
+        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
       },
       "artists": [
         {
           "name": "Dwson",
           "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Keziah Tehillah",
-          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
         }
       ],
-      "duration_ms": 387236,
-      "name": "Lost In Me",
-      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
+      "duration_ms": 440330,
+      "name": "Jewels",
+      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -615,26 +611,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Little Me",
-        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
-      },
-      "artists": [
-        {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 437415,
-      "name": "Little Me - Extended Mix",
-      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Some Lovin'",
         "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
       },
@@ -655,6 +631,26 @@
       "duration_ms": 236659,
       "name": "Some Lovin'",
       "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Little Me",
+        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 437415,
+      "name": "Little Me - Extended Mix",
+      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Jewels",
-        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
       },
       "artists": [
         {
           "name": "Dwson",
           "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
         }
       ],
-      "duration_ms": 440330,
-      "name": "Jewels",
-      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+      },
+      "artists": [
+        {
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+        }
+      ],
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "Timeless Tales Ep",
         "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
       },
@@ -767,6 +783,26 @@
       "duration_ms": 398275,
       "name": "Story",
       "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Dlali Number",
+        "url": "https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR"
+      },
+      "artists": [
+        {
+          "name": "BusyExplore",
+          "url": "https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99"
+        },
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 281606,
+      "name": "Dlali Namba - Original Mix",
+      "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -791,42 +827,6 @@
       "duration_ms": 332773,
       "name": "Little Me - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
-      },
-      "artists": [
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Dlali Number",
-        "url": "https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR"
-      },
-      "artists": [
-        {
-          "name": "BusyExplore",
-          "url": "https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99"
-        },
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 281606,
-      "name": "Dlali Namba - Original Mix",
-      "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
     },
     {
       "added_at": "2024-08-02 00:28:01",

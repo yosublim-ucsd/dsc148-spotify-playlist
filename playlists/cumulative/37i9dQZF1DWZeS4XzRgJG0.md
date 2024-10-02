@@ -2,7 +2,7 @@
 
 ### [Studeermuziek](https://open.spotify.com/playlist/37i9dQZF1DWZeS4XzRgJG0)
 
-> sorry ik kan niet..\. moet studeren
+> focus modus is aan en leren maar
 
 319 songs - 19 hr 14 min
 

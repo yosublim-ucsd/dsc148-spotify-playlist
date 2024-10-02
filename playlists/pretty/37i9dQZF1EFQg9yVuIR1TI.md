@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 9 | [Diga Diga Doo](https://open.spotify.com/track/6VLxbR9RT9KFOAEgwqvoii) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Rattle Them Bones \(Deluxe Edition\)](https://open.spotify.com/album/3YDH2JTlzj1Rv34nmaMfhz) | 4:15 |
 | 10 | [Porgy And Bess: Overture](https://open.spotify.com/track/159pOXfbpvaeyjsxKM37i6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 10:50 |
 | 11 | [Rhythm Of Life \- 1969 Motion Picture Soundtrack](https://open.spotify.com/track/6bzQsXP6h32qMTTfm2t9lD) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Dorothy Fields](https://open.spotify.com/artist/3nN1h30sPPiYW2DxRCdeQ1), [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Joseph Gershenson](https://open.spotify.com/artist/6uoevoVvSe6CME0ESVSzuV) | [Sweet Charity](https://open.spotify.com/album/3FgYqc3QawZLZW3JuZsHXw) | 3:53 |
-| 12 | [Sweet Charity: If My Friends Could See Me Now](https://open.spotify.com/track/6BvDA2w6lVyrwbxuoFKEGw) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Gwen Verdon](https://open.spotify.com/artist/3SpX7m9UHjT203kNscqadg), [Sweet Charity Original Broadway Cast](https://open.spotify.com/artist/7po62BPOceXuAzRJO1DU92), [Fred Werner](https://open.spotify.com/artist/6t5ihB20at8H7BcacOU2Ys) | [Sweet Charity \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3iX704wj3QPuOXEDkGcCK9) | 3:29 |
+| 12 | [If My Friends Could See Me Now](https://open.spotify.com/track/0I27tCo8rexgdYnhkSaL7k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:41 |
 | 13 | [Zenophile](https://open.spotify.com/track/3jEq5wdDxv0EK1I8HH24LO) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:10 |
 | 14 | [Rich Man's Frug](https://open.spotify.com/track/6yAQwGdje2w3SvDNmMFfvV) | [Fosse Ensemble](https://open.spotify.com/artist/4B4CWMfBiIeLcXZaEko9iS) | [Fosse \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5CPeU2H0BhLOowigxlAYUU) | 3:38 |
 | 15 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Subway](https://open.spotify.com/track/1KWINi0Qleahal6922tD3J) | [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi) | [Sweet Charity \(2007 London Studio Cast\)](https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ) | 2:06 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:23 |
 
-Snapshot ID: `Abdj6AAAAADAypWnvXloABqkbO5LQmJ+`
+Snapshot ID: `AbdpfgAAAAAGQBRkVAQ0UlncZmREO9Ws`

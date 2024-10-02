@@ -676,6 +676,24 @@
     {
       "album": {
         "name": "Take My Crown",
+        "url": "https://open.spotify.com/album/6bxGEJy8MRi3WcPhW4cwZf"
+      },
+      "artists": [
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Take My Crown",
+      "url": "https://open.spotify.com/track/7bp4ZpyUm8OigHpg6rhcB3"
+    },
+    {
+      "album": {
+        "name": "Take My Crown",
         "url": "https://open.spotify.com/album/1e1TUK852Wm9sw7cY46c8W"
       },
       "artists": [

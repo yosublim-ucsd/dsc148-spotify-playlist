@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 4414,
+  "num_followers": 4413,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADLflkCpJchmEHZSYEmoOn4",
+  "snapshot_id": "ZvnqAAAAAABZNcjGrr+xC7o595TfcG4D",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Telegraph Avenue Kiss",
-      "url": "https://open.spotify.com/track/1WoMpFgv2rLgEFzKJqIvwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill The House Lights",
         "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 252213,
       "name": "Ladies And Gentlemen: My Brother, The Failure",
       "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Telegraph Avenue Kiss",
+      "url": "https://open.spotify.com/track/1WoMpFgv2rLgEFzKJqIvwH"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 181826,
-      "name": "As He Climbed The Dark Mountain",
-      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
+      "duration_ms": 239013,
+      "name": "Beyond The Visible Spectrum",
+      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Beyond The Visible Spectrum",
-      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
+      "duration_ms": 181826,
+      "name": "As He Climbed The Dark Mountain",
+      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
     },
     {
       "added_at": null,

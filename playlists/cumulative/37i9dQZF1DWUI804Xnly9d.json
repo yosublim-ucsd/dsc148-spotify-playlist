@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 188461,
       "name": "can you / hai kyun",
       "url": "https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt"
@@ -5111,6 +5111,32 @@
     },
     {
       "album": {
+        "name": "Meri Kya Khata",
+        "url": "https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Kalki",
+          "url": "https://open.spotify.com/artist/6MGj9jkIDU8HK9p4LYP1t8"
+        },
+        {
+          "name": "Dheerendra Gautam",
+          "url": "https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "Meri Kya Khata",
+      "url": "https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH"
+    },
+    {
+      "album": {
         "name": "Milke Jana",
         "url": "https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN"
       },
@@ -6499,6 +6525,28 @@
     },
     {
       "album": {
+        "name": "Samjho Na",
+        "url": "https://open.spotify.com/album/2jELVyAMRZtGCfDM2nqHue"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58252,
+      "name": "Samjho Na",
+      "url": "https://open.spotify.com/track/7vHo5K0SeLhkX3TFYW0JSg"
+    },
+    {
+      "album": {
         "name": "Sang Tere",
         "url": "https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me"
       },
@@ -7748,7 +7796,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 105999,
       "name": "Tum Hi Ho Zindagi",
       "url": "https://open.spotify.com/track/63fb4uUccR5njgRs53yhI0"
@@ -7880,6 +7928,24 @@
       "duration_ms": 230500,
       "name": "Tum Mujhe Jaante Ho - Ukulele Version",
       "url": "https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0"
+    },
+    {
+      "album": {
+        "name": "tumhari talash mein",
+        "url": "https://open.spotify.com/album/6NCSSlc6zSEUxkYGcgaNgt"
+      },
+      "artists": [
+        {
+          "name": "iZAK",
+          "url": "https://open.spotify.com/artist/6oH1IZqOmOowoW1NAeFY30"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211998,
+      "name": "tumhari talash mein",
+      "url": "https://open.spotify.com/track/1XOJCYppa3yBqcScXOH8WN"
     },
     {
       "album": {
@@ -8170,7 +8236,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 181500,
       "name": "Yaad (Reprise)",
       "url": "https://open.spotify.com/track/1QqMKubCADpWOO7jBAkVXi"

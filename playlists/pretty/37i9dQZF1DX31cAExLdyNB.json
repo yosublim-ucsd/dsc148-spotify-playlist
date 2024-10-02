@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 69045,
+  "num_followers": 69065,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 191213,
       "name": "EME",
       "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Catching Eyes",
+        "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Catching Eyes",
+      "url": "https://open.spotify.com/track/4GmMP0OFOFa1IyKAAloN1z"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Nunca Nunca",
         "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/3lsmVQoFvCNouKW2PeeYuz"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Catching Eyes",
-        "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Catching Eyes",
-      "url": "https://open.spotify.com/track/4GmMP0OFOFa1IyKAAloN1z"
     },
     {
       "added_at": "2024-06-28 21:13:36",

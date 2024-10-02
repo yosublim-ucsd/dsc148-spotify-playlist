@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,095 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,123 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 2 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
 | 3 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 |
 | 4 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
-| 5 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
-| 6 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
-| 7 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 5 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
+| 6 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 7 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
 | 8 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 |
-| 9 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
+| 9 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
 | 10 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
 | 11 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 |
 | 12 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 84 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 |
 | 85 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 |
 
-Snapshot ID: `ZvPjvAAAAACqh0m2u16HVK7Ad9BF6GVg`
+Snapshot ID: `ZvwWpwAAAACHh474Gjx7Kvr1NzKntK2A`

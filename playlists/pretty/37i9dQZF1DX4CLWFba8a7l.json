@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121749,
+  "num_followers": 121759,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "We Could Be Love",
         "url": "https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -483,22 +483,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "NOSE BLEED",
-        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+        "name": "Op Shop Lover",
+        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         },
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 195161,
-      "name": "NOSE BLEED",
-      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+      "duration_ms": 150421,
+      "name": "Op Shop Lover",
+      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -519,22 +519,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Op Shop Lover",
-        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         },
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 150421,
-      "name": "Op Shop Lover",
-      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
       "added_at": "2024-09-12 14:00:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        }
-      ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
-    },
-    {
       "added_at": "2024-09-05 14:00:00",
       "album": {
         "name": "Friends",
@@ -679,6 +663,22 @@
       "duration_ms": 213258,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Zorb",
-        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 148689,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171667,
       "name": "Date Night (feat. Morgan Evans)",
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Like A Girl Does",
         "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172427,
       "name": "Like A Girl Does",
       "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
     },
     {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "The Second Act",
-        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 195307,
-      "name": "Craters",
-      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Enough Of The Sweet Talk",
@@ -1019,6 +1003,22 @@
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
+    },
+    {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "duration_ms": 195307,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Touchy Subject",
-        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Touchy Subject",
-      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Touchy Subject",
+        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Touchy Subject",
+      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Blood on the Stage",
-        "url": "https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Blood on the Stage",
-      "url": "https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Blood on the Stage",
+        "url": "https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Blood on the Stage",
+      "url": "https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Cat 5 (Cyclone)",
         "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 222154,
       "name": "Cat 5 (Cyclone)",
       "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Caught in a Reverie",
+        "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Train Left The Station",
+      "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
     },
     {
       "added_at": "2024-09-05 14:00:00",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Caught in a Reverie",
-        "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
+        "name": "Freckles",
+        "url": "https://open.spotify.com/album/3qBdcWx8e9slG982z16f47"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Train Left The Station",
-      "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
+      "duration_ms": 179741,
+      "name": "Freckles",
+      "url": "https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "DRUMMER",
-        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
         }
       ],
-      "duration_ms": 229464,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Freckles",
-        "url": "https://open.spotify.com/album/3qBdcWx8e9slG982z16f47"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 179741,
-      "name": "Freckles",
-      "url": "https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV"
+      "duration_ms": 161711,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     }
   ],
   "unique_name": "The Local List",

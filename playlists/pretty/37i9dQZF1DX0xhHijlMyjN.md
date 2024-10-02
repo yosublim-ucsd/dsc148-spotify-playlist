@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,108 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,096 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 72 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 |
 | 73 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 |
 | 74 | [Cuando zarpa el amor](https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m) | [Camela](https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG) | [Diez De Corazon](https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV) | 3:32 |
-| 75 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 |
-| 76 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 75 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 76 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 |
 | 77 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 78 | [Fruta Fresca](https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:53 |
 | 79 | [Rayos de Sol](https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw) | [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1) | [Rayos de Sol](https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA) | 3:51 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 128 | [La Cucaracha](https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7) | [El Combo Dominicano](https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb) | [La Cucaracha](https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1) | 4:04 |
 | 129 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
 | 130 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
-| 131 | [Oh La La La](https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN) | [2 Eivissa](https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE) | [Are You Ready](https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB) | 3:31 |
-| 132 | [Culo](https://open.spotify.com/track/7DBFxEnUbVn533sURMZMwt) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Original Hits](https://open.spotify.com/album/4phhDFemofc0OpqV7SAMov) | 3:39 |
+| 131 | [Culo](https://open.spotify.com/track/7DBFxEnUbVn533sURMZMwt) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Original Hits](https://open.spotify.com/album/4phhDFemofc0OpqV7SAMov) | 3:39 |
+| 132 | [Oh La La La](https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN) | [2 Eivissa](https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE) | [Are You Ready](https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB) | 3:31 |
 | 133 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
 | 134 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 |
 | 135 | [Que La Detengan](https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 3:32 |

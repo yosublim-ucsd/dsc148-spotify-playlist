@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: MONOEYES",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Dragon Ash",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -4413,6 +4413,28 @@
     },
     {
       "album": {
+        "name": "Straight Up feat. JESSE",
+        "url": "https://open.spotify.com/album/4KedQNW6Evrgu7vZCJtYYG"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Straight Up feat. JESSE",
+      "url": "https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x"
+    },
+    {
+      "album": {
         "name": "sugar cannon ball / alcohol",
         "url": "https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU"
       },
@@ -5254,7 +5276,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 229120,
       "name": "\u3069\u3046\u3057\u3066",
       "url": "https://open.spotify.com/track/12bcROya6wVF9SIANw7zBr"

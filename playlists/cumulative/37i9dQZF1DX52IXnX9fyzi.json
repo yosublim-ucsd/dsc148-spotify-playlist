@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 240709,
       "name": "A Glance From His Brown & Blue Eyes",
       "url": "https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 182500,
       "name": "Again",
       "url": "https://open.spotify.com/track/6SIvvPRlPqidyGaCwQZuVE"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 134010,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 319396,
       "name": "Change",
       "url": "https://open.spotify.com/track/3QPEngaGqubH9qeo3MrPv2"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 160972,
       "name": "Fairy Pools",
       "url": "https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 308000,
       "name": "For Chris",
       "url": "https://open.spotify.com/track/2rAeRLkoePtmTFsBpmEN92"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 191114,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 230000,
       "name": "Imbre (Piano)",
       "url": "https://open.spotify.com/track/2Jtgjd0oxZyDuaX08dwR55"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 136000,
       "name": "Le vol de l\u2019oiseau",
       "url": "https://open.spotify.com/track/4pAGwabwsTepSu5mAD9lv4"
@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 152740,
       "name": "Les murmures",
       "url": "https://open.spotify.com/track/5fe40JdDz3qqDB1vAQOaRr"
@@ -5183,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/38oQlqLZoUi6RPRvRANxGa"
+      },
+      "artists": [
+        {
+          "name": "Pass Sacaglia",
+          "url": "https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129239,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6tygCoz3aJHIO7pV7aGg1G"
+    },
+    {
+      "album": {
         "name": "Nocturne des elfes",
         "url": "https://open.spotify.com/album/7HcQg3Jr2itIFwIxFomtCy"
       },
@@ -5194,7 +5212,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 152000,
       "name": "Nocturne des elfes",
       "url": "https://open.spotify.com/track/0SndGJp12rItbzoR7DIczf"
@@ -6160,7 +6178,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 194194,
       "name": "Romance No 2 'Normandie'",
       "url": "https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA"
@@ -7710,7 +7728,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 193241,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3OuSwVoqxlaKO3MfcigSNp"
@@ -7746,7 +7764,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 139794,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0"
@@ -7818,7 +7836,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 137785,
       "name": "Toys around",
       "url": "https://open.spotify.com/track/0E6dS91D3AYdAKRKTCB5YI"

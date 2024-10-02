@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Abbot",
-  "num_followers": 131634,
+  "num_followers": 131664,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Nois \u00e9 Nois",
-        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nois \u00e9 Nois",
-      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -611,8 +611,8 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Para Todas do Job",
-        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
+        "name": "Sereia",
+        "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
       "artists": [
         {
@@ -620,29 +620,33 @@
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         },
         {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         },
         {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 255157,
-      "name": "Seu Job",
-      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
+      "duration_ms": 294418,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -879,8 +883,8 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Sereia",
-        "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
+        "name": "Para Todas do Job",
+        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
       },
       "artists": [
         {
@@ -888,33 +892,29 @@
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
         },
         {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
         }
       ],
-      "duration_ms": 294418,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+      "duration_ms": 255157,
+      "name": "Seu Job",
+      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Pr\u00f3ximo Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Hustle",
+          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LSG",
+          "url": "https://open.spotify.com/artist/6o6NZhTeBLatr9cW2CoKoX"
+        }
+      ],
+      "duration_ms": 192379,
+      "name": "Pr\u00f3ximo Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -1091,30 +1115,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Pr\u00f3ximo Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1bio Hustle",
-          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "LSG",
-          "url": "https://open.spotify.com/artist/6o6NZhTeBLatr9cW2CoKoX"
-        }
-      ],
-      "duration_ms": 192379,
-      "name": "Pr\u00f3ximo Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Mixtape Novset, Vol. 1",
         "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
       },
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "TREM ASTRO, VOL. 1",
-        "url": "https://open.spotify.com/album/5YiQzfty0RY8JAB4bx7pHK"
-      },
-      "artists": [
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        },
-        {
-          "name": "NaPista",
-          "url": "https://open.spotify.com/artist/7noaELdOPmJXFHKSlxhpVM"
-        },
-        {
-          "name": "Shark47",
-          "url": "https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "GIRO DE TREM",
-      "url": "https://open.spotify.com/track/55Wmcl6Ky4HBTDxtCd4P0L"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Lutas & Gl\u00f3rias",
         "url": "https://open.spotify.com/album/485P61YLgB9U6EGXRoU8h1"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 197052,
       "name": "Signo",
       "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "TREM ASTRO, VOL. 1",
+        "url": "https://open.spotify.com/album/5YiQzfty0RY8JAB4bx7pHK"
+      },
+      "artists": [
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        },
+        {
+          "name": "NaPista",
+          "url": "https://open.spotify.com/artist/7noaELdOPmJXFHKSlxhpVM"
+        },
+        {
+          "name": "Shark47",
+          "url": "https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "GIRO DE TREM",
+      "url": "https://open.spotify.com/track/55Wmcl6Ky4HBTDxtCd4P0L"
     },
     {
       "added_at": "2024-09-27 03:01:00",

@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem
 
-702 songs - 1 day 10 hr 57 min
+703 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 | 2023-03-17 | 2023-06-10 |
 | [delírio coletivo](https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [delírio coletivo](https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx) | 2:44 | 2023-08-18 | 2023-09-16 |
 | [Dentro de Um Pra Sempre](https://open.spotify.com/track/1rvHw5yWjvDTf1oWArAM8O) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Dentro de Um Pra Sempre](https://open.spotify.com/album/08iFkrBPToLgMmI78o7W5M) | 2:16 | 2024-08-09 | 2024-09-06 |
-| [Dentro Do Meu Peito](https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj) | [Dentro Do Meu Peito](https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG) | 3:18 | 2024-08-16 |  |
+| [Dentro Do Meu Peito](https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj) | [Dentro Do Meu Peito](https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG) | 3:18 | 2024-08-16 | 2024-10-02 |
 | [Depois de Te Encontrar](https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Depois de Te Encontrar](https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB) | 3:13 | 2022-11-11 | 2023-06-24 |
 | [Depois do Fim](https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 3:29 | 2023-04-14 | 2023-09-23 |
 | [Desacelerar](https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm) | [Cabelera](https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cortuah](https://open.spotify.com/artist/7kGUzXplnvy1ID4H75a6TA), [Pedro Malcher](https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6) | [Desacelerar](https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB) | 3:32 | 2024-05-24 | 2024-06-01 |
@@ -481,6 +481,7 @@
 | [Porta Do Teu Prédio](https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Mundo Novo](https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7) | 2:59 | 2022-06-03 | 2022-12-10 |
 | [Porta Retrato \- Acústico](https://open.spotify.com/track/7aVJS9Y99bHeZ2Q4ji2PqK) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Porta Retrato \(Acústico\)](https://open.spotify.com/album/1lAOMRnFbWv8eK8kkAw3Lm) | 2:46 | 2023-07-14 | 2023-09-09 |
 | [Porta Retrato \- Ao Vivo](https://open.spotify.com/track/0zZwVM8UrXq1ahEnMGuXEo) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Porta Retrato \(Ao Vivo\)](https://open.spotify.com/album/23WdEjWnQx1NJSyTRnSCcH) | 2:57 | 2023-06-16 | 2023-07-08 |
+| [Pq Vc Me Odeia Assim?](https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Pq Vc Me Odeia Assim?](https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm) | 2:57 | 2024-09-27 |  |
 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 | 2023-06-09 | 2023-07-01 |
 | [Pra Ser Nós Dois](https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ) | [Pra Ser Nós Dois](https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz) | 3:14 | 2023-01-20 | 2023-07-22 |
 | [Pra Te Conquistar](https://open.spotify.com/track/7vocZ3kbuEbt9ry3Gnic7E) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Pra Te Conquistar](https://open.spotify.com/album/03Pg25mTyw4O9HmKnph5ro) | 2:48 | 2022-05-13 | 2022-06-15 |

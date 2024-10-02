@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-389 songs - 17 hr 17 min
+390 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 | 2024-05-10 |
 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2021-12-10 | 2022-07-08 |
+| [Evening Glow](https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Evening Glow](https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB) | 2:42 | 2024-10-01 |  |
 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 | 2022-11-18 |  |
 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 | 2021-12-10 | 2024-04-06 |
 | [Everythings Better With You](https://open.spotify.com/track/0RV12YvPOxIqg21RqyxVPs) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:13 | 2022-03-03 | 2022-07-22 |

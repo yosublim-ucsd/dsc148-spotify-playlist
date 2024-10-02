@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mc Binn, Jovem MK, Dalsin, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,152 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,161 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 10 | [TREMBARBIE](https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [CORRE](https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI) | 2:46 |
 | 11 | [SÃO PAULO](https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [AK1N](https://open.spotify.com/artist/2b5gGLycbRqRXtC6Ylaw4j) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:53 |
 | 12 | [Por Amor E Por Lucro](https://open.spotify.com/track/7c5iSSkheCSPiHSfDcyG69) | [Ororo ii](https://open.spotify.com/artist/1vKsthVBmGCSW6MggvoMp1) | [Por Amor E Por Lucro](https://open.spotify.com/album/4YTGPhBPXsEe76Z0JWhKtQ) | 2:19 |
-| 13 | [Deixa Pensar](https://open.spotify.com/track/6jwve5VyehWjt7OrCvcv2X) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Nezq](https://open.spotify.com/artist/2cF1Y44kCR45YFK7bmXQ3D) | [Deixa Pensar](https://open.spotify.com/album/1E9mRUyhBJeHRV0cnVJYUh) | 2:15 |
+| 13 | [Deixa Pensar \- NEZQ REMIX](https://open.spotify.com/track/6jwve5VyehWjt7OrCvcv2X) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Nezq](https://open.spotify.com/artist/2cF1Y44kCR45YFK7bmXQ3D) | [Deixa Pensar \- NEZQ REMIX](https://open.spotify.com/album/1E9mRUyhBJeHRV0cnVJYUh) | 2:15 |
 | 14 | [Armamento do Irã](https://open.spotify.com/track/0f0UWMjbkFVqqzfNbZ63gK) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [D r o p e](https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Olympio](https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72) | [Armamento do Irã](https://open.spotify.com/album/314mnlgW2t6N71Kj6ZcCKo) | 4:19 |
 | 15 | [Pique Sonic](https://open.spotify.com/track/02wZkSSj1lHWkEl1sz2uwO) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [WM Pelegrino](https://open.spotify.com/artist/1pRSyckqeQWadtTknLdS3b) | [Pique Sonic](https://open.spotify.com/album/0LDetnXurulEjJ5lXIiB0d) | 3:11 |
 | 16 | [Espaço no Peito](https://open.spotify.com/track/165TCfzOLtAPzbiPJrAhIF) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Onde as Histórias Se Cruzam](https://open.spotify.com/album/37NcjosRhmvbUMmsStskKQ) | 2:38 |

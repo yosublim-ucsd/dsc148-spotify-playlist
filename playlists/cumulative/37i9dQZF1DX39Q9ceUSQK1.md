@@ -2,7 +2,7 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
+> Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
 143 songs - 8 hr 5 min
 

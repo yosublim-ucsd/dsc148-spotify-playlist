@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,317 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,348 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 75 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 76 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
 | 77 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
-| 78 | [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 |
-| 79 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
+| 78 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
+| 79 | [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 |
 | 80 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 81 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 |
 | 82 | [Heartbreak](https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh) | 2:24 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 96 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 |
 | 97 | [Ghost Of What Could Be](https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Ghost Of What Could Be](https://open.spotify.com/album/48X57POaib4oaROKyrYGvS) | 3:22 |
 | 98 | [All That I Lost](https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [All That I Lost](https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo) | 4:19 |
-| 99 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 |
-| 100 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
+| 99 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
+| 100 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 |
 | 101 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 102 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 | 103 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 121 | [a little bitter](https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [a little bitter](https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U) | 2:07 |
 | 122 | [Indigo](https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Indigo](https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq) | 3:13 |
 | 123 | [Better Alone](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Mirage](https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x) | 3:14 |
-| 124 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 |
-| 125 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
+| 124 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
+| 125 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 |
 
 Snapshot ID: `ZvrZKAAAAADHtitQxdwMgTRzRgGpjgV/`

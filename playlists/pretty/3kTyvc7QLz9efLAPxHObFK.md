@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,733 songs - 3 day 21 hr 7 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,734 songs - 3 day 21 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1741,5 +1741,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1731 | [Falling](https://open.spotify.com/track/1Cm4t39Z7fhcbG1wuO9a9t) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1) | [Falling](https://open.spotify.com/album/3MaLIhVXEMJf12LiTkAnxS) | 2:37 |
 | 1732 | [Ain't None Left](https://open.spotify.com/track/0LP5wVSqZ7JzCMIa6pyUhL) | [Vertex](https://open.spotify.com/artist/06uSZHEgm9wazsU9OGxnPq) | [Ain't None Left](https://open.spotify.com/album/1ASOOS819Z2vA0wkcqaDqV) | 3:56 |
 | 1733 | [Drive Me Crazy](https://open.spotify.com/track/6pAXFjQ0ijR51A6PZg7NSo) | [HETZKINEN](https://open.spotify.com/artist/6bERDnPnoFBo4ERukfbtuj) | [Drive Me Crazy](https://open.spotify.com/album/5mPX2fFLEcKb7jkvzxXZd0) | 2:53 |
+| 1734 | [Deepest Truth](https://open.spotify.com/track/1mPGgEenAV0pMLAdWOINax) | [WHØAMI](https://open.spotify.com/artist/1QoGCFi0O4ldlVJSZEijnw), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Deepest Truth](https://open.spotify.com/album/2GZHATjTUn0AxHGmnbUqqp) | 2:46 |
 
-Snapshot ID: `AAAG8uRALp4OKizCdSIY5vECO6zyyQcZ`
+Snapshot ID: `AAAG85STOC3uIDBUMUCuOWYhrKXwoanz`

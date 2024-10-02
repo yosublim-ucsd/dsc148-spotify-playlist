@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-807 songs - 1 day 10 hr 51 min
+810 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 | 2023-02-11 |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 | 2024-06-01 |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
-| [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2022-10-28 |  |
+| [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2022-10-28 | 2024-10-02 |
 | [Aneto](https://open.spotify.com/track/4UV0FMugzIiE8kVB8SqhrT) | [Andrea Sason](https://open.spotify.com/artist/64lOTag6a3vJGmEiW3lAJP) | [Aneto](https://open.spotify.com/album/0KFdc4Sh8UYggKtoDVao0Q) | 2:48 | 2021-12-08 | 2022-05-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
 | [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 |  |
@@ -123,6 +123,7 @@
 | [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2022-10-28 | 2024-04-20 |
 | [Cast Away](https://open.spotify.com/track/6ELU3LmFt2QjMzLnTUyC5M) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Cast Away](https://open.spotify.com/album/5W2jvQiILAJNhun9k3jKg9) | 1:50 | 2022-10-28 | 2023-08-19 |
 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
+| [Castlewood](https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Castlewood](https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf) | 2:10 | 2024-10-01 |  |
 | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/track/2bT6nZYVsS2kEiBtgqI5fg) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/album/1OpDZbJmR90Ackx5g5btGp) | 3:51 | 2022-04-05 | 2022-11-26 |
 | [Celta](https://open.spotify.com/track/6uJGXTjYGFsQLItDTJVdLb) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 2:48 | 2022-05-27 | 2022-09-09 |
 | [Chapada Dos Veadeiros](https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Chapada Dos Veadeiros](https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK) | 2:34 | 2021-12-08 | 2022-02-16 |
@@ -310,7 +311,7 @@
 | [Hours](https://open.spotify.com/track/3Eg3XbufTuk9LWhkSobKlX) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Hours](https://open.spotify.com/album/35N058QZy4FlJheUK0QLEh) | 2:07 | 2023-12-15 | 2024-06-01 |
 | [How Far Have We Come](https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Lake Varna](https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk) | 1:52 | 2023-03-10 | 2023-08-19 |
 | [Hugsanir](https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Hugsanir](https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx) | 3:12 | 2023-03-24 | 2024-04-20 |
-| [Hymne](https://open.spotify.com/track/2QhRwV0zmaKmOYUZlMqKPa) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Hymne](https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W) | 2:53 | 2023-01-06 |  |
+| [Hymne](https://open.spotify.com/track/2QhRwV0zmaKmOYUZlMqKPa) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Hymne](https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W) | 2:53 | 2023-01-06 | 2024-10-02 |
 | [I Am Her](https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [I Am Her](https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq) | 2:41 | 2023-02-10 |  |
 | [I Got You](https://open.spotify.com/track/5J5CHiTWPVOWwi8zLoQcrx) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [I Got You](https://open.spotify.com/album/1jrQLRtO0UzxZPk9BkBtR9) | 2:29 | 2023-05-26 |  |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-02-15 | 2023-05-13 |
@@ -586,7 +587,7 @@
 | [Rippling River](https://open.spotify.com/track/6Ls6jVhVg99y1j5qYM3r65) | [Sly Hickman](https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ) | [Rippling River](https://open.spotify.com/album/3wz1ublUOaW1mFsNM3ACmT) | 2:41 | 2023-08-10 | 2024-07-18 |
 | [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 |  |
 | [Riso](https://open.spotify.com/track/0wijlfBBmTPzrE8DoClLKL) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Riso](https://open.spotify.com/album/2VmFSZrAeIXRHOO2oX0flG) | 3:20 | 2022-10-07 | 2023-06-09 |
-| [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-03 |  |
+| [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-03 | 2024-10-02 |
 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 | 2022-09-09 | 2023-08-19 |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 | 2023-08-19 |
 | [Romina](https://open.spotify.com/track/56dLWbtZzayZIl9OtXQQNI) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:27 | 2021-12-08 | 2022-06-03 |
@@ -710,6 +711,7 @@
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 | 2022-09-23 |
 | [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2022-11-18 | 2023-06-03 |
+| [The Flower](https://open.spotify.com/track/1DvaEFXZrWjBL7mLe1EEDo) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [The Flower](https://open.spotify.com/album/7JOxzs00yBfKsr2ORbtbFJ) | 2:36 | 2024-10-01 |  |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-09-09 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2022-12-16 | 2024-06-01 |
 | [The Joker And The Queen](https://open.spotify.com/track/3G2ZshUqIBTDsyc9MWXNRJ) | [duo](https://open.spotify.com/artist/0Six3FVWVLG3jWr9UDLk6e) | [The Joker And The Queen](https://open.spotify.com/album/0sJU4C5EAU9XQ0pufWwRIX) | 2:37 | 2022-06-10 | 2022-07-15 |
@@ -789,6 +791,7 @@
 | [What Are Words](https://open.spotify.com/track/2dSfoV55JuQAMDZOFs1i9j) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [What Are Words](https://open.spotify.com/album/3j6grxFMfbuanNqs8EpjL6) | 2:42 | 2022-09-16 | 2023-05-26 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 |  |
 | [when the stars align](https://open.spotify.com/track/4JWkY1lHA5tTUCqyk0JFE1) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [when the stars align](https://open.spotify.com/album/7dd2msGOs5dEYWMjYAvcJq) | 3:06 | 2021-12-08 | 2022-04-22 |
+| [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 |  |
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 | 2022-10-07 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2022-11-18 |
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2022-10-07 | 2024-04-05 |

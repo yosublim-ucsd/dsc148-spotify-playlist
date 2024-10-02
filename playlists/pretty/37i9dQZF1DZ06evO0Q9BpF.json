@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 42661,
+  "num_followers": 42681,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAABPZJYKr7EyIdFYWO7s50/9",
+  "snapshot_id": "ZvnqAAAAAAAsiLJbiwB/sxjNXEncrr6b",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 258630,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 258630,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
@@ -779,34 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        }
-      ],
-      "duration_ms": 450186,
-      "name": "Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -816,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 287986,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
+      "duration_ms": 345973,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
     },
     {
       "added_at": null,
@@ -876,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 487160,
-      "name": "Jes\u00fas, Eres el Centro",
-      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
+      "duration_ms": 450186,
+      "name": "Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
     },
     {
       "added_at": null,
@@ -892,9 +864,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 345973,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
+      "duration_ms": 287986,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
     },
     {
       "added_at": null,
@@ -944,21 +916,17 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Daniela Quintero",
-          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
           "name": "Johan Manjarr\u00e9s",
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+      "duration_ms": 487160,
+      "name": "Jes\u00fas, Eres el Centro",
+      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
     },
     {
       "added_at": null,
@@ -991,6 +959,38 @@
       "duration_ms": 358459,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/0sLDtkjsVFrP4qntssprMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Dani Fern\u00e1ndez",
-  "num_followers": 965179,
+  "num_followers": 965149,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s"
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
         }
       ],
-      "duration_ms": 140867,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ"
+      "duration_ms": 266787,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 140867,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ"
+    },
+    {
+      "added_at": "2024-09-30 17:05:13",
+      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
-    },
-    {
-      "added_at": "2024-09-30 17:05:13",
-      "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
-        }
-      ],
-      "duration_ms": 266787,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
+        "name": "En Los Espejos",
+        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 197046,
+      "name": "En Los Espejos",
+      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
+    },
+    {
+      "added_at": "2024-09-30 17:05:13",
+      "album": {
         "name": "A Las 12",
         "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 188693,
       "name": "A Las 12",
       "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
-    },
-    {
-      "added_at": "2024-09-30 17:05:13",
-      "album": {
-        "name": "En Los Espejos",
-        "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 197046,
-      "name": "En Los Espejos",
-      "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
     },
     {
       "added_at": "2024-09-30 17:05:13",

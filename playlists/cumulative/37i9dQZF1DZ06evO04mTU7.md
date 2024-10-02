@@ -2,7 +2,7 @@
 
 ### [This Is Ajuliacosta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04mTU7)
 
-> This is Ajuliacosta\. The essential tracks, all in one playlist.
+> This Is Ajuliacosta\. Todas as faixas essenciais numa única playlist.
 
 32 songs - 1 hr 38 min
 

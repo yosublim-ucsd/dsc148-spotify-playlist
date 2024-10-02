@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 14 hr 12 min
+190 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Satin Doll \(Bossa Version\)](https://open.spotify.com/track/4OBJYZH6LOphWj6HAY9xNl) | [Maria Augusta](https://open.spotify.com/artist/5nfHJzpqgnoQKC4tlczmDN) | [Relaxing Bossa Lounge 2](https://open.spotify.com/album/3kdFfd43mViwrYO6G1y04X) | 2:11 | 2022-09-08 | 2024-09-09 |
 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 | 2022-09-08 |  |
 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 | 2022-09-08 |  |
+| [So This Is Love](https://open.spotify.com/track/6Q1XFkUgekCQXNZ23tt2hA) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 5:54 | 2024-10-01 |  |
 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 | 2023-05-18 |  |
 | [Something to Live For \- 2004 Remaster](https://open.spotify.com/track/4hHQu1QzXLI185BL7GIyXH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:56 | 2022-09-08 | 2023-05-19 |
 | [Sonnet for Caesar](https://open.spotify.com/track/3ePKylz8H0t1sNI1yBh5sS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:56 | 2022-09-08 |  |

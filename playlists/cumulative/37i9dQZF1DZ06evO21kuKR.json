@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 182533,
       "name": "Blow",
       "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 204557,
       "name": "Doin 2 Much",
       "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116141,
+      "name": "RAP N****S",
+      "url": "https://open.spotify.com/track/06dAi84ttJpX8MtNehYiAj"
+    },
+    {
+      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -1964,6 +1982,24 @@
       "duration_ms": 184489,
       "name": "Still",
       "url": "https://open.spotify.com/track/6kQIWvPDHKbwnjfdMEAMek"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158482,
+      "name": "SUM TO HATE ON",
+      "url": "https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA"
     },
     {
       "album": {

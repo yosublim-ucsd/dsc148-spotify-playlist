@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Wellsaid (Hong Kong)",
-  "num_followers": 101075,
+  "num_followers": 101107,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 200865,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "Putus",
         "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "All The Way Home",
-        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
       "artists": [
         {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 167100,
-      "name": "All The Way Home",
-      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -727,22 +743,6 @@
       "duration_ms": 173466,
       "name": "right where you left me",
       "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "WDYS",
         "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 144835,
       "name": "WDYS",
       "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "Rahsia Tuhan",
+        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "duration_ms": 287071,
+      "name": "Rahsia Tuhan",
+      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "undo",
         "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 208854,
       "name": "undo",
       "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1015,38 +1047,6 @@
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Rahsia Tuhan",
-        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
-      },
-      "artists": [
-        {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
-        }
-      ],
-      "duration_ms": 287071,
-      "name": "Rahsia Tuhan",
-      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
-      },
-      "artists": [
-        {
-          "name": "Lomba Sihir",
-          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
-        }
-      ],
-      "duration_ms": 233630,
-      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 116550,
-      "name": "No One Else",
-      "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 148465,
       "name": "INVITATION - Spotify Singles",
       "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 116550,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "Comets (with Petra Sihombing)",
         "url": "https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC"
       },
@@ -1203,22 +1223,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "\u5a01\u58eb\u5fcc",
-        "url": "https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE"
-      },
-      "artists": [
-        {
-          "name": "my little airport",
-          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
-        }
-      ],
-      "duration_ms": 177335,
-      "name": "\u5a01\u58eb\u5fcc",
-      "url": "https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "LOVERs ATLAS",
         "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
       },
@@ -1231,6 +1235,22 @@
       "duration_ms": 196977,
       "name": "WANDERLUST",
       "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "\u5a01\u58eb\u5fcc",
+        "url": "https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "duration_ms": 177335,
+      "name": "\u5a01\u58eb\u5fcc",
+      "url": "https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 218000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "duration_ms": 190777,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
+        "name": "love is growing",
+        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
       "artists": [
         {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
         }
       ],
-      "duration_ms": 190777,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS"
+      "duration_ms": 178422,
+      "name": "love is growing",
+      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "love is growing",
-        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
+        "name": "Now and Ever",
+        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
       "artists": [
         {
-          "name": "Plastic Plastic",
-          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
         }
       ],
-      "duration_ms": 178422,
-      "name": "love is growing",
-      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
+      "duration_ms": 220161,
+      "name": "Now and Ever",
+      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Now and Ever",
-        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
+        "name": "LosE tO yOu",
+        "url": "https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs"
       },
       "artists": [
         {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Now and Ever",
-      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
+      "duration_ms": 201176,
+      "name": "LosE tO yOu",
+      "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1451,18 +1467,34 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "LosE tO yOu",
-        "url": "https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs"
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
       },
       "artists": [
         {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
         }
       ],
-      "duration_ms": 201176,
-      "name": "LosE tO yOu",
-      "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
+      "duration_ms": 170578,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1479,22 +1511,6 @@
       "duration_ms": 257380,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "Love, Again",
-        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS"
-      },
-      "artists": [
-        {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "\"L\"",
         "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
@@ -1599,34 +1599,18 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+        "name": "REGRETS",
+        "url": "https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
-        "name": "\u30ea\u30c8\u30e9\u30a4",
-        "url": "https://open.spotify.com/album/2r5jWn7s25JwggSObjpLOH"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "\u30ea\u30c8\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/4v5yPMmyTpEQ006Uocw2qn"
+      "duration_ms": 176796,
+      "name": "REGRETS",
+      "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
     },
     {
       "added_at": "2024-09-26 23:37:49",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
+        "name": "\u30ea\u30c8\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/2r5jWn7s25JwggSObjpLOH"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "\u30ea\u30c8\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/4v5yPMmyTpEQ006Uocw2qn"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
         "name": "Staying up All Night",
         "url": "https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-09-26 23:37:49",
       "album": {
-        "name": "REGRETS",
-        "url": "https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm"
-      },
-      "artists": [
-        {
-          "name": "LAYYI",
-          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "REGRETS",
-      "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
-    },
-    {
-      "added_at": "2024-09-26 23:37:49",
-      "album": {
         "name": "Sweet Hurting",
         "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 214622,
       "name": "Sweet Hurting",
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
+    },
+    {
+      "added_at": "2024-09-26 23:37:49",
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
     },
     {
       "added_at": "2024-09-26 23:37:49",

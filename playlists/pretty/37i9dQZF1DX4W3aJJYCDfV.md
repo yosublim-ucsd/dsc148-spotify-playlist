@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from SOPHIE \(pictured\), Lady Gaga,  Nines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,993 likes - 118 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,026 likes - 118 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-353 songs - 14 hr 2 min
+354 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Marigold](https://open.spotify.com/track/2icvQWarn6VW4qsvjVSNNE) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Marigold](https://open.spotify.com/album/7GnQSCrxGXqo9bZjYA6xMS) | 2:12 | 2023-05-15 |  |
 | [Maybe One Day](https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j) | [Maybe One Day](https://open.spotify.com/album/7r5CWxx4KhtJGL5x6PrZeB) | 1:47 | 2023-05-15 | 2023-08-16 |
 | [Mellow Moonlit Melody](https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Mellow Moonlit Melody](https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu) | 2:41 | 2024-02-05 |  |
-| [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2023-05-15 |  |
+| [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2023-05-15 | 2024-10-02 |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2023-05-15 |  |
 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 | 2023-05-15 |  |
 | [Mondes Séparés](https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Mondes Séparés](https://open.spotify.com/album/3REt6vSBBZLsqVIMFh6lXB) | 2:53 | 2023-05-15 |  |
@@ -234,7 +234,7 @@
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2023-05-15 | 2023-08-16 |
 | [Now](https://open.spotify.com/track/2jFfDGcVzMONceohrF4Jre) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:02 | 2021-06-27 | 2023-05-16 |
 | [Nucleus](https://open.spotify.com/track/10VDlhdsvk4DH3jdbGKhwJ) | [Ivy Rue](https://open.spotify.com/artist/48wkAWDOLtRePHhfZA2TTH) | [Mandala](https://open.spotify.com/album/2msxQYAcX6bsWYnXbpGEm5) | 2:48 | 2021-06-27 | 2023-05-16 |
-| [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-05-15 |  |
+| [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-05-15 | 2024-10-02 |
 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 | 2023-05-15 |  |
 | [October](https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:48 | 2021-06-27 | 2023-05-16 |
 | [Offline](https://open.spotify.com/track/42URkE3AuolYqkxzuEXFpK) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Beyond The Range Of Sound](https://open.spotify.com/album/2D7r2hGxqWwJaCjLnTVtAr) | 2:43 | 2022-07-05 | 2023-05-16 |
@@ -242,6 +242,7 @@
 | [Old Rocking Chair](https://open.spotify.com/track/1X10yRHO4okiaQD6xI6H4U) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Old Rocking Chair](https://open.spotify.com/album/2eBjqwMuDyhYjnjC2qpjZ4) | 2:04 | 2023-05-15 | 2023-10-05 |
 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-05-15 | 2023-08-16 |
 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 | 2023-05-15 |  |
+| [Paradigm](https://open.spotify.com/track/28g9qzHCr2DFas0Uf5W23h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Paradigm](https://open.spotify.com/album/0tFUtq4lxoR8uP3oI2Uygs) | 2:41 | 2024-10-01 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-15 |  |
 | [Peaceful Mind](https://open.spotify.com/track/0xR5qpX99rvym6UwrQUlW9) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Inner Balance](https://open.spotify.com/album/6Ej5kB2huJ30SKb0QXgXei) | 3:24 | 2021-06-27 | 2023-05-16 |
 | [Penumbra](https://open.spotify.com/track/3vSr4VLkhQbomynssJYogW) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:41 | 2022-07-05 | 2023-05-16 |
@@ -280,7 +281,7 @@
 | [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
 | [Seasons Changing](https://open.spotify.com/track/7AmuUFfqrVzJSCcOLXDfgf) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 2:19 | 2021-06-27 | 2023-05-16 |
-| [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-15 |  |
+| [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-15 | 2024-10-02 |
 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2023-05-15 |  |
 | [Seraphic](https://open.spotify.com/track/1zIZWC0MW1PXp9lZRbZSZE) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Seraphic](https://open.spotify.com/album/4IRWMGnFOpOQbbA509nzxt) | 1:32 | 2023-05-15 | 2023-08-16 |
 | [Serene Solitude](https://open.spotify.com/track/45vuHzBLsQMveqJNn3oEuA) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/3njakiCY6X4agMnUdpRmB7) | 2:14 | 2021-06-27 | 2022-07-29 |

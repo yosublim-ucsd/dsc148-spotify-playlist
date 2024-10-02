@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Ascendance",
+        "url": "https://open.spotify.com/album/3HRjyOvY58X1luiwTC7Zmj"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Murali",
+          "url": "https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Ascendance",
+      "url": "https://open.spotify.com/track/6dUU5GZHOMacqVLYU38VEr"
+    },
+    {
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
       },

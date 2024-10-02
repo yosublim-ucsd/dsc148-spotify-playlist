@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,164 songs - 2 day 14 hr 34 min
+1,165 songs - 2 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,7 @@
 | [Low Rider \- Kyle Watson Remix](https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Low Rider \(Kyle Watson Remix\)](https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji) | 3:20 | 2024-04-19 | 2024-09-07 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2020-08-04 | 2021-10-14 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-05-24 |  |
-| [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2024-04-19 |  |
+| [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2024-04-19 | 2024-10-02 |
 | [Magic Carpet](https://open.spotify.com/track/4BAc3BAru7sZajWAftSsAA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/7bjaj1UGXKRZA9SiOtBNu4) | 2:48 | 2021-04-20 | 2022-04-19 |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2021-12-13 | 2022-07-15 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-12-17 | 2022-08-19 |
@@ -963,6 +963,7 @@
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-05-27 | 2023-05-27 |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-29 | 2023-05-27 |
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-10-12 | 2022-04-15 |
+| [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 | 2024-09-27 |  |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-04-01 | 2023-04-07 |
 | [Stockholm](https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stockholm](https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2) | 3:17 | 2020-12-27 | 2021-11-20 |
 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 | 2021-12-17 | 2022-07-30 |

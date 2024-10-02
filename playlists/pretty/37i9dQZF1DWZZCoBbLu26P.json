@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 90116,
+  "num_followers": 90132,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 204245,
       "name": "Empty",
       "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Straight Outta Oz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Rye Rye vs. Filthy Fidgets",
         "url": "https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc"
       },
@@ -1371,6 +1351,46 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Till Death Do Us Party",
+        "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
+      },
+      "artists": [
+        {
+          "name": "Adore Delano",
+          "url": "https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 232316,
+      "name": "I Look Fuckin Cool (feat. Alaska Thunderfuck)",
+      "url": "https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Straight Outta Oz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Turned Heads",
         "url": "https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 142500,
       "name": "Turned Heads",
       "url": "https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "God Save This Queen",
-        "url": "https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 194105,
-      "name": "God Save This Queen",
-      "url": "https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK"
     },
     {
       "added_at": "2024-05-31 17:55:47",

@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
+    },
+    {
+      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },

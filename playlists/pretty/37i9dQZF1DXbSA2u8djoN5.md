@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Pepy, Sami G
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,008 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,015 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Adevaru' obscen](https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG) | [Alan](https://open.spotify.com/artist/6bed33pnmAGVK3hyip7xo4), [Cheloo](https://open.spotify.com/artist/6JK8YGmVPJR1FM7P9BSQtE) | [31 Februarie](https://open.spotify.com/album/1sy5FydU38TaXUe6dbdb1A) | 2:49 |
 | 46 | [Dela Dela](https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Dela Dela](https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz) | 2:47 |
 | 47 | [Banii Vin, Banii Pleaca](https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz) | [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Mutu](https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP) | [Banii Vin, Banii Pleaca](https://open.spotify.com/album/4tQ5FqvXxVkhNw02Z0mUTs) | 3:58 |
-| 48 | [0 contact](https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [0 contact](https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH) | 2:30 |
-| 49 | [Legenda](https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Legenda](https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP) | 2:39 |
-| 50 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 |
+| 48 | [Legenda](https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Legenda](https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP) | 2:39 |
+| 49 | [0 contact](https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [0 contact](https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH) | 2:30 |
+| 50 | [Grădina interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 |
 
 Snapshot ID: `ZvXLUAAAAABeS7dgrdCt5cWQ6Yh4wD+G`

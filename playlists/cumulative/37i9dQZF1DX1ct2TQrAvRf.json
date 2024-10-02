@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 272197,
       "name": "3:59 AM",
       "url": "https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo"
@@ -466,10 +466,32 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 154555,
       "name": "BADA",
       "url": "https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es"
+    },
+    {
+      "album": {
+        "name": "How Much a Rhyme Costs?",
+        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "BADA",
+      "url": "https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K"
     },
     {
       "album": {
@@ -876,7 +898,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 183756,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
@@ -1494,6 +1516,32 @@
       "duration_ms": 209940,
       "name": "F16",
       "url": "https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK"
+    },
+    {
+      "album": {
+        "name": "Farida Drip",
+        "url": "https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO"
+      },
+      "artists": [
+        {
+          "name": "Ferozi",
+          "url": "https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "ZeroToOne",
+          "url": "https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251061,
+      "name": "Farida Drip",
+      "url": "https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ"
     },
     {
       "album": {
@@ -2564,6 +2612,32 @@
       "duration_ms": 144000,
       "name": "Kya Bolti Public",
       "url": "https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl"
+    },
+    {
+      "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
     },
     {
       "album": {

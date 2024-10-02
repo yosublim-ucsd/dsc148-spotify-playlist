@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-588 songs - 1 day 6 hr 0 min
+591 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Forever Yours](https://open.spotify.com/track/3756RYg6B88hMEFRoMbarD) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [Forever Yours](https://open.spotify.com/album/7MEbAca7yBtqEEnagaxQR9) | 2:56 | 2024-02-02 |  |
 | [Four Casinos](https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Four Casinos](https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a) | 2:28 | 2023-05-25 |  |
 | [Freetown](https://open.spotify.com/track/3x9NLVXW9Zjtw2t2YTI0Ug) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Freetown](https://open.spotify.com/album/3JgH3bz1yPuu2GdxoRQlC8) | 2:20 | 2024-05-10 |  |
-| [Friends And Strangers](https://open.spotify.com/track/6tZc3j3MwIP4dg4eiz6qgX) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Friends And Strangers](https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG) | 2:36 | 2023-04-13 |  |
+| [Friends And Strangers](https://open.spotify.com/track/6tZc3j3MwIP4dg4eiz6qgX) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Friends And Strangers](https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG) | 2:36 | 2023-04-13 | 2024-10-02 |
 | [From Now on](https://open.spotify.com/track/47XEkNeHaDlKs440AyBMij) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [From Now on](https://open.spotify.com/album/1ceMaaWO0tpwrgx7LzLeuJ) | 2:35 | 2024-04-17 |  |
 | [From The Moment \(When We Kissed\)](https://open.spotify.com/track/3CuXYUD4I9WUUremPavOWb) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [From The Moment \(When We Kissed\)](https://open.spotify.com/album/3YoAr5li2rHJEorMksbwc1) | 4:11 | 2024-02-02 |  |
 | [From Time to Time](https://open.spotify.com/track/6gNC7cRPBFpBU59bwIKf9i) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [From Time to Time](https://open.spotify.com/album/2OmV7z1u2n4CDgJjuDdAxG) | 3:09 | 2024-07-22 |  |
@@ -300,6 +300,7 @@
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let Me know you](https://open.spotify.com/track/7Go50FPzlQ1qlBUaZa8PTj) | [Elliot Baxter](https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq) | [Let Me know you](https://open.spotify.com/album/3roUKIfkQYUfbCstEpTLYr) | 2:41 | 2024-02-02 |  |
 | [Let us go](https://open.spotify.com/track/1mktGHzwYkZp9CtcZXY6Lo) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Let us go](https://open.spotify.com/album/2E5xCcnk1weh6XdcnGyARg) | 2:36 | 2024-05-23 |  |
+| [Let's Call It A Night](https://open.spotify.com/track/30M04XvBDBoXBLEQUjtpg8) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Let's Call It A Night](https://open.spotify.com/album/1MNq2XzxYiohinO3prxBZy) | 3:20 | 2024-10-01 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 | 2022-10-14 |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-10 |  |
@@ -384,6 +385,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
 | [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 | 2023-10-27 |  |
 | [One Last Time](https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [One Last Time](https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y) | 3:06 | 2024-07-01 |  |
+| [Only A Few Will Know](https://open.spotify.com/track/5wv2EtqjTwRsVM9oFSQAln) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Only A Few Will Know](https://open.spotify.com/album/7o7Vhmq9212zMiNymtnPCi) | 2:41 | 2024-10-01 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 |  |
 | [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 | 2024-06-27 |  |
 | [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 | 2024-04-23 |  |
@@ -426,7 +428,7 @@
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2021-12-07 |  |
 | [Ruby](https://open.spotify.com/track/5x2hTynUs8yDiSpVgGpr7l) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Ruby](https://open.spotify.com/album/13zd5VDn9IMCQllBEg0xKK) | 2:56 | 2023-09-22 | 2024-07-13 |
 | [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-17 |  |
-| [Same As Usual](https://open.spotify.com/track/7E7UnuDjlg1rLIrOvPfXxC) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Same As Usual](https://open.spotify.com/album/0DqnmKlSE720tR5xG1AFu7) | 2:36 | 2023-12-22 |  |
+| [Same As Usual](https://open.spotify.com/track/7E7UnuDjlg1rLIrOvPfXxC) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Same As Usual](https://open.spotify.com/album/0DqnmKlSE720tR5xG1AFu7) | 2:36 | 2023-12-22 | 2024-10-02 |
 | [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 | 2022-06-28 | 2023-08-11 |
 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2021-12-07 | 2022-07-29 |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
@@ -435,8 +437,9 @@
 | [Second Time Around](https://open.spotify.com/track/6UVDL7iRD2koITeSrXeYo0) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [Second Time Around](https://open.spotify.com/album/7KJ6N0sOmOUq9oEH4TAoXZ) | 2:08 | 2023-12-22 |  |
 | [See you tomorrow](https://open.spotify.com/track/5ApP4J3IcZF6kFoldItSWy) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [See you tomorrow](https://open.spotify.com/album/7alzLpjhSmsL2Ixpc7WGgE) | 2:23 | 2024-01-05 |  |
 | [Sense of deja vu](https://open.spotify.com/track/6skHdCKQql2JWRHv7A6kY0) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Sense of deja vu](https://open.spotify.com/album/5xiZ8E2KJx45TZ8tRVfff7) | 2:51 | 2023-08-10 |  |
-| [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2021-12-07 |  |
+| [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2021-12-07 | 2024-10-02 |
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-01-12 |  |
+| [Serevine](https://open.spotify.com/track/1U7fnO16fpCkir1Z8RDdt3) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Serevine](https://open.spotify.com/album/3tQ1FcoKMbTXPZkOmbkvIJ) | 2:05 | 2024-10-01 |  |
 | [She's Funny That Way](https://open.spotify.com/track/0ntMtObu5NMlzV17NSvhPg) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [She's Funny That Way](https://open.spotify.com/album/5yYAlWUjZX4PR2gHMaPyh6) | 2:23 | 2023-08-24 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 | 2023-05-12 |
 | [Silent Call](https://open.spotify.com/track/5rhov9NtT0zwqbLp7mcdba) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [Silent Call](https://open.spotify.com/album/0xLTLcBS1IsAcdxwfaaMbC) | 2:42 | 2024-02-09 |  |
@@ -545,7 +548,7 @@
 | [Till There Was You](https://open.spotify.com/track/3bGhklfS5vo11uM9kBnbyB) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Till There Was You](https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud) | 2:50 | 2023-04-20 |  |
 | [Time After Time](https://open.spotify.com/track/7IbI6WVoXnkqeQf4pLAwDU) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Time After Time](https://open.spotify.com/album/4M6Bq1RqYhUntzbNeRzwJr) | 3:55 | 2023-02-02 |  |
 | [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 | 2021-12-07 | 2022-05-10 |
-| [Time for Us](https://open.spotify.com/track/4XPbuoNpOWfesJne5WybtR) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Time for Us](https://open.spotify.com/album/45Qb4Al8EDwOjUA5P1F7zR) | 4:03 | 2024-04-17 |  |
+| [Time for Us](https://open.spotify.com/track/4XPbuoNpOWfesJne5WybtR) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Time for Us](https://open.spotify.com/album/45Qb4Al8EDwOjUA5P1F7zR) | 4:03 | 2024-04-17 | 2024-10-02 |
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2021-12-07 | 2023-05-05 |
 | [Time To Get Up](https://open.spotify.com/track/7dQfkjzkxNBOe3fCYHUT0k) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Time To Get Up](https://open.spotify.com/album/0w8CiCc5msPiV5kuJaIxbv) | 2:44 | 2024-03-22 |  |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-11 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Static-X\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 37005,
+  "description": "This is Static-X. The essential tracks, all in one playlist.",
+  "num_followers": 37001,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADq2b5m68csov3khax4cVKK",
+  "snapshot_id": "ZvnqAAAAAAC3S15gabRkGJ5x5QcmJMf4",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
+      "duration_ms": 177226,
+      "name": "This Is Not",
+      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 177226,
-      "name": "This Is Not",
-      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
+      "duration_ms": 179586,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+      "duration_ms": 243693,
+      "name": "Anything but This",
+      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Anything but This",
-      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
+      "duration_ms": 166133,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
     }
   ],
   "unique_name": "This Is Static-X",

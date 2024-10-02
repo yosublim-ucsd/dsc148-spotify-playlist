@@ -1,12 +1,12 @@
 {
-  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61006,
+  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
+  "num_followers": 61018,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAAuiWMIXUJkBX4mD5IHz8vD",
+  "snapshot_id": "ZvnqAAAAAACAJioyxwcfWYxdPGCLV422",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Hist\u00e9ricos",
-      "url": "https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bombas",
         "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 245857,
       "name": "Bombas",
       "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Hist\u00e9ricos",
+      "url": "https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/0DiDWvm0wS3kGncKLVlHbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mediocre",
         "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 201471,
       "name": "A un Paso de Baile de Ti",
       "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/0DiDWvm0wS3kGncKLVlHbE"
     },
     {
       "added_at": null,

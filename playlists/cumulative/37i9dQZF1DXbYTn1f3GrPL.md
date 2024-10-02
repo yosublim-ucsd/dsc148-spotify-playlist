@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-254 songs - 10 hr 57 min
+255 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2023-04-03 | 2023-08-02 |
 | [Collecting Coins](https://open.spotify.com/track/411YPKaT1EFNzLUKttpB1w) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Collecting Coins](https://open.spotify.com/album/5kQBkssjm9tXTw6WInvHYx) | 2:28 | 2023-04-03 |  |
 | [Colours I Have Never Seen](https://open.spotify.com/track/2Bvl6xJMoUeOPPX3iVgKdK) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Colours I Have Never Seen](https://open.spotify.com/album/1LQn3dB82RyoBFthigd9Ro) | 2:00 | 2023-04-03 |  |
-| [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-04-03 |  |
+| [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-04-03 | 2024-10-02 |
 | [Consolation](https://open.spotify.com/track/5DfnvePy8Gw9vPoD2Q6LBC) | [Luiza Delma](https://open.spotify.com/artist/6peVpFZZljbb4UEsYhlS7q) | [Consolation](https://open.spotify.com/album/0PlKcFXf5aU7M4RXiPqCHC) | 1:49 | 2023-05-15 | 2023-08-22 |
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2023-04-03 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-04-03 |  |
@@ -96,6 +96,7 @@
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2023-04-03 |  |
 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 | 2023-04-03 |  |
 | [Green Leaves](https://open.spotify.com/track/6mDFYF6gUf6GbpP7eAPXWW) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Green Leaves](https://open.spotify.com/album/0zmGbTMtQIjxEEXgvcpRK1) | 2:22 | 2023-04-03 | 2023-04-19 |
+| [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 | 2024-10-01 |  |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2023-04-03 |  |
 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 | 2023-04-03 |  |
 | [Helios](https://open.spotify.com/track/2mzegxnsZYzuDcZD0gcIS0) | [Tommaso Farinetti](https://open.spotify.com/artist/5xt6w0ov3upD2D8eScoH91) | [Helios](https://open.spotify.com/album/7lSooE86ZL7HhFs83COAhk) | 2:50 | 2023-04-03 |  |
@@ -117,7 +118,7 @@
 | [Kleine Forelle](https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 1:58 | 2023-04-03 | 2023-08-22 |
 | [L'hiver](https://open.spotify.com/track/7aK6ta2RLhGEvgWpseGXMY) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [L'hiver](https://open.spotify.com/album/0tFUWmFQoy6ATytDer3V66) | 1:41 | 2024-02-13 |  |
 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 | 2023-04-03 |  |
-| [La Vie Est Un Rêve](https://open.spotify.com/track/0BOiThUDNdqjVwtDrdXdC4) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [La Vie Est Un Rêve](https://open.spotify.com/album/7DYxURozysSGXLCrxnp6ht) | 2:24 | 2024-09-09 |  |
+| [La Vie Est Un Rêve](https://open.spotify.com/track/0BOiThUDNdqjVwtDrdXdC4) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [La Vie Est Un Rêve](https://open.spotify.com/album/7DYxURozysSGXLCrxnp6ht) | 2:24 | 2024-09-09 | 2024-10-02 |
 | [Largo](https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Afterglow](https://open.spotify.com/album/6Xc8TRCE8M96FBYcPp34YT) | 3:13 | 2023-04-03 |  |
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2023-04-03 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2023-04-03 | 2023-08-02 |
@@ -199,7 +200,7 @@
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2023-04-03 |  |
 | [Sleeping On Clouds](https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Sleeping On Clouds](https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3) | 2:00 | 2023-11-29 |  |
 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 | 2024-04-15 |  |
-| [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2023-04-03 |  |
+| [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2023-04-03 | 2024-10-02 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2023-04-03 |  |
 | [Small Shelter](https://open.spotify.com/track/5Jo3ULRpXZqzc4bY8uhdFm) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Small Shelter](https://open.spotify.com/album/586Tbs7Rzob4HBU0eyCAId) | 1:41 | 2023-07-24 | 2023-08-22 |
 | [Snuggle Snore](https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Snuggle Snore](https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J) | 1:33 | 2023-05-03 | 2023-08-22 |
@@ -229,7 +230,7 @@
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-04-03 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-03 | 2023-09-19 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2023-04-03 |  |
-| [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2023-04-03 |  |
+| [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2023-04-03 | 2024-10-02 |
 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2023-04-03 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2023-04-03 |  |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2023-04-03 |  |

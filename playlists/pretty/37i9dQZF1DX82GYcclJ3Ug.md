@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Beach Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,912 likes - 125 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,003 likes - 125 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Morat en portada.",
-  "num_followers": 31320,
+  "num_followers": 31333,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 179520,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 325145,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Brujer\u00eda",
+        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 173747,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Biling\u00fces",
         "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Brujer\u00eda",
-        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 173747,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "El Pasadiscos",
+        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 270335,
+      "name": "El Pasadiscos",
+      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Clich\u00e9s",
         "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Pasadiscos",
-        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
       },
       "artists": [
         {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 270335,
-      "name": "El Pasadiscos",
-      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 245586,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sarajevo",
-        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
+        "name": "playaplaya",
+        "url": "https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Cum Laude",
-      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
+      "duration_ms": 165306,
+      "name": "playaplaya",
+      "url": "https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1143,22 +1143,6 @@
       "duration_ms": 193360,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "playaplaya",
-        "url": "https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "playaplaya",
-      "url": "https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sarajevo",
+        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Cum Laude",
+      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1243,22 +1243,6 @@
       "duration_ms": 189746,
       "name": "\u00c9rase Una Vez (Pero Ya No)",
       "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Nueva Inglaterra",
-      "url": "https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 184838,
       "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     }
   ],
   "unique_name": "Pop Rock Latino",

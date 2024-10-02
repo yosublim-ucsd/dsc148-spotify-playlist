@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 65301,
+  "num_followers": 65404,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2024-09-30 07:41:34",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 208910,
-      "name": "Woman Commando (feat. Anitta & Coco Jones)",
-      "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
         "name": "Close To Me (feat. Bnxn)",
         "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 156831,
       "name": "Close To Me (feat. Bnxn)",
       "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 208910,
+      "name": "Woman Commando (feat. Anitta & Coco Jones)",
+      "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
     },
     {
       "added_at": "2024-09-30 07:41:34",
@@ -1207,6 +1207,46 @@
     {
       "added_at": "2024-09-30 07:41:34",
       "album": {
+        "name": "Finish Me (AEIOU)",
+        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 91428,
+      "name": "Finish Me (AEIOU)",
+      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -1247,46 +1287,6 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
-        "name": "Finish Me (AEIOU)",
-        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 91428,
-      "name": "Finish Me (AEIOU)",
-      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
     },
     {
       "added_at": "2024-09-30 07:41:34",
@@ -1503,50 +1503,6 @@
     {
       "added_at": "2024-09-30 07:41:34",
       "album": {
-        "name": "BOMBING",
-        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
-      },
-      "artists": [
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        },
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "BOMBING",
-      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
         "name": "Yoga",
         "url": "https://open.spotify.com/album/4fjvBWYPNyhtNaKEYQYUUU"
       },
@@ -1571,6 +1527,50 @@
     {
       "added_at": "2024-09-30 07:41:34",
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
+        "name": "BOMBING",
+        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
+      },
+      "artists": [
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "BOMBING",
+      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
         "name": "Jigga (feat. Khaid)",
         "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
       },
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-09-30 07:41:34",
       "album": {
-        "name": "Continental (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Continental (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
-    },
-    {
-      "added_at": "2024-09-30 07:41:34",
-      "album": {
         "name": "Queen N More",
         "url": "https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 143510,
       "name": "Queen N More",
       "url": "https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC"
+    },
+    {
+      "added_at": "2024-09-30 07:41:34",
+      "album": {
+        "name": "Continental (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Continental (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
     }
   ],
   "unique_name": "Party Dey!",

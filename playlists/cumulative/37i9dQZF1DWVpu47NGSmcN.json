@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Abadi",
+        "url": "https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232212,
+      "name": "Abadi",
+      "url": "https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm"
+    },
+    {
+      "album": {
         "name": "Aku Rindu",
         "url": "https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 248512,
       "name": "Aku Rindu",
       "url": "https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 285739,
       "name": "Arutala",
       "url": "https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6"
@@ -113,6 +131,42 @@
     },
     {
       "album": {
+        "name": "Bagaimana Kabarmu?",
+        "url": "https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265361,
+      "name": "Bagaimana Kabarmu?",
+      "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
+    },
+    {
+      "album": {
+        "name": "Bahagia Tanpaku",
+        "url": "https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Bahagia Tanpaku",
+      "url": "https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ"
+    },
+    {
+      "album": {
         "name": "Be There for You",
         "url": "https://open.spotify.com/album/1dfzuM1P1PzBdJMxGXmz12"
       },
@@ -128,6 +182,24 @@
       "duration_ms": 207000,
       "name": "Be There for You",
       "url": "https://open.spotify.com/track/1FK4AGndttnVCBQKBgj0AK"
+    },
+    {
+      "album": {
+        "name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
+        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236784,
+      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
     },
     {
       "album": {
@@ -308,10 +380,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 252679,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb"
+    },
+    {
+      "album": {
+        "name": "Di Depan Mata",
+        "url": "https://open.spotify.com/album/6Ryjq3Sbvru0bQhzPZQRwC"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157292,
+      "name": "Di Depan Mata",
+      "url": "https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y"
     },
     {
       "album": {
@@ -362,7 +452,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 205000,
       "name": "F Yo Love Song",
       "url": "https://open.spotify.com/track/4DMaj2iE8FV1oGADMHPqwX"
@@ -452,7 +542,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 270036,
       "name": "Halu - Mempersembahkan, Ibu",
       "url": "https://open.spotify.com/track/2fNswpaOcntYBgxfVprwD0"
@@ -560,7 +650,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 199054,
       "name": "Katakanlah",
       "url": "https://open.spotify.com/track/2amvo8crQG0NXuDyb4oufo"
@@ -600,6 +690,24 @@
       "duration_ms": 284136,
       "name": "Kini Mereka Tahu",
       "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
+    },
+    {
+      "album": {
+        "name": "Kini Sempurna",
+        "url": "https://open.spotify.com/album/1ztTCm7X8JxjAazZhwWdYX"
+      },
+      "artists": [
+        {
+          "name": "Alisha Dira",
+          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244561,
+      "name": "Kini Sempurna",
+      "url": "https://open.spotify.com/track/4n6QwDwsn93HdFaWmm8x7t"
     },
     {
       "album": {
@@ -765,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Minimal Tanggung Jawab",
+        "url": "https://open.spotify.com/album/5KTr4qRnvcrO7lnq6U6KcH"
+      },
+      "artists": [
+        {
+          "name": "Alisha Dira",
+          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Minimal Tanggung Jawab",
+      "url": "https://open.spotify.com/track/6KM0kkyf68FPDgNHFMkq6E"
+    },
+    {
+      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/4v3rgXtalrcPHrYD6I3bMv"
       },
@@ -819,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Nomor Satu",
+        "url": "https://open.spotify.com/album/0iSGNSqSYEokAF47QbcU3Q"
+      },
+      "artists": [
+        {
+          "name": "bungareyza",
+          "url": "https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230571,
+      "name": "Nomor Satu",
+      "url": "https://open.spotify.com/track/57EvfEDG4agFn1a0SLbHbk"
+    },
+    {
+      "album": {
         "name": "Oh! All My Love (From \"Alpha Girls\")",
         "url": "https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De"
       },
@@ -834,7 +978,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 170679,
       "name": "Oh! All My Love (From \"Alpha Girls\")",
       "url": "https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi"
@@ -852,7 +996,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 172501,
       "name": "Party In Bali (PIB)",
       "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
@@ -870,7 +1014,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 207755,
       "name": "Pemilik Rindu",
       "url": "https://open.spotify.com/track/2pIyUkqlkIbinlSyy4pBEv"
@@ -942,7 +1086,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 142380,
       "name": "Renaissance Man",
       "url": "https://open.spotify.com/track/3kkrXydZaaor24348eYbIp"
@@ -985,6 +1129,42 @@
     },
     {
       "album": {
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+    },
+    {
+      "album": {
+        "name": "Mengudara",
+        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285071,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "album": {
         "name": "Selamanya",
         "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
       },
@@ -1018,6 +1198,24 @@
       "duration_ms": 276187,
       "name": "Semesta Belum Terima",
       "url": "https://open.spotify.com/track/4UqXky0r8xGezVhRgOjWsn"
+    },
+    {
+      "album": {
+        "name": "Hitam Putih",
+        "url": "https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239427,
+      "name": "Semoga Ada Waktu Luang",
+      "url": "https://open.spotify.com/track/6xKg948XDmszEygPYYUMIP"
     },
     {
       "album": {
@@ -1057,6 +1255,42 @@
     },
     {
       "album": {
+        "name": "Setengah Mati",
+        "url": "https://open.spotify.com/album/2mxdaxRwbCPb4LJocikOdV"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "Setengah Mati",
+      "url": "https://open.spotify.com/track/2sib1td5WKu4oWpH3RqX7v"
+    },
+    {
+      "album": {
+        "name": "Setengah Mati (From \"Bila Esok Ibu Tiada\")",
+        "url": "https://open.spotify.com/album/5xgGkD8AlVjkwa6nxOotUH"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239992,
+      "name": "Setengah Mati - From \"Bila Esok Ibu Tiada\"",
+      "url": "https://open.spotify.com/track/7tCxRQhDcXehM90nj4Nsit"
+    },
+    {
+      "album": {
         "name": "Si Perkasa",
         "url": "https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI"
       },
@@ -1086,7 +1320,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -1230,7 +1464,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 228533,
       "name": "Tak Semanis Dulu",
       "url": "https://open.spotify.com/track/0BadwcjiLlFYPl04GnwtnL"
@@ -1338,7 +1572,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 255599,
       "name": "Terima Kasih Sudah Bertahan",
       "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
@@ -1360,6 +1594,24 @@
       "duration_ms": 174168,
       "name": "Ternyata",
       "url": "https://open.spotify.com/track/7MQW08eDg5CTLhtILqkKN7"
+    },
+    {
+      "album": {
+        "name": "Tersemogakan",
+        "url": "https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254189,
+      "name": "Tersemogakan",
+      "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
     },
     {
       "album": {
@@ -1432,7 +1684,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 341162,
       "name": "UNLOCK THE KEY - Piano Version",
       "url": "https://open.spotify.com/track/0GwTKjINm2NPkT9L744era"
@@ -1454,6 +1706,24 @@
       "duration_ms": 217200,
       "name": "Usai",
       "url": "https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll"
+    },
+    {
+      "album": {
+        "name": "Wahai Tuan",
+        "url": "https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz"
+      },
+      "artists": [
+        {
+          "name": "bungareyza",
+          "url": "https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194664,
+      "name": "Wahai Tuan",
+      "url": "https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1"
     },
     {
       "album": {
@@ -1486,7 +1756,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 245147,
       "name": "Wanita Biasa",
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"

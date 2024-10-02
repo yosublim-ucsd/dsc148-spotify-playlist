@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "Childish",
+      "url": "https://open.spotify.com/track/2BMhaksbPZEVPUx4U98WgK"
+    },
+    {
+      "album": {
         "name": "China Plate / Sivonium",
         "url": "https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE"
       },
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 309547,
       "name": "No More",
       "url": "https://open.spotify.com/track/3IVzg7wBPT6h4oJbjd34uS"

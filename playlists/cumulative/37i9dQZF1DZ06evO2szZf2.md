@@ -2,7 +2,7 @@
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This Is Mc Dricka\. Todas as faixas essenciais numa única playlist.
 
 95 songs - 5 hr 46 min
 

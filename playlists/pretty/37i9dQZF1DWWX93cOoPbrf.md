@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,672 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,813 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 91 | [Juan Carlos "Lefty SM"](https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [El Caminito](https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4) | 2:58 |
 | 92 | [El Chachito](https://open.spotify.com/track/2K9B0QsqfVsE43htIOo6Bm) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [El Chachito](https://open.spotify.com/album/5HLgyxJocH5yzmfpu4QZi1) | 3:38 |
 | 93 | [El Artista](https://open.spotify.com/track/7lV31xTiwZskjsds1CM7BR) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Artista](https://open.spotify.com/album/04DgkXvM1IoozkAl4Yyo1l) | 3:01 |
-| 94 | [El León En Su Manada](https://open.spotify.com/track/2PwnhIoZKlj3PpaifyXt0W) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [El León En Su Manada](https://open.spotify.com/album/4nZt2WMUbsFabCYg5LXlG0) | 3:16 |
+| 94 | [El León En Su Manada](https://open.spotify.com/track/2PwnhIoZKlj3PpaifyXt0W) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Manzana For Life](https://open.spotify.com/artist/4lLZY8V5ioycz7OF4pPPrJ) | [El León En Su Manada](https://open.spotify.com/album/4nZt2WMUbsFabCYg5LXlG0) | 3:16 |
 | 95 | [Si Me Miran](https://open.spotify.com/track/1X6Huc29KqhvdGTiU9dSP3) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Si Me Miran](https://open.spotify.com/album/4HpUoIDbCTng44JgLMALZU) | 3:12 |
 | 96 | [Vida de Rey](https://open.spotify.com/track/3edsVTx431VcsgNdGV2p1T) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Vida de Rey](https://open.spotify.com/album/5J4JPaJLcyg8mgooBvW9XW) | 4:02 |
 | 97 | [El de los 7 Chinos \(En Vivo\)](https://open.spotify.com/track/35LrSWA4EBbB3vOcAALOZe) | [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [El de los 7 Chinos \(En Vivo\)](https://open.spotify.com/album/4SfKwU0sIAHzmaWky8wN5r) | 2:51 |

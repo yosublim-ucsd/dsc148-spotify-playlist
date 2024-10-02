@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-171 songs - 11 hr 56 min
+172 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 | 2022-06-07 |  |
 | [AOTF\-s3](https://open.spotify.com/track/781lnywJl6ruxJzFF2kj6P) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 3:42 | 2022-06-21 | 2024-04-19 |
 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2022-06-07 |  |
+| [B\-Cuz](https://open.spotify.com/track/3L6UQB8Av3FJFQ3GBK4vrL) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [bLACKbLUE](https://open.spotify.com/album/1ulr9SX47HJ1SNRvGPFOli) | 4:05 | 2024-10-01 |  |
 | [Back to the Starting Point](https://open.spotify.com/track/7qlTOfTqpFFr4hXG1TimGh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [日本テレビ系火曜ドラマ「貧乏男子」オリジナル・サウンドトラック](https://open.spotify.com/album/7mEJs3rEABEunfhoRtrr55) | 4:23 | 2022-06-07 |  |
 | [Barricades](https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 3:41 | 2022-06-07 |  |
 | [Barricades](https://open.spotify.com/track/6iaQi9uPzHoXLMo5g490Bj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 3:41 | 2022-06-21 | 2024-04-19 |

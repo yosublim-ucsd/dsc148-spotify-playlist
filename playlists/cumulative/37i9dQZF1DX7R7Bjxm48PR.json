@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Physichromie",
+        "url": "https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g"
+      },
+      "artists": [
+        {
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Physichromie",
+      "url": "https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7"
+    },
+    {
+      "album": {
         "name": "Propinquity",
         "url": "https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843"
       },

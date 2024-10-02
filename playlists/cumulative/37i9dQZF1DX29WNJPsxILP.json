@@ -1770,10 +1770,6 @@
         {
           "name": "Raftaar",
           "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
-        },
-        {
-          "name": "Bharg",
-          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
         }
       ],
       "date_added": "2024-09-30",
@@ -1998,7 +1994,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 138750,
       "name": "Lena Mera Naam",
       "url": "https://open.spotify.com/track/3O7ZGvPlFyrlZafkVcUDnW"
@@ -3004,6 +3000,28 @@
       "duration_ms": 152000,
       "name": "SIZE 7",
       "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
+    },
+    {
+      "album": {
+        "name": "How Much a Rhyme Costs?",
+        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Retro Blxxd",
+          "url": "https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Snake Bites",
+      "url": "https://open.spotify.com/track/4hTFsh364ny3WnrLzumfdh"
     },
     {
       "album": {

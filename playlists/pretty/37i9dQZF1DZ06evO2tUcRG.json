@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 263790,
+  "num_followers": 263812,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAC7Ki5XaUhoCO6xmUtlO6sc",
+  "snapshot_id": "ZvnqAAAAAABf1cyguFv7Z/P8Mb60fh72",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 473955,
-      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o H\u00e1 Nome Maior",
         "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 473955,
+      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
     },
     {
       "added_at": null,

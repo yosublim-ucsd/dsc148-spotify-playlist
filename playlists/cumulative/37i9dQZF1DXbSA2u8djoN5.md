@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Pepy, Sami G
 
-78 songs - 3 hr 37 min
+79 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,12 @@
 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 | 2024-06-27 |  |
 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 | 2024-06-27 |  |
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 |  |
-| [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 |  |
+| [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 | 2024-09-19 |  |
 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 | 2024-09-26 |  |
 | [Ghici ce?](https://open.spotify.com/track/75rIU7mn7X1jJF70Px3KJi) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Ghici ce?](https://open.spotify.com/album/0f9bRRRgnggoE4YoqN0jqi) | 2:46 | 2024-06-27 | 2024-08-02 |
 | [GIN](https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [HANNIBAL LECTER](https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N) | 3:48 | 2024-06-27 |  |
+| [Grădina interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 |  |
 | [I'm Geekin](https://open.spotify.com/track/3pOuEf4IwX5o2vK3ZtBI7p) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [waveman](https://open.spotify.com/artist/5niAdguvCF1zoNIWpifvXW) | [I'm Geekin](https://open.spotify.com/album/0kERiZuBvr60zc7NkbfU7W) | 1:41 | 2024-06-27 | 2024-07-27 |
 | [Inca o sansa](https://open.spotify.com/track/2qJ4IpSiX2EOMKwAuMvngO) | [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Inca o sansa](https://open.spotify.com/album/4JDrUnZioLeNfpUYnnozwZ) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Incurabil](https://open.spotify.com/track/2Z3sy4ZcM96jlHBbFyYyda) | [Flou Rege](https://open.spotify.com/artist/3jSfv7OmnBYAboAXvDvA7E) | [Incurabil](https://open.spotify.com/album/4cT3dPUWQS3y50bhKKsCiQ) | 2:49 | 2024-06-27 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,519 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,521 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 66 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
 | 67 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
 | 68 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |
-| 69 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
-| 70 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
+| 69 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
+| 70 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
 | 71 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
 | 72 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 73 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |

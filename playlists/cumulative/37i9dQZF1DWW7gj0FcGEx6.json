@@ -95,6 +95,42 @@
     },
     {
       "album": {
+        "name": "A Different Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4hdRS0jBzTz9VkXkiovchf"
+      },
+      "artists": [
+        {
+          "name": "Umberto Smerilli",
+          "url": "https://open.spotify.com/artist/1A2bAcT6vy5YrPmSUoTPyM"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170381,
+      "name": "A Different Man - Main Theme",
+      "url": "https://open.spotify.com/track/7JSvyls135zXrVKEUtafiF"
+    },
+    {
+      "album": {
+        "name": "My Brilliant Friend, Season 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/57oKDo9a3QTdilZVx3rpZG"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "A Folly",
+      "url": "https://open.spotify.com/track/50sE0qZoAbGaVUYLLQDuRX"
+    },
+    {
+      "album": {
         "name": "A Good Son (From \"What's Love Got to Do with It?\" Soundtrack)",
         "url": "https://open.spotify.com/album/6oYVqBYCqMMEyB3bSwEYTg"
       },
@@ -236,7 +272,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 196213,
       "name": "Abre Los Ojos",
       "url": "https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7"
@@ -526,6 +562,24 @@
       "duration_ms": 177520,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja"
+    },
+    {
+      "album": {
+        "name": "Bagman (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/31gOi5lxTcVv9DJpFdoC9o"
+      },
+      "artists": [
+        {
+          "name": "Timothy Williams",
+          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "Bagman Main Title",
+      "url": "https://open.spotify.com/track/6kYndH7CwSzuZcitSXDZ67"
     },
     {
       "album": {
@@ -1632,7 +1686,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 227076,
       "name": "Eternals Theme - From \"Eternals\"",
       "url": "https://open.spotify.com/track/7fGvtkfEoQsR5sQ5zFfclD"
@@ -2060,7 +2114,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 312453,
       "name": "Grains of Sand",
       "url": "https://open.spotify.com/track/4jwpV7Rgg6a2lYDNGXnKnx"
@@ -2183,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Harper and Will Go West (from the Netflix Documentary \"Will & Harper\")",
+        "url": "https://open.spotify.com/album/03AxFYyvQB8MrGIxR6YDiy"
+      },
+      "artists": [
+        {
+          "name": "Kristen Wiig",
+          "url": "https://open.spotify.com/artist/7MypuUAk2WmPRi8G1VNkyE"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Harper and Will Go West (from the Netflix Documentary \"Will & Harper\")",
+      "url": "https://open.spotify.com/track/0Bv6NXHCiQHRpnmPP7lY3T"
+    },
+    {
+      "album": {
         "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
       },
@@ -2198,7 +2270,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 108866,
       "name": "Hawkeye's Theme",
       "url": "https://open.spotify.com/track/31YHdtc3RN5X8JYIaNm1Lp"
@@ -2300,6 +2372,24 @@
       "duration_ms": 116635,
       "name": "Hotel Arcadia",
       "url": "https://open.spotify.com/track/3PdscIZzEFo61H5iHoe365"
+    },
+    {
+      "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
     },
     {
       "album": {
@@ -2745,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Killer Heat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212015,
+      "name": "Killer Heat Suite",
+      "url": "https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG"
+    },
+    {
+      "album": {
         "name": "Lisey's Story (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/11CiJmVVoKOs6ERfvGPV5C"
       },
@@ -2858,6 +2966,24 @@
       "duration_ms": 77960,
       "name": "Lady in the Lake (Main Theme)",
       "url": "https://open.spotify.com/track/4j6M40d4evK7TI1P5D8f3z"
+    },
+    {
+      "album": {
+        "name": "Laughter Club - From \"Memoir of a Snail\" Soundtrack",
+        "url": "https://open.spotify.com/album/4jXaBPyEGtCAkQD3cHvpjl"
+      },
+      "artists": [
+        {
+          "name": "Australian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58643,
+      "name": "Laughter Club - From \"Memoir of a Snail\" Soundtrack",
+      "url": "https://open.spotify.com/track/2fYtqX3AfNZGMxkY42IRrC"
     },
     {
       "album": {
@@ -4194,7 +4320,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 120403,
       "name": "Noriv al Zaffid (Two Halves of One Whole)",
       "url": "https://open.spotify.com/track/6iw5jjvWZXtugCb77wrmKN"
@@ -5064,10 +5190,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 86253,
       "name": "Saying Goodbye - Piano Solo / From ''Cyrano'' Soundtrack",
       "url": "https://open.spotify.com/track/2LttX2qhl2Sr3Hhigw6hRs"
+    },
+    {
+      "album": {
+        "name": "Scherzo for a Flightless Bird (The Penguin Theme) [from \"The Penguin\"]",
+        "url": "https://open.spotify.com/album/21sLLNt7hoR9ceMYUKIJ9C"
+      },
+      "artists": [
+        {
+          "name": "Mick Giacchino",
+          "url": "https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194668,
+      "name": "Scherzo for a Flightless Bird (The Penguin Theme) - from \"The Penguin\"",
+      "url": "https://open.spotify.com/track/7sQAaSaESzHulF3xt0aLtE"
     },
     {
       "album": {
@@ -5538,6 +5682,24 @@
       "duration_ms": 102013,
       "name": "Succession - Main Title Theme",
       "url": "https://open.spotify.com/track/3jI7Yeg7a2d7BMc8CxABVM"
+    },
+    {
+      "album": {
+        "name": "Sudden Death (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6lM3Pee6BPwG3eUqfbYOXm"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "Sudden Death - Main Title",
+      "url": "https://open.spotify.com/track/7eByZcYR5iXNmzF1zKnlVA"
     },
     {
       "album": {
@@ -6044,7 +6206,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 312525,
       "name": "The Duel",
       "url": "https://open.spotify.com/track/1UkMDUFCYEU3E0iAX9r7Ya"
@@ -6288,6 +6450,40 @@
       "duration_ms": 174800,
       "name": "The Last Smile",
       "url": "https://open.spotify.com/track/3upwv1DPliAh0ACVYBGNIg"
+    },
+    {
+      "album": {
+        "name": "The Last Supper",
+        "url": "https://open.spotify.com/album/2QxbcSS3HzSNUL3DZ01cJK"
+      },
+      "artists": [
+        {
+          "name": "Caroline Shaw",
+          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
+        },
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "S\u014d Percussion",
+          "url": "https://open.spotify.com/artist/0aNLauXlYmoVmPmpYS7Ut6"
+        },
+        {
+          "name": "Roomful of Teeth",
+          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256855,
+      "name": "The Last Supper",
+      "url": "https://open.spotify.com/track/0UxZ04Csr9AAv2Ruob7YVe"
     },
     {
       "album": {
@@ -6946,7 +7142,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 134493,
       "name": "This Was a Poet",
       "url": "https://open.spotify.com/track/1znN76aRFFQGNINWqsYOWB"
@@ -7128,6 +7324,24 @@
       "duration_ms": 254862,
       "name": "Transit of Venus",
       "url": "https://open.spotify.com/track/7k1DyRxoZ4VnozJdBKkZds"
+    },
+    {
+      "album": {
+        "name": "Treasure Trackers End Credits (from \"Treasure Trackers\")",
+        "url": "https://open.spotify.com/album/43FOM4AwHtWKa33yQaVWi2"
+      },
+      "artists": [
+        {
+          "name": "Robin Hoffmann",
+          "url": "https://open.spotify.com/artist/6peMXkkkzvRNoJZPPTtbUS"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192297,
+      "name": "Treasure Trackers End Credits (from \"Treasure Trackers\")",
+      "url": "https://open.spotify.com/track/1ADGRnp9ntRuLfOEoTv2aC"
     },
     {
       "album": {
@@ -7718,7 +7932,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 175768,
       "name": "Xu Shang-Chi",
       "url": "https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q"

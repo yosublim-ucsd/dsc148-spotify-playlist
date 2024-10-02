@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Evening Glow",
+        "url": "https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er \u00c9choes",
+          "url": "https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162705,
+      "name": "Evening Glow",
+      "url": "https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX"
+    },
+    {
+      "album": {
         "name": "Evening Rhyme",
         "url": "https://open.spotify.com/album/4QWODS6k0zUNUkcf0hfRGe"
       },
@@ -2000,6 +2018,24 @@
       "duration_ms": 125500,
       "name": "Fino a Novembre",
       "url": "https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ"
+    },
+    {
+      "album": {
+        "name": "First Day of Spring",
+        "url": "https://open.spotify.com/album/6ARTpCGoPf9lxTw4LXo8uO"
+      },
+      "artists": [
+        {
+          "name": "Bernard Dubicki",
+          "url": "https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150007,
+      "name": "First Day of Spring",
+      "url": "https://open.spotify.com/track/1vEiPkYPGvGC6b9H62R55H"
     },
     {
       "album": {

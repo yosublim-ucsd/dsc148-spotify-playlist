@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,116 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,132 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 61 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
 | 62 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
 | 63 | [I Specialise In Love](https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Part 2: The Antidote](https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh) | 2:49 |
-| 64 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
-| 65 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
+| 64 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
+| 65 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 66 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
 | 67 | [Sunshine State](https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE), [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Sunshine State](https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka) | 3:06 |
 | 68 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 73 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
 | 74 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
 | 75 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
-| 76 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
-| 77 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 |
-| 78 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 |
-| 79 | [God Save This Queen](https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40) | 3:14 |
+| 76 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 |
+| 77 | [I Look Fuckin Cool \(feat\. Alaska Thunderfuck\)](https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:52 |
+| 78 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
+| 79 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 |
 | 80 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
 
 Snapshot ID: `ZloPIwAAAACOwXG5Jtgw/+HZeWcjXCgh`

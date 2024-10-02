@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-575 songs - 1 day 14 hr 46 min
+576 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2024-06-15 |
 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-06-30 | 2024-04-19 |
 | [Michigan](https://open.spotify.com/track/0u0DSp1eSzb4i3ErTCaTEG) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Singles](https://open.spotify.com/album/6EXy3sgDAoWuR5zyPm150T) | 3:35 | 2023-01-17 | 2024-04-19 |
-| [midnight sun](https://open.spotify.com/track/1podyfJH4yaihSJwZ5lF47) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/0AgaSbt6wqiK97bo9o3l5a) | 4:42 | 2023-01-17 |  |
+| [midnight sun](https://open.spotify.com/track/1podyfJH4yaihSJwZ5lF47) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/0AgaSbt6wqiK97bo9o3l5a) | 4:42 | 2023-01-17 | 2024-10-02 |
 | [midnight sun](https://open.spotify.com/track/52pPJ946ehqvG63mfqatRf) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/0iJ6CtgpIqzT1lYEqUu601) | 4:42 | 2023-01-17 | 2024-03-18 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-17 | 2024-04-19 |
 | [Mirrors](https://open.spotify.com/track/1RpCE7H04fXZD4OvQribcO) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 4:17 | 2023-01-17 | 2024-01-06 |
@@ -547,6 +547,7 @@
 | [Walden](https://open.spotify.com/track/0BENEFX5JwgXgISlhVSI25) | [Whiplash Girlchild](https://open.spotify.com/artist/7j4uNLBV8DCEP06Glxek0x) | [Walden](https://open.spotify.com/album/5eoCu11j7LuorovsdfkrWz) | 3:32 | 2023-01-17 |  |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2023-01-17 | 2024-04-19 |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2023-01-17 |  |
+| [Wave of Mutilation](https://open.spotify.com/track/1BEljQOZPNNjsC3nfIAHxS) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Wave of Mutilation](https://open.spotify.com/album/5lVrEWa1Th52yTdDqpOi83) | 2:29 | 2023-01-17 |  |
 | [Waves \(Van Dyke Parks Edit\)](https://open.spotify.com/track/5rlMiSQtapreyImvN00581) | [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Waves](https://open.spotify.com/album/7aRco61GefqGSEhCvq98ZF) | 3:49 | 2023-01-17 |  |
 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 | 2023-01-17 |  |
 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 | 2023-01-17 |  |

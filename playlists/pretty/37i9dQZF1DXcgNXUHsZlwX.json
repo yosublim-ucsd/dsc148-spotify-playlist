@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 131971,
+  "num_followers": 131981,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Parmi les autres",
-        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Parmi les autres",
-      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Parmi les autres",
+        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Parmi les autres",
+      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
-      },
-      "artists": [
-        {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+      },
+      "artists": [
+        {
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Chaque nuit la mort",
-        "url": "https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n"
-      },
-      "artists": [
-        {
-          "name": "Nicolet",
-          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
-        }
-      ],
-      "duration_ms": 329351,
-      "name": "Chaque nuit la mort",
-      "url": "https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 166306,
       "name": "C'est Plus Comme Avant - Version Acoustique",
       "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Chaque nuit la mort",
+        "url": "https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "duration_ms": 329351,
+      "name": "Chaque nuit la mort",
+      "url": "https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 251186,
       "name": "M\u00eame les loups versent des larmes de joie",
       "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Kil",
+        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
+      },
+      "artists": [
+        {
+          "name": "Kahtolin",
+          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Kil",
+      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Kil",
-        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
-      },
-      "artists": [
-        {
-          "name": "Kahtolin",
-          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Kil",
-      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Conif\u00e8re",
         "url": "https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 230773,
       "name": "Les travaux",
       "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Trait d'union",
         "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Le jardin se meurt",
-        "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
-      },
-      "artists": [
-        {
-          "name": "Vincent Valli\u00e8res",
-          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
-        }
-      ],
-      "duration_ms": 347533,
-      "name": "Le jardin se meurt",
-      "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Le jardin se meurt",
+        "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "duration_ms": 347533,
+      "name": "Le jardin se meurt",
+      "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
     },
     {
       "added_at": "2024-09-27 04:00:00",

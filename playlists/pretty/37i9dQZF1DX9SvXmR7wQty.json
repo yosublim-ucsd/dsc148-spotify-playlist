@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lydia K\u00e9pinski, Simon Proulx",
-  "num_followers": 42004,
+  "num_followers": 42009,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,38 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
+        "name": "Un peu",
+        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Un peu",
+      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "\u00c9milie",
+        "url": "https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "\u00c9milie",
+      "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 480160,
       "name": "Sous le soleil",
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "\u00c9milie",
-        "url": "https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI"
-      },
-      "artists": [
-        {
-          "name": "Pierre Guitard",
-          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "\u00c9milie",
-      "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Un peu",
-        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Un peu",
-      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
+        "name": "Tout pour moi",
+        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Tout pour moi",
+      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
         "name": "Petit chaton",
         "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Tout pour moi",
-        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
+        "name": "Apr\u00e8s l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Tout pour moi",
-      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
+      "duration_ms": 239684,
+      "name": "Apr\u00e8s l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -719,22 +735,6 @@
       "duration_ms": 152626,
       "name": "Ma Life",
       "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Apr\u00e8s l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 239684,
-      "name": "Apr\u00e8s l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -763,70 +763,6 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Cr\u00e8vecoeur (EP.I)",
-        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "\u00c0 la folie",
-      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Monde Nouveau",
-        "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 157116,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Mandat de D\u00e9p\u00f4t",
-        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Darement",
-      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
         "name": "Dans les veines",
         "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
       },
@@ -847,6 +783,70 @@
       "duration_ms": 173933,
       "name": "Dans les veines",
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Monde Nouveau",
+        "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 157116,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Cr\u00e8vecoeur (EP.I)",
+        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "\u00c0 la folie",
+      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Mandat de D\u00e9p\u00f4t",
+        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Darement",
+      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
     },
     {
       "added_at": "2024-09-20 04:43:11",

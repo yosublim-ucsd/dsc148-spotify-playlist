@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 448000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
@@ -1994,6 +1994,24 @@
       "duration_ms": 194000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
+    },
+    {
+      "album": {
+        "name": "moonlight in my heart",
+        "url": "https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd"
+      },
+      "artists": [
+        {
+          "name": "Rocky Road Heaven",
+          "url": "https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "moonlight in my heart",
+      "url": "https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE"
     },
     {
       "album": {
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 251663,
       "name": "Reef",
       "url": "https://open.spotify.com/track/14E2KOXyzozxKQHu2bh1VW"
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 191610,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P"
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 234280,
       "name": "when the party's over - Slowed Remix",
       "url": "https://open.spotify.com/track/35zRHowhQifRViG90CiLLY"

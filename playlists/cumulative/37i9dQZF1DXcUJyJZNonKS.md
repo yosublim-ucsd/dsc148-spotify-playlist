@@ -2,7 +2,7 @@
 
 ### [Crunchyroll Anime Essentials](https://open.spotify.com/playlist/37i9dQZF1DXcUJyJZNonKS)
 
-> A brand new anime season has arrived on Crunchyroll this summer! Listen along to the music behind the lineup!
+> A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
 45 songs - 2 hr 39 min
 

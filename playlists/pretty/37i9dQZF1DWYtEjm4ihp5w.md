@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen ma kayn f rap mghribi\. Cover: Bo9al
+> Playlist dial a7sen ma kayn f rap mghribi\. Cover: ElGrandeToto, SKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,393 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,488 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 39 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 |
 | 40 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 |
 
-Snapshot ID: `ZvrfPwAAAADaST7boDl4ackDUt/V6WZ8`
+Snapshot ID: `ZvuTXAAAAAAKK2pvJ4mrK+JM5KkLFzco`

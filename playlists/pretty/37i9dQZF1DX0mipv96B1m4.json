@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1269,
+  "num_followers": 1270,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahabwe",
+          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
+        },
+        {
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahabwe",
-          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2024-03-01 12:07:08",

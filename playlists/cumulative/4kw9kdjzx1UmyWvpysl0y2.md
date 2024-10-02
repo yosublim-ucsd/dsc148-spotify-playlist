@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-827 songs - 1 day 23 hr 10 min
+828 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
 | [A Game Of Fairies](https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [A Game Of Fairies](https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk) | 3:56 | 2023-09-05 | 2024-01-11 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
-| [A Sudden Display Of Life](https://open.spotify.com/track/5qYZZL0iuEwHs1JJlVk63Q) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8), [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [A Sudden Display Of Life](https://open.spotify.com/album/4WJ71uIq1XFJz4skDuYZsN) | 3:39 | 2024-07-10 |  |
+| [A Sudden Display Of Life](https://open.spotify.com/track/5qYZZL0iuEwHs1JJlVk63Q) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8), [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [A Sudden Display Of Life](https://open.spotify.com/album/4WJ71uIq1XFJz4skDuYZsN) | 3:39 | 2024-07-10 | 2024-10-02 |
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 | 2023-08-10 |
 | [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 | 2024-05-10 | 2024-08-02 |
@@ -219,6 +219,7 @@
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |
 | [Erase Me](https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8) | [Gravas](https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [Tea Timerz](https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm) | [Erase Me](https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D) | 5:15 | 2023-08-28 | 2023-12-14 |
 | [Erased](https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Erased](https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt) | 2:46 | 2024-03-26 | 2024-06-13 |
+| [Este](https://open.spotify.com/track/7jGOUkaWlFj9zPEM0u9gHx) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Este](https://open.spotify.com/album/67RvEFugxevmYfrHVRiyUt) | 2:50 | 2024-10-01 |  |
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 |  |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |

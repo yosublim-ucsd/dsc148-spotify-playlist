@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-900 songs - 1 day 14 hr 29 min
+901 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [As I Was](https://open.spotify.com/track/7FXTsAqtuTMc7UMuRyY95D) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [As I Was](https://open.spotify.com/album/1yp2jl5uXSD8b9yw3LMc85) | 3:27 | 2021-12-07 | 2022-03-02 |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2021-12-07 | 2023-08-15 |
 | [Ascend](https://open.spotify.com/track/77x7n1Qvcit2rxRrWIJFqg) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Ascend](https://open.spotify.com/album/5349ilcUsrejrw9xQbZuF2) | 1:57 | 2023-01-09 | 2023-07-26 |
+| [Ascendance](https://open.spotify.com/track/6dUU5GZHOMacqVLYU38VEr) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Ascendance](https://open.spotify.com/album/3HRjyOvY58X1luiwTC7Zmj) | 3:03 | 2024-10-01 |  |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-09-23 |
 | [Ascent](https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Ascent](https://open.spotify.com/album/2Azjzabd4xGsmjpCqWSejA) | 1:55 | 2022-11-11 | 2023-07-26 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |

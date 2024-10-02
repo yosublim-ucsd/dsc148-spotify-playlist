@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2O6HSgKstTDpO9r5XPjgGn"
+      },
+      "artists": [
+        {
+          "name": "Apollo On The Run",
+          "url": "https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0B4Ee3vZHEKV0zztHgWYxF"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/11jkrFoq0SpZVZXDkhcHQz"
       },

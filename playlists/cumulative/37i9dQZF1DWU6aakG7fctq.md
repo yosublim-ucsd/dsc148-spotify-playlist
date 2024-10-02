@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: PJ Sin Suela
 
-744 songs - 1 day 16 hr 55 min
+746 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-05-06 | 2023-01-15 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-11-18 | 2022-11-25 |
 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 | 2023-03-17 | 2023-04-29 |
+| [Amor Amable](https://open.spotify.com/track/3wLPNWMIcDP5SnSlVytMRA) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Amor Amable](https://open.spotify.com/album/1vTDbOE3K56uwJe26fG8Ks) | 3:10 | 2024-10-01 |  |
 | [Amor Artificial](https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Amor Artificial](https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42) | 3:39 | 2024-03-15 | 2024-06-29 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-03-10 | 2023-03-18 |
 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-16 | 2023-07-22 |
@@ -327,6 +328,7 @@
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-10 | 2023-08-05 |
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-27 | 2024-04-13 |
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-09-06 | 2023-04-22 |
+| [Las Noches](https://open.spotify.com/track/2hZZRnUbwioGVIfpbP1DlF) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Las Noches](https://open.spotify.com/album/2MaWOrftZwCMldVSV9bCRe) | 3:29 | 2024-10-01 |  |
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-14 | 2023-05-06 |
 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 | 2023-03-10 | 2023-03-12 |
 | [le valgo madre](https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [le valgo madre](https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk) | 2:36 | 2024-04-05 | 2024-06-08 |

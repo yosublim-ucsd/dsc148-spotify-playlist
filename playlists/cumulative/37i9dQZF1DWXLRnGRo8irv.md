@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KISS OF LIFE\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: ILLIT\(아일릿\)\)
 
-1,156 songs - 2 day 18 hr 1 min
+1,158 songs - 2 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Lost](https://open.spotify.com/track/7GrmaA2rU0CUgghMPRVWLd) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:32 | 2022-01-04 | 2022-02-02 |
 | [LOVE](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:17 | 2022-11-10 | 2022-12-01 |
 | [love \(feat\. Woshi\)](https://open.spotify.com/track/46RRw509D36JrbFzTeTEms) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [love \(feat\. Woshi\)](https://open.spotify.com/album/2fNv7CPr58pYBkv4JMvDT2) | 3:39 | 2023-01-03 | 2023-02-01 |
+| [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 | 2024-10-01 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-05 | 2023-01-04 |
 | [Love Forgotten By Love](https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Love Forgotten By Love](https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO) | 4:34 | 2022-02-01 | 2022-03-08 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-01-31 | 2023-03-01 |
@@ -620,7 +621,7 @@
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-06-04 |  |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-02 |  |
 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-10 | 2022-12-01 |
-| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-06-04 |  |
+| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-06-04 | 2024-10-02 |
 | [Mind\-Hug](https://open.spotify.com/track/0ZCw4M0akWRNL27HeFvvyp) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Mind\-Hug](https://open.spotify.com/album/13Oq05dL5TdwllyiWjGKId) | 2:54 | 2022-03-07 | 2022-04-06 |
 | [Mindless](https://open.spotify.com/track/1iNNclkLpMmNizlUV4zNSj) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:07 | 2023-04-04 | 2024-02-07 |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-11-10 | 2022-12-01 |
@@ -741,6 +742,7 @@
 | [Periwinkle Blue](https://open.spotify.com/track/2zLXiVkZjUvr8LrTHZs3N4) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Periwinkle Blue](https://open.spotify.com/album/4jHcL3NdknMUoiSIIT1l2J) | 4:40 | 2023-05-02 | 2023-06-07 |
 | [Pick Me Up](https://open.spotify.com/track/15cn8Ps4IGPzYZpa1dL8XC) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [Pick Me Up](https://open.spotify.com/album/6YEJlBkNryNhKhIWjvfmpN) | 3:16 | 2022-03-07 | 2022-04-06 |
 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 | 2022-05-04 | 2022-06-01 |
+| [Pinball](https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:12 | 2024-10-01 |  |
 | [Pine](https://open.spotify.com/track/6Pc1VMNKH7NVfBfr7nuRXC) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Living](https://open.spotify.com/album/7BhNcxahD7Qhcmmj95inH8) | 3:31 | 2023-05-02 | 2023-06-07 |
 | [PINK MOON](https://open.spotify.com/track/3xgFpFljigvpF7cn23xR73) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [PINK MOON](https://open.spotify.com/album/7kWY9bINcnFkAdAegn3B71) | 3:23 | 2023-01-03 | 2023-02-01 |
 | [Pink ribbon in the car \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7dtfKauJ247YCYDlD1RygL) | [MOA](https://open.spotify.com/artist/4fCrr7xTKNEREwl8jRA3c2), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Pink ribbon in the car](https://open.spotify.com/album/1fGSJUiLMr3x0hqLcWYgNL) | 4:20 | 2022-10-04 | 2022-11-11 |
@@ -910,7 +912,7 @@
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-11-10 | 2022-12-01 |
 | [Suddenly](https://open.spotify.com/track/789mOE8Bws9wCYSFkoeq6i) | [Div](https://open.spotify.com/artist/33EogRsZc7AZ2RwY90VsJn) | [Suddenly](https://open.spotify.com/album/0PZHs6jgIvohnWOiqkrbEw) | 3:49 | 2023-07-04 | 2023-08-04 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-08-03 | 2023-09-06 |
-| [Summer Dream](https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:09 | 2024-06-04 |  |
+| [Summer Dream](https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:09 | 2024-06-04 | 2024-10-02 |
 | [Summer Love](https://open.spotify.com/track/0TMJ2mSEsUqftvCJtZ2YLV) | [KIM A REUM](https://open.spotify.com/artist/5t5PKzBdSmRojqxlrl6loX) | [SEOUL WAVE](https://open.spotify.com/album/6SYa8yN8Ivbm3Vux91rW6l) | 3:53 | 2023-07-04 | 2023-08-04 |
 | [Summer Love](https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [SEOUL WAVE](https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ) | 3:53 | 2023-07-04 | 2023-07-30 |
 | [Summer youth \(with 109\)](https://open.spotify.com/track/4h4NLtEdJpQLh6lLTWQjnw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wish.zip \(3\)](https://open.spotify.com/album/4P6QGcSeYHJVxZhYdwP6Y7) | 3:32 | 2024-02-06 | 2024-04-03 |

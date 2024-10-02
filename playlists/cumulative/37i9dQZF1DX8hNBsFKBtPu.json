@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Du Har Ret",
+        "url": "https://open.spotify.com/album/0gzC0uQBZRCsXPPloHvm8W"
+      },
+      "artists": [
+        {
+          "name": "Laura Ziani",
+          "url": "https://open.spotify.com/artist/5obJCBYDzkO1xEmm6P3MSo"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "Du Har Ret",
+      "url": "https://open.spotify.com/track/1KCiaWjh1Rol8hnS35QHKU"
+    },
+    {
+      "album": {
         "name": "Du Min",
         "url": "https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS"
       },

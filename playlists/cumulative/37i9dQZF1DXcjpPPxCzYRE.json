@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
@@ -1389,6 +1389,28 @@
     },
     {
       "album": {
+        "name": "Donde",
+        "url": "https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv"
+      },
+      "artists": [
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187625,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
+    },
+    {
+      "album": {
         "name": "Donde El Verano Seas T\u00fa",
         "url": "https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb"
       },
@@ -1574,6 +1596,28 @@
       "duration_ms": 314999,
       "name": "El Espejo",
       "url": "https://open.spotify.com/track/4fHpriV14mig4esLm2CQea"
+    },
+    {
+      "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "album": {
@@ -5247,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Un Cielo Azul",
+        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Un Cielo Azul",
+      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda De Estos",
         "url": "https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL"
       },
@@ -5276,7 +5338,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 177786,
       "name": "Un grand amour",
       "url": "https://open.spotify.com/track/3MRCa3omM28c427BVtS99V"
@@ -5572,7 +5634,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 294851,
       "name": "You Lucky One",
       "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"

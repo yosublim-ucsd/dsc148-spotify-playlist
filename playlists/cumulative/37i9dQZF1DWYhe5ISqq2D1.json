@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u308c\u3093",
+  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u5bae\u672c\u6d69\u6b21",
   "name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 339162,
       "name": "0821_a",
       "url": "https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 221760,
       "name": "AYATORI",
       "url": "https://open.spotify.com/track/37VbsDNGPIB91tVP1LIzNx"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246253,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
+    },
+    {
+      "album": {
         "name": "BANDAGE",
         "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
       },
@@ -225,6 +243,42 @@
     },
     {
       "album": {
+        "name": "Be you like a flower",
+        "url": "https://open.spotify.com/album/4enMoLiJJNTxtf83SlD3Uw"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30a4\u30ca",
+          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254304,
+      "name": "Be you like a flower",
+      "url": "https://open.spotify.com/track/3hNJNjPpV2jRxyPfpa4dgz"
+    },
+    {
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217492,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
+    },
+    {
+      "album": {
         "name": "BYEMYLOVER",
         "url": "https://open.spotify.com/album/7B5qQByru2ofkOY2Beimea"
       },
@@ -240,6 +294,24 @@
       "duration_ms": 205000,
       "name": "BYEMYLOVER",
       "url": "https://open.spotify.com/track/62wvTxDYOaEXMkCJl7V3Wb"
+    },
+    {
+      "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/5FvkxMNtC33Tn3oGAxpbOl"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269400,
+      "name": "close your eyes",
+      "url": "https://open.spotify.com/track/2z15Tol8VnN0T0jDzAIfHu"
     },
     {
       "album": {
@@ -632,7 +704,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 235133,
       "name": "If I were to fall in love again",
       "url": "https://open.spotify.com/track/6zT6xEf2qpn9er9JhzfuvL"
@@ -823,6 +895,24 @@
     },
     {
       "album": {
+        "name": "\u6697\u91ce",
+        "url": "https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp"
+      },
+      "artists": [
+        {
+          "name": "Loupx garoux",
+          "url": "https://open.spotify.com/artist/59Rp7Pu3sKPJS4sZKZOv3N"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314999,
+      "name": "Maps to the stars",
+      "url": "https://open.spotify.com/track/01M32J6u1o0uQpya6GbEn9"
+    },
+    {
+      "album": {
         "name": "Me, Tanish and Panoi",
         "url": "https://open.spotify.com/album/2nn0kDdvIh6RzOl8k3Mikh"
       },
@@ -942,7 +1032,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 172833,
       "name": "New Era",
       "url": "https://open.spotify.com/track/25YSPBMekEPpIUAhExMBgC"
@@ -960,7 +1050,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 230022,
       "name": "Nukui",
       "url": "https://open.spotify.com/track/4WzotMbiarPo9fnLs54fIF"
@@ -1032,7 +1122,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 200929,
       "name": "plum",
       "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
@@ -1638,7 +1728,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 180000,
       "name": "\u3042\u306e\u306d",
       "url": "https://open.spotify.com/track/4PtcFeoWZcKt8pDmKrhk3w"
@@ -1894,7 +1984,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 179763,
       "name": "\u3067\u3082\u3001",
       "url": "https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH"
@@ -2096,6 +2186,42 @@
       "duration_ms": 230933,
       "name": "\u30a2\u30a4\u30ef\u30ca",
       "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30fc\u30df",
+        "url": "https://open.spotify.com/album/7g30B1GkIbYJtmUXH5weK1"
+      },
+      "artists": [
+        {
+          "name": "Ritsuki Akiyama",
+          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "\u30a2\u30fc\u30df",
+      "url": "https://open.spotify.com/track/66YOQ3cFmgQfXpfl08yRyM"
+    },
+    {
+      "album": {
+        "name": "GOLD HOUR -EP-",
+        "url": "https://open.spotify.com/album/2uVBidHfAWmjNEJaWluiLl"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288966,
+      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/0ZL8UiHXyxztWWPVeGzfKp"
     },
     {
       "album": {
@@ -2542,7 +2668,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 225760,
       "name": "\u30d5\u30ea\u30c8",
       "url": "https://open.spotify.com/track/51eyPGyUaNEAwc4ylrJTqq"
@@ -2560,7 +2686,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 253626,
       "name": "\u30d5\u30ec\u30f3\u30c1\u30d6\u30eb\u30c9\u30c3\u30b0",
       "url": "https://open.spotify.com/track/4CYEpzZCWyCy9Q17e2cNGu"
@@ -2661,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2kcXILwRsaIlDbnyCrhDx5"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206853,
+      "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7j3glm5d39tG8xWFCVEfA5"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30f3\u30ba",
         "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
       },
@@ -2744,7 +2888,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 224866,
       "name": "\u4e00\u8f2a\u82b1",
       "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
@@ -3310,6 +3454,24 @@
       "duration_ms": 241481,
       "name": "\u611b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u8cde\u5473\u671f\u9650",
+        "url": "https://open.spotify.com/album/4GErm93PJIwJkaxxzyggyI"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "\u611b\u306e\u8cde\u5473\u671f\u9650",
+      "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
     },
     {
       "album": {

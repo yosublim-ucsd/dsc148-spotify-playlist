@@ -1118,12 +1118,16 @@
       },
       "artists": [
         {
-          "name": "Liah Soares",
-          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
-        },
-        {
           "name": "Flavio Venturini",
           "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        },
+        {
+          "name": "Pinduca",
+          "url": "https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN"
+        },
+        {
+          "name": "Liah Soares",
+          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
         },
         {
           "name": "Gabi Nascimento",
@@ -1136,10 +1140,6 @@
         {
           "name": "Thiago Arancam",
           "url": "https://open.spotify.com/artist/5knRSMzb9es0gdnEVorBXN"
-        },
-        {
-          "name": "Pinduca",
-          "url": "https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN"
         }
       ],
       "date_added": "2024-09-27",

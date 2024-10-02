@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> i just wanna be part of your symphony
+> it's sweater weather 🍁🧶
 
 1,520 songs - 3 day 7 hr 56 min
 

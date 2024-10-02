@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odunsi \(the Engine\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,796 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,811 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 8 | [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 |
 | 9 | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 |
 | 10 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
-| 11 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/13KQydMRX3mIb9SN5whvYF) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 |
+| 11 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 |
 | 12 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 |
 | 13 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 |
 | 14 | [No Wam](https://open.spotify.com/track/2k5PoyzxiOwyfvgDn8Jitp) | [UCHE](https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs) | [No Wam](https://open.spotify.com/album/1r7kH9IJZp5u7r4LlWIjIo) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Monna Brutal
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,843 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,830 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 22 | [Refém do Destino](https://open.spotify.com/track/1GZB6xfAFppgAduNjlvtBI) | [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Refém do Destino](https://open.spotify.com/album/32UcdfK38Z5FtVkZ6kb4IL) | 3:43 |
 | 23 | [Sexta\-Feira](https://open.spotify.com/track/6SkPiRSlZ1jUgVNbgV9dfC) | [Naik](https://open.spotify.com/artist/3aUFQMD3KfnsWrfHifkFkG), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Sexta\-Feira](https://open.spotify.com/album/2gtvWjNDewWRMKTWR7Cg2U) | 2:00 |
 | 24 | [Show My Love](https://open.spotify.com/track/4IlZc2pTaBy3KS0CDQ2Y3l) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Show My Love](https://open.spotify.com/album/7pIu9h2ynbzntidblgFSHZ) | 3:15 |
-| 25 | [Tabuleiro](https://open.spotify.com/track/3QUh35iq5dT5oEox5ne3EL) | [Crazy Monkey](https://open.spotify.com/artist/7CEymUQZ5HHQpeFZtLfKf6), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [DJ TRICKPA](https://open.spotify.com/artist/712xQPg8ycj61Eh2hTsW8R) | [Tabuleiro](https://open.spotify.com/album/2sWNBquLq5tDbBIQJyRQ1c) | 3:17 |
+| 25 | [Tabuleiro](https://open.spotify.com/track/3QUh35iq5dT5oEox5ne3EL) | [Crazy Monkey](https://open.spotify.com/artist/7CEymUQZ5HHQpeFZtLfKf6), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [DJ TRICKPA](https://open.spotify.com/artist/712xQPg8ycj61Eh2hTsW8R), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Tabuleiro](https://open.spotify.com/album/2sWNBquLq5tDbBIQJyRQ1c) | 3:17 |
 | 26 | [LOMBRA](https://open.spotify.com/track/0a9K3q5WKIyODLMfumsodu) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [LOMBRA](https://open.spotify.com/album/5eWotvEoxZcYL2K3j1xmQG) | 1:58 |
 | 27 | [Nada Mais](https://open.spotify.com/track/4RPwV1PmBnHMCiwZXNvfoq) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Forma Pura](https://open.spotify.com/album/6sCFlHRqSZ87Xs9yfX04uG) | 3:09 |
 | 28 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |

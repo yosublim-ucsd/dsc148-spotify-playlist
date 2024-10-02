@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14941,
+  "num_followers": 14944,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Triste Y Linda: Linda",
         "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 185081,
       "name": "Culito",
       "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -907,22 +907,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corazon Blanco",
-        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
+        "name": "No Pidas Tanto",
+        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
       "artists": [
         {
-          "name": "Big Stan",
-          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
         },
         {
-          "name": "Logetmay",
-          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
+          "name": "Pedro Navajas",
+          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
         }
       ],
-      "duration_ms": 168710,
-      "name": "Corazon Blanco",
-      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
+      "duration_ms": 152441,
+      "name": "No Pidas Tanto",
+      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -943,6 +947,26 @@
       "duration_ms": 182500,
       "name": "Uh La La",
       "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corazon Blanco",
+        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
+      },
+      "artists": [
+        {
+          "name": "Big Stan",
+          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+        },
+        {
+          "name": "Logetmay",
+          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
+        }
+      ],
+      "duration_ms": 168710,
+      "name": "Corazon Blanco",
+      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -991,46 +1015,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "No Pidas Tanto",
-        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
-      },
-      "artists": [
-        {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Pedro Navajas",
-          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
-        },
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "No Pidas Tanto",
-      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "La pr\u00e1ctica",
         "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 185714,
       "name": "La pr\u00e1ctica",
       "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
-      },
-      "artists": [
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "\"El Camino\" Session 8",
         "url": "https://open.spotify.com/album/5PHkNDkaWVF7naFQayISSP"
       },
@@ -1203,26 +1203,6 @@
       "duration_ms": 165176,
       "name": "\"El Camino\" Session 8",
       "url": "https://open.spotify.com/track/2MtssIysbW81WBAhOMTBmI"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "NEZA",
-        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "NEZA",
-      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1267,6 +1247,26 @@
       "duration_ms": 230000,
       "name": "UFC",
       "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "NEZA",
+        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "NEZA",
+      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 202803,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "SORRY (REMIX)",
-        "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
-      },
-      "artists": [
-        {
-          "name": "Lizz",
-          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
-        },
-        {
-          "name": "KUINA",
-          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "SORRY (REMIX)",
-      "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Remakia",
         "url": "https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 174086,
       "name": "Remakia",
       "url": "https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "SORRY (REMIX)",
+        "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
+      },
+      "artists": [
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        },
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "SORRY (REMIX)",
+      "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+      },
+      "artists": [
+        {
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Sicariato & Robo",
         "url": "https://open.spotify.com/album/4Pzxur3KYtbr5iXVmp9B3L"
       },
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Lucifer",
-        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
-      },
-      "artists": [
-        {
-          "name": "Fierros Mancilla",
-          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 267558,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
       },
@@ -1831,26 +1831,6 @@
       "duration_ms": 172271,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
-      },
-      "artists": [
-        {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        },
-        {
-          "name": "Tus",
-          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1871,6 +1851,26 @@
       "duration_ms": 247741,
       "name": "Se\u00f1ales de Humo",
       "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
+      },
+      "artists": [
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "KLOK",
+        "url": "https://open.spotify.com/album/3T3EnDa9JbavIxRSdjLyaN"
+      },
+      "artists": [
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "KLOK",
+      "url": "https://open.spotify.com/track/1iXM1Cws9X0316taI1As05"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Se Juega",
         "url": "https://open.spotify.com/album/71aJR2rDTofWbm2CX0qkI7"
       },
@@ -1975,46 +1991,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "KLOK",
-        "url": "https://open.spotify.com/album/3T3EnDa9JbavIxRSdjLyaN"
-      },
-      "artists": [
-        {
-          "name": "Cirujano Resendez",
-          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "KLOK",
-      "url": "https://open.spotify.com/track/1iXM1Cws9X0316taI1As05"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Millo",
-        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
-      },
-      "artists": [
-        {
-          "name": "Dehry",
-          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        },
-        {
-          "name": "MC Albertico",
-          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
-        }
-      ],
-      "duration_ms": 199997,
-      "name": "Millo",
-      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "No Lo Sab\u00eda",
         "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
       },
@@ -2031,6 +2007,30 @@
       "duration_ms": 181317,
       "name": "No Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
+      },
+      "artists": [
+        {
+          "name": "Modok Le Chef",
+          "url": "https://open.spotify.com/artist/7DVLI0AVmCKdY8WG0bZEs6"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        },
+        {
+          "name": "Rize 1200",
+          "url": "https://open.spotify.com/artist/0hkp5JpD7SWI1npZrpKeOa"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Caribe",
+      "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
     }
   ],
   "unique_name": "Rimas Frescas ",

@@ -9591,6 +9591,24 @@
     },
     {
       "album": {
+        "name": "Time Goes by",
+        "url": "https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113386,
+      "name": "Time Goes by",
+      "url": "https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR"
+    },
+    {
+      "album": {
         "name": "Tiny Grains of Guilt",
         "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
       },
@@ -10410,7 +10428,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"

@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-132 songs - 8 hr 38 min
+133 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Angel Of Small Death & The Codeine Scene](https://open.spotify.com/track/2EzyF6aTHojdWfppKtEbez) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 3:39 | 2022-09-23 |  |
 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Take Me to Church EP](https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY) | 3:38 | 2022-09-23 | 2022-11-13 |
 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:39 | 2022-09-23 | 2024-04-19 |
+| [Apollon](https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Apollon](https://open.spotify.com/album/0udUblWUl05uR1ELebTbra) | 3:13 | 2024-10-01 |  |
 | [Bad Ritual](https://open.spotify.com/track/14lFMWrwM30Q8FiijmxWVz) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Creep On Creepin' On](https://open.spotify.com/album/2tWkGlUTyWZcVsqryi8U1q) | 3:07 | 2022-09-23 |  |
 | [Bad Spell](https://open.spotify.com/track/3KXN0yyh3iy665jdKFFQXZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 3:15 | 2022-09-23 | 2022-11-13 |
 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 | 2022-09-23 | 2022-11-14 |
@@ -52,7 +53,7 @@
 | [Evil Eye](https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 2:47 | 2022-09-23 | 2024-04-19 |
 | [Family Tree](https://open.spotify.com/track/5B4oL0Dn3dlaAdovV8ZUTE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 7:10 | 2022-09-23 |  |
 | [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 | 2022-09-23 | 2024-04-19 |
-| [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2022-09-23 |  |
+| [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2022-09-23 | 2024-10-02 |
 | [Gods & Monsters](https://open.spotify.com/track/1wa25BuCtMePIYgf8sHkgY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Paradise](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) | 3:57 | 2022-09-23 | 2022-11-13 |
 | [Gods & Monsters](https://open.spotify.com/track/4uhSo9cVBVpdDCNxf4MBaP) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 3:57 | 2022-09-23 |  |
 | [Gods & Monsters](https://open.spotify.com/track/6sGaavvDeGTY3wV9hzIEOP) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:57 | 2022-09-23 | 2024-04-19 |

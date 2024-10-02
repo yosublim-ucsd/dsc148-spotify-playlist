@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Satine Zaneta
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,056 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,059 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

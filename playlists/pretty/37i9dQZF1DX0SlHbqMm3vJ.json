@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Larry Gaga and Joeboy",
-  "num_followers": 239715,
+  "num_followers": 239744,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-30 07:35:59",
       "album": {
-        "name": "Digest",
-        "url": "https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Digest",
-      "url": "https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ"
-    },
-    {
-      "added_at": "2024-09-30 07:35:59",
-      "album": {
         "name": "Love & Romance",
         "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 133343,
       "name": "Love & Romance",
       "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
+    },
+    {
+      "added_at": "2024-09-30 07:35:59",
+      "album": {
+        "name": "Digest",
+        "url": "https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Digest",
+      "url": "https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ"
     },
     {
       "added_at": "2024-09-30 07:35:59",
@@ -923,22 +923,6 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-09-30 07:35:59",
-      "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2024-09-30 07:35:59",
@@ -979,6 +963,22 @@
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-09-30 07:35:59",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2024-09-30 07:35:59",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-09-30 07:35:59",
       "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-09-30 07:35:59",
+      "album": {
         "name": "diallo",
         "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
-    },
-    {
-      "added_at": "2024-09-30 07:35:59",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-09-30 07:35:59",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2024-09-30 07:35:59",
       "album": {
+        "name": "Blended",
+        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
+      "added_at": "2024-09-30 07:35:59",
+      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
-    },
-    {
-      "added_at": "2024-09-30 07:35:59",
-      "album": {
-        "name": "Blended",
-        "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
     },
     {
       "added_at": "2024-09-30 07:35:59",

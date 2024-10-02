@@ -1,15 +1,87 @@
 {
   "description": "Fusion music for the soul.  Cover- Sona Mohapatra",
-  "num_followers": 70629,
+  "num_followers": 70642,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsbxswAAAABdGyamPFblHz3MLvMo8Zx5",
+  "snapshot_id": "ZvvdhgAAAACcP4WfNCUMLemGqGOCbLBz",
   "tracks": [
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Chaap Tilak",
+        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
+      },
+      "artists": [
+        {
+          "name": "Namita Choudhary",
+          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Khalasi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
+      },
+      "artists": [
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        }
+      ],
+      "duration_ms": 258260,
+      "name": "Khalasi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 1",
+        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Ranjish Hi Sahi",
+      "url": "https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "O Yaara",
+        "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "O Yaara",
+      "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
@@ -37,155 +109,7 @@
       "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Bewajah (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI"
-      },
-      "artists": [
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352334,
-      "name": "Bewajah - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/3EzqUvtr993ok47KHLveON"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Chaap Tilak",
-        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
-      },
-      "artists": [
-        {
-          "name": "Namita Choudhary",
-          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Chaap Tilak",
-      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Classical Unwind",
-        "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
-      },
-      "artists": [
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
-        }
-      ],
-      "duration_ms": 239813,
-      "name": "Lat Ulajhi",
-      "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Saanjh Bhayi (Live)",
-        "url": "https://open.spotify.com/album/0TkwP8vcfjTt7FddDcuknh"
-      },
-      "artists": [
-        {
-          "name": "Govindrao Natu",
-          "url": "https://open.spotify.com/artist/100oVJNCBtLSKuRHpdePC1"
-        },
-        {
-          "name": "The Anirudh Varma Collective",
-          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
-        },
-        {
-          "name": "Bhuvanesh Komkali",
-          "url": "https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB"
-        },
-        {
-          "name": "Soumitra Thakur",
-          "url": "https://open.spotify.com/artist/0zOCF2DAtx7rq9Hbc7ptEE"
-        },
-        {
-          "name": "Rohit Prasanna",
-          "url": "https://open.spotify.com/artist/4LvqIA3jeFVnYpA0tmrpcr"
-        },
-        {
-          "name": "Mahavir Chandravat",
-          "url": "https://open.spotify.com/artist/1o2YFzCdNgsB6wCnmXBCkr"
-        },
-        {
-          "name": "Varun Rajasekharan",
-          "url": "https://open.spotify.com/artist/6wG7tirouW1CRqzol1jEQ4"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "Saanjh Bhayi - Live",
-      "url": "https://open.spotify.com/track/0P5O1DyJNQn4N1bSItGDGz"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
-      },
-      "artists": [
-        {
-          "name": "Rashid Khan",
-          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
-        },
-        {
-          "name": "Arpita Chatterjee",
-          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Sajna Barse",
-      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Khalasi | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
-      },
-      "artists": [
-        {
-          "name": "Aditya Gadhvi",
-          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
-        },
-        {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Khalasi | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "O Yaara",
-        "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Kaavish",
-          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "O Yaara",
-      "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
@@ -205,10 +129,10 @@
       "url": "https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
-        "name": "Coke Studio India Season 3: Episode 2",
-        "url": "https://open.spotify.com/album/7rBfOj1KZKrfnEjfkDJg7N"
+        "name": "Ras Ke Bhare",
+        "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
       },
       "artists": [
         {
@@ -216,64 +140,16 @@
           "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
         },
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Aruna Sairam",
-          "url": "https://open.spotify.com/artist/7IoToRbsm2yDlrPKL2jb5N"
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Aigiri Nandini",
-      "url": "https://open.spotify.com/track/3krS9PPjpWMNdaCniFxIZN"
+      "duration_ms": 233181,
+      "name": "Ras Ke Bhare",
+      "url": "https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 1",
-        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Ranjish Hi Sahi",
-      "url": "https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Satyagrah",
-        "url": "https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
-          "name": "Yogesh Samsi",
-          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
-        },
-        {
-          "name": "Shravan Samsi",
-          "url": "https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6"
-        },
-        {
-          "name": "Steve Kottoor",
-          "url": "https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Satyagrah",
-      "url": "https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -293,7 +169,7 @@
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 4",
         "url": "https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX"
@@ -313,7 +189,23 @@
       "url": "https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Bewajah (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352334,
+      "name": "Bewajah - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3EzqUvtr993ok47KHLveON"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Chal Chaliye",
         "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
@@ -333,7 +225,7 @@
       "url": "https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)",
         "url": "https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN"
@@ -349,23 +241,7 @@
       "url": "https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Gulon Main Rang",
-        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 379881,
-      "name": "Gulon Main Rang",
-      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Aaqa - Coke Studio Season 9",
         "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
@@ -385,7 +261,23 @@
       "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Gulon Main Rang",
+        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 379881,
+      "name": "Gulon Main Rang",
+      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Sonchadi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
@@ -409,7 +301,7 @@
       "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
@@ -429,7 +321,7 @@
       "url": "https://open.spotify.com/track/1yOzcnB0kIli8JttbJFMEK"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Mitho Laage (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
@@ -449,7 +341,7 @@
       "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio @ MTV Season 3: Episode 1",
         "url": "https://open.spotify.com/album/39LmpbWKlJzIC2cBdqVVif"
@@ -473,27 +365,7 @@
       "url": "https://open.spotify.com/track/1qm4W0HboioIBvqKcR4KRN"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Umran Langiyaan (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 482625,
-      "name": "Umran Langiyaan - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -509,7 +381,7 @@
       "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 7",
         "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
@@ -529,7 +401,7 @@
       "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Kautilya (The Echo Project)",
         "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
@@ -553,7 +425,27 @@
       "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Umran Langiyaan (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 482625,
+      "name": "Umran Langiyaan - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
         "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
@@ -573,7 +465,7 @@
       "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Bandish Bandits - Original Series Soundtrack",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
@@ -597,7 +489,7 @@
       "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
@@ -617,7 +509,7 @@
       "url": "https://open.spotify.com/track/6vwDylCMJ5yP26iG5oXlIC"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 2",
         "url": "https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy"
@@ -641,7 +533,7 @@
       "url": "https://open.spotify.com/track/4cIDTwm3FFPpIm6AFJNvhL"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Nadiya Bairi Bhayi",
         "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
@@ -661,27 +553,7 @@
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
-      },
-      "artists": [
-        {
-          "name": "Amjad Sabri",
-          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 717190,
-      "name": "Rang",
-      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 3",
         "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
@@ -701,7 +573,43 @@
       "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 717190,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Classic Love",
         "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
@@ -717,7 +625,7 @@
       "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Radhe (From Songs of Faith)",
         "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
@@ -741,39 +649,7 @@
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Bandish Bandits - Original Series Soundtrack",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
@@ -797,7 +673,43 @@
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Arpita Chatterjee",
+          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Sajna Barse",
+      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 3",
         "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
@@ -817,7 +729,7 @@
       "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Coke Studio Season 10: Episode 1",
         "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
@@ -837,7 +749,7 @@
       "url": "https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Dekho Sakhi",
         "url": "https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h"
@@ -861,7 +773,7 @@
       "url": "https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Naina Morey (Redefined)",
         "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
@@ -885,7 +797,7 @@
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Voyage 2",
         "url": "https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch"
@@ -905,7 +817,7 @@
       "url": "https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
@@ -921,7 +833,7 @@
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Maati Baani",
         "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
@@ -941,7 +853,7 @@
       "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
         "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
@@ -961,7 +873,7 @@
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Labon Se Baat - The Ghazal",
         "url": "https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms"
@@ -985,7 +897,7 @@
       "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Kinaray (Coke Studio Season 8)",
         "url": "https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX"
@@ -1001,23 +913,7 @@
       "url": "https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83"
     },
     {
-      "added_at": "2024-08-22 08:07:15",
-      "album": {
-        "name": "Bhagwaan",
-        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 274110,
-      "name": "Bhagwaan",
-      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
-    },
-    {
-      "added_at": "2024-08-22 08:07:15",
+      "added_at": "2024-10-01 11:31:18",
       "album": {
         "name": "Yariyaan - Single",
         "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
@@ -1035,6 +931,78 @@
       "duration_ms": 311186,
       "name": "Yariyaan",
       "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Bhagwaan",
+        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "duration_ms": 274110,
+      "name": "Bhagwaan",
+      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Sakal Ban (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "duration_ms": 406711,
+      "name": "Sakal Ban - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Ustad Raees Khan",
+          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Hans Dhuni",
+      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     }
   ],
   "unique_name": "Fusion Finds",

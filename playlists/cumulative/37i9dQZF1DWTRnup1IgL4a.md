@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-265 songs - 11 hr 14 min
+267 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |
 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 | 2024-05-24 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-08-19 |
+| [Sleepy Memories](https://open.spotify.com/track/4X204zuz3JNU17UHLcY36G) | [Kaupe Guitar Ensemble](https://open.spotify.com/artist/0Wo8Y1Wd6sJYBiQYjGCvdO) | [Sleepy Memories](https://open.spotify.com/album/1IYGo28GGZ5Ir5kleLswla) | 3:05 | 2024-10-01 |  |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 |  |
 | [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 | 2023-06-09 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 | 2023-08-26 |
@@ -264,6 +265,7 @@
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 |  |
 | [Walz for Marion](https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom) | [Ruben Wagner](https://open.spotify.com/artist/5nlrY0oxCjsGrwJECLQEMq) | [Walz for Marion](https://open.spotify.com/album/4ZIpalRJnVdcSzMOUwz299) | 3:13 | 2021-12-09 | 2022-04-06 |
 | [Warm Winds](https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [Warm Winds](https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP) | 2:56 | 2024-08-08 |  |
+| [Water Lilies](https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Water Lilies](https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX) | 2:34 | 2024-10-01 |  |
 | [When It Rains](https://open.spotify.com/track/0z5y5lpBfxrZsDnvMOZOVy) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [When It Rains](https://open.spotify.com/album/4g9kfD7eRLcAwH60x94ygo) | 2:28 | 2023-01-20 | 2023-04-29 |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-04-28 |  |
 | [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-09 | 2024-07-30 |

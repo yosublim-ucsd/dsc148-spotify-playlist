@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-255 songs - 15 hr 19 min
+256 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-14 |  |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-07 |  |
 | [FU](https://open.spotify.com/track/2F37All4Cmeteqm0aTc1gC) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [FU](https://open.spotify.com/album/5MsObBgbn9V4EJAx49ZCc4) | 2:53 | 2021-12-10 | 2023-04-01 |
+| [Funeral Suit](https://open.spotify.com/track/7ctqPdQ1BWEykjej9bJSRi) | [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [Funeral Suit](https://open.spotify.com/album/1NhiohDtzPGofrevIgGgXN) | 3:21 | 2024-08-08 |  |
 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 | 2022-11-25 |  |
 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 | 2024-04-29 |  |
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-06-10 |  |
@@ -217,7 +218,7 @@
 | [Studio 54](https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Studio 54](https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67) | 3:14 | 2024-02-09 | 2024-07-13 |
 | [Suckers](https://open.spotify.com/track/2kzTSLMhU3lF6C0Hhmixmf) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Undergrowth Vol\. 2 \- EP](https://open.spotify.com/album/26cKtEqxlTxvKEsCl2mYpU) | 5:14 | 2021-12-10 | 2022-08-20 |
 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 |  |
-| [Talking With Your Ghost](https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Homesick](https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af) | 3:00 | 2023-01-06 |  |
+| [Talking With Your Ghost](https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Homesick](https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af) | 3:00 | 2023-01-06 | 2024-10-02 |
 | [Tatewari](https://open.spotify.com/track/3havI9aJ0bYgBt9ZX7uxBe) | [Asha McCarthy](https://open.spotify.com/artist/3597NAov5o3SvYHDEtxM2W) | [Owls Cry](https://open.spotify.com/album/1PcRa6ekEUnZLGLE3c6OyG) | 3:28 | 2023-05-12 | 2023-10-14 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-07-12 |  |
 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 | 2023-02-17 |  |

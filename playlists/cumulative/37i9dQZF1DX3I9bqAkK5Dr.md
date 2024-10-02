@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
-285 songs - 17 hr 16 min
+287 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Naa Kallalona](https://open.spotify.com/track/2vPgqs4VLTcdQnbkNC4IOP) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/4C6JnvQbuHnDXrwbYs2TpM) | 3:46 | 2023-05-23 | 2024-02-22 |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 | 2024-02-18 |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
+| [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 | 2024-10-01 |  |
 | [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 | 2024-09-25 |  |
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |
 | [Namma Raa Nesthama](https://open.spotify.com/track/3sAzCBUjCfW5b3sPvFY6Uw) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv) | [Namma Raa Nesthama](https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n) | 4:55 | 2024-07-29 |  |
@@ -156,6 +157,7 @@
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 | 2023-10-05 |
 | [Ne Kothaga](https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe) | [MS Rudra Kiran](https://open.spotify.com/artist/2TzLHm7rUooeTi6NIfbjm0), [Mounica Modali](https://open.spotify.com/artist/5iiqvn3toWXbNadpveiBeC), [Sudheshna Mokkapati](https://open.spotify.com/artist/6H0LSanfaEsTyNcs1pa1Pe), [Anirudh Sandilya](https://open.spotify.com/artist/0F4yayMRBTrHXljPrHYjFY) | [Ne Kothaga](https://open.spotify.com/album/5dnbnY8P63B9GGwqFyNsfU) | 3:06 | 2024-03-05 |  |
 | [Nee Ayya Naa Mama](https://open.spotify.com/track/2U1QW0GcLmXQQJd4JToiHg) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Nee Ayya Naa Mama](https://open.spotify.com/album/0BwEyVJo39xxLiUVI2T4sv) | 3:34 | 2024-01-22 | 2024-02-27 |
+| [Nee Korake](https://open.spotify.com/track/6UCFvF1my4n7XmjRJv0u5C) | [Ajay Naik](https://open.spotify.com/artist/5ZwWJw52QijUKUHNdx6b0Y), [Kamal Suruguchi](https://open.spotify.com/artist/1UBKJW4yyJoMAqhdVRifw7), [Nidhi Hegde](https://open.spotify.com/artist/3DDBJ15CB00jnSrlhrHDel) | [Nee Korake](https://open.spotify.com/album/5CePbcxQ1hTWqTbgMDmeJ0) | 3:03 | 2024-10-01 |  |
 | [Nee Kosam](https://open.spotify.com/track/4P7t79MRfREzq1Je631jpj) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nee Kosam](https://open.spotify.com/album/6P4m7QctAiX2WBjX8HJyNI) | 2:59 | 2023-05-19 | 2023-05-26 |
 | [Nee Kosam](https://open.spotify.com/track/1oML0e4HFyAvNCNrNdxpDg) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:12 | 2023-06-27 | 2023-08-03 |
 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 | 2023-05-25 |  |

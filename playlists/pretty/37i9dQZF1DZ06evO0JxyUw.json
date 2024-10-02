@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 266382,
+  "num_followers": 266444,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADWX2IQYR0AkSF5/lGhcc8U",
+  "snapshot_id": "ZvnqAAAAAABlb+ZhdnJUYAeyYDLv0Cy8",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Obvious - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus (Deluxe Version)",
         "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Obvious - Live - Spotify Anniversaries Version",
-      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -551,7 +551,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor - Edici\u00f3n Especial En Espa\u00f1ol",
+        "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
       "artists": [

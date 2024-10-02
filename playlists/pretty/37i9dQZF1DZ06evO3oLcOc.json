@@ -1,12 +1,12 @@
 {
-  "description": "This is Tyga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 223650,
+  "description": "This is Tyga. The essential tracks, all in one playlist.",
+  "num_followers": 223668,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAC2nUuXhkALB7vTb6Sn/qHY",
+  "snapshot_id": "ZvnqAAAAAABCipULjPyDF+YSIvfgG05p",
   "tracks": [
     {
       "added_at": null,
@@ -1063,22 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comfortable (Remix)",
-        "url": "https://open.spotify.com/album/0boACLdefRAXstqsLWMAhT"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO"
       },
       "artists": [
         {
-          "name": "Behani",
-          "url": "https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0"
-        },
-        {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 169636,
-      "name": "Comfortable - Remix",
-      "url": "https://open.spotify.com/track/5pkYVjstaM5ggccn417pzg"
+      "duration_ms": 208620,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
     }
   ],
   "unique_name": "This Is Tyga",

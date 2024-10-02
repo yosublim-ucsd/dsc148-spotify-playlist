@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31792,
+  "num_followers": 31806,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
-      },
-      "artists": [
-        {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
         "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 183529,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
-      },
-      "artists": [
-        {
-          "name": "TUMAZAR",
-          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041d\u0435 \u0437\u0430\u0441\u043d\u0443",
         "url": "https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "Chasing My Happiness",
-        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
+        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
       },
       "artists": [
         {
-          "name": "DEMCHUK",
-          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+          "name": "TUMAZAR",
+          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
         }
       ],
-      "duration_ms": 126538,
-      "name": "Chasing My Happiness",
-      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
+      "duration_ms": 218571,
+      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -767,18 +751,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
+        "name": "Chasing My Happiness",
+        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
       },
       "artists": [
         {
-          "name": "Bahroma",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
         }
       ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
+      "duration_ms": 126538,
+      "name": "Chasing My Happiness",
+      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -795,6 +779,22 @@
       "duration_ms": 166000,
       "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
+      },
+      "artists": [
+        {
+          "name": "Bahroma",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
+        "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p"
+      },
+      "artists": [
+        {
+          "name": "ENLEO",
+          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
+        },
+        {
+          "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm"
+        }
+      ],
+      "duration_ms": 175115,
+      "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
+      "url": "https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
         "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 189890,
       "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
       "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u0423 \u0422\u041e\u0411\u0406",
-        "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
-      },
-      "artists": [
-        {
-          "name": "TAYNA",
-          "url": "https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1"
-        },
-        {
-          "name": "\u041b\u0415\u0412\u0406\u0422",
-          "url": "https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "\u0423 \u0422\u041e\u0411\u0406",
-      "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -903,38 +903,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
-        "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p"
+        "name": "\u0423 \u0422\u041e\u0411\u0406",
+        "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
       },
       "artists": [
         {
-          "name": "ENLEO",
-          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
+          "name": "TAYNA",
+          "url": "https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1"
         },
         {
-          "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
-          "url": "https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm"
+          "name": "\u041b\u0415\u0412\u0406\u0422",
+          "url": "https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh"
         }
       ],
-      "duration_ms": 175115,
-      "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
-      "url": "https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u0422\u0435\u043f\u043b\u0438\u0439 \u0421\u043d\u0456\u0433 (Deluxe)",
-        "url": "https://open.spotify.com/album/58QTBu2Ku88K2VMq8VPQIo"
-      },
-      "artists": [
-        {
-          "name": "Tery",
-          "url": "https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "\u0421\u0435\u043d\u0441",
-      "url": "https://open.spotify.com/track/44R7zD0G7YcNcPyr7ZwNpy"
+      "duration_ms": 150000,
+      "name": "\u0423 \u0422\u041e\u0411\u0406",
+      "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "\u0422\u0435\u043f\u043b\u0438\u0439 \u0421\u043d\u0456\u0433 (Deluxe)",
+        "url": "https://open.spotify.com/album/58QTBu2Ku88K2VMq8VPQIo"
+      },
+      "artists": [
+        {
+          "name": "Tery",
+          "url": "https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "\u0421\u0435\u043d\u0441",
+      "url": "https://open.spotify.com/track/44R7zD0G7YcNcPyr7ZwNpy"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
         "url": "https://open.spotify.com/album/0gC71CH1y6T9aC9tgPK5gD"
       },
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "Feel it Still",
-        "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
+        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        },
-        {
-          "name": "Red Band",
-          "url": "https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs"
+          "name": "Krechet",
+          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
         }
       ],
-      "duration_ms": 174730,
-      "name": "Feel it Still",
-      "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
+      "duration_ms": 126000,
+      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
     }
   ],
   "unique_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "AnyTime",
+        "url": "https://open.spotify.com/album/7oWh8bdG3uExbxZpTd8Yae"
+      },
+      "artists": [
+        {
+          "name": "Guri Sarao",
+          "url": "https://open.spotify.com/artist/5DALhQm1b4YpkCJ3ZRjFZt"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172006,
+      "name": "AnyTime",
+      "url": "https://open.spotify.com/track/7phKH2yeyd0ceJeQatRgdF"
+    },
+    {
+      "album": {
         "name": "Arrogant",
         "url": "https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 160597,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/39JlUzqdOcKsctlBbyIYix"
@@ -1501,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Gym Flow",
+        "url": "https://open.spotify.com/album/0xL7koEUA8E8cNV5SgFJCF"
+      },
+      "artists": [
+        {
+          "name": "Yuvi",
+          "url": "https://open.spotify.com/artist/3xthAhsDWiuKrk3bIWMm1o"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127833,
+      "name": "Gym Flow",
+      "url": "https://open.spotify.com/track/7qPXqScbYBBD2n64p1IkDK"
+    },
+    {
+      "album": {
         "name": "Nothing to Prove",
         "url": "https://open.spotify.com/album/2F4jmLN6kAFzWzlabRMm0J"
       },
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 295172,
       "name": "In Case",
       "url": "https://open.spotify.com/track/3XNdtAldN7TeHWv1vFORY8"
@@ -3084,6 +3120,32 @@
       "duration_ms": 210116,
       "name": "Sarkar",
       "url": "https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r"
+    },
+    {
+      "album": {
+        "name": "Hype",
+        "url": "https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz"
+      },
+      "artists": [
+        {
+          "name": "Harry Dhaliwal",
+          "url": "https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj"
+        },
+        {
+          "name": "Anwar Rai",
+          "url": "https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131989,
+      "name": "Sarpanchi",
+      "url": "https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf"
     },
     {
       "album": {

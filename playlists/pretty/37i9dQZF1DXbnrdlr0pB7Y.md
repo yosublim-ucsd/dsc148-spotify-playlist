@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain](/playlists/plain/37i9dQZF1DXbnrdlr0pB7Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbnrdlr0pB7Y)
 
-### [Instrumentales para la Chamba](https://open.spotify.com/playlist/37i9dQZF1DXbnrdlr0pB7Y)
+### [Instrumentales para Trabajar a Gusto](https://open.spotify.com/playlist/37i9dQZF1DXbnrdlr0pB7Y)
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,704 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,713 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 101 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 102 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `ZvPo+AAAAABy73wmSva+vsexPHzn2ryg`
+Snapshot ID: `ZvwW5AAAAADyDGzuoMgtbn0u7aH3jlzR`

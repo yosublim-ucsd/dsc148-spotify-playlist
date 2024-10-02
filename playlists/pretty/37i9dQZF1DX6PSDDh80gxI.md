@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Ceneri e Chiello sulla cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,409 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,464 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 60 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 |
 | 61 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 |
 | 62 | [Corriamo senza futuro](https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Corriamo senza futuro](https://open.spotify.com/album/3EnPF5Rdj1rd5dDPMi0lHY) | 2:50 |
-| 63 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 |
-| 64 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 |
-| 65 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 |
-| 66 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 |
+| 63 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 |
+| 64 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 |
+| 65 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 |
 
-Snapshot ID: `ZvbPQwAAAABP1m+i3E8LTApctj6WYCm5`
+Snapshot ID: `ZvvA4QAAAAD16bFuCunMy3LiVeoW6fB2`

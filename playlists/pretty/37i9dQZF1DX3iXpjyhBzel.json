@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Fernandinho, Gabriela Rocha",
-  "num_followers": 1075527,
+  "num_followers": 1075921,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 378000,
       "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
       "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "O Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 426022,
-      "name": "O Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Abra\u00e7a-me - Ao Vivo",
         "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 652307,
       "name": "Abra\u00e7a-me - Ao Vivo",
       "url": "https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "O Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 426022,
+      "name": "O Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Peregrino - Ao Vivo",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -855,18 +871,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+        "name": "\u00danico - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+      "duration_ms": 412747,
+      "name": "Brasa Viva - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -887,26 +907,6 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "\u00danico - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 412747,
-      "name": "Brasa Viva - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 245136,
+      "name": "Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Merecedor da Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/685P0MAJpj5RjRDpAGSstK"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 378498,
       "name": "Merecedor da Gl\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KrMGcI7P8lZIGMlqYeJC9"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 245136,
-      "name": "Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 342306,
+      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -1475,26 +1491,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Primeiro Lugar",
-        "url": "https://open.spotify.com/album/4dw3smVMrJYqXZfFsG2zBo"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 282917,
-      "name": "Primeiro Lugar",
-      "url": "https://open.spotify.com/track/3VVnCaLoXoThHNhrQ8sqFq"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
+        "name": "Primeiro Lugar",
+        "url": "https://open.spotify.com/album/4dw3smVMrJYqXZfFsG2zBo"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 342306,
-      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
+      "duration_ms": 282917,
+      "name": "Primeiro Lugar",
+      "url": "https://open.spotify.com/track/3VVnCaLoXoThHNhrQ8sqFq"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Estrela da Manh\u00e3 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Yahweh - Ao Vivo",
         "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 797796,
       "name": "Yahweh - Ao Vivo",
       "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Estrela da Manh\u00e3 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2024-09-27 03:01:00",

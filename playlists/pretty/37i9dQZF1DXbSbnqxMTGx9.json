@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3020246,
+  "num_followers": 3020582,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
         "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 145933,
       "name": "Don De Lion",
       "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -960,13 +960,13 @@
       },
       "artists": [
         {
-          "name": "Fred Locks",
-          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Vision Of Redemption",
-      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
+      "duration_ms": 260893,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -976,13 +976,13 @@
       },
       "artists": [
         {
-          "name": "Sugar Minott",
-          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+          "name": "Fred Locks",
+          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
         }
       ],
-      "duration_ms": 260893,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV"
+      "duration_ms": 178426,
+      "name": "Vision Of Redemption",
+      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Lips of Wine",
-      "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 225493,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Super Reggae & Soul Hits",
+        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Lips of Wine",
+      "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
     },
     {
       "added_at": "2024-01-29 05:18:16",

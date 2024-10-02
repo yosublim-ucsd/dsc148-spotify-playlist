@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 316622,
+  "num_followers": 316661,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Dumplings For Dinner",
+        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
+      },
+      "artists": [
+        {
+          "name": "After 'Ours",
+          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 404162,
+      "name": "Dumplings For Dinner",
+      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Dumplings For Dinner",
-        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
-      },
-      "artists": [
-        {
-          "name": "After 'Ours",
-          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 404162,
-      "name": "Dumplings For Dinner",
-      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 237127,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Sweet Whispers: Celebrating Sarah Vaughan",
         "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Save You",
-        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 132320,
-      "name": "Save You",
-      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+      "duration_ms": 267013,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Where or When",
         "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Find Your Flame",
-        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
         }
       ],
-      "duration_ms": 290213,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -851,6 +851,38 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Find Your Flame",
+        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
       },
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Mardy",
         "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 163404,
       "name": "Mardy",
       "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 375291,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 267013,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
+      "duration_ms": 375291,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "comet",
-        "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        },
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "comet (feat. Bel Cobain)",
-      "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Interdimensional",
         "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "comet",
+        "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        },
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "comet (feat. Bel Cobain)",
+      "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "All Black Everything",
-        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
-      },
-      "artists": [
-        {
-          "name": "Amy Gadiaga",
-          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
-        }
-      ],
-      "duration_ms": 306714,
-      "name": "All Black Everything",
-      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "BEG",
         "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 160578,
       "name": "BEG",
       "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "All Black Everything",
+        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "duration_ms": 306714,
+      "name": "All Black Everything",
+      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Vita",
-        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        },
-        {
-          "name": "Nah Eeto",
-          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Vita",
-      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 165333,
       "name": "Replay",
       "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+        "name": "Reconsider Me",
+        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
       },
       "artists": [
         {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+          "name": "Gan Gemi",
+          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
+        },
+        {
+          "name": "Underground Canopy",
+          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
+      "duration_ms": 168000,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 386885,
+      "name": "Love of Mine",
+      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Only The Lover Sings",
         "url": "https://open.spotify.com/album/68NeZkYzPFAQLjS2z8sEZZ"
       },
@@ -1331,46 +1367,6 @@
       "duration_ms": 260359,
       "name": "Trembling",
       "url": "https://open.spotify.com/track/73JY1TB189qK9gUnKLrLKb"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     }
   ],
   "unique_name": "Jazz UK",

@@ -3649,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Memories",
+        "url": "https://open.spotify.com/album/1IYGo28GGZ5Ir5kleLswla"
+      },
+      "artists": [
+        {
+          "name": "Kaupe Guitar Ensemble",
+          "url": "https://open.spotify.com/artist/0Wo8Y1Wd6sJYBiQYjGCvdO"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185162,
+      "name": "Sleepy Memories",
+      "url": "https://open.spotify.com/track/4X204zuz3JNU17UHLcY36G"
+    },
+    {
+      "album": {
         "name": "Slowmood",
         "url": "https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L"
       },
@@ -4622,6 +4640,24 @@
       "duration_ms": 176665,
       "name": "Warm Winds",
       "url": "https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x"
+    },
+    {
+      "album": {
+        "name": "Water Lilies",
+        "url": "https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX"
+      },
+      "artists": [
+        {
+          "name": "Jules Navarro",
+          "url": "https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Water Lilies",
+      "url": "https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc"
     },
     {
       "album": {

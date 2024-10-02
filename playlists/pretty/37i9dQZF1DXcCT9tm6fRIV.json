@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 241392,
+  "num_followers": 241406,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Yuyo Verde",
+      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Yuyo Verde",
-      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Luz de un F\u00f3sforo - En Vivo",
-      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -831,22 +811,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Un Gui\u00f1o",
         "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
       },
@@ -859,6 +823,42 @@
       "duration_ms": 175003,
       "name": "Un Gui\u00f1o",
       "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Luz de un F\u00f3sforo - En Vivo",
+      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Rescatados",
-        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "70 A\u00f1os de Tango",
         "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
       },
@@ -943,6 +927,38 @@
       "duration_ms": 228066,
       "name": "Quiero Verte una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Rescatados",
+        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 287184,
       "name": "Sue\u00f1o de Barrilete",
       "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Tal vez ser\u00e0 su voz",
         "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 262706,
       "name": "Tal vez sera su voz",
       "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Todo Es Amor",
+        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
+      },
+      "artists": [
+        {
+          "name": "Cristian Chinellato",
+          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Todo Es Amor",
+      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Piazzolla & Amelita Baltar",
         "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Todo Es Amor",
-        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
-      },
-      "artists": [
-        {
-          "name": "Cristian Chinellato",
-          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Todo Es Amor",
-      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Tinta Roja",
-        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 188854,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2024-08-02 03:00:00",

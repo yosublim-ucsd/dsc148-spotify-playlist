@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 7 hr 43 min
+151 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [One Day \(I'm Gonna Break Your Heart\)](https://open.spotify.com/track/17RvMTNV8cqEhlKnr65btb) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:28 | 2024-01-29 |  |
 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 | 2024-01-29 |  |
 | [PAY ME BACK!](https://open.spotify.com/track/0XO1KK7qiUGVK8t3FZdM4w) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [PAY ME BACK!](https://open.spotify.com/album/0FdEEw1vJvO8hCUJUoYjRd) | 3:08 | 2024-01-29 |  |
+| [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 | 2024-10-01 |  |
 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 | 2024-01-29 |  |
 | [Policia](https://open.spotify.com/track/2xlkajdBhNjU5E3eraBTtC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:36 | 2024-01-29 |  |
 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 | 2024-01-29 |  |

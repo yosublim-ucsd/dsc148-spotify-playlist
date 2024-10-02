@@ -7257,6 +7257,28 @@
     },
     {
       "album": {
+        "name": "Deepest Truth",
+        "url": "https://open.spotify.com/album/2GZHATjTUn0AxHGmnbUqqp"
+      },
+      "artists": [
+        {
+          "name": "WH\u00d8AMI",
+          "url": "https://open.spotify.com/artist/1QoGCFi0O4ldlVJSZEijnw"
+        },
+        {
+          "name": "Hard Instruction",
+          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166879,
+      "name": "Deepest Truth",
+      "url": "https://open.spotify.com/track/1mPGgEenAV0pMLAdWOINax"
+    },
+    {
+      "album": {
         "name": "DeeRose Edits EP",
         "url": "https://open.spotify.com/album/30pfyJMmmSIrgMVp3tNEwu"
       },

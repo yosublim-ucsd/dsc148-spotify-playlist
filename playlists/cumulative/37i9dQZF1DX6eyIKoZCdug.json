@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
@@ -2226,6 +2226,32 @@
       "duration_ms": 445714,
       "name": "Izolo",
       "url": "https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42"
+    },
+    {
+      "album": {
+        "name": "J'oublierai tout",
+        "url": "https://open.spotify.com/album/1N9oQv561k9x70SdhrHt2w"
+      },
+      "artists": [
+        {
+          "name": "Streys De DJ",
+          "url": "https://open.spotify.com/artist/1w5Xfcrnnu7EjXeVpD9RAw"
+        },
+        {
+          "name": "Afro Wizardz",
+          "url": "https://open.spotify.com/artist/3h5Zmn53SiU7O81ZZBxJwq"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332639,
+      "name": "J'oublierai tout",
+      "url": "https://open.spotify.com/track/78cTZ1y6VMYEQxZMpjPuaq"
     },
     {
       "album": {
@@ -4122,7 +4148,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 234193,
       "name": "Shinbra",
       "url": "https://open.spotify.com/track/6Uefk67VUQsSZ0RTPA1xh9"
@@ -4274,6 +4300,28 @@
       "duration_ms": 208000,
       "name": "Spell-Dial",
       "url": "https://open.spotify.com/track/4M3FV9igDRJPm062z10edS"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6LkurPSxQp2hYWtRgPOnQ1"
+      },
+      "artists": [
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
+        },
+        {
+          "name": "Masuda",
+          "url": "https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299822,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6liVqLO60pM5HCWE59YC38"
     },
     {
       "album": {

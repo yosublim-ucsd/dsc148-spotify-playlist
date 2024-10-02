@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-585 songs - 1 day 11 hr 7 min
+586 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-03-30 | 2022-04-20 |
 | [Easy](https://open.spotify.com/track/1DmhHTgmnbKC5JyXxdPpD9) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/4wdC83EYfjaM8pKm2dANIi) | 3:08 | 2022-09-26 | 2022-11-23 |
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-12-16 | 2022-07-21 |
+| [Easy To Love](https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Into The Blue](https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz) | 3:50 | 2024-10-01 |  |
 | [Ecstasy](https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:27 | 2023-06-26 | 2023-08-30 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-16 | 2022-06-19 |
 | [Evan Finds the Third Room](https://open.spotify.com/track/07wztBYwMThbAVW4ahWMuD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/5u103bJ7EsNUAyL9eMACo5) | 4:00 | 2022-03-30 | 2022-04-15 |
@@ -455,7 +456,7 @@
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 | 2022-12-01 |
 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-12-05 | 2024-04-19 |
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
-| [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 | 2024-08-14 |  |
+| [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 | 2024-08-14 | 2024-10-02 |
 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 |  |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 | 2024-04-10 |  |

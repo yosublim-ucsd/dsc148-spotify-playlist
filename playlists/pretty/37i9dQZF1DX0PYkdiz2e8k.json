@@ -1,6 +1,6 @@
 {
   "description": "lonely is the muse! Foto: Halsey",
-  "num_followers": 112503,
+  "num_followers": 112512,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-09-06 19:40:17",
       "album": {
+        "name": "isolation demos",
+        "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
+      },
+      "artists": [
+        {
+          "name": "EZI",
+          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "cold cold cold",
+      "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
+    },
+    {
+      "added_at": "2024-09-06 19:40:17",
+      "album": {
         "name": "Velhos H\u00e1bitos",
         "url": "https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 174852,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk"
-    },
-    {
-      "added_at": "2024-09-06 19:40:17",
-      "album": {
-        "name": "isolation demos",
-        "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
-      },
-      "artists": [
-        {
-          "name": "EZI",
-          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "cold cold cold",
-      "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
     },
     {
       "added_at": "2024-09-06 19:40:17",

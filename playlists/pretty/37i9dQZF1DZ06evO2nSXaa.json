@@ -1,12 +1,12 @@
 {
   "description": "This Is Tate McRae. Los temas esenciales, todos en una lista.",
-  "num_followers": 198959,
+  "num_followers": 199091,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAABzLcrXWxmSS5lzRGrLYU7n",
+  "snapshot_id": "ZvnqAAAAAADlvP4M5TkJbmhdfdvNDSXA",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "tear myself apart",
-      "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/5iyYTjDj9kt0rz8kjrnayq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 171899,
       "name": "Slip",
       "url": "https://open.spotify.com/track/1RI4G0KZES2ZQgKCF3mgOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "tear myself apart",
+      "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "all my friends are fake",
-      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "all my friends are fake",
+      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/7jSZ6v4skvnBDh2ezEjPk3"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 216854,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7zmGroa83F8IqoGdN36Anr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hung up on You",
         "url": "https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201256,
       "name": "Hung up on You",
       "url": "https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7jSZ6v4skvnBDh2ezEjPk3"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 216854,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/7zmGroa83F8IqoGdN36Anr"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1407492,
+  "num_followers": 1407584,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAABGPn8U7Sx1U4zgTzJx0Bak",
+  "snapshot_id": "ZvnqAAAAAAAHfpxFG3g+zz0f0SlkoA28",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drinking From The Sun",
+        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immortal Queen (feat. Chaka Khan & Debbie Harry)",
         "url": "https://open.spotify.com/album/6DTDpU2pW8MJgUHLPvNoNi"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 214566,
       "name": "Immortal Queen (feat. Chaka Khan & Debbie Harry)",
       "url": "https://open.spotify.com/track/6V6IYLLAvBplqfo4dvRFWv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drinking From The Sun",
-        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 205207,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241493,
       "name": "Fire Meet Gasoline",
       "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 205207,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Still Here",
-        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241910,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 210613,
       "name": "Big Girls Cry",
       "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241910,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
     },
     {
       "added_at": null,

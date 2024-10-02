@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 121908,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 121957,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAACrz6nOw+GtnNbiAXAsNnbC",
+  "snapshot_id": "ZvnqAAAAAADCHcfDvQY1/HBlf38u+lSV",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Tu Amor No Vuelve",
-        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
         },
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+      "duration_ms": 173796,
+      "name": "Le Viene Bien",
+      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
     },
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9cimo Cuarto",
-        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
+        "name": "Si Tu Amor No Vuelve",
+        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 173796,
-      "name": "Le Viene Bien",
-      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
+      "duration_ms": 201040,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
     },
     {
       "added_at": null,
@@ -795,38 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
       },
@@ -847,6 +815,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jacuzzi",
         "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
       },
@@ -863,38 +863,6 @@
       "duration_ms": 184106,
       "name": "Jacuzzi",
       "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "A M\u00ed No",
-      "url": "https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "De a poco",
-      "url": "https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck"
     },
     {
       "added_at": null,
@@ -923,6 +891,38 @@
       "duration_ms": 252903,
       "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
       "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "De a poco",
+      "url": "https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "A M\u00ed No",
+      "url": "https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8"
     },
     {
       "added_at": null,
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 126293,
-      "name": "Lokita",
-      "url": "https://open.spotify.com/track/4i0OTkKDtOhSNgVb57mexh"
+      "duration_ms": 139973,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
     }
   ],
   "unique_name": "This Is Greeicy",

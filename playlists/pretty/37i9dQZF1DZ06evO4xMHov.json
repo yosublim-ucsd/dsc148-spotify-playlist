@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61456,
+  "description": "This Is N\u00edvea Soares. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 61466,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAABA1hiVwKwseNkiWIhVrXix",
+  "snapshot_id": "ZvnqAAAAAABJm77OchpeuMt5vKY70Yxl",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Como Nosso Deus?",
         "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 489116,
       "name": "Quem \u00e9 Como Nosso Deus?",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 348809,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 265586,
       "name": "Os Que Esperam - Ao Vivo",
       "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

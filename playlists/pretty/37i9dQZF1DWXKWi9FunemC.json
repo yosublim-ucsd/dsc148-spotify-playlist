@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 337224,
+  "num_followers": 337370,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "peacefully",
-        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0"
       },
       "artists": [
         {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 121363,
-      "name": "peacefully",
-      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
+      "duration_ms": 249084,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0"
+        "name": "peacefully",
+        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
         }
       ],
-      "duration_ms": 249084,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
+      "duration_ms": 121363,
+      "name": "peacefully",
+      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 259868,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 238153,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Simple Song",
         "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "The Longing",
         "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 289048,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+      },
+      "artists": [
+        {
+          "name": "Michael Hughes Watson",
+          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Hanging onto Every Word That You Say",
+      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1003,22 +1019,6 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
-      },
-      "artists": [
-        {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 254118,
       "name": "Not in a Hurry - Reimagined",
       "url": "https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Who May Ascend",
-        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
-      },
-      "artists": [
-        {
-          "name": "Cross Church Worship",
-          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Who May Ascend",
-      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Kingdoms",
         "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Who May Ascend",
+        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
+      },
+      "artists": [
+        {
+          "name": "Cross Church Worship",
+          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Who May Ascend",
+      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
-      },
-      "artists": [
-        {
-          "name": "Momentum Music",
-          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
-        }
-      ],
-      "duration_ms": 387536,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stay Close",
         "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 194716,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+      },
+      "artists": [
+        {
+          "name": "Momentum Music",
+          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+        }
+      ],
+      "duration_ms": 387536,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
     },
     {
       "added_at": "2024-08-03 00:38:12",

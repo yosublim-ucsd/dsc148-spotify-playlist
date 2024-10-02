@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-908 songs - 1 day 18 hr 18 min
+909 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-11 | 2024-02-17 |
 | [BACK TO ME](https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:55 | 2024-02-16 | 2024-02-24 |
 | [Backdoor](https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Backdoor](https://open.spotify.com/album/3rCLrfv45EOFmiqCWWQC9T) | 2:05 | 2022-02-25 | 2022-04-02 |
+| [Bad Bitty](https://open.spotify.com/track/0aY6eYWRY2qAQJJ8SzL68Y) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 1:42 | 2024-10-01 |  |
 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 | 2024-08-16 | 2024-08-31 |
 | [Bad Guy](https://open.spotify.com/track/6bMnotvdxhnbEy0ivTFT2O) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Bad Guy](https://open.spotify.com/album/42ThvJIGp1XXLByq6LvkfR) | 2:23 | 2024-06-07 | 2024-06-15 |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2021-11-12 | 2022-03-26 |
@@ -901,7 +902,7 @@
 | [Wocky Sinner](https://open.spotify.com/track/6gNDOhpuvEtpwMKjwZttE7) | [Tye Beats](https://open.spotify.com/artist/0XaTKcZJRzeTTIbHmTjQWG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Wocky Sinner](https://open.spotify.com/album/09ujFlqtIsHigdg6p003lj) | 3:05 | 2024-08-02 | 2024-08-17 |
 | [Wombo \(feat\. Lil Yachty\)](https://open.spotify.com/track/3F692mv6wwaVejp9KPwm2k) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wombo \(feat\. Lil Yachty\)](https://open.spotify.com/album/1HzfDtZqU8KAWSayZpCZmO) | 2:13 | 2024-08-16 | 2024-08-24 |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-06-03 |
-| [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 | 2024-09-13 |  |
+| [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 | 2024-09-13 | 2024-10-02 |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2022-09-24 |
 | [WTW](https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [WTW](https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU) | 3:20 | 2024-03-22 | 2024-04-27 |
 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 | 2022-09-09 | 2022-12-10 |

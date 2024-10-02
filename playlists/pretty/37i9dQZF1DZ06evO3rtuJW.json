@@ -1,12 +1,12 @@
 {
-  "description": "This is G Herbo. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 33140,
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
+  "num_followers": 33144,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADMBj21Z1UEYLlkMvkzaT87",
+  "snapshot_id": "ZvnqAAAAAABIUIuPUQVBgEV/lpMuQLXn",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THA STREETS VOL 1",
-        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
-      },
-      "artists": [
-        {
-          "name": "HotBlock Jmoe",
-          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead N****s (feat. Polo G & G Herbo)",
         "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
       },
@@ -267,38 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD POET",
-        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 182768,
-      "name": "No Recruits (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -319,6 +283,42 @@
       "duration_ms": 157759,
       "name": "On Yo Ass",
       "url": "https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "No Recruits (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160135,
-      "name": "Subject",
-      "url": "https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 124508,
       "name": "My City - Sped Up",
       "url": "https://open.spotify.com/track/7y037ZKbgyiO1xXwToyxJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160135,
+      "name": "Subject",
+      "url": "https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg"
     },
     {
       "added_at": null,

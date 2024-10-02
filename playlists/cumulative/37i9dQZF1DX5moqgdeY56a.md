@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-141 songs - 8 hr 27 min
+142 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,11 +39,12 @@
 | [Compromiso Descartado](https://open.spotify.com/track/6x5tKn6RhX8lje0KvZFJH6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 2:40 | 2024-04-09 | 2024-08-07 |
 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 | 2022-09-22 | 2023-12-25 |
 | [Cruz de Olvido](https://open.spotify.com/track/7gFj8NlJJ9KwkFvKaQwzxA) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:45 | 2024-04-09 |  |
+| [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 | 2024-04-09 |  |
 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 | 2024-04-09 |  |
 | [Debajo de los Laureles](https://open.spotify.com/track/3r69JkhzLRama3LQ10qE54) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Allá en el Rancho Grande, Vol\. 13](https://open.spotify.com/album/0aO9zcz6Tf28fWy3PgZ7Ti) | 2:31 | 2024-04-09 |  |
 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 | 2023-10-13 | 2024-04-19 |
 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 | 2021-12-13 | 2024-04-19 |
-| [Echame a Mi la Culpa](https://open.spotify.com/track/4JIadtApDJKn7gRea0pgeT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:02 | 2024-04-09 |  |
+| [Echame a Mi la Culpa](https://open.spotify.com/track/4JIadtApDJKn7gRea0pgeT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:02 | 2024-04-09 | 2024-10-02 |
 | [El Anticuado](https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Anticuado](https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj) | 4:04 | 2021-12-13 | 2022-09-23 |
 | [El Autobús](https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [No Soy de Nadie](https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt) | 3:57 | 2024-04-09 |  |
 | [El Chivo](https://open.spotify.com/track/1QHsh7mQuy7ykz9W9avvTR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2022-09-22 | 2022-11-13 |

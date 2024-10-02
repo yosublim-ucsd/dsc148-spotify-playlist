@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 36 | [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 |
 | 37 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 38 | [Mördare](https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Mördare](https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW) | 2:49 |
-| 39 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
-| 40 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
-| 41 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 39 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 40 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
+| 41 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
 | 42 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 43 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
 | 44 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 52 | [Territory Day](https://open.spotify.com/track/5U8QZWyYdNNLZpzHcS8i2D) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/3Ej72D5LaFOqUPpqpcu2U3) | 5:26 |
 | 53 | [Crumbs](https://open.spotify.com/track/7uhU4IYKI9e7leuQXCmHzG) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [Crumbs](https://open.spotify.com/album/4qCWEnBAq9LJpkIUi3s2vV) | 1:55 |
 | 54 | [Grodjakten](https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE) | [Johannes Räihä](https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP) | [Grodjakten](https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb) | 2:31 |
-| 55 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
-| 56 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 |
+| 55 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 |
+| 56 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
 | 57 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 |
 | 58 | [WOMAN](https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 3:28 |
 | 59 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 68 | [Work For Free](https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Work For Free](https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w) | 2:42 |
 | 69 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
 | 70 | [Fight Back Time](https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY) | 3:17 |
-| 71 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
-| 72 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
+| 71 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
+| 72 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
 | 73 | [Who](https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Who](https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd) | 3:27 |
 | 74 | [Lilla liv](https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lilla liv](https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ) | 3:15 |
 | 75 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |

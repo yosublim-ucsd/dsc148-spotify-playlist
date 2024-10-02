@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,206 songs - 3 day 1 hr 17 min
+1,207 songs - 3 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,6 +1191,7 @@
 | [Worst Of You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 3:41 | 2022-01-19 |  |
 | [WTF \- Spotify Singles](https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:21 | 2022-10-03 |  |
 | [XOXO \(Version Française\) \- Spotify Singles](https://open.spotify.com/track/15OcJsnSOuQkSB4KPRje9o) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Spotify Singles](https://open.spotify.com/album/6KlTtkhY5el9zjIoHqoQJp) | 3:46 | 2022-01-19 |  |
+| [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-10-01 |  |
 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-12 |  |
 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 4:07 | 2022-01-19 |  |
 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zSv1U80nhb2FNKnomyyII) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/4fLoVhJEg40ctKo7zAI3CI) | 4:07 | 2022-10-12 | 2024-04-19 |

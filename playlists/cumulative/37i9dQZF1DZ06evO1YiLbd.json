@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332",
+        "url": "https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "Sword of Courage",
+      "url": "https://open.spotify.com/track/3WfVVKF0evK1vkfNj3oEEd"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: Season 7 (Original Pre-Release Soundtrack)",
         "url": "https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy"
       },

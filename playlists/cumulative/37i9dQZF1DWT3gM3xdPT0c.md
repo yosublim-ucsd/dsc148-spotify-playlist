@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-361 songs - 15 hr 32 min
+363 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
+| [Evening Glow](https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Evening Glow](https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB) | 2:42 | 2024-10-01 |  |
 | [Evening Rhyme](https://open.spotify.com/track/2SKiHfZj0kYvrEVl8nm6Rq) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Evening Rhyme](https://open.spotify.com/album/4QWODS6k0zUNUkcf0hfRGe) | 2:13 | 2023-01-20 | 2024-05-24 |
 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 | 2022-03-04 | 2023-03-10 |
 | [Ever After](https://open.spotify.com/track/1Pcu09TxRuwvNzbUzCEYs7) | [Maver Lein](https://open.spotify.com/artist/2SDz69jJ0A53L45StqQ70J) | [Ever After](https://open.spotify.com/album/3Jdajqk2ela7MPVa21k1M3) | 2:18 | 2022-03-04 | 2022-04-22 |
@@ -119,6 +120,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-14 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-03-04 | 2024-04-06 |
 | [Fino a Novembre](https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Fino a Novembre](https://open.spotify.com/album/2Xuon7cc0MYNmWM9awtMJl) | 2:05 | 2022-03-04 | 2022-04-06 |
+| [First Day of Spring](https://open.spotify.com/track/1vEiPkYPGvGC6b9H62R55H) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [First Day of Spring](https://open.spotify.com/album/6ARTpCGoPf9lxTw4LXo8uO) | 2:30 | 2024-10-01 |  |
 | [First Love](https://open.spotify.com/track/4REsGOqIOvzi9PygRFVEru) | [Sly Hickman](https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ) | [First Love](https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh) | 2:12 | 2024-09-25 |  |
 | [First Summer](https://open.spotify.com/track/4vtxTtXKzCX07aYik2gBjA) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [First Summer](https://open.spotify.com/album/3k9CdFJXdfgQhsbbzw6SK7) | 2:58 | 2024-06-28 |  |
 | [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 | 2022-07-29 | 2022-10-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Future, Doechii, Kendrick Lamar, and more...",
+  "description": "Only the hottest Hip Hop from 25K, Future, Doechii, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -1050,6 +1050,40 @@
       "duration_ms": 150593,
       "name": "BRODIES",
       "url": "https://open.spotify.com/track/1pGxSl5VmzBtejKSmuAKKU"
+    },
+    {
+      "album": {
+        "name": "Buss Buss",
+        "url": "https://open.spotify.com/album/1BogiJVTrCMW2QuyTrDFVV"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        },
+        {
+          "name": "Orish",
+          "url": "https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170292,
+      "name": "Buss Buss",
+      "url": "https://open.spotify.com/track/6FJZxAQTD24b87dh1AVCKu"
     },
     {
       "album": {
@@ -4349,6 +4383,28 @@
     },
     {
       "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161177,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
+    },
+    {
+      "album": {
         "name": "THE4MULA",
         "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
       },
@@ -5171,6 +5227,28 @@
     },
     {
       "album": {
+        "name": "Something Special (feat. Marcus Harvey)",
+        "url": "https://open.spotify.com/album/39Mds84KeF5i1zuUQfQvkt"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Something Special (feat. Marcus Harvey)",
+      "url": "https://open.spotify.com/track/34zAWBabuhc593VUuQMStN"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -5726,6 +5804,32 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
+        "name": "COYOTE",
+        "url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "Trevor Spitta",
+          "url": "https://open.spotify.com/artist/6uCXq7IoXFqGSB3L5zX5oV"
+        },
+        {
+          "name": "Zachary Moon",
+          "url": "https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153656,
+      "name": "TENNESSEE",
+      "url": "https://open.spotify.com/track/19uJXEzXyp37uw6tOmKMMA"
     },
     {
       "album": {

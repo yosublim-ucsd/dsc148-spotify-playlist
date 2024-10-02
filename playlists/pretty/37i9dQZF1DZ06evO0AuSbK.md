@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 
-> This is Limp Bizkit\. Tutti i brani in un'unica playlist.
+> This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,775 likes - 42 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,887 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 41 | [Walking Away](https://open.spotify.com/track/6cUABkGFq0f8hBZZCUBX4Q) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 4:45 |
 | 42 | [The Propaganda](https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:16 |
 
-Snapshot ID: `ZviYgAAAAAAESMvZpUyTo/e0mOoyGDqS`
+Snapshot ID: `ZvnqAAAAAAAtx7waYBwBchpt7noFoJBW`

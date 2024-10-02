@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-117 songs - 4 hr 43 min
+119 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,9 @@
 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 | 2021-12-22 |  |
 | [Last Christmas](https://open.spotify.com/track/2bMTaFsvRxO05fjCKEc0Sn) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Last Christmas](https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD) | 1:57 | 2021-12-22 |  |
 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 | 2021-12-22 |  |
+| [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 | 2024-10-01 |  |
 | [Let It Snow](https://open.spotify.com/track/5fPCSBZG92XJUO6zKO9HZm) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Let It Snow](https://open.spotify.com/album/6V0uJJo3OteLEvvsx9ZWhA) | 2:26 | 2022-11-11 | 2023-09-14 |
+| [Little Drummer Boy](https://open.spotify.com/track/2rDERDzsgo0uw7n3oNXRE3) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Little Drummer Boy](https://open.spotify.com/album/5Jxcb6JzPcxlHedDluLm23) | 3:05 | 2024-10-01 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5HZZkNOzjZnPPtrmwg6eQI) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [White Christmas](https://open.spotify.com/album/0uZsVQn1yY3hO9w2qn1H3g) | 2:43 | 2021-12-22 |  |
 | [Lo! How A Rose E' er Blooming](https://open.spotify.com/track/4H1uUrPoIciE4QkV5XO3uN) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:03 | 2021-12-22 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/7DS5ZlzSQ6XUCxZQt6uvRw) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:34 | 2021-12-22 |  |

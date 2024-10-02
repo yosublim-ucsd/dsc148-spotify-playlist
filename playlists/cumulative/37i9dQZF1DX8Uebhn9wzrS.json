@@ -8039,6 +8039,24 @@
     },
     {
       "album": {
+        "name": "dancing lights",
+        "url": "https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144041,
+      "name": "dancing lights",
+      "url": "https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo"
+    },
+    {
+      "album": {
         "name": "Dark Places",
         "url": "https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ"
       },
@@ -10680,7 +10698,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 146250,
       "name": "Express",
       "url": "https://open.spotify.com/track/7cXXT2CGdsxkm02CB7FZvS"
@@ -15968,7 +15986,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -18963,6 +18981,24 @@
     },
     {
       "album": {
+        "name": "little memories",
+        "url": "https://open.spotify.com/album/6tTknlybqIFY34JNMJS0CU"
+      },
+      "artists": [
+        {
+          "name": "joe macchiato",
+          "url": "https://open.spotify.com/artist/5BmTJhUH8SPiSGwv00pr19"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120903,
+      "name": "little memories",
+      "url": "https://open.spotify.com/track/5cGpQgmRf14jnkfxAqOi3U"
+    },
+    {
+      "album": {
         "name": "little pleasures",
         "url": "https://open.spotify.com/album/38FHCzF51Q9sSlIKQ7sHXC"
       },
@@ -20774,6 +20810,24 @@
       "duration_ms": 205219,
       "name": "matcha latte",
       "url": "https://open.spotify.com/track/2GjPR5XcxmzIBkzGen3BMO"
+    },
+    {
+      "album": {
+        "name": "Matsuoka",
+        "url": "https://open.spotify.com/album/3F43SAWw5a25Rm5P2n74yD"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113942,
+      "name": "Matsuoka",
+      "url": "https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN"
     },
     {
       "album": {
@@ -23021,6 +23075,24 @@
     },
     {
       "album": {
+        "name": "neon glow",
+        "url": "https://open.spotify.com/album/1vkxeA90QkysyBu9kAdS0f"
+      },
+      "artists": [
+        {
+          "name": "haywrd",
+          "url": "https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161958,
+      "name": "neon glow",
+      "url": "https://open.spotify.com/track/4R3zRuU2z2QkZP8lim6fMe"
+    },
+    {
+      "album": {
         "name": "Retrospect",
         "url": "https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK"
       },
@@ -25224,6 +25296,24 @@
       "duration_ms": 133700,
       "name": "Overlord",
       "url": "https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp"
+    },
+    {
+      "album": {
+        "name": "overused.",
+        "url": "https://open.spotify.com/album/0yfcaOnt3yHljzqImWnnAK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "overused.",
+      "url": "https://open.spotify.com/track/0EsSBz7kNvkDOa2JTk7AqZ"
     },
     {
       "album": {
@@ -30692,7 +30782,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 121500,
       "name": "Smokin' aces",
       "url": "https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR"
@@ -31484,6 +31574,28 @@
       "duration_ms": 120000,
       "name": "Space Loneliness",
       "url": "https://open.spotify.com/track/5kci1qV7mn8VeQh5uJFbj9"
+    },
+    {
+      "album": {
+        "name": "space mission",
+        "url": "https://open.spotify.com/album/1DdzVtFvenFO114Za7cHKA"
+      },
+      "artists": [
+        {
+          "name": "fofi",
+          "url": "https://open.spotify.com/artist/3RwGgeSBNBgs4pkiCM8Fqw"
+        },
+        {
+          "name": "Tyler.l",
+          "url": "https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143923,
+      "name": "space mission",
+      "url": "https://open.spotify.com/track/4xocKxe84rTS64xo1E17CY"
     },
     {
       "album": {
@@ -32746,7 +32858,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
@@ -33144,7 +33256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 164166,
       "name": "sunset",
       "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"
@@ -34368,7 +34480,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 131611,
       "name": "the deep sea",
       "url": "https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY"

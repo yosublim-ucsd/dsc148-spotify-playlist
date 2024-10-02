@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "\u508d\u82e5\u306e\u30ab\u30ea\u30b9\u30de",
+        "url": "https://open.spotify.com/album/6D0tjjeezuKCQbAyiGILDj"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265094,
+      "name": "\u508d\u82e5\u306e\u30ab\u30ea\u30b9\u30de",
+      "url": "https://open.spotify.com/track/6ubI9ALQi6TQYZm7tVPDAi"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
         "url": "https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k"
       },

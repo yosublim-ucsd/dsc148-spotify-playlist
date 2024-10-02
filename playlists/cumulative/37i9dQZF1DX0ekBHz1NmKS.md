@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,624 songs - 3 day 12 hr 22 min
+1,625 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 | 2023-09-21 |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
+| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-13 |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-05-23 | 2024-06-21 |
@@ -1525,7 +1526,7 @@
 | [VIKOMMERÅDÖ](https://open.spotify.com/track/0GdhtbBV4AWM3QTL09OFPF) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [VIKOMMERÅDÖ](https://open.spotify.com/album/0FFtatB9vcQps5vDLM6s1I) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [Viktigt](https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Viktigt](https://open.spotify.com/album/7ER18ZbwfpfM5ZJh1Ex5gU) | 2:57 | 2024-04-04 | 2024-05-03 |
 | [Vill Ha Dig](https://open.spotify.com/track/4hMgZHTuFA6TJHIXTvU6A1) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Vill Ha Dig](https://open.spotify.com/album/18ptVEEe7WJF7q8rbIoTKV) | 3:57 | 2021-12-16 | 2022-01-06 |
-| [Vill inte att solen går upp](https://open.spotify.com/track/2ICKdmYbZpybSuamPkmgGS) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Vill inte att solen går upp](https://open.spotify.com/album/17DT47CYYqJRIQtfL05ag0) | 3:23 | 2024-08-08 |  |
+| [Vill inte att solen går upp](https://open.spotify.com/track/2ICKdmYbZpybSuamPkmgGS) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Vill inte att solen går upp](https://open.spotify.com/album/17DT47CYYqJRIQtfL05ag0) | 3:23 | 2024-08-08 | 2024-10-02 |
 | [Vill va honom](https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Vill va honom](https://open.spotify.com/album/4syylJ7CrezyUxNdkSFsuI) | 3:04 | 2024-06-27 |  |
 | [Vincent](https://open.spotify.com/track/2OkBi8s5tBzrKIYjINs4p7) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Vincent](https://open.spotify.com/album/2rHuQYFtCQ8LNHo2SenIJY) | 2:39 | 2023-11-16 | 2024-02-09 |
 | [VINCENT VAN GOGH](https://open.spotify.com/track/6OX0wJBp76vVHprJhpwOCl) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [VINCENT VAN GOGH](https://open.spotify.com/album/40HVvl2Bk1XoeN8kH2dmVL) | 2:33 | 2022-05-30 | 2022-07-20 |

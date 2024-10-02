@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330672,
+  "num_followers": 330683,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Z\u00e9lia Duncan",
-        "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Catedral",
-      "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 232485,
       "name": "Regime Fechado - Ao Vivo",
       "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Z\u00e9lia Duncan",
+        "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Menino do Rio",
-        "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Cabide",
-      "url": "https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
         "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Menino do Rio",
+        "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Cabide",
+      "url": "https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 204221,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 197480,
       "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
       "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Fogo Na Mistura",
-        "url": "https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf"
-      },
-      "artists": [
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        }
-      ],
-      "duration_ms": 277666,
-      "name": "De Volta Pro Aconchego",
-      "url": "https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 281034,
       "name": "Feito Fuma\u00e7a",
       "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Fogo Na Mistura",
+        "url": "https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf"
+      },
+      "artists": [
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 277666,
+      "name": "De Volta Pro Aconchego",
+      "url": "https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
-        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
-      },
-      "artists": [
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        }
-      ],
-      "duration_ms": 413866,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Psiu",
         "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 297128,
       "name": "Psiu",
       "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
+        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
+      },
+      "artists": [
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        }
+      ],
+      "duration_ms": 413866,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
     },
     {
       "added_at": "2022-10-07 03:01:33",

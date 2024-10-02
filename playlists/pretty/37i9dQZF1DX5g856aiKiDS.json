@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 488958,
+  "num_followers": 489013,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,18 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "whenever it rains",
-        "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Nason",
-          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
-        },
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 185737,
-      "name": "Whenever it rains (feat. Nason & amin)",
-      "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -311,18 +303,26 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+        "name": "whenever it rains",
+        "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Nason",
+          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+      "duration_ms": 185737,
+      "name": "Whenever it rains (feat. Nason & amin)",
+      "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -435,30 +435,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "Can I Love ?",
-        "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boy",
-          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
-        },
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "Meego",
-          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Can I Love ? (feat. youra & Meego)",
-      "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "Can I Love ?",
+        "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boy",
+          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
+        },
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "Meego",
+          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Can I Love ? (feat. youra & Meego)",
+      "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "WONDO Project : LOVE RECIPE, Vol.1",
-        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "LOVE RECIPE",
-      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 210158,
       "name": "Jenga (feat. Gaeko)",
       "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "WONDO Project : LOVE RECIPE, Vol.1",
+        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "LOVE RECIPE",
+      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
     },
     {
       "added_at": "2024-09-13 09:13:39",

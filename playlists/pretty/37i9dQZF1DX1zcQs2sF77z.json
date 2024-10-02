@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 234148,
+  "num_followers": 234246,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-06-05 13:48:56",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+    },
+    {
+      "added_at": "2024-06-05 13:48:56",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2024-06-05 13:48:56",
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2024-06-05 13:48:56",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-06-05 13:48:56",
       "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "Stereo Love - Radio Edit",
-      "url": "https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI"
-    },
-    {
-      "added_at": "2024-06-05 13:48:56",
-      "album": {
         "name": "Reload (Vocal Version / Radio Edit)",
         "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
+    },
+    {
+      "added_at": "2024-06-05 13:48:56",
+      "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "Stereo Love - Radio Edit",
+      "url": "https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI"
     },
     {
       "added_at": "2024-06-05 13:48:56",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Naina Layal",
+  "description": "Discover new Punjabi artists! Cover: Uday Bath",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 70992,
       "name": "Affection",
       "url": "https://open.spotify.com/track/32g6xM4Lcn1edwMYP7nZZ9"
@@ -276,6 +276,46 @@
       "duration_ms": 189333,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB"
+    },
+    {
+      "album": {
+        "name": "Belle",
+        "url": "https://open.spotify.com/album/0syqXKnXhN44IM8P59Ir45"
+      },
+      "artists": [
+        {
+          "name": "D Hans",
+          "url": "https://open.spotify.com/artist/1RAOUJeDIypipfnlJ7LDU3"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/0yvVlqvgnB3fuwdYjLMRp3"
+    },
+    {
+      "album": {
+        "name": "Blink Eye",
+        "url": "https://open.spotify.com/album/6VuLxDB83rq25iifpEfk4R"
+      },
+      "artists": [
+        {
+          "name": "Rashpinder",
+          "url": "https://open.spotify.com/artist/2ylruJarMq4iWImccbzAz3"
+        },
+        {
+          "name": "G Romio",
+          "url": "https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123510,
+      "name": "Blink Eye",
+      "url": "https://open.spotify.com/track/6UCtfVEZF5gZllt0uSW8Q7"
     },
     {
       "album": {
@@ -557,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Double R",
+        "url": "https://open.spotify.com/album/7nSXfG2RBjH7rN7BjTk9vB"
+      },
+      "artists": [
+        {
+          "name": "Mny Deep",
+          "url": "https://open.spotify.com/artist/3UdKotGfHi8C7k8xsRi4a4"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149929,
+      "name": "Double R",
+      "url": "https://open.spotify.com/track/0MF149ChYfSbmtXTUb45S2"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
       },
@@ -681,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Gairaan Nal",
+        "url": "https://open.spotify.com/album/1tAPrrwFq9fGnaa5qI6IBu"
+      },
+      "artists": [
+        {
+          "name": "Dilnoor",
+          "url": "https://open.spotify.com/artist/50tXZuZyML8SQweztignbv"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Gairaan Nal",
+      "url": "https://open.spotify.com/track/0PMsB7a6YlxOHz30j2jdmz"
+    },
+    {
+      "album": {
         "name": "Gal Sun",
         "url": "https://open.spotify.com/album/3Co9vTPO7X7MM2bcV0ETZJ"
       },
@@ -718,10 +794,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 162666,
       "name": "Garari",
       "url": "https://open.spotify.com/track/4RrTO3ODMrBtIaCQ11PvlI"
+    },
+    {
+      "album": {
+        "name": "Ghum Di Phiran",
+        "url": "https://open.spotify.com/album/5s1JvUUKQBAo50k91z0yEL"
+      },
+      "artists": [
+        {
+          "name": "Ayaan Lall",
+          "url": "https://open.spotify.com/artist/34v7tI5LqY4XZ58HpfHanB"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Ghum Di Phiran",
+      "url": "https://open.spotify.com/track/67VohGV4A295W64VOgVwD6"
     },
     {
       "album": {
@@ -784,7 +878,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 198846,
       "name": "Hasrat",
       "url": "https://open.spotify.com/track/1fpooY2ysygMUZSeK8rxSB"
@@ -901,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Jadunagri",
+        "url": "https://open.spotify.com/album/3G7vm0B5ANLk9PYoj6OxFP"
+      },
+      "artists": [
+        {
+          "name": "DEEWANA",
+          "url": "https://open.spotify.com/artist/5PVeqpOPWiM1Alypt2v10S"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185322,
+      "name": "Jadunagri",
+      "url": "https://open.spotify.com/track/6iAVJrfxbbddOnzFepUeJ8"
+    },
+    {
+      "album": {
         "name": "jhalli",
         "url": "https://open.spotify.com/album/2PBbttiVQ9ZkhDKLV6cKo1"
       },
@@ -973,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Kismat",
+        "url": "https://open.spotify.com/album/0o5lFAGhdz8lml9kqGqdoF"
+      },
+      "artists": [
+        {
+          "name": "Sona Walia",
+          "url": "https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236547,
+      "name": "Kismat",
+      "url": "https://open.spotify.com/track/23Om54rdyag2vKlK4pz07f"
+    },
+    {
+      "album": {
         "name": "Kudrat Wargi 2",
         "url": "https://open.spotify.com/album/5ycrHpUReGnNRdBTWqIiu5"
       },
@@ -988,7 +1118,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 214588,
       "name": "Kudrat Wargi 2",
       "url": "https://open.spotify.com/track/5oaPrC2dy6tNgLyMzYoIzH"
@@ -1329,6 +1459,32 @@
     },
     {
       "album": {
+        "name": "Morni (feat. Anayat)",
+        "url": "https://open.spotify.com/album/0mRiv2AaZSOXTGlIKhNF9P"
+      },
+      "artists": [
+        {
+          "name": "Jot Singh",
+          "url": "https://open.spotify.com/artist/3ODBfUrrMJ754gojNtrACT"
+        },
+        {
+          "name": "AVee",
+          "url": "https://open.spotify.com/artist/5xO38JLWW0qdP4KvWYix3i"
+        },
+        {
+          "name": "Anayat",
+          "url": "https://open.spotify.com/artist/393yCI4jT6Q47AC8ILPDPY"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Morni (feat. Anayat)",
+      "url": "https://open.spotify.com/track/5OHpcFZICcb8RDtC885eGW"
+    },
+    {
+      "album": {
         "name": "Munda Hot",
         "url": "https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT"
       },
@@ -1398,7 +1554,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 129000,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/3sFUxSznTr0Nhvx6Mz4D8s"
@@ -1500,10 +1656,36 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 153600,
       "name": "Pyaar Jeha",
       "url": "https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY"
+    },
+    {
+      "album": {
+        "name": "Raia",
+        "url": "https://open.spotify.com/album/13g9hnfHAbRkX4PCz1U25j"
+      },
+      "artists": [
+        {
+          "name": "Roohan",
+          "url": "https://open.spotify.com/artist/4hxfheOtGndp6m7J666vcj"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/6A393NuWg2ACAFPefgiaFv"
+        },
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/5XdYfUuAbJI8JPxA4WKycY"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Raia",
+      "url": "https://open.spotify.com/track/52kEz25TXZ6FobnUH6kWHp"
     },
     {
       "album": {
@@ -1592,7 +1774,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 256799,
       "name": "Sara Pind Mittran Da",
       "url": "https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w"
@@ -1644,7 +1826,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 191053,
       "name": "Sharafat",
       "url": "https://open.spotify.com/track/1qOe5HePibypL6IHBL8sKv"
@@ -1750,7 +1932,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 190185,
       "name": "Tareyan Di Loh",
       "url": "https://open.spotify.com/track/6uKrIW08JEFJixEWNmfzEm"
@@ -1995,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Yaar",
+        "url": "https://open.spotify.com/album/7bbaqAMIxxgaNl15K0CAAf"
+      },
+      "artists": [
+        {
+          "name": "Deep Karoriya",
+          "url": "https://open.spotify.com/artist/2HhKgVyqLYMmDRyx8OqkVc"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189569,
+      "name": "Yaar",
+      "url": "https://open.spotify.com/track/0ESolz2pKZzEUUWhdHDpa6"
+    },
+    {
+      "album": {
         "name": "Yaar Da Viah",
         "url": "https://open.spotify.com/album/5TaTN1kr6ZxOvObvSds9uW"
       },
@@ -2094,7 +2294,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 155744,
       "name": "YOUTH WAVE",
       "url": "https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr"

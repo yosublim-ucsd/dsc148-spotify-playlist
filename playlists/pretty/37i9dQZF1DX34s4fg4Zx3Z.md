@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Dyna V
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,563 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,565 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Moon](https://open.spotify.com/track/49xpOFWY0ZE6i0CMRbZWrE) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [The Moon](https://open.spotify.com/album/63MBBGv1incoPmXs0K1InV) | 3:50 |
-| 2 | [MAY MẮN](https://open.spotify.com/track/0DicnTzawWwRU5C76dSr4w) | [MiQ](https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm), [Dusky](https://open.spotify.com/artist/68m5sxZzsKNkfLEsCjwiza), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C) | [MAY MẮN](https://open.spotify.com/album/3ck93tJpX84TltnWX2VVgj) | 3:35 |
+| 2 | [MAY MẮN](https://open.spotify.com/track/0DicnTzawWwRU5C76dSr4w) | [MiQ](https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm), [Dusky](https://open.spotify.com/artist/0uujlZ3ZqFabsl6dztOMC7), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C) | [MAY MẮN](https://open.spotify.com/album/3ck93tJpX84TltnWX2VVgj) | 3:35 |
 | 3 | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Nam Joyy](https://open.spotify.com/artist/5EmyuvZ2el2R60zp7eCok8) | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4) | 3:39 |
 | 4 | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/track/42MPizZIHYhxzXVJ4DyLFS) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/album/3vqMiWee53qdzDXPhowGu4) | 4:04 |
 | 5 | [cứ để em lo](https://open.spotify.com/track/4FsGxuRrheMWN0nApLQ3B2) | [salmon](https://open.spotify.com/artist/2xHirxzZNMj4aNQ5gm3E7O), [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [ocean.](https://open.spotify.com/artist/2uogG5rfMBSXPbm8pwQaAF) | [bittersweet](https://open.spotify.com/album/5M3qG8rKExBTT9itcJBeP1) | 2:56 |

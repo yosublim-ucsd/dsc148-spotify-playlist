@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover:  <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist Berre
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,057 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,068 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

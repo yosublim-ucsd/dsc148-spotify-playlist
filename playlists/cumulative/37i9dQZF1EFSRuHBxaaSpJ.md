@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 3 hr 7 min
+65 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [C'est mon sang](https://open.spotify.com/track/45tz0Mf66Nw7uSPdcOe1Qg) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Rêves de gosse](https://open.spotify.com/album/1ShA7csxTOd5Xxi5onzJe5) | 3:06 | 2024-06-07 |  |
 | [C'est ça les z'hommes](https://open.spotify.com/track/3ScPY519jnogbOKNQPav3I) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Carré VIP](https://open.spotify.com/album/2tqPdi5mS2Ol41V81256zd) | 3:37 | 2024-06-07 |  |
 | [Canada](https://open.spotify.com/track/6mXnfGvmempTdQUoOlJ8hr) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:04 | 2024-06-07 |  |
+| [Ce soir](https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:57 | 2024-10-01 |  |
 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 | 2024-06-07 |  |
 | [Corbeau](https://open.spotify.com/track/6peUg2QpVEhwdHigO0i0rS) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 2:36 | 2024-06-07 |  |
 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 | 2024-06-07 |  |
@@ -48,10 +49,12 @@
 | [Madame Courage](https://open.spotify.com/track/5HB6o7sYMJ4n1KQ4jJZrQU) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 4:37 | 2024-06-07 |  |
 | [Matrixé](https://open.spotify.com/track/2VnJAWZL4I0G3B5qJS82b5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:16 | 2024-06-07 |  |
 | [Mek du binks](https://open.spotify.com/track/2nSHzaUCVw94Uxy2yhV5mE) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:52 | 2024-06-07 |  |
+| [Messagerie](https://open.spotify.com/track/7bjFgfdcZWI0Z1HlloCBxO) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [Black House](https://open.spotify.com/album/62Z5DHDD0EmN1kYWa0QhAS) | 4:02 | 2024-10-01 |  |
 | [Mode Akimbo \(feat\. Jul\)](https://open.spotify.com/track/7qezIDRM0E3WTW1lWxItug) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:37 | 2024-06-07 |  |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2024-06-07 |  |
 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 | 2024-06-07 |  |
 | [Nouveaux parrains](https://open.spotify.com/track/42AoMfmlRJldv9rrpAai1K) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 2:45 | 2024-06-07 |  |
+| [Oh My](https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:18 | 2024-10-01 |  |
 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 | 2024-06-07 |  |
 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 | 2024-07-23 |  |
 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 | 2024-06-07 |  |

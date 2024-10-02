@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,247 songs - 6 day 18 hr 5 min
+4,248 songs - 6 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [Coffee Lounge](https://open.spotify.com/track/2LibFNLagdslaPFEeIVgFn) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Coffee Lounge](https://open.spotify.com/album/4Kw9j32hS1NJ9FsKYsbQhI) | 1:51 | 2021-04-19 | 2021-06-11 |
 | [Coffee Shop](https://open.spotify.com/track/2nc2Sd3bh28jmFyXw5c3zm) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Coffee Shop](https://open.spotify.com/album/4QbdmWR49SVAOrgapcCd1E) | 2:13 | 2019-06-19 | 2019-11-28 |
 | [Coffeemaker](https://open.spotify.com/track/3Lz53wcrXWj1jnjHkWYEL7) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Coffeemaker](https://open.spotify.com/album/538Ebf78KGFKdeCqF8tTni) | 2:40 | 2021-09-10 | 2022-12-24 |
-| [Cohibas](https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Cohibas](https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8) | 1:51 | 2023-11-23 |  |
+| [Cohibas](https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Cohibas](https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8) | 1:51 | 2023-11-23 | 2024-10-02 |
 | [cold breeze](https://open.spotify.com/track/6O6o3hG75LEQoRQWfDvl6o) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cold breeze](https://open.spotify.com/album/1cvhXUu8wcbq9QP1z8qiwc) | 1:48 | 2024-01-04 | 2024-02-09 |
 | [Cold Nights](https://open.spotify.com/track/3OvLr2JwJIBYQ5OMP0eCGH) | [Dj Fki](https://open.spotify.com/artist/2RKiHUTppf6KaG2FVSBQrN), [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Cold Nights](https://open.spotify.com/album/2LZItmapnpVRYTQ77S2oDA) | 2:24 | 2023-11-16 | 2023-12-02 |
 | [Cold Outside](https://open.spotify.com/track/5MnNq7lsCNklRGHTCuAIwr) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Cold Outside](https://open.spotify.com/album/0TYCoOOIwxTFUxrJv5EAIn) | 2:12 | 2021-12-04 | 2022-01-14 |
@@ -2023,6 +2023,7 @@
 | [License To Chill](https://open.spotify.com/track/4CbhVp50fIwZlInji609vC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [License To Chill](https://open.spotify.com/album/0HfOL5WJpcNvyIArMewASC) | 2:19 | 2022-11-17 | 2023-01-27 |
 | [Life](https://open.spotify.com/track/2vWYBEbjL6U6gxKPnofNUj) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Life](https://open.spotify.com/album/2IgGvnnNVETZUaGpCXJlqb) | 3:19 | 2019-06-26 | 2019-11-15 |
 | [Life](https://open.spotify.com/track/3ObpboFzz9FoI7Kkv24WUp) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Life](https://open.spotify.com/album/2EYejbP3V7PPlgA5dKXTih) | 2:26 | 2021-11-27 | 2021-12-10 |
+| [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-09-16 |  |
 | [Life On Mars](https://open.spotify.com/track/4qMRV4j04TDHVoqMlDU50F) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [Mareaux](https://open.spotify.com/artist/4VFYWiP5DA651ekOhEiO54) | [Life On Mars](https://open.spotify.com/album/0mtwRaycFwl9lSdvXwnuNk) | 2:36 | 2021-12-23 | 2022-02-28 |
 | [Lift 2 the Islands](https://open.spotify.com/track/3WZg4QysfZzNcdZ8I10UGn) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Lift 2 the Islands](https://open.spotify.com/album/78SDlvHPgjvYhOnysmXGcw) | 1:36 | 2021-03-19 | 2021-10-01 |
 | [Lifted](https://open.spotify.com/track/6SptLSH5KWZl9udqTyZUpy) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Lifted](https://open.spotify.com/album/581aq6GvhkGXJhpg6gBMoP) | 2:10 | 2020-05-08 | 2020-11-07 |

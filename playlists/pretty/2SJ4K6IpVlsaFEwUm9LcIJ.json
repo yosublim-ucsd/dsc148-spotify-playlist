@@ -1,12 +1,12 @@
 {
-  "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile)",
-  "num_followers": 21395,
+  "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
+  "num_followers": 21487,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALGZJs4FRh89Y8UKs677RKXKugU1M1",
+  "snapshot_id": "AAALHlfbEGEeWBQHc6ARBjln7+tiXvNE",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -621,20 +621,52 @@
       "url": "https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m"
     },
     {
-      "added_at": "2024-09-30 19:17:23",
+      "added_at": "2024-10-01 23:53:19",
       "album": {
-        "name": "Now Run",
-        "url": "https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb"
+        "name": "Chomp (Remastered)",
+        "url": "https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7"
       },
       "artists": [
         {
-          "name": "Pencil Legs",
-          "url": "https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4"
+          "name": "Pylon",
+          "url": "https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L"
         }
       ],
-      "duration_ms": 165580,
-      "name": "Now Run",
-      "url": "https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA"
+      "duration_ms": 121146,
+      "name": "Italian Movie Theme - Remastered",
+      "url": "https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x"
+    },
+    {
+      "added_at": "2024-10-02 00:44:18",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Alice",
+          "url": "https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN"
+        }
+      ],
+      "duration_ms": 229087,
+      "name": "Non, Ne Discutez Pas De La V\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu"
+    },
+    {
+      "added_at": "2024-10-02 00:44:21",
+      "album": {
+        "name": "Thank God For Mental Illness",
+        "url": "https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s"
     }
   ],
   "unique_name": "what dreams may come",

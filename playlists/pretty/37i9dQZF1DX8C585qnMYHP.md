@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Ana Lua Caiano on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,034 likes - 99 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,102 likes - 99 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 52 | [Taste The Air \- Julia Holter Mix](https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:23 |
 | 53 | [Maracuja Lounge](https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:40 |
 | 54 | [Nervenheilanstalt](https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Mit Schinken durch die Menopause](https://open.spotify.com/album/7DS04VL8tgQqEhGDfzphwh) | 3:17 |
-| 55 | [Bird](https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX) | [Hey Lu](https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE) | [Bird](https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI) | 2:58 |
-| 56 | [Sky Hooks](https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Hooked Paw](https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl) | 6:03 |
+| 55 | [Sky Hooks](https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Hooked Paw](https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl) | 6:03 |
+| 56 | [Bird](https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX) | [Hey Lu](https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE) | [Bird](https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI) | 2:58 |
 | 57 | [Webcrawler](https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp) | 3:31 |
 | 58 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
 | 59 | [Messimalism \(Above Thought\)](https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv) | [Emanative](https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB), [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Messimalism \(Above Thought\)](https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn) | 6:44 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 71 | [Hesitations… \(Intro\)](https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk) | [Truest](https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI) | 2:30 |
 | 72 | [La Luz](https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb) | [Tia Rosa](https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS) | [Misterio Lounge 3000](https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww) | 3:43 |
 | 73 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
-| 74 | [La Piscina](https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s) | [Los Ganglios](https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx) | [La Piscina](https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA) | 2:20 |
-| 75 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
+| 74 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
+| 75 | [La Piscina](https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s) | [Los Ganglios](https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx) | [La Piscina](https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA) | 2:20 |
 | 76 | [ocean, sea, ocean.](https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO) | [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [a two](https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f) | 2:57 |
 | 77 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
 | 78 | [Crío Cuervos](https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW) | [Tucci](https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW) | [Crío Cuervos](https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld) | 3:58 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 93 | [Cold Drinks](https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj) | [Atrás del Cosmos](https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl) | [Cold Drinks, Hot Dreams](https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb) | 10:28 |
 | 94 | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be) | [Low End Activist](https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg) | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf) | 4:18 |
 | 95 | [affinity](https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X) | [Kool Music](https://open.spotify.com/artist/4MYZvp7sFATdqfMy3k0pUs) | [Trois Horses](https://open.spotify.com/album/05bmyDRJZb9BWCjdNGWhVm) | 3:24 |
-| 96 | [Manc TK 2](https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb) | [John T\. Gast](https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv) | [5GTOUR](https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM) | 3:42 |
-| 97 | [End Scene](https://open.spotify.com/track/1Dmt4yNXdtRymBv5rhL9Rx) | [LibraLibra](https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye) | [CUT](https://open.spotify.com/album/6R7Ak61RfX9DUZNvVOQZ7t) | 5:56 |
+| 96 | [End Scene](https://open.spotify.com/track/1Dmt4yNXdtRymBv5rhL9Rx) | [LibraLibra](https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye) | [CUT](https://open.spotify.com/album/6R7Ak61RfX9DUZNvVOQZ7t) | 5:56 |
+| 97 | [Manc TK 2](https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb) | [John T\. Gast](https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv) | [5GTOUR](https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM) | 3:42 |
 | 98 | [Hardtmuth](https://open.spotify.com/track/7dyw1H4QgBOjrqgGXYIOAg) | [XIII](https://open.spotify.com/artist/1j28QCAu7jjDccLS5Ve2AQ), [Hans Harsen](https://open.spotify.com/artist/1XCSenCALib9Xyy2JVGBL0) | [Hardtmuth](https://open.spotify.com/album/71S4ffIcpqNV3UxBUtQhNw) | 3:48 |
 | 99 | [O Bicho Anda Por Aí](https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [O Bicho Anda Por Aí](https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya) | 2:32 |
 

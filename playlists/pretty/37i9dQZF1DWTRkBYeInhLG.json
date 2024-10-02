@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 479926,
+  "num_followers": 480040,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-09-27 14:05:27",
       "album": {
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+    },
+    {
+      "added_at": "2024-09-27 14:05:27",
+      "album": {
         "name": "1st (Special Edition)",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
-    },
-    {
-      "added_at": "2024-09-27 14:05:27",
-      "album": {
-        "name": "Sedang Sayang Sayangnya",
-        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 261030,
-      "name": "Sedang Sayang Sayangnya",
-      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
       "added_at": "2024-09-27 14:05:27",

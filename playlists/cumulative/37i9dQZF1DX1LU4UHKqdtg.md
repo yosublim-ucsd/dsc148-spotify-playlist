@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: KANGDANIEL
 
-1,203 songs - 2 day 16 hr 44 min
+1,205 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BIRD \- THE BEST Ver.](https://open.spotify.com/track/1r3pEtxuKLrkVt8tPXQX4K) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [BIRD \(THE BEST Ver.\)](https://open.spotify.com/album/1owcEw2antmRf5VKfUudPd) | 4:04 | 2023-04-18 | 2023-06-07 |
 | [Birth](https://open.spotify.com/track/1yi1SkHImBpnP99qvWHajP) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre1 : Birth>](https://open.spotify.com/album/6IkXLIaBHITQ0FLbTZkJg2) | 2:42 | 2024-04-18 | 2024-05-08 |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-04-02 | 2024-04-19 |
+| [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 |  |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 | 2023-02-15 |
 | [Birthday Party](https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:18 | 2021-12-23 | 2022-03-30 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-09-06 |
@@ -668,6 +669,7 @@
 | [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-19 | 2024-04-19 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-12 | 2022-09-09 |
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2021-12-23 | 2022-01-19 |
+| [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 | 2024-10-01 |  |
 | [Nerdy](https://open.spotify.com/track/6HRIKkqRYqGNETVUsRKIFH) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/6Az8pkdJ1s4utD6I7kbdYG) | 2:58 | 2022-07-26 | 2022-07-29 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 | 2022-10-19 |
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-04-01 | 2024-05-24 |
@@ -868,7 +870,7 @@
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-24 | 2024-03-13 |
 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 | 2023-04-06 | 2023-04-11 |
 | [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-02-20 | 2024-05-24 |
-| [Shout it out](https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Gibberish](https://open.spotify.com/album/5pZFs7Yt5xDHQW6gXSFtqm) | 4:30 | 2024-07-19 |  |
+| [Shout it out](https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Gibberish](https://open.spotify.com/album/5pZFs7Yt5xDHQW6gXSFtqm) | 4:30 | 2024-07-19 | 2024-10-02 |
 | [Show Time](https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Show Time](https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0) | 2:52 | 2024-06-13 | 2024-07-24 |
 | [SHOW YOU CAN \(Prod\. Czaer, JAKOPS\)](https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi) | [MAYA](https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR), [COCONA](https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf), [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:14 | 2023-08-23 | 2023-11-04 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-02-03 |
@@ -1169,7 +1171,7 @@
 | [あなたがいることで](https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [あなたがいることで](https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA) | 5:14 | 2023-10-10 | 2023-10-18 |
 | [こんなに君を](https://open.spotify.com/track/0scTh8IQayvHhgTAC7gEsb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [こんなに君を](https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP) | 4:00 | 2023-11-22 | 2023-12-06 |
 | [そのままで](https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii) | [KIM SUNGJE](https://open.spotify.com/artist/6A3d5kFeyRjzOk74cwJVHX) | [RESTART](https://open.spotify.com/album/33NzoMoBwLN8rxCchuklJs) | 4:23 | 2023-04-11 | 2023-05-10 |
-| [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-02 |  |
+| [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-02 | 2024-10-02 |
 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq) | 3:04 | 2024-03-07 | 2024-07-31 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |

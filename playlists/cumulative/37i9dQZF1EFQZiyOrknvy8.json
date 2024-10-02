@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192553,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf"
+    },
+    {
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7"
       },

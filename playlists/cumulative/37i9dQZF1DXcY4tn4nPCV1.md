@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-445 songs - 18 hr 54 min
+446 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Ce joli sourire](https://open.spotify.com/track/6AgsG9TKwyNN98mVAfuf7O) | [Florence Bellefeuille](https://open.spotify.com/artist/5OWIxOvmoJqdXYAjlPGBlr) | [Ce joli sourire](https://open.spotify.com/album/7nRWBFf3o9IGd0lRYnnTwM) | 2:52 | 2022-11-18 |  |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-04-04 |  |
 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 | 2022-04-04 |  |
-| [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-04 |  |
+| [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-04 | 2024-10-02 |
 | [Clear View](https://open.spotify.com/track/63OnbQzyCqoQqIsgT6QXGq) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Clear View](https://open.spotify.com/album/6Fx8MCfIvZafSQUUvU5FJD) | 2:53 | 2023-07-03 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-04-04 | 2024-04-04 |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-04 | 2024-02-15 |
@@ -116,7 +116,7 @@
 | [Ethereal Night](https://open.spotify.com/track/5BYYaZIuGLsS9YHAaKGVxx) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Ethereal Night](https://open.spotify.com/album/2PqCb0wsx2tLpCfJylfS2l) | 2:46 | 2024-04-09 |  |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-04-04 | 2022-04-29 |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-02-28 |  |
-| [Expectations](https://open.spotify.com/track/3k7dzDcm9tXfGNfiAWkJOi) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [Expectations](https://open.spotify.com/album/3aTy7CvlOKBLBBRO3qLJUg) | 2:22 | 2022-11-18 |  |
+| [Expectations](https://open.spotify.com/track/3k7dzDcm9tXfGNfiAWkJOi) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [Expectations](https://open.spotify.com/album/3aTy7CvlOKBLBBRO3qLJUg) | 2:22 | 2022-11-18 | 2024-10-02 |
 | [Faded Portrait](https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Faded Portrait](https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M) | 2:05 | 2023-03-07 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-04 | 2022-04-29 |
 | [False Promises](https://open.spotify.com/track/1cu3EoaUYDWcUvEYceDvbR) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [False Promises](https://open.spotify.com/album/6PG7rTqulExeBecNr3eCSq) | 2:31 | 2022-04-04 | 2024-03-26 |
@@ -242,7 +242,7 @@
 | [My love](https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF) | [Maxime Verdoni](https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e) | [My love](https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC) | 2:50 | 2024-05-07 |  |
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2022-04-04 | 2022-04-29 |
 | [My Romance](https://open.spotify.com/track/4vFdBWXDY7Y8sPvWYFqAGK) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [My Romance](https://open.spotify.com/album/0g9e9dDtZqkgsF8rKCCaD0) | 3:05 | 2023-12-12 |  |
-| [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-04-04 |  |
+| [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-04-04 | 2024-10-02 |
 | [Má sestra](https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Má sestra](https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe) | 2:05 | 2022-10-14 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-04-04 | 2024-04-04 |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-18 |  |
@@ -304,7 +304,7 @@
 | [Respectfully](https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:10 | 2023-09-05 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2022-04-04 | 2024-03-26 |
 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-03-04 |  |
-| [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-04-04 |  |
+| [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-04-04 | 2024-10-02 |
 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2023-02-28 | 2024-03-20 |
 | [Revel](https://open.spotify.com/track/5vAk9iXST0XynoiZaBo6cI) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Revel](https://open.spotify.com/album/0L7Mb55WomYt8DDVBtYSv2) | 2:36 | 2022-04-04 | 2024-04-10 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-04 | 2024-09-25 |
@@ -359,7 +359,7 @@
 | [Stella](https://open.spotify.com/track/2STinkqXpJg7A6Hh7TS3ck) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Stella](https://open.spotify.com/album/4GvGyLV8AzmiAtgbS3NBhe) | 2:25 | 2022-10-14 |  |
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2022-12-22 |  |
 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-18 |  |
-| [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 | 2023-03-07 |  |
+| [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 | 2023-03-07 | 2024-10-02 |
 | [Stintless Stars](https://open.spotify.com/track/1gnHfFnLPaJvatJ9NuQDLH) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Stintless Stars](https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As) | 2:33 | 2023-02-28 |  |
 | [Summer Rain](https://open.spotify.com/track/2aWGgqhHwF2UlU6qYeoef6) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Summer Rain](https://open.spotify.com/album/4wBKB4jrf7D1qoSQtQaenS) | 2:21 | 2024-08-12 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-04-04 | 2024-02-15 |
@@ -416,6 +416,7 @@
 | [Unity](https://open.spotify.com/track/7Khohwe4GuW2fb4ZJIC99p) | [Francie Stooge](https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7) | [Unity](https://open.spotify.com/album/2phuzRLseh8GshvuFeqnTF) | 2:18 | 2022-04-04 | 2022-05-21 |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-04 | 2024-03-26 |
 | [Untouched Rainforest, Pt.1](https://open.spotify.com/track/2ScTd9aWx5qUjwXHx2ddjX) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Untouched Rainforest, Pt.1](https://open.spotify.com/album/3QGu1fOexYnr8R1tsJv9jb) | 2:44 | 2022-04-28 |  |
+| [Unwind Dreams](https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Unwind Dreams](https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6) | 2:52 | 2024-10-01 |  |
 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 | 2024-07-16 |  |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2022-04-04 | 2024-02-03 |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
@@ -424,7 +425,7 @@
 | [Velvet Heart](https://open.spotify.com/track/0L8F3aWmfRaMmClZBbqVkl) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Velvet Heart](https://open.spotify.com/album/2tTVcAH8Erhel5X4lCEflP) | 2:48 | 2023-11-07 |  |
 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 | 2024-03-19 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-04 | 2022-04-29 |
-| [Verdant](https://open.spotify.com/track/5vtWoxJeBYe5ZGnoR8v9TE) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Verdant](https://open.spotify.com/album/5aV8K6xI28TsFxEAmIubjq) | 2:26 | 2022-05-20 |  |
+| [Verdant](https://open.spotify.com/track/5vtWoxJeBYe5ZGnoR8v9TE) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Verdant](https://open.spotify.com/album/5aV8K6xI28TsFxEAmIubjq) | 2:26 | 2022-05-20 | 2024-10-02 |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-04 | 2024-04-10 |
 | [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-04 | 2024-04-04 |

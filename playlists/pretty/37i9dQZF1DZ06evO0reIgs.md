@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,491 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,492 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [CÉU](https://open.spotify.com/track/0akv6Ln3jqofVAQYFiuVnS) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [CÉU](https://open.spotify.com/album/0A6lVVuyDD64paAhWTx9Ec) | 4:26 |
 | 50 | [Tão Forte](https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:02 |
 
-Snapshot ID: `ZviYgAAAAACEYUkEK8nDtAA5tqmppn1I`
+Snapshot ID: `ZvnqAAAAAAA+rO5JKJHhLWCSPTgRlg5O`

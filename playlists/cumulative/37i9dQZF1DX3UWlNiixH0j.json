@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Billyrrom",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Bialystocks",
   "name": "Edge!",
   "tracks": [
     {
@@ -17755,6 +17755,24 @@
     },
     {
       "album": {
+        "name": "Songs for the Cryptids",
+        "url": "https://open.spotify.com/album/0WReEZ2WtUJIFC5b9kpZ0y"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257126,
+      "name": "Sora mo Tobenai",
+      "url": "https://open.spotify.com/track/3G9exWtNkrmOV17JQ0S0iK"
+    },
+    {
+      "album": {
         "name": "Soran Bushi",
         "url": "https://open.spotify.com/album/4iRwcagbROsUFQ4GLvEHu2"
       },
@@ -20878,6 +20896,28 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
+    },
+    {
+      "album": {
+        "name": "Tragedy (feat. Chara)",
+        "url": "https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        },
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207562,
+      "name": "Tragedy (feat. Chara)",
+      "url": "https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK"
     },
     {
       "album": {
@@ -24844,7 +24884,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 86676,
       "name": "\u307c\u304f\u306e\u90e8\u5c4b\u306b\u304a\u3044\u3067\u30e8",
       "url": "https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO"
@@ -26887,6 +26927,24 @@
     },
     {
       "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd"
+      },
+      "artists": [
+        {
+          "name": "ALBATROSS",
+          "url": "https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki"
+    },
+    {
+      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6 EP",
         "url": "https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk"
       },
@@ -28370,7 +28428,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 273666,
       "name": "\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/3ECTyAN9W3jCqlNxco25FG"
@@ -31510,7 +31568,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 191413,
       "name": "\u611b\u306e\u308f\u308a\u65b9",
       "url": "https://open.spotify.com/track/61crEcQODjNTRy6KSr828s"

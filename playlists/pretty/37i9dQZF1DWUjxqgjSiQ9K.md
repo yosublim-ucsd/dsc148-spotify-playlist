@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:337ClCqxF9LJsLhB86Tsf0">Elevation Español</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,920 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,019 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

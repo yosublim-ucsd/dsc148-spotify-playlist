@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,412 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,421 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 5 | [Cavresamin \- Foxall Remix](https://open.spotify.com/track/7lvZ4DujXfjVYEWhZBKOrm) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Zentaur](https://open.spotify.com/album/3Ids63v27ACVvHShzYWXIB) | 6:55 |
 | 6 | [Mirage \- Remix](https://open.spotify.com/track/5bLWePeHYsfdJwlxCUdHOH) | [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Samarana](https://open.spotify.com/artist/19zCcLLWaZjG45iFFlhvGL) | [Chaos & Order](https://open.spotify.com/album/0WVkMCuDjUiee7OCbeVZas) | 6:02 |
 | 7 | [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 |
-| 8 | [Turbina De Amor](https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH) | 4:48 |
+| 8 | [Turbina De Amor](https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [María Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH) | 4:48 |
 | 9 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 |
 | 10 | [Behind The Wall \- Tiefe Wasser Berlin's Singin' Bird Dub](https://open.spotify.com/track/79Cw6dmzpccnxBBeORKGlk) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Behind The Wall \(Tiefe Wasser Berlin's Singin' Bird Dub\)](https://open.spotify.com/album/31xw6C07bXPFoodEmzZQSo) | 5:20 |
 | 11 | [Mantola \- Original](https://open.spotify.com/track/34Fwzcj3NGXsBS1IiXdveZ) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Badarchin, Vol\. 02](https://open.spotify.com/album/0fJI9pW80m4E4FvlvxamNz) | 6:26 |

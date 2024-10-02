@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Shreya Ghoshal",
+  "description": "Listen to women at full volume. Cover - Aastha Gill",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 223448,
       "name": "Dhal Jaun",
       "url": "https://open.spotify.com/track/5RMEne2PneLrQebp1oWhJJ"
@@ -2527,6 +2527,32 @@
     },
     {
       "album": {
+        "name": "Haalo Haalo",
+        "url": "https://open.spotify.com/album/0Td2wBWfIk2Bt25S27oSXM"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "Haalo Haalo",
+      "url": "https://open.spotify.com/track/5PVazyRvk9qFBIcslJj8gE"
+    },
+    {
+      "album": {
         "name": "Maharaj",
         "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
       },
@@ -3576,6 +3602,32 @@
       "duration_ms": 187822,
       "name": "Keh Bhi Do Na",
       "url": "https://open.spotify.com/track/3rBLnjB91z4KDGqIFIG3lB"
+    },
+    {
+      "album": {
+        "name": "Kehna Galat Galat",
+        "url": "https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Kehna Galat Galat",
+      "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
     },
     {
       "album": {
@@ -7934,7 +7986,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 132524,
       "name": "Thank You God",
       "url": "https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f"

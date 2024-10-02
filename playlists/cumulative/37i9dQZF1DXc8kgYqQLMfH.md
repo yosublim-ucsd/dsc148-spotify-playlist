@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,192 songs - 1 day 21 hr 25 min
+1,193 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Euphoric](https://open.spotify.com/track/0AaQgKARIKwxBYUrS3qXdW) | [Arcade Portal](https://open.spotify.com/artist/2ylDslxcPkV822VyLZ5yky) | [Euphoric](https://open.spotify.com/album/05puUua8zmqcIT6OQiIxls) | 1:57 | 2021-11-10 | 2022-12-10 |
 | [Evening at El Rubicon](https://open.spotify.com/track/1VRr9QpEWsPp36GarUrBIe) | [ondol](https://open.spotify.com/artist/2gCP5uIoV0Ux8sqUB9qyi3) | [Evening at El Rubicon](https://open.spotify.com/album/2IA6hUQaCPi0nasvBTL2wc) | 3:12 | 2023-05-19 | 2024-08-11 |
 | [Evening Grind](https://open.spotify.com/track/7iuUWvi6wWOdhHuu79avnP) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Evening Grind](https://open.spotify.com/album/56X343jHdxghcmRxtms8YD) | 2:51 | 2023-01-06 | 2023-08-04 |
+| [Evening Walk](https://open.spotify.com/track/0M5UurbUntOyAWboXeYAp3) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Here and Now](https://open.spotify.com/album/2q7hkNQMnJWZiwM07Gb40O) | 2:08 | 2024-09-27 |  |
 | [evergreen](https://open.spotify.com/track/0AXHwu7A7Rmj64CCXmkyv5) | [wide awake](https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a) | [evergreen](https://open.spotify.com/album/6vAgu3x7RDVzT4aWV81JBr) | 1:51 | 2022-06-24 | 2022-09-09 |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-11-10 | 2024-07-21 |
 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 | 2022-04-08 | 2022-12-10 |
@@ -1112,7 +1113,7 @@
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 | 2023-08-04 |
 | [Ubongo Extreme](https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Ubongo Extreme](https://open.spotify.com/album/6UdCLCk1mdYkYyctZz4a6t) | 2:50 | 2023-09-22 | 2023-11-11 |
 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-11-10 | 2022-07-22 |
-| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 |  |
+| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 | 2024-10-02 |
 | [Under the Sun](https://open.spotify.com/track/3KXCoTPmfACMdybcLX1fMg) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Beach Nights](https://open.spotify.com/album/5Z9PxUtXneYQv30ZqtofI3) | 1:57 | 2022-11-11 | 2023-05-20 |
 | [Under your spell](https://open.spotify.com/track/0lhi5mngupaKhSpOQFp2w3) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Under your spell](https://open.spotify.com/album/2rAzqLth8UwwTnysQFnRNe) | 2:42 | 2024-03-01 |  |
 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 | 2021-11-10 | 2022-07-29 |

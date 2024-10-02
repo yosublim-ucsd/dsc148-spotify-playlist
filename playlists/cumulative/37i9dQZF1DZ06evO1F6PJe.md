@@ -2,7 +2,7 @@
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. The essential tracks, all in one playlist.
+> This Is Joe Bonamassa\. Los temas esenciales, todos en una lista.
 
 158 songs - 14 hr 15 min
 
@@ -77,7 +77,7 @@
 | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/73ceTXNtWGpy6FDhVJi7C1) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/4b3bP1yKzANH1bVFpgCF7S) | 9:22 | 2024-05-19 | 2024-07-21 |
 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-10 | 2024-08-30 |
 | [It's Hard But It's Fair](https://open.spotify.com/track/0nXc4KXgMDAtRsQXwulH9t) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:15 | 2023-10-10 | 2024-06-01 |
-| [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 | 2023-03-08 |
+| [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 |  |
 | [Just 'Cos You Can Don’t Mean You Should \(Live\)](https://open.spotify.com/track/2ZYO00AxBjv8jeaPahRyhk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 7:58 | 2023-04-23 | 2023-05-13 |
 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 | 2022-08-05 | 2024-03-02 |
 | [Known Unknowns](https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:48 | 2022-08-05 | 2022-12-24 |
@@ -99,7 +99,7 @@
 | [Molly O'](https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 6:06 | 2022-11-02 | 2022-12-25 |
 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 | 2022-08-05 |  |
 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 | 2023-04-21 |
-| [No Good Place For The Lonely \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:28 | 2024-06-27 |  |
+| [No Good Place For The Lonely \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:28 | 2024-06-27 | 2024-10-02 |
 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 | 2022-08-05 | 2023-04-23 |
 | [Notches \(Live\)](https://open.spotify.com/track/4ZvJWowagPHXIp7dxctfuT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 9:49 | 2023-04-22 | 2023-12-14 |
 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 | 2022-08-05 | 2022-10-06 |

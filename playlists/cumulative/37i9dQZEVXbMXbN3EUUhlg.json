@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 204923,
       "name": "4Tal",
       "url": "https://open.spotify.com/track/6OcZP4rUfuxms2r8Mwx5BQ"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4952,7 +4952,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 155488,
       "name": "Chorosa - Ao Vivo",
       "url": "https://open.spotify.com/track/6nHOS9bPDkMzzjxWS6PBtt"
@@ -10096,7 +10096,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 132057,
       "name": "Foi Intenso - Ao Vivo",
       "url": "https://open.spotify.com/track/0agjQg7eWrwFtqBQRKu1CX"
@@ -10747,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "Felipe e Rodrigo - J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+        "url": "https://open.spotify.com/album/36oNtjmXoBvFELWPg1GVPZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/0rrEBDSmUmMEPphR9vVxkq"
+    },
+    {
+      "album": {
         "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
       },
@@ -10776,7 +10794,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -11144,7 +11162,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 190272,
       "name": "Haver\u00e1 Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
@@ -11198,7 +11216,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -11924,7 +11942,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 285000,
       "name": "Isso \u00e9 S\u00e9rio",
       "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
@@ -12230,7 +12248,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -12548,7 +12566,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -13804,7 +13822,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 204339,
       "name": "Maria",
       "url": "https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0"
@@ -14590,7 +14608,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -15176,7 +15194,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
@@ -15636,7 +15654,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
@@ -16420,7 +16438,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Nois J\u00e1 T\u00e1 Rico",
       "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
@@ -21142,7 +21160,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 196601,
       "name": "Sagrado Profano",
       "url": "https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ"
@@ -22512,7 +22530,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
@@ -25292,7 +25310,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 140438,
       "name": "Vai L\u00e1 - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V"
@@ -25480,7 +25498,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"

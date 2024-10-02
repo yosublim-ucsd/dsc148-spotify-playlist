@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,081 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,080 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 4 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 |
 | 5 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 |
 | 6 | [PAQUETA](https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [PAQUETA](https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS) | 2:29 |
-| 7 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
-| 8 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
-| 9 | [BABOUR LOU7](https://open.spotify.com/track/4KQIZbdijE4AytokJmqpAn) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 3:39 |
-| 10 | [Snini](https://open.spotify.com/track/6LZ5tMifzUHeG56gaTgOOi) | [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Chasing the Sun](https://open.spotify.com/album/43CC7F87GAGCmWNualTDVQ) | 3:07 |
-| 11 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
-| 12 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 |
-| 13 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 |
-| 14 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 |
+| 7 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 |
+| 8 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
+| 9 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
+| 10 | [BABOUR LOU7](https://open.spotify.com/track/4KQIZbdijE4AytokJmqpAn) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 3:39 |
+| 11 | [Snini](https://open.spotify.com/track/6LZ5tMifzUHeG56gaTgOOi) | [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Chasing the Sun](https://open.spotify.com/album/43CC7F87GAGCmWNualTDVQ) | 3:07 |
+| 12 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
+| 13 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 |
+| 14 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 |
 | 15 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 |
 | 16 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 |
 | 17 | [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [Mab9it Kan7s B'walo](https://open.spotify.com/track/2szMlVaVGTjwPeG09hjZqH) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [August](https://open.spotify.com/album/0mFNED1mFni7eEEPi4PWk3) | 3:41 |
 | 50 | [Sobri](https://open.spotify.com/track/3J6d3h5gnxP0PxnzWhJuGy) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Sobri](https://open.spotify.com/album/15S3x4PY3e43R5QdxzehKB) | 2:39 |
 
-Snapshot ID: `ZvCC7AAAAADX/qy1Pn4V1cmZBctcutNq`
+Snapshot ID: `ZvunAQAAAACkkhNdehZKKOVtuC7br8na`

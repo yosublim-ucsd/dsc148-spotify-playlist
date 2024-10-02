@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 55660,
+  "num_followers": 55678,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAADHajMGhEIUk5g/bpGlUIq+",
+  "snapshot_id": "ZvnqAAAAAAA2R9c0xowVZGNanJmRrb6m",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 191765,
-      "name": "La Corta",
-      "url": "https://open.spotify.com/track/5qL61OUdgYV3Wxzb0Tf5RS"
+      "duration_ms": 235968,
+      "name": "La Calabaza",
+      "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
     },
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+        "name": "Kilos De Oro",
+        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+      "duration_ms": 220947,
+      "name": "Miran Mi Brillo",
+      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kilos De Oro",
-        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 220947,
-      "name": "Miran Mi Brillo",
-      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,

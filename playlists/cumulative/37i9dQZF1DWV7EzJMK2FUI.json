@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 214000,
       "name": "Blue Paint",
       "url": "https://open.spotify.com/track/2T7cjIh9cIZMAGjkia5wau"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 280840,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 287250,
       "name": "Dreamscapes",
       "url": "https://open.spotify.com/track/0v4v8RhQHU5dXr6XjHpGBa"
@@ -7568,7 +7568,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 188774,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9"
@@ -9572,7 +9572,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 213837,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
@@ -9958,6 +9958,24 @@
     {
       "album": {
         "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/6MgDYMCTMpcYitsHVjzCMp"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/38ncOMtYWke1G2W7PMtT8v"
+    },
+    {
+      "album": {
+        "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d"
       },
       "artists": [
@@ -10148,7 +10166,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 162572,
       "name": "I\u00b4m Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/5xdMklU34fYpHch5Dr93wl"
@@ -13033,6 +13051,24 @@
     },
     {
       "album": {
+        "name": "Miranda\u00b4s Song",
+        "url": "https://open.spotify.com/album/4hwkrdbZQhdajBt9JHY9C7"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249231,
+      "name": "Miranda\u00b4s Song",
+      "url": "https://open.spotify.com/track/0Tde39U9YyGj62CXudXx6a"
+    },
+    {
+      "album": {
         "name": "Miso the cat",
         "url": "https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw"
       },
@@ -13934,7 +13970,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 228108,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91"
@@ -14222,7 +14258,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 176000,
       "name": "Night Swimmer",
       "url": "https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS"
@@ -14528,7 +14564,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 293653,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/05yByCb0WmmE3c23Ppl5NO"
@@ -14852,7 +14888,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 234000,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/6rrdbW9PM51uLNOsF5PVyY"
@@ -15108,6 +15144,24 @@
       "duration_ms": 240714,
       "name": "One Day We'll Meet Again",
       "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
+    },
+    {
+      "album": {
+        "name": "One for Billy",
+        "url": "https://open.spotify.com/album/0nfW7LKjPGJ2weuiiEJfoK"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236609,
+      "name": "One for Billy",
+      "url": "https://open.spotify.com/track/4CkRvD2IAwUeZfye8yzjJT"
     },
     {
       "album": {
@@ -15368,6 +15422,24 @@
       "duration_ms": 245000,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v"
+    },
+    {
+      "album": {
+        "name": "Paris Roof Ridges",
+        "url": "https://open.spotify.com/album/6GxUR8gvUkOrWEHJpYrZrd"
+      },
+      "artists": [
+        {
+          "name": "Le Bleu Ensemble",
+          "url": "https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Paris Roof Ridges",
+      "url": "https://open.spotify.com/track/1z8hSGyuuhhdfjERQ22GuL"
     },
     {
       "album": {
@@ -16761,6 +16833,24 @@
     },
     {
       "album": {
+        "name": "Serene Resonance",
+        "url": "https://open.spotify.com/album/5mbcW7GzH4RB57BAQ83Xfb"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247833,
+      "name": "Serene Resonance",
+      "url": "https://open.spotify.com/track/0BdpQlHLBCtTLje6OhuqXY"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/4d0xgWR0gsa03s4t32TEqi"
       },
@@ -17010,6 +17100,24 @@
       "duration_ms": 184200,
       "name": "Shinbashi",
       "url": "https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR"
+    },
+    {
+      "album": {
+        "name": "Shores",
+        "url": "https://open.spotify.com/album/4B79fn1RGObW6gRckCjo5T"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174467,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/7EQGOOZ4iUGuZ42PdUvn4F"
     },
     {
       "album": {
@@ -17625,6 +17733,24 @@
     },
     {
       "album": {
+        "name": "Solitude Symphony",
+        "url": "https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Solitude Symphony",
+      "url": "https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787"
+    },
+    {
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu"
       },
@@ -17942,7 +18068,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 237000,
       "name": "South Valley Park",
       "url": "https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3"
@@ -20797,6 +20923,24 @@
     },
     {
       "album": {
+        "name": "Too Late for Goodbyes",
+        "url": "https://open.spotify.com/album/2lwJMWWL6xR5CmST1PzBz5"
+      },
+      "artists": [
+        {
+          "name": "Benji Strings",
+          "url": "https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "Too Late for Goodbyes",
+      "url": "https://open.spotify.com/track/2L9Ja71KNDCfWVr1FmqNpK"
+    },
+    {
+      "album": {
         "name": "Too Late For Tears",
         "url": "https://open.spotify.com/album/4kr1KY3k08L0uCMUkeEr7I"
       },
@@ -20848,6 +20992,24 @@
       "duration_ms": 234604,
       "name": "Torresdale",
       "url": "https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1"
+    },
+    {
+      "album": {
+        "name": "Touch of Dance",
+        "url": "https://open.spotify.com/album/4zscRBwfVeaTxX1nff5Fle"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Touch of Dance",
+      "url": "https://open.spotify.com/track/0OhWWjGCYecXrEDwHioc5k"
     },
     {
       "album": {
@@ -21100,6 +21262,24 @@
       "duration_ms": 257566,
       "name": "Unending",
       "url": "https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ"
+    },
+    {
+      "album": {
+        "name": "Unexpected Imagination",
+        "url": "https://open.spotify.com/album/2ZloLLdJeRUytX5GCx8UrY"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260935,
+      "name": "Unexpected Imagination",
+      "url": "https://open.spotify.com/track/5ehvQJXNhPRYwTdWOEdmBF"
     },
     {
       "album": {
@@ -21492,7 +21672,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 220300,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP"
@@ -22882,7 +23062,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 198165,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8"
@@ -22980,7 +23160,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 227428,
       "name": "You Gets You",
       "url": "https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb"
@@ -23214,7 +23394,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 298111,
       "name": "You're All I Can Think Of",
       "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"

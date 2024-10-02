@@ -4,7 +4,7 @@
 
 > 
 
-1,734 songs - 3 day 21 hr 11 min
+1,735 songs - 3 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-06 |  |
 | [Deca](https://open.spotify.com/track/7uW9h8XnRkNkfS5KhjPUNm) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Deca](https://open.spotify.com/album/3MeIv18WaEBwecZPOw5Csz) | 2:49 | 2023-02-18 |  |
 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 | 2023-11-20 |  |
+| [Deepest Truth](https://open.spotify.com/track/1mPGgEenAV0pMLAdWOINax) | [WHØAMI](https://open.spotify.com/artist/1QoGCFi0O4ldlVJSZEijnw), [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [Deepest Truth](https://open.spotify.com/album/2GZHATjTUn0AxHGmnbUqqp) | 2:46 | 2024-10-01 |  |
 | [DeeRose \- Commercial Mix 3](https://open.spotify.com/track/7AREoBQzm7y9jfxv5CZF14) | [Gunrunner](https://open.spotify.com/artist/6dqraVukr3bFkO6w3pOv9U) | [DeeRose Edits EP](https://open.spotify.com/album/30pfyJMmmSIrgMVp3tNEwu) | 1:02 | 2022-11-08 |  |
 | [Demolition](https://open.spotify.com/track/14yofNC5ix4ulvNR6UkRwV) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Demolition](https://open.spotify.com/album/6t6z8HeYERM8SzW9s8Wief) | 3:52 | 2024-05-28 |  |
 | [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2022-09-06 |  |

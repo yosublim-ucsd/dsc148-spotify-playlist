@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 417969,
+  "num_followers": 418181,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAACsGzWfWYPFRppUJ9/jTdkM",
+  "snapshot_id": "ZvnqAAAAAADmbGPwYhgTsurRki7SkJK3",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop The Magic",
-        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que S\u00ed",
-      "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "911 (En Vivo)",
         "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 175423,
       "name": "911 - En Vivo",
       "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Stop The Magic",
+        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que S\u00ed",
+      "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Arrepentiras",
-        "url": "https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "No Te Arrepentiras",
-      "url": "https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 163407,
       "name": "NUNCA LA OLVID\u00c9",
       "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Arrepentiras",
+        "url": "https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "No Te Arrepentiras",
+      "url": "https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-607 songs - 1 day 2 hr 20 min
+608 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [as the sun shines, dewdrops glisten](https://open.spotify.com/track/4ZrV1hcAXWu6ahXEE8PIK0) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [as the sun shines, dewdrops glisten](https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN) | 2:31 | 2022-04-22 | 2023-01-27 |
 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-23 |  |
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-04 |  |
-| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-22 |  |
+| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-22 | 2024-10-02 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2022-04-22 | 2024-04-16 |
 | [Aurelian](https://open.spotify.com/track/0uddb7tRm6KmMGzh3wFMcH) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b), [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aurelian](https://open.spotify.com/album/3HFnP1YvQvlyPbiK4nU4q9) | 2:28 | 2022-04-22 | 2023-05-10 |
 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 | 2023-10-04 |  |
@@ -230,7 +230,7 @@
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-04-22 | 2024-02-14 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2022-04-22 | 2023-08-08 |
 | [In The Distant](https://open.spotify.com/track/5g3LiwdKsP3DCeXhzva5dY) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [In The Distant](https://open.spotify.com/album/56H0VNVYqT2QlG8FwjtHCH) | 2:33 | 2023-12-18 |  |
-| [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-04-22 |  |
+| [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-04-22 | 2024-10-02 |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2022-04-22 | 2024-02-14 |
 | [In This Way](https://open.spotify.com/track/677mAMd1eOH1pltC797UYs) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [In This Way](https://open.spotify.com/album/45564XZTqbu06iq2McX47D) | 3:09 | 2022-04-22 | 2022-05-28 |
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2022-11-14 |  |
@@ -452,7 +452,7 @@
 | [Shimmer](https://open.spotify.com/track/3Est0ZqQ8IyB74HoyKu1Db) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Shimmer](https://open.spotify.com/album/1UX8gCw0ubEBg1rcZroqC0) | 2:21 | 2023-09-18 |  |
 | [Short Florentine Story](https://open.spotify.com/track/7EAgMj9f01js3aptHpeIcm) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Short Florentine Story](https://open.spotify.com/album/7JokpJ0adu93ZHpONJXYDu) | 2:18 | 2022-04-22 | 2023-01-27 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-22 | 2023-05-04 |
-| [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-22 |  |
+| [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-22 | 2024-10-02 |
 | [Silhouettes](https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Silhouettes](https://open.spotify.com/album/5qPhOA59aDQkHk8EYpECW5) | 3:32 | 2023-12-18 |  |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-04-22 | 2022-07-28 |
 | [Simply Beautiful](https://open.spotify.com/track/4Q2qLYFIOpN6sHRjzZ0TPC) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Simply Beautiful](https://open.spotify.com/album/1jSD1nmV3dMEdCZYRilod5) | 3:16 | 2022-04-22 | 2022-07-28 |
@@ -537,6 +537,7 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-22 | 2024-02-14 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-04-22 | 2024-02-14 |
 | [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 | 2024-02-02 |  |
+| [Things Untold](https://open.spotify.com/track/7wGZxAnqMmLb7zB2cXcIo3) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Things Untold](https://open.spotify.com/album/2Cc0WE7uCJedRtu9tHVw2t) | 2:06 | 2024-10-01 |  |
 | [Thinking Back](https://open.spotify.com/track/2EnuM63zw10S0dKTbvDmhk) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:03 | 2022-04-22 | 2023-05-04 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-28 |  |
 | [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 | 2024-01-09 |  |

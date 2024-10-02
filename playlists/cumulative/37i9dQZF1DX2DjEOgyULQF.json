@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Dream River",
       "url": "https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e"
@@ -866,6 +866,24 @@
       "duration_ms": 190000,
       "name": "Earth Song (Brook)",
       "url": "https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd"
+    },
+    {
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow and Now",
+          "url": "https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186982,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n"
     },
     {
       "album": {
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 178374,
       "name": "Follow the Creek",
       "url": "https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 154969,
       "name": "Forest Meditation",
       "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 187169,
       "name": "Shimmering Forest",
       "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 192307,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 242700,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu"

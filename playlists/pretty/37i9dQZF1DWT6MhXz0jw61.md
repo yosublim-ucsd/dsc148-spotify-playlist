@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,029 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,112 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 3 | [Break The Cycle \(feat\. Charlie Wilson\)](https://open.spotify.com/track/6hZBgGGkBdYHpjj6MZeJtG) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:41 |
 | 4 | [Highlight](https://open.spotify.com/track/0tyY1AfQzP4karr9c6fYfz) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Highlight](https://open.spotify.com/album/0GCIQ7y1kNGHRrnBWlXrqf) | 3:02 |
 | 5 | [Suicide Doors \(feat\. Cordae\)](https://open.spotify.com/track/07ABUEnAPy0Hhc1XUMNMru) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Ravenite Social Club](https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g) | 2:41 |
-| 6 | [INTROVERTED EXTROVERTED](https://open.spotify.com/track/4A54UJ7DcRVon8KkhDSLWm) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INTROVERTED EXTROVERTED](https://open.spotify.com/album/41eFT4RSv80eY24Spz3Awj) | 3:12 |
+| 6 | [INTROVERTED EXTROVERT](https://open.spotify.com/track/4A54UJ7DcRVon8KkhDSLWm) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INTROVERTED EXTROVERT](https://open.spotify.com/album/41eFT4RSv80eY24Spz3Awj) | 3:12 |
 | 7 | [Pain & Possibilities](https://open.spotify.com/track/4mLUCjyRFvGW7oPDa75p6n) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Can't Go Bacc](https://open.spotify.com/album/3dQ8t3fnXsPYrWEznMdDeX) | 1:54 |
 | 8 | [acorndiet](https://open.spotify.com/track/342jMdzCuRyIcfheUA3fJJ) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [acorndiet](https://open.spotify.com/album/1yvHve6aZgENMzGmRchC85) | 2:34 |
 | 9 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 |

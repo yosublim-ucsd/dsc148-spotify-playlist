@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 62587,
+  "num_followers": 62598,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,18 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Saber a D\u00f3nde ir",
-        "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
           "name": "Nonpalidece",
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 259217,
-      "name": "Saber a D\u00f3nde ir",
-      "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
+      "duration_ms": 186533,
+      "name": "Reggae en el Universo",
+      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -611,18 +607,22 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Saber a D\u00f3nde ir",
+        "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
       },
       "artists": [
         {
           "name": "Nonpalidece",
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Reggae en el Universo",
-      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
+      "duration_ms": 259217,
+      "name": "Saber a D\u00f3nde ir",
+      "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+      },
+      "artists": [
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Rastone (En Vivo en el Teatro de Flores)",
-        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
       "artists": [
         {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        },
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Rastone (En Vivo en el Teatro de Flores)",
-      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+    },
+    {
+      "added_at": "2024-09-27 03:00:00",
+      "album": {
         "name": "Estamos Tranki",
         "url": "https://open.spotify.com/album/1jemq69R5q7bw7iYEsBc8C"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 225132,
       "name": "Estamos Tranki",
       "url": "https://open.spotify.com/track/38wxRRTxiw31ISUh5izhTa"
-    },
-    {
-      "added_at": "2024-09-27 03:00:00",
-      "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
-      },
-      "artists": [
-        {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2024-09-27 03:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-09-27 03:00:00",
       "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
         }
       ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2024-09-27 03:00:00",

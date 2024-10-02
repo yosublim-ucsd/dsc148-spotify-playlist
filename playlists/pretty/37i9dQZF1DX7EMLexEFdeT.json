@@ -1,12 +1,12 @@
 {
   "description": "Did you hear that?",
-  "num_followers": 129734,
+  "num_followers": 129877,
   "original_name": "Haunted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvsEkQAAAAAZu9kDX9FALTfkIdXyoZ4T",
+  "snapshot_id": "ZvxD8wAAAAD4uyvXkRTwAXuso3/W8YI2",
   "tracks": [
     {
       "added_at": "2024-09-30 20:05:37",
@@ -317,6 +317,38 @@
       "url": "https://open.spotify.com/track/7fQFSu5m50PFFm6CdYKSHF"
     },
     {
+      "added_at": "2024-10-01 18:48:18",
+      "album": {
+        "name": "Apollon",
+        "url": "https://open.spotify.com/album/0udUblWUl05uR1ELebTbra"
+      },
+      "artists": [
+        {
+          "name": "Ghost Mountain",
+          "url": "https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Apollon",
+      "url": "https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd"
+    },
+    {
+      "added_at": "2024-09-30 20:05:37",
+      "album": {
+        "name": "Birth of Violence",
+        "url": "https://open.spotify.com/album/6bpgmfwTWBLxT7VuS1phjL"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 211513,
+      "name": "Deranged for Rock & Roll",
+      "url": "https://open.spotify.com/track/0Fs7jajFWWfBcC4Mox3m7p"
+    },
+    {
       "added_at": "2024-09-30 20:05:37",
       "album": {
         "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
@@ -363,42 +395,6 @@
       "duration_ms": 171586,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5"
-    },
-    {
-      "added_at": "2024-09-30 20:05:37",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Gods & Monsters",
-      "url": "https://open.spotify.com/track/4uhSo9cVBVpdDCNxf4MBaP"
-    },
-    {
-      "added_at": "2024-09-30 20:05:37",
-      "album": {
-        "name": "Thrill Seeker",
-        "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Freak (feat. REI AMI)",
-      "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
     },
     {
       "added_at": "2024-09-30 20:05:37",
@@ -467,6 +463,22 @@
     {
       "added_at": "2024-09-30 20:05:37",
       "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
+    },
+    {
+      "added_at": "2024-09-30 20:05:37",
+      "album": {
         "name": "Georgia Off My Mind",
         "url": "https://open.spotify.com/album/1ykpbpA611KpLR7QLdrko7"
       },
@@ -531,18 +543,18 @@
     {
       "added_at": "2024-09-30 20:05:37",
       "album": {
-        "name": "Birth of Violence",
-        "url": "https://open.spotify.com/album/6bpgmfwTWBLxT7VuS1phjL"
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
       "artists": [
         {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 211513,
-      "name": "Deranged for Rock & Roll",
-      "url": "https://open.spotify.com/track/0Fs7jajFWWfBcC4Mox3m7p"
+      "duration_ms": 237640,
+      "name": "Gods & Monsters",
+      "url": "https://open.spotify.com/track/4uhSo9cVBVpdDCNxf4MBaP"
     },
     {
       "added_at": "2024-09-30 20:05:37",
@@ -623,22 +635,6 @@
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
-    },
-    {
-      "added_at": "2024-09-30 20:05:37",
-      "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
     },
     {
       "added_at": "2024-09-30 20:05:37",

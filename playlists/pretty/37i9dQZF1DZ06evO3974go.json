@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19217,
+  "num_followers": 19233,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAAJ3/E89Dqq4k23qfVnYZk1",
+  "snapshot_id": "ZvnqAAAAAADdHVDbaAI2MAwQ6BsukgzT",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 197720,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Goin In",
+        "url": "https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Can't Judge Her",
+      "url": "https://open.spotify.com/track/5CYxGXwAl0rFol5Tc8dDLD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daily Bread",
         "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 176009,
       "name": "Still Sinning",
       "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Goin In",
-        "url": "https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Can't Judge Her",
-      "url": "https://open.spotify.com/track/5CYxGXwAl0rFol5Tc8dDLD"
     },
     {
       "added_at": null,

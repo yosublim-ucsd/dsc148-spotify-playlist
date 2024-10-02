@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-412 songs - 22 hr 1 min
+413 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2024-07-24 |  |
 | [I Feel Better Now](https://open.spotify.com/track/1SweO32QbPNADsokVOUOPS) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:09 | 2024-07-24 |  |
 | [I Gaze In Your Eyes](https://open.spotify.com/track/5bQcNY3rPN9SkKJ9pfBLsp) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Ann Hampton Callaway](https://open.spotify.com/album/4PrVaNuPjsYNKugNXT30dO) | 3:59 | 2024-07-24 |  |
-| [I Get A Kick Out Of You](https://open.spotify.com/track/4EgeHthvFYjKTpN6kc7eN0) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Chamber Music Of The New Jazz](https://open.spotify.com/album/6widTQyYZEKwhDEZNcNF9v) | 4:50 | 2024-07-24 |  |
+| [I Get A Kick Out Of You](https://open.spotify.com/track/4EgeHthvFYjKTpN6kc7eN0) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Chamber Music Of The New Jazz](https://open.spotify.com/album/6widTQyYZEKwhDEZNcNF9v) | 4:50 | 2024-07-24 | 2024-10-02 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 | 2024-07-24 |  |
+| [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 | 2024-10-01 |  |
 | [I Got Beauty](https://open.spotify.com/track/5JyCjjIZSewGWlfyny7TaM) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 2:25 | 2024-07-24 |  |
 | [I Happen to Be in Love](https://open.spotify.com/track/7sqtZKj0YYvGzpK9JZdxhQ) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4), [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:22 | 2024-07-24 |  |
 | [I Happen to Like New York \(From the New Yorkers\) \- Live @ the Carlyle](https://open.spotify.com/track/47xiOR9Qfjr8z4aXlCCIwL) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 1:52 | 2024-07-24 |  |

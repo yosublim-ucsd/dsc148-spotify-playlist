@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-772 songs - 1 day 9 hr 28 min
+773 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-04-15 | 2022-06-08 |
 | [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 | 2022-06-07 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2022-04-15 | 2023-07-25 |
-| [Melancholic Waltz](https://open.spotify.com/track/0ViBAXDmsIDXIdCCClUwEJ) | [Infinite Stream](https://open.spotify.com/artist/6zn7nO9L9oTXa7xuPNNCZU) | [Melancholic Waltz](https://open.spotify.com/album/3vbKKaDHtmAF9DAivnI4IN) | 3:17 | 2022-05-13 |  |
+| [Melancholic Waltz](https://open.spotify.com/track/0ViBAXDmsIDXIdCCClUwEJ) | [Infinite Stream](https://open.spotify.com/artist/6zn7nO9L9oTXa7xuPNNCZU) | [Melancholic Waltz](https://open.spotify.com/album/3vbKKaDHtmAF9DAivnI4IN) | 3:17 | 2022-05-13 | 2024-10-02 |
 | [Mellow Moonlit Melody](https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Mellow Moonlit Melody](https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu) | 2:41 | 2024-02-02 |  |
 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2022-04-15 | 2022-12-24 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2022-04-15 | 2023-08-15 |
@@ -501,7 +501,7 @@
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-04-15 | 2023-05-04 |
 | [Que seas tu](https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Que seas tu](https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX) | 2:34 | 2024-09-10 |  |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-15 | 2022-04-23 |
-| [Quiet Dance](https://open.spotify.com/track/0odacBbDauDRkmcR1DtGsg) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Quiet Dance](https://open.spotify.com/album/7vaqZJ7ydcIZy4PXQzaft9) | 2:42 | 2022-04-22 |  |
+| [Quiet Dance](https://open.spotify.com/track/0odacBbDauDRkmcR1DtGsg) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Quiet Dance](https://open.spotify.com/album/7vaqZJ7ydcIZy4PXQzaft9) | 2:42 | 2022-04-22 | 2024-10-02 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-15 | 2023-07-11 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2022-04-15 | 2022-12-24 |
 | [Randonnée](https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Randonnée](https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI) | 3:29 | 2024-03-18 |  |
@@ -546,6 +546,7 @@
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2022-04-15 | 2022-05-14 |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-06 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2022-04-15 | 2022-06-08 |
+| [Saudade](https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Saudade](https://open.spotify.com/album/5Qp5uW1h6zUaiV1nqxIPvC) | 2:13 | 2024-10-01 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 | 2022-04-15 | 2023-07-11 |
 | [Saugerties](https://open.spotify.com/track/03enULNAQA0xa2rEJESrPf) | [Leroy Rossetti](https://open.spotify.com/artist/2Mg0NVHUCDibNRrdZmlagN) | [Saugerties](https://open.spotify.com/album/6PgqV1jHVZyboBAzgGaSoM) | 2:02 | 2022-04-15 | 2022-05-14 |
@@ -733,7 +734,7 @@
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2022-04-15 | 2023-08-15 |
 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 | 2024-09-10 |  |
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-15 | 2024-03-26 |
-| [Vittring](https://open.spotify.com/track/4GsDggmARYBm8LMe1tfshN) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Vittring](https://open.spotify.com/album/2146pUFRqPLy6uIa9SPaym) | 2:42 | 2022-05-13 |  |
+| [Vittring](https://open.spotify.com/track/4GsDggmARYBm8LMe1tfshN) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Vittring](https://open.spotify.com/album/2146pUFRqPLy6uIa9SPaym) | 2:42 | 2022-05-13 | 2024-10-02 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2022-04-15 | 2024-03-19 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-04-15 | 2024-03-19 |
 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 | 2022-09-20 |  |
@@ -778,7 +779,7 @@
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-15 | 2024-02-14 |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2022-04-15 | 2023-07-25 |
 | [Zeit der Stille](https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid) | [Kal Daniels](https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB) | [Herbst Briese](https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ) | 3:18 | 2022-04-15 | 2022-05-14 |
-| [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-04-15 |  |
+| [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-04-15 | 2024-10-02 |
 | [Ça en vaut la peine](https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Ça en vaut la peine](https://open.spotify.com/album/2yFJkdKJEjuEysAA8Isn66) | 2:31 | 2022-04-15 | 2024-01-05 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

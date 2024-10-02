@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 166000,
       "name": "Grace",
       "url": "https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV"
@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 159705,
       "name": "Once",
       "url": "https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT"
@@ -9990,6 +9990,24 @@
       "duration_ms": 134506,
       "name": "Satnam",
       "url": "https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5Qp5uW1h6zUaiV1nqxIPvC"
+      },
+      "artists": [
+        {
+          "name": "Hidden Piano",
+          "url": "https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM"
     },
     {
       "album": {

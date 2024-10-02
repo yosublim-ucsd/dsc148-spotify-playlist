@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: SOPHIE\n",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: MAYO\n",
   "name": "GLOW",
   "tracks": [
     {
@@ -15326,6 +15326,24 @@
       "duration_ms": 231092,
       "name": "NO PUTX - Spotify Singles",
       "url": "https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL"
+    },
+    {
+      "album": {
+        "name": "SEASON I",
+        "url": "https://open.spotify.com/album/561lG9BweytmTlZwizsJx3"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182284,
+      "name": "No Siento Nada",
+      "url": "https://open.spotify.com/track/26njrrC807IokAXRM08tQN"
     },
     {
       "album": {

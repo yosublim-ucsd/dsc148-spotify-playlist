@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-279 songs - 15 hr 36 min
+280 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 | 2022-12-08 | 2024-06-28 |
 | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29) | 5:24 | 2022-12-08 | 2023-09-02 |
 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 | 2023-04-20 |  |
-| [Overdosis](https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Overdosis](https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl) | 3:40 | 2024-01-24 |  |
+| [Overdosis](https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Overdosis](https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl) | 3:40 | 2024-01-24 | 2024-10-02 |
 | [Pac\-man 2.0](https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [Pac\-man 2.0](https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj) | 2:28 | 2022-12-08 | 2023-10-26 |
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 | 2023-09-02 |
@@ -232,6 +232,7 @@
 | [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 | 2024-05-02 |  |
 | [Stop Playing](https://open.spotify.com/track/2Ys7qaDAMTbgmHZRJxmeBZ) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Stop Playing](https://open.spotify.com/album/0cUyM46EZCAv2uKx0PugP4) | 2:26 | 2024-04-18 |  |
 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 | 2022-12-08 |  |
+| [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 | 2024-10-01 |  |
 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 | 2024-03-26 |  |
 | [STRUGGLE TO SURVIVE](https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE](https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4) | 3:47 | 2022-12-08 | 2023-06-02 |
 | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE \(2023 RMX\)](https://open.spotify.com/album/6Qfszcle60C258we00nyTG) | 3:26 | 2023-11-02 | 2024-06-10 |

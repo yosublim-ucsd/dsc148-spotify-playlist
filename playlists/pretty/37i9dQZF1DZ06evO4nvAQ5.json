@@ -1,12 +1,12 @@
 {
-  "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14635,
+  "description": "This Is J Boog. Los temas esenciales, todos en una lista.",
+  "num_followers": 14637,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAAQ2ZM3O6v1KxdWTs+Kq/6c",
+  "snapshot_id": "ZvnqAAAAAABuHCuAO5c1FECqDIs8bTgv",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OILEI",
         "url": "https://open.spotify.com/album/5QuXzMxfzTnbEjaSInFJGP"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 180173,
       "name": "OILEI",
       "url": "https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feelings (with J Boog & Gyptian)",
         "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 194731,
       "name": "Feelings (with J Boog & Gyptian)",
       "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     }
   ],
   "unique_name": "This Is J Boog",

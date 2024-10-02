@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Leina",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: jo0ji",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246253,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
+    },
+    {
+      "album": {
         "name": "Bakemono no Hanashi",
         "url": "https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj"
       },
@@ -2222,6 +2240,24 @@
       "duration_ms": 253534,
       "name": "Brother",
       "url": "https://open.spotify.com/track/08xTPwrXO0v8LhDmCsI0cC"
+    },
+    {
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217492,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
     },
     {
       "album": {
@@ -10999,6 +11035,24 @@
     },
     {
       "album": {
+        "name": "NOT FOUND.",
+        "url": "https://open.spotify.com/album/19K4lVo1CE7DurVN80DuTm"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217198,
+      "name": "NOT FOUND.",
+      "url": "https://open.spotify.com/track/70CvG97UPgnxBUMsSzuF9B"
+    },
+    {
+      "album": {
         "name": "Not Queen",
         "url": "https://open.spotify.com/album/2Q73xJxTrew6X3JZGPxgjA"
       },
@@ -18398,7 +18452,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 294892,
       "name": "\u304a\u3069\u3051\u604b",
       "url": "https://open.spotify.com/track/3L1q33SSj2V4VaComjWytX"
@@ -19418,7 +19472,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 200226,
       "name": "\u3072\u3085\u308b\u308a\u3089\u3071\u3063\u3071",
       "url": "https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR"
@@ -20772,7 +20826,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 234607,
       "name": "\u30b5\u30de\u30fc\u30a2\u30f3\u30bb\u30e0",
       "url": "https://open.spotify.com/track/2pq2VJd3jXEI2hgdwmDBrD"
@@ -24942,7 +24996,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 307220,
       "name": "\u590f\u5b9f",
       "url": "https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ"
@@ -26329,6 +26383,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u306e\u8cde\u5473\u671f\u9650",
+        "url": "https://open.spotify.com/album/4GErm93PJIwJkaxxzyggyI"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "\u611b\u306e\u8cde\u5473\u671f\u9650",
+      "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
+    },
+    {
+      "album": {
         "name": "\u611b\u306e\u8f4d",
         "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
       },
@@ -26578,6 +26650,24 @@
       "duration_ms": 206033,
       "name": "\u6539\u672d",
       "url": "https://open.spotify.com/track/4dPk6hmk15hmzSTXrZzLVt"
+    },
+    {
+      "album": {
+        "name": "\u6559\u5ba4",
+        "url": "https://open.spotify.com/album/57CEZjUNjOTpDBlqKzlI8h"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235390,
+      "name": "\u6559\u5ba4",
+      "url": "https://open.spotify.com/track/1ZXFFU0y2lRb720TQx6d7F"
     },
     {
       "album": {
@@ -28506,7 +28596,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 220311,
       "name": "\u773c\u5dee\u3057",
       "url": "https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz"

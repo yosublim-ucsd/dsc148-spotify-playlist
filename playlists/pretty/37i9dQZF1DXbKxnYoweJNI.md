@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 薄荷綠工廠 \(Mint GreeN Mill\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,787 likes - 112 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,789 likes - 112 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

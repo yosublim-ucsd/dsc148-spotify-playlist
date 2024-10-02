@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Krzysztof Zalewski
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,595 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,626 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 21 | [To nie powtórzy się](https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik) | [The Dumplings](https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4) | [To nie powtórzy się](https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf) | 3:12 |
 | 22 | [Aż tyle](https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [Aż tyle](https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV) | 2:16 |
 | 23 | [Chciałbym z tobą stworzyć dom](https://open.spotify.com/track/5CEkcTSgwfGpInXUaPTBXZ) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Chciałbym z tobą stworzyć dom](https://open.spotify.com/album/2jOsRaff9JdPptWJhU3GKI) | 4:29 |
-| 24 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 |
+| 24 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 |
 | 25 | [Nie chcę być w Twoim życiu przejazdem](https://open.spotify.com/track/4OfuzjY0faQPSIAFMGJC43) | [Patrick the Pan](https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2) | [Nie chcę być w Twoim życiu przejazdem](https://open.spotify.com/album/0hsxuQnG22uwvjTPpX5vi2) | 3:23 |
 | 26 | [Kurtyny – projekt Ogrody Śródmieście \- Borys Sawaszkiewicz Remix](https://open.spotify.com/track/7t2KUfnjInubq1Lbi6Zl1Q) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR), [Borys Sawaszkiewicz](https://open.spotify.com/artist/3MMSIxBkJDsk9d8Wdy4n6e), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [Kurtyny – projekt Ogrody Śródmieście \- Borys Sawaszkiewicz Remix](https://open.spotify.com/album/7e7UhNxFsvLcZHVdcY0ZOY) | 3:20 |
 | 27 | [24/7](https://open.spotify.com/track/3kEL4qQksVVMgptkaqyyAv) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [24/7](https://open.spotify.com/album/7kBOxQzeKtQ7Vh11wxuVkM) | 2:54 |

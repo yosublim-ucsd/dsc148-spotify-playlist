@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 732553,
+  "num_followers": 732540,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAXoiSL4jZDbbu4ZL9P/KcPdJCyP8f9",
+  "snapshot_id": "AAAXrL/0kGKeOBIBUqBFqE6E0l9yTSlj",
   "tracks": [
     {
       "added_at": "2024-09-28 11:16:46",
@@ -373,24 +373,20 @@
       "url": "https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2"
     },
     {
-      "added_at": "2024-09-28 11:16:46",
+      "added_at": "2024-10-01 09:58:53",
       "album": {
-        "name": "Look No Further",
-        "url": "https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2O6HSgKstTDpO9r5XPjgGn"
       },
       "artists": [
         {
-          "name": "Madison Mars",
-          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
-        },
-        {
-          "name": "Grace Luisa",
-          "url": "https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD"
+          "name": "Apollo On The Run",
+          "url": "https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Look No Further",
-      "url": "https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU"
+      "duration_ms": 169500,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0B4Ee3vZHEKV0zztHgWYxF"
     },
     {
       "added_at": "2024-09-28 11:16:46",
@@ -419,26 +415,22 @@
     {
       "added_at": "2024-09-28 11:16:46",
       "album": {
-        "name": "Mortals - Sped Up/Slowed",
-        "url": "https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL"
+        "name": "Look No Further",
+        "url": "https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb"
       },
       "artists": [
         {
-          "name": "Warriyo",
-          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
         },
         {
-          "name": "Laura Brehm",
-          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
-        },
-        {
-          "name": "Slowed Sounds",
-          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+          "name": "Grace Luisa",
+          "url": "https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD"
         }
       ],
-      "duration_ms": 274004,
-      "name": "Mortals - Slowed",
-      "url": "https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk"
+      "duration_ms": 161000,
+      "name": "Look No Further",
+      "url": "https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU"
     },
     {
       "added_at": "2024-09-28 11:16:46",
@@ -519,6 +511,30 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "added_at": "2024-09-28 11:16:46",
+      "album": {
+        "name": "Mortals - Sped Up/Slowed",
+        "url": "https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL"
+      },
+      "artists": [
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "duration_ms": 274004,
+      "name": "Mortals - Slowed",
+      "url": "https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk"
     },
     {
       "added_at": "2024-09-28 11:16:46",

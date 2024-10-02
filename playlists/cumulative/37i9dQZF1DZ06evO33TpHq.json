@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Phil Wickham",
+        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298026,
+      "name": "Divine Romance",
+      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+    },
+    {
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },

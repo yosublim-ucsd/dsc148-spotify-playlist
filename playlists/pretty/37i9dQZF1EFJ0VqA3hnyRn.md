@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 256 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 256 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,9 +177,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 167 | [Everybody \(feat\. Azealia Banks\)](https://open.spotify.com/track/3W4pDpDgsKda2znHK8qDA4) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 4:06 |
 | 168 | [Set](https://open.spotify.com/track/07wgGPEouPHZ2fqB4zcwRL) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 2:56 |
 | 169 | [All I Want](https://open.spotify.com/track/3dtf3Y9J1Yba0pq4J9JtBx) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 |
-| 170 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 |
-| 171 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
-| 172 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 170 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 171 | [Wicked](https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl) | [Veronica Vega](https://open.spotify.com/artist/5zB4FgmxvPsn1G4TeKO62C), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Wicked \(feat\. Pitbull\) \- Single](https://open.spotify.com/album/2IsKRE4RIZLmegkUz9iUQH) | 4:08 |
+| 172 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 173 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
 | 174 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 175 | [Give It to Me](https://open.spotify.com/track/6Im7Bn2FHuuBqfWgNkqgWa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:24 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 196 | [Hallelujah](https://open.spotify.com/track/1s8gMpKp8a2miBP4roDf4L) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:24 |
 | 197 | [Save My Soul](https://open.spotify.com/track/2r6DJtkGe7BumeqcEt0GKI) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:01 |
 | 198 | [Got No Shorty](https://open.spotify.com/track/4J9cHn7AatMiY45zpTTeif) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:21 |
-| 199 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 |
-| 200 | [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 |
+| 199 | [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 |
+| 200 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 |
 | 201 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
 | 202 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 |
 | 203 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 255 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 256 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Abdj8gAAAADaRGhH474s4znnZZifADvl`
+Snapshot ID: `AbdpVgAAAACRtBte0CJXQ9ekMlJHWvLy`

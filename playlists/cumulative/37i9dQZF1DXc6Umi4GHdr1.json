@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Evening Glow",
+        "url": "https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er \u00c9choes",
+          "url": "https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162705,
+      "name": "Evening Glow",
+      "url": "https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX"
+    },
+    {
+      "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB"
       },

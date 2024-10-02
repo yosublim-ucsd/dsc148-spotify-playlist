@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > I protagonisti più freschi della nuova pop wave del 2023 🌊 Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,424 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,431 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

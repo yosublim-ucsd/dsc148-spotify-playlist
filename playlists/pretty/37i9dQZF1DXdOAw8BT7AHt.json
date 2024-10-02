@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467650,
+  "num_followers": 467642,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Beg For More",
+        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Beg For More",
+      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
       "added_at": "2024-07-19 10:43:52",
       "album": {
         "name": "The Crucible Of Life",
@@ -299,22 +315,6 @@
       "duration_ms": 159414,
       "name": "Love & Co",
       "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Beg For More",
-        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Beg For More",
-      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "uncooked",
-        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "uncooked",
-      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 172687,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "uncooked",
+        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "uncooked",
+      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "It Burns",
-        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 236878,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
-    },
-    {
       "added_at": "2024-07-12 11:48:19",
       "album": {
         "name": "5168 Days",
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "It Burns",
+        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 236878,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Broken Words",
         "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 172003,
       "name": "Broken Words",
       "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
-    },
-    {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "bad habit",
-        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "bad habit",
-      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 149786,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "bad habit",
+        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "bad habit",
+      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Elster Stares the Desert Down",
+        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 221347,
+      "name": "Elster Stares the Desert Down",
+      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 195608,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Elster Stares the Desert Down",
-        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 221347,
-      "name": "Elster Stares the Desert Down",
-      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
     },
     {
       "added_at": "2024-07-19 10:43:52",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Found a Job",
         "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 252133,
       "name": "Found a Job",
       "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 105556,
       "name": "Disturb The Peace",
       "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Sanguivore Special Edition",
         "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 253377,
       "name": "Love And Pain",
       "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "KICKFLIP",
-        "url": "https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "KICKFLIP",
-      "url": "https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "KICKFLIP",
+        "url": "https://open.spotify.com/album/19Nuh0OCQfLenVVjjk4K7E"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "KICKFLIP",
+      "url": "https://open.spotify.com/track/0M1v8YmXRs2bqFy8X0c0di"
     }
   ],
   "unique_name": "Today's Punk",

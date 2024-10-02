@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Naatho Nene",
+        "url": "https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN"
+      },
+      "artists": [
+        {
+          "name": "Akshi",
+          "url": "https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172785,
+      "name": "Naatho Nene",
+      "url": "https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT"
+    },
+    {
+      "album": {
         "name": "Nachadhe",
         "url": "https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc"
       },
@@ -3154,6 +3172,32 @@
       "duration_ms": 214054,
       "name": "Nee Ayya Naa Mama",
       "url": "https://open.spotify.com/track/2U1QW0GcLmXQQJd4JToiHg"
+    },
+    {
+      "album": {
+        "name": "Nee Korake",
+        "url": "https://open.spotify.com/album/5CePbcxQ1hTWqTbgMDmeJ0"
+      },
+      "artists": [
+        {
+          "name": "Ajay Naik",
+          "url": "https://open.spotify.com/artist/5ZwWJw52QijUKUHNdx6b0Y"
+        },
+        {
+          "name": "Kamal Suruguchi",
+          "url": "https://open.spotify.com/artist/1UBKJW4yyJoMAqhdVRifw7"
+        },
+        {
+          "name": "Nidhi Hegde",
+          "url": "https://open.spotify.com/artist/3DDBJ15CB00jnSrlhrHDel"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183952,
+      "name": "Nee Korake",
+      "url": "https://open.spotify.com/track/6UCFvF1my4n7XmjRJv0u5C"
     },
     {
       "album": {

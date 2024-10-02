@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 427115,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0xjLPJViOccQ5EBKu7CsUz"
@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297226,
+      "name": "Govinda",
+      "url": "https://open.spotify.com/track/08bnQ31TXHNL0HA4oyG33d"
+    },
+    {
+      "album": {
         "name": "Green Rework",
         "url": "https://open.spotify.com/album/7jERHcEeC3fhP6uUB6QfKl"
       },
@@ -840,7 +858,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 4320440,
       "name": "Holy Harmony",
       "url": "https://open.spotify.com/track/67iPIPYUDCW30vZ83lBR8J"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
@@ -1231,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Maj\u00e2z",
+        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296853,
+      "name": "Mas\u00e2r",
+      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
+    },
+    {
+      "album": {
         "name": "Mitsno Stoyaty",
         "url": "https://open.spotify.com/album/3TQ5sd1tepBJIx0V1XJkAz"
       },
@@ -1260,10 +1296,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 214257,
       "name": "Moon Fever",
       "url": "https://open.spotify.com/track/3mKB8BUg6JIXlNChQXQQNR"
+    },
+    {
+      "album": {
+        "name": "Nietzsche",
+        "url": "https://open.spotify.com/album/6IuP9ZeyWCa27oR6PEv8TM"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234799,
+      "name": "Nietzsche",
+      "url": "https://open.spotify.com/track/5vb1o2TR7sGcarzohjlgh6"
     },
     {
       "album": {
@@ -1406,7 +1460,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 441067,
       "name": "Racos",
       "url": "https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj"
@@ -1530,7 +1584,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 336000,
       "name": "Ruler Vibes",
       "url": "https://open.spotify.com/track/4JQ8XFbwScwKbKREaZSD45"
@@ -1725,6 +1779,32 @@
     },
     {
       "album": {
+        "name": "So Alive (VIP)",
+        "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "OGUZ",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "name": "ANGEL CANNON",
+          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253161,
+      "name": "So Alive (VIP)",
+      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
+    },
+    {
+      "album": {
         "name": "Sogno Infinito",
         "url": "https://open.spotify.com/album/4BFCsYT9An8sb36FltNyql"
       },
@@ -1810,7 +1890,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 213429,
       "name": "Spiritum - Giorgia Angiuli Remix",
       "url": "https://open.spotify.com/track/2bi41qfJ9J6yCNVecYZfSt"
@@ -1992,7 +2072,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 345610,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL"
@@ -2050,7 +2130,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 185346,
       "name": "Veni Creator Spiritus",
       "url": "https://open.spotify.com/track/7fY6QtuDuUTY0ZgCLG9aXf"

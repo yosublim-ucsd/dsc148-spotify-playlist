@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Billyrrom
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bialystocks
 
-1,903 songs - 4 day 22 hr 17 min
+1,906 songs - 4 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 | 2024-09-18 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-04-05 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
+| [Sora mo Tobenai](https://open.spotify.com/track/3G9exWtNkrmOV17JQ0S0iK) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Songs for the Cryptids](https://open.spotify.com/album/0WReEZ2WtUJIFC5b9kpZ0y) | 4:17 | 2024-10-01 |  |
 | [Soran Bushi](https://open.spotify.com/track/5MIGldUdtw8y5WqZYT7ykM) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Soran Bushi](https://open.spotify.com/album/4iRwcagbROsUFQ4GLvEHu2) | 5:11 | 2023-11-02 | 2023-11-13 |
 | [Sorawo](https://open.spotify.com/track/4QBj3LMwUzaMfBFfm40owq) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Sorawo](https://open.spotify.com/album/6N8uBRG6fbEqlPQXLDyj7E) | 2:50 | 2024-05-28 | 2024-06-12 |
 | [Sorry](https://open.spotify.com/track/5GV79qOjs1VRBVus33GvR7) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Sorry](https://open.spotify.com/album/3i7bH9CyrQovUnVwfDsxsC) | 4:28 | 2023-12-12 | 2023-12-20 |
@@ -1114,6 +1115,7 @@
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-08-06 | 2024-08-31 |
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
+| [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 | 2024-04-02 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2024-04-16 | 2024-09-11 |
 | [Trash?](https://open.spotify.com/track/3LzH854rORAcAXVJovKCyX) | [Mellow Youth](https://open.spotify.com/artist/2gz3u0swrP8haOwVzegHYk) | [Trash? / ダリア](https://open.spotify.com/album/0n81gVG8orwqVBg0pazVjl) | 3:36 | 2024-04-16 | 2024-04-24 |
@@ -1324,7 +1326,7 @@
 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 | 2024-09-03 |  |
 | [ほたるの線](https://open.spotify.com/track/4Lqk9aoUMWF6MYlhf8GedR) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [ほたるの線](https://open.spotify.com/album/46p5qRLiOuCK6x8YCpqfj9) | 3:31 | 2023-08-15 | 2023-08-17 |
 | [ぼくたちダイナソー](https://open.spotify.com/track/66gaaKhZK3TFHKtdy9zxqG) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [ぼくたちダイナソー](https://open.spotify.com/album/1jAnWzzIR9MAK8hS4vBfEW) | 4:44 | 2023-05-30 | 2023-06-01 |
-| [ぼくの部屋においでヨ](https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 1:26 | 2024-09-17 |  |
+| [ぼくの部屋においでヨ](https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 1:26 | 2024-09-17 | 2024-10-02 |
 | [ぼくらのまま](https://open.spotify.com/track/2MfBsbqFVELdvC6iBtk6SR) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ぼくらのまま](https://open.spotify.com/album/2F653wecMxIDfNxihYzsGs) | 4:12 | 2023-01-12 | 2023-01-26 |
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 | 2023-03-08 |
 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 | 2024-04-23 | 2024-05-22 |
@@ -1437,6 +1439,7 @@
 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 | 2023-06-20 | 2023-09-20 |
 | [デッドエンド](https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 2:53 | 2024-01-23 | 2024-05-01 |
 | [トランス＝ロマンティック](https://open.spotify.com/track/16skoJcX8iihEFnrioKufY) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [からまるおも](https://open.spotify.com/album/7BdYUBkrPy6RrJSQ4mnbEy) | 3:41 | 2024-07-09 | 2024-07-17 |
+| [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 | 2024-10-01 |  |
 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-18 | 2023-06-28 |
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-03-19 | 2024-04-24 |
 | [ドライブ論争](https://open.spotify.com/track/54d1tRwYn66RD0H1BCDatC) | [ミジンコ論争](https://open.spotify.com/artist/1FYEo2saNM2qIbQC0pVfSJ) | [ドライブ論争](https://open.spotify.com/album/0yGsTF9plbmUSXcLjMN9ud) | 4:04 | 2024-02-13 | 2024-02-21 |
@@ -1517,7 +1520,7 @@
 | [リズム](https://open.spotify.com/track/2rImdgqiuyvfwTlfCnmtS3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Golden Child](https://open.spotify.com/album/31NxRGGXtEXb3a54YRZgYF) | 3:27 | 2024-09-03 |  |
 | [リビド](https://open.spotify.com/track/2DPqDCOLt5u9vgPsBeeZHu) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [感情](https://open.spotify.com/album/5wVKcfeOtX715KlsMQkw8C) | 2:41 | 2023-03-30 | 2023-05-12 |
 | [リベットタウンズのテーマ](https://open.spotify.com/track/3F7HegU58tbsYHrRN4ad9p) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [リベットタウンズのテーマ](https://open.spotify.com/album/70IbflLHcN9JJj6qErZacQ) | 3:13 | 2024-01-30 | 2024-02-07 |
-| [レシピ](https://open.spotify.com/track/3ECTyAN9W3jCqlNxco25FG) | [Kaco](https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx) | [SOiL SENSOR](https://open.spotify.com/album/06FB0btwvjWzDlTnHgYulJ) | 4:33 | 2024-09-24 |  |
+| [レシピ](https://open.spotify.com/track/3ECTyAN9W3jCqlNxco25FG) | [Kaco](https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx) | [SOiL SENSOR](https://open.spotify.com/album/06FB0btwvjWzDlTnHgYulJ) | 4:33 | 2024-09-24 | 2024-10-02 |
 | [レモンの木](https://open.spotify.com/track/22cZMx1wzOboK8vVJXi3z7) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [レモンの木](https://open.spotify.com/album/5OCK4rMTJecriIbElabgg8) | 5:17 | 2023-01-12 | 2023-01-25 |
 | [レンタカー](https://open.spotify.com/track/0eG7zHxyIo0Lk2hJBGb0NG) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [レンタカー](https://open.spotify.com/album/6iNrTaMzCoWOzByqzkiZxs) | 3:01 | 2023-08-08 | 2023-08-10 |
 | [ロキのうた](https://open.spotify.com/track/04Yf680EEYr5VJI7APa7Sn) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ロキのうた](https://open.spotify.com/album/6U3Bv05MMyRLaaH9l0xDbt) | 5:57 | 2023-09-05 | 2023-10-25 |
@@ -1687,7 +1690,7 @@
 | [愛が一層メロウ](https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/5LWzSqpZTyKiZSKn2BM7xE) | 3:12 | 2024-01-11 | 2024-05-01 |
 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 | 2024-06-18 |  |
 | [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 | 2023-12-12 | 2023-12-14 |
-| [愛のわり方](https://open.spotify.com/track/61crEcQODjNTRy6KSr828s) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [愛のわり方](https://open.spotify.com/album/6TalHH3Tpkua7KFN0qVRr7) | 3:11 | 2024-09-17 |  |
+| [愛のわり方](https://open.spotify.com/track/61crEcQODjNTRy6KSr828s) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [愛のわり方](https://open.spotify.com/album/6TalHH3Tpkua7KFN0qVRr7) | 3:11 | 2024-09-17 | 2024-10-02 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 | 2023-05-31 |
 | [愛の宇宙語](https://open.spotify.com/track/6dOweKZMfhzPCCRvNUouZD) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [愛の宇宙語](https://open.spotify.com/album/2n8BTJEsUOpxQe893tvosF) | 3:22 | 2023-03-07 | 2023-03-29 |
 | [愛の轍](https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [愛の轍](https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA) | 3:12 | 2024-05-28 | 2024-09-18 |

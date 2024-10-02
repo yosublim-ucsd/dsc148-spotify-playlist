@@ -2,9 +2,9 @@
 
 ### [what dreams may come](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-> what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
+> what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-305 songs - 16 hr 0 min
+308 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
 | [Inside the Golden Days of Missing You](https://open.spotify.com/track/068xIt3dOCHgyUGPn8EUqy) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 2:26 | 2024-07-25 | 2024-07-29 |
 | [It Can Feel So Good](https://open.spotify.com/track/1CVK1udYLWWqoJ0pSdtk3j) | [Zammuto](https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu) | [Veryone](https://open.spotify.com/album/3tjeakbcyy8YGjuJ88S1dX) | 4:04 | 2024-09-07 |  |
+| [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 | 2024-10-01 |  |
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 | 2024-05-16 |
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Japan](https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Tauhid](https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt) | 3:24 | 2024-07-15 | 2024-09-08 |
@@ -186,9 +187,10 @@
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
+| [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 | 2024-10-02 |  |
 | [None But Shining Hours](https://open.spotify.com/track/5kHCk2CS3RURF57SUqU1Xt) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 2:43 | 2024-04-25 | 2024-05-16 |
 | [Nothing Stays the Same](https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [The Menace](https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9) | 2:44 | 2024-01-13 | 2024-03-10 |
-| [Now Run](https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Now Run](https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb) | 2:45 | 2024-09-30 |  |
+| [Now Run](https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Now Run](https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb) | 2:45 | 2024-09-30 | 2024-10-02 |
 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 | 2024-09-30 |  |
 | [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 | 2024-09-27 |  |
 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 | 2024-08-12 | 2024-09-08 |
@@ -251,6 +253,7 @@
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 | 2024-03-10 |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2024-03-09 | 2024-05-16 |
+| [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 | 2024-10-02 |  |
 | [Stopword](https://open.spotify.com/track/1D5N1zQMGM5FzTb9288syg) | [Lect Drecs](https://open.spotify.com/artist/6ABEszArkQreaHzzjQaddo) | [My Aura](https://open.spotify.com/album/2KHOwUyQMhnlFQa9dRoSI1) | 2:04 | 2024-07-12 | 2024-09-08 |
 | [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 | 2024-03-10 |
 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 | 2024-07-12 |

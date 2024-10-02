@@ -160,10 +160,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 240960,
       "name": "Born and Raised",
       "url": "https://open.spotify.com/track/2cMOVqd7pTOoj3yUHuxbj7"
+    },
+    {
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293154,
+      "name": "Born and Raised",
+      "url": "https://open.spotify.com/track/3iIfTQZ2x6ikrQtyHmeYPF"
     },
     {
       "album": {
@@ -437,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Heading for the Sun",
+      "url": "https://open.spotify.com/track/2ntCyFsuSCjH9jPTnvBkck"
+    },
+    {
+      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -542,6 +578,24 @@
       "duration_ms": 338317,
       "name": "Midnight Regulations",
       "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "No Rest",
+      "url": "https://open.spotify.com/track/0afXgsvsy6YpFI35UWqVLw"
     },
     {
       "album": {
@@ -743,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249804,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV"
+    },
+    {
+      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -754,7 +826,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 268000,
       "name": "The Northern",
       "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"

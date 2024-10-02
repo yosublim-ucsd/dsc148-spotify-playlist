@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 41 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \- Special Edition](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
 | 42 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
 | 43 | [Gone for Good](https://open.spotify.com/track/7ay7NUJBH3Sh5fyaJd8V0R) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Gone for Good](https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr) | 2:33 |
-| 44 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
-| 45 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
+| 44 | [Follow You](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Follow You](https://open.spotify.com/album/0Hea35mbEy8Wdp0jzIGc1O) | 2:09 |
+| 45 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
 | 46 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
 | 47 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 48 | [Met Yet](https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [Met Yet](https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu) | 2:35 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 66 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 67 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Abdj6AAAAAC12q1gusaGsE/+pQie091v`
+Snapshot ID: `AbdpfgAAAAA1Ka9F2FIFZpAU8UgKtsph`

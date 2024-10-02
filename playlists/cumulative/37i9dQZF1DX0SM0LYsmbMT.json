@@ -14710,7 +14710,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 111046,
       "name": "Cohibas",
       "url": "https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go"
@@ -40692,6 +40692,28 @@
       "duration_ms": 146276,
       "name": "Life",
       "url": "https://open.spotify.com/track/3ObpboFzz9FoI7Kkv24WUp"
+    },
+    {
+      "album": {
+        "name": "Life Form",
+        "url": "https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Life Form",
+      "url": "https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa"
     },
     {
       "album": {

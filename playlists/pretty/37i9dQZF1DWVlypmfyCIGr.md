@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,389 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,388 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 53 | [Restaurant･F](https://open.spotify.com/track/0F3fWrP2te0bAmfoqe7kcM) | [Gacharic Spin](https://open.spotify.com/artist/6CnfLzYowhw2LCyfz4aLkC) | [Restaurant･F](https://open.spotify.com/album/65ll3vw6JpxJT2odesX78n) | 3:05 |
 | 54 | [可視と不可視の被膜上](https://open.spotify.com/track/4nJ384ZSEkfyszIgtVO2L4) | [amaitopina](https://open.spotify.com/artist/4hr58TD2JVNEw4RiqVT9Af) | [可視と不可視の被膜上](https://open.spotify.com/album/3tUPcbSrHjtEhctctYPvld) | 2:16 |
 | 55 | [\(I Don't Give a\) Crap](https://open.spotify.com/track/0UcAkpXVdtUSV56PM9muT4) | [Wang One](https://open.spotify.com/artist/3JiWk8nq1qaAVP7KoCVmKD) | [\(I Don't Give a\) Crap](https://open.spotify.com/album/3Xb697f97GEV0Q05d8W1K5) | 3:29 |
-| 56 | [GETDOWN LIL'DEVIL](https://open.spotify.com/track/49aWRDTr5AX5m44BirdQFN) | [INF](https://open.spotify.com/artist/7IC8R5dxDhbl79PbbM0orp) | [GETDOWN LIL'DEVIL](https://open.spotify.com/album/1zxUkG36nSnoYpX50oFkSH) | 4:57 |
+| 56 | [GETDOWN LIL' DEVIL](https://open.spotify.com/track/49aWRDTr5AX5m44BirdQFN) | [INF](https://open.spotify.com/artist/7IC8R5dxDhbl79PbbM0orp) | [GETDOWN LIL' DEVIL](https://open.spotify.com/album/1zxUkG36nSnoYpX50oFkSH) | 4:57 |
 | 57 | [ヨウカイ](https://open.spotify.com/track/1wB3fWkslWWcWZzx8NOn0a) | [未完成ブレイブ](https://open.spotify.com/artist/04Ed81vmCD3qqU2AoBePXW) | [ヨウカイ](https://open.spotify.com/album/7E2dqtbxtxrL9oQ792Z8Fu) | 2:50 |
 | 58 | [バームクーヘンエンド](https://open.spotify.com/track/2HmqmLp5Xum3dmPyOBrdrj) | [GeTO](https://open.spotify.com/artist/1R6cRgLxvLXdt5MHpmjORa) | [バームクーヘンエンド](https://open.spotify.com/album/250L7G6B5p1yluGQfZ0ay0) | 3:01 |
 | 59 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |

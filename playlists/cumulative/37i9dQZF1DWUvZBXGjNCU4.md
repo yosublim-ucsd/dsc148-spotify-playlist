@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-348 songs - 15 hr 44 min
+351 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 | 2022-06-10 |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2022-10-07 |
+| [Autumn Dreams](https://open.spotify.com/track/7cWsIOBYEv1WomW8PSeX2s) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Autumn Dreams](https://open.spotify.com/album/2TWUEmjaeo6RHBtOUBDwp5) | 3:43 | 2024-10-01 |  |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2022-05-13 | 2022-06-10 |
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2022-05-13 | 2022-06-10 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-06-23 |
@@ -202,6 +203,7 @@
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-02-02 |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
+| [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |
 | [Moments](https://open.spotify.com/track/09ABPGLl5mD4XKrSzVhcZh) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/3RWT8s0jYc1lO6J8mlP5CJ) | 2:23 | 2023-03-31 | 2023-06-10 |
 | [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 | 2022-10-28 | 2023-04-13 |
 | [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 | 2022-11-06 |
@@ -317,6 +319,7 @@
 | [To the Skies](https://open.spotify.com/track/0XRiA10r5SPScyUIcnPcmT) | [Martin Klem](https://open.spotify.com/artist/1Ab0nibox49aGAaiQ7EnjR) | [Coyote Sundance](https://open.spotify.com/album/0BKkJevZCehSor2gJj7WUF) | 2:35 | 2022-05-13 | 2022-05-27 |
 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 |  |
 | [Tramandaí](https://open.spotify.com/track/7acWi08JPuc1BlSuVM9tAk) | [Hans Peschl](https://open.spotify.com/artist/6grQvgae1JYJJgtBxUxfr9) | [Tramandaí](https://open.spotify.com/album/1xRNgEeUnrTAGFkV7chEVa) | 2:53 | 2022-05-13 | 2024-04-06 |
+| [Tranquil Summer Rain](https://open.spotify.com/track/2ck0XGvujK97ZsaV31LIYV) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Tranquil Summer Rain](https://open.spotify.com/album/3yFoIac9KJvDhJWaTBoZcm) | 3:01 | 2024-10-01 |  |
 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 | 2022-05-13 | 2023-02-25 |
 | [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-05-13 | 2022-06-10 |

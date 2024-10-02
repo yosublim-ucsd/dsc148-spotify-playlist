@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-291 songs - 14 hr 47 min
+292 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-27 | 2024-08-16 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-22 |  |
 | [Enchanté](https://open.spotify.com/track/66vfNUxzjkBu4O9fq1rRCW) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Enchanté](https://open.spotify.com/album/0SR2RaR4C3zlQ4TilhIfr0) | 2:55 | 2024-06-27 | 2024-07-27 |
+| [Enemy](https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Enemy](https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM) | 4:13 | 2024-10-01 |  |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-09 | 2024-09-13 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-27 | 2024-08-16 |
 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-07-18 | 2024-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Charles Ans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,200 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,231 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 3 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
 | 4 | [Mi Versión De Ti](https://open.spotify.com/track/66tvAhNMsIrbIFos4P3VaN) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Mi Versión De Ti](https://open.spotify.com/album/4NasJuZLUWaOJqpYlxqhXS) | 2:59 |
 | 5 | [El Reloj del Corazón](https://open.spotify.com/track/5q20ChVvFID1D8wL6TSxjm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [El Reloj del Corazón](https://open.spotify.com/album/2TjqjtOX5CqlqMXQFV08TD) | 3:25 |
-| 6 | [RAYBEN CAP 8: NIÑA BUENA](https://open.spotify.com/track/2Ez8Ql5U4IPMecqM8Iyu69) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [RAYBEN CAP 8: NIÑA BUENA](https://open.spotify.com/album/1erlRqM18ITnueaegtkRLQ) | 2:43 |
+| 6 | [RAYBEN CAP 8: "NIÑA BUENA"](https://open.spotify.com/track/2Ez8Ql5U4IPMecqM8Iyu69) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [RAYBEN CAP 8: "NIÑA BUENA"](https://open.spotify.com/album/1erlRqM18ITnueaegtkRLQ) | 2:43 |
 | 7 | [Todo a Medias](https://open.spotify.com/track/7Eu7cRCgD324SIodueViFT) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Todo a Medias](https://open.spotify.com/album/5flIDDgA7oEvnq2uF9o0yx) | 2:47 |
 | 8 | [Capuccino](https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Capuccino](https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3) | 4:43 |
 | 9 | [Todo Se Complica](https://open.spotify.com/track/7jnHpfMqY9XO4jtWqTIxEU) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:48 |

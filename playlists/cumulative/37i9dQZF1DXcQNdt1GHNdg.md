@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-101 songs - 5 hr 3 min
+102 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/1OyC6DVO89fCq0vDtDwBj4) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-07-18 | 2024-08-30 |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2023-07-18 | 2024-09-10 |
+| [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 | 2024-10-01 |  |
 | [Ragde](https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Ragde](https://open.spotify.com/album/697aEI4GlUznHZeZYHT5ZQ) | 2:11 | 2024-06-10 | 2024-07-02 |
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-07-18 | 2024-04-19 |
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-06 |  |
@@ -91,7 +92,7 @@
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-07-18 |  |
 | [Rumours](https://open.spotify.com/track/72dpLcvlQNZdDecynf9t7Y) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Rumours](https://open.spotify.com/album/0vgsIj6NEPotka3GEd4aOi) | 2:20 | 2024-07-26 | 2024-09-06 |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
-| [Saheli](https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:39 | 2024-08-30 |  |
+| [Saheli](https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:39 | 2024-08-30 | 2024-10-02 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-07-18 | 2024-06-04 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-18 |  |

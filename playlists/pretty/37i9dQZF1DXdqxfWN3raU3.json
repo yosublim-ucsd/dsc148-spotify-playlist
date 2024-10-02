@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Ximena Sari\u00f1ana en portada.",
-  "num_followers": 255094,
+  "num_followers": 255102,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "LA NOCHE ENTERA",
         "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 150480,
       "name": "LA NOCHE ENTERA",
       "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Calles De Madrid",
         "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 179986,
       "name": "Calles De Madrid",
       "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ukiyo",
-        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Siguiendo Tu Voz",
         "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "LA CLASSE",
         "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 182400,
       "name": "TU FAN",
       "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1555,26 +1555,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Puntos Claves",
-        "url": "https://open.spotify.com/album/40iuoENRDnoVBkn14w2sUg"
+        "name": "t\u00fanosabes",
+        "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
       },
       "artists": [
         {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
         },
         {
-          "name": "Federico Iv\u00e1n",
-          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Puntos Claves",
-      "url": "https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON"
+      "duration_ms": 182906,
+      "name": "t\u00fanosabes",
+      "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1595,22 +1591,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "t\u00fanosabes",
-        "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
+        "name": "Puntos Claves",
+        "url": "https://open.spotify.com/album/40iuoENRDnoVBkn14w2sUg"
       },
       "artists": [
         {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
         },
         {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+          "name": "Federico Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
         }
       ],
-      "duration_ms": 182906,
-      "name": "t\u00fanosabes",
-      "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
+      "duration_ms": 137142,
+      "name": "Puntos Claves",
+      "url": "https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 156060,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-09-27 06:00:00",

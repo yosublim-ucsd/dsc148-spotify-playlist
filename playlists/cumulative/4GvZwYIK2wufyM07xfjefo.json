@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249-",
+        "url": "https://open.spotify.com/album/0yzKO62qkg0eDuJZLLCkkG"
+      },
+      "artists": [
+        {
+          "name": "Glint Of Sound",
+          "url": "https://open.spotify.com/artist/6qFXg5EIKV6Z010nGlqhJN"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362307,
+      "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249- (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/629JBTvOyEyi0fqXLiVJDM"
+    },
+    {
+      "album": {
         "name": "Hello_Ending / Darwin Awards",
         "url": "https://open.spotify.com/album/1G3XwuXf5VFnrpB9MOEiB4"
       },
@@ -995,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u307e\u3050\u308c\u30c6\u30a3\u30e9\u30df\u30b9",
+        "url": "https://open.spotify.com/album/0TVqnY5ZSlSBJLdcC4kC1Z"
+      },
+      "artists": [
+        {
+          "name": "MURASAKI",
+          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147867,
+      "name": "\u304d\u307e\u3050\u308c\u30c6\u30a3\u30e9\u30df\u30b9 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/6S3BKEb8KeghV4KSphDYHZ"
+    },
+    {
+      "album": {
         "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076",
         "url": "https://open.spotify.com/album/5iExtveqj1otLYflaFdHAe"
       },
@@ -1272,7 +1312,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 214699,
       "name": "\u307f\u306f\u308b\u304b\u3059 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2ACcn2G6N32XwVQPRQ1V2P"
@@ -1338,7 +1378,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 248925,
       "name": "\u308f\u305f\u3042\u3081 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/1Ck3xKvWX2CXrJ9TDvtHTg"
@@ -1360,6 +1400,28 @@
       "duration_ms": 368024,
       "name": "\u308f\u305f\u3057\u3068\u541b\u3068\u3092\u7e4b\u3050\u3082\u306e",
       "url": "https://open.spotify.com/track/4fIEpX2vEIX7vLeOAV0YeZ"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30ce",
+        "url": "https://open.spotify.com/album/4SO6nYLcZemhrRpqJ0a74T"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181539,
+      "name": "\u30a2\u30a4\u30ce (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2XRaNI7z42q7JkeLhrFbeM"
     },
     {
       "album": {
@@ -1772,7 +1834,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 154363,
       "name": "\u30c9\u30e9\u30a4\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/59Ox4WDNrLbe5OixGHuyWx"
@@ -1940,7 +2002,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 215200,
       "name": "\u30d4\u30a2\u30cb\u30b9\u30c8 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/2WQ4Qe2eBUQ8qVcEvLTeTd"
@@ -2683,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "\u3068\u3073\u3089 -2018edition-",
+        "url": "https://open.spotify.com/album/6HtpnDoOrBOS0nKFHhkGlY"
+      },
+      "artists": [
+        {
+          "name": "\u702c\u540d\u822a",
+          "url": "https://open.spotify.com/artist/6gRfhof0QTiepsZLm9BC9a"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231999,
+      "name": "\u5fae\u71b1",
+      "url": "https://open.spotify.com/track/2JK0P61leyiX1XqUwdZJTJ"
+    },
+    {
+      "album": {
         "name": "\u611b\u5bfe\u3059\u308b\u54c0\u306b\u3064\u3044\u3066",
         "url": "https://open.spotify.com/album/0mFZKSAHCU9FYMrgH94uDQ"
       },
@@ -2698,7 +2778,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 227076,
       "name": "\u611b\u5bfe\u3059\u308b\u54c0\u306b\u3064\u3044\u3066 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/57mlIUKN4t9E3QrCU6tJUd"
@@ -3018,6 +3098,24 @@
       "duration_ms": 258000,
       "name": "\u732b\u3068\u591c\u884c\u5217\u8eca (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7B7zo9xU45kCGhJeCDiXyW"
+    },
+    {
+      "album": {
+        "name": "allusion",
+        "url": "https://open.spotify.com/album/5eGkPTcZVSuuCCcTaX3tcm"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "\u76ee\u7729\u3068\u96f7",
+      "url": "https://open.spotify.com/track/6ZG3yxUCAoEv2FzFvZHS1b"
     },
     {
       "album": {

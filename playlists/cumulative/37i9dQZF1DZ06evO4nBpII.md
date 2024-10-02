@@ -2,7 +2,7 @@
 
 ### [This Is Green Day](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBpII)
 
-> This Is Green Day\. Los temas esenciales, todos en una lista.
+> This is Green Day\. The essential tracks, all in one playlist.
 
 102 songs - 5 hr 42 min
 
@@ -38,7 +38,7 @@
 | [East Jesus Nowhere](https://open.spotify.com/track/0PVplC5P6JJXzEKfIoNTRo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 4:34 | 2022-02-11 | 2022-03-09 |
 | [Extraordinary Girl / Letterbomb](https://open.spotify.com/track/3RBXNeUbe3X7ZBch00D2St) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 7:40 | 2024-05-19 | 2024-07-10 |
 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 | 2022-01-11 |  |
-| [Favorite Son](https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- 20th Anniversary \- On Holiday](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 2:05 | 2024-08-14 |  |
+| [Favorite Son](https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- On Holiday\)](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 2:05 | 2024-08-14 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/2ixD4Uu8tv5i4aiB16aamk) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:52 | 2022-01-17 | 2023-08-02 |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2022-01-15 | 2022-01-17 |
 | [Geek Stink Breath](https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 | 2023-05-19 |  |
@@ -49,7 +49,7 @@
 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 | 2022-01-11 |  |
 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 | 2022-01-11 |  |
 | [Holiday / Boulevard of Broken Dreams](https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 8:13 | 2022-01-11 |  |
-| [Holiday/Blvd\. of Broken Dreams \- Demo](https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- 20th Anniversary \- On Holiday](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 8:23 | 2024-08-12 |  |
+| [Holiday/Blvd\. of Broken Dreams \- Demo](https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- On Holiday\)](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 8:23 | 2024-08-12 |  |
 | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/track/3fRK9qG08iZyWvqjOWkdKc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0) | 3:09 | 2022-01-11 | 2022-08-16 |
 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 | 2023-01-18 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 | 2022-10-12 | 2022-10-17 |

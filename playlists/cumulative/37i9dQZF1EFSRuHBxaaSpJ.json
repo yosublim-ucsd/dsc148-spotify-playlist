@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "La Centrale",
+        "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
+      },
+      "artists": [
+        {
+          "name": "SLK",
+          "url": "https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN"
+    },
+    {
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
       },
@@ -809,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Black House",
+        "url": "https://open.spotify.com/album/62Z5DHDD0EmN1kYWa0QhAS"
+      },
+      "artists": [
+        {
+          "name": "Barack Adama",
+          "url": "https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "Messagerie",
+      "url": "https://open.spotify.com/track/7bjFgfdcZWI0Z1HlloCBxO"
+    },
+    {
+      "album": {
         "name": "JVLIVS II",
         "url": "https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7"
       },
@@ -890,6 +930,28 @@
       "duration_ms": 165973,
       "name": "Nouveaux parrains",
       "url": "https://open.spotify.com/track/42AoMfmlRJldv9rrpAai1K"
+    },
+    {
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198922,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD"
     },
     {
       "album": {

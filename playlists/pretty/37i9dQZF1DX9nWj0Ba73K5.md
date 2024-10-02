@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,121 likes - 183 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,142 likes - 183 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

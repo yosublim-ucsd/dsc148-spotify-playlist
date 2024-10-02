@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-390 songs - 20 hr 1 min
+391 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Gratitude Frequency](https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Gratitude Frequency](https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl) | 2:24 | 2023-07-28 |  |
 | [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 |  |
 | [Harmony of Resonance](https://open.spotify.com/track/06UmX9rsJq1BAjE2Io7D0r) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Harmony of Resonance](https://open.spotify.com/album/5jkxZyyHUdMOS9Hn0ydOwJ) | 2:28 | 2024-01-17 | 2024-02-08 |
-| [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 | 2023-08-11 |  |
+| [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 | 2023-08-11 | 2024-10-02 |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2022-01-19 | 2022-04-19 |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-01-12 | 2024-05-21 |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2022-01-12 | 2023-07-29 |
@@ -284,6 +284,7 @@
 | [Periodically](https://open.spotify.com/track/2Ghf0JCPF7rh8q2QTBAjoO) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Periodically](https://open.spotify.com/album/32L36dBciDzIYTStJ8frzs) | 2:57 | 2024-07-09 |  |
 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 | 2022-01-12 | 2024-05-21 |
 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 | 2022-01-12 | 2023-07-29 |
+| [Petrichor](https://open.spotify.com/track/2AbDczXdLHAnW1xK4YhrCc) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Petrichor](https://open.spotify.com/album/6plhBrRDrAnoTdydocl8DL) | 2:31 | 2024-09-06 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2022-01-12 | 2023-07-29 |
 | [Phoenix Rises](https://open.spotify.com/track/3hUdzZiiEUDdcU4bXKU6NS) | [Majestic Nova](https://open.spotify.com/artist/4OtYcIk5z3XZlfqNXkInrz) | [Phoenix Rises](https://open.spotify.com/album/4SMZElRH7RyXu2lNWw7Pd6) | 2:31 | 2024-01-17 | 2024-09-26 |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2022-01-12 | 2024-01-18 |

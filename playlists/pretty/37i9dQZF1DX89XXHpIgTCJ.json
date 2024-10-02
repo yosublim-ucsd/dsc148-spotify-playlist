@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 310919,
+  "num_followers": 310945,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
         "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 227360,
       "name": "Bring Tha Noize",
       "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2024-05-27 20:22:06",

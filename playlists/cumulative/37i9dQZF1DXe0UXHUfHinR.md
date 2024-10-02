@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-758 songs - 2 day 11 hr 46 min
+759 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Blue Rondo à la Turk](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 6:43 | 2022-10-27 |  |
 | [Blue Skies](https://open.spotify.com/track/7kzag1RHJUYeY8i3KRrQKw) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Definitive Art Tatum](https://open.spotify.com/album/4H2SRN50UHncczjDIxLsW4) | 2:52 | 2022-10-27 | 2024-04-19 |
 | [Blue Train \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 | 2022-10-27 | 2022-12-06 |
-| [Blues Inn \- Remastered](https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 9:05 | 2022-10-27 |  |
+| [Blues Inn](https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 9:05 | 2022-10-27 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-10-27 |  |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2023-01-18 |  |
 | [Body and Soul](https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Body & Soul](https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L) | 3:02 | 2022-10-27 | 2024-04-19 |
@@ -366,6 +366,7 @@
 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 | 2023-05-24 |  |
 | [John Hardy's Wife](https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:33 | 2022-10-27 |  |
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2022-10-27 |  |
+| [Journey Into The Melody](https://open.spotify.com/track/4nAYg5fMyEvUHBnOCdml8J) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Music For Lovers](https://open.spotify.com/album/15VYVw0TNcK4aIUmePdclp) | 4:58 | 2024-07-17 |  |
 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 | 2022-10-27 |  |
 | [Joy Spring](https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:50 | 2022-10-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-10-27 |  |
@@ -680,7 +681,7 @@
 | [They Can't Take That Away From Me](https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:44 | 2024-02-21 | 2024-03-18 |
 | [They Can't Take That Away from Me \(2012 \- Remaster\)](https://open.spotify.com/track/28z6KATfhamoyDgOtcm25F) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:01 | 2023-12-14 | 2024-04-19 |
 | [They Didn't Believe Me](https://open.spotify.com/track/6G222phXtsY8YKTxQfkjjL) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Great American Songbook Collection](https://open.spotify.com/album/2w35faMy97pVdPIMb5RFxb) | 3:29 | 2024-07-17 | 2024-08-11 |
-| [They Say It's Spring](https://open.spotify.com/track/6el9s4ZiJhCuOctd3CHO0j) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 3:46 | 2022-10-27 |  |
+| [They Say It's Spring](https://open.spotify.com/track/6el9s4ZiJhCuOctd3CHO0j) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 3:46 | 2022-10-27 | 2024-10-02 |
 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2022-10-27 |  |
 | [This Here](https://open.spotify.com/track/77tXih9Z5Jid24z21GOJE5) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 3:32 | 2022-10-27 |  |
 | [This I Dig Of You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:25 | 2022-10-27 |  |

@@ -5758,7 +5758,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/1podyfJH4yaihSJwZ5lF47"
@@ -9936,6 +9936,24 @@
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
+    },
+    {
+      "album": {
+        "name": "Wave of Mutilation",
+        "url": "https://open.spotify.com/album/5lVrEWa1Th52yTdDqpOi83"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149635,
+      "name": "Wave of Mutilation",
+      "url": "https://open.spotify.com/track/1BEljQOZPNNjsC3nfIAHxS"
     },
     {
       "album": {

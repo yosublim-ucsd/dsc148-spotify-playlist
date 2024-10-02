@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Cris Mj y FloyyMenor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974,913 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974,991 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 19 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
 | 20 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 |
 | 21 | [GATA MENTE](https://open.spotify.com/track/5bAS0ryjUA6lKR2Bl9q1jr) | [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Los 4F: El Origen](https://open.spotify.com/album/3sODZXVEX8CNdsxypAfBPO) | 2:51 |
-| 22 | [REELS](https://open.spotify.com/track/1RGEZ4M5N9F0syGMx5HZAR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8) | [REELS](https://open.spotify.com/album/0T94hSPbLhTzxMGwh3BdSw) | 2:15 |
+| 22 | [REELS](https://open.spotify.com/track/1RGEZ4M5N9F0syGMx5HZAR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [REELS](https://open.spotify.com/album/0T94hSPbLhTzxMGwh3BdSw) | 2:15 |
 | 23 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 |
 | 24 | [QUE LE DE](https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7) | [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUE LE DE](https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx) | 2:45 |
 | 25 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |

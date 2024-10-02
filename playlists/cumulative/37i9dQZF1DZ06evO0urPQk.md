@@ -2,7 +2,7 @@
 
 ### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This Is Nana Mizuki\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Nana Mizuki\. Los temas esenciales, todos en una lista.
 
 118 songs - 8 hr 20 min
 

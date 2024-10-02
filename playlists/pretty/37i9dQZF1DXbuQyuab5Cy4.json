@@ -1,31 +1,39 @@
 {
   "description": "Scary monsters and filthy drops.",
-  "num_followers": 37326,
+  "num_followers": 37837,
   "original_name": "The Graveyard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpqPJwAAAACtM2SdamcP8HBHEm6T5VMi",
+  "snapshot_id": "ZvtzwAAAAABG0wiJWYVv2gzQ3I8E3nbe",
   "tracks": [
     {
-      "added_at": "2024-07-19 16:07:03",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "wutiwant",
-        "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
+        "name": "Black Ice (feat. Phantogram)",
+        "url": "https://open.spotify.com/album/2gnr6cs8MEKscvCwZGpRJG"
       },
       "artists": [
         {
-          "name": "saraunh0ly",
-          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 193515,
-      "name": "wutiwant",
-      "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
+      "duration_ms": 260001,
+      "name": "Black Ice (feat. Phantogram)",
+      "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
@@ -41,7 +49,7 @@
       "url": "https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Scary Monsters and Nice Sprites EP",
         "url": "https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO"
@@ -57,7 +65,7 @@
       "url": "https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
@@ -85,7 +93,7 @@
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Ghosts 'n' Stuff (feat. Rob Swire) (Jauz Remix)",
         "url": "https://open.spotify.com/album/7lumeiXrp300roKsMEdpDT"
@@ -109,7 +117,23 @@
       "url": "https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Witches, Witches, Witches (The Living Tombstone Remix)",
         "url": "https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY"
@@ -129,23 +153,27 @@
       "url": "https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 129445,
-      "name": "GREEN GOBLIN - Spotify Singles",
-      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "NALGOTICA!",
         "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
@@ -161,7 +189,7 @@
       "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3gXwuCDdyQBPzECnQ5tRqm"
@@ -177,7 +205,7 @@
       "url": "https://open.spotify.com/track/2XpKr6BN17r20GV3FDSik4"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
@@ -197,23 +225,7 @@
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Ghostbusters",
-        "url": "https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "100% No Modern Talking",
         "url": "https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB"
@@ -229,7 +241,7 @@
       "url": "https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu"
@@ -245,7 +257,7 @@
       "url": "https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Frankenstein's Fury",
         "url": "https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1"
@@ -261,7 +273,7 @@
       "url": "https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "go_hard",
         "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
@@ -285,27 +297,7 @@
       "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "The Sequel (The Remixes)",
         "url": "https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw"
@@ -329,7 +321,7 @@
       "url": "https://open.spotify.com/track/6Hhg2FepgSwCDI2EsENmiQ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "inhuman",
         "url": "https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz"
@@ -345,7 +337,7 @@
       "url": "https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Virtual Self",
         "url": "https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG"
@@ -361,7 +353,7 @@
       "url": "https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "ROMBORAMA",
         "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
@@ -381,27 +373,7 @@
       "url": "https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Squid Play",
-        "url": "https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Cuebrick",
-          "url": "https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Squid Play",
-      "url": "https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
@@ -417,51 +389,7 @@
       "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Purgatory",
-      "url": "https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Dead To Me Slow + Reverb",
-        "url": "https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Fraxo",
-          "url": "https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS"
-        },
-        {
-          "name": "Lox Chatterbox",
-          "url": "https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73"
-        }
-      ],
-      "duration_ms": 230282,
-      "name": "Dead To Me - Original Mix",
-      "url": "https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "The Wikked",
         "url": "https://open.spotify.com/album/089AZ3jIxNy7SXrBdboRBo"
@@ -477,7 +405,7 @@
       "url": "https://open.spotify.com/track/5Utr45KSO0UgwXAsrHtWYn"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Hell on Earth",
         "url": "https://open.spotify.com/album/6yNq56Py7PppTGP5HueKcP"
@@ -497,7 +425,7 @@
       "url": "https://open.spotify.com/track/0LF3laZt24GkVkd6ZyJlw8"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "SLASH (Halloween Scary Song)",
         "url": "https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH"
@@ -513,7 +441,7 @@
       "url": "https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/5UMbBOHJG388cokgCTLlPV"
@@ -533,7 +461,7 @@
       "url": "https://open.spotify.com/track/4F3v50jS42NKOuGppjwUHj"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "After Life (feat. Stacy Barthe)",
         "url": "https://open.spotify.com/album/7uZZFBdOR9qqmmV5WLUDNP"
@@ -553,23 +481,7 @@
       "url": "https://open.spotify.com/track/3dhPpCQvw3kn7so6mkTbJ3"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Malice",
         "url": "https://open.spotify.com/album/1A8sczzb5hgqhawH2EeRXn"
@@ -585,7 +497,7 @@
       "url": "https://open.spotify.com/track/2JtzkYPSeFA4ezd4kBjeS6"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Sweet Dreams (VIP)",
         "url": "https://open.spotify.com/album/5beTuDZOcwTbSBEBhA6pT1"
@@ -605,7 +517,7 @@
       "url": "https://open.spotify.com/track/4IQQB4PTQfvW1x7iioOeK9"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/4VT2smjUwrP73Ni00hyLta"
@@ -621,7 +533,7 @@
       "url": "https://open.spotify.com/track/7cdOiZBLqp31qFjMTBAXTL"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Death Toll",
         "url": "https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun"
@@ -641,7 +553,7 @@
       "url": "https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Subsidia Dusk: Vol. 1",
         "url": "https://open.spotify.com/album/25dFd4bki0DXZp2SzAgUAv"
@@ -661,7 +573,7 @@
       "url": "https://open.spotify.com/track/2Qyh9G1sElqu3VzQjsh4Ii"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Whispers in the Dark",
         "url": "https://open.spotify.com/album/2hwKjdNvxEkF7ZeKdmvx61"
@@ -681,7 +593,7 @@
       "url": "https://open.spotify.com/track/4hiWbebUSIyK9lIUfvDHCG"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "I Killed The Orchestra EP",
         "url": "https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v"
@@ -701,7 +613,7 @@
       "url": "https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Roll",
         "url": "https://open.spotify.com/album/1zXKcwZZIyG2ojmJV6s35T"
@@ -717,7 +629,7 @@
       "url": "https://open.spotify.com/track/7tCfEp99eUv6d3yfaL3TdP"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Evil Inside (VIP)",
         "url": "https://open.spotify.com/album/53dtE8qPToUhpY5U8HFzPc"
@@ -737,7 +649,7 @@
       "url": "https://open.spotify.com/track/3WK7bi8adAzITYZdoSQuZz"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "ROCK IT",
         "url": "https://open.spotify.com/album/4bhVSIjmRIxUNzCsy7xe6c"
@@ -753,7 +665,7 @@
       "url": "https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
@@ -777,7 +689,7 @@
       "url": "https://open.spotify.com/track/3SmytDq4CeZ3nKE9777qEx"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Got The Blood",
         "url": "https://open.spotify.com/album/5gMaxtk07NkQ41etdnmPx9"
@@ -797,7 +709,7 @@
       "url": "https://open.spotify.com/track/0CBfZAFMdQ7gEXIGUjAU8k"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Someone Else (PEEKABOO Remix)",
         "url": "https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1"
@@ -821,7 +733,7 @@
       "url": "https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "onyx palace",
         "url": "https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG"
@@ -837,7 +749,7 @@
       "url": "https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Scary Monsters",
         "url": "https://open.spotify.com/album/5vc0vc1UlPlgJO260ytWk7"
@@ -861,7 +773,7 @@
       "url": "https://open.spotify.com/track/7o5BIeXbEwBSfSCfjdlyQF"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "For Lack of a Better Name (The Extended Mixes)",
         "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
@@ -881,7 +793,7 @@
       "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/1ey17n9x1NaHc83hX696bp"
@@ -901,7 +813,7 @@
       "url": "https://open.spotify.com/track/6pD0ykQutS455Qxvh7OheC"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro"
@@ -917,7 +829,7 @@
       "url": "https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Sell Out",
         "url": "https://open.spotify.com/album/1n7yjwouZiDCmvMeAQFQxi"
@@ -937,7 +849,7 @@
       "url": "https://open.spotify.com/track/0e9yz3Fz7Nn6I5E4XBP8no"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "All The Smoke (feat. Bok Nero)",
         "url": "https://open.spotify.com/album/2Dj2xjPzJXyT0EfVJzGZNa"
@@ -961,7 +873,7 @@
       "url": "https://open.spotify.com/track/4gpKdwSyeN8MSsKa6FY4Qf"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Bloody Mary (Harris & Ford Remix)",
         "url": "https://open.spotify.com/album/60wmmReuAG6SHfGkKNkY9V"
@@ -981,7 +893,7 @@
       "url": "https://open.spotify.com/track/62At4l9VMYuB8nJQPEQ1pd"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
@@ -997,7 +909,7 @@
       "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "This Song Scares People",
         "url": "https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3"
@@ -1013,7 +925,7 @@
       "url": "https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Tower",
         "url": "https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H"
@@ -1029,7 +941,7 @@
       "url": "https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Winter Is Coming (Rome in Silver Remix)",
         "url": "https://open.spotify.com/album/2hQI3kzX2UdSF765BX5jvJ"
@@ -1049,7 +961,7 @@
       "url": "https://open.spotify.com/track/0rfuJq6P2Albwy2dykCD75"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Trick or Treat",
         "url": "https://open.spotify.com/album/26Fb4hs1Hadb6XXkH5bzYj"
@@ -1065,7 +977,7 @@
       "url": "https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Reanimated EP",
         "url": "https://open.spotify.com/album/0pvo5DotmMpj4hvnWAYkwJ"
@@ -1081,7 +993,35 @@
       "url": "https://open.spotify.com/track/3iua7Qv6SauKb6AIRErIDE"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "4EVR",
+        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "4EVR",
+      "url": "https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/6nDCvCvEZjvYMWxDoa2lXF"
@@ -1101,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0qkSTDOUNmyPsMjTJ4jISd"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Phantom (Haunted Version) [feat. Tokyo's Revenge]",
         "url": "https://open.spotify.com/album/2MXEvZxDkoiCm0sNKXoSgd"
@@ -1125,23 +1065,7 @@
       "url": "https://open.spotify.com/track/53EkOo1VrJYEZCvBDLKoiK"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/6bVKbPVxy7yWyooCwqVcGX"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/2xhaxIUaEj6RCYLhrQCn1i"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Love Death Immortality",
         "url": "https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs"
@@ -1161,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3iFjScPoAC21CT5cbAFZ7b"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6"
@@ -1185,7 +1109,7 @@
       "url": "https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Cyberspace",
         "url": "https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i"
@@ -1201,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
@@ -1217,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/58RaTQA8XsNG9T7tl5n0ac"
@@ -1241,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5AhV1iYCYJfdz8gTaikr5L"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/0TjVLFf4qJn584UIZKehXu"
@@ -1261,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4L302vPKtjDaRyiXumrCxn"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/4KTwNYQY0kTnrgtjaCoMw1"
@@ -1281,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5J11PTk7fy9TR0TKXpVvCt"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Never Have I Felt This",
         "url": "https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM"
@@ -1297,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "The Execution",
         "url": "https://open.spotify.com/album/1buTozFUMjEVgmV9SjwRBt"
@@ -1313,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7134C3yE9PU0nRVRcNKFqu"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "THE SHOOTV",
         "url": "https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ"
@@ -1329,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "The Sequel (The Remixes)",
         "url": "https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw"
@@ -1349,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0JCQVfON4BNHdN44tLlrlV"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Hitman",
         "url": "https://open.spotify.com/album/4yO3DPZ4D7PKsXtT4bC6Xx"
@@ -1365,7 +1289,7 @@
       "url": "https://open.spotify.com/track/161hrORIVwOXGesPsY607T"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Soundclash",
         "url": "https://open.spotify.com/album/5oHN6zfydzNd8yx7QHztCs"
@@ -1385,27 +1309,7 @@
       "url": "https://open.spotify.com/track/1CHcv3ENgWTEkTUayOBShJ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Aftershock (Boombox Cartel VIP)",
-        "url": "https://open.spotify.com/album/7wtdSuoA23s9uqosnun3Pc"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Aftershock - Boombox Cartel VIP",
-      "url": "https://open.spotify.com/track/7Bn7qlbuOEkruIEpF23XPS"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Monster (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
@@ -1429,7 +1333,7 @@
       "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Bass Inside",
         "url": "https://open.spotify.com/album/2EIMq4BGKqgFQnZqBns0Ki"
@@ -1445,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0oUTyBEY3NQzmu2VuoKpSH"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Welcome Reality +",
         "url": "https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu"
@@ -1461,7 +1365,7 @@
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Cartel",
         "url": "https://open.spotify.com/album/6ElpxZorQUL5VgWl4TVVQi"
@@ -1481,7 +1385,7 @@
       "url": "https://open.spotify.com/track/3Ui9jL2IyUyu2EzffYmqPp"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Thief",
         "url": "https://open.spotify.com/album/1TEDJMksfymmVbEpa3pG26"
@@ -1497,7 +1401,7 @@
       "url": "https://open.spotify.com/track/5Ce9z7GqSknXccyppRxNLY"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Candy Flip",
         "url": "https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU"
@@ -1513,7 +1417,7 @@
       "url": "https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "You Can't Hide",
         "url": "https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np"
@@ -1533,27 +1437,7 @@
       "url": "https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "String Theory",
-        "url": "https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Wicked Witch",
-      "url": "https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Beautiful Monster",
         "url": "https://open.spotify.com/album/7zTGK8FGxxGfbqzSyYZ9iy"
@@ -1569,7 +1453,7 @@
       "url": "https://open.spotify.com/track/3BkTXfYbVgsvsnoPO73KNN"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Dance with Death",
         "url": "https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ"
@@ -1589,7 +1473,7 @@
       "url": "https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Keep Raving",
         "url": "https://open.spotify.com/album/1gsAfjoIcdd8M6XZ9wKpDS"
@@ -1605,7 +1489,7 @@
       "url": "https://open.spotify.com/track/0IJQeY73GsMXqwA5EBzYuP"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "The Evil Folk",
         "url": "https://open.spotify.com/album/2IjPgn4eJwVQMH6Cm9xWnA"
@@ -1625,31 +1509,7 @@
       "url": "https://open.spotify.com/track/5SV1LzjQQxm9od88K3kwio"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "The Killer",
-        "url": "https://open.spotify.com/album/0L017iQBu2DM0eFfVZchtK"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Bret James",
-          "url": "https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl"
-        },
-        {
-          "name": "RNSOM",
-          "url": "https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "The Killer",
-      "url": "https://open.spotify.com/track/2Nq9cw839Rz6zLxGYP1YaR"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
@@ -1665,7 +1525,7 @@
       "url": "https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Supernatural (feat. Anjulie)",
         "url": "https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a"
@@ -1689,27 +1549,7 @@
       "url": "https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Night Whispers",
-        "url": "https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1"
-      },
-      "artists": [
-        {
-          "name": "RQntz",
-          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
-        },
-        {
-          "name": "Loudtech",
-          "url": "https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Night Whispers",
-      "url": "https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Wicked EP",
         "url": "https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD"
@@ -1725,23 +1565,7 @@
       "url": "https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj"
-      },
-      "artists": [
-        {
-          "name": "LAXX",
-          "url": "https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Thundergun",
         "url": "https://open.spotify.com/album/4PQJowwI1lBYn82EB0UUlO"
@@ -1757,7 +1581,7 @@
       "url": "https://open.spotify.com/track/00wcThjdMzgKssCHTcyNdu"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/3bRORuP5edzbMWpO6mVfcw"
@@ -1773,27 +1597,7 @@
       "url": "https://open.spotify.com/track/4JybagjaBy9Y3UplgebTiQ"
     },
     {
-      "added_at": "2023-10-31 04:00:00",
-      "album": {
-        "name": "ET",
-        "url": "https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "ET",
-      "url": "https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN"
-    },
-    {
-      "added_at": "2023-10-31 04:00:00",
+      "added_at": "2024-10-01 04:00:00",
       "album": {
         "name": "Weeping Ghost",
         "url": "https://open.spotify.com/album/65jZ8l9cpAjwv4H5Fw5UIS"

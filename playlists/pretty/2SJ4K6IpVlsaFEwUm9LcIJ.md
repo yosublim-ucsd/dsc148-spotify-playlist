@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 ### [what dreams may come](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-> what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
+> what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,395 likes - 39 songs - 2 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,487 likes - 41 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,6 +46,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 36 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 |
 | 37 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 |
 | 38 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 |
-| 39 | [Now Run](https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Now Run](https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb) | 2:45 |
+| 39 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 |
+| 40 | [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 |
+| 41 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 |
 
-Snapshot ID: `AAALGZJs4FRh89Y8UKs677RKXKugU1M1`
+Snapshot ID: `AAALHlfbEGEeWBQHc6ARBjln7+tiXvNE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,238 likes - 145 songs - 8 hr 29 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,251 likes - 138 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,18 +140,11 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 130 | [Hard Time](https://open.spotify.com/track/1HX5benlXEOlbSLXcOoigr) | [Marcus Trummer](https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6) | [Hard Time](https://open.spotify.com/album/68sST66WB56NUS2N7bUZaQ) | 3:44 |
 | 131 | [Drugged Out](https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Drugged Out](https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX) | 3:21 |
 | 132 | [PAID TODAY](https://open.spotify.com/track/746dxU9cGfCj62ossBxHpl) | [KID RUCCO](https://open.spotify.com/artist/2GFnqJKomTQcjvjAddKA6b) | [PAID TODAY](https://open.spotify.com/album/4vZ3OVtQorIWK1tD7mGfjx) | 2:22 |
-| 133 | [Focus On Me](https://open.spotify.com/track/0qWUl6Zy4TxDcqGhIbceuH) | [David Jin](https://open.spotify.com/artist/7bVNqThWm4PVefYufednd9) | [Focus On Me](https://open.spotify.com/album/1HcFAbGVd9cN9Lad8L2Fqx) | 2:49 |
-| 134 | [Slow it Down](https://open.spotify.com/track/0MO9qTgMhVObCtfxMY4my6) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Gold](https://open.spotify.com/album/278rUZMcOZ4qB5iEIP4pze) | 3:34 |
-| 135 | [High](https://open.spotify.com/track/0KLsK4aBJVJiOHJdDra0G4) | [Jazzy Mejia](https://open.spotify.com/artist/59jAuoL5mNbkuh3lFB0XbB) | [Daydream](https://open.spotify.com/album/2arRsbd451SF78qwh46VDR) | 2:59 |
-| 136 | [super8](https://open.spotify.com/track/6NzoazJ78peF36zq8hk2tg) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [super8](https://open.spotify.com/album/1eJaakdKk9fgdRYoqfBpoH) | 3:43 |
-| 137 | [If Love Is A Feeling](https://open.spotify.com/track/47e2Qns1ODgJ78uuu3IwOL) | [Yasmine Ross](https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ) | [If Love Is A Feeling](https://open.spotify.com/album/3Ul8EtgKDbdvxvLMsfL4Lo) | 3:10 |
-| 138 | [Tangled Up In Blue](https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Tangled Up In Blue](https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc) | 3:05 |
-| 139 | [Summer Girl \(Redux\)](https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr) | [The High Plains Drifters](https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi) | [Summer Girl \(Redux\)](https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By) | 3:58 |
-| 140 | [Aphrodite](https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi) | [Jillian Loux](https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu) | [Aphrodite](https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f) | 3:01 |
-| 141 | [Yellow & Blue](https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu) | [BEET](https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH) | [Yellow & Blue](https://open.spotify.com/album/7d3hfDjLwjgG8HK0Kira3F) | 4:15 |
-| 142 | [All You Are \(Atharva Iyer Remix\)](https://open.spotify.com/track/7Io6TttF0Azr4lS6Kw1hp2) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Bridget Flowers](https://open.spotify.com/artist/01bHswIciITWC4QGF714SJ), [Atharva Iyer](https://open.spotify.com/artist/2oNgQciyuGICgyVLncfgP0) | [All You Are](https://open.spotify.com/album/0Qem8a67DQPp8OE9VnAcC5) | 3:46 |
-| 143 | [River Des Peres Tsunami](https://open.spotify.com/track/1338VRfYwrkuSosIronewy) | [Vera's Son](https://open.spotify.com/artist/2Y5NBeAPlkQamHPgfqc9na) | [River Des Peres Tsunami](https://open.spotify.com/album/3WgVCFmn4P0j3eAjsMlZXL) | 4:13 |
-| 144 | [Qalquiera \- TYMN RMX](https://open.spotify.com/track/01QUiqt2MJcO16DHY6VZGm) | [Star Strife](https://open.spotify.com/artist/4ghbFjjNGX9qgataHEywUE), [TYMN](https://open.spotify.com/artist/2vCIGbf6iqOpSQwBKMoab0) | [Qalquiera \- TYMN RMX](https://open.spotify.com/album/3DKPAZaVfglSryxc3Jsy6O) | 3:02 |
-| 145 | [austin & ally](https://open.spotify.com/track/2kx07N9NF7uV03uLhM0O66) | [Kyro](https://open.spotify.com/artist/4YqRz3XWdr7VDVkqSgRMSY) | [austin & ally](https://open.spotify.com/album/4OPsEDWfiv1uaO6gSuLKb8) | 2:51 |
+| 133 | [If Love Is A Feeling](https://open.spotify.com/track/47e2Qns1ODgJ78uuu3IwOL) | [Yasmine Ross](https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ) | [If Love Is A Feeling](https://open.spotify.com/album/3Ul8EtgKDbdvxvLMsfL4Lo) | 3:10 |
+| 134 | [Tangled Up In Blue](https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Tangled Up In Blue](https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc) | 3:05 |
+| 135 | [Summer Girl \(Redux\)](https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr) | [The High Plains Drifters](https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi) | [Summer Girl \(Redux\)](https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By) | 3:58 |
+| 136 | [Aphrodite](https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi) | [Jillian Loux](https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu) | [Aphrodite](https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f) | 3:01 |
+| 137 | [Yellow & Blue](https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu) | [BEET](https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH) | [Yellow & Blue](https://open.spotify.com/album/7d3hfDjLwjgG8HK0Kira3F) | 4:15 |
+| 138 | [All You Are \(Atharva Iyer Remix\)](https://open.spotify.com/track/7Io6TttF0Azr4lS6Kw1hp2) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Bridget Flowers](https://open.spotify.com/artist/01bHswIciITWC4QGF714SJ), [Atharva Iyer](https://open.spotify.com/artist/2oNgQciyuGICgyVLncfgP0) | [All You Are](https://open.spotify.com/album/0Qem8a67DQPp8OE9VnAcC5) | 3:46 |
 
-Snapshot ID: `AAAoroMoiSfTvmv44dZ4tDnOHBVoP3Iz`
+Snapshot ID: `AAAosJC191HQ4toYmARyS8iTwTIt5VK8`

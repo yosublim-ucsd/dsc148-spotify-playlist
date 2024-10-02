@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 3995869,
+  "num_followers": 3996590,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCNlwAAAAAKS8E/TcMfXIbJu0sVluTs",
+  "snapshot_id": "ZvxliQAAAACxEyJRSxhYAPABs5MUTdKq",
   "tracks": [
+    {
+      "added_at": "2024-10-01 21:11:37",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
     {
       "added_at": "2024-08-12 15:52:47",
       "album": {
@@ -23,38 +39,6 @@
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2024-08-12 15:38:59",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
-    },
-    {
-      "added_at": "2024-08-26 17:32:05",
-      "album": {
-        "name": "Me Gustas Tu EP",
-        "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/3A1BJKGMsa8JqO8M8zztyq"
     },
     {
       "added_at": "2024-07-22 21:08:28",
@@ -73,6 +57,78 @@
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
+      "added_at": "2024-08-12 15:38:59",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2024-10-01 21:11:37",
+      "album": {
+        "name": "Born Sinner",
+        "url": "https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "She Knows (feat. Amber Coffman & Cults)",
+      "url": "https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg"
+    },
+    {
+      "added_at": "2024-09-15 14:55:01",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2024-08-26 17:32:05",
+      "album": {
+        "name": "Me Gustas Tu EP",
+        "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/3A1BJKGMsa8JqO8M8zztyq"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Sailor Song",
@@ -87,6 +143,22 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2024-09-21 19:39:15",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2024-09-21 19:39:15",
@@ -141,36 +213,56 @@
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
-      "added_at": "2024-09-15 14:55:01",
+      "added_at": "2024-10-01 21:11:37",
       "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
+        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
       },
       "artists": [
         {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Debra Jo Rupp",
+          "url": "https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
         }
       ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+      "duration_ms": 197692,
+      "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
+      "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
     },
     {
-      "added_at": "2024-09-21 19:39:15",
+      "added_at": "2024-08-14 15:26:59",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-08-26 17:32:05",
@@ -219,6 +311,22 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2024-10-01 21:11:37",
+      "album": {
+        "name": "The Very Very Best Of Crowded House",
+        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 238362,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1"
     },
     {
       "added_at": "2024-08-03 14:19:43",
@@ -409,42 +517,6 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-08-07 14:39:56",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-08-14 15:19:27",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
-    },
-    {
       "added_at": "2024-07-22 21:08:28",
       "album": {
         "name": "Pink Lemonade (Str8 Reload)",
@@ -491,42 +563,6 @@
       "duration_ms": 201299,
       "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
-    },
-    {
-      "added_at": "2024-08-14 15:26:59",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-07-30 12:49:29",
-      "album": {
-        "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
-        "url": "https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 143994,
-      "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
-      "url": "https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk"
     },
     {
       "added_at": "2024-07-17 20:45:55",
@@ -655,22 +691,6 @@
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
-    },
-    {
-      "added_at": "2024-07-24 04:40:54",
-      "album": {
-        "name": "Street Party",
-        "url": "https://open.spotify.com/album/3hIynkSY046GZeOHp6CtFi"
-      },
-      "artists": [
-        {
-          "name": "DJ KRZ",
-          "url": "https://open.spotify.com/artist/2Xa8PfYBGEMoeQj39wXahJ"
-        }
-      ],
-      "duration_ms": 217683,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3eTViyBuQUFhEJUPwPtLxF"
     },
     {
       "added_at": "2024-07-04 01:59:42",

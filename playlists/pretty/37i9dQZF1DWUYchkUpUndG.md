@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=EgqFNwKkTNmCHZeVmGM29w>Folabi Nuel</a> and <a href=https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ?si=aldOr8I9RVC1j0PguzRxug>Matt Redman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,063 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 |
 | 2 | [I'm Not Alone](https://open.spotify.com/track/654COvlbqceTMyphjCyhSz) | [Jolass Court](https://open.spotify.com/artist/2GJYFuaFJvAbZsOLkF0Vp8) | [I'm Not Alone](https://open.spotify.com/album/3qdsh0ZBCgXdTJAVRio1tL) | 4:59 |
 | 3 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 |
-| 4 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:42 |
+| 4 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 |
 | 5 | [Supernatural \- Live Version](https://open.spotify.com/track/3roeAR2t2YcsKdM4N3As9k) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [Supernatural \(Live Version\)](https://open.spotify.com/album/5VjZpNnEVGFf3vHqeAOnk5) | 7:32 |
 | 6 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 |
 | 7 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 |

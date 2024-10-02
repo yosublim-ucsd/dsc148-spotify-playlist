@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 173034,
+  "num_followers": 173102,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
-      },
-      "artists": [
-        {
-          "name": "Hey Lu",
-          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
-        }
-      ],
-      "duration_ms": 178496,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Hooked Paw",
@@ -987,6 +971,22 @@
       "duration_ms": 363483,
       "name": "Sky Hooks",
       "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+      },
+      "artists": [
+        {
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+        }
+      ],
+      "duration_ms": 178496,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "La Piscina",
-        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
-      },
-      "artists": [
-        {
-          "name": "Los Ganglios",
-          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
-        }
-      ],
-      "duration_ms": 140244,
-      "name": "La Piscina",
-      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Nightshade",
@@ -1307,6 +1291,22 @@
       "duration_ms": 190066,
       "name": "Oase",
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "La Piscina",
+        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
+      },
+      "artists": [
+        {
+          "name": "Los Ganglios",
+          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
+        }
+      ],
+      "duration_ms": 140244,
+      "name": "La Piscina",
+      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "5GTOUR",
-        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
-      },
-      "artists": [
-        {
-          "name": "John T. Gast",
-          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Manc TK 2",
-      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "CUT",
@@ -1671,6 +1655,22 @@
       "duration_ms": 356000,
       "name": "End Scene",
       "url": "https://open.spotify.com/track/1Dmt4yNXdtRymBv5rhL9Rx"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "5GTOUR",
+        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
+      },
+      "artists": [
+        {
+          "name": "John T. Gast",
+          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Manc TK 2",
+      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
     },
     {
       "added_at": "2024-08-21 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 290527,
+  "num_followers": 290535,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+        "name": "Songs Of The Brazos Valley",
+        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
       "artists": [
         {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
         }
       ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+      "duration_ms": 164520,
+      "name": "The Wild Side Of Life",
+      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -435,22 +439,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Songs Of The Brazos Valley",
-        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
       },
       "artists": [
         {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        },
-        {
-          "name": "Hank Thompson And His Brazos Valley Boys",
-          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
         }
       ],
-      "duration_ms": 164520,
-      "name": "The Wild Side Of Life",
-      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "If You Ain't Lovin' (You Ain't Livin')",
+      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 130933,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "If You Ain't Lovin' (You Ain't Livin')",
-      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow & His Rainbow Ranch Boys",
-          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "I Don't Hurt Anymore - Remastered",
-      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "The Complete Capitol Hits Of Faron Young",
         "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 161533,
       "name": "Goin' Steady",
       "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Hank Snow & His Rainbow Ranch Boys",
+          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
+      "duration_ms": 175266,
+      "name": "I Don't Hurt Anymore - Remastered",
+      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
     },
     {
       "added_at": "2024-07-05 22:38:35",

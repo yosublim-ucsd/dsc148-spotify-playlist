@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 228078,
+  "num_followers": 228070,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAVcucUEbcXKPKxl3xincn1e/tGDHDu",
+  "snapshot_id": "AAAVc47TQoNT1aV0XPyxcLVy/O0BfZE/",
   "tracks": [
     {
       "added_at": "2024-08-23 02:34:38",
@@ -213,34 +213,6 @@
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
-      "added_at": "2024-09-19 07:45:14",
-      "album": {
-        "name": "Call Me Bae (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        },
-        {
-          "name": "Mudit Chaturvedi",
-          "url": "https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9"
-        },
-        {
-          "name": "Suvarna Tiwari",
-          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Churaaiyaan - From \"Call Me Bae\"",
-      "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
-    },
-    {
       "added_at": "2024-09-30 13:03:07",
       "album": {
         "name": "Jo Tum Mere Ho",
@@ -339,6 +311,34 @@
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
+    },
+    {
+      "added_at": "2024-09-19 07:45:14",
+      "album": {
+        "name": "Call Me Bae (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        },
+        {
+          "name": "Mudit Chaturvedi",
+          "url": "https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Churaaiyaan - From \"Call Me Bae\"",
+      "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
     },
     {
       "added_at": "2024-07-12 12:42:37",

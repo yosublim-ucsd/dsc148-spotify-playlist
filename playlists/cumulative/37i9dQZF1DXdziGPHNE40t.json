@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 208976,
       "name": "Help You Understand",
       "url": "https://open.spotify.com/track/5kaOT9THuBmY70BZaS88n6"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 232212,
       "name": "Holograms",
       "url": "https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 276366,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4"
@@ -4252,6 +4252,24 @@
       "duration_ms": 294221,
       "name": "In Every Way",
       "url": "https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt"
+    },
+    {
+      "album": {
+        "name": "In the Morning Sun",
+        "url": "https://open.spotify.com/album/2VpwJFw6eCxKIlpRRrTcvw"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "In the Morning Sun",
+      "url": "https://open.spotify.com/track/5mp8boY305gGcGxP4HVRq3"
     },
     {
       "album": {
@@ -5742,7 +5760,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 204929,
       "name": "Make no mistake",
       "url": "https://open.spotify.com/track/4Lz8YjsVI7uYJArEBOivY1"
@@ -6948,7 +6966,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 155381,
       "name": "Offscreen",
       "url": "https://open.spotify.com/track/0SejxxbVr8Hj7YPu5uqqvV"
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 185842,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
@@ -7562,6 +7580,24 @@
       "duration_ms": 192248,
       "name": "Railroad Tracks",
       "url": "https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB"
+    },
+    {
+      "album": {
+        "name": "Read out loud",
+        "url": "https://open.spotify.com/album/3AC4nTJ3E4nBQ3JIvujHwj"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193042,
+      "name": "Read out loud",
+      "url": "https://open.spotify.com/track/1V20tG1s07GuHcdUQ254GT"
     },
     {
       "album": {
@@ -10710,7 +10746,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-02",
       "duration_ms": 179824,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K"

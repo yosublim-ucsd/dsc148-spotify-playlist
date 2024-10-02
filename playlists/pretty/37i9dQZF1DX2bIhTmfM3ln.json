@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 38804,
+  "num_followers": 38831,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-09-30 10:10:28",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-09-30 10:10:28",
@@ -999,38 +999,6 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
-    },
-    {
-      "added_at": "2024-09-30 10:10:28",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
-    },
-    {
-      "added_at": "2024-09-30 10:10:28",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
+    },
+    {
+      "added_at": "2024-09-30 10:10:28",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "added_at": "2024-09-30 10:10:28",
+      "album": {
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
     },
     {
       "added_at": "2024-09-30 10:10:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 155695,
-      "name": "Lagos Love Story",
-      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
-    },
-    {
-      "added_at": "2024-09-30 10:10:28",
-      "album": {
         "name": "wap",
         "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 168000,
       "name": "wap",
       "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
+    },
+    {
+      "added_at": "2024-09-30 10:10:28",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 155695,
+      "name": "Lagos Love Story",
+      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
     },
     {
       "added_at": "2024-09-30 10:10:28",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K"
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
       },
       "artists": [
         {
@@ -1304,13 +1304,13 @@
           "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
         },
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
         }
       ],
-      "duration_ms": 152999,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
+      "duration_ms": 156448,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
     },
     {
       "added_at": "2024-09-30 10:10:28",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2024-09-30 10:10:28",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K"
       },
       "artists": [
         {
@@ -1388,13 +1388,13 @@
           "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
         },
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 156448,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+      "duration_ms": 152999,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
     },
     {
       "added_at": "2024-09-30 10:10:28",

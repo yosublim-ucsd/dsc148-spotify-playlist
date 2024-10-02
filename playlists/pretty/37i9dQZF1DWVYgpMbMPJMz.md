@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:6RC9lZOZqIxeg4g38SXNLn">ONE HOUSE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,965 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,015 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 7 | [God Is Not Against Me \- Radio Version](https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [God Is Not Against Me \(Radio Version\)](https://open.spotify.com/album/0CeLII36k8Gl5r1JNyFp61) | 4:06 |
 | 8 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 9 | [Make Me New \- Live](https://open.spotify.com/track/1w6zWeMq3uzIsvGF6YkrSr) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Day & Night \- Live At Influence Church](https://open.spotify.com/album/0RNsGbiBEbcNQWu2jeY2Wn) | 6:09 |
-| 10 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Hijos Live \(Deluxe Version\) \- Live From San Juan PR](https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy) | 8:33 |
+| 10 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Hijos Live \(Deluxe Version\) \[Live From San Juan PR\]](https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy) | 8:33 |
 | 11 | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Bênçãos Que Não Têm Fim / Counting My Blessings \(Ao Vivo\)](https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf) | 4:08 |
 | 12 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 |
 | 13 | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL) | 3:22 |

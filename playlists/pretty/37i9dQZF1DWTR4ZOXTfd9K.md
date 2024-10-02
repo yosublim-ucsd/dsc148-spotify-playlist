@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,347 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,490 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 60 | [Cool Struttin'](https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX) | 9:23 |
 | 61 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 62 | [Watermelon Man \- Remastered 2007](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 |
-| 63 | [Das' Dat](https://open.spotify.com/track/3Jo5ZN5h9i6OiGiZhLYPxm) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [It's Time](https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa) | 6:24 |
+| 63 | [Das' Dat \- Remastered 2006](https://open.spotify.com/track/3Jo5ZN5h9i6OiGiZhLYPxm) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [It's Time](https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa) | 6:24 |
 | 64 | [Freedom March \- Remastered](https://open.spotify.com/track/5SwlamKyZwNdIhuSTxVwsG) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Sunday Mornin'](https://open.spotify.com/album/13kjTNpNB9CkwNIys1M1bG) | 8:42 |
 | 65 | [Jumpin' The Blues \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/0okh476MArSQObZ4jAr0Ji) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Midnight Special \(Remastered\)](https://open.spotify.com/album/06gaOfTDym5Jf8FZNxwCnZ) | 5:29 |
 | 66 | [Sister Sadie](https://open.spotify.com/track/3R5K5Alv1Db3WRRAE3lr42) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:19 |

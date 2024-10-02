@@ -4,7 +4,7 @@
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-44 songs - 4 hr 1 min
+45 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 | 2024-04-18 |  |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2023-06-22 |  |
 | [ゼロ](https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR) | [國神錬介 \(CV.小野友樹\)](https://open.spotify.com/artist/2DFbKMoyXH8iGUvrCoYS6s), [千切豹馬 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:38 | 2023-06-22 |  |
+| [傍若のカリスマ](https://open.spotify.com/track/6ubI9ALQi6TQYZm7tVPDAi) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [傍若のカリスマ](https://open.spotify.com/album/6D0tjjeezuKCQbAyiGILDj) | 4:25 | 2024-10-01 |  |
 | [戦神](https://open.spotify.com/track/3dSWfBqzDQfCLth30powdR) | [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y), [剣城斬鉄 \(CV.興津和幸\)](https://open.spotify.com/artist/5OFrXH0AP6j7BEnokutBz2) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.1](https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k) | 3:35 | 2024-05-14 |  |
 | [暴風とプロメテウス](https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:09 | 2023-06-22 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2024-09-17 |  |

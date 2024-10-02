@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
+> Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,574 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,588 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 |
-| 2 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
+| 1 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
+| 2 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 |
 | 3 | [For Real](https://open.spotify.com/track/3hv3fLIfJAr61nybChXjx6) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [For Real](https://open.spotify.com/album/5fAtD0l77FXfWkITKw06dD) | 4:19 |
 | 4 | [For a Friend](https://open.spotify.com/track/2mLdVh2Qxkf8UFBAKRHH6w) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [For a Friend](https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg) | 3:18 |
 | 5 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 69 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 |
 | 70 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 |
 
-Snapshot ID: `Zvam/AAAAACJlHQ9uLdT9mOourDTQiX9`
+Snapshot ID: `ZvvyTQAAAACXLVBxwNLMo6yFuX49lKBk`

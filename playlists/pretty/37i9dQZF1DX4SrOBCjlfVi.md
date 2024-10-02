@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Saweetie, Lil Durk, Young Thug and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,616 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,797 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
 | 24 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 |
 | 25 | [DRUMLINE](https://open.spotify.com/track/5ylzsRVW3f0GnLSTnnjO1V) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [DRUMLINE](https://open.spotify.com/album/3WanK885dcBOtiikMJeYgd) | 3:22 |
-| 26 | [INTROVERTED EXTROVERTED](https://open.spotify.com/track/4A54UJ7DcRVon8KkhDSLWm) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INTROVERTED EXTROVERTED](https://open.spotify.com/album/41eFT4RSv80eY24Spz3Awj) | 3:12 |
+| 26 | [INTROVERTED EXTROVERT](https://open.spotify.com/track/4A54UJ7DcRVon8KkhDSLWm) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INTROVERTED EXTROVERT](https://open.spotify.com/album/41eFT4RSv80eY24Spz3Awj) | 3:12 |
 | 27 | [Bout it Bout it](https://open.spotify.com/track/7cj1vlRdQcnYaxxxcUrpgz) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [RoadRun CMoe](https://open.spotify.com/artist/1Cx893uXhF3NtVK3BEBanE) | [Bout it Bout it](https://open.spotify.com/album/1SynqB7WrPPBu6sgcfrxfU) | 3:00 |
 | 28 | [ROTTEN](https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [THA STREETS VOL 1](https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr) | 2:06 |
 | 29 | [Trust Nobody](https://open.spotify.com/track/1kEuDERTHzHChRB3ZL9yLy) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD), [Project Youngin](https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0) | [DEMI GOD](https://open.spotify.com/album/0Xt4tEi23dQceBPqoeeAfj) | 2:49 |

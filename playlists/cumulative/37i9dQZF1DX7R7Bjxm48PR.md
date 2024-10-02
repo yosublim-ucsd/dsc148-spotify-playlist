@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-141 songs - 6 hr 22 min
+142 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [per sempre e sempre insieme](https://open.spotify.com/track/688o4iEC23uFzGZ6nNRTt4) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [per sempre e sempre insieme \(Ambient version\)](https://open.spotify.com/album/758jpU3g1OzoIPDTIfMzvl) | 2:07 | 2022-01-19 |  |
 | [Petrichor](https://open.spotify.com/track/1EMDRuTh2WI87CERjVNjHv) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Petrichor](https://open.spotify.com/album/4WqEA06Os0eeQwsizxLOPC) | 1:58 | 2022-01-19 |  |
 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 | 2022-01-19 | 2022-07-28 |
+| [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 | 2024-10-01 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2022-01-19 |  |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2022-01-19 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-01-19 | 2022-07-28 |

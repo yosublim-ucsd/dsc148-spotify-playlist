@@ -2,7 +2,7 @@
 
 ### [This Is Keauhou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y0jny)
 
-> This Is Keauhou\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Keauhou\. The essential tracks, all in one playlist.
 
 40 songs - 1 hr 48 min
 

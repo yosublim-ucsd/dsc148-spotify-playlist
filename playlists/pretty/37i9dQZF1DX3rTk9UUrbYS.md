@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,573 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,598 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 68 | [Attack of the Mikrokosmos](https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB) | [Steve Swell](https://open.spotify.com/artist/63mW3Dk3IOcppvvV3R5Hlo), [Kende Dreams](https://open.spotify.com/artist/3UavYzlEiScQBO8Rsq8VVo) | [Hommage À Bartòk](https://open.spotify.com/album/3gHuZtGKNrYV5sOUvYouly) | 8:12 |
 | 69 | [Piece 4](https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Piece 4](https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi) | 3:11 |
 | 70 | [Air Pockets](https://open.spotify.com/track/1iC86rt5q2wHl2eS9UXX4t) | [Roy Campbell, Jr.](https://open.spotify.com/artist/60zXI7kDOma2j6HV89DESU), [Pyramid](https://open.spotify.com/artist/0H2r6lmmvfXrRJUFQP1zcM) | [Communion](https://open.spotify.com/album/3CaiuR2QoPaU2K1eP8oHOh) | 14:32 |
-| 71 | [Cancellation \- Digital Remaster/2006](https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [It's Time](https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa) | 7:43 |
+| 71 | [Cancellation \- Remastered 2006](https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [It's Time](https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa) | 7:43 |
 | 72 | [Waitin](https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ) | [Gerry Hemingway Quartet](https://open.spotify.com/artist/1oD7M1SYTOaUsRAsxtPbZr), [Ellery Eskelin](https://open.spotify.com/artist/79CKjkgIoXOZB6Hwzg5vrz), [Gerry Hemingway](https://open.spotify.com/artist/3HXQYmafC5U58QeKtwdW1D), [Herb Robertson](https://open.spotify.com/artist/6GIuatS579tQok4b5wam14), [Mark Helias](https://open.spotify.com/artist/477gMnSsaTHsAIDlidg1Ra) | [The Whimbler](https://open.spotify.com/album/04Fd6i9nbEEPsyFSepMEN9) | 7:57 |
 | 73 | [Chapter IV](https://open.spotify.com/track/6TJrGV1Xmun3x2PsKpmwvZ) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Chad Fowler](https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj) | [Chapter IV](https://open.spotify.com/album/4e1uSbSxUtu4MtpIEZKBTF) | 3:52 |
 | 74 | [Zero Tolerance](https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu) | [Barre Phillips](https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony), [John Butcher](https://open.spotify.com/artist/0ci7QTOgaA15OkgT5GvZ7F), [Ståle Liavik Solberg](https://open.spotify.com/artist/78WjVQTuTL8OxmMqp9yM8c) | [We Met \- and Then](https://open.spotify.com/album/1kQGh6hvL2zXndbyZB5uAw) | 8:39 |

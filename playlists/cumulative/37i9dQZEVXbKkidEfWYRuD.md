@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,618 songs - 3 day 3 hr 2 min
+1,620 songs - 3 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Infinite Tsukuyomi](https://open.spotify.com/track/1w6yKhAgRhIaZhsWEay2H3) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Tsukuyomi Dream](https://open.spotify.com/album/0XJ2GHflMl75zuofYfuARg) | 3:24 | 2021-03-27\* | 2022-01-08 |
 | [Internal](https://open.spotify.com/track/5VIR1O2q6JhcugcuOeYpO8) | [Rogue Dave](https://open.spotify.com/artist/5rfZwd1LcOIodLysmqlXGK) | [Internal](https://open.spotify.com/album/0mGkEKINzyXAHLWCZT0JAB) | 1:40 | 2022-01-11 | 2022-01-21 |
 | [INTERNET LOVE](https://open.spotify.com/track/7B6v2r1R1FchqGVjXVFhpb) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [INTERNET LOVE](https://open.spotify.com/album/0qI7JuWERWJJl2zkI1wvlF) | 2:12 | 2024-08-27 | 2024-08-29 |
-| [INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [INTERNET LOVE](https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ) | 2:12 | 2024-09-28 |  |
+| [INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [INTERNET LOVE](https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ) | 2:12 | 2024-09-28 | 2024-10-02 |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-04-24 | 2023-05-06 |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-05 | 2023-11-12 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2022-01-01 | 2022-01-03 |
@@ -580,8 +580,9 @@
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-10 | 2024-05-19 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-10 | 2022-03-01 |
 | [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 | 2024-08-05 | 2024-08-07 |
+| [Now What You Want From Me?](https://open.spotify.com/track/41zfz9hxDiNZ1RS3WPRHR8) | [Zippy Kid](https://open.spotify.com/artist/20heU8nsu0J8DiBgK1gYGg), [Ruslan Troknyuk](https://open.spotify.com/artist/44uWnvFTY8aoVLVeZcWytw) | [Rigid Shindy](https://open.spotify.com/album/08Wm402EvzDiT4EPmpRZa3) | 4:35 | 2024-10-01 |  |
 | [Nozzy Bossy](https://open.spotify.com/track/1llPAwXXqcuBGvd1WtFsot) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Nozzy Bossy](https://open.spotify.com/album/4qnzD6h1ESoAHuFbAwHyHt) | 2:42 | 2022-02-14 | 2022-02-17 |
-| [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2024-09-09 | 2024-09-30 |
+| [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2024-09-09 |  |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-07-12 | 2023-08-10 |
 | [OBUZA](https://open.spotify.com/track/656lAa8HiCtNMdDprPDuwp) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [QUAZIMODO](https://open.spotify.com/album/1Gygj4jwV3N7wHopFKHSOR) | 2:06 | 2024-07-20 | 2024-07-22 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-06 |
@@ -1380,6 +1381,7 @@
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/1JOU8GC4rAXxSkYSOUFKWR) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-14 | 2024-05-08 |
 | [Райские цветы](https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:18 | 2024-09-05 | 2024-09-15 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
+| [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-01 |  |
 | [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2023-07-02 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
@@ -1446,7 +1448,7 @@
 | [Стіни](https://open.spotify.com/track/1btS2UHaQF7W53fP2bBuKs) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Стіни](https://open.spotify.com/album/4W49nPGSmpB2JANNIPMOzS) | 2:42 | 2023-05-20 | 2023-07-22 |
 | [Суета](https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf) | [30](https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE) | 3:02 | 2022-05-31 | 2022-06-26 |
 | [Сукины дети](https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5) | [1.Kla$](https://open.spotify.com/artist/2KbKmQQqFN6MgbWViBVl06) | [Сукины дети](https://open.spotify.com/album/1PV414X1IyI0enzFicFBwJ) | 3:38 | 2023-11-24 | 2023-12-14 |
-| [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 | 2024-09-05 |  |
+| [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 | 2024-09-05 | 2024-10-02 |
 | [СХИК2](https://open.spotify.com/track/4v30BYT8gRmcZrKlKHMZqD) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [СХИК2](https://open.spotify.com/album/18guABxrqCcpjoPHeR3t81) | 1:24 | 2023-11-04 | 2023-11-06 |
 | [СЭККС](https://open.spotify.com/track/7pHQzPPLj0MgGPoInmT3cp) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [БЭСТ ФРЭНДС](https://open.spotify.com/album/5kH0zVmCDLEn9oaeC5InRQ) | 2:20 | 2021-11-28 | 2021-11-28 |
 | [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 | 2022-10-23 |
@@ -1523,7 +1525,7 @@
 | [Фотографирую закат](https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH) | [fem.love](https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr) | [Фотографирую закат](https://open.spotify.com/album/5OzKIR3zeecYNu7smV3cjg) | 2:36 | 2021-05-09 | 2022-07-02 |
 | [Фотографирую закат](https://open.spotify.com/track/6rUMS0EHW924XLGp6Q3xtF) | [fem.love](https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr) | [Разбитые сердца](https://open.spotify.com/album/19iEsSbB6LI57IV4X70RcV) | 2:36 | 2021-04-09 | 2021-05-09 |
 | [Франция](https://open.spotify.com/track/2ig9i7fHMdqXQREpMlO9y7) | [JAMIK](https://open.spotify.com/artist/5MNSosfX9IiRNNAfcbLrEl), [PUSSYKILLER](https://open.spotify.com/artist/15fKXF1z3Us6ce3O4gGBKs) | [Франция](https://open.spotify.com/album/5JZO310JhgYTdz4POP2kEt) | 2:04 | 2021-03-27\* | 2021-05-22 |
-| [Фрик](https://open.spotify.com/track/5YD7XXuNMvyn8oP4BbFfLN) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [Dabbackwood Reborn 2](https://open.spotify.com/album/60ZUosLpnLJcAdZ7sApPTU) | 1:30 | 2024-08-15 |  |
+| [Фрик](https://open.spotify.com/track/5YD7XXuNMvyn8oP4BbFfLN) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [Dabbackwood Reborn 2](https://open.spotify.com/album/60ZUosLpnLJcAdZ7sApPTU) | 1:30 | 2024-08-15 | 2024-10-02 |
 | [ФРИРИО БЛЯ](https://open.spotify.com/track/1Hqq9dJfL8xiWUJ7HvEbfU) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:35 | 2022-04-30 | 2022-05-02 |
 | [Фэм \(feat\. blago white\)](https://open.spotify.com/track/3Hn9fQkOSSuq4YFa6QK6ot) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [blago white](https://open.spotify.com/artist/5UlVY7KwBwUPvHs1JtmUqy) | [Фэм \(feat\. blago white\)](https://open.spotify.com/album/1eQL6BtYwo6xftQI5KhsOe) | 2:45 | 2021-09-26 | 2021-09-28 |
 | [Фіртка](https://open.spotify.com/track/2UNKTTPQc2JoVPtuvQOEzl) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Фіртка](https://open.spotify.com/album/7s23ffi2qZie3pPu0U0ouh) | 5:38 | 2024-03-30 | 2024-04-01 |

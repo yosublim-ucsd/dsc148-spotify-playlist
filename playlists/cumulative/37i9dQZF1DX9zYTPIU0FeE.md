@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG?si=ujjJuO6pS66aEH6wk3AgTQ">Ndabo Zulu</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa?si=hcmU6Fa\_TySDBwk48HCCPQ">Internet Athi</a>
 
-232 songs - 1 day 0 hr 45 min
+233 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 | 2022-04-28 | 2024-01-26 |
 | [The Only Way](https://open.spotify.com/track/3GMXYzMmRHOi6Al01r68Pz) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 4:16 | 2023-11-16 | 2024-04-19 |
 | [The Only Way](https://open.spotify.com/track/5khKL5lhGGIdyR0T2dAgKC) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Only Way](https://open.spotify.com/album/4Cscjy5WTsT2p4sVc7Iyjn) | 4:16 | 2023-10-12 | 2023-11-02 |
-| [The Only Way](https://open.spotify.com/track/7kFNSNZqYd1C1LW3GNRPob) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Only Way](https://open.spotify.com/album/5XXpUr7yDJsTdmmhSa1zDZ) | 4:16 | 2024-04-11 |  |
+| [The Only Way](https://open.spotify.com/track/7kFNSNZqYd1C1LW3GNRPob) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Only Way](https://open.spotify.com/album/5XXpUr7yDJsTdmmhSa1zDZ) | 4:16 | 2024-04-11 | 2024-10-02 |
 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 | 2023-02-04 |
 | [The Prayer](https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS) | [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Mangaliso Asi](https://open.spotify.com/artist/154yazp34Zc2hrkxo0YbTx), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Ekyoto](https://open.spotify.com/album/2Ga31FnP8JCHAncOn9MxgS) | 2:37 | 2022-04-28 | 2023-03-18 |
 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 | 2022-04-28 | 2023-08-25 |
@@ -228,6 +228,7 @@
 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 | 2024-01-26 |
 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-02 |  |
 | [We Have Been Here Before](https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [We Have Been Here Before](https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE) | 4:50 | 2024-08-15 |  |
+| [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 | 2024-10-01 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 | 2024-01-26 |
 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 | 2024-03-22 |

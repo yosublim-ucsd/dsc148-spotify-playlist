@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-203 songs - 11 hr 30 min
+204 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Double Up](https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [Double Up](https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q) | 2:57 | 2024-08-22 | 2024-09-24 |
 | [Drakar](https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Drakar](https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Draw Me Closer 2.0](https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA) | [Christoffer Hiding](https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a), [Chapee](https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K) | [Draw Me Closer 2.0](https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN) | 5:09 | 2024-06-27 | 2024-09-13 |
-| [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 |  |
+| [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 | 2024-10-02 |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-08-16 |
 | [En bruten fjäder](https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Fleshquartet](https://open.spotify.com/artist/4lB4GxfCWC7Hhlzb20lhCg) | [En bruten fjäder](https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj) | 4:05 | 2024-08-08 | 2024-09-17 |
@@ -89,6 +89,7 @@
 | [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 | 2024-09-16 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 |  |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-27 | 2024-08-30 |
+| [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 |  |
 | [If You Lose Her, You're A Loser](https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I'm Not Dead Yet](https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM) | 3:19 | 2024-08-22 |  |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 |  |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,758 likes - 150 songs - 7 hr 38 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,750 likes - 150 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 5 | [I Should Have Walked Away](https://open.spotify.com/track/6hlJtVICQWfF8u6z4lWxT1) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [DREAMCHILD](https://open.spotify.com/album/1h96AuTUlfhnHpkufZC605) | 3:22 |
 | 6 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 7 | [The Ones We Love \- VIP Mix](https://open.spotify.com/track/1wt09Ym7YlhKle5q5pGaqG) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [The Ones We Love \(VIP Mix\)](https://open.spotify.com/album/7Istc5og7wYdWlkXbPkPzT) | 2:23 |
-| 8 | [Dreamer \(Just Like You\)](https://open.spotify.com/track/4m9JS7f3BFRRrDm1z46OeV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Dreamer \(Just Like You\)](https://open.spotify.com/album/3iNrMPpEExas9tmsNwahEE) | 3:56 |
-| 9 | [Don't Say Goodbye](https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Don't Say Goodbye](https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH) | 3:11 |
-| 10 | [Heartstrings](https://open.spotify.com/track/3YiAx5kB9KBJhDLgD620U3) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Bernard Yagee](https://open.spotify.com/artist/0Bjov8cf7WRRVnjDHhn6VE) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:21 |
+| 8 | [Don't Say Goodbye](https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Don't Say Goodbye](https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH) | 3:11 |
+| 9 | [Heartstrings](https://open.spotify.com/track/3YiAx5kB9KBJhDLgD620U3) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Bernard Yagee](https://open.spotify.com/artist/0Bjov8cf7WRRVnjDHhn6VE) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:21 |
+| 10 | [Dreamer \(Just Like You\)](https://open.spotify.com/track/4m9JS7f3BFRRrDm1z46OeV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Dreamer \(Just Like You\)](https://open.spotify.com/album/3iNrMPpEExas9tmsNwahEE) | 3:56 |
 | 11 | [Beauty Of The Rave](https://open.spotify.com/track/3xK1m14J42fNwNN6dBk7us) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Beauty Of The Rave](https://open.spotify.com/album/4RfarIOhg1WEPdnjSJvz1Y) | 2:53 |
 | 12 | [My Home](https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [My Home](https://open.spotify.com/album/1pOkzp7ZgdxckdOKpAqEMr) | 3:09 |
 | 13 | [Ghost](https://open.spotify.com/track/0fGFbjbq3cXsdDXxhISEQI) | [Reinn](https://open.spotify.com/artist/2liXii9VDQQTx5kAvF3dIO) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 149 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
 | 150 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
 
-Snapshot ID: `AAALB+lAlcQp6hWEcHrdPBZniKr8OFMs`
+Snapshot ID: `AAALClfd+QoYkgGdhk1oGqNThOCxPkQ8`

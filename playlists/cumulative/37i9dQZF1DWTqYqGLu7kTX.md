@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-198 songs - 10 hr 0 min
+199 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2023-03-18 | 2023-09-05 |
 | [Haan Haige Aa](https://open.spotify.com/track/3XQUm9KbQxla0ZtXh0cdGv) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Haan Haige Aa](https://open.spotify.com/album/5Hshd3sa7ZsIzo4EPdmgyo) | 4:01 | 2023-03-18 | 2023-09-05 |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-03-18 | 2024-08-27 |
-| [Hauli Nach](https://open.spotify.com/track/6DOi0AFxcipRIxbokAJ78Z) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy](https://open.spotify.com/artist/45kg13esp33ASqLtApDcGA) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:38 | 2024-08-30 |  |
+| [Hauli Nach](https://open.spotify.com/track/6DOi0AFxcipRIxbokAJ78Z) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy](https://open.spotify.com/artist/45kg13esp33ASqLtApDcGA) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:38 | 2024-08-30 | 2024-10-02 |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2023-04-23 | 2023-06-24 |
 | [Heartless feat\. Ikky](https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Heartless feat\. Ikky](https://open.spotify.com/album/12HrMxdfaD0qq2PM2Gzklr) | 2:09 | 2024-04-05 | 2024-05-17 |
 | [High Life](https://open.spotify.com/track/5QXdt2VHNvEBinfE1Kn2G1) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [High Life](https://open.spotify.com/album/5uYh8gqdE8VL0aAXXodLZ7) | 2:41 | 2023-03-18 | 2023-10-01 |
@@ -167,6 +167,7 @@
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
 | [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 | 2024-09-24 |  |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 |  |
+| [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 |  |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2023-03-18 | 2023-04-24 |
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 |  |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |

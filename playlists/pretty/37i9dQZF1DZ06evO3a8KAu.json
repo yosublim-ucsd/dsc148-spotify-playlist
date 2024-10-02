@@ -1,12 +1,12 @@
 {
-  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 48010,
+  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
+  "num_followers": 48018,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviYgAAAAAA6V6fajTUd6kapUtcQWvru",
+  "snapshot_id": "ZvnqAAAAAAB851UsK8xyTCNR3yLj1wMl",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dile Luna",
+        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191338,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exotic Corridos",
         "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dile Luna",
-        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191338,
-      "name": "Dile Luna",
-      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mam\u00e1",
-        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Gracias Mam\u00e1",
-      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 202249,
       "name": "Borrachos Por Amor",
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
     },
     {
       "added_at": null,
