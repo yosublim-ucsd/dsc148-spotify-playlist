@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 薄荷綠工廠 \(Mint GreeN Mill\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,789 likes - 112 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,801 likes - 112 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 15 | [Illusion](https://open.spotify.com/track/0YRXWJNHQEWwTl4GsLhmPh) | [DözY](https://open.spotify.com/artist/4MPFrDAwyRxYhcf1WRFRxr) | [Illusion](https://open.spotify.com/album/4YbHPgymniFsSluPvFQbWZ) | 3:03 |
 | 16 | [打一個想你的噴嚏](https://open.spotify.com/track/71mHQL4fdpWOCc8nWysU23) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [打一個想你的噴嚏](https://open.spotify.com/album/1JANSGgH3ish8sQKaSKHDy) | 3:06 |
 | 17 | [如果有个可以喜欢的人就好了](https://open.spotify.com/track/2SPab3yDiMbeXmMc4tFfS5) | [leegof](https://open.spotify.com/artist/03xIQs0Wl4OXkiiunwpkf0) | [Leegof 2.0 \- 2021 Band Edition Selections](https://open.spotify.com/album/4aKd4xQm0aMglnPUCjiRdU) | 7:23 |
-| 18 | [想你歸暝](https://open.spotify.com/track/60cNRxIkBa0GX4e1uJTD86) | [丹恩DaN](https://open.spotify.com/artist/5kkdShSDDV0EyPUYR1v3rt) | [想你歸暝](https://open.spotify.com/album/6WczJ91O35ZR2GRIQe7ggm) | 4:50 |
+| 18 | [想妳規暝](https://open.spotify.com/track/60cNRxIkBa0GX4e1uJTD86) | [丹恩DaN](https://open.spotify.com/artist/5kkdShSDDV0EyPUYR1v3rt) | [想妳規暝](https://open.spotify.com/album/6WczJ91O35ZR2GRIQe7ggm) | 4:50 |
 | 19 | [夜市 Oh Yes](https://open.spotify.com/track/2Kb2FVKKJk6P9jfB8JPSqj) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [夜市 Oh Yes](https://open.spotify.com/album/35gW8cliDtjh3hAtXRGOki) | 3:48 |
 | 20 | [除了快乐禁止入内](https://open.spotify.com/track/6JUj1pYrnLBqIY2UZZPgma) | [黃子弘凡](https://open.spotify.com/artist/6GlQVohOENKG7T7qktUxfK) | [除了快乐禁止入内](https://open.spotify.com/album/0RFEYSVPLWbcj1oIxpcJMO) | 3:14 |
 | 21 | [我只想過著最普通的生活](https://open.spotify.com/track/04p2eSK46Mxy0hi8UxQlX6) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [我只想過著最普通的生活](https://open.spotify.com/album/1AXalZcMJnLzE9EJCbBp0O) | 3:31 |

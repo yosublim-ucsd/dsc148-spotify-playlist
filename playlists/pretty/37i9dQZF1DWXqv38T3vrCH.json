@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 328072,
+  "num_followers": 328442,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 293693,
-      "name": "Dead Souls",
-      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 112426,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 293693,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Spook & Destroy",
+        "url": "https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Halloween 13-13",
+      "url": "https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "This Is Halloween",
         "url": "https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 200479,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Spook & Destroy",
-        "url": "https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Halloween 13-13",
-      "url": "https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG"
     },
     {
       "added_at": "2023-10-13 04:01:00",

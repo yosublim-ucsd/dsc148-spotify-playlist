@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 194613,
       "name": "Berlalu - Demo",
       "url": "https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 194293,
       "name": "Bersenja Gurau",
       "url": "https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa"
@@ -794,6 +794,24 @@
       "duration_ms": 173217,
       "name": "happy",
       "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
+    },
+    {
+      "album": {
+        "name": "Hari Hari Musik",
+        "url": "https://open.spotify.com/album/43MqWpLfqpeVs6EBYmhEwi"
+      },
+      "artists": [
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286622,
+      "name": "Hari Hari Musik",
+      "url": "https://open.spotify.com/track/33CQlRUmCOYQS7dQCMHpDw"
     },
     {
       "album": {
@@ -1679,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Lebih Dekat",
+        "url": "https://open.spotify.com/album/4H5ks1HmVJJI79UQpQXMwc"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155548,
+      "name": "Puding Pelangi",
+      "url": "https://open.spotify.com/track/6cwNx7jEFLh7BSYZenQWoU"
+    },
+    {
+      "album": {
         "name": "Puisi",
         "url": "https://open.spotify.com/album/2EpilSwm5p3ttGKyj0Tgxn"
       },
@@ -2061,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Sekali Lagi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1nzyOn5QdhtbDsntabh2GR"
+      },
+      "artists": [
+        {
+          "name": "Ipang Lazuardi",
+          "url": "https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216712,
+      "name": "Sekali Lagi (Acoustic Version)",
+      "url": "https://open.spotify.com/track/74HFamRUkhrhO3wqOptwGQ"
+    },
+    {
+      "album": {
         "name": "Selamat (Selamat Tinggal)",
         "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
@@ -2434,7 +2488,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 187012,
       "name": "Terpikat Senyummu",
       "url": "https://open.spotify.com/track/5AEHGqE2QT26cWTx8MNJl2"

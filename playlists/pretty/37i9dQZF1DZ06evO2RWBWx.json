@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 22279,
+  "num_followers": 22290,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAADfru98PNYNGssRpFG518SO",
+  "snapshot_id": "Zvs7gAAAAACG6xUnQQ1git2vxkg5nR/9",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greedy Greedy (feat.imase)",
+        "url": "https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1"
+      },
+      "artists": [
+        {
+          "name": "KUROMI",
+          "url": "https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Greedy Greedy - feat.imase",
+      "url": "https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9"
     }
   ],
   "unique_name": "This Is imase",

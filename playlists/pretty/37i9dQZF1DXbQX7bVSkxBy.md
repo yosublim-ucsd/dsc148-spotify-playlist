@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/3iEUsaFN1cxgIUgjJSrE8c?si=8DpxP0bsRwCrHhz5TSrQSA>Julian Roberts</a> and  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=xccCHo17TVe6X6rAqUlsLw>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,707 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,719 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

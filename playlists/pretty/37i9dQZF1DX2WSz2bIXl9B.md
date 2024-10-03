@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain](/playlists/plain/37i9dQZF1DX2WSz2bIXl9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WSz2bIXl9B)
 
-### [RADAR Creators](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
+### [RADAR Creators España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
 > Pódcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Crónica Oscura, Las Auténticas señoras de la  calle Lista, Tu amiga psicóloga y Sobre las palabras pódcast
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,370 likes - 15 songs - 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,369 likes - 15 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 14 | [Brat Summer: Verano de Putiar](https://open.spotify.com/episode/0fBurk6ra7rhx3xjKCVNZ6) | [Las Auténticas Señoras de la Calle Lista](https://open.spotify.com/show/1IZ5rxtfT6KlWdQdBKIKj6) | [Las Auténticas Señoras de la Calle Lista](https://open.spotify.com/album/1IZ5rxtfT6KlWdQdBKIKj6) | 1:31:26 |
 | 15 | [Lo que aprendí tras entrevistar a más de 10 expertos en psicología y relaciones personales](https://open.spotify.com/episode/5k0VELC4f0Gvz7F7cJeMNc) | [Sobran Las Palabras Podcast](https://open.spotify.com/show/0cTWV2uMImJk9I9Vuq6ei9) | [Sobran Las Palabras Podcast](https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9) | 56:52 |
 
-Snapshot ID: `ZvsBMgAAAADZ21K/NFrW7JJx+2/qf6+J`
+Snapshot ID: `ZvzexgAAAABOTHCH2E1Eytb4u2nQlMQb`

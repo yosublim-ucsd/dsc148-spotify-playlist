@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Yseult \(du titre \#1 au \#14\).
 
-1,332 songs - 2 day 21 hr 27 min
+1,333 songs - 2 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1106,7 +1106,8 @@
 | [Seules](https://open.spotify.com/track/7bJVC8Q5TzQMpskdZeyAxN) | [Cassandre](https://open.spotify.com/artist/4e9bxKdtrSi1utQbk3FDOy) | [Seule et sauve](https://open.spotify.com/album/44Qrtr7s3Rsc91RWWm7ART) | 5:20 | 2023-10-03 | 2023-11-08 |
 | [Seum](https://open.spotify.com/track/4Dmb0ujGWYjKElrRikPvPI) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Seum](https://open.spotify.com/album/0i9vEK8VPSeoaIZEwMp2Z7) | 3:48 | 2023-10-03 | 2023-11-08 |
 | [Seum](https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Seum](https://open.spotify.com/album/2orVxRM5tcGJq1SrcAcM6c) | 2:37 | 2023-04-04 | 2023-05-03 |
-| [SEXCII](https://open.spotify.com/track/6oYsteIv62vDomGhpoFjVw) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SEXCII](https://open.spotify.com/album/5dSnEaMkYqDa3ubdR6NCmG) | 2:15 | 2024-10-01 |  |
+| [SEXCII](https://open.spotify.com/track/6oYsteIv62vDomGhpoFjVw) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SEXCII](https://open.spotify.com/album/5dSnEaMkYqDa3ubdR6NCmG) | 2:15 | 2024-10-01 | 2024-10-03 |
+| [Sexyy Red \(feat\. La Fève\)](https://open.spotify.com/track/0dNOqSvDE2vZhepbZNBt6R) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [SOLSTICE](https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB) | 2:48 | 2024-10-02 |  |
 | [Shake It](https://open.spotify.com/track/7LaLh78dbY2vHxfVIrs6vj) | [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE) | [Shake It](https://open.spotify.com/album/6pqbLAroOiibEHj5sB7upJ) | 2:59 | 2023-01-31 | 2023-03-01 |
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2024-06-04 | 2024-07-03 |
 | [Si j'étais un garçon](https://open.spotify.com/track/0uolDQKTG0iEVeQodvQ3YU) | [Grand Bleu](https://open.spotify.com/artist/4PPpYuPxhS32iSUsFBJHmQ) | [Si j'étais un garçon](https://open.spotify.com/album/49vdgXXIgLkDy1JS7fLk6B) | 3:28 | 2023-04-04 | 2023-05-03 |

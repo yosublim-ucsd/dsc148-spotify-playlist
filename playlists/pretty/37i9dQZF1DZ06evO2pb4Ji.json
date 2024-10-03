@@ -1,12 +1,12 @@
 {
-  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
-  "num_followers": 388709,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 388718,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAABtVcTayELTON977RJI2wEk",
+  "snapshot_id": "Zvs7gAAAAAAzvYnV8ktHLLiE4AVD9c8C",
   "tracks": [
     {
       "added_at": null,
@@ -1219,8 +1219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
-        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
+        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
       },
       "artists": [
         {
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 194815,
-      "name": "No Chill (Heartsteel)",
-      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
+      "duration_ms": 218274,
+      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
+      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
     },
     {
       "added_at": null,
@@ -1255,8 +1255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
+        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
+        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 218274,
-      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
-      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
+      "duration_ms": 194815,
+      "name": "No Chill (Heartsteel)",
+      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
     }
   ],
   "unique_name": "This Is League of Legends",

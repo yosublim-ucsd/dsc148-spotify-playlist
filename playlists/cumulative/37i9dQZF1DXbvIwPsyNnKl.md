@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: ALLMO$T
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
 
-188 songs - 10 hr 40 min
+189 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-07-18 |
 | [Sadista](https://open.spotify.com/track/5hmg43Bn1stiI6BDat3Sl4) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Sadista](https://open.spotify.com/album/45kF7zimRp7FU2jqDbA9Ct) | 3:12 | 2024-09-18 |  |
 | [Sagana o Salat](https://open.spotify.com/track/4aXOIE1x8ZjHuiA1g6dTyz) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm) | [Propesiya EP](https://open.spotify.com/album/3xllKLisyhUZhpzGThJ8x0) | 4:09 | 2024-03-13 | 2024-04-24 |
+| [Sakin ka](https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [Sakin ka](https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r) | 4:29 | 2024-10-02 |  |
 | [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 | 2024-06-13 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |
 | [SHOT PUNO](https://open.spotify.com/track/6GhAvK6k8gZxw0qF0sSTzy) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [SHOT PUNO](https://open.spotify.com/album/7aTs7EIyn4UnEySAMaEl5I) | 3:26 | 2023-12-13 | 2024-02-01 |
@@ -186,7 +187,7 @@
 | [Umaga \- Spotify Singles](https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm), [Ramdiss](https://open.spotify.com/artist/6Tfk9MrJjusZ8mvmwHegR6) | [Umaga \- Spotify Singles](https://open.spotify.com/album/6d5kDZ9af7LFXe4UcAazj1) | 4:03 | 2023-11-01 | 2024-01-18 |
 | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/track/0edn3pvwzpiFkNd4QJI2SD) | [Midnasty](https://open.spotify.com/artist/5vInrcUTu2zWamDqZnnozJ), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/album/49HuZw2rqL5Uw3ZPiTxR4B) | 3:24 | 2023-09-20 | 2024-01-18 |
 | [Wag Na](https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Wag Na](https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57) | 4:26 | 2024-06-05 |  |
-| [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-31 |  |
+| [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-31 | 2024-10-03 |
 | [We Made It](https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [We Made It](https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H) | 3:58 | 2024-01-10 |  |
 | [WELCOME2DTQ](https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [WELCOME2DTQ](https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP) | 2:59 | 2023-09-20 | 2024-03-28 |
 | [Where Ya' From, Pt\. 3](https://open.spotify.com/track/5J6jcHB78I1lBK6CSN6ZkF) | [Tiny Montana](https://open.spotify.com/artist/6rGNCux8LjUx3OdwEPXx7E), [Lanzeta](https://open.spotify.com/artist/3KSsd7q2gnKFs74J4BEH6p), [Juanthugs](https://open.spotify.com/artist/7I2XVii6SUoqzzexBeJSv0), [Range](https://open.spotify.com/artist/5VzinqtVARXxCvxn0qjSdj), [Sinio](https://open.spotify.com/artist/6jMIvO5BgALaLasFxwNn3B), [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Where Ya' From, Pt\. 3](https://open.spotify.com/album/4TY4K3s9ow1Q6zEVsbfhvn) | 6:29 | 2024-04-17 | 2024-07-04 |

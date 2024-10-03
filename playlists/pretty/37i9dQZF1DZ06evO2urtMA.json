@@ -1,12 +1,12 @@
 {
-  "description": "This is Narrow Head. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2081,
+  "description": "This is Narrow Head. The essential tracks, all in one playlist.",
+  "num_followers": 2083,
   "original_name": "This Is Narrow Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAAA7qc9WkZozsutHjYA5Aqer",
+  "snapshot_id": "Zvs7gAAAAAAtuJ9PtLUs5FIkN4o+fJ0N",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 230935,
-      "name": "Moments of Clarity",
-      "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
+      "duration_ms": 210974,
+      "name": "The Real",
+      "url": "https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 210974,
-      "name": "The Real",
-      "url": "https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM"
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
     },
     {
       "added_at": null,

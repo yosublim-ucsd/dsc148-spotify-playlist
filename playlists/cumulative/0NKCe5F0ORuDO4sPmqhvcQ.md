@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-638 songs - 1 day 11 hr 52 min
+640 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [heart2](https://open.spotify.com/track/7wmK0PzL3OKD95k7EeEfof) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [heart2](https://open.spotify.com/album/1sooeixhvZQifV1d0cvlel) | 3:23 | 2022-01-21 | 2022-02-16 |
 | [Heartaches \- Covex Remix](https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [The Long Way Home \(Remixes\)](https://open.spotify.com/album/6lPQI2Yy6pllkfommUkbvq) | 3:08 | 2022-03-25 | 2024-03-23 |
 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 | 2024-04-26 | 2024-09-07 |
+| [Heaven Is Calling](https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Heaven Is Calling](https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4) | 3:28 | 2024-10-02 |  |
 | [HEAVEN'S GATES \(feat\. Izzy Camina\)](https://open.spotify.com/track/25lRu5PG4eZnDz9earNetB) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [HEAVEN'S GATES \(feat\. Izzy Camina\)](https://open.spotify.com/album/7FiXfxbi9OQw34Jwvl020i) | 3:08 | 2022-02-15 | 2022-03-10 |
 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 | 2022-09-02 | 2023-07-20 |
 | [HEAVENS DOOR](https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:44 | 2023-02-22 | 2024-03-23 |
@@ -354,6 +355,7 @@
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2021-10-22 | 2022-01-08 |
 | [Make It Somehow](https://open.spotify.com/track/40fXArbSGm9YqflinCTQ4p) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Make It Somehow](https://open.spotify.com/album/4mzct5WjZtrgHnqzv55jEn) | 2:48 | 2023-11-03 | 2024-03-23 |
 | [MAKE ME BELIEVE](https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MAKE ME BELIEVE](https://open.spotify.com/album/0LBFJdxLkwyZ9woZzh5M4W) | 3:55 | 2023-02-03 | 2023-07-20 |
+| [Make U Dance \(feat\. Coach Harrison & Sarah De Warren\)](https://open.spotify.com/track/0rN0ogLLaMz83dez9ZC9MS) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Make U Dance \(feat\. Coach Harrison & Sarah De Warren\)](https://open.spotify.com/album/5n1rbgmAsNv9UZb9RiZTCU) | 2:30 | 2024-10-02 |  |
 | [Make U Mine](https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Jolie](https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx) | 4:03 | 2022-10-14 | 2023-04-01 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2022-11-23 |
 | [Math](https://open.spotify.com/track/5YLrCPSE6KIHC3ZiN9OYui) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Math](https://open.spotify.com/album/5TAXcidpYckYTtQRD7LhFj) | 3:33 | 2022-03-30 | 2022-06-25 |

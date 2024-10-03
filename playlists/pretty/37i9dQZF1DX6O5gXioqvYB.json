@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Rondine",
-  "num_followers": 33664,
+  "num_followers": 33663,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "Occhi di Plastica",
+        "url": "https://open.spotify.com/album/2oY4t9L0KTJWN3qvj4Ltb2"
+      },
+      "artists": [
+        {
+          "name": "Vittorio Spinelli",
+          "url": "https://open.spotify.com/artist/3f7G7yE678nhPKRHgTZi1t"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Occhi di Plastica",
+      "url": "https://open.spotify.com/track/2xIcGjEqBTpygD0R5qjBw0"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "senza parole",
         "url": "https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 161785,
       "name": "senza parole",
       "url": "https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "Occhi di Plastica",
-        "url": "https://open.spotify.com/album/2oY4t9L0KTJWN3qvj4Ltb2"
-      },
-      "artists": [
-        {
-          "name": "Vittorio Spinelli",
-          "url": "https://open.spotify.com/artist/3f7G7yE678nhPKRHgTZi1t"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Occhi di Plastica",
-      "url": "https://open.spotify.com/track/2xIcGjEqBTpygD0R5qjBw0"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "Posto Nuovo",
+        "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
+      },
+      "artists": [
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "duration_ms": 343138,
+      "name": "Posto Nuovo",
+      "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "LACRIME E CEMENTO",
         "url": "https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Posto Nuovo",
-        "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
-      },
-      "artists": [
-        {
-          "name": "Casadilego",
-          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
-        }
-      ],
-      "duration_ms": 343138,
-      "name": "Posto Nuovo",
-      "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "ROCCASECCA",
         "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 157624,
       "name": "Penso Penso Penso",
       "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "Ragazza del Mare",
+        "url": "https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ"
+      },
+      "artists": [
+        {
+          "name": "Napoleone",
+          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+        }
+      ],
+      "duration_ms": 165143,
+      "name": "Ragazza del Mare",
+      "url": "https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
       },
       "artists": [
         {
-          "name": "r\u00f6a",
-          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -439,18 +455,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Mosche",
-        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
       },
       "artists": [
         {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+          "name": "r\u00f6a",
+          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
         }
       ],
-      "duration_ms": 155036,
-      "name": "Mosche",
-      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+      "duration_ms": 148000,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -471,6 +487,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "Maldini",
+        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+      },
+      "artists": [
+        {
+          "name": "Migliorini",
+          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+        }
+      ],
+      "duration_ms": 190578,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -487,18 +519,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Maldini",
-        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
       "artists": [
         {
-          "name": "Migliorini",
-          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
         }
       ],
-      "duration_ms": 190578,
-      "name": "Maldini",
-      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -539,18 +571,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Ragazza del Mare",
-        "url": "https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ"
+        "name": "ULTRAFRAGOLA",
+        "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
       },
       "artists": [
         {
-          "name": "Napoleone",
-          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+          "name": "Giovanni Ti Amo",
+          "url": "https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K"
         }
       ],
-      "duration_ms": 165143,
-      "name": "Ragazza del Mare",
-      "url": "https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM"
+      "duration_ms": 159586,
+      "name": "SUPERORGASMO",
+      "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -567,22 +599,6 @@
       "duration_ms": 159567,
       "name": "zagara",
       "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
-        "name": "ULTRAFRAGOLA",
-        "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Ti Amo",
-          "url": "https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "SUPERORGASMO",
-      "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Pasquale (guarda i cantieri)",
-        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
-      },
-      "artists": [
-        {
-          "name": "Primogenito",
-          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Pasquale (guarda i cantieri)",
-      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "tutte le tue onde",
         "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
       },
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
-        "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
       },
       "artists": [
         {
-          "name": "Amalfitano",
-          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
-        },
-        {
-          "name": "MILLE",
-          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
         }
       ],
-      "duration_ms": 246750,
-      "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
-      "url": "https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx"
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Musica Leggera",
-        "url": "https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m"
+        "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+        "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
       },
       "artists": [
         {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+          "name": "Amalfitano",
+          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
+        },
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
         }
       ],
-      "duration_ms": 169261,
-      "name": "Musica Leggera",
-      "url": "https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM"
+      "duration_ms": 246750,
+      "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+      "url": "https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
+        "name": "Musica Leggera",
+        "url": "https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m"
+      },
+      "artists": [
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        }
+      ],
+      "duration_ms": 169261,
+      "name": "Musica Leggera",
+      "url": "https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
         "name": "Ottovolanti",
         "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "Preda",
         "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 156666,
       "name": "Preda",
       "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "BRONCIO",
+        "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
+      },
+      "artists": [
+        {
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "BRONCIO",
+      "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
     },
     {
       "added_at": "2024-09-26 22:02:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "BRONCIO",
-        "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
-      },
-      "artists": [
-        {
-          "name": "Greta",
-          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "BRONCIO",
-      "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "SALSEDINE",
         "url": "https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-26 22:02:00",
       "album": {
-        "name": "Raccontarsi favole",
-        "url": "https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt"
-      },
-      "artists": [
-        {
-          "name": "Missey",
-          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Raccontarsi favole",
-      "url": "https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah"
-    },
-    {
-      "added_at": "2024-09-26 22:02:00",
-      "album": {
         "name": "GARAGE MARE",
         "url": "https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
+    },
+    {
+      "added_at": "2024-09-26 22:02:00",
+      "album": {
+        "name": "Raccontarsi favole",
+        "url": "https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt"
+      },
+      "artists": [
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Raccontarsi favole",
+      "url": "https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah"
     },
     {
       "added_at": "2024-09-26 22:02:00",

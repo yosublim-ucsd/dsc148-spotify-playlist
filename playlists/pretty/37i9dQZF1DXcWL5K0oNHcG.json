@@ -1,13 +1,117 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
-  "num_followers": 225273,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
+  "num_followers": 225438,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZupQQAAAAABAOs/Xue5CgdlNcl1ZOqkL",
+  "snapshot_id": "ZvzFQAAAAABwcR2bc45icw+vVKjlcsTj",
   "tracks": [
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "Egungun",
+        "url": "https://open.spotify.com/album/7J7YZVUDS8IHSYDqR1ZlQo"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Egungun",
+      "url": "https://open.spotify.com/track/1XgM9dS27HgCLf0Hh4rbPD"
+    },
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "Marina del Rey",
+        "url": "https://open.spotify.com/album/6826yU0TTl1XpferIzYPAB"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "duration_ms": 133065,
+      "name": "Marina del Rey",
+      "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
+    },
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "Finisterre",
+        "url": "https://open.spotify.com/album/41NYuudKtGa3sKOkgLppVh"
+      },
+      "artists": [
+        {
+          "name": "Lara Wong",
+          "url": "https://open.spotify.com/artist/2QqCyGDO7DYxAva9OJIdf2"
+        },
+        {
+          "name": "Melon Jimenez",
+          "url": "https://open.spotify.com/artist/3egmU9Nvsi72ljrtpSsVgx"
+        }
+      ],
+      "duration_ms": 241761,
+      "name": "Finisterre",
+      "url": "https://open.spotify.com/track/0EvxOBkk6RmKq9Gu2YHHgi"
+    },
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
+    },
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "Hottest September",
+        "url": "https://open.spotify.com/album/370psCY0fv8Iw1ZtZ1sZVr"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        },
+        {
+          "name": "Lukas Thoeni",
+          "url": "https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9"
+        }
+      ],
+      "duration_ms": 133558,
+      "name": "Hottest September",
+      "url": "https://open.spotify.com/track/3R0Kf4lFHJ9FBpAAEjjGep"
+    },
+    {
+      "added_at": "2024-10-02 04:00:00",
+      "album": {
+        "name": "More Purple Than Ever",
+        "url": "https://open.spotify.com/album/4vfrujJxu2c1N526aIUdIn"
+      },
+      "artists": [
+        {
+          "name": "Apifera",
+          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "More Purple Than Ever",
+      "url": "https://open.spotify.com/track/0J38E8bTJINcEzUQiTlbW2"
+    },
     {
       "added_at": "2024-09-18 04:00:00",
       "album": {
@@ -605,38 +709,6 @@
       "url": "https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79"
     },
     {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/6UT5hjlcmki1GQumy4MKB7"
-      },
-      "artists": [
-        {
-          "name": "TAMMIE",
-          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/06eqjfPposQZfedZhoNTdH"
-    },
-    {
-      "added_at": "2024-05-29 16:00:12",
-      "album": {
-        "name": "I'm Easy",
-        "url": "https://open.spotify.com/album/490ksNpxZmBENQXXb2obzt"
-      },
-      "artists": [
-        {
-          "name": "Connie Eliza",
-          "url": "https://open.spotify.com/artist/0vcm2TMtQKpgB2xxXAgid2"
-        }
-      ],
-      "duration_ms": 230069,
-      "name": "I'm Easy",
-      "url": "https://open.spotify.com/track/7c7qiEM6ZBrzR1fXlnC7o8"
-    },
-    {
       "added_at": "2024-06-26 13:03:24",
       "album": {
         "name": "Until I See You Again",
@@ -719,22 +791,6 @@
       "duration_ms": 222822,
       "name": "Amaya",
       "url": "https://open.spotify.com/track/3lNeJI3I4OXJCKpTBKjzRF"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "RETURN TO THE SPIRIT",
-        "url": "https://open.spotify.com/album/1e2Fedy6BxHeEnoTnXHehf"
-      },
-      "artists": [
-        {
-          "name": "SUN ATLAS",
-          "url": "https://open.spotify.com/artist/63PfWWtsAc2r1vOrthf63D"
-        }
-      ],
-      "duration_ms": 246505,
-      "name": "12TH DIMENSION CARAVAN",
-      "url": "https://open.spotify.com/track/0uKRZ3PkWqVvAJLa75KIXK"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -823,58 +879,6 @@
       "duration_ms": 237516,
       "name": "Baby Ngimanzi Wuthando",
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4MGw5oa5JaDxFaEoq3UNFI"
-      },
-      "artists": [
-        {
-          "name": "Salin",
-          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/1v7D15jgs5DJwVwFLqAxTa"
-    },
-    {
-      "added_at": "2024-05-15 04:00:00",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/4KXntcSQJGigvxSKNKRcR4"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 206973,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/4GX7xgJ6rfFLy8jo3lG8TI"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "FUNky Times",
-        "url": "https://open.spotify.com/album/0d45OchIMYFoiFv79GMDGF"
-      },
-      "artists": [
-        {
-          "name": "Hania Derej Quintet",
-          "url": "https://open.spotify.com/artist/4Vzko1vyJTE1freRkh8F6P"
-        },
-        {
-          "name": "Hania Derej",
-          "url": "https://open.spotify.com/artist/2IU2updV8nCbwezu453ame"
-        }
-      ],
-      "duration_ms": 348786,
-      "name": "FUNky Times",
-      "url": "https://open.spotify.com/track/7J5CbXTXO0pIdPza9Pytpe"
     },
     {
       "added_at": "2024-07-24 04:00:00",

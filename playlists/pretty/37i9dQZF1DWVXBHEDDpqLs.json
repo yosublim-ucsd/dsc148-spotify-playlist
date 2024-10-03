@@ -1,6 +1,6 @@
 {
   "description": "the best cuts from the underground, at the heart of club culture \ud83d\udc8e\ud83d\udc8e",
-  "num_followers": 39873,
+  "num_followers": 39915,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
@@ -327,13 +327,21 @@
     {
       "added_at": "2024-10-01 23:50:54",
       "album": {
-        "name": "La Boix Vol. 1",
+        "name": "La Boix, Vol. 1",
         "url": "https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex"
       },
       "artists": [
         {
           "name": "LA Boix",
           "url": "https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx"
+        },
+        {
+          "name": "Thee Mike B",
+          "url": "https://open.spotify.com/artist/49nsDhtufKEYcLkIYv5cln"
+        },
+        {
+          "name": "Salva",
+          "url": "https://open.spotify.com/artist/0JQaXh3HoqpI68C2pYUbNW"
         }
       ],
       "duration_ms": 267786,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Czeslo, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  yola, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Airpod",
+        "url": "https://open.spotify.com/album/4iI6OSxJ8RvrsO5w8cR8wz"
+      },
+      "artists": [
+        {
+          "name": "BABA SHRIMP GANG",
+          "url": "https://open.spotify.com/artist/7gElG6ZdG8Se1opnsGXxT5"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177749,
+      "name": "Airpod",
+      "url": "https://open.spotify.com/track/5ZQcFImWAMfwHosR909XLB"
+    },
+    {
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/0bmyMwT5OUbE12plIqS0U5"
       },
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 179461,
       "name": "Angst",
       "url": "https://open.spotify.com/track/44lEBcPY7DZsRchgQuZjca"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 169255,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/2C4R9w75EB2L0WtikmZhqz"
@@ -2382,6 +2400,24 @@
       "duration_ms": 130104,
       "name": "Bleib",
       "url": "https://open.spotify.com/track/4rkVwAB0x56ggtGOedzAIE"
+    },
+    {
+      "album": {
+        "name": "Bleiben",
+        "url": "https://open.spotify.com/album/1lZbK96eMCEDq0gWT77YaJ"
+      },
+      "artists": [
+        {
+          "name": "Finn Moriz",
+          "url": "https://open.spotify.com/artist/5zcTTmrqq1ul42CIpehU28"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Bleiben",
+      "url": "https://open.spotify.com/track/5sGwvJkRmXUKDye0SGNKot"
     },
     {
       "album": {
@@ -3888,6 +3924,24 @@
       "duration_ms": 268363,
       "name": "Cops And Robbers",
       "url": "https://open.spotify.com/track/5IvkKsO8piNCWP7MfCG0oO"
+    },
+    {
+      "album": {
+        "name": "Coquillage",
+        "url": "https://open.spotify.com/album/5FkSQSdbcN1UaCYachI0DZ"
+      },
+      "artists": [
+        {
+          "name": "Barrio Colette",
+          "url": "https://open.spotify.com/artist/4Arxq2SZGsRmcIw3bpfR1c"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179655,
+      "name": "Coquillage",
+      "url": "https://open.spotify.com/track/6Fxqi0YXrgNtQYGqfkoRMy"
     },
     {
       "album": {
@@ -5927,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "einseinsnull",
+        "url": "https://open.spotify.com/album/1jePvXPyUdgk8e2eda9bWY"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Vrancis",
+          "url": "https://open.spotify.com/artist/00Ss09wmZPODis2cTXBNSI"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "einseinsnull",
+      "url": "https://open.spotify.com/track/7gay9GtAm69tSMMHMMyeKL"
+    },
+    {
+      "album": {
         "name": "Eis",
         "url": "https://open.spotify.com/album/6G3JhXM9SJYvB1v22RfIJl"
       },
@@ -7166,7 +7242,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 200314,
       "name": "Frankenstein & Cinderella",
       "url": "https://open.spotify.com/track/7BzX987kOARQpMWbwAM2cU"
@@ -8644,6 +8720,24 @@
       "duration_ms": 197832,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/1J4QufSZU86M4YJkH2W2nG"
+    },
+    {
+      "album": {
+        "name": "Heaven is Magnetic",
+        "url": "https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx"
+      },
+      "artists": [
+        {
+          "name": "Ella Eliza",
+          "url": "https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170457,
+      "name": "Heaven is Magnetic",
+      "url": "https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6"
     },
     {
       "album": {
@@ -12606,7 +12700,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 205714,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/40uG5k5bWLzBRjUZIEI2ke"
@@ -14847,6 +14941,24 @@
     },
     {
       "album": {
+        "name": "PIECES, FALLING",
+        "url": "https://open.spotify.com/album/3TjnDgEiHwHLAYjXHNY9gz"
+      },
+      "artists": [
+        {
+          "name": "Bi Disc",
+          "url": "https://open.spotify.com/artist/74bk0cHFNmW7ESiBY2JdBF"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252859,
+      "name": "PIECES, FALLING",
+      "url": "https://open.spotify.com/track/06NP4MuAXqkSnk7jhIBgaN"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/3AlEafC9LBg6pmptmNTqDZ"
       },
@@ -16752,7 +16864,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 163054,
       "name": "Scrabble",
       "url": "https://open.spotify.com/track/1f6ikN1EWq2I6mJa0C6Spp"
@@ -17888,7 +18000,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 189418,
       "name": "Spieluhr",
       "url": "https://open.spotify.com/track/0kfw1seCclNc59FnqjM98N"
@@ -17982,6 +18094,24 @@
       "duration_ms": 181666,
       "name": "STANDING STILL",
       "url": "https://open.spotify.com/track/55kLVLH2Vzxrx8y5sB2eqA"
+    },
+    {
+      "album": {
+        "name": "STARK",
+        "url": "https://open.spotify.com/album/1heKcFfm74VmRKPyFwKH7Y"
+      },
+      "artists": [
+        {
+          "name": "JO HALBIG",
+          "url": "https://open.spotify.com/artist/0OGjufEmXBGOFG9LAlc5mt"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131683,
+      "name": "STARK",
+      "url": "https://open.spotify.com/track/0jQN7bOGCNYzb2WXBDF0Pk"
     },
     {
       "album": {
@@ -20668,7 +20798,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 153440,
       "name": "viertel nach vier",
       "url": "https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh"

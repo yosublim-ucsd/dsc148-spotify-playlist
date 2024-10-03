@@ -1,12 +1,12 @@
 {
-  "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 340210,
+  "description": "This is The Police. Tutti i brani in un'unica playlist.",
+  "num_followers": 340273,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAADrtKz4GUvvX40Up4X9rpYi",
+  "snapshot_id": "Zvs7gAAAAADoQbwXG25BRjJiM7vQvfSk",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Goodbye Tomorrow",
-      "url": "https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U"
+      "duration_ms": 119920,
+      "name": "Loch",
+      "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 119920,
-      "name": "Loch",
-      "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
+      "duration_ms": 192173,
+      "name": "Goodbye Tomorrow",
+      "url": "https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Love Next Door\(엄마친구아들\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: No Gain No Love\(손해 보기 싫어서\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-926 songs - 2 day 8 hr 14 min
+930 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Good Person](https://open.spotify.com/track/2rFruUru0ZA5QSJ6DJoDMm) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2QeUHkGZ3X5rSw3HBVBE4C) | 3:34 | 2024-01-23 | 2024-08-03 |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-09 | 2022-06-10 |
 | [Goodbye the days I loved](https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Bravo, My Life OST Part.13](https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3) | 3:46 | 2022-06-09 | 2022-08-19 |
+| [GRADATION IN LIGHT](https://open.spotify.com/track/7eDeI7m5QHqAbUlJmipIw7) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Gyeongseong Creature S2 OST](https://open.spotify.com/album/0k31j93EjNwSmxgMwNXoQL) | 3:43 | 2024-10-02 |  |
 | [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-01-26 | 2023-06-03 |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2021-12-19 | 2022-01-15 |
 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 | 2023-01-03 | 2023-04-19 |
@@ -372,6 +373,7 @@
 | [In Color](https://open.spotify.com/track/6c2z1AwD4exKBy69bvv5Pk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Jirisan \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2zlu6Jn5ux4CN6SrzXsebM) | 3:49 | 2021-12-19 | 2022-03-04 |
 | [In My Heart](https://open.spotify.com/track/2URys8E6imQmRIfAlES1p4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0hRiiWogBg37JG9IGmy0QU) | 3:51 | 2023-02-24 | 2023-07-18 |
 | [In the end we break up again](https://open.spotify.com/track/7wIXKUKydFAekfmkY4dr9y) | [RAN](https://open.spotify.com/artist/3C7ohflntJsa9KFY5GBim1) | [Bravo, My Life OST Part.10](https://open.spotify.com/album/6McBvDgGynQuviMva7QoU4) | 3:49 | 2022-06-09 | 2022-08-03 |
+| [In the Glow of Us](https://open.spotify.com/track/1wT5uoyQwmO7Kq917G6cs6) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Dear Hyeri, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4XXl2XpBEU1jU5etOsPLVO) | 3:09 | 2024-10-02 |  |
 | [In The Head](https://open.spotify.com/track/7n8CUH5iMozYbk1v9NYH2C) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [In The Head](https://open.spotify.com/album/2RYq64m37uOKmmeEL5uF3g) | 6:08 | 2023-11-23 | 2024-06-06 |
 | [In Those Days](https://open.spotify.com/track/6DEN4QFoRFqhS8jTYz3hfF) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/6i5T66U2aGVlOzauitF6MB) | 4:03 | 2023-02-24 | 2023-07-18 |
 | [In your days](https://open.spotify.com/track/5E24Cqg0gcD2zrgxxgh0sn) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3SEHTx0lgdfmbswBht0tCS) | 3:58 | 2022-03-22 | 2022-06-14 |
@@ -491,6 +493,7 @@
 | [Luminous](https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Poong, the Joseon Psychiatrist OST Part.4](https://open.spotify.com/album/0K7sbRFoVG6tH1f52CfqMl) | 3:19 | 2022-08-25 | 2023-01-04 |
 | [Maestra](https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0) | [조성우](https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD) | [Maestra \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv) | 2:58 | 2023-12-10 | 2024-06-26 |
 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-01 | 2023-01-14 |
+| [Mail Never Sent...](https://open.spotify.com/track/1PdFkWgUBtg5wcxGz0Muqw) | [CHOI SIWON](https://open.spotify.com/artist/2rg9fZFK6wnlbRKUv7zkht) | [DNA Lover \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/5Qk1PMRLM719e4WUnDATWX) | 3:23 | 2024-10-02 |  |
 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-09 | 2022-08-13 |
 | [May you be happy \(The Moon during the Day X HWANG CHI YEUL\)](https://open.spotify.com/track/4R8KPJ1rnadJRyEQlOlgvf) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [May you be happy \(The Moon during the Day X HWANG CHI YEUL\)](https://open.spotify.com/album/7dhVdzlK1h60pEdRc4aPIb) | 3:29 | 2021-12-19 | 2022-03-04 |
 | [Maybe](https://open.spotify.com/track/3Jk7aEL31GI8kGmLTZooXf) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Crazy Love \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/1afMSqMmB1hAdee6sNzKOi) | 3:07 | 2022-04-12 | 2022-06-19 |
@@ -584,6 +587,7 @@
 | [Once, More Than Anyone](https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.23](https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm) | 3:26 | 2022-12-19 | 2023-02-25 |
 | [One & Only](https://open.spotify.com/track/0OscC9CHC43zGPjgBnPH0i) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Tracer \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3TKxlepvqeI5uEgePDUIxI) | 3:34 | 2022-02-03 | 2022-05-04 |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-06-02 | 2023-11-03 |
+| [Only For You](https://open.spotify.com/track/7h2iFoe2WNPIPJQDQmOur5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [No Gain No Love, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/31OFrN0a9IRvMomKL3oan0) | 3:29 | 2024-10-02 |  |
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-11-17 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-11-18 |
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-02 | 2022-11-17 |

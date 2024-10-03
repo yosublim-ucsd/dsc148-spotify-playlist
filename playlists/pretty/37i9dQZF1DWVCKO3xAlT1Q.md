@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > Congratulations to the winner of Eurovision Song Contest 2024 \- Nemo 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,376 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,228 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 25 | [Ulveham](https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB) | 3:02 |
 | 26 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
 | 27 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 |
-| 28 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
+| 28 | [BEFORE THE PARTY'S OVER](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [BEFORE THE PARTY'S OVER](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
 | 29 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 |
 | 30 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 |
 | 31 | [Loop](https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd) | [Sarah Bonnici](https://open.spotify.com/artist/6qOSxtFkI6TBjXcWygwvzk) | [Loop](https://open.spotify.com/album/5hN2xd6oN8k9yLPFfBTje0) | 2:59 |

@@ -1389,6 +1389,28 @@
     },
     {
       "album": {
+        "name": "Dragon Age: The Veilguard Main Theme [From \"Dragon Age: The Veilguard (Original Soundtrack)\"]",
+        "url": "https://open.spotify.com/album/5MEWANQ4igrisbN7mDFYho"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376440,
+      "name": "Dragon Age: The Veilguard Main Theme [From \"Dragon Age: The Veilguard (Original Soundtrack)\"]",
+      "url": "https://open.spotify.com/track/7GdtGX6625BvjsgnUMiNje"
+    },
+    {
+      "album": {
         "name": "Slumberland (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F"
       },

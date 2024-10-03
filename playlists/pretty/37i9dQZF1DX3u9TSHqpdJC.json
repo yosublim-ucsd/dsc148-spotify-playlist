@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: AD\u00c9LA.  Artwork by Paola Saliby",
-  "num_followers": 217575,
+  "description": "The best new pop music by independent artists and labels. Cover: Beth McKenzie.  Artwork by Paola Saliby",
+  "num_followers": 217640,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvQJ8QAAAABk3UTxrpvm5QGqO9IBerq1",
+  "snapshot_id": "Zv1nAQAAAAAI0O0U2EK5uyNizZS0bEwv",
   "tracks": [
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "She's Finally Lost It!",
+        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "She's Finally Lost It!",
+      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "double dog",
+        "url": "https://open.spotify.com/album/4dutYaQIOV1REBmFxbdH3r"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "double dog",
+      "url": "https://open.spotify.com/track/3vlAqZvq7IYKOoOKwHGAxd"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "Star Shaped Baby",
+        "url": "https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 169423,
+      "name": "Star Shaped Baby",
+      "url": "https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ"
+    },
     {
       "added_at": "2024-09-25 13:02:41",
       "album": {
@@ -25,6 +73,118 @@
       "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
     },
     {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "No Contact",
+        "url": "https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "No Contact",
+      "url": "https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "Doing What I Can",
+        "url": "https://open.spotify.com/album/1bCCZaySBadsiguNF1XAf6"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "duration_ms": 179543,
+      "name": "Doing What I Can",
+      "url": "https://open.spotify.com/track/0ixWgV4YpUuJbwREWsJmK7"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "Koolaid",
+        "url": "https://open.spotify.com/album/7GAQG0k3mxD11kYjZ3qJG3"
+      },
+      "artists": [
+        {
+          "name": "THEM",
+          "url": "https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin"
+        }
+      ],
+      "duration_ms": 146386,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/429mlAGIRvedzOGkIa9wm5"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "Coulda Shoulda Woulda Enthusiast",
+        "url": "https://open.spotify.com/album/4rv2yGDI9EGfJJTjl0B6SL"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "Coulda Shoulda Woulda Enthusiast",
+      "url": "https://open.spotify.com/track/50wveEAlCseE6HIoWUc4y6"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "i like that",
+        "url": "https://open.spotify.com/album/23a2HXc2IcpPrPtYNQCJz3"
+      },
+      "artists": [
+        {
+          "name": "country girl",
+          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
+        }
+      ],
+      "duration_ms": 126272,
+      "name": "i like that",
+      "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
+    },
+    {
+      "added_at": "2024-10-02 15:30:09",
+      "album": {
+        "name": "There's a Reason You're My Ex",
+        "url": "https://open.spotify.com/album/4nCZ9DRUSG5pTJpzgEaa4z"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "duration_ms": 158384,
+      "name": "There's a Reason You're My Ex",
+      "url": "https://open.spotify.com/track/5AmO9Yq0jfD9wXPZNhJIM4"
+    },
+    {
       "added_at": "2024-09-25 13:02:41",
       "album": {
         "name": "Mercy Me",
@@ -39,22 +199,6 @@
       "duration_ms": 199379,
       "name": "Mercy Me",
       "url": "https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK"
-    },
-    {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "double dog",
-        "url": "https://open.spotify.com/album/4dutYaQIOV1REBmFxbdH3r"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "double dog",
-      "url": "https://open.spotify.com/track/3vlAqZvq7IYKOoOKwHGAxd"
     },
     {
       "added_at": "2024-09-25 13:02:41",
@@ -135,22 +279,6 @@
       "duration_ms": 183117,
       "name": "Pacifist",
       "url": "https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R"
-    },
-    {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "She's Finally Lost It!",
-        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
-      },
-      "artists": [
-        {
-          "name": "Beth McKenzie",
-          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "She's Finally Lost It!",
-      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
     },
     {
       "added_at": "2024-09-25 13:02:41",
@@ -263,22 +391,6 @@
       "duration_ms": 171528,
       "name": "in another life",
       "url": "https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-09-11 04:00:00",
@@ -829,22 +941,6 @@
       "url": "https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw"
     },
     {
-      "added_at": "2024-08-28 04:00:00",
-      "album": {
-        "name": "Gone To Bed",
-        "url": "https://open.spotify.com/album/2eqDmXD4XvnDICpUYEpDl3"
-      },
-      "artists": [
-        {
-          "name": "colby!",
-          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "Gone To Bed",
-      "url": "https://open.spotify.com/track/7zf9QqHSv65RDpcU5gG678"
-    },
-    {
       "added_at": "2024-08-07 04:00:00",
       "album": {
         "name": "Love Always Knocks Me Out",
@@ -995,22 +1091,6 @@
     {
       "added_at": "2024-08-21 04:21:49",
       "album": {
-        "name": "Birthdays & Funerals",
-        "url": "https://open.spotify.com/album/7LYUIkMOvkITVj0qX1Jm9t"
-      },
-      "artists": [
-        {
-          "name": "Brosie",
-          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
-        }
-      ],
-      "duration_ms": 158962,
-      "name": "Birthdays & Funerals",
-      "url": "https://open.spotify.com/track/5jMdGvVy61d1HPteOjVspJ"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
         "name": "SINGLE*",
         "url": "https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm"
       },
@@ -1119,22 +1199,6 @@
       "duration_ms": 195830,
       "name": "uprobablyforgotmebynow",
       "url": "https://open.spotify.com/track/32GpNdcpBoCvQ1RfH3bB91"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
-        "name": "HELLO IT'S THE NEW ME",
-        "url": "https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Cassette",
-          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
-        }
-      ],
-      "duration_ms": 154187,
-      "name": "HELLO IT'S THE NEW ME",
-      "url": "https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -1473,22 +1537,6 @@
       "url": "https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "rumination as ritual",
-        "url": "https://open.spotify.com/album/2Ym6McICLDy4AXP2bSxRSn"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 164626,
-      "name": "CRUSH!",
-      "url": "https://open.spotify.com/track/0R2rXgOQsLsC1wSBYdKn6l"
-    },
-    {
       "added_at": "2024-07-24 04:00:00",
       "album": {
         "name": "Tarot Card",
@@ -1507,22 +1555,6 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Fun!",
-        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
-      },
-      "artists": [
-        {
-          "name": "Gracie Moller",
-          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "Fun!",
-      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me"
       },
@@ -1535,38 +1567,6 @@
       "duration_ms": 180003,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj"
-    },
-    {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "I`m The One",
-        "url": "https://open.spotify.com/album/428XMRd5wpFMR1nA3xwgTy"
-      },
-      "artists": [
-        {
-          "name": "Airyen Vay",
-          "url": "https://open.spotify.com/artist/3pJqf3YQcdVzPuEP1wTazB"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "I`m The One",
-      "url": "https://open.spotify.com/track/6sutXgl64bKZW3Rba7IfNE"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Found Somebody",
-        "url": "https://open.spotify.com/album/1U0dtI74WIxuWZRLesfTvQ"
-      },
-      "artists": [
-        {
-          "name": "Birksie",
-          "url": "https://open.spotify.com/artist/7DUFabyxhDm3mvjlWVMbg6"
-        }
-      ],
-      "duration_ms": 181989,
-      "name": "Found Somebody",
-      "url": "https://open.spotify.com/track/7nCO9CGZ0Pf0DaKhg4wKNS"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1583,22 +1583,6 @@
       "duration_ms": 211161,
       "name": "A Hollywood Sign",
       "url": "https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Hollywood Star",
-        "url": "https://open.spotify.com/album/1pHNuofxs4aILpQ47CCk2k"
-      },
-      "artists": [
-        {
-          "name": "Jolina Louise",
-          "url": "https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP"
-        }
-      ],
-      "duration_ms": 159788,
-      "name": "Hollywood Star",
-      "url": "https://open.spotify.com/track/4AjyC7O7Bgu5v8Php1LLQp"
     },
     {
       "added_at": "2024-07-10 04:00:00",

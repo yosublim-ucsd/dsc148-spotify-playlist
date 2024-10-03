@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Green Velvet at Dumsheds
+> The biggest house bangers popping off in the UK, let's go! Green Velvet at Drumsheds
 
 900 songs - 2 day 3 hr 52 min
 

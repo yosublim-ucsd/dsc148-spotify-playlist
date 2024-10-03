@@ -4,7 +4,7 @@
 
 > 
 
-802 songs - 2 day 14 hr 59 min
+803 songs - 2 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Lavoura](https://open.spotify.com/track/16UXSqeaeHGhXsc0ZvZ6q6) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2) | [Germannu](https://open.spotify.com/album/4qArY65tK5v8fnVzvLRraw) | 3:33 | 2021-05-05 |  |
 | [Law Konty](https://open.spotify.com/track/5gFJ2ambix570MIyLIy6Bm) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Shara](https://open.spotify.com/album/1xbEYJxzLJVsncqolilQ2o) | 5:04 | 2020-11-18 |  |
 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 | 2022-01-14 |  |
+| [Le procès](https://open.spotify.com/track/02Q9pn0Hr0MZ1JkjmTMnh8) | [Black So Man](https://open.spotify.com/artist/13rYUtADItYfQoy1XN63jB) | [Best of](https://open.spotify.com/album/6V2EVbCqjmLu1kGf93b1DB) | 5:06 | 2024-10-02 |  |
 | [Le soleil dans le monde](https://open.spotify.com/track/4Ve8G6KOhjDwi1fSOOdYds) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 4:02 | 2021-03-10 |  |
 | [Le troublant témoignage de Paul Martin](https://open.spotify.com/track/6CnsIuha7pEgfHThB89i0S) | [Paul Martin](https://open.spotify.com/artist/5xbMJDVjKr949s4UOH4RqF), [Jean\-Pierre Castaldi](https://open.spotify.com/artist/5uMGUHtct31OqLKl3s6B7z) | [Le troublant témoignage](https://open.spotify.com/album/3mIYhTmCeDptOCh0liwRhP) | 4:31 | 2022-03-07 |  |
 | [Let's Dance Raw](https://open.spotify.com/track/1uSO1bB5sJdu3x4eefKDpb) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Let's Dance Raw](https://open.spotify.com/album/7gcCu7XFJYx47Lpor9Lxzc) | 5:40 | 2019-11-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Dream Note & Shreya Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,804 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,811 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 9 | [Jogiya](https://open.spotify.com/track/2vr8kfUuubwbSDU6Tyl8Xf) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Jogiya](https://open.spotify.com/album/0c6nd7YDSB8iiJWf6MZxMd) | 3:09 |
 | 10 | [Khoyi Si](https://open.spotify.com/track/4mhh6ImzhoEAnFEjSLwar6) | [Remee](https://open.spotify.com/artist/5tjyFvhnukNkJDBrS4Jahe), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Khoyi Si](https://open.spotify.com/album/0rsv08pM8x2yJTKJDbrb16) | 2:23 |
 | 11 | [Kaha Mera](https://open.spotify.com/track/5Gaem0vsKpfOGKSr6ytTTC) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c), [The Dirty\-Jays](https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft) | [Kaha Mera](https://open.spotify.com/album/2Ypsn4ZvmcydxfWLMfR4sI) | 2:45 |
-| 12 | [Dastaan](https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4zE29dptvOz8XMFIlMgC6t), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Dastaan](https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx) | 3:06 |
+| 12 | [Dastaan](https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4vqHtxsxPXsEQEwkE7QzeC), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Dastaan](https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx) | 3:06 |
 | 13 | [Dheere](https://open.spotify.com/track/3LQTxhCQUNGhlpUpXYmgwE) | [Shubham Roy](https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io), [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Dheere](https://open.spotify.com/album/6K8zVGUcqMD8lzckysCTms) | 4:04 |
 | 14 | [Saiyan](https://open.spotify.com/track/3XTHsBseNmEUVVHETYyWY8) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Saiyan](https://open.spotify.com/album/3arOJlCtc0IVX4opOV7Fu1) | 3:18 |
 | 15 | [ahar atbooD](https://open.spotify.com/track/47p9K7Cj7Dke2luwJpKXTM) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [ahar atbooD](https://open.spotify.com/album/10ULrht24zAcLg7mlfFOJE) | 3:54 |

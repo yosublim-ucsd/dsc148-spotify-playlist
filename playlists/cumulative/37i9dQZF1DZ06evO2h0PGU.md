@@ -2,7 +2,7 @@
 
 ### [This Is Yeah Yeah Yeahs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h0PGU)
 
-> This Is Yeah Yeah Yeahs\. Todas as faixas essenciais numa única playlist.
+> This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
 78 songs - 4 hr 47 min
 

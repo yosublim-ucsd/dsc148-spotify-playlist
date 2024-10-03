@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,009 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,050 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 13 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 |
 | 14 | [Kambathu Ponnu](https://open.spotify.com/track/7s8UULMrFE2iq5dvHwzrNr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kambathu Ponnu](https://open.spotify.com/album/5eFsjGRF6UYWITNvDoc2xb) | 3:35 |
 | 15 | [Srivalli \(From "Pushpa \- The Rise"\)\(Tamil\)](https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Srivalli \(From "Pushpa \- The Rise"\)\(Tamil\)](https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw) | 3:41 |
-| 16 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 |
+| 16 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 |
 | 17 | [Stylish Thamizhachi](https://open.spotify.com/track/3SwCB7tN5NxOrXURK1cx2A) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Rubba Bend.Psycho Unit](https://open.spotify.com/artist/34De0LooTWBuWOFc5DGpkB) | [Arrambam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1F2H9ceSOWf74o5bhs2hCw) | 4:24 |
 | 18 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
 | 19 | [Verenna \(Ivan Yaro\)](https://open.spotify.com/track/1XTEmKvJNskIc72sfS4zNA) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Minnalae](https://open.spotify.com/album/5D43FdsC4l29brx9n6cjBn) | 5:24 |

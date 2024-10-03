@@ -4,7 +4,7 @@
 
 > Real nasty house 😈😈 featuring NITTI
 
-871 songs - 1 day 20 hr 52 min
+872 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Dancing](https://open.spotify.com/track/60a6JZEXhjHGXrCgaejEhs) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Wildlife](https://open.spotify.com/album/1GRBbMdSctADD6Z0BukCPA) | 3:04 | 2024-04-05 | 2024-04-27 |
 | [Dancing With My Boyz](https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Dancing With My Boyz](https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig) | 2:24 | 2024-04-19 | 2024-07-24 |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
+| [Danny Phantom](https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Danny Phantom](https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU) | 3:20 | 2024-10-02 |  |
 | [Dare \(Gimme 5\)](https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [Dare \(Gimme 5\)](https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw) | 2:48 | 2024-02-02 | 2024-09-14 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 | 2023-09-30 |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2021-10-29 | 2022-07-30 |
@@ -430,7 +431,7 @@
 | [Juice](https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Juice](https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP) | 2:36 | 2023-12-15 | 2024-08-17 |
 | [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-02-24 |
 | [Just Bass](https://open.spotify.com/track/55rnLa7szlgdVtnUXtdE3O) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Just Bass](https://open.spotify.com/album/1fckkva2X9IwrldsPfCt4w) | 2:35 | 2021-10-29 | 2022-05-28 |
-| [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-01-26 |  |
+| [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-01-26 | 2024-10-03 |
 | [Kick Back](https://open.spotify.com/track/4UbHtOlsHWyFn60uCNM825) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Kick Back](https://open.spotify.com/album/1XoH6YumavGj8NIFaiqJET) | 2:17 | 2024-09-06 |  |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 | 2023-11-01 |
 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-04-26 | 2024-10-01 |

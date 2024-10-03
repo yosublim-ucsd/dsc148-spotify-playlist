@@ -2,9 +2,9 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This is JJ Hairston\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-146 songs - 16 hr 14 min
+147 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Agnus Dei \- Live](https://open.spotify.com/track/17IqtGPC2rIwBl65FJh8zc) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 3:29 | 2024-01-28 |  |
 | [Agreed \- Live](https://open.spotify.com/track/7xHLs0Nv2xfKMoiF5kcgX4) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Minon Sarten](https://open.spotify.com/artist/1T2g4e6hcGf6bKR5WUe771) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 7:08 | 2024-04-06 | 2024-04-19 |
 | [All Things Well](https://open.spotify.com/track/0MBjh1IcyvFnW6yM6eqrTw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 7:03 | 2023-07-30 | 2023-08-07 |
-| [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 | 2024-02-10 |  |
+| [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 | 2024-02-10 | 2024-10-03 |
 | [All You've Done \(feat\. Cristabel Clack\)](https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 7:01 | 2023-04-02 |  |
 | [Awe Of You](https://open.spotify.com/track/3UE3PKuOjDVvlPDpTS6zL0) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:42 | 2023-04-02 | 2023-11-11 |
 | [Awe Of You](https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 6:42 | 2024-02-06 |  |
@@ -26,6 +26,7 @@
 | [Bless Me \(Radio Edit\)](https://open.spotify.com/track/4nXvYn84uDDWEKbxl9LUr5) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Bless Me \- Single](https://open.spotify.com/album/6qPJq5MeSXYBn2Qbzv3Pwq) | 4:42 | 2023-04-02 | 2024-01-08 |
 | [Blood Still Works](https://open.spotify.com/track/2l7LrQJOGMCckAWrB7R9BW) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 5:40 | 2023-07-21 | 2024-01-08 |
 | [Blood Still Works](https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1) | 5:40 | 2024-01-07 |  |
+| [Close To You \(feat\. Minon Sarten\)](https://open.spotify.com/track/0hO1Ohhg6TdMGtKRsvTsgn) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Minon Sarten](https://open.spotify.com/artist/1T2g4e6hcGf6bKR5WUe771) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:00 | 2024-10-03 |  |
 | [Deliver](https://open.spotify.com/track/2CXdxm5hSdb8zjEZpJ9E6L) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1) | 2:39 | 2024-01-07 |  |
 | [Deliver](https://open.spotify.com/track/60N5ftFz1BIGuiPIzd6HEi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 2:39 | 2023-04-02 | 2024-01-08 |
 | [Don't Take Your Spirit from Me \(feat\. J.J Hairston\)](https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 19:43 | 2023-04-02 | 2024-01-09 |

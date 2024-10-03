@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 家入レオ
 
-2,670 songs - 7 day 3 hr 21 min
+2,671 songs - 7 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1665,7 +1665,7 @@
 | [とけてゆく](https://open.spotify.com/track/6MUgmXLHN3ISrKjPvEdKR5) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [とけてゆく](https://open.spotify.com/album/3jrkSlRHt1KMwsuY60NK31) | 3:31 | 2023-08-08 | 2023-08-16 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
 | [どうせなら](https://open.spotify.com/track/3DR0n6s6j44UpU4HxmZKu5) | [三品瑠香](https://open.spotify.com/artist/2g0GsRYLm3PyW8QWLSqwZn) | [どうせなら](https://open.spotify.com/album/1IynaW4ycIqWiKs9u5IGId) | 2:46 | 2023-03-16 | 2023-03-22 |
-| [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-23 |  |
+| [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-23 | 2024-10-03 |
 | [どうでもいい話がしたい \- Acoustic Version](https://open.spotify.com/track/3UiLsCu8AbAeQJ3nFrNOhY) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい \(Acoustic Version\)](https://open.spotify.com/album/7ln4sfgOmXBlIiZPG1GFsx) | 3:37 | 2024-01-16 | 2024-01-18 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 | 2023-04-26 |
 | [どろり](https://open.spotify.com/track/7aKsAGXjb5c4D1awswSqLz) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [どろり](https://open.spotify.com/album/5gdxkTGeEEdWUYBLTqOK5g) | 3:40 | 2022-06-30 | 2022-07-28 |
@@ -1978,6 +1978,7 @@
 | [ミナミノシマ\(架空\)](https://open.spotify.com/track/7f5PBGyrpm9Ud75Hdpn8qg) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [あおい12 さい](https://open.spotify.com/artist/45NFBA81HM95r4kloukQOZ) | [ミナミノシマ\(架空\)](https://open.spotify.com/album/7eCpcPVSUXuWESh50o306d) | 3:22 | 2022-08-30 | 2022-09-01 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-05-31 | 2024-10-02 |
 | [ミルキー](https://open.spotify.com/track/3dYaC91CRPx33JA8SfVGE7) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [ミルキー](https://open.spotify.com/album/6mtdzxWPju7JZ91ntMwflv) | 2:44 | 2024-07-25 | 2024-07-31 |
+| [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 | 2024-10-01 |  |
 | [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 | 2024-02-22 | 2024-07-17 |
 | [メモリーちゃん](https://open.spotify.com/track/2b8r3wa4OQLaPfExue0BMz) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [メモリーちゃん](https://open.spotify.com/album/7hWey2FkbnocGUpGrT8AcE) | 4:05 | 2023-09-05 | 2023-09-13 |
 | [メモリーグラス](https://open.spotify.com/track/6ENOFRzm3VEewevxIAyY2o) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [メモリーグラス](https://open.spotify.com/album/45m7WnPR5qVjAxpCsm6BS0) | 3:58 | 2024-03-26 | 2024-04-03 |

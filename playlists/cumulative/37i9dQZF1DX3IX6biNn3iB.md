@@ -2,7 +2,7 @@
 
 ### [Our Voice](https://open.spotify.com/playlist/37i9dQZF1DX3IX6biNn3iB)
 
-> Voices that are elevating nuestra cultura\. Estevie en portada.
+> Voices that are elevating nuestra cultura\. Xiuhtezcatl en portada.
 
 51 songs - 2 hr 38 min
 

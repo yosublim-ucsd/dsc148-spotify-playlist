@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Bunca Y\u0131l (Dedub Sessions)",
+        "url": "https://open.spotify.com/album/6oEMdYmN0PQXVlr058Jdp5"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "Can Kazaz",
+          "url": "https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278082,
+      "name": "Bunca Y\u0131l - Dedub Sessions",
+      "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
+    },
+    {
+      "album": {
         "name": "Cennet",
         "url": "https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm"
       },
@@ -580,7 +602,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 170613,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
@@ -1390,6 +1412,28 @@
       "duration_ms": 203709,
       "name": "ZAR ZOR",
       "url": "https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5"
+    },
+    {
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130974,
+      "name": "\u00c7\u00d6ZEMEZLER",
+      "url": "https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf"
     },
     {
       "album": {

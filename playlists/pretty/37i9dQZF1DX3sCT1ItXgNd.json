@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Dani Fern\u00e1ndez",
-  "num_followers": 965149,
+  "num_followers": 965133,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
+        "name": "Los Domingos",
+        "url": "https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Los Domingos",
+      "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2024-09-30 17:05:13",
+      "album": {
         "name": "Like I Can (feat. Aitana)",
         "url": "https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf"
       },
@@ -303,18 +319,18 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
-        "name": "Los Domingos",
-        "url": "https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ"
+        "name": "Que Me Lleve el Aire",
+        "url": "https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Los Domingos",
-      "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+      "duration_ms": 170172,
+      "name": "Que Me Lleve el Aire",
+      "url": "https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -331,22 +347,6 @@
       "duration_ms": 168320,
       "name": "4TO 23",
       "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
-    },
-    {
-      "added_at": "2024-09-30 17:05:13",
-      "album": {
-        "name": "Que Me Lleve el Aire",
-        "url": "https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 170172,
-      "name": "Que Me Lleve el Aire",
-      "url": "https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 223690,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B"
+    },
+    {
+      "added_at": "2024-09-30 17:05:13",
+      "album": {
         "name": "Morenita del sur",
         "url": "https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 224771,
       "name": "Morenita del sur",
       "url": "https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv"
-    },
-    {
-      "added_at": "2024-09-30 17:05:13",
-      "album": {
-        "name": "Lo he intentado",
-        "url": "https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 187503,
-      "name": "Lo he intentado",
-      "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
+        "name": "Lo he intentado",
+        "url": "https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 187503,
+      "name": "Lo he intentado",
+      "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
+    },
+    {
+      "added_at": "2024-09-30 17:05:13",
+      "album": {
         "name": "Puede K Nos Liemos",
         "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
       },
@@ -747,26 +763,6 @@
       "duration_ms": 156103,
       "name": "Puede K Nos Liemos",
       "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
-    },
-    {
-      "added_at": "2024-09-30 17:05:13",
-      "album": {
-        "name": "Mi + 1",
-        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        },
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Mi + 1",
-      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
     },
     {
       "added_at": "2024-09-30 17:05:13",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-09-30 17:05:13",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE"
+        "name": "Mi + 1",
+        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
       },
       "artists": [
         {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
         }
       ],
-      "duration_ms": 223690,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B"
+      "duration_ms": 166400,
+      "name": "Mi + 1",
+      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
     },
     {
       "added_at": "2024-09-30 17:05:13",

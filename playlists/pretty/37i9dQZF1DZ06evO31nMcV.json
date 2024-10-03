@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 21904,
+  "num_followers": 21919,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAAAySiqeOXWeSVQYaTDEWZaq",
+  "snapshot_id": "Zvs7gAAAAAC/2txaqWnOwdJHR0olp+uK",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+      "duration_ms": 190308,
+      "name": "Shine - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 190308,
-      "name": "Shine - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+      "duration_ms": 268613,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 232557,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 189717,
       "name": "Hope, Ascending - Solo Piano Version",
       "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 232557,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enigma Variations: Nimrod",
-        "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 96586,
-      "name": "Enigma Variations: Nimrod",
-      "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
+      "duration_ms": 49124,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
       "duration_ms": 188697,
       "name": "Colours - Solo Piano Version",
       "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enigma Variations: Nimrod",
+        "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 96586,
+      "name": "Enigma Variations: Nimrod",
+      "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
     },
     {
       "added_at": null,
@@ -856,41 +876,13 @@
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 49124,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soar (feat. Fally Ipupa & Kevin Olusola)",
-        "url": "https://open.spotify.com/album/6flHtKs6alayE4mN6Vaq7l"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        },
-        {
-          "name": "Kevin Olusola",
-          "url": "https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Soar (feat. Fally Ipupa & Kevin Olusola)",
-      "url": "https://open.spotify.com/track/769DTdOI3UAILaJtI9Doxt"
+      "duration_ms": 234707,
+      "name": "S\u00f6",
+      "url": "https://open.spotify.com/track/49im2JqjCRehvJm9x0mqML"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,634 likes - 89 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,698 likes - 89 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 80 | [Blood On The Doors](https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc) | [Razzie](https://open.spotify.com/artist/3eMYXpbZpFOWTz36jMozU3), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Gregory Rufus](https://open.spotify.com/artist/3OFEfTZTighDlrrREGYCsS) | [Blood On The Doors](https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA) | 3:18 |
 | 81 | [ARMED WITH SWORDS](https://open.spotify.com/track/7g1JFDe0i5lovv4FAGGzyR) | [YP Aka Young Paul](https://open.spotify.com/artist/5rEAZYrahTLTvcgv0DgOJQ), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Da Commissioner](https://open.spotify.com/artist/4hSYmb726KFeubzgsulvJt), [Monster Tarver](https://open.spotify.com/artist/2jsFUZcvMqEU9ay3BWHgAg), [Dax Hamma](https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY) | [ARMED WITH SWORDS](https://open.spotify.com/album/2YWjcqhW2leaWHez9WIeWQ) | 4:00 |
 | 82 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 |
-| 83 | [PRAY FOR ME](https://open.spotify.com/track/5nsavBahRlyRcQdFbBBXu9) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [PRAY FOR ME](https://open.spotify.com/album/7czHbkuWqD2INMD9HVkJC1) | 2:39 |
+| 83 | [PRAY FOR ME](https://open.spotify.com/track/5nsavBahRlyRcQdFbBBXu9) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [PRAY FOR ME](https://open.spotify.com/album/7czHbkuWqD2INMD9HVkJC1) | 2:39 |
 | 84 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
 | 85 | [I WANNA SEE](https://open.spotify.com/track/0qJSVR2K8qH1bY0Vy4zfKI) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [I WANNA SEE](https://open.spotify.com/album/76wzMlk9NVVZIwONYqvrPZ) | 1:54 |
 | 86 | [Blessings](https://open.spotify.com/track/56IrJBpaNkq8Gg2TUlqAS5) | [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV) | [Blessings](https://open.spotify.com/album/7ECAeZLU0DckjhWcMYYU6h) | 2:11 |

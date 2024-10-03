@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JP THE WAVY
 
-1,117 songs - 2 day 9 hr 22 min
+1,118 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Switch](https://open.spotify.com/track/23go39MHs82n7ZuFUFFda6) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Switch](https://open.spotify.com/album/1WiDQdLHHTm23MIHPAuxje) | 2:54 | 2024-05-09 | 2024-05-29 |
 | [TAIKAI](https://open.spotify.com/track/3diQi94FLAdlSrLOvj4BPV) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [FU\-G](https://open.spotify.com/artist/4bHyVu4lqB320P6DLeJD96) | [TAIKAI](https://open.spotify.com/album/0VhB9rsvGy9z2Poa9Yqr98) | 3:15 | 2024-02-06 | 2024-02-28 |
 | [TAKE OFF](https://open.spotify.com/track/7qZPDRA1rCLsJLeBvcCRmi) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [TAKE OFF](https://open.spotify.com/album/4t7880sbo2v4mERzhMODBl) | 3:01 | 2024-04-18 | 2024-05-10 |
+| [TAKE\-OFF](https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [TAKE\-OFF](https://open.spotify.com/album/6xrdQXU1LXphoBAOk5oFQT) | 2:40 | 2024-10-02 |  |
 | [TAMAROU \- 2023 Remix](https://open.spotify.com/track/04KiAYckwbH4dmjrI50E1D) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [DJ JAM](https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [GORE\-TEX](https://open.spotify.com/artist/3tFoTCvKyb9SKtLAuN60Mr) | [TAMAROU \(2023 Remix\)](https://open.spotify.com/album/3r7naNQhjDJy51WDhqvOP2) | 2:39 | 2023-10-24 | 2023-11-01 |
 | [TARAREBA](https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [TARAREBA](https://open.spotify.com/album/3CesSiD2smtYiNsgVWyihT) | 3:21 | 2023-11-14 | 2024-01-17 |
 | [tattoo](https://open.spotify.com/track/6VKQAXXLBmqe97f7ljHvyg) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [tattoo / show me](https://open.spotify.com/album/58zJ9X5dBoIVYr5cOGDDsW) | 2:17 | 2024-05-07 | 2024-05-29 |

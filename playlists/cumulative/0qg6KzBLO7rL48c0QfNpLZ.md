@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-692 songs - 1 day 6 hr 48 min
+693 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Darling](https://open.spotify.com/track/3PivJPicwhVcjTRqleIAIi) | [Jeramah](https://open.spotify.com/artist/2Yi9vHsxsd29sWGr9Jj0e2) | [Darling](https://open.spotify.com/album/2XR4VOL47iRinTIzZzmk9s) | 3:14 | 2024-05-31 | 2024-06-29 |
 | [Day N Night](https://open.spotify.com/track/3DK7ctMhhxqBPaj0FJxQ7Q) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Day N Night](https://open.spotify.com/album/20RfZeHKs24cl0ETTSMWjf) | 3:54 | 2024-07-19 | 2024-08-19 |
 | [Daydream](https://open.spotify.com/track/5w1CbANqjdfLkoJD1iHwxa) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Ninski](https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS) | [Daydream](https://open.spotify.com/album/3C9KSvPp6BOlrsGAfAjG3a) | 2:27 | 2024-07-19 |  |
+| [Deeper Purpose](https://open.spotify.com/track/0F85jQDf7wPFBv2evo7sXG) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Bloom](https://open.spotify.com/album/77pYQnGdJIiYO3h5uf9QUj) | 3:08 | 2024-10-02 |  |
 | [Demons](https://open.spotify.com/track/3XZgGibMl5eRDtiPF9NTat) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Demons](https://open.spotify.com/album/4YRmbge5hoO1aJfasvFgQ5) | 2:25 | 2024-04-12 | 2024-05-03 |
 | [Devotion](https://open.spotify.com/track/6XG9V6VN5Zoiup3cCOreyH) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Devotion](https://open.spotify.com/album/39d8tkQjGJ5a313iS3Lokr) | 2:16 | 2024-08-16 | 2024-09-10 |
 | [Die For Love](https://open.spotify.com/track/0gWjh743qLdbOiAYoetXZi) | [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD), [Capri Everitt](https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB) | [Die For Love](https://open.spotify.com/album/6TamL3WGQ2f74YiKkSTnMI) | 2:25 | 2024-08-02 | 2024-08-31 |

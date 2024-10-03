@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 165473,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Dimelo, Mike",
+        "url": "https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY"
+      },
+      "artists": [
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168851,
+      "name": "Estupideces",
+      "url": "https://open.spotify.com/track/1tJOfdNisn99x83Xnp8Ccs"
+    },
+    {
+      "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
       },
@@ -986,27 +1004,27 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 149346,
       "name": "Karma",
       "url": "https://open.spotify.com/track/72MflEVFtLKecQtYGUcUZs"
     },
     {
       "album": {
-        "name": "Karma",
+        "name": "KARMA",
         "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
       },
       "artists": [
         {
           "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "url": "https://open.spotify.com/artist/3ILtAWpe0pnWY0ZVZkYAoW"
         }
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161000,
-      "name": "Karma",
+      "name": "KARMA",
       "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
     },
     {
@@ -1074,6 +1092,28 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "album": {
+        "name": "LA CYBER",
+        "url": "https://open.spotify.com/album/7kKnyUw6HFB7epxToX0QTE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210223,
+      "name": "LA CYBER",
+      "url": "https://open.spotify.com/track/64qTTkd9J9eLmJI4pIPYTL"
     },
     {
       "album": {
@@ -1242,6 +1282,28 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/2z3htsNRuhDN923ITatc56"
+    },
+    {
+      "album": {
+        "name": "Me Dijeron Algo",
+        "url": "https://open.spotify.com/album/2rMLPPEi6460mgUmj6774g"
+      },
+      "artists": [
+        {
+          "name": "Santana Maria",
+          "url": "https://open.spotify.com/artist/27g6CpqseJKJZR31plUeci"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183229,
+      "name": "Me Dijeron Algo",
+      "url": "https://open.spotify.com/track/6lBGLgjBeuhZb4bsOioG70"
     },
     {
       "album": {
@@ -1861,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Pa Que Mentir",
+        "url": "https://open.spotify.com/album/4XDPOZ4QuiqyAn50nobLt8"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150326,
+      "name": "Pa Que Mentir",
+      "url": "https://open.spotify.com/track/5VaT9e20yu1cjHf4yUTqgP"
+    },
+    {
+      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -2134,7 +2214,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 155297,
       "name": "Sencilla",
       "url": "https://open.spotify.com/track/2Jtv8ouukqBtC5OB7Eh2Oj"
@@ -2656,7 +2736,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 172671,
       "name": "TODAV\u00cdA",
       "url": "https://open.spotify.com/track/5LgNvic5PJYqECG6or0tBZ"

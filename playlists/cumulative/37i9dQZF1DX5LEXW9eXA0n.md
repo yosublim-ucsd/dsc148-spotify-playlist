@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: JEONG HYO BIN\(정효빈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: LEE CHANGSUB\(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,315 songs - 3 day 13 hr 5 min
+1,316 songs - 3 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2022 Monthly Yoon January \- Words](https://open.spotify.com/track/6YRnVyd3L58uwYjTguiBzN) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2022 Monthly Yoon January \- Words](https://open.spotify.com/album/1p89EQOgkJKwcYFsXhCpBI) | 6:17 | 2022-03-29 | 2022-05-18 |
 | [2022 Monthly Yoon June \- You're Different \(with MINSEO\)](https://open.spotify.com/track/7HPGPdO2c24RWkn1gVDKmA) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [2022 Monthly Yoon June \- You're Different](https://open.spotify.com/album/4ogb9e2IGS9Bvw4j5e3bc6) | 4:32 | 2022-07-07 | 2022-09-06 |
 | [29](https://open.spotify.com/track/0pvf2SdsuhE1lFfJztZeHU) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [29](https://open.spotify.com/album/02xylRgbAtbTWZP3tl6Gco) | 3:53 | 2023-10-20 | 2024-01-05 |
+| [33](https://open.spotify.com/track/3tqXynBuF095sqRV9OjwNJ) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB 1st ALBUM <1991>](https://open.spotify.com/album/5p9XwPWP9van2JE9yXJGfS) | 4:00 | 2024-10-02 |  |
 | [366days](https://open.spotify.com/track/0b0P9gzrkJDJMEWg2GnmNX) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [366days](https://open.spotify.com/album/12hSVBrMwIRhaxpEBXZ6OO) | 4:18 | 2022-01-17 | 2022-01-18 |
 | [7년을 하루만에 다 끝낼수 있구나](https://open.spotify.com/track/5hyZmODpZeWdPUJ1W1q8Pl) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [7년을 하루만에 다 끝낼수 있구나](https://open.spotify.com/album/61GllWt4vh9OKCrSJguTVQ) | 4:06 | 2022-03-24 | 2022-04-17 |
 | [99](https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99](https://open.spotify.com/album/1RLCUlVVaSoATwOUI6CihR) | 3:32 | 2022-01-03 | 2022-06-03 |
@@ -800,7 +801,7 @@
 | [Ocean Waves \(feat\. NIve\)](https://open.spotify.com/track/2e9V2bWaUFg9vnBa9q4tzu) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ocean Waves with KozyPop](https://open.spotify.com/album/7dt7lfkqQjGx7T8tIoJdaK) | 3:59 | 2022-01-27 | 2022-06-07 |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-04 | 2022-09-30 |
 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-02 | 2024-08-11 |
-| [Old Song](https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Lee Jin Sung](https://open.spotify.com/artist/0MFlXSWpgwmot3jIZro34j), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Old Song](https://open.spotify.com/album/4qZ85vAqDn3maSw5wLTLNQ) | 4:18 | 2024-06-17 |  |
+| [Old Song](https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Lee Jin Sung](https://open.spotify.com/artist/0MFlXSWpgwmot3jIZro34j), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Old Song](https://open.spotify.com/album/4qZ85vAqDn3maSw5wLTLNQ) | 4:18 | 2024-06-17 |  |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-07 | 2022-09-30 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2022-01-03 | 2022-04-30 |
 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 | 2023-07-08 |

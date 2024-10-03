@@ -1,12 +1,12 @@
 {
   "description": "searows and bon iver in rotation \ud83d\udd01",
-  "num_followers": 118362,
+  "num_followers": 118440,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvxjiAAAAABDdnAeiEprE1XbYr8QTHie",
+  "snapshot_id": "Zv2wLQAAAACtAq0O1YDuRbjnv34wAeJr",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Ever-Shifting, Continual Blossoming",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
     },
     {
+      "added_at": "2024-09-09 17:21:14",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Songs From A Thousand Frames Of Mind",
@@ -103,22 +135,6 @@
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Molly, I\u2019m Coming Around",
-        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "Molly, I'm Coming Around",
-      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -333,6 +349,22 @@
       "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
     },
     {
+      "added_at": "2024-10-02 20:42:21",
+      "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Short n' Sweet",
@@ -349,22 +381,6 @@
       "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
-      "added_at": "2024-09-09 17:21:14",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Kansas Anymore",
@@ -379,6 +395,22 @@
       "duration_ms": 232360,
       "name": "Frances",
       "url": "https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Molly, I\u2019m Coming Around",
+        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Molly, I'm Coming Around",
+      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -463,22 +495,6 @@
       "duration_ms": 191921,
       "name": "i need you more",
       "url": "https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2024-08-26 14:30:05",
@@ -1423,22 +1439,6 @@
       "duration_ms": 278000,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/6Zn6u1wC7JcLZ4EsUTcNET"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Turned Into Missing You",
-        "url": "https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 188599,
-      "name": "Turned Into Missing You",
-      "url": "https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND"
     },
     {
       "added_at": "2024-07-12 04:00:00",

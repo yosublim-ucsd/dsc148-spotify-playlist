@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,207 songs - 3 day 1 hr 20 min
+1,208 songs - 3 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [8Track \- Spotify Singles](https://open.spotify.com/track/2qahKp827phhIRizQ5HVPW) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/22A8Pj7NfwUEGvH5QsIFae) | 3:12 | 2022-10-12 | 2024-04-19 |
 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 | 2022-01-19 |  |
 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 | 2022-01-19 |  |
+| [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 | 2024-10-02 |  |
 | [A Little Bit Happy \- Spotify Singles](https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 3:25 | 2023-11-08 |  |
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-21 |  |
 | [A Song Call Marley \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1cQi81KXUnXvaU7X0dtmdJ) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Spotify Singles](https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH) | 3:56 | 2022-01-19 |  |

@@ -4,7 +4,7 @@
 
 > Classical music to help children and young minds focus.
 
-82 songs - 5 hr 57 min
+83 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [16 Waltzes, Op\. 39 \(Version for Piano Duet\): No\. 15 in A\-Flat Major](https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Tal & Groethuysen](https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ) | [Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op\. 39](https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY) | 1:21 | 2024-09-12 |  |
 | [24 Préludes, Op\. 28: No\. 15 in D Flat Major\. Sostenuto "Raindrop"](https://open.spotify.com/track/6rI95bUx4nmUEqWYLg6q4a) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 6:34 | 2024-09-12 |  |
 | [A Close Friend](https://open.spotify.com/track/6e9OGvs2eyNWlJWoGBpabH) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:51 | 2024-09-12 |  |
+| [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 | 2024-10-02 |  |
 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 | 2024-09-12 |  |
 | [Carmen Suite No\. 1 \(Arr\. E\. Guiraud\): III\. Intermezzo](https://open.spotify.com/track/1XYP1otdfll3bjyBTLn9kM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orquestra Simfònica de Barcelona i Nacional de Catalunya](https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy), [Pablo González](https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD) | [Bizet: Carmen & L'arlésienne Suites](https://open.spotify.com/album/2T30CdjZ39L3feUj5gJubB) | 2:48 | 2024-09-12 |  |
 | [Carmen Suite No\. 2: 2\. Habanera](https://open.spotify.com/track/0H7LRye21kQjDfHVqnGoiM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Semyon Bychkov](https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht) | [Bizet: Carmen Suites; L'Arlésienne Suites](https://open.spotify.com/album/5RAc2jGlZHSTa0ADz4antD) | 2:02 | 2024-09-12 |  |

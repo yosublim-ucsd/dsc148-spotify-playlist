@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 135000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2"
@@ -4616,6 +4616,24 @@
       "duration_ms": 179889,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/3LZ18ndeOi2BU2ZTZNXZya"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Het leven is prachtig en dat verdient goede muziek",
-  "num_followers": 165351,
+  "num_followers": 165349,
   "original_name": "Beautiful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvanGwAAAAAoSc4smujTuXhSYtvUU+Fq",
+  "snapshot_id": "Zv0QJQAAAAAmtPGZ83WC463MCM7RWi06",
   "tracks": [
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Lari",
+        "url": "https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "duration_ms": 209729,
+      "name": "Lari",
+      "url": "https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T"
+    },
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "London, Tokyo",
-        "url": "https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "London, Tokyo",
-      "url": "https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
         "name": "Queen of my Castle",
         "url": "https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr"
       },
@@ -55,6 +55,58 @@
       "duration_ms": 192278,
       "name": "Queen of my Castle",
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "Weak In The Knees",
+        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Weak In The Knees",
+      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
+    },
+    {
+      "added_at": "2024-09-27 12:17:49",
+      "album": {
+        "name": "London, Tokyo",
+        "url": "https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "London, Tokyo",
+      "url": "https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -267,22 +319,6 @@
     {
       "added_at": "2024-09-27 12:17:49",
       "album": {
-        "name": "Lari",
-        "url": "https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ"
-      },
-      "artists": [
-        {
-          "name": "Komodo",
-          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
-        }
-      ],
-      "duration_ms": 209729,
-      "name": "Lari",
-      "url": "https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -391,26 +427,6 @@
       "duration_ms": 162986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2024-09-27 12:17:49",
@@ -539,22 +555,6 @@
       "duration_ms": 180573,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU"
-    },
-    {
-      "added_at": "2024-09-27 12:17:49",
-      "album": {
-        "name": "Weak In The Knees",
-        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Weak In The Knees",
-      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
     },
     {
       "added_at": "2024-09-27 12:17:49",

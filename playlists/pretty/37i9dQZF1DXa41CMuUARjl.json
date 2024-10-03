@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Barry Can't Swim",
-  "num_followers": 496667,
+  "num_followers": 496802,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -111,21 +111,17 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Freaky Feed Me (feat. Leven Kali) / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
         "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
       },
       "artists": [
         {
           "name": "Anti Up",
           "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
       "duration_ms": 215192,
-      "name": "Freaky Feed Me (feat. Leven Kali)",
+      "name": "Freaky Feed Me",
       "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
@@ -707,6 +703,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Ganja Tape",
+        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "Ganja Tape",
+      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Find My Way",
         "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
       },
@@ -731,26 +747,6 @@
       "duration_ms": 259862,
       "name": "Light In The Dark",
       "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Ganja Tape",
-        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "Ganja Tape",
-      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Escapism Vol. 1",
-        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/0qvymU2CdCgfwbb8uvMDsc"
       },
       "artists": [
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
         }
       ],
-      "duration_ms": 186213,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+      "duration_ms": 205000,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/42Xuto4o2yY23efxwcW0Ut"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -847,6 +847,42 @@
       "duration_ms": 151500,
       "name": "Shades",
       "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "NIGHTHAWK",
+      "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -875,46 +911,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/0qvymU2CdCgfwbb8uvMDsc"
-      },
-      "artists": [
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        },
-        {
-          "name": "Deadline",
-          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/42Xuto4o2yY23efxwcW0Ut"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "NIGHTHAWK",
-      "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Motivated",
         "url": "https://open.spotify.com/album/1DQimPEysFvVZRR2SI1aP1"
       },
@@ -931,26 +927,6 @@
       "duration_ms": 193181,
       "name": "Motivated",
       "url": "https://open.spotify.com/track/0BxqVQhPOQjMMKowpm5W74"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Good People (Remixes)",
-        "url": "https://open.spotify.com/album/134Dn2o8X2tEsbe51B8oK0"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Violet - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/1Y4yLr31u5b7viRFZuBoni"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -975,6 +951,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Good People (Remixes)",
+        "url": "https://open.spotify.com/album/134Dn2o8X2tEsbe51B8oK0"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Violet - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/1Y4yLr31u5b7viRFZuBoni"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "I Hear You \u2013 Bonus Tracks Edition",
         "url": "https://open.spotify.com/album/5EGfRfeXfcrx6la5ZYNmjx"
       },
@@ -995,6 +991,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Sun Is Shining (Lavern Remix)",
         "url": "https://open.spotify.com/album/3H5P7ALs2EXXImKOb2UeOC"
       },
@@ -1011,22 +1023,6 @@
       "duration_ms": 188976,
       "name": "Sun Is Shining - Lavern Remix / Radio Edit",
       "url": "https://open.spotify.com/track/5CXXMmHH2TKFCEEwlYJCyX"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1067,6 +1063,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Bigroom Sensual",
+        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Siente (el Ritmo)",
+      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Hungry",
         "url": "https://open.spotify.com/album/08CIJINxSqpQcW50LsMzHl"
       },
@@ -1087,22 +1099,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Bigroom Sensual",
-        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Siente (el Ritmo)",
-      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Everybody's Got to Learn Sometime",
         "url": "https://open.spotify.com/album/5233HXvjmNEuh5bwyOkzlt"
       },
@@ -1115,6 +1111,26 @@
       "duration_ms": 193846,
       "name": "Everybody's Got to Learn Sometime",
       "url": "https://open.spotify.com/track/50ixUxOy4WLhdcUITYOyXo"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1151,26 +1167,6 @@
       "duration_ms": 136666,
       "name": "BITE",
       "url": "https://open.spotify.com/track/3Zjb9pAq1uTsSscSJk9wsS"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1275,22 +1271,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "French Bulldog",
-        "url": "https://open.spotify.com/album/0V4IjKNJCOAUdm5ySoGp8N"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "French Bulldog",
-      "url": "https://open.spotify.com/track/2iOU54HE33r787lPPKwFfb"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "We Are Family",
         "url": "https://open.spotify.com/album/7xIWzkfjtty0GSWvD53ttB"
       },
@@ -1307,6 +1287,38 @@
       "duration_ms": 153750,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "French Bulldog",
+        "url": "https://open.spotify.com/album/0V4IjKNJCOAUdm5ySoGp8N"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "French Bulldog",
+      "url": "https://open.spotify.com/track/2iOU54HE33r787lPPKwFfb"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Boy You Got Me",
+        "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "Boy You Got Me",
+      "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1343,42 +1355,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Boy You Got Me",
-        "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "Boy You Got Me",
-      "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Summer Groove",
-        "url": "https://open.spotify.com/album/03MBgy8etYD59jnc8v2ltr"
-      },
-      "artists": [
-        {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Summer Groove",
-      "url": "https://open.spotify.com/track/2OmBnJNU8POZJF7c1ljtXe"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "About A Love",
         "url": "https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp"
       },
@@ -1399,6 +1375,26 @@
       "duration_ms": 245357,
       "name": "About A Love",
       "url": "https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/03MBgy8etYD59jnc8v2ltr"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/2OmBnJNU8POZJF7c1ljtXe"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1443,6 +1439,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Made For Me (HoneyLuv AfroLuv Remix)",
         "url": "https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy"
       },
@@ -1463,18 +1475,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
+        "name": "Addicted (feat. Haley Maze)",
+        "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "ZOOTAH",
+          "url": "https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1"
+        },
+        {
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
         }
       ],
-      "duration_ms": 159600,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
+      "duration_ms": 164500,
+      "name": "Addicted (feat. Haley Maze)",
+      "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1511,26 +1531,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Addicted (feat. Haley Maze)",
-        "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
+        "name": "More To Say",
+        "url": "https://open.spotify.com/album/01lUSeXeDnC9kXWejIgCJc"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "ZOOTAH",
-          "url": "https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1"
-        },
-        {
-          "name": "Haley Maze",
-          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Addicted (feat. Haley Maze)",
-      "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
+      "duration_ms": 236216,
+      "name": "More To Say",
+      "url": "https://open.spotify.com/track/12UlJzfHtB052deev5N1jM"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1575,22 +1587,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "More To Say",
-        "url": "https://open.spotify.com/album/01lUSeXeDnC9kXWejIgCJc"
-      },
-      "artists": [
-        {
-          "name": "Simon Doty",
-          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
-        }
-      ],
-      "duration_ms": 236216,
-      "name": "More To Say",
-      "url": "https://open.spotify.com/track/12UlJzfHtB052deev5N1jM"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Right On The Edge",
         "url": "https://open.spotify.com/album/0CgTeCAtOH9cnH8pqNvkjF"
       },
@@ -1607,22 +1603,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 221884,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U"
       },
@@ -1635,6 +1615,22 @@
       "duration_ms": 426867,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 221884,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1719,6 +1715,30 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Sheltered",
+        "url": "https://open.spotify.com/album/7xpRsGpJQvKz5tV3JFJT0C"
+      },
+      "artists": [
+        {
+          "name": "Datskie",
+          "url": "https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB"
+        },
+        {
+          "name": "Jordin Post",
+          "url": "https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG"
+        },
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Sheltered",
+      "url": "https://open.spotify.com/track/1rvfT5jHj8NAznubgiZt45"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Cap",
         "url": "https://open.spotify.com/album/5BFHimAdjW6707MsKwPPzN"
       },
@@ -1751,46 +1771,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Worthy Lover",
-        "url": "https://open.spotify.com/album/6nIDwiOEnCmmrjLZXy7Xkh"
+        "name": "Fun (I Just Want)",
+        "url": "https://open.spotify.com/album/4PckjAkkKAkVmT8f0LkrTk"
       },
       "artists": [
         {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        },
-        {
-          "name": "James Patterson",
-          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Worthy Lover",
-      "url": "https://open.spotify.com/track/6YabJ2hSgqJb2xhmoGcimW"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Sheltered",
-        "url": "https://open.spotify.com/album/7xpRsGpJQvKz5tV3JFJT0C"
-      },
-      "artists": [
-        {
-          "name": "Datskie",
-          "url": "https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB"
-        },
-        {
-          "name": "Jordin Post",
-          "url": "https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG"
-        },
-        {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Sheltered",
-      "url": "https://open.spotify.com/track/1rvfT5jHj8NAznubgiZt45"
+      "duration_ms": 179538,
+      "name": "Fun (I Just Want)",
+      "url": "https://open.spotify.com/track/3AxT9OeBPzHQHNTZDotZ4A"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1811,34 +1803,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Take That Groove",
-        "url": "https://open.spotify.com/album/2trhBnyY5pwB3NZvreRRWt"
+        "name": "Worthy Lover",
+        "url": "https://open.spotify.com/album/6nIDwiOEnCmmrjLZXy7Xkh"
       },
       "artists": [
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Take That Groove",
-      "url": "https://open.spotify.com/track/7vYotNsMaq6LA5SMzFizL2"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Fun (I Just Want)",
-        "url": "https://open.spotify.com/album/4PckjAkkKAkVmT8f0LkrTk"
-      },
-      "artists": [
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
         {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
         }
       ],
-      "duration_ms": 179538,
-      "name": "Fun (I Just Want)",
-      "url": "https://open.spotify.com/track/3AxT9OeBPzHQHNTZDotZ4A"
+      "duration_ms": 186200,
+      "name": "Worthy Lover",
+      "url": "https://open.spotify.com/track/6YabJ2hSgqJb2xhmoGcimW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1855,6 +1835,22 @@
       "duration_ms": 155450,
       "name": "HEY MR. DJ",
       "url": "https://open.spotify.com/track/3HxCDAu8PU82fQkRTJkBF3"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Take That Groove",
+        "url": "https://open.spotify.com/album/2trhBnyY5pwB3NZvreRRWt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Take That Groove",
+      "url": "https://open.spotify.com/track/7vYotNsMaq6LA5SMzFizL2"
     },
     {
       "added_at": "2024-09-27 04:00:00",

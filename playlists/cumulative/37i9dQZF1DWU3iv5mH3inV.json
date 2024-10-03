@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "El Dembow que est\u00e1 subiendo. Foto: Donaty",
+  "description": "El Dembow que est\u00e1 subiendo. Foto: El Alfa",
   "name": "Rep\u00fablica Dembow",
   "tracks": [
+    {
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/0BaRjVhqjSJjdMxFdz0kGF"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109337,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/7ezIbzvieKXW0pFZotcffA"
+    },
     {
       "album": {
         "name": "2 Pa 2",
@@ -388,6 +406,32 @@
       "duration_ms": 176801,
       "name": "ADN",
       "url": "https://open.spotify.com/track/0usasRIS8OZSY4eLcFYV1a"
+    },
+    {
+      "album": {
+        "name": "AFIXIAO",
+        "url": "https://open.spotify.com/album/42SyKCeMvjIq7itpQkomkc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto",
+          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196947,
+      "name": "AFIXIAO",
+      "url": "https://open.spotify.com/track/46KcMb9ryGQdpkhBcOcCEH"
     },
     {
       "album": {
@@ -1164,6 +1208,24 @@
       "duration_ms": 150155,
       "name": "Booty Booty",
       "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+    },
+    {
+      "album": {
+        "name": "Botellas",
+        "url": "https://open.spotify.com/album/7yEa78tQ3QmChASky5bGUk"
+      },
+      "artists": [
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136361,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/4zj4X1m7RFvgFGvbBp16Or"
     },
     {
       "album": {
@@ -2611,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Dale 2",
+        "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148850,
+      "name": "Dale 2",
+      "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
+    },
+    {
+      "album": {
         "name": "La Revelacion del Under - Back To The Underground",
         "url": "https://open.spotify.com/album/3XsCIXh0nLc88eTQo1Xh2o"
       },
@@ -3840,7 +3924,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 141413,
       "name": "El Macuto",
       "url": "https://open.spotify.com/track/6RXBduRHBQ1ILblpGXFof8"
@@ -5124,7 +5208,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 136010,
       "name": "Gare",
       "url": "https://open.spotify.com/track/5CswnaIe28vwtSh7yJ926Y"
@@ -5701,6 +5785,32 @@
     },
     {
       "album": {
+        "name": "Japonesa",
+        "url": "https://open.spotify.com/album/2bHipOLOXx8gsWt2fPYYB8"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124673,
+      "name": "Japonesa",
+      "url": "https://open.spotify.com/track/2vb7Bg1Buf8KuaNwbFwlCL"
+    },
+    {
+      "album": {
         "name": "Juju Juju",
         "url": "https://open.spotify.com/album/4o8m2tONjWiIppgNgE3VkR"
       },
@@ -5946,6 +6056,28 @@
       "duration_ms": 211932,
       "name": "Kitipo",
       "url": "https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM"
+    },
+    {
+      "album": {
+        "name": "Kito",
+        "url": "https://open.spotify.com/album/1Kbb0LfarO0hpswMowBVl0"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107937,
+      "name": "Kito",
+      "url": "https://open.spotify.com/track/1wDlGkzTHtpRhgb6VE2eDh"
     },
     {
       "album": {
@@ -7552,7 +7684,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 96502,
       "name": "Ma Peluche Que Ante",
       "url": "https://open.spotify.com/track/0NvSKq8DymXEFkZkZcYvji"
@@ -9892,7 +10024,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 169628,
       "name": "Pa Lo Cuero",
       "url": "https://open.spotify.com/track/3yXzdiezbEARZNTsPb61V0"
@@ -11214,7 +11346,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 103304,
       "name": "POPOLI",
       "url": "https://open.spotify.com/track/7fwOd7J9jXj30nJHPNjJNq"
@@ -11772,7 +11904,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 157043,
       "name": "Que La Prenda",
       "url": "https://open.spotify.com/track/3tZIynGH95TRzJ9Qb8OJym"
@@ -12152,7 +12284,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 123849,
       "name": "Quien la Paga",
       "url": "https://open.spotify.com/track/1dC4LXSLtY04d31P21I1cm"
@@ -13242,6 +13374,28 @@
       "duration_ms": 153125,
       "name": "Sopiti",
       "url": "https://open.spotify.com/track/2Ew3NsOj0UYk0tE3tabiEV"
+    },
+    {
+      "album": {
+        "name": "SOTO SHUFFLE",
+        "url": "https://open.spotify.com/album/6hDjqhcXBzsz3hys4Ve6KJ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91115,
+      "name": "SOTO SHUFFLE",
+      "url": "https://open.spotify.com/track/4sE9xbthMgxleOyq86jeZJ"
     },
     {
       "album": {
@@ -14646,7 +14800,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 111879,
       "name": "TEN TERE TE TEN",
       "url": "https://open.spotify.com/track/0tRgBBDfNv7V1wxBByyxkz"
@@ -15901,6 +16055,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Sabe",
+        "url": "https://open.spotify.com/album/2QA6xi0g6yUzrmi4BWiXl2"
+      },
+      "artists": [
+        {
+          "name": "Lp King",
+          "url": "https://open.spotify.com/artist/7tfKpLtXZ4s8opLe8fHrsz"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "T\u00fa Sabe",
+      "url": "https://open.spotify.com/track/4dhRYfJsE7lbs3d8mBRv17"
+    },
+    {
+      "album": {
         "name": "T\u00fa Ver\u00e1",
         "url": "https://open.spotify.com/album/6ZpYRdSifYq7O5SUixyo3t"
       },
@@ -15982,6 +16154,28 @@
       "duration_ms": 116195,
       "name": "Un Chuky",
       "url": "https://open.spotify.com/track/39mXMsgX5ssR8GAMDEf8Wx"
+    },
+    {
+      "album": {
+        "name": "Un Muah",
+        "url": "https://open.spotify.com/album/0Nh2i4g0zBySJlwq3Mp1FJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Nitido Nintendo",
+          "url": "https://open.spotify.com/artist/0W1sucg7Pw2nSfRZCKlnIB"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168608,
+      "name": "Un Muah",
+      "url": "https://open.spotify.com/track/4n5tjQToFhV3CfKNhHs4kD"
     },
     {
       "album": {
@@ -16666,7 +16860,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 131964,
       "name": "Wey Wey Wey",
       "url": "https://open.spotify.com/track/5RTro716Bn7eVoSnB6k5OS"

@@ -4,7 +4,7 @@
 
 > A collection of the biggest soul tracks from the 1970s\. Cover: The Isley Brothers
 
-167 songs - 11 hr 40 min
+168 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed Sealed And Delivered](https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe) | 2:40 | 2021-02-05 | 2022-07-29 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0WkCHrW46zgLcI4WBW0fH6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Kids Songs: Family Day!](https://open.spotify.com/album/5s7nQXAAXWUZiIkyniCb2T) | 2:40 | 2022-02-04 | 2022-11-13 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2022-02-04 |  |
+| [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2024-10-02 |  |
 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 | 2021-02-05 | 2023-07-21 |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2021-02-05 | 2023-07-21 |
 | [Starting All Over Again](https://open.spotify.com/track/6Vo8rpayHpm3dmuoluEzTQ) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [The Complete Stax / Volt Soul Singles, Vol\. 3: 1972\-1975](https://open.spotify.com/album/0qX1tjvl4tyjt4rbLwOtJU) | 3:50 | 2022-02-04 | 2022-11-13 |
@@ -137,7 +138,7 @@
 | [Think \(About It\)](https://open.spotify.com/track/61RYB2uGMuzq3n7ThgX8Z4) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Funky Party Mix](https://open.spotify.com/album/7M9UBPEL1gH8zXZvA2hWYf) | 3:21 | 2022-02-04 | 2022-11-13 |
 | [Think \(About It\)](https://open.spotify.com/track/17wXLFsvZVX14x9SntU58w) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [James Brown's Funky People](https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu) | 3:21 | 2021-02-05 | 2022-07-29 |
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2022-02-04 | 2023-07-21 |
-| [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 | 2021-02-05 |  |
+| [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 | 2021-02-05 | 2024-10-03 |
 | [Too Late To Turn Back Now](https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE) | [Cornelius Brothers & Sister Rose](https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT) | [The Story Of Cornelius Brothers & Sister Rose](https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW) | 3:18 | 2023-07-20 |  |
 | [Trapped By a Thing Called Love](https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [On The Loose / Trapped By A Thing Called Love](https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd) | 2:40 | 2021-02-05 | 2023-07-21 |
 | [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 | 2021-07-04 |  |

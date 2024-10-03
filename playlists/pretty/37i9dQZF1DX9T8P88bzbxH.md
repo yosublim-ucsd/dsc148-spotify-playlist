@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready to spill your GUTS\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,569 likes - 23 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,543 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

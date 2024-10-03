@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-490 songs - 1 day 4 hr 14 min
+491 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Navy Blue](https://open.spotify.com/track/1rSJgBXnaM90unzHMd8mrU) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/2Gj2oAKNOZq62bDWZ13WLR) | 2:58 | 2024-01-30 | 2024-02-02 |
 | [NbHD](https://open.spotify.com/track/6zsFCfP4TK2J48tMYjb668) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:44 | 2024-01-29 |  |
 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 | 2024-01-29 |  |
-| [Need This](https://open.spotify.com/track/1NtTh07pR8bWUeZzMpHKdn) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/1JePk3Bz3Oce3zzkiRywGn) | 2:38 | 2024-01-29 |  |
+| [Need This](https://open.spotify.com/track/0LAHULt5Ex1dSqeBMRrOYo) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/4MiBVyve588OD16F3Cis1J) | 2:38 | 2024-10-02 |  |
+| [Need This](https://open.spotify.com/track/1NtTh07pR8bWUeZzMpHKdn) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/1JePk3Bz3Oce3zzkiRywGn) | 2:38 | 2024-01-29 | 2024-10-03 |
 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 | 2024-01-29 |  |
 | [Neon Lights](https://open.spotify.com/track/7gJRbWCTtFc6ijYBjRx6aV) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Neon Lights \(Official Video\)](https://open.spotify.com/album/1Aadfa8cRnJtpzD1kzLbvv) | 3:59 | 2024-01-30 | 2024-02-01 |
 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 | 2024-01-29 |  |

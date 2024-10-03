@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Mariana Bfly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,692 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,694 likes - 30 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 2 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 |
 | 3 | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G) | 2:40 |
 | 4 | [777](https://open.spotify.com/track/2YfZe1Eicnm2JbHHjRvd8n) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:35 |
-| 5 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
-| 6 | [boca](https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [boca](https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj) | 2:26 |
+| 5 | [boca](https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [boca](https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj) | 2:26 |
+| 6 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
 | 7 | [Mantra](https://open.spotify.com/track/2LPosy22QzecHq7ScFlcKW) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mantra](https://open.spotify.com/album/6fS3ym6H9gIXExaEhGyPRV) | 2:41 |
 | 8 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 9 | [DIABLO](https://open.spotify.com/track/1A4BLT4teAWuLw7XGkuY7O) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [DIABLO](https://open.spotify.com/album/2pV89AMcDndsgPlTmHD1p6) | 2:50 |

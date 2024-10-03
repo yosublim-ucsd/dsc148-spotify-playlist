@@ -1,6 +1,6 @@
 {
   "description": "SDM au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 352167,
+  "num_followers": 352171,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -320,12 +320,12 @@
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
           "name": "Marjinal",
           "url": "https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
       "duration_ms": 173760,

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Murphy\n",
-  "num_followers": 59567,
+  "num_followers": 59568,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvqFJwAAAAAtl2ZsXRSVyeqrZhz2a2BC",
+  "snapshot_id": "ZvzgYAAAAADBwVwHDqtMdYDQCyKgtBhS",
   "tracks": [
     {
       "added_at": "2024-09-30 06:43:35",
@@ -107,6 +107,26 @@
       "duration_ms": 298000,
       "name": "Ninna Jhothe (From \"Mr. Celebrity - Kannada\")",
       "url": "https://open.spotify.com/track/4S6E46imKvcVG4S3EUBqOq"
+    },
+    {
+      "added_at": "2024-10-02 05:55:44",
+      "album": {
+        "name": "ARM (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1vFMUVFmEIWdSBGX73gyAN"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Mele Neeli",
+      "url": "https://open.spotify.com/track/3OZO4I4XfqffGvnagTPwdy"
     },
     {
       "added_at": "2024-09-23 05:55:43",
@@ -1743,50 +1763,6 @@
       "duration_ms": 232169,
       "name": "Bharathi Bharathi Uyyale",
       "url": "https://open.spotify.com/track/0THDHTe7jhTa5zGbAOzQa8"
-    },
-    {
-      "added_at": "2024-07-12 10:23:45",
-      "album": {
-        "name": "Arare Arare Thangaliya (From \"Kubusa\")",
-        "url": "https://open.spotify.com/album/5qKloIB3XTod5zjWC2zkJy"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Pradeep Chandra",
-          "url": "https://open.spotify.com/artist/3YyjTWEmq6HnwrWYyVMBES"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Arare Arare Thangaliya - From \"Kubusa\"",
-      "url": "https://open.spotify.com/track/5Ijr0Yc85OdfEjYgjvhwQQ"
-    },
-    {
-      "added_at": "2024-07-16 11:51:33",
-      "album": {
-        "name": "Muddada Ninna Hesarenu (From \"Gowri\")",
-        "url": "https://open.spotify.com/album/1wJdldjINCfwcauld5HZiL"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 248204,
-      "name": "Muddada Ninna Hesarenu (From \"Gowri\")",
-      "url": "https://open.spotify.com/track/46BS3BHgh5xMUSPSta1rZb"
     }
   ],
   "unique_name": "Latest Kannada",

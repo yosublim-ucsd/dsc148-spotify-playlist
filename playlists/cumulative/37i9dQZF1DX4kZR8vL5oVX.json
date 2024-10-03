@@ -20024,10 +20024,32 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 135405,
       "name": "SEXCII",
       "url": "https://open.spotify.com/track/6oYsteIv62vDomGhpoFjVw"
+    },
+    {
+      "album": {
+        "name": "SOLSTICE",
+        "url": "https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Sexyy Red (feat. La F\u00e8ve)",
+      "url": "https://open.spotify.com/track/0dNOqSvDE2vZhepbZNBt6R"
     },
     {
       "album": {

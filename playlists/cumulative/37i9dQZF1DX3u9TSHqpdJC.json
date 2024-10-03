@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: AD\u00c9LA.  Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Beth McKenzie.  Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3821,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
+    },
+    {
+      "album": {
         "name": "cheer up!",
         "url": "https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8"
       },
@@ -6390,7 +6408,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 158962,
       "name": "Birthdays & Funerals",
       "url": "https://open.spotify.com/track/5jMdGvVy61d1HPteOjVspJ"
@@ -12247,6 +12265,24 @@
     },
     {
       "album": {
+        "name": "Coulda Shoulda Woulda Enthusiast",
+        "url": "https://open.spotify.com/album/4rv2yGDI9EGfJJTjl0B6SL"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Coulda Shoulda Woulda Enthusiast",
+      "url": "https://open.spotify.com/track/50wveEAlCseE6HIoWUc4y6"
+    },
+    {
+      "album": {
         "name": "COUNT ON U",
         "url": "https://open.spotify.com/album/7HveFAkHvRv06uDrOGyPQ5"
       },
@@ -12856,7 +12892,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 164626,
       "name": "CRUSH!",
       "url": "https://open.spotify.com/track/0R2rXgOQsLsC1wSBYdKn6l"
@@ -15248,6 +15284,24 @@
       "duration_ms": 184220,
       "name": "Doing Well",
       "url": "https://open.spotify.com/track/1zxIL4vzGNKJWwQLgdfWGN"
+    },
+    {
+      "album": {
+        "name": "Doing What I Can",
+        "url": "https://open.spotify.com/album/1bCCZaySBadsiguNF1XAf6"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179543,
+      "name": "Doing What I Can",
+      "url": "https://open.spotify.com/track/0ixWgV4YpUuJbwREWsJmK7"
     },
     {
       "album": {
@@ -20668,7 +20722,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 181989,
       "name": "Found Somebody",
       "url": "https://open.spotify.com/track/7nCO9CGZ0Pf0DaKhg4wKNS"
@@ -21358,7 +21412,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 174004,
       "name": "Fun!",
       "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
@@ -22862,7 +22916,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 158520,
       "name": "Gone To Bed",
       "url": "https://open.spotify.com/track/7zf9QqHSv65RDpcU5gG678"
@@ -25078,7 +25132,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 154187,
       "name": "HELLO IT'S THE NEW ME",
       "url": "https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj"
@@ -26140,7 +26194,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 159788,
       "name": "Hollywood Star",
       "url": "https://open.spotify.com/track/4AjyC7O7Bgu5v8Php1LLQp"
@@ -28513,6 +28567,24 @@
     },
     {
       "album": {
+        "name": "i like that",
+        "url": "https://open.spotify.com/album/23a2HXc2IcpPrPtYNQCJz3"
+      },
+      "artists": [
+        {
+          "name": "country girl",
+          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126272,
+      "name": "i like that",
+      "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
+    },
+    {
+      "album": {
         "name": "I Like You Best",
         "url": "https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX"
       },
@@ -29742,7 +29814,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 138461,
       "name": "I`m The One",
       "url": "https://open.spotify.com/track/6sutXgl64bKZW3Rba7IfNE"
@@ -32566,6 +32638,24 @@
       "duration_ms": 143925,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/1CDysfnZvwKEFeTttetFIN"
+    },
+    {
+      "album": {
+        "name": "Koolaid",
+        "url": "https://open.spotify.com/album/7GAQG0k3mxD11kYjZ3qJG3"
+      },
+      "artists": [
+        {
+          "name": "THEM",
+          "url": "https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146386,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/429mlAGIRvedzOGkIa9wm5"
     },
     {
       "album": {
@@ -41436,6 +41526,24 @@
       "duration_ms": 183944,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/2suZEP7Ksg0ozl91PzdGkV"
+    },
+    {
+      "album": {
+        "name": "No Contact",
+        "url": "https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "No Contact",
+      "url": "https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK"
     },
     {
       "album": {
@@ -54041,6 +54149,24 @@
     },
     {
       "album": {
+        "name": "Star Shaped Baby",
+        "url": "https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169423,
+      "name": "Star Shaped Baby",
+      "url": "https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ"
+    },
+    {
+      "album": {
         "name": "Star Woman",
         "url": "https://open.spotify.com/album/5JrnBAglx7eDuwlMbOqLeJ"
       },
@@ -55466,7 +55592,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
@@ -58968,6 +59094,24 @@
       "duration_ms": 204833,
       "name": "Therapy Summer",
       "url": "https://open.spotify.com/track/3JVPveObsMMJbFoavrofnd"
+    },
+    {
+      "album": {
+        "name": "There's a Reason You're My Ex",
+        "url": "https://open.spotify.com/album/4nCZ9DRUSG5pTJpzgEaa4z"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158384,
+      "name": "There's a Reason You're My Ex",
+      "url": "https://open.spotify.com/track/5AmO9Yq0jfD9wXPZNhJIM4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Keni Titus",
-  "num_followers": 78404,
+  "num_followers": 78575,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvSpVAAAAADLkSbYa06KMNTJLrcH+75X",
+  "snapshot_id": "Zv13LAAAAABrMABE7aabEzGlLC0LvyJc",
   "tracks": [
     {
       "added_at": "2024-09-25 16:00:00",
@@ -25,6 +25,118 @@
       "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
     },
     {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "when i'm older",
+        "url": "https://open.spotify.com/album/2jKATMko7QKDdA6q9qQsU1"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "duration_ms": 175230,
+      "name": "when i'm older",
+      "url": "https://open.spotify.com/track/6dYdIfezrovicANBqDUSRf"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "Run out of Me",
+        "url": "https://open.spotify.com/album/0LAB2Op1ZIH9U7Ystq15lL"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        }
+      ],
+      "duration_ms": 159432,
+      "name": "Run out of Me",
+      "url": "https://open.spotify.com/track/0vAW5lXKXW0I36rzMZPRty"
+    },
+    {
+      "added_at": "2024-09-25 16:00:00",
+      "album": {
+        "name": "Two Minds",
+        "url": "https://open.spotify.com/album/0yzvIb3m4yJGqZB0marOSw"
+      },
+      "artists": [
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Two Minds",
+      "url": "https://open.spotify.com/track/7zOwfWPaKw0gsfeOy0EcmJ"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2QnIFhGfS4aPfciZuXycDL"
+      },
+      "artists": [
+        {
+          "name": "Skyler Day",
+          "url": "https://open.spotify.com/artist/6F4y5h3lsRV29bO0Wg0MK8"
+        }
+      ],
+      "duration_ms": 201155,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/46amzSH3OoK5OIZJ2WIRmN"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "The Rock",
+        "url": "https://open.spotify.com/album/5aWoAbn61s6YTl8IMkJcKV"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Void Filling Guy",
+      "url": "https://open.spotify.com/track/3u2NKDXTcgQbXpBzQhYBqv"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "Bad With Bad News",
+        "url": "https://open.spotify.com/album/3GKIzxayuXN7F6Tx91hiSt"
+      },
+      "artists": [
+        {
+          "name": "Cayden Wemple",
+          "url": "https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q"
+        }
+      ],
+      "duration_ms": 157556,
+      "name": "Bad With Bad News",
+      "url": "https://open.spotify.com/track/0mE2LNXiftUy9vZx0WCL17"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/7twjQUjJDhH4IdBXJtTqk9"
+      },
+      "artists": [
+        {
+          "name": "Willie Pearl",
+          "url": "https://open.spotify.com/artist/2WPrUOZjxPSvCnbeC8mNO8"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/0qqlaME9ZzhSdeFzVHtIDp"
+    },
+    {
       "added_at": "2024-09-26 00:22:44",
       "album": {
         "name": "Home Run",
@@ -39,6 +151,22 @@
       "duration_ms": 154368,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/09vsySrvxLLyJKzeNAXjQj"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 252437,
+      "name": "Foolish and Fast",
+      "url": "https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN"
     },
     {
       "added_at": "2024-09-11 16:51:45",
@@ -57,20 +185,40 @@
       "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
     },
     {
-      "added_at": "2024-09-25 16:00:00",
+      "added_at": "2024-10-02 16:39:08",
       "album": {
-        "name": "Two Minds",
-        "url": "https://open.spotify.com/album/0yzvIb3m4yJGqZB0marOSw"
+        "name": "better the knife you know",
+        "url": "https://open.spotify.com/album/2QBtZwelRkEMgvsE8LF2C8"
       },
       "artists": [
         {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Two Minds",
-      "url": "https://open.spotify.com/track/7zOwfWPaKw0gsfeOy0EcmJ"
+      "duration_ms": 257334,
+      "name": "better the knife you know",
+      "url": "https://open.spotify.com/track/6gqQe8nJ6YwKgW91ysX6pF"
+    },
+    {
+      "added_at": "2024-10-02 16:39:08",
+      "album": {
+        "name": "Lady Lou & All Her Friends",
+        "url": "https://open.spotify.com/album/6zaQSLhZZ0o09yC4pG9ebl"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        },
+        {
+          "name": "Keyland",
+          "url": "https://open.spotify.com/artist/7d3nkwd5NnxQ7axw2FFBJB"
+        }
+      ],
+      "duration_ms": 178391,
+      "name": "'85 (with Keyland)",
+      "url": "https://open.spotify.com/track/4kMeYFx7mHMagqSGPs73Al"
     },
     {
       "added_at": "2024-09-25 16:00:00",

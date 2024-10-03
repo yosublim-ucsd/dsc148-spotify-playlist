@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 170000,
       "name": "Back",
       "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 250250,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/74v8nYzL49XVU57CsdkCwa"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 192000,
       "name": "C\u00cdMKE VAGY",
       "url": "https://open.spotify.com/track/2ooAUXbg8qSqN4djnKl0SW"
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "DELI",
+        "url": "https://open.spotify.com/album/2VCHPot8DAjzzKGvcoqZGk"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "DELI",
+      "url": "https://open.spotify.com/track/4U1lmI8na9IyYFDxN7JuPl"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 221062,
       "name": "Different",
       "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
@@ -284,7 +302,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 211712,
       "name": "Disposable",
       "url": "https://open.spotify.com/track/7ucZuHF5Ue77s6jq2FBPv7"
@@ -476,7 +494,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 97992,
       "name": "Forog",
       "url": "https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy"
@@ -494,7 +512,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 205000,
       "name": "Free",
       "url": "https://open.spotify.com/track/7nyA6tPueYZDKqyeTpxL2k"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 184238,
       "name": "Gond",
       "url": "https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6"
@@ -646,6 +664,24 @@
       "duration_ms": 268750,
       "name": "Holdf\u00e9ny j\u00e1r",
       "url": "https://open.spotify.com/track/7y3inNI0WJvIckcxYpanYJ"
+    },
+    {
+      "album": {
+        "name": "h\u00fclyegyerek",
+        "url": "https://open.spotify.com/album/1HjDa6GLkX5KQS2WocwZK5"
+      },
+      "artists": [
+        {
+          "name": "Temesi Blanka",
+          "url": "https://open.spotify.com/artist/3hsGE1dfJ4WNM3SIbbsDhg"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157224,
+      "name": "h\u00fclyegyerek",
+      "url": "https://open.spotify.com/track/6TCsHXojkGb6VUChlewJDH"
     },
     {
       "album": {
@@ -877,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Like Puppets",
+        "url": "https://open.spotify.com/album/77kIQzK0FLKn1Pr1i3Fwcz"
+      },
+      "artists": [
+        {
+          "name": "Girl in the mirror",
+          "url": "https://open.spotify.com/artist/2mQTU8dOo4PEJF1stERHUe"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Like Puppets",
+      "url": "https://open.spotify.com/track/16DuK46XF0FyqZH3ij17aF"
+    },
+    {
+      "album": {
         "name": "Looking Down",
         "url": "https://open.spotify.com/album/4CJTGoHXLCA9sgjxAtwFzV"
       },
@@ -892,6 +946,24 @@
       "duration_ms": 189000,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/7dLxHTTSIdK6AJIvcwEe3Z"
+    },
+    {
+      "album": {
+        "name": "Love Game",
+        "url": "https://open.spotify.com/album/33iMinMKBI11NQB2nzgVo7"
+      },
+      "artists": [
+        {
+          "name": "Cserpes Laura",
+          "url": "https://open.spotify.com/artist/50sj3QAWonZEZMumsD8Ct2"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Love Game",
+      "url": "https://open.spotify.com/track/6Ap8ZCPOWOwENbfHFNVwer"
     },
     {
       "album": {
@@ -985,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "NEM B\u00cdRN\u00c1L VELEM",
+        "url": "https://open.spotify.com/album/6eWJKqIVXtDChfdtqA95ZT"
+      },
+      "artists": [
+        {
+          "name": "Mih\u00e1lyfi Luca",
+          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133695,
+      "name": "NEM B\u00cdRN\u00c1L VELEM",
+      "url": "https://open.spotify.com/track/1Ja2AVkcH7ilmzlA5KTCRA"
+    },
+    {
+      "album": {
         "name": "Minden leveg\u0151v\u00e9tellel \u00fajra megsz\u00fclet\u00fcnk",
         "url": "https://open.spotify.com/album/0ka8R5kWCdHE3awQ1AS5Qh"
       },
@@ -1032,7 +1122,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 196643,
       "name": "Nem V\u00e1rt Idegen",
       "url": "https://open.spotify.com/track/67xAYnNOlDXhYG4v9aeEgv"
@@ -1144,7 +1234,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 210005,
       "name": "Od\u00fa",
       "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
@@ -1299,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Sz\u00edvemre hallgatok",
+        "url": "https://open.spotify.com/album/0IZiZi0k1xNJkEuE7Ecz2a"
+      },
+      "artists": [
+        {
+          "name": "Amanna",
+          "url": "https://open.spotify.com/artist/54wEXl1f4JkIWqUdWOodxJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Sz\u00edvemre hallgatok",
+      "url": "https://open.spotify.com/track/5HSop4q9dygSYhmx24qmdt"
+    },
+    {
+      "album": {
         "name": "Sz\u00f6rny vagyok",
         "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
@@ -1371,6 +1479,28 @@
     },
     {
       "album": {
+        "name": "templomi piszkozat",
+        "url": "https://open.spotify.com/album/6zLgqKOWKnMdaIo52rUoX7"
+      },
+      "artists": [
+        {
+          "name": "fannisza",
+          "url": "https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD"
+        },
+        {
+          "name": "Feh\u00e9r Holl\u00f3",
+          "url": "https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "templomi piszkozat",
+      "url": "https://open.spotify.com/track/7xiAmqCmiJQSbAF26Hvtrb"
+    },
+    {
+      "album": {
         "name": "Tengerszem",
         "url": "https://open.spotify.com/album/6vbbsGtANQcVbwbDg9rbMb"
       },
@@ -1382,7 +1512,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 201473,
       "name": "Tengerszem",
       "url": "https://open.spotify.com/track/4xt73I5nhieayoz3418Km0"
@@ -1465,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "T\u00e9li \u00e1lom",
+        "url": "https://open.spotify.com/album/64XPmOTmb0nei9Ce7Lm309"
+      },
+      "artists": [
+        {
+          "name": "Szaffi",
+          "url": "https://open.spotify.com/artist/2t4t8NT5o7Q7OPpO9hw3hV"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258329,
+      "name": "T\u00e9li \u00e1lom",
+      "url": "https://open.spotify.com/track/2fbMjbDJqWJuMdJk55hsJ0"
+    },
+    {
+      "album": {
         "name": "Unnom k\u00e9ne",
         "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
       },
@@ -1484,6 +1632,50 @@
       "duration_ms": 197320,
       "name": "Unnom k\u00e9ne",
       "url": "https://open.spotify.com/track/0Idt6JYcE5YPAalcMohdk8"
+    },
+    {
+      "album": {
+        "name": "V\u00edz f\u00f6l\u00e9",
+        "url": "https://open.spotify.com/album/3Df7WKoZcUyfjOYWyHvax7"
+      },
+      "artists": [
+        {
+          "name": "Fluidia",
+          "url": "https://open.spotify.com/artist/6ORKVNt3KGpnWTVV71BKa8"
+        },
+        {
+          "name": "Netti",
+          "url": "https://open.spotify.com/artist/3t96zoYYZqBEObglRjUDoV"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255613,
+      "name": "V\u00edz f\u00f6l\u00e9",
+      "url": "https://open.spotify.com/track/78xj27l9NqvSQZp6E5Puff"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6VpNxx58UtS3NcObO7H15z"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        },
+        {
+          "name": "Bleu Santana",
+          "url": "https://open.spotify.com/artist/11BjfOkx2AZmoy34Hk2pAf"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166279,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/7jUm0yaI6WZF37ChaiQXvS"
     },
     {
       "album": {
@@ -1524,6 +1716,24 @@
       "duration_ms": 176770,
       "name": "\u00c9des V\u00edzi \u00c9let",
       "url": "https://open.spotify.com/track/2Y5RniLHK7f71mVrOCb5t1"
+    },
+    {
+      "album": {
+        "name": "\u00c9jszaka",
+        "url": "https://open.spotify.com/album/3XFLbf0zg13FSaQM0U5XMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenkke_",
+          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255692,
+      "name": "\u00c9jszaka",
+      "url": "https://open.spotify.com/track/3zxe3GOPYUElWVGH4vt0IN"
     },
     {
       "album": {

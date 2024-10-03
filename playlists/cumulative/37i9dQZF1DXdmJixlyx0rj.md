@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Peggy Gou\)
 
-209 songs - 11 hr 49 min
+210 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [CRAZY \(David Guetta Remix\)](https://open.spotify.com/track/3aNNxSj1e0pgaUUxV2GFoD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [CRAZY \(David Guetta Remix\)](https://open.spotify.com/album/0hXnUVrrEXKKGUNGfqpdlA) | 2:54 | 2024-09-21 |  |
 | [Criminal \- Minit Remix](https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:44 | 2024-04-05 | 2024-06-29 |
 | [Criminal \- SUMIN Remix](https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:31 | 2024-04-05 | 2024-09-13 |
+| [Dance First \(La La La\)](https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:58 | 2024-09-27 |  |
 | [Dazed & Confused \- Japanese Version](https://open.spotify.com/track/6au6BQ6Uz9VimjCguRpisw) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dazed & Confused \(Japanese Version\)](https://open.spotify.com/album/7z4DoXWr2pIU2hId9dh70U) | 3:55 | 2024-09-24 |  |
 | [DEEP \- 4B Remix](https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 2:34 | 2024-04-05 | 2024-06-29 |
 | [DEEP \- h4rdy Remix](https://open.spotify.com/track/32ublq72W447prf0jOntiJ) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 3:45 | 2024-04-05 | 2024-06-29 |
@@ -100,7 +101,7 @@
 | [GROUSE](https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 3:18 | 2024-09-10 |  |
 | [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 |  |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2024-09-17 |  |
-| [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 |  |
+| [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 | 2024-10-03 |
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |
 | [Hot Sauce \- Hitchhiker Remix](https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.9 : Hot Sauce Remixes](https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk) | 3:15 | 2024-04-05 | 2024-06-29 |
 | [I DON'T CARE](https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 5:40 | 2024-04-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 151483,
+  "num_followers": 151516,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "De Umbigo a Umbigo",
+        "url": "https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z"
+      },
+      "artists": [
+        {
+          "name": "Yay\u00e1 Massemba",
+          "url": "https://open.spotify.com/artist/4kEjXnpu87qbTgrf3dWTwW"
+        }
+      ],
+      "duration_ms": 261980,
+      "name": "De Umbigo a Umbigo",
+      "url": "https://open.spotify.com/track/0kq9c7pdY7y1fzDzP3oNBR"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Conselheiro Calado",
         "url": "https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 241254,
       "name": "Conselheiro Calado",
       "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "De Umbigo a Umbigo",
-        "url": "https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z"
-      },
-      "artists": [
-        {
-          "name": "Yay\u00e1 Massemba",
-          "url": "https://open.spotify.com/artist/4kEjXnpu87qbTgrf3dWTwW"
-        }
-      ],
-      "duration_ms": 261980,
-      "name": "De Umbigo a Umbigo",
-      "url": "https://open.spotify.com/track/0kq9c7pdY7y1fzDzP3oNBR"
     },
     {
       "added_at": "2024-09-27 03:01:00",

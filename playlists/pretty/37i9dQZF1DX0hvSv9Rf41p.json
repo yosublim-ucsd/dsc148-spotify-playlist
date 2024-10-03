@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Levity",
-  "num_followers": 978230,
+  "num_followers": 978243,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
+    },
+    {
       "added_at": "2024-07-05 04:16:33",
       "album": {
         "name": "Hoist The Colours (Excision & Sullivan King Remix)",
@@ -1471,22 +1487,6 @@
       "duration_ms": 149136,
       "name": "Hoist The Colours - Excision & Sullivan King Remix",
       "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1617,34 +1617,6 @@
       "url": "https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Never Come Back",
-        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 142714,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Brain Tickler",
@@ -1683,6 +1655,34 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Never Come Back",
+        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 142714,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1765,30 +1765,6 @@
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Satellite (Wooli Remix)",
-        "url": "https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Satellite - Wooli Remix",
-      "url": "https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Restless",
@@ -1811,6 +1787,30 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Satellite (Wooli Remix)",
+        "url": "https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "Satellite - Wooli Remix",
+      "url": "https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1857,26 +1857,6 @@
       "url": "https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Big Bang (with Crankdat)",
-        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 239350,
-      "name": "Big Bang (with Crankdat)",
-      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "BLOW THE ROOF",
@@ -1895,6 +1875,26 @@
       "duration_ms": 202971,
       "name": "BLOW THE ROOF",
       "url": "https://open.spotify.com/track/3HIPnQPh5Xvt7vYT6zpuEQ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1937,22 +1937,6 @@
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
     },
     {
-      "added_at": "2024-07-05 04:16:33",
-      "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Young Majestic",
@@ -1967,26 +1951,6 @@
       "duration_ms": 147555,
       "name": "Young Majestic",
       "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Danger (REAPER Remix)",
-        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Danger - REAPER Remix",
-      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2011,6 +1975,42 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
+    },
+    {
+      "added_at": "2024-07-05 04:16:33",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Danger (REAPER Remix)",
+        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Danger - REAPER Remix",
+      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
     },
     {
       "added_at": "2024-06-28 04:00:00",

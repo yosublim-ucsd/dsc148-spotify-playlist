@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 123200,
       "name": "I Love God",
       "url": "https://open.spotify.com/track/4eNY3PuZxOIwNPXMHDe1GA"
@@ -5118,6 +5118,10 @@
           "url": "https://open.spotify.com/artist/1PvcWjADPMezv8CTyJO9Uk"
         },
         {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        },
+        {
           "name": "DYSMANE",
           "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
         },
@@ -5534,7 +5538,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -6734,7 +6738,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -7206,7 +7210,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 112405,
       "name": "So Good",
       "url": "https://open.spotify.com/track/20EziCj9xQGgQHeHiRXaL6"
@@ -7438,7 +7442,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -8143,6 +8147,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "Tusa V.I.P.",
+      "url": "https://open.spotify.com/track/1Yvgf0pkGvMiXzjclAVSFr"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -8494,7 +8520,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 87818,
       "name": "warm welcome",
       "url": "https://open.spotify.com/track/1I6way4zg9vYNcR3VHkMSO"
@@ -10041,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u0430",
+        "url": "https://open.spotify.com/album/0Ux1dh1UhL5r9KI72YJiOP"
+      },
+      "artists": [
+        {
+          "name": "COLDCLOUD",
+          "url": "https://open.spotify.com/artist/1cBc99BRb7UMFvBdWuriaY"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149223,
+      "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u0430",
+      "url": "https://open.spotify.com/track/7I2oOB6kiHsOE0jsMY56sb"
+    },
+    {
+      "album": {
         "name": "\u0411\u043e\u043b\u044c\u0448\u0435",
         "url": "https://open.spotify.com/album/3IUvXwDnL0pZ6E5o2EwCKQ"
       },
@@ -11374,6 +11418,24 @@
       "duration_ms": 99812,
       "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
       "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0432\u043e\u043d\u043a\u0438",
+        "url": "https://open.spotify.com/album/27ybBrPHqhh6H8CMzftmGL"
+      },
+      "artists": [
+        {
+          "name": "3g",
+          "url": "https://open.spotify.com/artist/3hY4BC6mMPbV9VQ2ii2tZm"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198964,
+      "name": "\u0417\u0432\u043e\u043d\u043a\u0438",
+      "url": "https://open.spotify.com/track/1y3KKRjEewvPFvgeR37YjJ"
     },
     {
       "album": {
@@ -14056,7 +14118,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 180088,
       "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0430 \u0431\u0435\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/0r3qLw9YwoXES2c1fbp05j"
@@ -14086,7 +14148,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 164370,
       "name": "\u0420\u0423\u0421\u0421\u041a\u0410\u042f \u0414\u0423\u0428\u0410",
       "url": "https://open.spotify.com/track/7lMKMh0hAyR1g38p1nmmqN"

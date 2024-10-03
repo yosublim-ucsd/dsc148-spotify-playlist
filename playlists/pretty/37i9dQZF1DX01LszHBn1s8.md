@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > it's sweater weather 🍁🧶
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,771 likes - 977 songs - 2 day 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,760 likes - 977 songs - 2 day 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

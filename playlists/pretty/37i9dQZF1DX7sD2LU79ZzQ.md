@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Keisya Levronka
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,785 likes - 91 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,837 likes - 91 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

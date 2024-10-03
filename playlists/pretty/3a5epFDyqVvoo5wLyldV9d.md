@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 804 songs - 2 day 14 hr 58 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 805 songs - 2 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -812,5 +812,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 802 | [Tamo Daleko](https://open.spotify.com/track/1KbWLWdswoUMSlBGP7MQR1) | [Branko Mataja](https://open.spotify.com/artist/3GUvYumHvxngYgB807pOOe) | [Over Fields And Mountains](https://open.spotify.com/album/7wYxQkN1kvtONeiUCiwRWS) | 2:06 |
 | 803 | [Hal Hal](https://open.spotify.com/track/0lrfWTxWwdZWWtJsXXL31z) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Hal Hal](https://open.spotify.com/album/1hvLeIVO5s6PvhsoE7Fxqf) | 3:31 |
 | 804 | [Otoma da Naba](https://open.spotify.com/track/1AcOGhAEfX0I0dMTteCU8y) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Uh\-Ah Song](https://open.spotify.com/album/08KvvIPCWmHh0cAIHMzKfv) | 4:04 |
+| 805 | [Le procès](https://open.spotify.com/track/02Q9pn0Hr0MZ1JkjmTMnh8) | [Black So Man](https://open.spotify.com/artist/13rYUtADItYfQoy1XN63jB) | [Best of](https://open.spotify.com/album/6V2EVbCqjmLu1kGf93b1DB) | 5:06 |
 
-Snapshot ID: `AAADidL2ff5lkB0s9+nzBNx8RZ39OqYG`
+Snapshot ID: `AAADikckLxEOoNphxzt9I2LL9VGDx3hn`

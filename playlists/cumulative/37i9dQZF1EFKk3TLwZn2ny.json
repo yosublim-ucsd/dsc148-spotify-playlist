@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB"
+    },
+    {
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
       },

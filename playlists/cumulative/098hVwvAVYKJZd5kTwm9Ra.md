@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md) - cumulative - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
-### [BBQ Classics: Best of 70s 80s 90s](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
+### [BBQ Classics \| 70s 80s 90s Barbecue](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 

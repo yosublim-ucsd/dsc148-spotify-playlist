@@ -1,13 +1,109 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: The American Dawn",
-  "num_followers": 227505,
+  "num_followers": 227725,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvQzgAAAAAA3Qvk9NI+Ar2aJFeIfnyKi",
+  "snapshot_id": "Zv3ctwAAAAAMXcIp6QYl+lu2RkdOdGfu",
   "tracks": [
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM"
+      },
+      "artists": [
+        {
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        }
+      ],
+      "duration_ms": 253882,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3NBCNfGHoKhDevoIZDXfWR"
+      },
+      "artists": [
+        {
+          "name": "Half Happy",
+          "url": "https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj"
+        }
+      ],
+      "duration_ms": 279488,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0l2rYmDD0V4ikWaw7N6iim"
+    },
+    {
+      "added_at": "2024-09-25 16:00:00",
+      "album": {
+        "name": "Two Bridges",
+        "url": "https://open.spotify.com/album/0yu2FEITBREcPNXZcTwwNE"
+      },
+      "artists": [
+        {
+          "name": "Mila Degray",
+          "url": "https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu"
+        }
+      ],
+      "duration_ms": 193902,
+      "name": "Two Bridges",
+      "url": "https://open.spotify.com/track/2H0BllBN6EayCTxJHFeeOZ"
+    },
+    {
+      "added_at": "2024-10-02 23:52:23",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7KoCoh5f8eI9eM4OC5CyV9"
+      },
+      "artists": [
+        {
+          "name": "The Wonderlands",
+          "url": "https://open.spotify.com/artist/5d9MnG7M9Kj02Aa8XQ06mA"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5hIcnWf6IZ0Q4mBygEbQFS"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "PIECES, FALLING",
+        "url": "https://open.spotify.com/album/3TjnDgEiHwHLAYjXHNY9gz"
+      },
+      "artists": [
+        {
+          "name": "Bi Disc",
+          "url": "https://open.spotify.com/artist/74bk0cHFNmW7ESiBY2JdBF"
+        }
+      ],
+      "duration_ms": 252859,
+      "name": "PIECES, FALLING",
+      "url": "https://open.spotify.com/track/06NP4MuAXqkSnk7jhIBgaN"
+    },
     {
       "added_at": "2024-09-18 16:00:00",
       "album": {
@@ -25,20 +121,116 @@
       "url": "https://open.spotify.com/track/5hxWDqIcQezyNiX6Udcktr"
     },
     {
-      "added_at": "2024-09-25 16:00:00",
+      "added_at": "2024-10-02 16:06:48",
       "album": {
-        "name": "I made my baby cry",
-        "url": "https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ"
+        "name": "Crashmat",
+        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
       },
       "artists": [
         {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
         }
       ],
-      "duration_ms": 175493,
-      "name": "I made my baby cry",
-      "url": "https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739"
+      "duration_ms": 220908,
+      "name": "Crashmat",
+      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/7nH0PHF9UNoTTPCz5LpSBq"
+      },
+      "artists": [
+        {
+          "name": "Alaska Vane",
+          "url": "https://open.spotify.com/artist/5Hr2tki1odAeyrhgSFqu8C"
+        }
+      ],
+      "duration_ms": 165538,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/44YEnyhhtd5zoJ4cteYZqj"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/2DgqAJmVoQ61q0bxG6JWBO"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Where Are You Going?",
+      "url": "https://open.spotify.com/track/2PZhdOIQXvrLKtDSi0xfzJ"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/0Ctct2JQ8BNLC6t82wz8bR"
+      },
+      "artists": [
+        {
+          "name": "The Crying Nudes",
+          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/0UWX9IHs29vm1odEcn4Asd"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Colonel",
+        "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "duration_ms": 161389,
+      "name": "Colonel",
+      "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Blueprints",
+        "url": "https://open.spotify.com/album/45A6i0YLazNkeDqothT4H1"
+      },
+      "artists": [
+        {
+          "name": "Chloe Southern",
+          "url": "https://open.spotify.com/artist/3NYKvxmK3t7CDAo7V5PxrO"
+        }
+      ],
+      "duration_ms": 250592,
+      "name": "Blueprints",
+      "url": "https://open.spotify.com/track/6MdQlGbhd7ycU4DMbHAlRz"
     },
     {
       "added_at": "2024-09-25 16:00:00",
@@ -57,20 +249,100 @@
       "url": "https://open.spotify.com/track/1YYseb1xZcTclfboiRklT9"
     },
     {
-      "added_at": "2024-09-25 16:00:00",
+      "added_at": "2024-10-02 16:06:48",
       "album": {
-        "name": "Two Bridges",
-        "url": "https://open.spotify.com/album/0yu2FEITBREcPNXZcTwwNE"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2ZwizQzpFDs8VKhvYc2UJu"
       },
       "artists": [
         {
-          "name": "Mila Degray",
-          "url": "https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu"
+          "name": "Baby Berserk",
+          "url": "https://open.spotify.com/artist/6GNuFQWqw3NTNZ051qHoN6"
         }
       ],
-      "duration_ms": 193902,
-      "name": "Two Bridges",
-      "url": "https://open.spotify.com/track/2H0BllBN6EayCTxJHFeeOZ"
+      "duration_ms": 278419,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/738mkcdQzWLXm09E1rpJWW"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/3IbXCFLguPI38kGf657iI7"
+      },
+      "artists": [
+        {
+          "name": "vincent's last summer",
+          "url": "https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/5QM9WZ4PdG1h0c3dc9QiUA"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Thought You Knew",
+        "url": "https://open.spotify.com/album/1RDnwTw0gcsEU4QOHoNs5X"
+      },
+      "artists": [
+        {
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
+        }
+      ],
+      "duration_ms": 194661,
+      "name": "Thought You Knew",
+      "url": "https://open.spotify.com/track/0gApnA64zqfVmApEkNjkrq"
+    },
+    {
+      "added_at": "2024-09-25 16:00:00",
+      "album": {
+        "name": "I made my baby cry",
+        "url": "https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "I made my baby cry",
+      "url": "https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "i like that",
+        "url": "https://open.spotify.com/album/23a2HXc2IcpPrPtYNQCJz3"
+      },
+      "artists": [
+        {
+          "name": "country girl",
+          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
+        }
+      ],
+      "duration_ms": 126272,
+      "name": "i like that",
+      "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
       "added_at": "2024-09-25 16:00:00",
@@ -141,20 +413,20 @@
       "url": "https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y"
     },
     {
-      "added_at": "2024-08-28 16:00:00",
+      "added_at": "2024-09-11 16:50:46",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
       },
       "artists": [
         {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
         }
       ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+      "duration_ms": 209695,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
     },
     {
       "added_at": "2024-09-25 16:00:00",
@@ -497,22 +769,6 @@
       "url": "https://open.spotify.com/track/6CWvAjwzYoALz72oDqgdzm"
     },
     {
-      "added_at": "2024-09-04 16:00:00",
-      "album": {
-        "name": "One Trick Pony",
-        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "One Trick Pony",
-      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
-    },
-    {
       "added_at": "2024-09-11 16:50:46",
       "album": {
         "name": "Luxury",
@@ -655,22 +911,6 @@
       "duration_ms": 268659,
       "name": "Lucky #8",
       "url": "https://open.spotify.com/track/25mWRD3fMSwPxgZzhCAwgN"
-    },
-    {
-      "added_at": "2024-09-11 16:50:46",
-      "album": {
-        "name": "Crow",
-        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 209695,
-      "name": "Crow",
-      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
     },
     {
       "added_at": "2024-09-04 16:00:00",
@@ -1685,118 +1925,6 @@
       "url": "https://open.spotify.com/track/0mbBHDQu78jWP1rETou65s"
     },
     {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Can't Be Replaced",
-        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Can't Be Replaced",
-      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
-    },
-    {
-      "added_at": "2024-08-14 03:36:47",
-      "album": {
-        "name": "King's Garden",
-        "url": "https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "King's Garden",
-      "url": "https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/5vByKX383Uixr7KVphjpns"
-      },
-      "artists": [
-        {
-          "name": "Olive B",
-          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
-        }
-      ],
-      "duration_ms": 188824,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW"
-    },
-    {
-      "added_at": "2024-07-24 16:00:00",
-      "album": {
-        "name": "Splat",
-        "url": "https://open.spotify.com/album/7c6W2rxT4siItwaGpGIDbn"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Drivel",
-      "url": "https://open.spotify.com/track/4K3J6PsyLCtw8alooROF91"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "You Don't Want Help",
-        "url": "https://open.spotify.com/album/69a5okdnPiKibQloWFERLV"
-      },
-      "artists": [
-        {
-          "name": "Zoe Bayani",
-          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
-        }
-      ],
-      "duration_ms": 131656,
-      "name": "Prophet",
-      "url": "https://open.spotify.com/track/0sfMxN6tLc0LkZ37vp4yoO"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/37NICF3tB3QbQNXbm2N5Z8"
-      },
-      "artists": [
-        {
-          "name": "voyeur",
-          "url": "https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n"
-        }
-      ],
-      "duration_ms": 223644,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/4PSEhHtZqenSU1cgxw0DBe"
-    },
-    {
-      "added_at": "2024-08-01 23:20:21",
-      "album": {
-        "name": "Olympic",
-        "url": "https://open.spotify.com/album/12tEnAYrPLxSzVDdCqgHXY"
-      },
-      "artists": [
-        {
-          "name": "Cg",
-          "url": "https://open.spotify.com/artist/3v5Pr2iaofnIbfOmNE9Aab"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Olympic",
-      "url": "https://open.spotify.com/track/6iTJ3hFeO9dCGS5DBeh6rQ"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "You Could Hate Me",
@@ -1811,166 +1939,6 @@
       "duration_ms": 251076,
       "name": "You Could Hate Me",
       "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "wes anderson (your dog)",
-        "url": "https://open.spotify.com/album/1OnwgkYJaR2mezV5UpxwOm"
-      },
-      "artists": [
-        {
-          "name": "boyhood.",
-          "url": "https://open.spotify.com/artist/3OkBUJ0rFE6v0L5HeeMspT"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "wes anderson (your dog)",
-      "url": "https://open.spotify.com/track/1x6YG1aUQ7oA47WU2TnMZq"
-    },
-    {
-      "added_at": "2024-07-24 16:00:00",
-      "album": {
-        "name": "Alone With U",
-        "url": "https://open.spotify.com/album/0jQhKyZFT1s2RGob6l7YV4"
-      },
-      "artists": [
-        {
-          "name": "Girl K",
-          "url": "https://open.spotify.com/artist/7odMt42e1fpa3jLMXgS5mm"
-        }
-      ],
-      "duration_ms": 196318,
-      "name": "Alone With U",
-      "url": "https://open.spotify.com/track/4swCbGVZlyU7wdex2KNMTD"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Full",
-        "url": "https://open.spotify.com/album/6Me3RG6SsEbLTY2a6onSrr"
-      },
-      "artists": [
-        {
-          "name": "hemlock",
-          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
-        }
-      ],
-      "duration_ms": 160958,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/5drZtskacaoZKG82oU49ep"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu"
-      },
-      "artists": [
-        {
-          "name": "Holdan Sutton",
-          "url": "https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl"
-        }
-      ],
-      "duration_ms": 308072,
-      "name": "Too Timid",
-      "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Spare",
-        "url": "https://open.spotify.com/album/3LDpVUav86SeNmfvpKHgqN"
-      },
-      "artists": [
-        {
-          "name": "Maddy Kirgo",
-          "url": "https://open.spotify.com/artist/1S2MtvlwVkIJCDV5oBoNeP"
-        }
-      ],
-      "duration_ms": 200872,
-      "name": "Spare",
-      "url": "https://open.spotify.com/track/2PcqFz0Qie95t5N3xSNVf1"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Staring at the Sun",
-        "url": "https://open.spotify.com/album/1FmLwTEicSgFJgXr0BsBRk"
-      },
-      "artists": [
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 243371,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/3vpUjIQ2DVi3t1LksXjJEs"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "don't want u to die",
-        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
-      },
-      "artists": [
-        {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "don't want u to die",
-      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Shot",
-        "url": "https://open.spotify.com/album/6wBfp0EW0Rdnxap02i3mne"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cole",
-          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
-        }
-      ],
-      "duration_ms": 258092,
-      "name": "Shot",
-      "url": "https://open.spotify.com/track/0UbmlnXRMJJiIv4ek1lvJT"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv"
-      },
-      "artists": [
-        {
-          "name": "dog eyes",
-          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     }
   ],
   "unique_name": "Fresh Finds Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain]
 
 > Listen to your favorite songs from the ZOMBIES soundtracks\. Original movie, ZOMBIES 3, now streaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,244 likes - 45 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,246 likes - 45 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

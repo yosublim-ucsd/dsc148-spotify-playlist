@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,072 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,442 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 38 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
 | 39 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
 | 40 | [Twin Skeleton's \(Hotel In NYC\)](https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:40 |
-| 41 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
-| 42 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
+| 41 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
+| 42 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 43 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 44 | [Spiders](https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:03 |
 | 45 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 74 | [Phantom](https://open.spotify.com/track/0iPIx70ur8CznX7bJPWnIX) | [Dead!](https://open.spotify.com/artist/2uQCQ4BmANn12eOlOfkwqF) | [Tu Me Manques](https://open.spotify.com/album/1MFC5R9UWF1JAES9SEOaXW) | 3:54 |
 | 75 | [Fangs](https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Fangs](https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O) | 3:32 |
 | 76 | [Ghostbusters \- Ultimate Version](https://open.spotify.com/track/6Id6xj6rPrTWDzZwAY5XFM) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Ghostbusters \(Ultimate Version\)](https://open.spotify.com/album/4ETYCLvy5jSGoz59UE9Mvd) | 2:45 |
-| 77 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 |
-| 78 | [Halloween 13\-13](https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Spook & Destroy](https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9) | 3:53 |
+| 77 | [Halloween 13\-13](https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Spook & Destroy](https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9) | 3:53 |
+| 78 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 |
 | 79 | [Halloween](https://open.spotify.com/track/3DpQh6dqj032o9aqpYYkzn) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Halloween](https://open.spotify.com/album/62myWRYmIPEDvAnoowJmJ5) | 3:59 |
 | 80 | [werewolf!](https://open.spotify.com/track/1RYuVM3vOJAInZ8rYQzW3f) | [SmallTownHollywood](https://open.spotify.com/artist/2f22FP6Sl8F7DyTDDZbDk0) | [werewolf!](https://open.spotify.com/album/507wDQtCuXQ89jcJoLGzuX) | 3:01 |
 

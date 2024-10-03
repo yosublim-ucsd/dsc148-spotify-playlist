@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-370 songs - 18 hr 1 min
+371 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cuando Prendo](https://open.spotify.com/track/0kMYyxS8Jo4230bAszKiqx) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Cuando Prendo](https://open.spotify.com/album/1IhUqxjmStJjQNWtGPEoUF) | 2:40 | 2024-06-17 |  |
 | [Curazao](https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Curazao](https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM) | 3:59 | 2021-11-19 | 2023-03-11 |
 | [Curazao](https://open.spotify.com/track/57lcetk9PZd6HQoCJGztTN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 4:04 | 2023-02-09 | 2023-02-18 |
+| [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 | 2024-10-02 |  |
 | [Dame de Eso](https://open.spotify.com/track/3T5ekpq47NVNEaCIIGc9Co) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Dame de Eso](https://open.spotify.com/album/3XQnar1V8lDDEFaphE2flD) | 2:48 | 2022-03-18 | 2023-03-11 |
 | [Dan2le](https://open.spotify.com/track/63712oXRDENUqIdUow7Rel) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Dan2le](https://open.spotify.com/album/2co6VQIolIoGc16q4jbu62) | 2:41 | 2024-03-14 | 2024-06-18 |
 | [De Manhattan Pa El Bronx](https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [De Manhattan Pa El Bronx](https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75) | 2:48 | 2021-11-19 | 2023-05-27 |
@@ -311,7 +312,7 @@
 | [Socorro](https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Socorro](https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ) | 2:25 | 2023-05-26 |  |
 | [Solteroski](https://open.spotify.com/track/0ETRyccZjuZBXoStGB5kc6) | [Los Solteroski](https://open.spotify.com/artist/3sDjufdk7xwwPnx7NNKE63), [Ariel Fortuna](https://open.spotify.com/artist/5z6MxAY9F3Mlgda8GJZHdT), [Yeral](https://open.spotify.com/artist/3dG1x1W45XaKRHkIwQpZlW) | [Solteroski](https://open.spotify.com/album/53E6nAATsQheECjMF5IzGL) | 3:20 | 2021-11-19 | 2022-03-05 |
 | [Son Trampa](https://open.spotify.com/track/0iadslZZI7iH0sHY41oB6t) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Son Trampa](https://open.spotify.com/album/7s3G8K0MTHT2M8pPnXZYFF) | 2:57 | 2022-03-18 | 2023-03-11 |
-| [Soy la Más Mala de España](https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Soy la Más Mala de España](https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM) | 1:50 | 2024-05-29 |  |
+| [Soy la Más Mala de España](https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Soy la Más Mala de España](https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM) | 1:50 | 2024-05-29 | 2024-10-03 |
 | [Soy Mamá](https://open.spotify.com/track/6aOcEXNX30kiWhinxz9NMF) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Soy Mamá](https://open.spotify.com/album/6SSrvF72A4BxsRDPDCRPrG) | 2:36 | 2022-03-18 | 2023-05-27 |
 | [Soy Mamá \(Remix\)](https://open.spotify.com/track/0ZQKdhpgwEXDFol41SREFn) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Soy Mamá \(Remix\)](https://open.spotify.com/album/15U77jsUNt9gKpBlfAMCKs) | 3:29 | 2022-11-11 | 2023-05-27 |
 | [Suave](https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Vibra Latina](https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC) | 3:31 | 2023-02-09 | 2023-03-11 |

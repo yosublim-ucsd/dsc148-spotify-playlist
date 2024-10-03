@@ -1009,13 +1009,21 @@
     },
     {
       "album": {
-        "name": "La Boix Vol. 1",
+        "name": "La Boix, Vol. 1",
         "url": "https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex"
       },
       "artists": [
         {
           "name": "LA Boix",
           "url": "https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx"
+        },
+        {
+          "name": "Thee Mike B",
+          "url": "https://open.spotify.com/artist/49nsDhtufKEYcLkIYv5cln"
+        },
+        {
+          "name": "Salva",
+          "url": "https://open.spotify.com/artist/0JQaXh3HoqpI68C2pYUbNW"
         }
       ],
       "date_added": "2024-10-01",

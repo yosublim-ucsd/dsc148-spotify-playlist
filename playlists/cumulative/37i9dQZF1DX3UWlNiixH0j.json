@@ -20516,7 +20516,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 270810,
       "name": "To get there",
       "url": "https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP"
@@ -21432,6 +21432,24 @@
       "duration_ms": 266000,
       "name": "Uwatsuitakimochi",
       "url": "https://open.spotify.com/track/6tVvbQpZGyr4CdgVnp2hju"
+    },
+    {
+      "album": {
+        "name": "vector",
+        "url": "https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303118,
+      "name": "vector",
+      "url": "https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX"
     },
     {
       "album": {

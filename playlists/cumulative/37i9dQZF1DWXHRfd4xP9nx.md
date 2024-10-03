@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-344 songs - 16 hr 10 min
+345 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2023-12-20 |  |
 | [Calming Storm](https://open.spotify.com/track/7iXfwy9XBFR1WaLs5CSb6Z) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:40 | 2023-12-20 |  |
 | [Cave Escape \- Rain](https://open.spotify.com/track/6tvrRjz2Z8RblCDfahdB8p) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Skyfall Oasis \(Rain\)](https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC) | 2:12 | 2023-12-20 |  |
-| [Cedar Hollow \- Rain](https://open.spotify.com/track/5MkzuWn59dxSxoSghcjye1) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Cedar Hollow \(Rain\)](https://open.spotify.com/album/1u6uIlZ9DeOr9OulzMoST8) | 3:00 | 2024-08-26 |  |
+| [Cedar Hollow \- Rain](https://open.spotify.com/track/5MkzuWn59dxSxoSghcjye1) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Cedar Hollow \(Rain\)](https://open.spotify.com/album/1u6uIlZ9DeOr9OulzMoST8) | 3:00 | 2024-08-26 | 2024-10-03 |
 | [Chill Drizzle](https://open.spotify.com/track/4ZitsEqe5QOzPOYCQkrMsT) | [Chillo Sapiens](https://open.spotify.com/artist/3jNjKJmbkMfQta1VkJ8ILq) | [Chill Drizzle](https://open.spotify.com/album/2m2xQ14Gfgo3UgX2CggAuV) | 2:46 | 2022-10-27 | 2023-12-21 |
 | [Chill Puddle Rain](https://open.spotify.com/track/3U6yTCH5TJ233GGXG3bDUI) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:04 | 2023-12-20 |  |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2023-12-20 |  |
@@ -344,6 +344,7 @@
 | [Unstoppable Rain](https://open.spotify.com/track/5sa0kHUUCQogrtDmODGmeb) | [When It Rains In California](https://open.spotify.com/artist/6ttzO188jzpYIyj00pSsyZ) | [Part One](https://open.spotify.com/album/1zoQBG8m0K5z3SrUwprXG0) | 2:57 | 2022-10-27 | 2023-12-21 |
 | [Vienna \(Rain\)](https://open.spotify.com/track/1VFWtXT3a4aCPjq0DXo80v) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Recentered in Nature](https://open.spotify.com/album/454jtT55gdWTo7La069M9j) | 2:48 | 2023-12-20 |  |
 | [Wake Up Rain](https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H), [Rain Recorders](https://open.spotify.com/artist/5GNSiWmGlKoycbxC8htQaH) | [Non Stop Rain](https://open.spotify.com/album/1SXdfBOoIPb094UtbsLjvP) | 2:10 | 2022-10-27 | 2024-03-22 |
+| [Wapusk \- Rain](https://open.spotify.com/track/43OUokavvYcYMCBSfZzcbU) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Wapusk \(Rain\)](https://open.spotify.com/album/20knIs0Ex5k1NkGegLsbFT) | 3:56 | 2024-08-26 |  |
 | [Warm Summer Rain](https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Warm Summer Rain](https://open.spotify.com/album/6yZFQrqbtGNymHCzkczaux) | 3:02 | 2024-03-21 |  |
 | [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-21 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2023-12-20 |  |

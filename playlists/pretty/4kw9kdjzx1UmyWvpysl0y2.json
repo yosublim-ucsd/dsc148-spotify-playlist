@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATFFihz5rVnj6JyoXJVr64Jtsr0kc5",
+  "snapshot_id": "AAATFs7wYh61Lb6fdw3LP5J0zTGd2+jo",
   "tracks": [
+    {
+      "added_at": "2024-10-02 16:34:24",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "XYSM",
+          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
+        }
+      ],
+      "duration_ms": 120759,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX"
+    },
     {
       "added_at": "2024-10-01 13:30:20",
       "album": {
@@ -1167,26 +1187,6 @@
       "duration_ms": 193953,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH"
-    },
-    {
-      "added_at": "2024-07-10 09:35:03",
-      "album": {
-        "name": "wish.",
-        "url": "https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Ellii",
-          "url": "https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e"
-        }
-      ],
-      "duration_ms": 206206,
-      "name": "wish.",
-      "url": "https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

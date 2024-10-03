@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 13 hr 51 min
+132 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-10-02 |  |
 | [A Little Suntin Suntin](https://open.spotify.com/track/5LpQBcRooC7Ig5SomUO7Qf) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Feel The Music](https://open.spotify.com/album/3R38w0nQOzuI5mcGPNivxm) | 5:37 | 2024-03-22 |  |
 | [ADD SUV \(feat\. Pharrell Williams\) \- Armand Van Helden Club Remix](https://open.spotify.com/track/7kE1g5T0Mmc84izq9DirqZ) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [ADD SUV](https://open.spotify.com/album/7iAhrXrGRbPcXWL6E8xiIW) | 4:44 | 2023-12-27 |  |
 | [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 | 2023-12-27 |  |
@@ -44,7 +45,7 @@
 | [District](https://open.spotify.com/track/2FwKcbtuPXlgvFF4r9Z8hX) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [District](https://open.spotify.com/album/6ktnFjv12Pvze2s9lxEl7H) | 7:24 | 2023-12-27 |  |
 | [Do You Like Bass](https://open.spotify.com/track/79LC6ploD44Xuc1fIFPcFi) | [Tom Flynn](https://open.spotify.com/artist/3lSeZGCmgYasoeYml0hQY8) | [Freshly Squeezed](https://open.spotify.com/album/6lr92ld4ZxYOzqIsawuoAN) | 7:10 | 2023-12-27 |  |
 | [Don't Laugh \- 2012 Remix](https://open.spotify.com/track/0F3vlz0J14LOUIcDHPl7sB) | [Winx](https://open.spotify.com/artist/1d6Y8qovnVO43ORF2PZ3Si), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Don't Laugh \(2012 Remix\)](https://open.spotify.com/album/4UueDoiRXCAqWuHz3Bl8fu) | 7:13 | 2023-12-27 |  |
-| [Don't You Want Some More](https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq) | [Vaggio](https://open.spotify.com/artist/4gvPnfYVfh6JkG7ZMtEKoG) | [Vaggio EP](https://open.spotify.com/album/0iFOrCy8VhUO9B2pX1IrOg) | 6:14 | 2023-12-27 |  |
+| [Don't You Want Some More](https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq) | [Vaggio](https://open.spotify.com/artist/4gvPnfYVfh6JkG7ZMtEKoG) | [Vaggio EP](https://open.spotify.com/album/0iFOrCy8VhUO9B2pX1IrOg) | 6:14 | 2023-12-27 | 2024-10-03 |
 | [Dope High \- Vocal Mix](https://open.spotify.com/track/3QNSRullaTc6aVD8Qu9rLu) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj) | [New Life EP](https://open.spotify.com/album/7CZCWveq1zJLdm1fup2cfW) | 7:52 | 2023-12-27 |  |
 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 | 2023-12-27 |  |
 | [Dream \- Bonus Mix](https://open.spotify.com/track/6EKjVbU2Ddv3cuIJQ5XPQG) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Dream](https://open.spotify.com/album/5bwB8ydOkOkaaPsXaVFHAr) | 7:40 | 2023-12-27 |  |

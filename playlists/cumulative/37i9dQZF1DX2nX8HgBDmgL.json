@@ -2983,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6FHlVxKmN3GdhH5uPFgZ2e"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Laiba Khurram",
+          "url": "https://open.spotify.com/artist/6kZAZpYJwnwpVF5R9nDTyz"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko"
+    },
+    {
+      "album": {
         "name": "Long Nights",
         "url": "https://open.spotify.com/album/5K9sVu09oltYHFivEeN46f"
       },
@@ -5920,6 +5942,28 @@
       "duration_ms": 182222,
       "name": "Zaalima",
       "url": "https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V"
+    },
+    {
+      "album": {
+        "name": "Zamaana",
+        "url": "https://open.spotify.com/album/1t0TxWQNKZrpUOomGJDBSv"
+      },
+      "artists": [
+        {
+          "name": "Shazia Manzoor",
+          "url": "https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159782,
+      "name": "Zamaana",
+      "url": "https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub"
     },
     {
       "album": {

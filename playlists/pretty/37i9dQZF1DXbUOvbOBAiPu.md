@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover:  <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist Berre
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,068 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,064 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 24 | [Come On](https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h) | 2:26 |
 | 25 | [Tu es où ?](https://open.spotify.com/track/43Nzbj3qxTnG6bcR2tg54e) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Tu es où ?](https://open.spotify.com/album/2SbYUaUdRwoonUi6y5OY4m) | 2:18 |
 | 26 | [OHMA TOKITA](https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OHMA TOKITA](https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ) | 2:15 |
-| 27 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 |
+| 27 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 |
 | 28 | [Happiness Suits You](https://open.spotify.com/track/1QNEAJeLGRHd4OnzmdWriF) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Happiness Suits You](https://open.spotify.com/album/4Zvm6rKeITRqsV3xHlTb1L) | 3:13 |
 | 29 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 | 30 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |

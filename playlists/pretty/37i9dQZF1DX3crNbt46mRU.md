@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,928 likes - 108 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,927 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 18 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 |
 | 19 | [WIE BREAKUPS GEHEN](https://open.spotify.com/track/7rE9XZvLgrYpU9JX3damSL) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [WIE BREAKUPS GEHEN](https://open.spotify.com/album/071uEOCMvTolGviImznW6q) | 2:26 |
 | 20 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 |
-| 21 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 |
+| 21 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 |
 | 22 | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/track/54Ti1KKYAVG2PdDdNx5cqH) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Namayana Women's Choir](https://open.spotify.com/artist/5VaB3puDBDbNGldxINR9rJ) | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/album/4XOUS79S6VwUizow9b4ePm) | 3:02 |
 | 23 | [War schön mit euch \(feat\. Haller\)](https://open.spotify.com/track/6YcW4D35MXsKnqAVF2EyO1) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Das Ende Der Welt \- Deluxe](https://open.spotify.com/album/2gbVLhIERSGH9tkeJybUpA) | 3:10 |
 | 24 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 |

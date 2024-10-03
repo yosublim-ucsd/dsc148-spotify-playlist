@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Post Nebbia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,303 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,301 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 |
-| 2 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
-| 3 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
-| 4 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 |
-| 5 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
-| 6 | [Anima](https://open.spotify.com/track/6FlqnN8TCxJcxKV7ICdrxQ) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Anima](https://open.spotify.com/album/5uBEgtnON3mPiRzTaytXQa) | 2:36 |
-| 7 | [Felice chi non è ancora nato](https://open.spotify.com/track/4zcKPzqv6qR0nROOhrazQz) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Felice chi non è ancora nato](https://open.spotify.com/album/18peU2N8gGnBOuFv2qM99Y) | 3:38 |
-| 8 | [Eric \- Che fai?](https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Eric \- Che fai?](https://open.spotify.com/album/6uR39BP9ceR0TrCYHgGk8c) | 3:00 |
-| 9 | [Alfabeto Morse](https://open.spotify.com/track/7hgbQAeDkakYnio3JsUblh) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Alfabeto Morse](https://open.spotify.com/album/4OXZQWrQrY0XhPjp8XQ8kW) | 3:26 |
+| 2 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 |
+| 3 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
+| 4 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
+| 5 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 |
+| 6 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
+| 7 | [Eric \- Che fai?](https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Eric \- Che fai?](https://open.spotify.com/album/6uR39BP9ceR0TrCYHgGk8c) | 3:00 |
+| 8 | [Felice chi non è ancora nato](https://open.spotify.com/track/4zcKPzqv6qR0nROOhrazQz) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Felice chi non è ancora nato](https://open.spotify.com/album/18peU2N8gGnBOuFv2qM99Y) | 3:38 |
+| 9 | [Anima](https://open.spotify.com/track/6FlqnN8TCxJcxKV7ICdrxQ) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Anima](https://open.spotify.com/album/5uBEgtnON3mPiRzTaytXQa) | 2:36 |
 | 10 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 |
-| 11 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 |
+| 11 | [Alfabeto Morse](https://open.spotify.com/track/7hgbQAeDkakYnio3JsUblh) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Alfabeto Morse](https://open.spotify.com/album/4OXZQWrQrY0XhPjp8XQ8kW) | 3:26 |
 | 12 | [Battesimo oscuro](https://open.spotify.com/track/1LGLBLCVMu1Tla7kzJNu85) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Battesimo oscuro](https://open.spotify.com/album/1blGSeXYebCT6fBueOWnRx) | 4:00 |
 | 13 | [LA SIGNORA DEI BACI](https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [LA SIGNORA DEI BACI](https://open.spotify.com/album/4jzO6ZLB4nIFxpFz4iVRSk) | 1:22 |
 | 14 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 |
 | 95 | [Rapide](https://open.spotify.com/track/0u1dTvTc1HGMOOFw1chrj6) | [Real Timpani](https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA) | [RX4XT](https://open.spotify.com/album/4dVKyxmriQC92cax9rHMpp) | 4:51 |
 
-Snapshot ID: `ZvXZnAAAAADwrF0SiZv33F2jRHGm4Lx/`
+Snapshot ID: `Zv1AgwAAAAB7btBOKGgIX66Zf/D9qi5K`

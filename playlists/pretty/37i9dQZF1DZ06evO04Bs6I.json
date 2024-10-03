@@ -1,12 +1,12 @@
 {
-  "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 109780,
+  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
+  "num_followers": 109797,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAAC61pfZNCxWEFzhkRp9mqCX",
+  "snapshot_id": "Zvs7gAAAAACr4J8bkw1ZrdlIfB6RU4gd",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 285624,
-      "name": "Vai Passar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Nunca Antes",
         "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 283360,
       "name": "Como Nunca Antes",
       "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Passar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 285624,
+      "name": "Vai Passar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
     },
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nem Um Segundo",
-        "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
+        "name": "Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
       },
       "artists": [
         {
-          "name": "Gabriel Pompeo",
-          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 349333,
-      "name": "Nem Um Segundo",
-      "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
+      "duration_ms": 236470,
+      "name": "Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -587,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Nem Um Segundo",
+        "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
       },
       "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 349333,
+      "name": "Nem Um Segundo",
+      "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
     },
     {
       "added_at": null,
@@ -619,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
+        "name": "N\u00e3o H\u00e1 o Que Temer",
+        "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
       },
       "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 236470,
-      "name": "Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
+      "duration_ms": 252352,
+      "name": "N\u00e3o H\u00e1 o Que Temer",
+      "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 252453,
       "name": "Confio em Ti",
       "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o H\u00e1 o Que Temer",
-        "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 252352,
-      "name": "N\u00e3o H\u00e1 o Que Temer",
-      "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
     },
     {
       "added_at": null,

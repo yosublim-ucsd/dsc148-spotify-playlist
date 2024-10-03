@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: Mariana Bfly.",
-  "num_followers": 13692,
+  "num_followers": 13694,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
+        "name": "boca",
+        "url": "https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "boca",
+      "url": "https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
         "name": "Triste Y Linda: Linda",
         "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 185081,
       "name": "Culito",
       "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
-        "name": "boca",
-        "url": "https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "boca",
-      "url": "https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a"
     },
     {
       "added_at": "2024-09-04 03:00:00",

@@ -1,28 +1,44 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 112707,
+  "num_followers": 112700,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp5zzQAAAACmA588GsNwwR5ZGFtBCW1N",
+  "snapshot_id": "Zv0a9wAAAAB0Ji4B+yH0wJ68/iEoM7lo",
   "tracks": [
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Heart of a Mother",
-        "url": "https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3"
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
       "artists": [
         {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
         }
       ],
-      "duration_ms": 272160,
-      "name": "Heart of a Mother",
-      "url": "https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ"
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 181958,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -107,18 +123,18 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+        "name": "Heart of a Mother",
+        "url": "https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3"
       },
       "artists": [
         {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
         }
       ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+      "duration_ms": 272160,
+      "name": "Heart of a Mother",
+      "url": "https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -155,22 +171,6 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 181958,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60"
     },
     {
       "added_at": "2024-07-18 22:00:00",

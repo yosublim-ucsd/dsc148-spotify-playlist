@@ -6,8 +6,48 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqLH+b5UBRwrSyYPHdQ062tnhJuVFY",
+  "snapshot_id": "AAAqMKaqt75G2pY8mD0+ULDt3hQXxJDm",
   "tracks": [
+    {
+      "added_at": "2024-10-02 22:29:46",
+      "album": {
+        "name": "Make U Dance (feat. Coach Harrison & Sarah De Warren)",
+        "url": "https://open.spotify.com/album/5n1rbgmAsNv9UZb9RiZTCU"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Make U Dance (feat. Coach Harrison & Sarah De Warren)",
+      "url": "https://open.spotify.com/track/0rN0ogLLaMz83dez9ZC9MS"
+    },
+    {
+      "added_at": "2024-10-02 22:30:04",
+      "album": {
+        "name": "Heaven Is Calling",
+        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
+    },
     {
       "added_at": "2024-08-06 19:32:19",
       "album": {

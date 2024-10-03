@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: giring ganesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,581 likes - 101 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,582 likes - 101 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

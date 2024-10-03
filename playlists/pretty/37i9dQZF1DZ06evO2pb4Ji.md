@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This Is League of Legends\. Los temas esenciales, todos en una lista.
+> This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,709 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,718 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 47 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
 | 48 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 |
 | 49 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
-| 50 | [No Chill \(Heartsteel\)](https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [REMIX RUMBLE \(Original Soundtrack from Teamfight Tactics Set 10\)](https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT) | 3:14 |
+| 50 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 | 51 | [Vi, the Piltover Enforcer \(Here Comes Vi\) \(From League of Legends: Season 2\)](https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [The Music of League of Legends: Season 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/5tbKnlrYfWLOS2oDNVRG1I) | 2:41 |
-| 52 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
+| 52 | [No Chill \(Heartsteel\)](https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [REMIX RUMBLE \(Original Soundtrack from Teamfight Tactics Set 10\)](https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT) | 3:14 |
 
-Snapshot ID: `ZvnqAAAAAABtVcTayELTON977RJI2wEk`
+Snapshot ID: `Zvs7gAAAAAAzvYnV8ktHLLiE4AVD9c8C`

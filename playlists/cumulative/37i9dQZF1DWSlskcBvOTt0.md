@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-755 songs - 2 day 20 hr 0 min
+756 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |
 | [Madre Tierra](https://open.spotify.com/track/7fTCXJjxY8Yds4QyFpJQOa) | [Vite](https://open.spotify.com/artist/6xDzE299teWXHoW3ZuCIHX), [Hole Box](https://open.spotify.com/artist/7FPuNa70lwxm2NqDqkzTs3) | [Marea](https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ) | 6:30 | 2021-05-07 | 2022-07-16 |
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
-| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 |  |
+| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2024-10-03 |
 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 | 2023-08-11 | 2023-09-11 |
 | [Maiye](https://open.spotify.com/track/2WI1B6gkTvsfwUgL1VbUGX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Maiye EP](https://open.spotify.com/album/5EN0keN9Vj7axJHl8LgDWa) | 6:22 | 2024-01-12 | 2024-03-27 |
 | [Makatao](https://open.spotify.com/track/0AYHqchYq7j81YuJBwwbAP) | [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Makatao](https://open.spotify.com/album/0Htb5bRGIDhTronNBsN2HP) | 2:58 | 2022-06-10 | 2022-07-28 |
@@ -474,6 +474,7 @@
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-07-08 | 2023-11-04 |
 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 | 2023-04-28 | 2023-08-20 |
 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 | 2024-09-27 |  |
+| [Ngeke](https://open.spotify.com/track/2YU8o3X8Oyp9Ljdf7TTlNp) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ngeke](https://open.spotify.com/album/7A4IhGJIySOF9ZxbDdANk0) | 3:31 | 2024-09-27 |  |
 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-08-19 | 2023-02-25 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 | 2022-12-15 |
 | [Nidze \- Radio Edit](https://open.spotify.com/track/7CkiV0U3DCAOhja5JqSjJj) | [Lucille](https://open.spotify.com/artist/7lsluaEWksJHKhckcic64l), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/5sVuSKtt0hclQEJK1mY2xe) | 3:36 | 2024-04-19 | 2024-05-18 |

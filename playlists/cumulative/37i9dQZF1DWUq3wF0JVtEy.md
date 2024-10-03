@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-482 songs - 23 hr 33 min
+483 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 | 2022-09-30 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-07-08 | 2023-01-06 |
 | [808](https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [808](https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh) | 2:56 | 2024-04-26 |  |
+| [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-30 |  |
 | [ADU](https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [Sam Helix](https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6) | [ADU](https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM) | 2:23 | 2023-07-14 | 2023-08-12 |
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 | 2022-12-17 |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 | 2024-04-19 |
@@ -244,7 +245,7 @@
 | [LEFT TO RIGHT](https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q) | 2:26 | 2023-03-10 | 2023-12-16 |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-26 | 2022-09-05 |
 | [Let Me Be The One](https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Let Me Be The One](https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU) | 2:39 | 2021-10-29 | 2022-04-21 |
-| [Let Me Go](https://open.spotify.com/track/2FfkyfDcT0GWWUX7fr5MyQ) | [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [ALY$HIA](https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3) | [Let Me Go](https://open.spotify.com/album/2uHlocPTUywNEkgnvDW5vp) | 2:37 | 2024-05-24 |  |
+| [Let Me Go](https://open.spotify.com/track/2FfkyfDcT0GWWUX7fr5MyQ) | [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [ALY$HIA](https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3) | [Let Me Go](https://open.spotify.com/album/2uHlocPTUywNEkgnvDW5vp) | 2:37 | 2024-05-24 | 2024-10-03 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-08 |  |
 | [Let You Go](https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [ANML KNGDM](https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS) | [Let You Go](https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT) | 3:04 | 2023-08-11 | 2023-10-07 |
 | [Let's Get Down](https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Let's Get Down](https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6) | 3:13 | 2021-10-29 | 2022-11-12 |

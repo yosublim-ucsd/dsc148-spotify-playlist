@@ -2,7 +2,7 @@
 
 ### [This Is Generación 12](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q9BpF)
 
-> This is Generación 12\. The essential tracks, all in one playlist.
+> This Is Generación 12\. Los temas esenciales, todos en una lista.
 
 72 songs - 7 hr 39 min
 

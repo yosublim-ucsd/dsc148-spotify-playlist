@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 287752,
+  "num_followers": 287828,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Diego Verdaguer En Los 70's",
+        "url": "https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Las Mejores Rondallas de Mexico",
         "url": "https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 236786,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Diego Verdaguer En Los 70's",
-        "url": "https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
     },
     {
       "added_at": "2019-09-04 23:38:38",

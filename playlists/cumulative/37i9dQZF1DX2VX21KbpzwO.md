@@ -2,7 +2,7 @@
 
 ### [Arab Bangers](https://open.spotify.com/playlist/37i9dQZF1DX2VX21KbpzwO)
 
-> Discover the bangers of the Middle East and North Africa.<br/>Cover : TUL8TE
+> Discover the bangers of the Middle East and North Africa.<br/>Cover : Samara
 
 77 songs - 3 hr 59 min
 

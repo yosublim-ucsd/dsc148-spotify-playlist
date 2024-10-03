@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5567,
+  "num_followers": 5571,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -867,18 +867,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+        "name": "2008 Concert, Monologue",
+        "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
       },
       "artists": [
         {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        },
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
         }
       ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+      "duration_ms": 350093,
+      "name": "GOOSE'S DREAM (feat.Lee Juck)",
+      "url": "https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -899,6 +903,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 193280,
       "name": "\uc0c8",
       "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "2008 Concert, Monologue",
-        "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 350093,
-      "name": "GOOSE'S DREAM (feat.Lee Juck)",
-      "url": "https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc2e0\ud574\ucca0",
-        "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
+        "name": "Eight Times Begin Again",
+        "url": "https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t"
       },
       "artists": [
         {
-          "name": "Byun Jin-Sub",
-          "url": "https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7"
-        },
-        {
-          "name": "Shin Hae Chul",
-          "url": "https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn"
+          "name": "So Chanwhee",
+          "url": "https://open.spotify.com/artist/0IsLM1iIcsp652W1ruNLfV"
         }
       ],
-      "duration_ms": 298297,
-      "name": "\uc9f8\uc988 \uce74\ud398",
-      "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
+      "duration_ms": 189701,
+      "name": "\ud604\uba85\ud55c \uc120\ud0dd",
+      "url": "https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Eight Times Begin Again",
-        "url": "https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t"
+        "name": "\uc2e0\ud574\ucca0",
+        "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
       "artists": [
         {
-          "name": "So Chanwhee",
-          "url": "https://open.spotify.com/artist/0IsLM1iIcsp652W1ruNLfV"
+          "name": "Byun Jin-Sub",
+          "url": "https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7"
+        },
+        {
+          "name": "Shin Hae Chul",
+          "url": "https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn"
         }
       ],
-      "duration_ms": 189701,
-      "name": "\ud604\uba85\ud55c \uc120\ud0dd",
-      "url": "https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp"
+      "duration_ms": 298297,
+      "name": "\uc9f8\uc988 \uce74\ud398",
+      "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
     },
     {
       "added_at": "2024-04-04 20:06:12",

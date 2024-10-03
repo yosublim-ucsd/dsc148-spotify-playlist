@@ -1,6 +1,6 @@
 {
   "description": "calma malvadeza \ud83d\udc40 \ud83d\ude30",
-  "num_followers": 57705,
+  "num_followers": 57761,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -644,7 +644,7 @@
       "added_at": "2024-09-13 03:01:00",
       "album": {
         "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
+        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
       },
       "artists": [
         {
@@ -652,13 +652,17 @@
           "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         },
         {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
         }
       ],
-      "duration_ms": 136888,
-      "name": "Nega Doce",
-      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+      "duration_ms": 149333,
+      "name": "Fitas",
+      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -876,7 +880,7 @@
       "added_at": "2024-09-13 03:01:00",
       "album": {
         "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
+        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
       "artists": [
         {
@@ -884,17 +888,13 @@
           "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         },
         {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        },
-        {
-          "name": "JOTA",
-          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Fitas",
-      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
+      "duration_ms": 136888,
+      "name": "Nega Doce",
+      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Versos e Voos",
         "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 187714,
       "name": "Na Rua",
       "url": "https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2024-09-13 03:01:00",

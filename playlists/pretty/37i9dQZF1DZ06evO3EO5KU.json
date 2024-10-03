@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
-  "num_followers": 156447,
+  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
+  "num_followers": 156468,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAACEO3pWihvKRM/k5wN0wbRA",
+  "snapshot_id": "Zvs7gAAAAAA2Wz+PWB37IOfwij9keVmZ",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Un Mentado Ariel",
+      "url": "https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duren",
         "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Suerte",
-        "url": "https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Un Mentado Ariel",
-      "url": "https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2 - En Vivo",
+        "url": "https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 187545,
+      "name": "Ense\u00f1ame A Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Costurera",
         "url": "https://open.spotify.com/album/3dY2FLPM4CzuNbKdVleabW"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 191688,
       "name": "La Careada",
       "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2 - En Vivo",
-        "url": "https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 187545,
-      "name": "Ense\u00f1ame A Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Guerrero - En Vivo",
-        "url": "https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Bien Guerrero - En Vivo",
-      "url": "https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relatos De Juan Jose",
         "url": "https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ"
       },
@@ -899,6 +879,22 @@
       "duration_ms": 251626,
       "name": "Relatos De Juan Jose - En Vivo",
       "url": "https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

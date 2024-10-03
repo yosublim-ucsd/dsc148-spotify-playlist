@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32681,
+  "num_followers": 32686,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
-      },
-      "artists": [
-        {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "M Swet\u00e9'l Dans\u00e9",
-      "url": "https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "I'll Yayad (Pretty Bumpy)",
         "url": "https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
+        "name": "No Dead End",
+        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+      },
+      "artists": [
+        {
+          "name": "Zenglen",
+          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "M Swet\u00e9'l Dans\u00e9",
+      "url": "https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
         "name": "F\u00e8'l Vini Avan",
         "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
       },
@@ -235,6 +235,38 @@
       "duration_ms": 360200,
       "name": "Pitit deyo",
       "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
+      },
+      "artists": [
+        {
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Metro Gouyad",
+      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -259,38 +291,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
-      },
-      "artists": [
-        {
-          "name": "Massiv3",
-          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Metro Gouyad",
-      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Kompa SHATTA",
         "url": "https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm"
       },
@@ -303,26 +303,6 @@
       "duration_ms": 114934,
       "name": "Kompa SHATTA",
       "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
-        "name": "Kanpe devanm",
-        "url": "https://open.spotify.com/album/0nt3MwxJVZMRPZh2sOpn7u"
-      },
-      "artists": [
-        {
-          "name": "5Lan",
-          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
-        },
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        }
-      ],
-      "duration_ms": 303079,
-      "name": "Kanpe devanm",
-      "url": "https://open.spotify.com/track/5ZfBDA0XCxmxwClnn4BaCZ"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -359,6 +339,46 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
+        "name": "Kanpe devanm",
+        "url": "https://open.spotify.com/album/0nt3MwxJVZMRPZh2sOpn7u"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        },
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "duration_ms": 303079,
+      "name": "Kanpe devanm",
+      "url": "https://open.spotify.com/track/5ZfBDA0XCxmxwClnn4BaCZ"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
         "name": "Rotary International Abidjan",
         "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 263414,
       "name": "Kenbe'l La",
       "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+        "name": "Et pourtant",
+        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
       "artists": [
         {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
         }
       ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
+      "duration_ms": 301087,
+      "name": "Vini'm pale w",
+      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "Et pourtant",
-        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
       },
       "artists": [
         {
-          "name": "Black Parents",
-          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
         }
       ],
-      "duration_ms": 301087,
-      "name": "Vini'm pale w",
-      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2024-08-16 06:26:05",

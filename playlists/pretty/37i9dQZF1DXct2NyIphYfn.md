@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs in French.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,433 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,471 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 40 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 41 | [Amour de quartier](https://open.spotify.com/track/024uQwyrMQnQr9BbwmnhmD) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/2rJLLtvAQc208wsHsQfNiZ) | 3:04 |
 | 42 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
-| 43 | [La nuit te ressemble](https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [La nuit te ressemble](https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk) | 2:49 |
+| 43 | [La nuit te ressemble](https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu) | [thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [La nuit te ressemble](https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk) | 2:49 |
 | 44 | [Un point c'est toi](https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 3:30 |
 | 45 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 46 | [Incendie](https://open.spotify.com/track/52i8FlTjU8GCmUf5irJwfu) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [L'étoile thoracique](https://open.spotify.com/album/1ylVhlh4AidAt5T7K653oH) | 3:38 |

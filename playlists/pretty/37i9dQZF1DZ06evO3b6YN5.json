@@ -1,12 +1,12 @@
 {
   "description": "This Is Little Jesus. Los temas esenciales, todos en una lista.",
-  "num_followers": 30329,
+  "num_followers": 30341,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAACskitYFieHcH6PsgJFUFP6",
+  "snapshot_id": "Zvs7gAAAAAArYRoyomrsUfbjdJCXIjYJ",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primavera 2020 (feat. Zoe Gotusso)",
-        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 289842,
-      "name": "Primavera 2020 (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+      "duration_ms": 258268,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Primavera 2020 (feat. Zoe Gotusso)",
+        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
       "artists": [
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 258268,
-      "name": "Color",
-      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
+      "duration_ms": 289842,
+      "name": "Primavera 2020 (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
     },
     {
       "added_at": null,

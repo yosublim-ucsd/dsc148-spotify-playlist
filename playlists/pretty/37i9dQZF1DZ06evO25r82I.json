@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 44623,
+  "num_followers": 44630,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAAAvxcWBJRmskY1LaePm3yyL",
+  "snapshot_id": "Zvs7gAAAAABftOOuA/W10P3VzJE2xzWY",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 249040,
-      "name": "Littlething",
-      "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
+      "duration_ms": 225986,
+      "name": "Coffee And Cigarettes",
+      "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 225986,
-      "name": "Coffee And Cigarettes",
-      "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
+      "duration_ms": 249040,
+      "name": "Littlething",
+      "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
     },
     {
       "added_at": null,

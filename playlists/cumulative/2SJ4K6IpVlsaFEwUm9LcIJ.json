@@ -4813,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188201,
+      "name": "The Good Humor Man He Sees Everything Like This - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG"
+    },
+    {
+      "album": {
         "name": "The Hand That I Put Down",
         "url": "https://open.spotify.com/album/66GIzOZ0fYkob5SrQVYTEB"
       },

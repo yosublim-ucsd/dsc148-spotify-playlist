@@ -4,7 +4,7 @@
 
 > 
 
-1,735 songs - 3 day 21 hr 14 min
+1,736 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [Party Till We Die](https://open.spotify.com/track/5hWex38oqFdZLodrPVepVu) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:42 | 2024-05-23 |  |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-09-27 |  |
 | [Path of Solitude](https://open.spotify.com/track/3lMYz9ZK9jgirqvfTWAe6q) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Path of Solitude](https://open.spotify.com/album/1Qaf04IcI3ZYGsfvT9eShi) | 3:03 | 2023-03-21 |  |
+| [PAWAH](https://open.spotify.com/track/3T0hSTxBMiTBNixd06uOM5) | [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [PAWAH](https://open.spotify.com/album/7Lf6bdivyBqYbs8ebxbulo) | 2:08 | 2024-10-02 |  |
 | [Pay Me Back](https://open.spotify.com/track/1myjKQtU7eQavmPlbM65yl) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7), [Warmonger](https://open.spotify.com/artist/7r215CAqxP8Sar0SZdZYJS) | [Pay Me Back](https://open.spotify.com/album/14yBvk7y7JDvmgdbgIq833) | 3:02 | 2022-11-29 |  |
 | [PENETRATION](https://open.spotify.com/track/7DRwBMm32LKGrA5MuVD2EO) | [Why Not](https://open.spotify.com/artist/4Ti7b6b9nriLYsrxsLzmCK), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [PENETRATION](https://open.spotify.com/album/5yK8gopvG1e6Nlov8jr3Ap) | 3:00 | 2023-03-31 |  |
 | [People Pleaser \- Extended Mix](https://open.spotify.com/track/46hHichvLy5GgYrci0gmW7) | [Diakronik](https://open.spotify.com/artist/3HiIiHKwTUUUDlrRJH302H), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Happy Kronikles EP](https://open.spotify.com/album/2yhNP1ogDnbYQFfnDoiRPr) | 4:32 | 2022-09-02 |  |

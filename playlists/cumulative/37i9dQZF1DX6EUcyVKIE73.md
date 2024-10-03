@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-69 songs - 19 hr 36 min
+70 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Raga Madhmad Sarang \(Tarana in drut teental \- ektal\)](https://open.spotify.com/track/48R84g299s8mIfiQU4WkXV) | [Veena Sahasrabuddhe](https://open.spotify.com/artist/5u1S4wqSqEH05Aup3Z1SuO), [Pandit Sudhanshu Kulkarni](https://open.spotify.com/artist/1lCn8FI9miKZn7qFDWRjRY), [Sanjay Deshpande](https://open.spotify.com/artist/0VnLnRw3YVFq1l39VQELHk), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [Raga Madhmad Sarang & Bhajan \(Live\)](https://open.spotify.com/album/5QoRMuVHQLK5nNeFZJepjV) | 18:59 | 2021-12-06 |  |
 | [Raga Mand Bhairav](https://open.spotify.com/track/4wYMQoYxttFTyDXFeVIxK6) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 9:19 | 2021-12-06 |  |
 | [Raga Megh \- Tala Jhaptala and Teentala](https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ) | [Ghulam Mustafa Khan](https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg), [Sultan Niyaz](https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx) | [Celebrating the Legend \- Ghulam Mustafa Khan](https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK) | 21:27 | 2021-12-06 |  |
+| [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 | 2024-10-02 |  |
 | [Raga Mishra Mel Ki Malhar](https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Bharat Ratna](https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge) | 15:00 | 2021-12-06 |  |
 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 | 2021-12-06 |  |
 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 | 2021-12-06 |  |

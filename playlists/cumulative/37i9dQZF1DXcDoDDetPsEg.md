@@ -4,7 +4,7 @@
 
 > Co\-curated with Dave for the Santan Cup 2024 ⚽
 
-1,296 songs - 2 day 17 hr 49 min
+1,300 songs - 2 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2089](https://open.spotify.com/track/397lYGVTrCexKsTg8kSnvE) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [2089](https://open.spotify.com/album/2AyEwRKdDEBDOgC6ZPfNfo) | 2:53 | 2024-02-16 | 2024-03-29 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-06-09 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-20 | 2022-06-25 |
+| [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 | 2024-10-02 |  |
 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 | 2022-08-19 | 2022-10-14 |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2022-02-25 | 2022-03-04 |
 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2022-08-23 | 2022-08-31 |
@@ -946,6 +947,7 @@
 | [Pump 101](https://open.spotify.com/track/4MKOj49FQ3dlI9gqCOIjIn) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Still Brickin'](https://open.spotify.com/artist/79v8bTtrn8a0Idbv9WkddX) | [Pump 101](https://open.spotify.com/album/0ZIab9a4PhidpDukWo0MX1) | 2:32 | 2022-02-25 | 2022-05-14 |
 | [Puppies](https://open.spotify.com/track/3UNKXRqUOzfBIk6oXvs7YW) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Puppies](https://open.spotify.com/album/4XIIDKqlE05ITdEDeT7F4q) | 2:41 | 2024-09-25 |  |
 | [Pure Filth](https://open.spotify.com/track/4UpfEY1QgZUerJ2lAWUyuL) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Pure Filth](https://open.spotify.com/album/4Lyt54HRVYT9jQ2tenqatt) | 3:06 | 2022-08-12 | 2022-09-10 |
+| [Purpose](https://open.spotify.com/track/20mYQEiQ5yLBc4CdBT4rAx) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Purpose](https://open.spotify.com/album/25aOQdVCJa9K6uKZU5noQf) | 2:56 | 2024-10-02 |  |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-25 | 2024-06-22 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-02-25 | 2022-04-08 |
 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 | 2022-03-08 | 2022-03-09 |
@@ -1087,6 +1089,7 @@
 | [STORY](https://open.spotify.com/track/19O8BNgECit13QYa7DXpHw) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [STORY](https://open.spotify.com/album/3AB9xabIYr5XuxfQeCJ0ew) | 1:56 | 2024-09-19 |  |
 | [Str8 Outta Kennington \(feat\. Blanco & NSJ Mali\)](https://open.spotify.com/track/2ivzkozfHlHCabNGJOr5Qe) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [The Cost of Being](https://open.spotify.com/album/1NHAoAwuN2OwtfJUPeY75d) | 2:53 | 2024-05-17 | 2024-06-14 |
 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 | 2022-02-25 | 2022-06-10 |
+| [Streets Made Me A King](https://open.spotify.com/track/1w7H5i90qKI84qdPaNpthi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/6UwxCr559vsWAmVC6WkrI3) | 3:04 | 2024-10-02 |  |
 | [Stress Free \- Raw](https://open.spotify.com/track/6SJiWvwpl8A6Q9swnk1j5k) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Stress Free](https://open.spotify.com/album/0xDQfHj9i7SAwQX0MyGr72) | 2:11 | 2024-08-02 |  |
 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 | 2023-07-13 | 2023-10-24 |
 | [Studio Fit Riddim](https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Studio Fit Riddim](https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv) | 1:42 | 2024-08-29 |  |
@@ -1105,6 +1108,7 @@
 | [Superstar](https://open.spotify.com/track/0zvjP7DPywMIp4Y560HV6l) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Superstar](https://open.spotify.com/album/5B8p0jHvnW0faG62vTuHWk) | 2:41 | 2024-04-25 | 2024-05-25 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-01 | 2024-03-01 |
 | [SURVIVAL MODE](https://open.spotify.com/track/6SKpv3Vmz7TGgq45pYXQqu) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [SURVIVAL MODE](https://open.spotify.com/album/2IoaBhnabgu8EpR5Nn7Jj5) | 5:44 | 2024-09-06 |  |
+| [Survivor's Guilt](https://open.spotify.com/track/1Xapo8sq7KcQXdt0HrXX5B) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:40 | 2024-10-02 |  |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-31 | 2024-07-12 |
 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 | 2024-05-10 | 2024-05-25 |
 | [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 |  |

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-419 songs - 20 hr 29 min
+420 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and The Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 | 2022-12-23 |  |
 | [Don't Look Up \- Main Title Theme](https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 0:51 | 2022-01-07 |  |
 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 | 2021-12-20 | 2022-08-20 |
+| [Dragon Age: The Veilguard Main Theme \[From "Dragon Age: The Veilguard \(Original Soundtrack\)"\]](https://open.spotify.com/track/7GdtGX6625BvjsgnUMiNje) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Dragon Age: The Veilguard Main Theme \[From "Dragon Age: The Veilguard \(Original Soundtrack\)"\]](https://open.spotify.com/album/5MEWANQ4igrisbN7mDFYho) | 6:16 | 2024-10-02 |  |
 | [Dreams](https://open.spotify.com/track/2egNpOad1kRNG32VE5uHtF) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Slumberland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F) | 1:03 | 2022-11-18 |  |
 | [Dungeons and Dragons](https://open.spotify.com/track/30NS4OLaCDe0aJOPCcrF1J) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Dungeons & Dragons: Honor Among Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xfCcBT8UbC8wjszXjyPPf) | 1:35 | 2023-03-31 | 2024-04-19 |
 | [Dungeons and Dragons](https://open.spotify.com/track/6mvqaruxBnqbgFEEvnUzaA) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Dungeons & Dragons: Honour Among Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5xiv7MsgDHRpIGETS0hXrm) | 1:35 | 2024-04-12 |  |

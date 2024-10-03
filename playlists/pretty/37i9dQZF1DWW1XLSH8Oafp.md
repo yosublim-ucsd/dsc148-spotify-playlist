@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring okgiorgio
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,844 likes - 160 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,797 likes - 160 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

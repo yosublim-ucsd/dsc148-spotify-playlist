@@ -4,7 +4,7 @@
 
 > 🫧 ₊˚⊹♡ Fousheé on repeeeeat ‧₊˚ 🎐✩
 
-3,008 songs - 6 day 18 hr 42 min
+3,009 songs - 6 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2836,6 +2836,7 @@
 | [Watch Me Heal](https://open.spotify.com/track/7GGmQUXYOOK7b2mHo3avMP) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 2:21 | 2021-12-22 | 2022-03-18 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-11-18 |
 | [waterfall](https://open.spotify.com/track/4pfMtNvaxXwvKOdoQNOxxZ) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [assisted memories](https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP) | 3:42 | 2024-06-09 | 2024-07-27 |
+| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-10-02 |  |
 | [Way You Move](https://open.spotify.com/track/2Ag5V54YBuSbSZtBzN7I0w) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Way You Move](https://open.spotify.com/album/5FBUu5EuGfzHuSeSTO1ql8) | 2:16 | 2020-01-24 | 2020-02-20 |
 | [wayne \(demo\)](https://open.spotify.com/track/2vsiIis8R6s5DdceaTj0rk) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Clean Weird Prone \(Inner World Peace Deluxe\)](https://open.spotify.com/album/7haxpWiYhrr3yLN5yBC5jO) | 2:05 | 2023-04-28 | 2023-06-02 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2019-07-30\* | 2021-12-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,886 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,883 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 24 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
 | 25 | [X vs ZERO](https://open.spotify.com/track/3teAU91RucnMgiFsh0JkhE) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [ロックマンX5 サウンド コレクション](https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp) | 2:43 |
 | 26 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
-| 27 | [OPENING STAGE](https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:35 |
-| 28 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 |
+| 27 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 |
+| 28 | [OPENING STAGE](https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:35 |
 | 29 | [追求 ～追いつめないと](https://open.spotify.com/track/0RFqcEz2UQkBccRilC278S) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [逆転裁判4 オリジナル・サウンドトラック](https://open.spotify.com/album/3haM8GP0d5GVapGEwxyH2O) | 1:49 |
 | 30 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
 | 31 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザード 6 オリジナル・サウンドトラック](https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk) | 3:50 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 33 | [X4 \- BOSS](https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [ロックマンX アニバーサリーコレクション サウンドトラック](https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy) | 2:51 |
 | 34 | [ULTRA VIOLET\(ネロ アンジェロ戦\)](https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ オリジナル・サウンドトラック](https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf) | 3:21 |
 | 35 | [墓場](https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
-| 36 | [ROCKMAN2/Dr\. WILY STAGE 1 \-OMEGAMAN MIX\-](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
-| 37 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:54 |
+| 36 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:54 |
+| 37 | [ROCKMAN2/Dr\. WILY STAGE 1 \-OMEGAMAN MIX\-](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |
 | 38 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 |
 | 39 | [Dr.WILY STAGE](https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [ロックマン11 運命の歯車!! オリジナルサウンドトラック](https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u) | 3:03 |
 | 40 | [Free From Fear](https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 2:06 |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:kiiko\. Artwork: Isu Kim
 
-355 songs - 19 hr 2 min
+356 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 | 2022-10-04 | 2023-06-07 |
 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 | 2022-09-20 | 2022-11-16 |
 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 | 2022-09-20 | 2023-02-15 |
-| [Btebrom](https://open.spotify.com/track/5Nks9uLwSQkCQ8QmBqcdUA) | [Farah Nakhoul](https://open.spotify.com/artist/6gAH3YNlApB84dCoFgCSZZ) | [Btebrom](https://open.spotify.com/album/2TrO6IjRgmrs2BRcncV5tT) | 2:27 | 2024-07-09 |  |
+| [Btebrom](https://open.spotify.com/track/5Nks9uLwSQkCQ8QmBqcdUA) | [Farah Nakhoul](https://open.spotify.com/artist/6gAH3YNlApB84dCoFgCSZZ) | [Btebrom](https://open.spotify.com/album/2TrO6IjRgmrs2BRcncV5tT) | 2:27 | 2024-07-09 | 2024-10-03 |
 | [Bye](https://open.spotify.com/track/66odrdtPiGyJNXLFvUdY0A) | [Roy YunGod](https://open.spotify.com/artist/0krZz1kM4FvOmrzu0QR3w7) | [Bye](https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ) | 1:45 | 2022-09-20 | 2022-10-05 |
 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 | 2022-09-27 | 2022-11-02 |
 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 | 2022-09-20 | 2023-03-02 |
@@ -243,7 +243,7 @@
 | [Options](https://open.spotify.com/track/1vFoehNqZiEjAwYReBdAff) | [AB](https://open.spotify.com/artist/3fRLeiaGIS4o3hgu8OV2MP) | [Options](https://open.spotify.com/album/3OYilYvbdSROl1RphaJ3HB) | 2:03 | 2023-03-01 | 2023-05-24 |
 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 | 2022-09-20 | 2023-06-21 |
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-17 | 2023-06-21 |
-| [Ounadikum](https://open.spotify.com/track/3lcPh0na5tX0ZLSABmd87e) | [Arab Daughters](https://open.spotify.com/artist/01AaIFJ0ZnKmp1MdQjCKFo) | [Ounadikum](https://open.spotify.com/album/5V4N3Gu4QEXcVTwVdrNYGM) | 3:44 | 2024-10-01 |  |
+| [Ounadikom](https://open.spotify.com/track/3lcPh0na5tX0ZLSABmd87e) | [Arab Daughters](https://open.spotify.com/artist/01AaIFJ0ZnKmp1MdQjCKFo) | [Ounadikom](https://open.spotify.com/album/5V4N3Gu4QEXcVTwVdrNYGM) | 3:44 | 2024-10-01 |  |
 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 | 2023-05-09 | 2023-07-06 |
 | [over my dead body](https://open.spotify.com/track/3smNeqQT9Q5rjXPNqiYRAZ) | [Moelex](https://open.spotify.com/artist/6vXFJ4s8h7xHmbLKMBUJU8) | [over my dead body](https://open.spotify.com/album/46wQxwOwgs6RWQ7WKdTjPi) | 3:26 | 2024-06-26 | 2024-09-12 |
 | [Passion](https://open.spotify.com/track/49siBFG6nAZ7LKgtGLBwrs) | [Zaid Owies](https://open.spotify.com/artist/1exETajF6h1jnSPNyJgKCV) | [Passion](https://open.spotify.com/album/71pK0BThwTi3YNX4o1MO1v) | 1:28 | 2024-10-01 |  |
@@ -337,6 +337,7 @@
 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 | 2022-09-27 | 2022-10-26 |
 | [You](https://open.spotify.com/track/33BnkEFiFqfuPB4hwx6zuW) | [ANDY VAN DEE](https://open.spotify.com/artist/7dqsOmTmyVPn4osfk1Z4Ob) | [You](https://open.spotify.com/album/6PSbkCJ13g775K0eTDBmjp) | 3:34 | 2023-02-14 | 2023-03-02 |
 | [you know](https://open.spotify.com/track/5R6AgUJDrWay0cuO8enMez) | [Kabier](https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21) | [you know](https://open.spotify.com/album/57StiABs37UCH0w0a6yxyp) | 2:31 | 2023-08-23 | 2023-10-05 |
+| [You Know It](https://open.spotify.com/track/4Zqxfvgswt0P6sjrxYVrKY) | [Lack](https://open.spotify.com/artist/4n3tFe4utDZymEVjfr1oic), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [You Know It](https://open.spotify.com/album/5GUGmhirZv3cAEqdT1CkfV) | 3:07 | 2024-10-02 |  |
 | [Zahma](https://open.spotify.com/track/56gIBbVdJGpKTzU9clIGfZ) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Zahma](https://open.spotify.com/album/6w7utjblhnH3POCa7XuGEz) | 2:36 | 2022-09-27 | 2022-10-12 |
 | [Zanqa](https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT) | [Dali Chebil](https://open.spotify.com/artist/03BgaCpEKpepM1iykl4C5l) | [DENYA](https://open.spotify.com/album/3ai4sZXguA2esRD3rQ0MKx) | 4:25 | 2023-03-01 | 2023-05-24 |
 | [ZAWIA](https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9) | [Haris Hamza](https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu) | [ZAWIA](https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb) | 2:23 | 2022-09-20 | 2022-10-26 |

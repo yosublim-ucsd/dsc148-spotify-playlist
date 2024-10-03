@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain](/playlists/plain/37i9dQZF1DWSvFcCTKoddA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSvFcCTKoddA)
 
-### [RADAR Podcasters France](https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA)
+### [RADAR Creators France](https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA)
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,758 likes - 10 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,759 likes - 10 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 9 | [Cher journal \(update life omg\)](https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 41:14 |
 | 10 | [Soirée d’été 7 \- Vos histoires d'amitié](https://open.spotify.com/episode/6aAdHetRIXdAjradckSW6o) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 43:52 |
 
-Snapshot ID: `ZvFcbAAAAAA+An6NmmEOjoP9Ul1A3Xgp`
+Snapshot ID: `Zv1MggAAAACjpq4ccCiGlNoQS793GlBn`

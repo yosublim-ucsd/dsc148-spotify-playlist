@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "DESTINY",
+        "url": "https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232718,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/7tYs4B4jm8E8UmvDG9iMVc"
+    },
+    {
+      "album": {
         "name": "BIGBANG Vol. 1",
         "url": "https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 217738,
       "name": "First Love",
       "url": "https://open.spotify.com/track/2LdOm1BBfBbQjw9LrqmfuC"

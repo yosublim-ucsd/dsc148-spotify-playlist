@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,664 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,697 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 79 | [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 |
 | 80 | [O Pedreiro e a Cinderela](https://open.spotify.com/track/4yLzKvat3yF2kceREsBJyD) | [Robério e Seus Teclados](https://open.spotify.com/artist/5tgdv17YvYp5u2YS4rsSRl) | [Maridão Dvd](https://open.spotify.com/album/4UQCbbuzXDLlk5NLdRxxzV) | 2:56 |
 | 81 | [Se Quer Saber \- Ao Vivo](https://open.spotify.com/track/4y4Xx3472fggyagdjTSq1k) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô \(Ao Vivo\)](https://open.spotify.com/album/0jR2WWbLRPJ30QhB2uGs9b) | 2:49 |
-| 82 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
-| 83 | [Eu Vou Descer \- Ao Vivo](https://open.spotify.com/track/27uQBl7HobUjBM0aiCQFxZ) | [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Sinta Essa Vibe, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4e8yiGk1u8hVNRRv7NTCGJ) | 3:08 |
+| 82 | [Eu Vou Descer \- Ao Vivo](https://open.spotify.com/track/27uQBl7HobUjBM0aiCQFxZ) | [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Sinta Essa Vibe, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4e8yiGk1u8hVNRRv7NTCGJ) | 3:08 |
+| 83 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
 | 84 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
 | 85 | [Na Madrugada Você Volta \- Ao Vivo](https://open.spotify.com/track/5N50khwtctS9mdLK0uvVJB) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Cavaleiros Inesquecível \(Ao Vivo em Natal/RN\)](https://open.spotify.com/album/2frt7dymwzO4Xxi6Sax9d8) | 2:48 |
 | 86 | [Galera do Interior](https://open.spotify.com/track/5xKFBjIEeEzvrAvWDgaEeA) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Galera do Interior](https://open.spotify.com/album/4l8lO3NVtTl199UYdaGwDk) | 2:30 |

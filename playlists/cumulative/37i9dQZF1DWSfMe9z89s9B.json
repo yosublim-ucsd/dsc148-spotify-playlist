@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
+      "album": {
         "name": "ALL THAT U WANT",
         "url": "https://open.spotify.com/album/3BGrYo5OCTJgm8VN01wos7"
       },
@@ -10100,7 +10118,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 195257,
       "name": "HONEY (feat. bLAck pARty)",
       "url": "https://open.spotify.com/track/6jTytYwbjNGK0dRQMSJZRq"
@@ -11496,7 +11514,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 174496,
       "name": "it don't hit no more",
       "url": "https://open.spotify.com/track/1beDigZX6dQfhSDUZvOGWc"
@@ -15062,7 +15080,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 127526,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/4nKQOCFrY9zJ4LRmvRFEHp"

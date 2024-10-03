@@ -1,6 +1,6 @@
 {
   "description": "This week's top new releases. Cover: Shakira",
-  "num_followers": 40928,
+  "num_followers": 40927,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
@@ -376,12 +376,12 @@
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
           "name": "Marjinal",
           "url": "https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
       "duration_ms": 173760,

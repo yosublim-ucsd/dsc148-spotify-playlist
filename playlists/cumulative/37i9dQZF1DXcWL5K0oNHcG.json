@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 246505,
       "name": "12TH DIMENSION CARAVAN",
       "url": "https://open.spotify.com/track/0uKRZ3PkWqVvAJLa75KIXK"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 220250,
       "name": "Current",
       "url": "https://open.spotify.com/track/1v7D15jgs5DJwVwFLqAxTa"
@@ -6080,6 +6080,24 @@
       "duration_ms": 434352,
       "name": "Dance Of The White Shadow And Golden Kite",
       "url": "https://open.spotify.com/track/0WHjkvB6uAD7osvJwuFgBi"
+    },
+    {
+      "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
     },
     {
       "album": {
@@ -7631,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "Egungun",
+        "url": "https://open.spotify.com/album/7J7YZVUDS8IHSYDqR1ZlQo"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Egungun",
+      "url": "https://open.spotify.com/track/1XgM9dS27HgCLf0Hh4rbPD"
+    },
+    {
+      "album": {
         "name": "EJS",
         "url": "https://open.spotify.com/album/6o9Ad7lUqLKGXgM4DLck42"
       },
@@ -8807,6 +8843,28 @@
     },
     {
       "album": {
+        "name": "Finisterre",
+        "url": "https://open.spotify.com/album/41NYuudKtGa3sKOkgLppVh"
+      },
+      "artists": [
+        {
+          "name": "Lara Wong",
+          "url": "https://open.spotify.com/artist/2QqCyGDO7DYxAva9OJIdf2"
+        },
+        {
+          "name": "Melon Jimenez",
+          "url": "https://open.spotify.com/artist/3egmU9Nvsi72ljrtpSsVgx"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241761,
+      "name": "Finisterre",
+      "url": "https://open.spotify.com/track/0EvxOBkk6RmKq9Gu2YHHgi"
+    },
+    {
+      "album": {
         "name": "First Shot",
         "url": "https://open.spotify.com/album/26P8mp3NxP8keDbmD3HX1h"
       },
@@ -9868,7 +9926,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 348786,
       "name": "FUNky Times",
       "url": "https://open.spotify.com/track/7J5CbXTXO0pIdPza9Pytpe"
@@ -10816,7 +10874,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 187605,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/06eqjfPposQZfedZhoNTdH"
@@ -11158,6 +11216,28 @@
       "duration_ms": 284809,
       "name": "Horns & Battle",
       "url": "https://open.spotify.com/track/19VTAGAfBg6LUE9GOXOhMd"
+    },
+    {
+      "album": {
+        "name": "Hottest September",
+        "url": "https://open.spotify.com/album/370psCY0fv8Iw1ZtZ1sZVr"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        },
+        {
+          "name": "Lukas Thoeni",
+          "url": "https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133558,
+      "name": "Hottest September",
+      "url": "https://open.spotify.com/track/3R0Kf4lFHJ9FBpAAEjjGep"
     },
     {
       "album": {
@@ -11660,7 +11740,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 230069,
       "name": "I'm Easy",
       "url": "https://open.spotify.com/track/7c7qiEM6ZBrzR1fXlnC7o8"
@@ -15014,7 +15094,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 206973,
       "name": "Loop",
       "url": "https://open.spotify.com/track/4GX7xgJ6rfFLy8jo3lG8TI"
@@ -15656,6 +15736,24 @@
       "duration_ms": 192826,
       "name": "Marcovaldo",
       "url": "https://open.spotify.com/track/5Lom5Jdjtfe45AJZywRjNi"
+    },
+    {
+      "album": {
+        "name": "Marina del Rey",
+        "url": "https://open.spotify.com/album/6826yU0TTl1XpferIzYPAB"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133065,
+      "name": "Marina del Rey",
+      "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
     },
     {
       "album": {
@@ -16834,6 +16932,24 @@
       "duration_ms": 257592,
       "name": "More Lemon Juice",
       "url": "https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1"
+    },
+    {
+      "album": {
+        "name": "More Purple Than Ever",
+        "url": "https://open.spotify.com/album/4vfrujJxu2c1N526aIUdIn"
+      },
+      "artists": [
+        {
+          "name": "Apifera",
+          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "More Purple Than Ever",
+      "url": "https://open.spotify.com/track/0J38E8bTJINcEzUQiTlbW2"
     },
     {
       "album": {

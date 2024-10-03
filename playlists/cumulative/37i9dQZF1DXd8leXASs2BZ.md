@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
 
-660 songs - 1 day 6 hr 26 min
+661 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [Sweetest Day Of June](https://open.spotify.com/track/5GGWCsK5mC6XfklbVqPoxA) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Sweetest Day Of June](https://open.spotify.com/album/4UrTXqcnqi0adtcHOCV9TL) | 3:33 | 2024-08-07 | 2024-08-21 |
 | [SWEETHEART \- Remix](https://open.spotify.com/track/2v6dPfhHXG8m1Vu9Cfq7co) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [SWEETHEART \(Remix\)](https://open.spotify.com/album/16gP5RNfZ3i12zEs9nKgp8) | 3:54 | 2024-02-22 | 2024-03-22 |
 | [syuzinkou](https://open.spotify.com/track/6NTWzrWaqpVqsa9yhhnhbe) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 2:19 | 2024-06-04 | 2024-08-21 |
+| [TAKE\-OFF](https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [TAKE\-OFF](https://open.spotify.com/album/6xrdQXU1LXphoBAOk5oFQT) | 2:40 | 2024-10-01 |  |
 | [TANSAN](https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TANSAN](https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy) | 3:06 | 2024-01-25 | 2024-02-23 |
 | [Tears](https://open.spotify.com/track/7MawmVRLEexXh4FpxhaAUU) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Tears](https://open.spotify.com/album/5F4uqHJWWvtr6pHmcFVwDu) | 2:27 | 2024-07-10 | 2024-08-21 |
 | [tetote](https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [tetote](https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY) | 2:02 | 2023-12-07 | 2024-01-31 |

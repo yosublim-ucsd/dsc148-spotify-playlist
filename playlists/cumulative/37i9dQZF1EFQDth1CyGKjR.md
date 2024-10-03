@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-416 songs - 1 day 3 hr 13 min
+417 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [God's Warrior](https://open.spotify.com/track/3Dkj37f0j3th0ZqtbWxh2s) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 2:47 | 2024-01-29 |  |
 | [Good Enough \(feat\. Jussie Smollett\)](https://open.spotify.com/track/0iqY4f4lNp2Bh1rthklY1q) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Original Soundtrack from Season 1 of Empire \(Deluxe\)](https://open.spotify.com/album/65nrMZ7EnJgYKeasDhRXTy) | 3:50 | 2024-01-29 |  |
 | [Got Em Covered](https://open.spotify.com/track/2dyhNwlwm8Uo0aOvp5hW3K) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Ab\-Liva](https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF) | [King Push – Darkest Before Dawn: The Prelude](https://open.spotify.com/album/4OoNqHBpbgDoqtN3u1IdiC) | 3:15 | 2024-01-29 |  |
-| [Got Those](https://open.spotify.com/track/1U9x0AnKiFS2PLYkADZenY) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Coolaid](https://open.spotify.com/album/4AEz6t3y9vgpv19LGQH2fr) | 3:31 | 2024-01-29 |  |
+| [Got Those](https://open.spotify.com/track/1196BBsEsiupjL3BUw7lut) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [COOLAID](https://open.spotify.com/album/5PcQCqnfkK1IY9lrfE8sMQ) | 3:31 | 2024-10-02 |  |
+| [Got Those](https://open.spotify.com/track/1U9x0AnKiFS2PLYkADZenY) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Coolaid](https://open.spotify.com/album/4AEz6t3y9vgpv19LGQH2fr) | 3:31 | 2024-01-29 | 2024-10-03 |
 | [Grab The Wheel](https://open.spotify.com/track/28Kg4ztXQXWPR9JjBMZNbk) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Grab The Wheel](https://open.spotify.com/album/5Bkq44POIiFekFUMQjkBdL) | 3:45 | 2024-01-29 |  |
 | [Grey Goose Chase \(feat\. Timbaland\)](https://open.spotify.com/track/3Z5C5YdmJYw1TJUmthBCvm) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:05 | 2024-01-29 |  |
 | [Ground Zero \- Explicit / Recorded Live At Vic Theatre, Chicago, IL on April 22, 2011](https://open.spotify.com/track/79biCTI7ZGGFB5f7lnHrTN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc) | 2:58 | 2024-01-29 |  |

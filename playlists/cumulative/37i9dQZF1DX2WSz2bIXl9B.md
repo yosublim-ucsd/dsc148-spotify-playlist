@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2WSz2bIXl9B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2WSz2bIXl9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WSz2bIXl9B)
 
-### [RADAR Creators](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
+### [RADAR Creators España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
 > Pódcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Crónica Oscura, Las Auténticas señoras de la  calle Lista, Tu amiga psicóloga y Sobre las palabras pódcast
 

@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem
 
-703 songs - 1 day 11 hr 0 min
+704 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-06-03 | 2022-06-18 |
 | [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2022-05-13 | 2022-06-04 |
 | [Cartões Postais](https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Cartões Postais](https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y) | 2:04 | 2024-05-17 |  |
-| [Casa](https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Casa](https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu) | 3:46 | 2024-08-16 |  |
+| [Casa](https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Casa](https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu) | 3:46 | 2024-08-16 | 2024-10-03 |
 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 | 2023-07-28 | 2023-12-02 |
 | [Ceará](https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Ceará](https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx) | 2:12 | 2023-07-28 | 2024-07-06 |
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-06-14 | 2022-07-02 |
@@ -274,6 +274,7 @@
 | [Fica Lá Com Ela](https://open.spotify.com/track/5ZxgW5xUvFFJtUdCqXtfSk) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Fica Lá Com Ela](https://open.spotify.com/album/7F3D1jmGMGPDamg3l1ll5W) | 2:58 | 2023-05-22 | 2023-05-27 |
 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 | 2023-03-07 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2022-11-11 | 2023-05-27 |
+| [Ficar de Leve](https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER](https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD) | 3:10 | 2024-09-27 |  |
 | [Fico Assim Sem Você](https://open.spotify.com/track/7xe3gf2X8xS8y9xLhd7ca4) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Fico Assim Sem Você](https://open.spotify.com/album/5z9yPNcK3Sg9n6357SECOO) | 2:29 | 2023-12-01 | 2023-12-16 |
 | [fico mais leve](https://open.spotify.com/track/5Q2Ao87PW5rxZqF5JCjtk7) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [fico mais leve](https://open.spotify.com/album/1p7gZmejbbMBXt7xMOIwh9) | 2:14 | 2022-05-13 | 2022-06-04 |
 | [Fim de Semana](https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Fim de Semana](https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys) | 2:34 | 2023-08-18 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Raag Suri, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Zeeshan Khan, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -670,6 +670,24 @@
       "duration_ms": 265984,
       "name": "Aasaan Nahin Hota",
       "url": "https://open.spotify.com/track/6JSJnZpxa9Dw2vTovINcIA"
+    },
+    {
+      "album": {
+        "name": "Aashiyan",
+        "url": "https://open.spotify.com/album/2swZKByMp4nae7RP8GbOyF"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Khan",
+          "url": "https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213837,
+      "name": "Aashiyan",
+      "url": "https://open.spotify.com/track/6nZeVsSoV8sMgrvnsPqxE4"
     },
     {
       "album": {
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 227312,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6DZQ63O3VAIvJsJ8lwVfwp"
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 204000,
       "name": "Dhudhli Si Subah",
       "url": "https://open.spotify.com/track/0l44PqRAIxB9cJoLtqQJwd"
@@ -7743,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "Ghum Di Phiran",
+        "url": "https://open.spotify.com/album/5s1JvUUKQBAo50k91z0yEL"
+      },
+      "artists": [
+        {
+          "name": "Ayaan Lall",
+          "url": "https://open.spotify.com/artist/34v7tI5LqY4XZ58HpfHanB"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Ghum Di Phiran",
+      "url": "https://open.spotify.com/track/67VohGV4A295W64VOgVwD6"
+    },
+    {
+      "album": {
         "name": "Gimme some of that",
         "url": "https://open.spotify.com/album/5VUzAn9z7xlFaLD3hC9ngG"
       },
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 261247,
       "name": "Han Tu Hai",
       "url": "https://open.spotify.com/track/7FvmYdfgpTCLIQM82NPWIv"
@@ -12090,7 +12126,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 152727,
       "name": "Kahaniyo Mein",
       "url": "https://open.spotify.com/track/1rsw4UClWVVrhAyY2mCSFI"
@@ -13228,7 +13264,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 200000,
       "name": "Khwabida",
       "url": "https://open.spotify.com/track/5xQIxccM4JIOKI76LiIpxJ"
@@ -13496,6 +13532,32 @@
       "duration_ms": 255405,
       "name": "Know Your Hail Mary",
       "url": "https://open.spotify.com/track/0TB26F6h84hhMUOVWprkMn"
+    },
+    {
+      "album": {
+        "name": "Koi Aane Wala Hai",
+        "url": "https://open.spotify.com/album/4ORbsaPLi5MhMjDYZWVSOR"
+      },
+      "artists": [
+        {
+          "name": "Aakash Rijia",
+          "url": "https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO"
+        },
+        {
+          "name": "Shayoni Bagchi",
+          "url": "https://open.spotify.com/artist/4aqPPQJXlsOJu9Pw3tRrkw"
+        },
+        {
+          "name": "Vikas Chauhan",
+          "url": "https://open.spotify.com/artist/6MTu6a9OV49GVJha4XUvcT"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126285,
+      "name": "Koi Aane Wala Hai",
+      "url": "https://open.spotify.com/track/1X9ZlhymX9jI5rB6Zilvoz"
     },
     {
       "album": {
@@ -14434,7 +14496,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 162666,
       "name": "Let\u2019s Talk",
       "url": "https://open.spotify.com/track/0u1eM3kOXDjKkVFaFO8nyy"
@@ -14456,6 +14518,24 @@
       "duration_ms": 220000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/28R8mTc9jP9DKSNEGBkzMY"
+    },
+    {
+      "album": {
+        "name": "Like A Kite",
+        "url": "https://open.spotify.com/album/4WbIViCW889RAdziEmF5L7"
+      },
+      "artists": [
+        {
+          "name": "Neon Leaf",
+          "url": "https://open.spotify.com/artist/5ed1rQXWEFXTWfCCFll8sf"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Like A Kite",
+      "url": "https://open.spotify.com/track/6yzPnNQ0wsjd27i2DEwU73"
     },
     {
       "album": {
@@ -15192,6 +15272,24 @@
       "duration_ms": 109153,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/2xWRaGSivvJiW6oSucA3Yr"
+    },
+    {
+      "album": {
+        "name": "Makes Sense",
+        "url": "https://open.spotify.com/album/375jaZGeWLQ7cXz8MDVI6N"
+      },
+      "artists": [
+        {
+          "name": "Nowhere Station",
+          "url": "https://open.spotify.com/artist/2k8eCl7ebTAvPoINy2p342"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "Makes Sense",
+      "url": "https://open.spotify.com/track/7MwdpBaDS2j6Tvg8FyG9dd"
     },
     {
       "album": {
@@ -20624,7 +20722,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 183448,
       "name": "Sach Keh Do",
       "url": "https://open.spotify.com/track/5rWSgf9zZUt00uJYjU04YS"
@@ -20682,7 +20780,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 196309,
       "name": "safar",
       "url": "https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ"
@@ -23106,7 +23204,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 139200,
       "name": "Tera Asar",
       "url": "https://open.spotify.com/track/3XrNYteVx8qfi8GpUS3wpk"
@@ -23360,6 +23458,24 @@
       "duration_ms": 181594,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/66uV9XKf1T1jEWsQlEYD7i"
+    },
+    {
+      "album": {
+        "name": "Tere Liye",
+        "url": "https://open.spotify.com/album/6XVqIRVvBuFmesBEMnGM5t"
+      },
+      "artists": [
+        {
+          "name": "Sam",
+          "url": "https://open.spotify.com/artist/6JCV2i9Pv0OytnAj5zz3oC"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/1XCwQgyGq2peFU9KugWdCr"
     },
     {
       "album": {
@@ -24242,6 +24358,24 @@
       "duration_ms": 161777,
       "name": "Toota Tara",
       "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
+    },
+    {
+      "album": {
+        "name": "Toote Khwab",
+        "url": "https://open.spotify.com/album/2tyhPuSoelbWqlBGip3k6F"
+      },
+      "artists": [
+        {
+          "name": "Manya Narang",
+          "url": "https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250452,
+      "name": "Toote Khwab",
+      "url": "https://open.spotify.com/track/12tJj18hOGnwOLN537E6Ie"
     },
     {
       "album": {
@@ -26935,6 +27069,24 @@
     },
     {
       "album": {
+        "name": "Yeh Dastaan",
+        "url": "https://open.spotify.com/album/2SE8XcbzECaqddXXQkgUDO"
+      },
+      "artists": [
+        {
+          "name": "Harleen Vox",
+          "url": "https://open.spotify.com/artist/7yw2NbkFfKKHLtDk8BjQEX"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Yeh Dastaan",
+      "url": "https://open.spotify.com/track/2cWh1oNk1YDWrgm0hvqhjv"
+    },
+    {
+      "album": {
         "name": "Yeh Shaam",
         "url": "https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w"
       },
@@ -27290,6 +27442,24 @@
       "duration_ms": 171500,
       "name": "Zaroori Saman",
       "url": "https://open.spotify.com/track/71WrJaBUsdwsf7NFxMMNcl"
+    },
+    {
+      "album": {
+        "name": "Chaltey Purzay",
+        "url": "https://open.spotify.com/album/6xpfp8um2z8KrDKZbAl5GU"
+      },
+      "artists": [
+        {
+          "name": "Raman Negi",
+          "url": "https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186444,
+      "name": "Zeest",
+      "url": "https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe"
     },
     {
       "album": {

@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 174894,
       "name": "Biding Time",
       "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
@@ -216,6 +216,42 @@
       "duration_ms": 181620,
       "name": "empty arms",
       "url": "https://open.spotify.com/track/5th9j0lcNLxMkFdCnFCetf"
+    },
+    {
+      "album": {
+        "name": "Faber / Faber Sanctum",
+        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207923,
+      "name": "Faber",
+      "url": "https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo"
+    },
+    {
+      "album": {
+        "name": "Faber / Faber Sanctum",
+        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289121,
+      "name": "Faber Sanctum",
+      "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
     },
     {
       "album": {
@@ -555,6 +591,24 @@
     },
     {
       "album": {
+        "name": "[Strings]",
+        "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "Opals [Strings]",
+      "url": "https://open.spotify.com/track/3d1CjIuZTLFnbga9BF4ul5"
+    },
+    {
+      "album": {
         "name": "Meant To Be EP",
         "url": "https://open.spotify.com/album/7xTzgKq7FJEengm6GyswWY"
       },
@@ -570,6 +624,50 @@
       "duration_ms": 323368,
       "name": "Outer Reach",
       "url": "https://open.spotify.com/track/34XS142HC0zWt26PogjLdG"
+    },
+    {
+      "album": {
+        "name": "Painting Out (Robyn Sherwell Revisit)",
+        "url": "https://open.spotify.com/album/343TJWS9VH04cqFffmQgDs"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290526,
+      "name": "Painting Out - Robyn Sherwell Revisit",
+      "url": "https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3"
+    },
+    {
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398297,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw"
     },
     {
       "album": {
@@ -664,10 +762,28 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 236675,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/5H2t0wBYq08MYF2x4wFFap"
+    },
+    {
+      "album": {
+        "name": "[Strings]",
+        "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177764,
+      "name": "Satisfied [Strings]",
+      "url": "https://open.spotify.com/track/7LoXPFPjZzOiEuEpoFfMqW"
     },
     {
       "album": {
@@ -802,6 +918,24 @@
       "duration_ms": 211500,
       "name": "Sumargola",
       "url": "https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W"
+    },
+    {
+      "album": {
+        "name": "[Strings]",
+        "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209834,
+      "name": "Sunrays [Strings]",
+      "url": "https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353890,
+  "num_followers": 353892,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 225266,
       "name": "There It Goes",
       "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2024-09-26 06:20:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-26 06:20:19",
       "album": {
-        "name": "Can't Love You Anymore",
-        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
-      },
-      "artists": [
-        {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
-    },
-    {
-      "added_at": "2024-09-26 06:20:19",
-      "album": {
         "name": "Sweethoneylove",
         "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 150540,
       "name": "Sweethoneylove",
       "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
+    },
+    {
+      "added_at": "2024-09-26 06:20:19",
+      "album": {
+        "name": "Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 163746,
+      "name": "Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
     },
     {
       "added_at": "2024-09-26 06:20:19",

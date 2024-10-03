@@ -14120,7 +14120,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 153258,
       "name": "Blue Stones",
       "url": "https://open.spotify.com/track/493J58M1agrTnXVMn5jCDI"
@@ -27540,7 +27540,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 114666,
       "name": "Curve",
       "url": "https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8"
@@ -72822,6 +72822,28 @@
     {
       "album": {
         "name": "Meditation",
+        "url": "https://open.spotify.com/album/7rojaIxCtL8NdCPA5a8Duw"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5rOfiupihqwPKK0Abikxqi"
+    },
+    {
+      "album": {
+        "name": "Meditation",
         "url": "https://open.spotify.com/album/0NqsqLK6jSuRo8GuhrlwiT"
       },
       "artists": [
@@ -84898,7 +84920,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 131976,
       "name": "OJAI",
       "url": "https://open.spotify.com/track/7xB1XN3jO6PfKl04Q9g7S5"
@@ -104410,7 +104432,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 123133,
       "name": "Skylines",
       "url": "https://open.spotify.com/track/6RgNJnwbaILu1WojxGFwYC"
@@ -120530,7 +120552,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 106666,
       "name": "Through Fire",
       "url": "https://open.spotify.com/track/0iqxnHrMDQd1OR0UDj79Oe"
@@ -129649,6 +129671,24 @@
     },
     {
       "album": {
+        "name": "waterlily",
+        "url": "https://open.spotify.com/album/7s5MN3NWNSAcHy7MZ1t0Xv"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133588,
+      "name": "waterlily",
+      "url": "https://open.spotify.com/track/5mo909cydKvQcD35Hj1fRJ"
+    },
+    {
+      "album": {
         "name": "watermelon",
         "url": "https://open.spotify.com/album/6AUk9dEumHzFo5UGUAtXJp"
       },
@@ -130786,7 +130826,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 161797,
       "name": "Whatnot",
       "url": "https://open.spotify.com/track/22C2VHNuZVvPegO22pMoEf"

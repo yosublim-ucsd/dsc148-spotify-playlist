@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
 
-273 songs - 14 hr 46 min
+275 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 | 2024-02-22 |  |
 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 | 2024-02-22 | 2024-04-27 |
 | [Lo Aayi Barsaat](https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Lo Aayi Barsaat](https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58) | 3:42 | 2024-02-22 |  |
+| [Loco](https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9), [Laiba Khurram](https://open.spotify.com/artist/6kZAZpYJwnwpVF5R9nDTyz) | [Loco](https://open.spotify.com/album/6FHlVxKmN3GdhH5uPFgZ2e) | 2:46 | 2024-10-02 |  |
 | [Long Nights](https://open.spotify.com/track/7H09kC1NP9vEHh3EPjTO60) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [Long Nights](https://open.spotify.com/album/5K9sVu09oltYHFivEeN46f) | 2:51 | 2021-11-11 | 2022-07-19 |
 | [Long Time](https://open.spotify.com/track/1ynD5emQ6oCpVSVxEfvtfs) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Long Time](https://open.spotify.com/album/0Xt3rw9ebR5Qjwd2JphloD) | 2:24 | 2024-04-11 | 2024-04-27 |
 | [Losing Myself \(feat\. Gunna\)](https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:58 | 2024-09-09 | 2024-09-24 |
@@ -279,6 +280,7 @@
 | [YTL Yaar Tera LIT](https://open.spotify.com/track/0FOttmcxs2gtOhUHB9SmM3) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [YTL \- Yaar Tera LIT](https://open.spotify.com/album/1exeRQTKTvIdDywk5jCWud) | 3:25 | 2021-11-11 | 2022-07-19 |
 | [Zaalim](https://open.spotify.com/track/5DOaPukCbcKwSAtIhRx6wf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Zaalim](https://open.spotify.com/album/22WXefSLreKNa55EROGObB) | 2:49 | 2024-02-24 |  |
 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-02-22 | 2024-04-16 |
+| [Zamaana](https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Zamaana](https://open.spotify.com/album/1t0TxWQNKZrpUOomGJDBSv) | 2:39 | 2024-10-02 |  |
 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2024-09-09 |  |
 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 | 2024-06-12 | 2024-06-14 |
 

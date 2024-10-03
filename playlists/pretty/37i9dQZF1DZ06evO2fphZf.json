@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 10488,
+  "num_followers": 10501,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAACJtMJD9taBkxvaDX/GkLlV",
+  "snapshot_id": "Zvs7gAAAAABoXQExFvdyWybO2IFpR7Ix",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Yours",
+        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "Never Yours",
+      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 169143,
       "name": "butterflies (feat. Rexx Life Raj)",
       "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Yours",
-        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "Never Yours",
-      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 124540,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 218754,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 124540,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 174242,
       "name": "The Way",
       "url": "https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN"
     },
     {
       "added_at": null,

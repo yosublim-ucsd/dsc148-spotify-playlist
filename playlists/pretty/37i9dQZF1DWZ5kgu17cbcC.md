@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,740 likes - 84 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,718 likes - 84 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 |
 | 2 | [Breathe and Believe \- From "UnPrisoned: Season 2"](https://open.spotify.com/track/3pDgRqmHWUcyvAndHZT7Su) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [Breathe and Believe \(From "UnPrisoned: Season 2"\)](https://open.spotify.com/album/3MSWX3se1SWMgc6brDwMvi) | 2:27 |
-| 3 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 |
+| 3 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \(From "She Taught Love"\)](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 |
 | 4 | [Never Lost](https://open.spotify.com/track/1z3570clQdJByH4SZ5ufst) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [The Greatest Hits \(Original Soundtrack\)](https://open.spotify.com/album/47Lzhr5elVXSdAdsFnQUA7) | 2:45 |
 | 5 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \- Original Soundtrack](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
 | 6 | [Lightning Crashes](https://open.spotify.com/track/7ap694aUZ21hIL7mMvHdE1) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Dorian Holley](https://open.spotify.com/artist/3efCip4A67LJrRxexRsbzY) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 4:52 |

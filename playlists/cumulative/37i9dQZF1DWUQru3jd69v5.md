@@ -4,7 +4,7 @@
 
 > Kuremino in cover della playlist con la nuova generazione del rap italiano.
 
-1,334 songs - 2 day 9 hr 28 min
+1,335 songs - 2 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 | 2023-05-26 |
 | [Nueva Obsesión \(160\)](https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Nueva Obsesión \(160\)](https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT) | 3:03 | 2023-07-13 | 2023-07-21 |
 | [NUMERO 10](https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [NUMERO 10](https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF) | 2:05 | 2023-07-03 | 2023-08-04 |
+| [Nun Spartì a Furtun](https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Nun Spartì a Furtun](https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd) | 3:05 | 2024-10-02 |  |
 | [Nuova era](https://open.spotify.com/track/4bjcPwz8RJIxapApBK2fTx) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Nuova era](https://open.spotify.com/album/7aP13AigzST5tDroNYRsyL) | 2:11 | 2023-01-26 | 2023-02-24 |
 | [Nuova Sardegna \(feat\. Luchetto, PRACI, Rico.Pmf, Low\-Red, Sgribaz, Cage.488, Razer.Rah, Enomoney, ilovethisbeat & Prisoner\)](https://open.spotify.com/track/22YTwSjR29cyGXKWGNOIja) | [NUOVA SARDEGNA](https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Rico Pmf](https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Cage.488](https://open.spotify.com/artist/40YEqYNJznSOojw3fxBvgN), [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [4 The Island](https://open.spotify.com/album/74P6rmPp2GlxAgD4qAMeb6) | 2:54 | 2023-06-15 | 2023-06-30 |
 | [Nuovo Borsello](https://open.spotify.com/track/6aLuaH2UqPRDcG7KsQatlj) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Nuovo Borsello](https://open.spotify.com/album/6KY4MGYRAT0gkhJ4PlddAQ) | 2:12 | 2022-12-15 | 2023-01-04 |

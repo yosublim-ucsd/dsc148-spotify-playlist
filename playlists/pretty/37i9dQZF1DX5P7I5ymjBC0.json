@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Sona Mohapatra",
-  "num_followers": 70642,
+  "num_followers": 70672,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-01 11:31:18",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2024-10-01 11:31:18",
-      "album": {
         "name": "Radhe (From Songs of Faith)",
         "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2024-10-01 11:31:18",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-10-01 11:31:18",
       "album": {
-        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
-      },
-      "artists": [
-        {
-          "name": "Rashid Khan",
-          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
-        },
-        {
-          "name": "Arpita Chatterjee",
-          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Sajna Barse",
-      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
-    },
-    {
-      "added_at": "2024-10-01 11:31:18",
-      "album": {
         "name": "Coke Studio Season 10: Episode 3",
         "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 352048,
       "name": "Mujh Se Pehli Si Muhabbat",
       "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
+    },
+    {
+      "added_at": "2024-10-01 11:31:18",
+      "album": {
+        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Arpita Chatterjee",
+          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Sajna Barse",
+      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
     },
     {
       "added_at": "2024-10-01 11:31:18",

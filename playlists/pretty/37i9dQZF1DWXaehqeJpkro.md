@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: LEE CHANGSUB\(이창섭\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,517 likes - 196 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,523 likes - 196 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 37 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
 | 38 | [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 |
 | 39 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 |
-| 40 | [Dial Your Number](https://open.spotify.com/track/2WRag4aQzatDf8SZV7ohbb) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Dial Your Number](https://open.spotify.com/album/6CpymtDyQXAKL3GNYZlCtj) | 4:09 |
+| 40 | [Dial Your Number](https://open.spotify.com/track/2WRag4aQzatDf8SZV7ohbb) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Dial Your Number](https://open.spotify.com/album/6CpymtDyQXAKL3GNYZlCtj) | 4:09 |
 | 41 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 42 | [Hello](https://open.spotify.com/track/0SOnbGVEf5q0YqL0FO2qu0) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [LIKE 1st MINI ALBUM “First Story”](https://open.spotify.com/album/6CPFjcggq3c0YHNEhzRjWC) | 4:11 |
 | 43 | [without me](https://open.spotify.com/track/6262LmmRM1khHX1D4yk6MA) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [without me](https://open.spotify.com/album/5LwVh568qmcanzazCkwFRT) | 4:07 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 52 | [기다리다](https://open.spotify.com/track/3XTcTwWPQZg9Ob0u4RBIfP) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Audition \(Time2Rock\)](https://open.spotify.com/album/3nAt9ncRZ7wW3sytjNtXTj) | 4:37 |
 | 53 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 54 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
-| 55 | [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
+| 55 | [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
 | 56 | [Goodbye](https://open.spotify.com/track/071KL7bA9Gt5Pw0Ud3JWav) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Goodbye](https://open.spotify.com/album/7mLtASnOxRZMiPzJUCLuT2) | 4:13 |
 | 57 | [그래서 그대는](https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Yarn's Best Vol.1](https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP) | 4:24 |
 | 58 | [Horangsuwolga](https://open.spotify.com/track/7Bvb0ZuJCoIHq6mBEAna2U) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Horangsuwolga](https://open.spotify.com/album/2SHDI5kw0PG739B62GJDGX) | 4:41 |

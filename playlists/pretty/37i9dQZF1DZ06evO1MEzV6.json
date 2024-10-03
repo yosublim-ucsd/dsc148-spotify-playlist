@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 91380,
+  "num_followers": 91448,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAAA9IHhygkRdc+zU5GRpnSMB",
+  "snapshot_id": "Zvs7gAAAAABWsQzUmv8YsP+7MTOHKW8h",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 172293,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6GDd1lZ0zp5pB6JleN5Xzx"
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
+      "duration_ms": 172293,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6GDd1lZ0zp5pB6JleN5Xzx"
     },
     {
       "added_at": null,

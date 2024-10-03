@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Marco Polo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is: Marco Polo. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Marco Polo",
   "tracks": [
     {
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 239887,
       "name": "Low Budget Allstars",
       "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 128157,
       "name": "Wild Elephants",
       "url": "https://open.spotify.com/track/3GtQGmaq7N0MCgO8tZH2Bl"

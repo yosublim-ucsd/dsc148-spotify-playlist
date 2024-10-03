@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-122 songs - 9 hr 12 min
+123 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Spaseniye sodelal yesi posrede zemli \(Salvation is Created\), Op\. 25, No\. 5](https://open.spotify.com/track/0xmyzDblNF2iyiQTdGtG9u) | [Pavel Chesnokov](https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume), [Dale Warland Singers](https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I), [Dale Warland](https://open.spotify.com/artist/70TQpK6nl0sTjoJybeEtvz) | [The Dale Warland Singers: Lux Aurumque](https://open.spotify.com/album/4IDkSgEdONG4YLjGDAGB7D) | 3:35 | 2021-07-21 |  |
 | [Spiritus Sanctus Vivificans](https://open.spotify.com/track/1VLq3dI44nVnsZMJUShINZ) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Anna Sandström](https://open.spotify.com/artist/5WLfzKxErkzF9WIBh1odmi), [Christopher Monks](https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu) | [Naked Byrd Two](https://open.spotify.com/album/1ADRYB9IGvAIB7sBn5uMKp) | 2:50 | 2021-07-21 |  |
 | [Stabat Mater](https://open.spotify.com/track/1E81qx5u8U29k1S3rVxh0u) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Theatre Of Voices](https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF) | [Pärt: Creator Spiritus](https://open.spotify.com/album/4Rlt8v1Vrvm0KfiMfhsfP5) | 26:03 | 2022-02-09 |  |
+| [Stardust](https://open.spotify.com/track/3Ox9FXYffPUB44mqxXJrxs) | [Taylor Scott Davis](https://open.spotify.com/artist/4mplxaJIOZ7oGGjJxQPHqe), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Nightfall](https://open.spotify.com/album/2Exgfl1QJmgXPRCdqkwM1f) | 5:33 | 2024-10-02 |  |
 | [Stars](https://open.spotify.com/track/5ut7RavktHdSciT8HhaeDm) | [Ēriks Ešenvalds](https://open.spotify.com/artist/1luoTtYQjMoJPSzl9YCO1B), [Sara Teasdale](https://open.spotify.com/artist/2CPfBsROBY8zy1fATtLpvg), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Lux](https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh) | 4:04 | 2021-07-21 |  |
 | [Stetit Angelus](https://open.spotify.com/track/1jRKMn2vtjRRuo1p1yrwRn) | [Millikin University Choir](https://open.spotify.com/artist/4Bo0mEvLxbHWIbLjgFL3F7) | [Exsultate!](https://open.spotify.com/album/4eJteqgEM7QW87hZVTBClQ) | 4:38 | 2021-07-21 |  |
 | [Stopping by Woods on a Snowy Evening](https://open.spotify.com/track/0pE7ijJ1Wi5f7Ua60Xa3RO) | [Rebecca Dale](https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0), [Robert Frost](https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Stopping by Woods on a Snowy Evening](https://open.spotify.com/album/5e21W9N6vnW89apBYK1iHA) | 5:07 | 2024-02-23 |  |

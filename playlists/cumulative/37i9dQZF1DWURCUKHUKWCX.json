@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Colour Field (Piano Version)",
+        "url": "https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154086,
+      "name": "A Colour Field - Piano Version",
+      "url": "https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk"
+    },
+    {
+      "album": {
         "name": "Legends, Myths and Lavender",
         "url": "https://open.spotify.com/album/5A2whd1HFhaMTAfDkPJci8"
       },

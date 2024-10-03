@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ladipoe",
-  "num_followers": 55243,
+  "num_followers": 55272,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
-      },
-      "artists": [
-        {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
         "name": "Bad Boy Etiquette 102: Continuous Assessment",
         "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 235102,
       "name": "Last Week",
       "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
     },
     {
       "added_at": "2024-09-27 05:12:15",
@@ -903,22 +903,22 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
-        "name": "Taya",
-        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+        "name": "UPDATE",
+        "url": "https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7"
       },
       "artists": [
         {
-          "name": "Dwillsharmony",
-          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 122666,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+      "duration_ms": 145794,
+      "name": "UPDATE",
+      "url": "https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY"
     },
     {
       "added_at": "2024-09-27 05:12:15",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 203615,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
-        "name": "UPDATE",
-        "url": "https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7"
-      },
-      "artists": [
-        {
-          "name": "SuperWozzy",
-          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "UPDATE",
-      "url": "https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY"
     },
     {
       "added_at": "2024-09-27 05:12:15",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Accidentally (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
     },
     {
       "added_at": "2024-09-27 05:12:15",

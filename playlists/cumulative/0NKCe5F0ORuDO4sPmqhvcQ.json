@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Heaven Is Calling",
+        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
+    },
+    {
+      "album": {
         "name": "HEAVEN'S GATES (feat. Izzy Camina)",
         "url": "https://open.spotify.com/album/7FiXfxbi9OQw34Jwvl020i"
       },
@@ -7134,6 +7152,32 @@
       "duration_ms": 235161,
       "name": "MAKE ME BELIEVE",
       "url": "https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz"
+    },
+    {
+      "album": {
+        "name": "Make U Dance (feat. Coach Harrison & Sarah De Warren)",
+        "url": "https://open.spotify.com/album/5n1rbgmAsNv9UZb9RiZTCU"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Make U Dance (feat. Coach Harrison & Sarah De Warren)",
+      "url": "https://open.spotify.com/track/0rN0ogLLaMz83dez9ZC9MS"
     },
     {
       "album": {

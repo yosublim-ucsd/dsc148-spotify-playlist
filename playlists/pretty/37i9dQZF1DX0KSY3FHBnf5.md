@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,338 likes - 143 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,464 likes - 143 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 95 | [start living](https://open.spotify.com/track/62eW2PIGflirLxrzV7H8sv) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD) | [start living](https://open.spotify.com/album/2ubYnFKECzSrMC1M8kvPum) | 2:26 |
 | 96 | [Fable](https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o) | [widx.](https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un) | [Fable](https://open.spotify.com/album/4snR7jdu8SjlWVVP91x5nS) | 1:57 |
 | 97 | [Fragile \(Rework \- Slowed + Reverb\)](https://open.spotify.com/track/3isNY7cxMmORr4uhajCZNC) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile \(Rework \- Slowed + Reverb\)](https://open.spotify.com/album/670hvOiROYlvz03jGeG2P3) | 3:07 |
-| 98 | [i lost my heart](https://open.spotify.com/track/2YHjCqDEx3Jpn2MewGwBqh) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [$adness](https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6) | [i lost my heart](https://open.spotify.com/album/4WAtfgFNujkDOAa8mGxqh2) | 2:14 |
+| 98 | [i lost my heart](https://open.spotify.com/track/2YHjCqDEx3Jpn2MewGwBqh) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy) | [i lost my heart](https://open.spotify.com/album/4WAtfgFNujkDOAa8mGxqh2) | 2:14 |
 | 99 | [everything in memory will be erased](https://open.spotify.com/track/0xFyqmaHX6IEE8PZ40Q4Ms) | [endless withdrawal](https://open.spotify.com/artist/38BaarFdCwCpVmw0rXB2tu) | [everything in memory will be erased](https://open.spotify.com/album/0FjnzCmbvHbgnDfRiA2oZh) | 2:14 |
 | 100 | [peaceful silence](https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [peaceful silence](https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH) | 1:40 |
 | 101 | [the end of story](https://open.spotify.com/track/3bKNDF26cGbibJI9K6ALL5) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [the end of story](https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY) | 1:31 |

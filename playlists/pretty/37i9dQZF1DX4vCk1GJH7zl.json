@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140431,
+  "num_followers": 140439,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 245467,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Conto os Dias",
         "url": "https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 203645,
       "name": "Conto os Dias",
       "url": "https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
+        "name": "Pouso",
+        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
+      },
+      "artists": [
+        {
+          "name": "Zimbra",
+          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Eu Vi Tudo",
+      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 442667,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
-        "name": "Pouso",
-        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
-      },
-      "artists": [
-        {
-          "name": "Zimbra",
-          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Eu Vi Tudo",
-      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "De Volta Ao Novo - Volume 1",
-        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "N-U-M-A-B-O-A",
-      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "O Amor Liberta",
         "url": "https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 218589,
       "name": "S\u00f3 n\u00f3s 2",
       "url": "https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Quatro Cantos de Um Mundo Redondo",
-        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "Come\u00e7a Tudo Outra Vez",
-      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 177397,
       "name": "4AM",
       "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Quatro Cantos de Um Mundo Redondo",
+        "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 208636,
+      "name": "Come\u00e7a Tudo Outra Vez",
+      "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
     },
     {
       "added_at": "2024-09-27 13:31:33",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
         "name": "Rotorquestra de Liquidificafu",
         "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        },
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-27 13:31:33",
       "album": {
-        "name": "Vamos Fingir",
-        "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
-      },
-      "artists": [
-        {
-          "name": "Tuono",
-          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
-        }
-      ],
-      "duration_ms": 266726,
-      "name": "Vamos Fingir",
-      "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
-    },
-    {
-      "added_at": "2024-09-27 13:31:33",
-      "album": {
         "name": "Invis\u00edvel",
         "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 212297,
       "name": "Invis\u00edvel",
       "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
+    },
+    {
+      "added_at": "2024-09-27 13:31:33",
+      "album": {
+        "name": "Vamos Fingir",
+        "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
+      },
+      "artists": [
+        {
+          "name": "Tuono",
+          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
+        }
+      ],
+      "duration_ms": 266726,
+      "name": "Vamos Fingir",
+      "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
     },
     {
       "added_at": "2024-09-27 13:31:33",

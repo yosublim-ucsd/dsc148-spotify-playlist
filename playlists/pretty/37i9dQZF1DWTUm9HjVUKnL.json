@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 220470,
+  "num_followers": 220476,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvvvvgAAAABiL8l5RvSCemJJ4agjie07",
+  "snapshot_id": "Zv3bbgAAAACTLEovtrUemB0cwTQTiY7W",
   "tracks": [
+    {
+      "added_at": "2024-10-02 23:46:54",
+      "album": {
+        "name": "A Colour Field (Piano Version)",
+        "url": "https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 154086,
+      "name": "A Colour Field - Piano Version",
+      "url": "https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk"
+    },
     {
       "added_at": "2024-10-01 12:49:01",
       "album": {

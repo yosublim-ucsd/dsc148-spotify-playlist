@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bialystocks
 
-1,906 songs - 4 day 22 hr 29 min
+1,907 songs - 4 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,7 +1094,7 @@
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-03-29 |
 | [Tips of your fingers](https://open.spotify.com/track/513wJtR0YDxJUIl0T3LcsI) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 4:43 | 2023-09-05 | 2023-10-25 |
 | [Tipsy](https://open.spotify.com/track/1HenxbVWHGMvIGuJof2mDv) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Tipsy](https://open.spotify.com/album/2r6SaFd7UWBJbXMHErocfF) | 3:50 | 2024-07-30 | 2024-08-07 |
-| [To get there](https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [To get there](https://open.spotify.com/album/7JZnJue0sEUFwTgY6Qt35r) | 4:30 | 2024-09-03 |  |
+| [To get there](https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [To get there](https://open.spotify.com/album/7JZnJue0sEUFwTgY6Qt35r) | 4:30 | 2024-09-03 | 2024-10-03 |
 | [TOKYO ASH](https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [TENDOUJI](https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY) | 2:42 | 2024-05-14 | 2024-05-29 |
 | [TOKYO FOREVER](https://open.spotify.com/track/24yYkb7SAuEk69Exafbopw) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/06WIzovZvfsowDhcdEjNZd) | 2:55 | 2023-02-21 | 2023-03-04 |
 | [TOKYO FOREVER](https://open.spotify.com/track/7zC8YiNELAd6LOAJxNFgSo) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/773oXMjqT3Mr6ivO3PwO8M) | 2:55 | 2023-02-21 | 2023-02-23 |
@@ -1141,6 +1141,7 @@
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-05-11 |
 | [uturu](https://open.spotify.com/track/37s2uTq6xvtMGtmwdUsZuj) | [水いらず](https://open.spotify.com/artist/411mMeumIPQMuCpEWhHTf8) | [uturu](https://open.spotify.com/album/5vFa1lEnLhb3uqx31h7HMf) | 3:32 | 2023-12-14 | 2024-01-10 |
 | [Uwatsuitakimochi](https://open.spotify.com/track/6tVvbQpZGyr4CdgVnp2hju) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN), [鎮座DOPENESS](https://open.spotify.com/artist/2yV4op1t2gPNi8AxB3tQWu) | [Uwatsuitakimochi](https://open.spotify.com/album/4xQayA0X8dIsrJ5LDoLyso) | 4:26 | 2023-08-08 | 2023-08-16 |
+| [vector](https://open.spotify.com/track/6D3E2eTZj2u005qETavKPX) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [vector](https://open.spotify.com/album/5eYcfwoPThcQM2xShDrAZx) | 5:03 | 2024-10-01 |  |
 | [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 | 2024-01-09 | 2024-01-29 |
 | [Vernel](https://open.spotify.com/track/6Nb3604lJv62qluZk2eybR) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t) | [Vernel](https://open.spotify.com/album/2JrpfyDcgl1BWfQQyTPcGt) | 3:50 | 2024-02-13 | 2024-02-21 |
 | [violet](https://open.spotify.com/track/7G7ugnWj3iYMCCEYn171lN) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [violet](https://open.spotify.com/album/04bHJcq13Fuh20o3pgmDY0) | 3:52 | 2023-02-21 | 2023-03-08 |

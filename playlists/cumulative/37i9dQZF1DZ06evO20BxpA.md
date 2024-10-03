@@ -2,7 +2,7 @@
 
 ### [This Is Steven Price](https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA)
 
-> This Is Steven Price\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Steven Price\. The essential tracks, all in one playlist.
 
 101 songs - 4 hr 44 min
 

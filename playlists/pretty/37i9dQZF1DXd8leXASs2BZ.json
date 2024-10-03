@@ -1,6 +1,6 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
-  "num_followers": 3539,
+  "num_followers": 3541,
   "original_name": "+81 Connect FRESH",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,30 @@
       "duration_ms": 155253,
       "name": "\u8a00\u3063\u305f!! - Remix",
       "url": "https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH"
+    },
+    {
+      "added_at": "2024-10-01 16:12:31",
+      "album": {
+        "name": "TAKE-OFF",
+        "url": "https://open.spotify.com/album/6xrdQXU1LXphoBAOk5oFQT"
+      },
+      "artists": [
+        {
+          "name": "KOS\u00c9 8ROCKS",
+          "url": "https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "duration_ms": 160661,
+      "name": "TAKE-OFF",
+      "url": "https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB"
     },
     {
       "added_at": "2024-10-01 16:12:31",

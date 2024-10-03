@@ -1,6 +1,6 @@
 {
   "description": "Photo : GIMS",
-  "num_followers": 1114222,
+  "num_followers": 1114345,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
@@ -200,12 +200,12 @@
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
           "name": "Marjinal",
           "url": "https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
       "duration_ms": 173760,

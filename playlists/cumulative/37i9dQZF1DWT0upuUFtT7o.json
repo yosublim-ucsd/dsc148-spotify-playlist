@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 196318,
       "name": "Alone With U",
       "url": "https://open.spotify.com/track/4swCbGVZlyU7wdex2KNMTD"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 188824,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW"
@@ -5562,6 +5562,24 @@
     {
       "album": {
         "name": "Bloom",
+        "url": "https://open.spotify.com/album/3NBCNfGHoKhDevoIZDXfWR"
+      },
+      "artists": [
+        {
+          "name": "Half Happy",
+          "url": "https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279488,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0l2rYmDD0V4ikWaw7N6iim"
+    },
+    {
+      "album": {
+        "name": "Bloom",
         "url": "https://open.spotify.com/album/5qwxfeJ5R71SmceD3I85Fp"
       },
       "artists": [
@@ -5576,6 +5594,24 @@
       "duration_ms": 246586,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/3k1L9uenQCDqTTdWcRYIz0"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7KoCoh5f8eI9eM4OC5CyV9"
+      },
+      "artists": [
+        {
+          "name": "The Wonderlands",
+          "url": "https://open.spotify.com/artist/5d9MnG7M9Kj02Aa8XQ06mA"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246903,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5hIcnWf6IZ0Q4mBygEbQFS"
     },
     {
       "album": {
@@ -5767,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Blueprints",
+        "url": "https://open.spotify.com/album/45A6i0YLazNkeDqothT4H1"
+      },
+      "artists": [
+        {
+          "name": "Chloe Southern",
+          "url": "https://open.spotify.com/artist/3NYKvxmK3t7CDAo7V5PxrO"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250592,
+      "name": "Blueprints",
+      "url": "https://open.spotify.com/track/6MdQlGbhd7ycU4DMbHAlRz"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/1ULqDMnOnGBPMMr4YTl7ul"
       },
@@ -5800,6 +5854,24 @@
       "duration_ms": 133143,
       "name": "Blurt",
       "url": "https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2ZwizQzpFDs8VKhvYc2UJu"
+      },
+      "artists": [
+        {
+          "name": "Baby Berserk",
+          "url": "https://open.spotify.com/artist/6GNuFQWqw3NTNZ051qHoN6"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278419,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/738mkcdQzWLXm09E1rpJWW"
     },
     {
       "album": {
@@ -7438,7 +7510,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 219374,
       "name": "Can't Be Replaced",
       "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
@@ -8673,6 +8745,24 @@
     },
     {
       "album": {
+        "name": "Colonel",
+        "url": "https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161389,
+      "name": "Colonel",
+      "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
+    },
+    {
+      "album": {
         "name": "Strawberry Dream",
         "url": "https://open.spotify.com/album/7jrswg7nXecHjMB2mZQJ4G"
       },
@@ -9572,6 +9662,24 @@
       "duration_ms": 142000,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4lks4mEKMApTCgC6NF8enH"
+    },
+    {
+      "album": {
+        "name": "Crashmat",
+        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220908,
+      "name": "Crashmat",
+      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
     },
     {
       "album": {
@@ -11892,7 +12000,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 188306,
       "name": "don't want u to die",
       "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
@@ -12436,7 +12544,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 165213,
       "name": "Drivel",
       "url": "https://open.spotify.com/track/4K3J6PsyLCtw8alooROF91"
@@ -13172,6 +13280,24 @@
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
+    },
+    {
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM"
+      },
+      "artists": [
+        {
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253882,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX"
     },
     {
       "album": {
@@ -15684,7 +15810,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 160958,
       "name": "Full",
       "url": "https://open.spotify.com/track/5drZtskacaoZKG82oU49ep"
@@ -16416,6 +16542,24 @@
       "duration_ms": 165500,
       "name": "GFBF",
       "url": "https://open.spotify.com/track/3w1bxnIpb6oE9OHtrRmD2L"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ"
     },
     {
       "album": {
@@ -17172,6 +17316,24 @@
       "duration_ms": 230089,
       "name": "Good 2 Yourself",
       "url": "https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/7nH0PHF9UNoTTPCz5LpSBq"
+      },
+      "artists": [
+        {
+          "name": "Alaska Vane",
+          "url": "https://open.spotify.com/artist/5Hr2tki1odAeyrhgSFqu8C"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165538,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/44YEnyhhtd5zoJ4cteYZqj"
     },
     {
       "album": {
@@ -19859,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/3IbXCFLguPI38kGf657iI7"
+      },
+      "artists": [
+        {
+          "name": "vincent's last summer",
+          "url": "https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/5QM9WZ4PdG1h0c3dc9QiUA"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/5re04rPP3rG7dhBsw4kU7X"
       },
@@ -20951,6 +21131,24 @@
     },
     {
       "album": {
+        "name": "i like that",
+        "url": "https://open.spotify.com/album/23a2HXc2IcpPrPtYNQCJz3"
+      },
+      "artists": [
+        {
+          "name": "country girl",
+          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126272,
+      "name": "i like that",
+      "url": "https://open.spotify.com/track/3Kziv0g8m0mZC0r3UJs8Or"
+    },
+    {
+      "album": {
         "name": "I liked it",
         "url": "https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH"
       },
@@ -21820,6 +22018,24 @@
       "duration_ms": 218501,
       "name": "I've Been Saying This",
       "url": "https://open.spotify.com/track/54GwQeaUnlH84uG0tNRvmT"
+    },
+    {
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
       "album": {
@@ -23351,6 +23567,24 @@
     },
     {
       "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/0Ctct2JQ8BNLC6t82wz8bR"
+      },
+      "artists": [
+        {
+          "name": "The Crying Nudes",
+          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/0UWX9IHs29vm1odEcn4Asd"
+    },
+    {
+      "album": {
         "name": "Jaywalker",
         "url": "https://open.spotify.com/album/1G0hj4G2zIV19nwuZWaniS"
       },
@@ -24094,7 +24328,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 167840,
       "name": "King's Garden",
       "url": "https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk"
@@ -28396,7 +28630,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 216000,
       "name": "moment",
       "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
@@ -31602,7 +31836,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 208480,
       "name": "Olympic",
       "url": "https://open.spotify.com/track/6iTJ3hFeO9dCGS5DBeh6rQ"
@@ -31948,7 +32182,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 180053,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
@@ -33447,6 +33681,24 @@
     },
     {
       "album": {
+        "name": "PIECES, FALLING",
+        "url": "https://open.spotify.com/album/3TjnDgEiHwHLAYjXHNY9gz"
+      },
+      "artists": [
+        {
+          "name": "Bi Disc",
+          "url": "https://open.spotify.com/artist/74bk0cHFNmW7ESiBY2JdBF"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252859,
+      "name": "PIECES, FALLING",
+      "url": "https://open.spotify.com/track/06NP4MuAXqkSnk7jhIBgaN"
+    },
+    {
+      "album": {
         "name": "Pilates",
         "url": "https://open.spotify.com/album/3wUAAbDsqePooYXnBp1mFe"
       },
@@ -34494,7 +34746,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 131656,
       "name": "Prophet",
       "url": "https://open.spotify.com/track/0sfMxN6tLc0LkZ37vp4yoO"
@@ -37860,7 +38112,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 258092,
       "name": "Shot",
       "url": "https://open.spotify.com/track/0UbmlnXRMJJiIv4ek1lvJT"
@@ -39980,7 +40232,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 200872,
       "name": "Spare",
       "url": "https://open.spotify.com/track/2PcqFz0Qie95t5N3xSNVf1"
@@ -40518,7 +40770,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 243371,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/3vpUjIQ2DVi3t1LksXjJEs"
@@ -44437,6 +44689,24 @@
     },
     {
       "album": {
+        "name": "Thought You Knew",
+        "url": "https://open.spotify.com/album/1RDnwTw0gcsEU4QOHoNs5X"
+      },
+      "artists": [
+        {
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194661,
+      "name": "Thought You Knew",
+      "url": "https://open.spotify.com/track/0gApnA64zqfVmApEkNjkrq"
+    },
+    {
+      "album": {
         "name": "Thousand",
         "url": "https://open.spotify.com/album/3HNUb45INUuqxn6Xh34ZTM"
       },
@@ -45086,7 +45356,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 308072,
       "name": "Too Timid",
       "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
@@ -46812,7 +47082,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 223644,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/4PSEhHtZqenSU1cgxw0DBe"
@@ -48096,7 +48366,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-03",
       "duration_ms": 201938,
       "name": "wes anderson (your dog)",
       "url": "https://open.spotify.com/track/1x6YG1aUQ7oA47WU2TnMZq"
@@ -48482,6 +48752,24 @@
       "duration_ms": 236000,
       "name": "When You\u2019re Ready",
       "url": "https://open.spotify.com/track/6TtsHmwIdJNtxX9WeKf2zs"
+    },
+    {
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/2DgqAJmVoQ61q0bxG6JWBO"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "Where Are You Going?",
+      "url": "https://open.spotify.com/track/2PZhdOIQXvrLKtDSi0xfzJ"
     },
     {
       "album": {

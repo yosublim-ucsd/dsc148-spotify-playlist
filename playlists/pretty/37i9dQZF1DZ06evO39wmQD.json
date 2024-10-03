@@ -1,12 +1,12 @@
 {
-  "description": "This is Auli'i Cravalho. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2683,
+  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
+  "num_followers": 2684,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvnqAAAAAABd5FuRqGn5Imb37wyi1e2e",
+  "snapshot_id": "Zvs7gAAAAABSe3C4GMueufaPg244G6AP",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise Season 1: The Album (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
       "artists": [
         {
@@ -486,15 +486,11 @@
         {
           "name": "Damon J. Gillespie",
           "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        },
-        {
-          "name": "Ellie Desautels",
-          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
         }
       ],
-      "duration_ms": 111160,
-      "name": "Those You've Known - Rise Cast Version",
-      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,
@@ -519,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
       "artists": [
         {
@@ -534,11 +530,15 @@
         {
           "name": "Damon J. Gillespie",
           "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        },
+        {
+          "name": "Ellie Desautels",
+          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
         }
       ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+      "duration_ms": 111160,
+      "name": "Those You've Known - Rise Cast Version",
+      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
     },
     {
       "added_at": null,
