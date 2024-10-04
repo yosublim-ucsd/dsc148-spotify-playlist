@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: اميمة طالب
 
-369 songs - 1 day 1 hr 29 min
+370 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Fadeha Denyay](https://open.spotify.com/track/2fuVzq6gFhnEWfMbHKB5aR) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Fadeha Denyay](https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy) | 3:34 | 2021-12-23 | 2022-01-13 |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-11 | 2023-02-15 |
 | [Fargah](https://open.spotify.com/track/4wVVSDmBXA9MHeNUC7AGIu) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Fargah](https://open.spotify.com/album/5GdgJnx6r9A6DlxZlI5lhL) | 2:55 | 2022-11-24 | 2023-05-26 |
-| [Fargah](https://open.spotify.com/track/3YgMfaDg1HgnS9gDyasPYm) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Meshari Alawadhi](https://open.spotify.com/artist/1ml7Su9BEo7jUsnStP7DgG) | [Fargah](https://open.spotify.com/album/62w7X2wwf3TgPOPcteaRpN) | 3:35 | 2024-04-02 |  |
+| [Fargah](https://open.spotify.com/track/3YgMfaDg1HgnS9gDyasPYm) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Meshari Alawadhi](https://open.spotify.com/artist/1ml7Su9BEo7jUsnStP7DgG) | [Fargah](https://open.spotify.com/album/62w7X2wwf3TgPOPcteaRpN) | 3:35 | 2024-04-02 | 2024-10-04 |
 | [Farghty](https://open.spotify.com/track/3HBDTztJZkHAy5NUDitGNb) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Farghty](https://open.spotify.com/album/40yxzlYTsLAMBhmzevbKvB) | 5:05 | 2022-05-06 | 2022-09-15 |
 | [Fattak](https://open.spotify.com/track/1enP6Ed10meQlHsbOF7qob) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fattak](https://open.spotify.com/album/1StqBpyc5o8sBJxXIt3xAW) | 4:23 | 2021-12-23 | 2022-02-18 |
 | [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 | 2022-06-02 | 2022-11-15 |
@@ -180,6 +180,7 @@
 | [Ma Aaraf Qadry](https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5) | [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL) | [Ma Aaraf Qadry](https://open.spotify.com/album/4J95aQ00slYUW70bzAG8Tb) | 3:40 | 2021-12-23 | 2022-02-11 |
 | [Ma Anah Sdood](https://open.spotify.com/track/6IT8O67TCo3OKHaYTD4pKc) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ma Anah Sdood](https://open.spotify.com/album/332L1H9wptriEuWQ2Zl7Fm) | 3:45 | 2021-12-23 | 2022-02-25 |
 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 | 2023-09-15 | 2024-05-02 |
+| [Ma Hada Bali](https://open.spotify.com/track/644MDyPPMgMakcnzlccWNM) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ma Hada Bali](https://open.spotify.com/album/5crkJgLXpiyDdcRhQGUS4O) | 5:02 | 2024-10-03 |  |
 | [Ma Qeltelak](https://open.spotify.com/track/2xaE1hGY1KtsShvzZqKyLm) | [Abdallah Al Rowaished](https://open.spotify.com/artist/0CSS4q3XMMetWbMq6CE3FB) | [Ma Qeltelak](https://open.spotify.com/album/0tTkJqBFC2Z4JlXNms7zNr) | 5:48 | 2024-07-18 |  |
 | [Maalem Hanini](https://open.spotify.com/track/6hvVKdAx1d38usGQnah5bw) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Maalem Hanini](https://open.spotify.com/album/5KJOZBysIetUuFHf0fbynP) | 3:51 | 2024-05-17 |  |
 | [Maashar Al Oshag](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 | 2022-08-22 | 2023-03-15 |

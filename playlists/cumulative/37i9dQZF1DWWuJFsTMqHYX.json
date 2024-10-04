@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Amoss Idjraw",
+        "url": "https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "Amoss Idjraw",
+      "url": "https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq"
+    },
+    {
+      "album": {
         "name": "Amoudou",
         "url": "https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 251093,
       "name": "Ayo Nigla",
       "url": "https://open.spotify.com/track/4UPLbsDhxOq7xtSexAMKIs"

@@ -2,7 +2,7 @@
 
 ### [This Is Kris Kristofferson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0eLt2e)
 
-> This is Kris Kristofferson\. Todos os maiores hits em uma só playlist.
+> This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 23 min
 

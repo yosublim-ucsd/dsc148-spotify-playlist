@@ -1,8 +1,42 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Jay Bahd",
+  "description": "Hottest bars coming live from the 233.  Cover: Pappy Kojo",
   "name": "+233 Bars ",
   "tracks": [
+    {
+      "album": {
+        "name": "Millennium 2000",
+        "url": "https://open.spotify.com/album/0s5NbJ1rp5lrBCreaVfOki"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Omar Burner",
+          "url": "https://open.spotify.com/artist/36eEaykWqrjcBscbnUAAZ5"
+        },
+        {
+          "name": "Tycuun",
+          "url": "https://open.spotify.com/artist/1OJC3TKCt7t9tiacte2a9D"
+        },
+        {
+          "name": "Origen",
+          "url": "https://open.spotify.com/artist/6cjZV5nXfB0mD8bNtm20wU"
+        },
+        {
+          "name": "Semenhyia",
+          "url": "https://open.spotify.com/artist/15bNWFfSaRStflPPxM6e2w"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298054,
+      "name": "1 Sima (Pt. 3) [feat. Omar Burner, Tycuun, Origen & Semenhyia]",
+      "url": "https://open.spotify.com/track/2Se6ILoaWW3UVgnMLAbDAH"
+    },
     {
       "album": {
         "name": "10x",
@@ -246,7 +280,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 638038,
       "name": "5th August 8",
       "url": "https://open.spotify.com/track/6vj7phavt2TMb2lNRSKCS4"
@@ -654,7 +688,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 132571,
       "name": "Agoro",
       "url": "https://open.spotify.com/track/5JemrWFhAJqMgVp2nli7ly"
@@ -1856,6 +1890,28 @@
       "duration_ms": 168960,
       "name": "BOA ME",
       "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
+    },
+    {
+      "album": {
+        "name": "BOA ME (Remix) [feat. Stonebwoy]",
+        "url": "https://open.spotify.com/album/1oooj58qIV0kL7pthD21gf"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "BOA ME (Remix) [feat. Stonebwoy]",
+      "url": "https://open.spotify.com/track/4t3Y8144CHXVlZKpkS5E1e"
     },
     {
       "album": {
@@ -3509,6 +3565,32 @@
     },
     {
       "album": {
+        "name": "Duna Agbo",
+        "url": "https://open.spotify.com/album/33UbxfKSBd5QEOo9pW60xm"
+      },
+      "artists": [
+        {
+          "name": "Kev & Grenade",
+          "url": "https://open.spotify.com/artist/1yOEo7wlLHYqSL3yHYnEc6"
+        },
+        {
+          "name": "KevTheTopic",
+          "url": "https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z"
+        },
+        {
+          "name": "Nana Grenade",
+          "url": "https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Duna Agbo",
+      "url": "https://open.spotify.com/track/0JVS2gEkmnfBw4m63hl8H0"
+    },
+    {
+      "album": {
         "name": "Dup\u0117",
         "url": "https://open.spotify.com/album/6hqyFPUXzElJTaIlsIcXP1"
       },
@@ -3994,7 +4076,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 206286,
       "name": "Fighting Spirit",
       "url": "https://open.spotify.com/track/7ksDlYtjVV2KwWqS6RIDW8"
@@ -4752,7 +4834,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 237714,
       "name": "Gahojey",
       "url": "https://open.spotify.com/track/03JTYqQys5OodF23d3xjge"
@@ -4874,6 +4956,40 @@
       "duration_ms": 146666,
       "name": "Ghana - Remix",
       "url": "https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA"
+    },
+    {
+      "album": {
+        "name": "Glitch Boyz",
+        "url": "https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja"
+      },
+      "artists": [
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152480,
+      "name": "Ghana Girl (Asakaa Mix)",
+      "url": "https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA"
     },
     {
       "album": {
@@ -5056,7 +5172,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 136901,
       "name": "Go for the Money",
       "url": "https://open.spotify.com/track/4N2YVtFzy8eKNwudJFoGwP"
@@ -6228,7 +6344,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 132002,
       "name": "KFC",
       "url": "https://open.spotify.com/track/61M9RoXyidEK9jf7sCusef"
@@ -6516,7 +6632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211281,
       "name": "Kwabena Sarfo",
       "url": "https://open.spotify.com/track/2c96uwE2sQqEQkcTPNIh7S"
@@ -7866,7 +7982,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147939,
       "name": "MY STORY",
       "url": "https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r"
@@ -7924,6 +8040,24 @@
       "duration_ms": 258638,
       "name": "My way",
       "url": "https://open.spotify.com/track/74rUf2ON34vk6L9ay6q7cJ"
+    },
+    {
+      "album": {
+        "name": "BEAUTEVIL",
+        "url": "https://open.spotify.com/album/32BMzFv36TSYzBRCpkd5JD"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0K0geDRS2mKVMIViuTATUg"
     },
     {
       "album": {
@@ -8832,7 +8966,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 152842,
       "name": "Oh Lord!",
       "url": "https://open.spotify.com/track/4QSGez39W3bOTc4d66jPeB"
@@ -9416,7 +9550,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 203233,
       "name": "PA (feat. Jay Bahd)",
       "url": "https://open.spotify.com/track/2V2UbbeMUJ2lTr4lwHjMup"
@@ -10140,7 +10274,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172307,
       "name": "Road To 5th August 8",
       "url": "https://open.spotify.com/track/7ywGdlXsk85hZF9WmV0Uhz"
@@ -10170,6 +10304,32 @@
       "duration_ms": 194612,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/4nnqdKMZmJm6M5UhCjh0Fo"
+    },
+    {
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/5JRM5eUHcXPi6vIMoS61n5"
+      },
+      "artists": [
+        {
+          "name": "DJ Breezy",
+          "url": "https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217750,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3wid6zhIZ8QQ6g3cgXSV5R"
     },
     {
       "album": {
@@ -10848,7 +11008,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168100,
       "name": "Shutup!",
       "url": "https://open.spotify.com/track/2FDcON2cEoEcXAjiExmsGS"
@@ -13334,6 +13494,28 @@
       "duration_ms": 154723,
       "name": "YARD",
       "url": "https://open.spotify.com/track/1DyEnuuMTy2fh3ZZTd0cUf"
+    },
+    {
+      "album": {
+        "name": "Yawa Go Dey",
+        "url": "https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5"
+      },
+      "artists": [
+        {
+          "name": "Kay-Ara",
+          "url": "https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1"
+        },
+        {
+          "name": "Omenka",
+          "url": "https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "Yawa Go Dey",
+      "url": "https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N"
     },
     {
       "album": {

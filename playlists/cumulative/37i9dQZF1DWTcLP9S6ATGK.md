@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: giring ganesha
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rizwan Fadilah
 
-209 songs - 13 hr 34 min
+213 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Akhir Cinta](https://open.spotify.com/track/2RcgOUhhLdK3cDi5ROBdD5) | [Iga Azwika](https://open.spotify.com/artist/6CUzR2a7m9M60s0c7QLbAt) | [Akhir Cinta](https://open.spotify.com/album/2r7WyPCKOAT8O9MpNsEFjd) | 4:45 | 2024-06-27 | 2024-08-02 |
 | [Asal Kau Setia](https://open.spotify.com/track/6HTmI2i0dHqIri9N7zFLB9) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Asal Kau Setia](https://open.spotify.com/album/72ewUTUCGva6ZssfZocK0B) | 3:30 | 2024-08-01 |  |
 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2024-09-26 |  |
+| [At Least We Tried](https://open.spotify.com/track/4HevrR9k6qc3glD3q9Ru5O) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [At Least We Tried](https://open.spotify.com/album/39Udvsu01UpF8W4f2A9h2s) | 3:48 | 2024-10-03 |  |
 | [Atap Berteduh](https://open.spotify.com/track/6BOij1w5TOjVtZyhaLZmiG) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Atap Berteduh](https://open.spotify.com/album/42S8brIKTyi3Nkhko69vtu) | 2:51 | 2024-07-25 |  |
 | [Badut](https://open.spotify.com/track/7o12WO9nt0euUwWxFmF0JR) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Badut](https://open.spotify.com/album/6YNeGarkB0E3QtPOUa8Vmi) | 4:18 | 2024-06-27 | 2024-07-12 |
 | [Bagaimana Bisa Seseorang](https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Bagaimana Bisa Seseorang](https://open.spotify.com/album/42kXGntEYx1eU4HDFLaL5m) | 4:04 | 2024-07-25 |  |
@@ -140,6 +141,7 @@
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-06-27 | 2024-07-27 |
 | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Tz9cik7fBpYXrDemIH7S5) | 3:57 | 2024-07-11 |  |
 | [Muslihat \- Muslihat Original Soundtrack](https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz) | [Muslihat \(Muslihat Original Soundtrack\)](https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai) | 4:53 | 2024-07-18 | 2024-09-27 |
+| [Nasib Suami Di Akhir Bulan](https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn) | 3:49 | 2024-10-03 |  |
 | [Nomor Satu](https://open.spotify.com/track/57EvfEDG4agFn1a0SLbHbk) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Nomor Satu](https://open.spotify.com/album/0iSGNSqSYEokAF47QbcU3Q) | 3:50 | 2024-09-26 |  |
 | [Pada Akhirnya](https://open.spotify.com/track/5Cjjypy2Pm1LK1mdmohCuT) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Pada Akhirnya](https://open.spotify.com/album/7eE0Br39S9GL6R91ATl83G) | 4:03 | 2024-06-27 | 2024-07-05 |
 | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/album/3WzgPEAKYBpH4avi8eJNDk) | 4:13 | 2024-06-27 | 2024-07-05 |
@@ -165,6 +167,7 @@
 | [Saat Bersamanya](https://open.spotify.com/track/5HTUL2CcEddX6VUkCBOgxQ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Saat Bersamanya](https://open.spotify.com/album/4nhDqXNo8V8MBrEb148zTq) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Salahkah Berharap](https://open.spotify.com/track/3cLJss4xbXCovH0GNOxgw2) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Salahkah Berharap](https://open.spotify.com/album/1vihIL45mTBUTahSixvUCt) | 4:00 | 2024-06-27 | 2024-07-05 |
 | [Salam Perpisahan](https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Berbunga](https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42) | 4:34 | 2024-06-27 |  |
+| [Sampai Maut Memisahkan](https://open.spotify.com/track/22QrL4LbndxkgEUCv3rQJ2) | [Dadali](https://open.spotify.com/artist/4J4X9maePktDRDgRBI004W) | [Sampai Maut Memisahkan](https://open.spotify.com/album/7ytaTaCl4HhEL0xRGi7SyI) | 3:58 | 2024-10-03 |  |
 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 | 2024-09-05 |  |
 | [Sayang Segera Pulang](https://open.spotify.com/track/2FzAxscJuxvvHACabMnLm4) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Aesha Clara](https://open.spotify.com/artist/17JxKMTscR0CSCcRaflnvI), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Sayang Segera Pulang](https://open.spotify.com/album/3Y8CQYyOORxgn035ofr9TP) | 2:38 | 2024-08-08 |  |
 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 | 2024-06-27 | 2024-07-12 |
@@ -197,6 +200,7 @@
 | [Tak Sehebat Dulu](https://open.spotify.com/track/20QZAN1Cc9v8piHeAoGkm8) | [ACYUTA](https://open.spotify.com/artist/3OB0l92TmjSGDLGVyaiY8s) | [Tak Sehebat Dulu](https://open.spotify.com/album/4mBpp8hGA5oj6fkmmdrxtX) | 4:00 | 2024-07-04 | 2024-08-16 |
 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 | 2024-07-25 |  |
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-07-25 |  |
+| [Tanpa Bicara \- Acoustic Version](https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara \(Acoustic Version\)](https://open.spotify.com/album/6k86SYxKHyaPsnB0gRv8ll) | 3:11 | 2024-10-03 |  |
 | [Teman Tapi Mesra](https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Andre Taulany & Friends](https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt) | [Teman Tapi Mesra](https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM) | 4:19 | 2024-09-27 |  |
 | [Tempat Bercerita](https://open.spotify.com/track/6OtJBSqTlc2cPGDcijNutb) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Tempat Bercerita](https://open.spotify.com/album/55oqvPYAmWa0XTH96IrLqh) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-08-15 |  |

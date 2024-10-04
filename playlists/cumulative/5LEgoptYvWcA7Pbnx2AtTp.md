@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-118 songs - 6 hr 48 min
+119 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-09-20 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/5WGatOLP3uqV4mh8jkloUv) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [AAAH!BBA](https://open.spotify.com/album/6etdJTw0gFbGOwQdb94lqo) | 4:40 | 2022-05-06 |  |
 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/5evxr7Opn6r6XDgzDMGVo7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 1:07 | 2023-03-21 |  |
+| [Let Me Down](https://open.spotify.com/track/2PRTHS48pwcs1VMm6DxiXX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 1:51 | 2024-10-03 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/7eMZv0iEGhpuHutwA7BHZG) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:15 | 2023-03-23 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |

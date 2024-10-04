@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 140727,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 157200,
       "name": "A Vida De Uma Gostosa",
       "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 138923,
       "name": "Cachorra Absurda ft. Mc Naninha Prod. PZZS",
       "url": "https://open.spotify.com/track/7IK0jM6FX2JvsX21kTnYok"
@@ -6741,6 +6741,32 @@
     },
     {
       "album": {
+        "name": "Diretoria",
+        "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Nick",
+          "url": "https://open.spotify.com/artist/3ShnwaSECgcrXtWIe3A9Mz"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Diretoria",
+      "url": "https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX"
+    },
+    {
+      "album": {
         "name": "Disk Me",
         "url": "https://open.spotify.com/album/5uVfy1OVIMbVV9vlv3O2fe"
       },
@@ -8001,6 +8027,28 @@
     },
     {
       "album": {
+        "name": "Eu amo ser negona",
+        "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Eu amo ser negona",
+      "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
+    },
+    {
+      "album": {
         "name": "eu me derreto",
         "url": "https://open.spotify.com/album/4yAdm4VdUGAD8RZwYMW2lL"
       },
@@ -8985,6 +9033,48 @@
     },
     {
       "album": {
+        "name": "TROPA",
+        "url": "https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS"
+      },
+      "artists": [
+        {
+          "name": "TROPA",
+          "url": "https://open.spotify.com/artist/1nlGQts3gmftixL86sQVq8"
+        },
+        {
+          "name": "Tshawtty",
+          "url": "https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "NABRU",
+          "url": "https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh"
+        },
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw"
+        },
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
+    },
+    {
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -9654,7 +9744,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174797,
       "name": "F\u00e9 no caminho",
       "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
@@ -10286,7 +10376,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150260,
       "name": "HSEH",
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
@@ -11462,7 +11552,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177902,
       "name": "Linha De Frente",
       "url": "https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn"
@@ -11852,7 +11942,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172799,
       "name": "Mais Uma Vadia",
       "url": "https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW"
@@ -13729,6 +13819,28 @@
     },
     {
       "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Murda Murda",
+      "url": "https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO"
+    },
+    {
+      "album": {
         "name": "Mutante",
         "url": "https://open.spotify.com/album/6Y2zujexTc4TaKBnoVYHPu"
       },
@@ -14548,6 +14660,28 @@
       "duration_ms": 168804,
       "name": "Novinha da Lancha",
       "url": "https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN"
+    },
+    {
+      "album": {
+        "name": "Novinho Chora",
+        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187405,
+      "name": "Novinho Chora",
+      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
     },
     {
       "album": {
@@ -15708,7 +15842,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 153623,
       "name": "Outro Lugar",
       "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
@@ -16282,7 +16416,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 156363,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
@@ -16472,7 +16606,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 232746,
       "name": "Perfil #89 - Sapi\u00eancia",
       "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
@@ -17464,7 +17598,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 221596,
       "name": "Problemas de Uma Gostosa",
       "url": "https://open.spotify.com/track/2cDB6YiO8SEN9G6X5U9wzw"
@@ -18460,6 +18594,32 @@
       "duration_ms": 136616,
       "name": "Rapariga - Ao Vivo",
       "url": "https://open.spotify.com/track/3MAySFGWNReP1TKQ8sDiPV"
+    },
+    {
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/64zU5fHHUQ0BF3BI0q91r4"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ"
     },
     {
       "album": {
@@ -19741,6 +19901,36 @@
     },
     {
       "album": {
+        "name": "Seu Nome",
+        "url": "https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "Theuzz011",
+          "url": "https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
+    },
+    {
+      "album": {
         "name": "Shambaralai",
         "url": "https://open.spotify.com/album/6b7OxrDMqVYg1SybAYFi7y"
       },
@@ -20864,6 +21054,32 @@
       "duration_ms": 102688,
       "name": "Te Bloquear",
       "url": "https://open.spotify.com/track/4BVpxVjQ2PIOGLm1AVfUZh"
+    },
+    {
+      "album": {
+        "name": "Te Ouvir",
+        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Te Ouvir",
+      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
     },
     {
       "album": {
@@ -23120,6 +23336,28 @@
       "duration_ms": 198895,
       "name": "Voltei Pra Mim",
       "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
+    },
+    {
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144683,
+      "name": "Voo 1360",
+      "url": "https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF"
     },
     {
       "album": {

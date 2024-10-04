@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Lady Gaga",
+  "description": "The best jazz new releases. Cover: Melody Gardot",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
@@ -4756,6 +4756,24 @@
       "duration_ms": 190060,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
+    },
+    {
+      "album": {
+        "name": "No Pain, No Champagne",
+        "url": "https://open.spotify.com/album/56KPUa9IzTTnUeY0PwvIBN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "Healthy Ground",
+      "url": "https://open.spotify.com/track/6AlXUgMf0TemcZ2RKE9gtb"
     },
     {
       "album": {
@@ -6344,7 +6362,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 337560,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/5ViznvnYZBURd5hjnxsyQD"
@@ -6856,6 +6874,24 @@
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "album": {
+        "name": "SOUL",
+        "url": "https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321386,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
     },
     {
       "album": {
@@ -8202,7 +8238,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 157417,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i"
@@ -8508,7 +8544,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
@@ -9781,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Shaking Body",
+      "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
+    },
+    {
+      "album": {
         "name": "Shaped By Water",
         "url": "https://open.spotify.com/album/0mPOzgJWbnvAKEgs2aKPTG"
       },
@@ -9792,7 +9846,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 238426,
       "name": "Shaped By Water",
       "url": "https://open.spotify.com/track/3r4IwIKPzgCTqo3nhoRHXq"
@@ -11356,7 +11410,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 267733,
       "name": "Theuykhong",
       "url": "https://open.spotify.com/track/4dKb4pmzItfPe3ESCI1YYg"
@@ -11452,6 +11506,28 @@
       "duration_ms": 215688,
       "name": "This Life",
       "url": "https://open.spotify.com/track/7qyZC802poeH9jzL8JXwfw"
+    },
+    {
+      "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "album": {
@@ -12131,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "Voicemail Blues",
+        "url": "https://open.spotify.com/album/6aDPNDlJbT3aKe1eW9Dt8R"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233377,
+      "name": "Voicemail Blues",
+      "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"
+    },
+    {
+      "album": {
         "name": "The Omnichord Real Book",
         "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
       },
@@ -12440,6 +12534,24 @@
       "duration_ms": 240000,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0Hn9iSg0dwEfw7a7o8JjUZ"
+    },
+    {
+      "album": {
+        "name": "Saturday Night (Original Score)",
+        "url": "https://open.spotify.com/album/2U0xxgEpclqdq4dUZ1M7uf"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211888,
+      "name": "Welcome to 8H",
+      "url": "https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h"
     },
     {
       "album": {

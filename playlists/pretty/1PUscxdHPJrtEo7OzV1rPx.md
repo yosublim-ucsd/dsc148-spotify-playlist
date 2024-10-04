@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain]
 
 > A warrior knows when it&\#x27;s their time\. Might as well put on a show.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 6 songs - 15 min 44 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 7 songs - 18 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,5 +14,6 @@ pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain]
 | 4 | [Spent Gladiator 2](https://open.spotify.com/track/0oy1kHKfKbUZUAyWVXBAhL) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:52 |
 | 5 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 |
 | 6 | [Jenny III](https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:26 |
+| 7 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 |
 
-Snapshot ID: `AAAACtEdHYO3r0tL0u//aItcunf3rjY5`
+Snapshot ID: `AAAAC7cEgecyBh7bjqum25IDhk2F4Fjv`

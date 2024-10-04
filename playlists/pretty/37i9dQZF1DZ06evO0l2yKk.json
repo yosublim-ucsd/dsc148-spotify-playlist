@@ -1,12 +1,12 @@
 {
   "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 163088,
+  "num_followers": 163166,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAADrA/ZpiBG2dknCWw7zhdwH",
+  "snapshot_id": "ZvyNAAAAAACa3e9OROJxookUJTEyHqCV",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Y Es Que Te Quiero De Tal Forma",
-      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 182200,
       "name": "Bailotea",
       "url": "https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Y Es Que Te Quiero De Tal Forma",
+      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
     },
     {
       "added_at": null,

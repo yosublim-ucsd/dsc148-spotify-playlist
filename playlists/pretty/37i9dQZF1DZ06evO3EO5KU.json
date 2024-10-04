@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 156468,
+  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
+  "num_followers": 156484,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAA2Wz+PWB37IOfwij9keVmZ",
+  "snapshot_id": "ZvyNAAAAAABqVIQ6i4XBxtNXKh1tZlBR",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+        "name": "El Doble R - En Vivo",
+        "url": "https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03"
       },
       "artists": [
         {
@@ -600,13 +600,13 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
+      "duration_ms": 144871,
+      "name": "El Doble R - En Vivo",
+      "url": "https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble R - En Vivo",
-        "url": "https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03"
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         },
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 144871,
-      "name": "El Doble R - En Vivo",
-      "url": "https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3"
+      "duration_ms": 217733,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 201978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
         "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
       },
@@ -751,8 +767,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus"
+        "name": "Luces, C\u00e1mara y Acci\u00f3n",
+        "url": "https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 179486,
+      "name": "Luces, C\u00e1mara y Acci\u00f3n",
+      "url": "https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
       "artists": [
         {
@@ -760,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 201978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni"
+      "duration_ms": 154713,
+      "name": "Tres Besitos",
+      "url": "https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI"
     },
     {
       "added_at": null,
@@ -791,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 154713,
-      "name": "Tres Besitos",
-      "url": "https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2 - En Vivo",
         "url": "https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 187545,
       "name": "Ense\u00f1ame A Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Costurera",
-        "url": "https://open.spotify.com/album/3dY2FLPM4CzuNbKdVleabW"
-      },
-      "artists": [
-        {
-          "name": "Los Elementos de Culiacan",
-          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Careada",
-      "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relatos De Juan Jose",
-        "url": "https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ"
+        "name": "La Costurera",
+        "url": "https://open.spotify.com/album/3dY2FLPM4CzuNbKdVleabW"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
         },
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 251626,
-      "name": "Relatos De Juan Jose - En Vivo",
-      "url": "https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC"
+      "duration_ms": 191688,
+      "name": "La Careada",
+      "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-172 songs - 12 hr 0 min
+173 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bauklötze](https://open.spotify.com/track/3M4ZPA9akOPJVnJnepcfb6) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:56 | 2022-06-07 |  |
 | [Beautiful Mess](https://open.spotify.com/track/68KNp3G6yh9hD9MXven95L) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess](https://open.spotify.com/album/3ktRtdRcZF9i9ksgYJtL1Z) | 3:22 | 2023-08-03 |  |
 | [Beautiful Mess \- English Ver.](https://open.spotify.com/track/2i4pR6necpYkVnKcaHxQt7) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess \(English Ver.\)](https://open.spotify.com/album/2TodryWsmoKontqzBjDsy1) | 3:22 | 2023-08-24 |  |
+| [Beautiful Mess \- NV](https://open.spotify.com/track/3eoiGKNjN25R7O4UYTmeAv) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess \- NV](https://open.spotify.com/album/0OkNw35Vv1Qy6lpnnyVr3r) | 3:22 | 2024-10-03 |  |
 | [Before my body is dry](https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 4:08 | 2022-06-07 |  |
 | [BELONG](https://open.spotify.com/track/32MBCRb6ADfaoRreLCjU3z) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Yosh](https://open.spotify.com/artist/6YQbZJhj2jLdbeNpYFZY73) | [BEST OF VOCAL WORKS \[nZk\] 2 \-Side SawanoHiroyuki\[nZk\]\-](https://open.spotify.com/album/1Z024hSkjcF3P3FjRtAm3o) | 3:50 | 2022-06-21 | 2024-04-19 |
 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 | 2022-06-07 |  |

@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 200375,
       "name": "12 Gauge",
       "url": "https://open.spotify.com/track/4cgr1VYLPvQkcrLibsJpPJ"
@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173500,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 234586,
       "name": "Armed & Dangerous",
       "url": "https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI"
@@ -344,6 +344,28 @@
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6n6QkIZ8Wpo4vlP6q5UaZ7"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Cameron Warren",
+          "url": "https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/48TJKpliEWAurs5fMSbRAZ"
     },
     {
       "album": {
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 125000,
       "name": "BARRIN' ALOT (FREESTYLE)",
       "url": "https://open.spotify.com/track/7HpTKnBG6kCKYxjjyTmolW"
@@ -572,6 +594,28 @@
       "duration_ms": 166000,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj"
+    },
+    {
+      "album": {
+        "name": "Beamin\u2019",
+        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140724,
+      "name": "Beamin\u2019",
+      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "album": {
@@ -1112,7 +1156,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 158965,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ"
@@ -1152,6 +1196,28 @@
       "duration_ms": 228000,
       "name": "Daga Da",
       "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
+    },
+    {
+      "album": {
+        "name": "Darkstar",
+        "url": "https://open.spotify.com/album/6V5r7Z13Ta1FdOF4osWMTS"
+      },
+      "artists": [
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "TomInTheChamber",
+          "url": "https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231870,
+      "name": "Darkstar",
+      "url": "https://open.spotify.com/track/4ertAo2qjM7Vzb2BRl3ryD"
     },
     {
       "album": {
@@ -1375,6 +1441,32 @@
     },
     {
       "album": {
+        "name": "Don Dadda",
+        "url": "https://open.spotify.com/album/6uCLgV2WnvndCVKFzitOpe"
+      },
+      "artists": [
+        {
+          "name": "Critical Impact",
+          "url": "https://open.spotify.com/artist/21Aem8hDHs3usVGjbraVvc"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Navigator",
+          "url": "https://open.spotify.com/artist/6rhLeedUsoFpYPcoOJWAVd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168685,
+      "name": "Don Dadda",
+      "url": "https://open.spotify.com/track/3mU2YmvrTH3GrCpHLrw4yY"
+    },
+    {
+      "album": {
         "name": "Don't Call Me Baby",
         "url": "https://open.spotify.com/album/4IV5ABvvLEZKTNG6WJ44Tu"
       },
@@ -1430,7 +1522,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
@@ -1632,7 +1724,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 260689,
       "name": "Energy In Motion",
       "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
@@ -2013,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Game Over Vip",
+        "url": "https://open.spotify.com/album/51NpPJCN2kt4iqlP0XoQC3"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202543,
+      "name": "Game Over Vip",
+      "url": "https://open.spotify.com/track/2IdSPeaDRwdHpa5r70P5bK"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/5PA5PWxiO5ts6xLgQ5fnNB"
       },
@@ -2264,7 +2374,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Got Me",
       "url": "https://open.spotify.com/track/3WlzgbIe3JbTxs1gWa7Ybv"
@@ -2420,7 +2530,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 148965,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No"
@@ -2977,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Slappuccino",
+        "url": "https://open.spotify.com/album/14OvnNAtyRE8uQKBar8JzK"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266239,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2AN5GEOr0gtyIGL0X2UXW3"
+    },
+    {
+      "album": {
         "name": "Let U Know (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
       },
@@ -3134,7 +3262,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 265089,
       "name": "Listen",
       "url": "https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn"
@@ -3514,7 +3642,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 254232,
       "name": "Meta Riddim",
       "url": "https://open.spotify.com/track/2u2vhW0N1UQgq0L1IYyW8w"
@@ -3833,6 +3961,28 @@
     },
     {
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/2eq6cFlt4XXGBUEajXHqDo"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/7fQ4z6gXY1jwNtouyaaYGO"
+    },
+    {
+      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -3918,7 +4068,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 153600,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
@@ -4372,7 +4522,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 170400,
       "name": "Playing With Fire (feat. Zac Pajak)",
       "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
@@ -4494,7 +4644,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 274650,
       "name": "POW",
       "url": "https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn"
@@ -4556,7 +4706,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 140848,
       "name": "Races (feat. Blanco)",
       "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
@@ -5390,7 +5540,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Soundguy",
       "url": "https://open.spotify.com/track/3jCVsU1RyLxOpx41CnQM9g"
@@ -5478,7 +5628,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 187339,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
@@ -5591,6 +5741,32 @@
     },
     {
       "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
+    },
+    {
+      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
       },
@@ -5602,7 +5778,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Stop Talking",
       "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
@@ -5720,7 +5896,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 123981,
       "name": "Style",
       "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
@@ -5844,6 +6020,28 @@
       "duration_ms": 186824,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
+    },
+    {
+      "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/607QBQkIfthxHIInOEeZO3"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/4K7AskjKIv38Cbe3ZxZWP1"
     },
     {
       "album": {
@@ -6129,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "DJ Hazard - Dub Pack 2",
+        "url": "https://open.spotify.com/album/28us1YbeaTvohpPaK5mNAn"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247431,
+      "name": "V2",
+      "url": "https://open.spotify.com/track/1aoyPNzIdM7lqaBoaV64Bn"
+    },
+    {
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -6170,7 +6386,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 281142,
       "name": "Von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"

@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Coimbra Tem Mais Encanto",
+        "url": "https://open.spotify.com/album/7dHL0ajSwNf1TrNDOxpqjA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl"
+        }
+      ],
+      "date_added": "2024-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132106,
+      "name": "Coimbra Tem Mais Encanto",
+      "url": "https://open.spotify.com/track/6QG4L3zBD0PBIHsPhGM0Bm"
+    },
+    {
+      "album": {
         "name": "Coisas do Amor",
         "url": "https://open.spotify.com/album/7lRhmURhIOWv3dQ0MlLPlH"
       },

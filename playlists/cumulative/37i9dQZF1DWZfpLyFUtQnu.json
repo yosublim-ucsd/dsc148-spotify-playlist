@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
+  "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
   "name": "Douce France",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 199680,
       "name": "DEMAIN",
       "url": "https://open.spotify.com/track/3PLI39VQCqmce71B0en2SK"
@@ -418,6 +418,24 @@
       "duration_ms": 280840,
       "name": "En attendant",
       "url": "https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD"
+    },
+    {
+      "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF"
     },
     {
       "album": {
@@ -883,6 +901,24 @@
     },
     {
       "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "album": {
         "name": "La Tendresse",
         "url": "https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd"
       },
@@ -1313,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Essentiels",
+        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
+    },
+    {
+      "album": {
         "name": "Glaz",
         "url": "https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3"
       },
@@ -1324,7 +1378,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181293,
       "name": "Monopolis",
       "url": "https://open.spotify.com/track/7nNFPI4xVf2XNRUrjQc8MY"
@@ -1548,7 +1602,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"

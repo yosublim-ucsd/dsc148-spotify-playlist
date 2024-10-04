@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Aayech Maak",
+        "url": "https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225930,
+      "name": "Aayech Maak",
+      "url": "https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT"
+    },
+    {
+      "album": {
         "name": "Afyoun",
         "url": "https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186984,
       "name": "Contrat (Freestyle)",
       "url": "https://open.spotify.com/track/7mtSlXQIBeNlCUrPGWdZdW"

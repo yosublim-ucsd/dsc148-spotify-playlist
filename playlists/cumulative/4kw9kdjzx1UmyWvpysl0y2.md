@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-829 songs - 1 day 23 hr 15 min
+830 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
 | [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 | 2024-06-11 |
-| [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 |  |
+| [Crisis](https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Crisis / Magazine](https://open.spotify.com/album/3OssBn9F6T2VSaCjZ150lv) | 3:13 | 2024-07-11 | 2024-10-04 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
@@ -661,6 +661,7 @@
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |
 | [So Lost](https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [So Lost](https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN) | 3:08 | 2024-05-09 | 2024-07-31 |
+| [Somebody With You](https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Somebody With You](https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK) | 2:59 | 2024-10-03 |  |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |

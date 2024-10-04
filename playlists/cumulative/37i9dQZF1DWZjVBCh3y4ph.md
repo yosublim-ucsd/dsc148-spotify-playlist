@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Jahyanai
+> Les hits zouk du moment\. Photo : Nesly
 
-163 songs - 8 hr 41 min
+166 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 | 2023-11-23 | 2024-03-01 |
 | [Blesser](https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Blesser](https://open.spotify.com/album/3ibvXKgaNmkFWxHOsT1bdG) | 3:11 | 2023-09-28 | 2023-12-22 |
 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 | 2023-12-21 | 2024-05-24 |
+| [C'est toi](https://open.spotify.com/track/5nX34wrZT1NwgGxboF85Af) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [C'est toi](https://open.spotify.com/album/4UxDJj1WG9I0gWYFi6Lgjt) | 3:06 | 2024-10-03 |  |
 | [Cadence](https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cadence](https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4) | 3:07 | 2023-09-28 | 2024-09-27 |
 | [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 | 2024-08-29 |  |
 | [Call me](https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Call me](https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP) | 2:37 | 2024-07-04 | 2024-09-13 |
@@ -30,7 +31,7 @@
 | [Collé](https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Collé](https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF) | 2:41 | 2024-06-13 |  |
 | [COMMANDES](https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 4:21 | 2024-04-18 | 2024-08-02 |
 | [COMPLIQUÉ](https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [COMPLIQUÉ](https://open.spotify.com/album/2ev4tDFNjbJyAetjBBzuii) | 3:28 | 2023-09-28 | 2024-03-01 |
-| [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 | 2023-09-28 |  |
+| [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 | 2023-09-28 | 2024-10-04 |
 | [Coup de vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 | 2024-03-28 | 2024-05-17 |
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 | 2024-07-05 |
 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 | 2024-07-04 |  |
@@ -46,7 +47,7 @@
 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 | 2024-02-08 | 2024-03-29 |
 | [Déconner](https://open.spotify.com/track/4TJ8SEE9DJqWlTRhuUQKiy) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Déconner](https://open.spotify.com/album/2Gag6JEGysMLjXvkvCp156) | 3:16 | 2024-06-13 | 2024-07-12 |
 | [Effort](https://open.spotify.com/track/0qUAcMqe3voelZveN75MDN) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [Effort](https://open.spotify.com/album/0y6C7alW7UrijgYpYw4mDV) | 3:38 | 2024-09-19 |  |
-| [Elle a dit oui](https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd) | [Elle a dit oui](https://open.spotify.com/album/7JHfYRMqgopUq7VA9qiRX7) | 3:52 | 2024-07-18 |  |
+| [Elle a dit oui](https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd) | [Elle a dit oui](https://open.spotify.com/album/7JHfYRMqgopUq7VA9qiRX7) | 3:52 | 2024-07-18 | 2024-10-04 |
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-10-26 | 2023-12-01 |
 | [Encore](https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Dro](https://open.spotify.com/artist/00YhAYuIQwWPYsEO8VSQDm) | [Encore](https://open.spotify.com/album/5GdFNApbLpunZ2FsdkpUO7) | 3:49 | 2024-02-29 | 2024-08-02 |
 | [Falling in love](https://open.spotify.com/track/4m7ePEyngbSrbIlS2M10hb) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Falling in love](https://open.spotify.com/album/0WY7AA39ZJhXcFyOdnZufk) | 3:22 | 2024-07-11 | 2024-09-13 |
@@ -114,13 +115,14 @@
 | [Partons](https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Partons](https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1) | 3:13 | 2024-06-20 | 2024-09-20 |
 | [Patché Pata](https://open.spotify.com/track/2fHdAwgVFYMqRs0Gul1jji) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI) | [Patché Pata](https://open.spotify.com/album/52Vqc4Gt6W0W0ymKeaOftd) | 2:47 | 2024-09-05 | 2024-09-27 |
 | [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 | 2024-09-12 |  |
+| [Petit cœur](https://open.spotify.com/track/40CR8Fb13bKFSPOV7cxDPg) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Petit cœur](https://open.spotify.com/album/2xk6KpXikarOhvLzLpTaOe) | 2:46 | 2024-10-03 |  |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
 | [PLAN B](https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [PLAN B](https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG) | 3:21 | 2024-05-02 | 2024-08-30 |
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-09-28 | 2023-11-24 |
 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 | 2024-02-29 | 2024-04-19 |
 | [Poison](https://open.spotify.com/track/56gnILTaV61USjCnM5XrsN) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [POISON](https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG) | 3:45 | 2024-09-12 |  |
 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 | 2023-11-23 | 2024-01-26 |
-| [POU OU ENTANN'](https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [POU OU ENTANN'](https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt) | 3:06 | 2024-02-29 |  |
+| [POU OU ENTANN'](https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [POU OU ENTANN'](https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt) | 3:06 | 2024-02-29 | 2024-10-04 |
 | [POUR TOI](https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [POUR TOI](https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu) | 3:20 | 2024-06-27 |  |
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 | 2024-06-21 |
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |
@@ -139,6 +141,7 @@
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
 | [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 | 2024-04-11 |  |
+| [Sé Pa Vou](https://open.spotify.com/track/1QEvBuSpLfy9vq6zAubQY9) | [Shanel Hill](https://open.spotify.com/artist/62ZXFmq5hbJz0M5Va4CnAn) | [Sé Pa Vou](https://open.spotify.com/album/1VHBFO8qlSejrTTTddIzfp) | 3:18 | 2024-10-03 |  |
 | [Sé Vou](https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou](https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy) | 2:49 | 2023-12-21 | 2024-01-12 |
 | [Sé Vou \(Remix\)](https://open.spotify.com/track/2JY0yzqL7IFvNUTYusENR5) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou \(Remix\)](https://open.spotify.com/album/3d6oY68bIXsBSF8cNrzWVE) | 2:59 | 2024-08-22 |  |
 | [TASTY](https://open.spotify.com/track/0CUXSCaRvwcShFXPLEtz7F) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TASTY](https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD) | 3:28 | 2024-03-14 | 2024-06-01 |

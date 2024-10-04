@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV?si=PP8\-ehKbRIG\-k1KFiqccmg">Mshinwemali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,419 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,664 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

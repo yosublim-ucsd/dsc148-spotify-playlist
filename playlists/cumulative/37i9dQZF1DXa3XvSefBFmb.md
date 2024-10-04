@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Irina Barros, com o volume no máximo.
 
-931 songs - 2 day 3 hr 23 min
+932 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [CLOUD9](https://open.spotify.com/track/4jOKO3hmLAWVDHYfCnHgbe) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [CLOUD9](https://open.spotify.com/album/5JSqHaWbLR4UD8grN2ZeSa) | 3:00 | 2023-06-06 | 2023-07-05 |
 | [Clouds](https://open.spotify.com/track/1bL0YIoydaag05wXcMLKCR) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Clouds](https://open.spotify.com/album/5U6yQtanwTiGlhLFlGIA6L) | 2:57 | 2022-07-05 | 2022-10-05 |
 | [Cobertor](https://open.spotify.com/track/7htZn0HT8kLQh6XlLoCKTi) | [Bia Maria](https://open.spotify.com/artist/5XA2sW4LpcNfWGhk4OPXfk) | [do Roberto](https://open.spotify.com/album/6OuoB1F9mPRS5CF1m4VQSR) | 2:47 | 2022-03-08 | 2022-06-01 |
+| [Coimbra Tem Mais Encanto](https://open.spotify.com/track/6QG4L3zBD0PBIHsPhGM0Bm) | [Beatriz Rosário](https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl) | [Coimbra Tem Mais Encanto](https://open.spotify.com/album/7dHL0ajSwNf1TrNDOxpqjA) | 2:12 | 2024-10-02 |  |
 | [Coisas do Amor](https://open.spotify.com/track/0j3DDzUYyXxm59BN2c9fxl) | [Bell](https://open.spotify.com/artist/2MzxmqsbCtVa8qTZMDLBqh) | [Coisas do Amor](https://open.spotify.com/album/7lRhmURhIOWv3dQ0MlLPlH) | 3:57 | 2022-05-31 | 2022-09-07 |
 | [Coisas Fracas](https://open.spotify.com/track/0Gt0SV12lak6tmSDkvM5DX) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Coisas Fracas](https://open.spotify.com/album/5dxvtDeR6reSMJ6Z7bbPZ1) | 2:56 | 2023-06-06 | 2023-07-05 |
 | [coisas por dizer](https://open.spotify.com/track/4DxqWWxqKRLl3aBmAQK8r4) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [coisas por dizer](https://open.spotify.com/album/47zofCG7DlPfUfXtNTKyqI) | 4:04 | 2022-04-05 | 2022-05-04 |

@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-128 songs - 9 hr 19 min
+129 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [sister](https://open.spotify.com/track/4ufbNlqiBsW2Wb9pChzvPa) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/0hxX4x63v3BWbzCNgDjsL2) | 4:07 | 2024-03-06 |  |
 | [sister \- Re arrange ver](https://open.spotify.com/track/5DjszFQHnH2MtZLrOduvQy) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 4:07 | 2022-11-30 | 2024-04-19 |
 | [Taikutsuwo Saienshinaide](https://open.spotify.com/track/0Ca4nK97pypPdmpZcUeGZb) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 3:48 | 2022-11-30 | 2024-04-19 |
+| [Teenage Blue](https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Teenage Blue](https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF) | 3:45 | 2024-10-03 |  |
 | [Tokyo Ghetto](https://open.spotify.com/track/4iiImoJUNnE4MpH3r1l5P4) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2022-11-30 | 2024-04-19 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-24 | 2024-04-19 |
 | [Wakusei loop](https://open.spotify.com/track/08oABwy91rrSwXd5I36QdE) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:27 | 2022-11-30 | 2024-04-19 |

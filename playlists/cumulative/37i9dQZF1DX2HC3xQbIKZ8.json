@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
+    },
+    {
+      "album": {
         "name": "Cali Roots Riddim 2021",
         "url": "https://open.spotify.com/album/47ngDCKILaUidvXeest7sz"
       },
@@ -277,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Castaway (with Drapht)",
+        "url": "https://open.spotify.com/album/0W9F4yud0gQOXWUjKcwK6T"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Drapht",
+          "url": "https://open.spotify.com/artist/4Q6bcEc5YCypvMZ5kjaTMp"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246238,
+      "name": "Castaway (with Drapht)",
+      "url": "https://open.spotify.com/track/4NscsIhbaprW90yndkIp4H"
+    },
+    {
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/6NVXOnQe43Mrb2bqk7PoBT"
       },
@@ -422,6 +462,24 @@
       "duration_ms": 192000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2jdG59yf3TGOcvy0CeGEEI"
+    },
+    {
+      "album": {
+        "name": "Dub From The Hills",
+        "url": "https://open.spotify.com/album/6fuh2XHDYg4VAlaTT10t87"
+      },
+      "artists": [
+        {
+          "name": "Mista Savona",
+          "url": "https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309588,
+      "name": "Dub From The Hills",
+      "url": "https://open.spotify.com/track/1E16mXHTffh8snw9JVme6z"
     },
     {
       "album": {
@@ -633,6 +691,28 @@
     },
     {
       "album": {
+        "name": "Greatest Expectation Dub",
+        "url": "https://open.spotify.com/album/3fUuqEV5SxlPVMNsJw8iDN"
+      },
+      "artists": [
+        {
+          "name": "The Black Seeds",
+          "url": "https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY"
+        },
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Greatest Expectations Dub",
+      "url": "https://open.spotify.com/track/0qg2xiQNtcFPOaRg6smGdY"
+    },
+    {
+      "album": {
         "name": "Chronicles of Youth",
         "url": "https://open.spotify.com/album/3GeMAJSJiElMako7SCjyag"
       },
@@ -648,6 +728,24 @@
       "duration_ms": 215000,
       "name": "Guilty Ways",
       "url": "https://open.spotify.com/track/4V0xX9zUbvyhJHfwhhImz1"
+    },
+    {
+      "album": {
+        "name": "He Aho",
+        "url": "https://open.spotify.com/album/0zw3No3eKmV91L0QEVBQgE"
+      },
+      "artists": [
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176322,
+      "name": "He Aho",
+      "url": "https://open.spotify.com/track/1L0SwZbDWlpNW5crTtq3Ys"
     },
     {
       "album": {
@@ -932,6 +1030,36 @@
       "duration_ms": 221000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL"
+    },
+    {
+      "album": {
+        "name": "It's You (Remix)",
+        "url": "https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6"
+      },
+      "artists": [
+        {
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "STNDRD",
+          "url": "https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf"
+        },
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175294,
+      "name": "It's You - Remix",
+      "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
     },
     {
       "album": {
@@ -1561,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
+    },
+    {
+      "album": {
         "name": "Nothing's Gonna Change My Love For You",
         "url": "https://open.spotify.com/album/0MA3O2ckEGEDTmaXcpjh9M"
       },
@@ -1656,6 +1806,32 @@
       "duration_ms": 202000,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/6SxVjWpYrs3ONAiT2zEN38"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3Itcy97dg2cWNhMVHbXKgL"
+      },
+      "artists": [
+        {
+          "name": "Bradamon Band",
+          "url": "https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr"
+        },
+        {
+          "name": "SUB-TRIBE",
+          "url": "https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2"
+        },
+        {
+          "name": "Chante",
+          "url": "https://open.spotify.com/artist/5bEBymJXMgx3PBk2XCJlON"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238451,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/0aPNwV1eWsyjpccU7eJ4j4"
     },
     {
       "album": {

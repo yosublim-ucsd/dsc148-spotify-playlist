@@ -4,7 +4,7 @@
 
 > 
 
-538 songs - 1 day 3 hr 39 min
+539 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Everything You Wanna](https://open.spotify.com/track/099isUDP1vIEB7AFop99kk) | [DITVAK](https://open.spotify.com/artist/3DsKm3aOWYCjlSWONxnnOX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [VILNYY](https://open.spotify.com/artist/3YnO6a9t47vgLsT8NAWjkz) | [Everything You Wanna](https://open.spotify.com/album/4KjRZ9PbLHaWXO09gQTW7V) | 2:25 | 2024-01-12 | 2024-01-18 |
 | [Everything You Wanna](https://open.spotify.com/track/7rz5D1KAVtQ9Qd41Hh3h3U) | [DITVAK](https://open.spotify.com/artist/3DsKm3aOWYCjlSWONxnnOX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [VILNYY](https://open.spotify.com/artist/3YnO6a9t47vgLsT8NAWjkz) | [Everything You Wanna](https://open.spotify.com/album/38ZybSRMfeYgQmUxHrIV6J) | 2:25 | 2022-04-15 | 2022-07-02 |
 | [Excuses](https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Excuses](https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga) | 2:52 | 2022-04-15 | 2023-11-10 |
+| [Eyes](https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Eyes](https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR) | 2:47 | 2024-09-19 |  |
 | [Fair](https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Fair](https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO) | 3:28 | 2024-07-13 |  |
 | [Faith](https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Faith](https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp) | 3:35 | 2023-09-08 | 2023-11-23 |
 | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/track/0UBjV0qdhBKQLnl8tNXb9e) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/album/0wmqUFbaNF1eVwTqs28zoc) | 2:53 | 2022-04-15 | 2022-07-23 |
@@ -469,7 +470,7 @@
 | [That Thing](https://open.spotify.com/track/7ESz6391xBQrfiTXeua3Ay) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [That Thing](https://open.spotify.com/album/5bP1nagNI1gyIUf6cdC3W3) | 2:37 | 2022-04-15 | 2022-07-29 |
 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 | 2023-10-06 | 2024-02-23 |
 | [The Chant \- Majestic Remix](https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [The Chant \(Majestic Remix\)](https://open.spotify.com/album/5E6OoPcenl0AqK57hHtJqL) | 2:35 | 2022-04-15 | 2022-07-25 |
-| [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 | 2024-02-23 |  |
+| [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 | 2024-02-23 | 2024-10-04 |
 | [The Garden](https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [The Garden](https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d) | 2:41 | 2024-01-04 | 2024-07-24 |
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2022-04-15 | 2023-11-10 |
 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 | 2022-06-20 | 2023-09-08 |

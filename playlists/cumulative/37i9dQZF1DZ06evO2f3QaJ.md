@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. The essential tracks, all in one playlist.
+> This is Zudizilla\. Todos os maiores hits em uma só playlist.
 
 75 songs - 4 hr 42 min
 
@@ -29,7 +29,7 @@
 | [God Bless](https://open.spotify.com/track/6R5HTxqW0yOl7UUYqnhJmm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:48 | 2023-09-18 | 2023-11-11 |
 | [H.E.R\. \(Humano em Reabilitação\) Interlúdio](https://open.spotify.com/track/6yYHHkfqMr1x7aA5bCfFZO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:21 | 2024-07-11 | 2024-07-19 |
 | [Heróis Mortos](https://open.spotify.com/track/2JheiFwFLWYWVBDhgGQZMB) | [FILL](https://open.spotify.com/artist/0Y3reVpf6Pf83TxWb4PFGy), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Control C Control V](https://open.spotify.com/album/7t0BkAXZnUpWirUEPX3eMZ) | 2:38 | 2023-09-18 | 2023-10-11 |
-| [Hidra](https://open.spotify.com/track/1Fr62r17UVFFEPWxveZTfz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 13:25 | 2024-09-30 |  |
+| [Hidra](https://open.spotify.com/track/1Fr62r17UVFFEPWxveZTfz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 13:25 | 2024-09-30 | 2024-10-04 |
 | [HORA DOURADA](https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:48 | 2023-09-18 |  |
 | [I Can See the Sun](https://open.spotify.com/track/5vZnKY2jpbBAYU8sXURY5z) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [I Can See the Sun](https://open.spotify.com/album/1Zl4jJDpUsQ8s7fMsJSF77) | 3:53 | 2023-09-18 |  |
 | [Intro 11](https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:35 | 2023-11-10 |  |

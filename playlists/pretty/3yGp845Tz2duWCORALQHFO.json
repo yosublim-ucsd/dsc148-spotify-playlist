@@ -1,13 +1,29 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25789,
+  "num_followers": 25791,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABg7HVAs7hfTdevjpsDaD6qW64cx+M/",
+  "snapshot_id": "AABg9ZIm4As1B/+/U1btG8iMbbPE3oZJ",
   "tracks": [
+    {
+      "added_at": "2024-10-03 18:21:30",
+      "album": {
+        "name": "Murder on the Dancefloor",
+        "url": "https://open.spotify.com/album/6lZDRD4m5CO9Yv3mig5yVo"
+      },
+      "artists": [
+        {
+          "name": "S_Zer0",
+          "url": "https://open.spotify.com/artist/31GuTgVUgrn3X1gV39IGjr"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Murder on the Dancefloor",
+      "url": "https://open.spotify.com/track/7zY2LRRa4z8TWMv7mB4yn3"
+    },
     {
       "added_at": "2024-09-26 16:54:27",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2024-09-26 16:54:27",
       "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/0krBiDQuWKP0bWQqV6lM6k"
-      },
-      "artists": [
-        {
-          "name": "Puko",
-          "url": "https://open.spotify.com/artist/3YqhqGVcG0zZNUNhknORWQ"
-        }
-      ],
-      "duration_ms": 141739,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/4FUV7WUiUpBPkTiGL8ndFf"
-    },
-    {
-      "added_at": "2024-09-26 16:54:27",
-      "album": {
         "name": "feel again",
         "url": "https://open.spotify.com/album/2LlVenmalkzuTsDMMKSxEK"
       },
@@ -63,6 +63,22 @@
       "duration_ms": 210563,
       "name": "feel again",
       "url": "https://open.spotify.com/track/7LAFTet7LRO1ydBaqNRgr9"
+    },
+    {
+      "added_at": "2024-09-26 16:54:27",
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/0krBiDQuWKP0bWQqV6lM6k"
+      },
+      "artists": [
+        {
+          "name": "Puko",
+          "url": "https://open.spotify.com/artist/3YqhqGVcG0zZNUNhknORWQ"
+        }
+      ],
+      "duration_ms": 141739,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/4FUV7WUiUpBPkTiGL8ndFf"
     },
     {
       "added_at": "2024-09-26 16:54:27",
@@ -205,46 +221,6 @@
       "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
-      "added_at": "2024-10-01 04:53:51",
-      "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/0MDY99vMQyXg9OlRHcZ07f"
-      },
-      "artists": [
-        {
-          "name": "The Kudu",
-          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
-        },
-        {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
-        },
-        {
-          "name": "Biometrix",
-          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
-        }
-      ],
-      "duration_ms": 186940,
-      "name": "Fire It Up",
-      "url": "https://open.spotify.com/track/0cleJMuGKGeA65qYypc6Ch"
-    },
-    {
-      "added_at": "2024-10-01 04:53:51",
-      "album": {
-        "name": "Made Me Like This",
-        "url": "https://open.spotify.com/album/68laxraBg6YRjLA0bFpBBB"
-      },
-      "artists": [
-        {
-          "name": "Ambrxse",
-          "url": "https://open.spotify.com/artist/47oNSHfwymN7Gg2IftahRA"
-        }
-      ],
-      "duration_ms": 317480,
-      "name": "Made Me Like This",
-      "url": "https://open.spotify.com/track/1qBIfUAXid02RlvGh6DtzG"
-    },
-    {
       "added_at": "2024-09-26 16:54:27",
       "album": {
         "name": "I Follow You",
@@ -375,22 +351,6 @@
       "duration_ms": 224000,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/2YDbEmFpqUMU5W0PgR8o5d"
-    },
-    {
-      "added_at": "2024-10-01 04:54:51",
-      "album": {
-        "name": "Fame",
-        "url": "https://open.spotify.com/album/1FSfunHgCxEvG8J2OxgRa6"
-      },
-      "artists": [
-        {
-          "name": "MIRAMAR",
-          "url": "https://open.spotify.com/artist/1cdAAVlSzE9pXHJQHDv2AK"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/0GdfN7SCNlHza8VZgW3DY2"
     },
     {
       "added_at": "2024-09-27 11:45:13",
@@ -543,26 +503,6 @@
       "duration_ms": 225212,
       "name": "Project Z",
       "url": "https://open.spotify.com/track/3CLhTFlOw3qvfQhl4ax4Qg"
-    },
-    {
-      "added_at": "2024-10-01 04:52:51",
-      "album": {
-        "name": "Good Space",
-        "url": "https://open.spotify.com/album/3VN9UalmQbSIMifrRNxNcl"
-      },
-      "artists": [
-        {
-          "name": "Judge Jules",
-          "url": "https://open.spotify.com/artist/1PaP6h3jtpFHNpHWsCF4Zo"
-        },
-        {
-          "name": "Shayee",
-          "url": "https://open.spotify.com/artist/1IyKazsRpLuvWbdNppDWD9"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Good Space",
-      "url": "https://open.spotify.com/track/5iwivgqwL9rNH9TDcbhMgT"
     },
     {
       "added_at": "2024-09-26 16:54:27",
@@ -1051,102 +991,6 @@
       "duration_ms": 254604,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/6dIHmm2Jy7IxT1oPzNInUl"
-    },
-    {
-      "added_at": "2024-09-26 16:54:27",
-      "album": {
-        "name": "GAME OVER",
-        "url": "https://open.spotify.com/album/2mjQHe5WBByTNacccwBObR"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "GAME OVER",
-      "url": "https://open.spotify.com/track/3AcT4pRaCvKj6sDW57sgIS"
-    },
-    {
-      "added_at": "2024-09-26 16:54:27",
-      "album": {
-        "name": "Heart Of Mine",
-        "url": "https://open.spotify.com/album/1U5VTrJg5kYEtlCADisTkF"
-      },
-      "artists": [
-        {
-          "name": "BiXX",
-          "url": "https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh"
-        },
-        {
-          "name": "Sue McLaren",
-          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
-        }
-      ],
-      "duration_ms": 254882,
-      "name": "Heart Of Mine",
-      "url": "https://open.spotify.com/track/04Q6e0CD1b143Nt1T2Nwtt"
-    },
-    {
-      "added_at": "2024-09-26 16:54:27",
-      "album": {
-        "name": "Ray Tracer",
-        "url": "https://open.spotify.com/album/5zZSQ1DyTijx0x4e8wlni9"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        },
-        {
-          "name": "Reptythm",
-          "url": "https://open.spotify.com/artist/4QVGTZc0H7xTHzIKoIyCTQ"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/48jfowhGrYD4DbA90Yk5kD"
-    },
-    {
-      "added_at": "2024-10-01 04:52:52",
-      "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/0TgsScAIqUzIiT1756XDDk"
-      },
-      "artists": [
-        {
-          "name": "DJ Dime",
-          "url": "https://open.spotify.com/artist/6daF1yfRNez2FenkKLNKrH"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/3KOHtBp24aLqLoXucduWX2"
-    },
-    {
-      "added_at": "2024-09-26 16:54:27",
-      "album": {
-        "name": "Shout",
-        "url": "https://open.spotify.com/album/288rEB7yW51fyXqpjXiT97"
-      },
-      "artists": [
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Lukkee",
-          "url": "https://open.spotify.com/artist/17ClkVC4ZoxvTPgjGvVJ2Z"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/4mLVzgymnxlTZ9ymwgX4v3"
     }
   ],
   "unique_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",

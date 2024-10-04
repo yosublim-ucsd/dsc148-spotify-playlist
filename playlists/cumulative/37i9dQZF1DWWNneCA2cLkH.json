@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Mustafa",
+  "description": "These are the eclectic sounds of now. Cover: Nice Biscuit",
   "name": "Alt Here",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "album": {
         "name": "Air of Summer",
         "url": "https://open.spotify.com/album/6YR9V5f7UJETf1MjZpUeiT"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 250023,
       "name": "All 2 of Us",
       "url": "https://open.spotify.com/track/6Qzh9H5JQhM2t8ReA0Bs3J"
@@ -244,6 +262,24 @@
       "duration_ms": 206525,
       "name": "Already Offline",
       "url": "https://open.spotify.com/track/4WubJzxLtpPhcpR6dGZSjy"
+    },
+    {
+      "album": {
+        "name": "Amoss Idjraw",
+        "url": "https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "Amoss Idjraw",
+      "url": "https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq"
     },
     {
       "album": {
@@ -590,7 +626,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 223459,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ"
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 144331,
       "name": "Fortune Green",
       "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
@@ -1608,6 +1644,24 @@
       "duration_ms": 235669,
       "name": "Full Blast",
       "url": "https://open.spotify.com/track/0RD2BF5uxt2gPd7ztktRJt"
+    },
+    {
+      "album": {
+        "name": "GAENARI",
+        "url": "https://open.spotify.com/album/3wsSmmEkmFzAMjCfunvurD"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195698,
+      "name": "GAENARI",
+      "url": "https://open.spotify.com/track/20P6kC3qBe1vQn1F7tmKDd"
     },
     {
       "album": {
@@ -2160,7 +2214,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 218930,
       "name": "Impasse",
       "url": "https://open.spotify.com/track/1cqerDgdNRkvBJAHPOt5ro"
@@ -2200,6 +2254,28 @@
       "duration_ms": 289933,
       "name": "In The Breaks",
       "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
+    },
+    {
+      "album": {
+        "name": "In The Moon",
+        "url": "https://open.spotify.com/album/2lvH6b5JV7yCdjUJ30Awns"
+      },
+      "artists": [
+        {
+          "name": "Stray Fossa",
+          "url": "https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD"
+        },
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253977,
+      "name": "In The Moon",
+      "url": "https://open.spotify.com/track/7gQ59bDTYT54x7J1TqNgrH"
     },
     {
       "album": {
@@ -2405,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Lay Down On Me",
+        "url": "https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lay Down On Me",
+      "url": "https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u"
+    },
+    {
+      "album": {
         "name": "Lemon Juice",
         "url": "https://open.spotify.com/album/6ZPd9QdLKrRCm2Pj8ngjGh"
       },
@@ -2532,7 +2626,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 212036,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/2HxDUSyGDG4gLooxMEBPGw"
@@ -2806,7 +2900,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 253610,
       "name": "Magnus II",
       "url": "https://open.spotify.com/track/1gt4xLxedUyHSFtCZDNNgi"
@@ -2885,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "McCartney",
+        "url": "https://open.spotify.com/album/6BrgQY2LMTPBi3zaA6fHBl"
+      },
+      "artists": [
+        {
+          "name": "Million Dollar Weekend",
+          "url": "https://open.spotify.com/artist/4BiR9m24DaTiyFkYZIRmqn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211599,
+      "name": "McCartney",
+      "url": "https://open.spotify.com/track/7788CMEYPf1nJL1j3FORvc"
+    },
+    {
+      "album": {
         "name": "Method Actor",
         "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
       },
@@ -2954,6 +3066,24 @@
       "duration_ms": 215541,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/3AOL9XMk8j0c6nB9OXrMNV"
+    },
+    {
+      "album": {
+        "name": "My Heart is Drowning",
+        "url": "https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "My Heart is Drowning",
+      "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
     },
     {
       "album": {
@@ -3181,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Mirrors Gaze",
+        "url": "https://open.spotify.com/album/4jQ3qjK8QbfH1svryQ9Wmi"
+      },
+      "artists": [
+        {
+          "name": "LEF.",
+          "url": "https://open.spotify.com/artist/67LSzTtpsWFKuHP656FsCV"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Nothing Was Easy",
+      "url": "https://open.spotify.com/track/60Reo9vYJN13KWlpjIgz6C"
+    },
+    {
+      "album": {
         "name": "oceanic (feat. Vagabon) [rebirth]",
         "url": "https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay"
       },
@@ -3286,7 +3434,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217851,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/0hQgxXEPTN21xbzC43njw4"
@@ -3348,6 +3496,24 @@
       "duration_ms": 219950,
       "name": "Over",
       "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
+    },
+    {
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Panther City",
+      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
       "album": {
@@ -3600,7 +3766,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 274533,
       "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
       "url": "https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI"
@@ -3850,7 +4016,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 228750,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7DaMlGc2cImTWBzMG27tA6"
@@ -3868,7 +4034,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 271502,
       "name": "Something",
       "url": "https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh"
@@ -3904,10 +4070,28 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 216586,
       "name": "Song Of The Lake",
       "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0DZFQSYJX3xkThKsapXn6B"
+      },
+      "artists": [
+        {
+          "name": "Nice Biscuit",
+          "url": "https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340511,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6qJhutjFcSkcLXGZWLJ8EI"
     },
     {
       "album": {
@@ -4110,7 +4294,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211800,
       "name": "Super Breath",
       "url": "https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh"
@@ -4435,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "album": {
         "name": "The Sound of Love EP",
         "url": "https://open.spotify.com/album/6Kl8G6qvHnx6Lt84tLOTxZ"
       },
@@ -4540,10 +4742,32 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 348378,
       "name": "They Shoot Horses",
       "url": "https://open.spotify.com/track/6BI1PLj1wG3ANf4BnGdRLG"
+    },
+    {
+      "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "album": {
@@ -4558,7 +4782,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 204364,
       "name": "Time",
       "url": "https://open.spotify.com/track/0wjdwS6guy2cQsxpgx3coh"
@@ -4673,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Travertine",
+        "url": "https://open.spotify.com/album/59ThqLEn9aaIl7jwvHoq5N"
+      },
+      "artists": [
+        {
+          "name": "Pipe-eye",
+          "url": "https://open.spotify.com/artist/0Sh9OyckiAu6tBP2yiN6wf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273278,
+      "name": "Travertine",
+      "url": "https://open.spotify.com/track/4RDuCPDc3MOl0O5mbdfD9G"
+    },
+    {
+      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -4706,6 +4948,24 @@
       "duration_ms": 279953,
       "name": "Tui Is a Bird (The Work)",
       "url": "https://open.spotify.com/track/7BtsnPjI397ggnyVIomOBH"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL"
+      },
+      "artists": [
+        {
+          "name": "Chakra Efendi",
+          "url": "https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G"
     },
     {
       "album": {

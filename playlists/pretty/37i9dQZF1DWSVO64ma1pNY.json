@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 295940,
+  "num_followers": 295953,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Seal The Deal & Let's Boogie (Deluxe)",
-        "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Hats Off to the Bull",
         "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Seal The Deal & Let's Boogie (Deluxe)",
+        "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Pulling Teeth",
-        "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 211117,
-      "name": "Pulling Teeth",
-      "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "The Lonely Position Of Neutral",
         "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 208266,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 211117,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "When You Think It's Right It's Always Wrong",
-        "url": "https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 246336,
-      "name": "Smother!",
-      "url": "https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "When You Think It's Right It's Always Wrong",
+        "url": "https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 246336,
+      "name": "Smother!",
+      "url": "https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Find Sense. Feel Love. Make Light.",
-        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
-      },
-      "artists": [
-        {
-          "name": "House & Home",
-          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
-        }
-      ],
-      "duration_ms": 201464,
-      "name": "Shrunken Head",
-      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "What Does Your Soul Look Like",
         "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204499,
       "name": "Parallax Error",
       "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Find Sense. Feel Love. Make Light.",
+        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "Shrunken Head",
+      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
-      },
-      "artists": [
-        {
-          "name": "Mirrortalk",
-          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
-        }
-      ],
-      "duration_ms": 187482,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 191543,
       "name": "Ain't Hard To Tell",
       "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
       "artists": [
         {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 226088,
       "name": "Mary",
       "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Kill the Moth",
-        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 141630,
-      "name": "Kill the Moth",
-      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Sunday / Medicine",
         "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Your Own Becoming",
-        "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
+        "name": "Kill the Moth",
+        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
       },
       "artists": [
         {
-          "name": "MILLY",
-          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Nothing To Learn From",
-      "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
+      "duration_ms": 141630,
+      "name": "Kill the Moth",
+      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+        "name": "Your Own Becoming",
+        "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
       },
       "artists": [
         {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+      "duration_ms": 241560,
+      "name": "Nothing To Learn From",
+      "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2127,6 +2111,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Finelines",
         "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
       },
@@ -2139,22 +2139,6 @@
       "duration_ms": 153495,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 180263,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2187,6 +2171,22 @@
       "duration_ms": 230720,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 180263,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
     },
     {
       "added_at": "2024-09-02 15:42:47",

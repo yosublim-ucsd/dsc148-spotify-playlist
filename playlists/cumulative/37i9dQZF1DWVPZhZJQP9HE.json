@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Arakkiye",
+        "url": "https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7"
+      },
+      "artists": [
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Julius Gnanagar",
+          "url": "https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Arakkiye",
+      "url": "https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk"
+    },
+    {
+      "album": {
         "name": "Arugey Nee Pothumay - Single",
         "url": "https://open.spotify.com/album/4Hzjc66esQ4wvOjdfTrtDc"
       },
@@ -9402,6 +9424,28 @@
       "duration_ms": 285197,
       "name": "Rasathi",
       "url": "https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ"
+    },
+    {
+      "album": {
+        "name": "Ratha Kothippu",
+        "url": "https://open.spotify.com/album/2Fd2YCT3s2TJc7eK9UeQAz"
+      },
+      "artists": [
+        {
+          "name": "Gana Mani",
+          "url": "https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69"
+        },
+        {
+          "name": "Vangal Pulla Vicky",
+          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "Ratha Kothippu",
+      "url": "https://open.spotify.com/track/0HFPg4ofuzKy4qjH7rFLbD"
     },
     {
       "album": {

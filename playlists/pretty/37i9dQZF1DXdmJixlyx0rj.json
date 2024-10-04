@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
-  "num_followers": 26114,
+  "num_followers": 26125,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.32 : Impossible Remix",
-        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        },
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Impossible - Darius Remix",
-      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -919,22 +899,22 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+        "name": "iScreaM Vol.32 : Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         },
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
         }
       ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -959,6 +939,26 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "TROUBLE (arcon Remix)",
         "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 210461,
       "name": "TROUBLE - arcon Remix",
       "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.11 : Queendom Remix",
-        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Demicat",
-          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Queendom - Demicat Remix",
-      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "Useless",
         "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 161904,
       "name": "Useless",
       "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "iScreaM Vol.11 : Queendom Remix",
+        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Demicat",
+          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Queendom - Demicat Remix",
+      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "GRB02",
-        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 198774,
-      "name": "GROUSE",
-      "url": "https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
+        "name": "C\u00d6URAGE",
+        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        }
+      ],
+      "duration_ms": 262090,
+      "name": "Priya",
+      "url": "https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
         "name": "Somehow",
         "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
       },
@@ -1391,34 +1391,18 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "C\u00d6URAGE",
-        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
+        "name": "GRB02",
+        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
       },
       "artists": [
         {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 262090,
-      "name": "Priya",
-      "url": "https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Vanilla Sundae",
-      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
+      "duration_ms": 198774,
+      "name": "GROUSE",
+      "url": "https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1439,6 +1423,42 @@
       "duration_ms": 214758,
       "name": "Falling In Love (feat. Natalie Major)",
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "28 Reasons - CIFIKA Remix",
+      "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Vanilla Sundae",
+      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
-      },
-      "artists": [
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "28 Reasons - CIFIKA Remix",
-      "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "11111101",
         "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "GRB02",
-        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 203597,
-      "name": "LAMBO",
-      "url": "https://open.spotify.com/track/4qKHo9Jsq9XqqDuWmu0xVx"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
         "name": "We The One",
         "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
       },
@@ -1567,6 +1551,26 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Los Angeles - Moksi Remix",
+      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
         "name": "<Queendom2> Part.1-2",
         "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
       },
@@ -1579,6 +1583,22 @@
       "duration_ms": 227493,
       "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
       "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
+        "name": "GRB02",
+        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 203597,
+      "name": "LAMBO",
+      "url": "https://open.spotify.com/track/4qKHo9Jsq9XqqDuWmu0xVx"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1664,13 +1684,13 @@
           "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
         },
         {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Los Angeles - Moksi Remix",
-      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
+      "duration_ms": 274761,
+      "name": "28 Reasons - LOOZBONE Remix",
+      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1691,26 +1711,6 @@
       "duration_ms": 197538,
       "name": "BOOM - Minit Remix, Bonus Track",
       "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1743,26 +1743,22 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.4 : 1 Billion Views Remix",
-        "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
       "artists": [
         {
-          "name": "EXO-SC",
-          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         },
         {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 265785,
-      "name": "1 Billion Views - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1787,22 +1783,26 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "iScreaM Vol.4 : 1 Billion Views Remix",
+        "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
         },
         {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 274761,
-      "name": "28 Reasons - LOOZBONE Remix",
-      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+      "duration_ms": 265785,
+      "name": "1 Billion Views - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
     },
     {
       "added_at": "2024-09-27 09:18:48",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-09-27 09:18:48",
       "album": {
+        "name": "C\u00d6URAGE",
+        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Dance First (La La La)",
+      "url": "https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn"
+    },
+    {
+      "added_at": "2024-09-27 09:18:48",
+      "album": {
         "name": "BT14U",
         "url": "https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 296501,
       "name": "BT14U",
       "url": "https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf"
-    },
-    {
-      "added_at": "2024-09-27 09:18:48",
-      "album": {
-        "name": "C\u00d6URAGE",
-        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        }
-      ],
-      "duration_ms": 298909,
-      "name": "Dance First (La La La)",
-      "url": "https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn"
     }
   ],
   "unique_name": "Electronii'K",

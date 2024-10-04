@@ -7271,6 +7271,28 @@
     },
     {
       "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2024",
+        "url": "https://open.spotify.com/album/3LiwLvDPjDYg9qw4j23zn0"
+      },
+      "artists": [
+        {
+          "name": "Aurelios",
+          "url": "https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa"
+        },
+        {
+          "name": "Funk D",
+          "url": "https://open.spotify.com/artist/7hNmGpSTmHpCWP377St0bk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/3lILyitCtmjMkETndYeukU"
+    },
+    {
+      "album": {
         "name": "Rave 'N' Roll (Corey James Remix)",
         "url": "https://open.spotify.com/album/3hPChAVH7wgNfNnvXnYCil"
       },
@@ -10596,7 +10618,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156338,
       "name": "You Like It Rough (feat. Lee McKing)",
       "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"

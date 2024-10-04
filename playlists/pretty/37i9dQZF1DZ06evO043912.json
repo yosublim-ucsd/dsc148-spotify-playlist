@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5784,
+  "num_followers": 5787,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAAVWbcFU7O1HDjvjowPzdw8",
+  "snapshot_id": "ZvyNAAAAAAAKXd49WQaNR7ozgkoEXTXk",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 75011,
-      "name": "Mo Ti Gohun Oluwa",
-      "url": "https://open.spotify.com/track/5n5qWKCQ05N6DdkCQulO4P"
+      "duration_ms": 155457,
+      "name": "Oluwa Lo Yan Mi",
+      "url": "https://open.spotify.com/track/6oTnc25hMY8S8bcos2dNy4"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 155457,
-      "name": "Oluwa Lo Yan Mi",
-      "url": "https://open.spotify.com/track/6oTnc25hMY8S8bcos2dNy4"
+      "duration_ms": 75011,
+      "name": "Mo Ti Gohun Oluwa",
+      "url": "https://open.spotify.com/track/5n5qWKCQ05N6DdkCQulO4P"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -464,25 +480,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 100143,
-      "name": "Sweet Banana",
-      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 111986,
+      "name": "Ejire Ara Isokun",
+      "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -536,25 +552,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 213523,
-      "name": "Ona Mi La",
-      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 71626,
-      "name": "African Beats Lu Nsere",
-      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+      "duration_ms": 100143,
+      "name": "Sweet Banana",
+      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 71626,
+      "name": "African Beats Lu Nsere",
+      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -604,25 +620,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 251925,
-      "name": "Jinginrin",
-      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
-        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 111986,
-      "name": "Ejire Ara Isokun",
-      "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
+      "duration_ms": 213523,
+      "name": "Ona Mi La",
+      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
     },
     {
       "added_at": null,

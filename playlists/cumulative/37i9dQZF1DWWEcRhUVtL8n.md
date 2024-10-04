@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: SASAMI
 
-1,967 songs - 4 day 7 hr 57 min
+1,968 songs - 4 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1445,7 +1445,7 @@
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-12-09 |
 | [Rockstar](https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/3pwHONJw42S7p9b6djAUzA) | 3:28 | 2020-10-13\* | 2020-10-16 |
-| [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-09-13 |  |
+| [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-09-13 | 2024-10-04 |
 | [Rollerskates](https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Emotions on Rollerskates](https://open.spotify.com/album/1gIi3xEGhV2g60G685E9cW) | 3:19 | 2020-10-13\* | 2021-02-26 |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-06-17 | 2022-10-08 |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-03-23 | 2022-07-29 |
@@ -1501,6 +1501,7 @@
 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 | 2022-10-28 | 2022-11-25 |
 | [secondguess](https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [secondguess](https://open.spotify.com/album/7JOVnIjr140Zn7scMXAEAd) | 2:55 | 2022-04-29 | 2022-07-29 |
 | [Secret Place](https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Secret Place](https://open.spotify.com/album/0xzaHD5jiLywBetxvYyuOD) | 3:02 | 2024-01-20 | 2024-02-28 |
+| [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 | 2024-10-03 |  |
 | [See You Later](https://open.spotify.com/track/4OHXUCTieg7Ba4My21pFz8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [See You Later](https://open.spotify.com/album/1mdcunvWOgYgFxGk2BH67i) | 2:42 | 2020-10-20 | 2021-05-26 |
 | [Seeds](https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Seeds](https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v) | 4:11 | 2022-06-17 | 2022-10-29 |
 | [Seeds](https://open.spotify.com/track/7pJAND8bggxN2rEVYGpPfA) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Seeds](https://open.spotify.com/album/5DYJOrXI0vwA50AW5PAjfW) | 4:11 | 2021-05-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-57 songs - 3 hr 0 min
+58 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 | 2024-02-16 |  |
 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 | 2024-02-16 |  |
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2024-02-16 |  |
-| [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 |  |
+| [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 | 2024-10-04 |
 | [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 | 2024-02-16 |  |
 | [Fold \(Acoustic\)](https://open.spotify.com/track/6486yIkkiV42CXf9BiEtoM) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:36 | 2024-02-16 |  |
 | [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 | 2024-07-19 |
@@ -39,6 +39,7 @@
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-02-16 |  |
 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 | 2024-02-16 |  |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |
+| [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-10-03 |  |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 | 2024-02-16 |  |
 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 | 2024-02-16 |  |
 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 | 2024-02-16 |  |

@@ -1027,6 +1027,56 @@
     },
     {
       "album": {
+        "name": "Kgf Chapter 2",
+        "url": "https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub"
+      },
+      "artists": [
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Govind Prasad",
+          "url": "https://open.spotify.com/artist/2XzJ8aeBoI3YXBnaYVgDUh"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        },
+        {
+          "name": "Mohan Krishna",
+          "url": "https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Puneeth Rudranag",
+          "url": "https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214122,
+      "name": "Toofan",
+      "url": "https://open.spotify.com/track/4N3x976Tu0beqAnwrHeK49"
+    },
+    {
+      "album": {
         "name": "Toofan (From \"Kgf Chapter 2\")",
         "url": "https://open.spotify.com/album/1uxRF8H4CGkXjaYhHbj9n2"
       },

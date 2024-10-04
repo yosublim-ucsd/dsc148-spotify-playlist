@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Get your spirits up and manage your mood any time of the day. Cover: Joshua Baraka",
+  "description": "Get your spirits up and manage your mood any time of the day. Cover: MAUIM\u00d8ON",
   "name": "Mutima ",
   "tracks": [
     {
@@ -297,6 +297,32 @@
     },
     {
       "album": {
+        "name": "For The Love of R&B Vol 1",
+        "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "EAST KISS",
+          "url": "https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170195,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8"
+    },
+    {
+      "album": {
         "name": "Do Me (Remix)",
         "url": "https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB"
       },
@@ -516,7 +542,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 165330,
       "name": "GROOVE WITH ME - A COLORS SHOW",
       "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
@@ -710,6 +736,32 @@
       "duration_ms": 203478,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5"
+    },
+    {
+      "album": {
+        "name": "For The Love of R&B Vol 1",
+        "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249939,
+      "name": "HURTS LIKE HEAVEN",
+      "url": "https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E"
     },
     {
       "album": {
@@ -1802,7 +1854,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177000,
       "name": "REALLY NEED",
       "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
@@ -2078,6 +2130,24 @@
       "duration_ms": 209885,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4ZMfMBVgAVORPp8kGm45tQ"
+    },
+    {
+      "album": {
+        "name": "STRONGER",
+        "url": "https://open.spotify.com/album/6y02dO6l31HVRKha2ytqIB"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204886,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/1IYaDLB3eX56jSzyYLdytw"
     },
     {
       "album": {
@@ -2446,7 +2516,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 259082,
       "name": "Webale",
       "url": "https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci"

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-392 songs - 21 hr 25 min
+393 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [E Antara](https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6) | [Puornausri D](https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [E Antara](https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5) | 2:36 | 2024-01-31 | 2024-06-22 |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 | 2024-01-09 |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
-| [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 |  |
+| [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 | 2024-10-04 |
 | [ejawa](https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Vishakh](https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV), [Chaithra M](https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y) | [ejawa](https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO) | 2:45 | 2024-06-24 |  |
 | [Elle Hodaru](https://open.spotify.com/track/1aR6HAkxlQT2O2dBuJVNBW) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Elle Hodaru](https://open.spotify.com/album/5VQ8AboHL2qQBYx7KrvxET) | 2:45 | 2024-08-27 |  |
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
@@ -208,6 +208,7 @@
 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 | 2023-10-07 | 2024-04-05 |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |
 | [Manasu Jaaride](https://open.spotify.com/track/6bUKQYlsou3gViUUj6Xp2O) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Manasu Jaaride](https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO) | 2:39 | 2024-04-03 | 2024-08-29 |
+| [Mande Bisi](https://open.spotify.com/track/3rwZ5L9pB3uCVXAPIVNg2L) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Mande Bisi](https://open.spotify.com/album/7zYHOKb68Hj6oZ6nM4WB5p) | 3:32 | 2024-10-03 |  |
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 | 2024-04-02 |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
 | [Marethiruve](https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5) | [Ahamm](https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC), [Bassmnt](https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1) | [Marethiruve](https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN) | 4:17 | 2023-12-22 | 2024-02-17 |

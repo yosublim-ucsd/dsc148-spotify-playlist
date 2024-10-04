@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 123428,
       "name": "DRAIN SEASON",
       "url": "https://open.spotify.com/track/4uhav7PVI9rkYJyKkjQJdb"
@@ -1170,6 +1170,24 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "album": {
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Sladki Snov Rapper 2",
       "url": "https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ"
@@ -5606,7 +5624,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 181948,
       "name": "\u0421\u0415\u041a\u0420\u0415\u0422\u0410\u0420\u0428\u0410",
       "url": "https://open.spotify.com/track/3cwT9c3zKuac1UjZwLBfs9"
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188240,
       "name": "\u0421\u0442\u0430\u043d\u044c",
       "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"

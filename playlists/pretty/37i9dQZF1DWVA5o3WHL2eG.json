@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 34838,
+  "num_followers": 34885,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Frag f\u00fcr ne Freundin EP",
-        "url": "https://open.spotify.com/album/6Zz2ADWJZYAVNvnaiXliJM"
-      },
-      "artists": [
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 153864,
-      "name": "Wetten dass",
-      "url": "https://open.spotify.com/track/5zWX5GEoMCtuWG91I1yS4u"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Young-Girl (Illusion)",
         "url": "https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 189822,
       "name": "Young-Girl (Illusion)",
       "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Frag f\u00fcr ne Freundin EP",
+        "url": "https://open.spotify.com/album/6Zz2ADWJZYAVNvnaiXliJM"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 153864,
+      "name": "Wetten dass",
+      "url": "https://open.spotify.com/track/5zWX5GEoMCtuWG91I1yS4u"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "l.o.v.e.",
-        "url": "https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp"
-      },
-      "artists": [
-        {
-          "name": "Ellice",
-          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "l.o.v.e.",
-      "url": "https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Stummer Schrei",
         "url": "https://open.spotify.com/album/3ia7qboQ3t7NpUGsOn8RWJ"
       },
@@ -367,58 +351,6 @@
       "duration_ms": 160824,
       "name": "Stummer Schrei",
       "url": "https://open.spotify.com/track/7tD1Z34AVipWVbGhLI4P2C"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Was hab ich nur getan?",
-        "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
-      },
-      "artists": [
-        {
-          "name": "Mine",
-          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
-        },
-        {
-          "name": "Nicola Rost",
-          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Was hab ich nur getan?",
-      "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "La Batteria",
-        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "La Batteria",
-      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "8 stufen ep",
-        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 172138,
-      "name": "pok\u00e9mon",
-      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -447,6 +379,74 @@
       "duration_ms": 181974,
       "name": "HellSehen",
       "url": "https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "l.o.v.e.",
+        "url": "https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp"
+      },
+      "artists": [
+        {
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "l.o.v.e.",
+      "url": "https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "La Batteria",
+        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "La Batteria",
+      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Was hab ich nur getan?",
+        "url": "https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA"
+      },
+      "artists": [
+        {
+          "name": "Mine",
+          "url": "https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ"
+        },
+        {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Was hab ich nur getan?",
+      "url": "https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "8 stufen ep",
+        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 172138,
+      "name": "pok\u00e9mon",
+      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Der Moment archiviert",
-        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
-      },
-      "artists": [
-        {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "Der Moment archiviert",
-      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "zu nice",
         "url": "https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Hardcore Workout Queen",
-        "url": "https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1"
+        "name": "Der Moment archiviert",
+        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
       },
       "artists": [
         {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
         }
       ],
-      "duration_ms": 294407,
-      "name": "Hardcore Workout Queen",
-      "url": "https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM"
+      "duration_ms": 156387,
+      "name": "Der Moment archiviert",
+      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 155938,
       "name": "ich wei\u00df, dass du das wei\u00dft",
       "url": "https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Hardcore Workout Queen",
+        "url": "https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "duration_ms": 294407,
+      "name": "Hardcore Workout Queen",
+      "url": "https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Das Barlach-Lied",
-        "url": "https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr"
+        "name": "Heaven is Magnetic",
+        "url": "https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx"
       },
       "artists": [
         {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+          "name": "Ella Eliza",
+          "url": "https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ"
         }
       ],
-      "duration_ms": 201296,
-      "name": "Das Barlach-Lied",
-      "url": "https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK"
+      "duration_ms": 170457,
+      "name": "Heaven is Magnetic",
+      "url": "https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Heaven is Magnetic",
-        "url": "https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx"
+        "name": "Das Barlach-Lied",
+        "url": "https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr"
       },
       "artists": [
         {
-          "name": "Ella Eliza",
-          "url": "https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ"
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
         }
       ],
-      "duration_ms": 170457,
-      "name": "Heaven is Magnetic",
-      "url": "https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6"
+      "duration_ms": 201296,
+      "name": "Das Barlach-Lied",
+      "url": "https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "fuck you paris",
-        "url": "https://open.spotify.com/album/61SCR2w7ZqD01Dxlg6mI2b"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Wawra",
-          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
-        }
-      ],
-      "duration_ms": 147136,
-      "name": "fuck you paris",
-      "url": "https://open.spotify.com/track/65uI2xul4j4UD8mX8tSg7w"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Once You Laugh",
         "url": "https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 137059,
       "name": "Once You Laugh",
       "url": "https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "fuck you paris",
+        "url": "https://open.spotify.com/album/61SCR2w7ZqD01Dxlg6mI2b"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Wawra",
+          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
+        }
+      ],
+      "duration_ms": 147136,
+      "name": "fuck you paris",
+      "url": "https://open.spotify.com/track/65uI2xul4j4UD8mX8tSg7w"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "Botanical Garden",
+        "url": "https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt"
+      },
+      "artists": [
+        {
+          "name": "Anna Erhard",
+          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
+        }
+      ],
+      "duration_ms": 219141,
+      "name": "Hot Family",
+      "url": "https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Im_Possible",
         "url": "https://open.spotify.com/album/65WNRRyeYrxmJ7pgwsFGHc"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 161737,
       "name": "Im_Possible",
       "url": "https://open.spotify.com/track/2SmZcm0DEOGVk5kFJdDeiS"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Botanical Garden",
-        "url": "https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt"
-      },
-      "artists": [
-        {
-          "name": "Anna Erhard",
-          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
-        }
-      ],
-      "duration_ms": 219141,
-      "name": "Hot Family",
-      "url": "https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A"
     },
     {
       "added_at": "2024-10-01 22:00:00",

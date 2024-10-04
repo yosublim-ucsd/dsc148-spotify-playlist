@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl"
+    },
+    {
+      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
       },
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"

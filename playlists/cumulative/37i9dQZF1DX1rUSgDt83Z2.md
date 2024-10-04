@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem, nationaal in elke taal.
 
-79 songs - 4 hr 8 min
+81 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-06-24 | 2024-07-27 |
 | [Considering Myself](https://open.spotify.com/track/5NXMXPvpWKSPIyiFB5sAnK) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Considering Myself](https://open.spotify.com/album/6Sr5mQNt6qpREYf34okrA7) | 2:46 | 2024-06-24 | 2024-08-30 |
 | [Crazy](https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Crazy](https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER) | 3:18 | 2024-06-24 |  |
+| [Dansen In Gedachten](https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dansen In Gedachten](https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq) | 2:55 | 2024-10-03 |  |
 | [Dansen Om Het Vuur](https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Dansen Om Het Vuur](https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF) | 3:10 | 2024-06-24 |  |
 | [diesel](https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [diesel](https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg) | 2:57 | 2024-06-24 |  |
 | [Fiasco](https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Fiasco](https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2) | 2:22 | 2024-09-19 |  |
@@ -30,7 +31,7 @@
 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 | 2024-08-29 |  |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 |  |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 |  |
-| [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 |  |
+| [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 | 2024-10-04 |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-06-24 | 2024-09-13 |
 | [I Will Go There](https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [I Will Go There](https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt) | 3:25 | 2024-06-24 | 2024-08-30 |
 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 | 2024-08-29 |  |
@@ -49,7 +50,8 @@
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 |  |
 | [Middenweg](https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE) | [Reyck](https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU) | [Los](https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f) | 3:03 | 2024-07-25 | 2024-09-20 |
 | [Moonlight Drive](https://open.spotify.com/track/5P7QfIkTLyWIF3VYVOHzYi) | [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Moonlight Drive](https://open.spotify.com/album/5S5GtHB5s6tUAnbG1T44we) | 3:18 | 2024-06-24 | 2024-07-23 |
-| [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-06-24 |  |
+| [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-06-24 | 2024-10-04 |
+| [Nooit Meer](https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P) | [Joël Borelli](https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD) | [Nooit Meer](https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG) | 2:59 | 2024-10-03 |  |
 | [Not a game](https://open.spotify.com/track/1c81DfdPrL41JzciAU3FeX) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Not a game](https://open.spotify.com/album/0DOY7ZM2S1noAk20375tt8) | 2:55 | 2024-06-24 | 2024-09-20 |
 | [Numbers](https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-07-11 |  |
 | [Omdat Je Me Ziet](https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Omdat Je Me Ziet](https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x) | 2:48 | 2024-06-27 |  |

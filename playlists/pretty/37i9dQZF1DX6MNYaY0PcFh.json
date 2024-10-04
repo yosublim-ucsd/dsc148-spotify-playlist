@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80389,
+  "num_followers": 80413,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "TEMPORARY FRIENDS",
-        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "TEMPORARY FRIENDS",
-      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Armed & Dangerous",
         "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 234586,
       "name": "Armed & Dangerous",
       "url": "https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "TEMPORARY FRIENDS",
+        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "TEMPORARY FRIENDS",
+      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "luv stuck",
-        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "luv stuck",
-      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "FRESH AND NEW",
+        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "FRESH AND NEW",
+      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Rita Ora",
         "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "FRESH AND NEW",
-        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "FRESH AND NEW",
-      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
       },
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Without U",
-        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Without U - Radio Edit",
-      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "KEEP IT ROLLING",
         "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
       },
@@ -879,34 +859,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Tunes Since '89",
-        "url": "https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La"
+        "name": "Without U",
+        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
       },
       "artists": [
         {
-          "name": "KING BOOO!",
-          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
-        }
-      ],
-      "duration_ms": 220164,
-      "name": "Tunes Since '89",
-      "url": "https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
-      },
-      "artists": [
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
         }
       ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+      "duration_ms": 169000,
+      "name": "Without U - Radio Edit",
+      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -951,6 +919,38 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Tunes Since '89",
+        "url": "https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La"
+      },
+      "artists": [
+        {
+          "name": "KING BOOO!",
+          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
+        }
+      ],
+      "duration_ms": 220164,
+      "name": "Tunes Since '89",
+      "url": "https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Don't Leave",
         "url": "https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ"
-      },
-      "artists": [
-        {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
-        },
-        {
-          "name": "Sophia Violet",
-          "url": "https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV"
-        }
-      ],
-      "duration_ms": 161167,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "take your vibes and go (Preditah Remix)",
         "url": "https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 292001,
       "name": "take your vibes and go - Preditah Remix",
       "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        },
+        {
+          "name": "Sophia Violet",
+          "url": "https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 253960,
-      "name": "Business As Usual (night shift mix)",
-      "url": "https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Higher (Prozak Remix)",
         "url": "https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 269999,
       "name": "Higher - Prozak Remix",
       "url": "https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Business As Usual (night shift mix)",
+      "url": "https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma"
     }
   ],
   "unique_name": "New UK Garage",

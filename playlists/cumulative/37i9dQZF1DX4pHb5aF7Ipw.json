@@ -845,6 +845,32 @@
     },
     {
       "album": {
+        "name": "Chote Pind",
+        "url": "https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW"
+      },
+      "artists": [
+        {
+          "name": "Sanj Gosal",
+          "url": "https://open.spotify.com/artist/7qZf0PxnU7SpoTwcbCXYcv"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        },
+        {
+          "name": "Deep Ror",
+          "url": "https://open.spotify.com/artist/02Dwx3ku9Ahk3gzZn1d9BF"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186958,
+      "name": "Chote Pind",
+      "url": "https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo"
+    },
+    {
+      "album": {
         "name": "Clutch Baliye",
         "url": "https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C"
       },
@@ -1714,6 +1740,36 @@
       "duration_ms": 197985,
       "name": "Hood Life",
       "url": "https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs"
+    },
+    {
+      "album": {
+        "name": "Hop In",
+        "url": "https://open.spotify.com/album/3pIqVKzemDyocL9k0nH5SM"
+      },
+      "artists": [
+        {
+          "name": "Manraj",
+          "url": "https://open.spotify.com/artist/0uaJu6JTp4Nv508PWFLrgn"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Hop In",
+      "url": "https://open.spotify.com/track/4cCdHyMpezQ9ELWrUB54yC"
     },
     {
       "album": {
@@ -2782,7 +2838,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161770,
       "name": "One Way",
       "url": "https://open.spotify.com/track/3AscPMNW1cJOP6WDRGIdnp"
@@ -2874,7 +2930,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184303,
       "name": "Paagal",
       "url": "https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK"
@@ -3702,7 +3758,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 170526,
       "name": "Ustaadi (feat. Faris Shafi)",
       "url": "https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj"
@@ -3798,6 +3854,24 @@
       "duration_ms": 188903,
       "name": "WE COMIN",
       "url": "https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve"
+    },
+    {
+      "album": {
+        "name": "We Don't Call Cops",
+        "url": "https://open.spotify.com/album/74DhGcbKKRs8L8zIkxTeqg"
+      },
+      "artists": [
+        {
+          "name": "Jaura Phagwara",
+          "url": "https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "We Don't Call Cops",
+      "url": "https://open.spotify.com/track/0iTi7Qh8JMNG7CLiUOBJ6a"
     },
     {
       "album": {

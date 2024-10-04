@@ -1,6 +1,6 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 98005,
+  "num_followers": 98003,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
@@ -43,7 +43,7 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "The Idol Episode 4 - Music from the HBO Original Series",
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
       "artists": [
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Still the One",
-        "url": "https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2"
-      },
-      "artists": [
-        {
-          "name": "DJ Noiz",
-          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
-        },
-        {
-          "name": "Mikey Mayz",
-          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
-        }
-      ],
-      "duration_ms": 139166,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "Water (Remix)",
         "url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 200255,
       "name": "Water - Remix",
       "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "Still the One",
+        "url": "https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2"
+      },
+      "artists": [
+        {
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
+        }
+      ],
+      "duration_ms": 139166,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8"
     },
     {
       "added_at": "2024-01-04 02:49:10",

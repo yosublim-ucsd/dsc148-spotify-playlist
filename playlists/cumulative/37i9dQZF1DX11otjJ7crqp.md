@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Damiano David
 
-6,447 songs - 13 day 9 hr 10 min
+6,449 songs - 13 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3999,6 +3999,7 @@
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 | 2022-04-16 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-16 | 2024-08-24 |
 | [My Way](https://open.spotify.com/track/1JNYHMxkwchxSaPfmtlhVf) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [My Way](https://open.spotify.com/album/08dZtgJfSsrhladVnbrGnO) | 2:34 | 2022-10-07 | 2022-10-22 |
+| [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 | 2024-09-27 |  |
 | [My Year](https://open.spotify.com/track/11V0MfxII1ZmRatxtz0OyD) | [Da Beatminerz](https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7), [Rasheed Chappell](https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw), [Corey Glover](https://open.spotify.com/artist/1q43UYqmrt3prvsBUfuRdr) | [My Year](https://open.spotify.com/album/0Gt6nUt5yUD3I92B94tlAX) | 4:48 | 2024-05-10 | 2024-05-18 |
 | [MYSTERIOUS](https://open.spotify.com/track/1ZJ132YkFHStjw75gkMNVg) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MYSTERIOUS](https://open.spotify.com/album/2It2erMLSqbCHqP7afhAXa) | 2:58 | 2024-09-20 |  |
 | [Nail In The Coffin](https://open.spotify.com/track/3BxRbDLMu7dVXCgVuhYzDI) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Nail In The Coffin](https://open.spotify.com/album/42gDWkXhiRGpSrYKVVaMAL) | 3:45 | 2023-04-21 | 2023-04-29 |
@@ -5836,6 +5837,7 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-24 | 2024-06-08 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-07-19 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 | 2023-06-24 |
+| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-09-27 |  |
 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 | 2022-05-06 | 2022-05-20 |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-27 |
 | [Traffic](https://open.spotify.com/track/7CjYh2emEMAYSc8VA69SA4) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Traffic](https://open.spotify.com/album/3OUL2tpkKVBsHwlibQwI4X) | 2:30 | 2023-05-26 | 2023-06-10 |

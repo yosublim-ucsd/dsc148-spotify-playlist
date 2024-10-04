@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Stamatis Gonidis x Vasilis Dimas",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 99212,
       "name": "Eipes Tha 'Souna Pisti",
       "url": "https://open.spotify.com/track/05M4KF94fWJV2tU0mRPxgP"
@@ -526,6 +526,24 @@
       "duration_ms": 182771,
       "name": "Fyllo Kai Ftero",
       "url": "https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX"
+    },
+    {
+      "album": {
+        "name": "Giati S' Emena (Ssss...)",
+        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198875,
+      "name": "Giati S' Emena (Ssss...)",
+      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 206624,
       "name": "Nyxta Moy Magissa",
       "url": "https://open.spotify.com/track/54xvSQrX7zIMlRCl97HKkc"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189996,
       "name": "Odos Tsimiski",
       "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Paramilas",
+        "url": "https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Tsalikis",
+          "url": "https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Paramilas",
+      "url": "https://open.spotify.com/track/1lsGFSLF0dwnxUxCprXenV"
+    },
+    {
+      "album": {
         "name": "Paraponaki Mou",
         "url": "https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa"
       },
@@ -938,7 +974,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 169438,
       "name": "Pes Mou",
       "url": "https://open.spotify.com/track/2KDf834esNz60YkoISdDu2"
@@ -1187,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Sta Logia Meiname",
+        "url": "https://open.spotify.com/album/0A8U7jtcD3TmY8RY4Y0nas"
+      },
+      "artists": [
+        {
+          "name": "Dimos Anastasiadis",
+          "url": "https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252415,
+      "name": "Sta Logia Meiname",
+      "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
+    },
+    {
+      "album": {
         "name": "Ta Kalytera",
         "url": "https://open.spotify.com/album/7b7ppVdCsdND2loHeKun4q"
       },
@@ -1336,7 +1390,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 199551,
       "name": "Ti Sou Kanei",
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"

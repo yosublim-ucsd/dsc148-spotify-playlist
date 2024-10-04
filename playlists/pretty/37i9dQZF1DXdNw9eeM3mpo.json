@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 466429,
+  "num_followers": 466514,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Radical Park - Episodio 1",
         "url": "https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a"
       },
@@ -1323,6 +1307,38 @@
       "duration_ms": 179070,
       "name": "Esta es Mi Vida",
       "url": "https://open.spotify.com/track/4dr0yrw0TkRigczw9nXjx4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Que Se Joda el Amor",
         "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Noche Ardiente",
-        "url": "https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN"
-      },
-      "artists": [
-        {
-          "name": "Miguel Chinchilla",
-          "url": "https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb"
-        }
-      ],
-      "duration_ms": 147341,
-      "name": "Noche Ardiente",
-      "url": "https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 216859,
       "name": "As\u00ed No Se Puede Querer",
       "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Noche Ardiente",
+        "url": "https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN"
+      },
+      "artists": [
+        {
+          "name": "Miguel Chinchilla",
+          "url": "https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb"
+        }
+      ],
+      "duration_ms": 147341,
+      "name": "Noche Ardiente",
+      "url": "https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 142252,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 142252,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Camino de la Verdad",
-        "url": "https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU"
-      },
-      "artists": [
-        {
-          "name": "RU-2",
-          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "El Camino de la Verdad",
-      "url": "https://open.spotify.com/track/2PwYrj7ihUMiNVqOIt6eR0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "El Camino de la Verdad",
+        "url": "https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU"
+      },
+      "artists": [
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "El Camino de la Verdad",
+      "url": "https://open.spotify.com/track/2PwYrj7ihUMiNVqOIt6eR0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/3B9UAiTwbz1svLmdgVtNAy"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 185461,
       "name": "Ya Estoy Bien",
       "url": "https://open.spotify.com/track/0LOYo58nvxhucTf7Fu32Kt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1715,34 +1731,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+        "name": "La Bacha",
+        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
       },
       "artists": [
         {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+          "name": "Adhesivo",
+          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
         }
       ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
+      "duration_ms": 196018,
+      "name": "La Bacha",
+      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
     }
   ],
   "unique_name": "Ska Latino ",

@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-243 songs - 1 day 21 hr 1 min
+244 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [ヒプノシスマイク \-Division Battle Anthem\- +](https://open.spotify.com/track/7eiXIZnZmDBtEGREON5AeG) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Division Battle Anthem\- +](https://open.spotify.com/album/0sD6DxfTotCTO6NUQtAowL) | 7:01 | 2022-06-09 |  |
 | [ヒプノシスマイク \-Division Rap Battle\-](https://open.spotify.com/track/7Dob1V4rvD1aQkXclSel2B) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 5:25 | 2022-06-09 |  |
 | [ヒプノシスマイク \-Division Rap Battle\- +](https://open.spotify.com/track/7G8jc5eGFmEWctZq98ONB6) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Division Rap Battle\- +](https://open.spotify.com/album/3GEhgeX0f9s2lZbcSDN1ua) | 7:43 | 2022-06-09 |  |
+| [ヒプノシスマイク \-Dream Rap Battle\-](https://open.spotify.com/track/4pNXj5ICiVERRjURBKuPAl) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Dream Rap Battle\-](https://open.spotify.com/album/06GJnCdKaAkjG4hRgxizzy) | 4:06 | 2024-10-03 |  |
 | [ヒプノシスマイク \-Glory or Dust\-](https://open.spotify.com/track/2ZKeYa43an93GxbRhUgnUt) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Glory or Dust\-](https://open.spotify.com/album/1N0ZOnFGXqQtpFY3GXscPH) | 5:40 | 2022-06-09 |  |
 | [ヒプノシスマイク \-Rhyme Anima\-](https://open.spotify.com/track/7e0iXw8i3RxUVYVAu6syUc) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [ヒプノシスマイク \-Rhyme Anima\-](https://open.spotify.com/album/6t5tfC8NWmAyBhLqrWNegf) | 4:03 | 2022-06-09 |  |
 | [ピンク色の愛](https://open.spotify.com/track/6a2LVhfSS7LZfyUCmJ7L2J) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(飴村乱数\)](https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv) | [Fling Posse \-Before The 2nd D.R.B\-](https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i) | 3:06 | 2022-06-09 |  |

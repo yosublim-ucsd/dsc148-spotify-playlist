@@ -1,6 +1,6 @@
 {
   "description": "brutality and technicality collide. fresh metalcore awaits Cover: 156/Silence",
-  "num_followers": 934017,
+  "num_followers": 934042,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "My Father's Son (Redux)",
-        "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 222616,
-      "name": "My Father's Son - Redux",
-      "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Antimatter",
         "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 221340,
       "name": "Antimatter",
       "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "My Father's Son (Redux)",
+        "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 222616,
+      "name": "My Father's Son - Redux",
+      "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 212329,
-      "name": "In The Silence",
-      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Blinding Faith",
         "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -815,26 +815,6 @@
       "duration_ms": 184000,
       "name": "Tabula Rasa",
       "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "Forgive and Forget (feat. Fit For A King)",
-        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Forgive And Forget (feat. Fit For A King)",
-      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -879,6 +859,26 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "Forgive and Forget (feat. Fit For A King)",
+        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Forgive And Forget (feat. Fit For A King)",
+      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 226027,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "FiftyFive",
+        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "FiftyFive",
+      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -923,22 +939,6 @@
       "duration_ms": 262537,
       "name": "RAINBOWS",
       "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "FiftyFive",
-        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "FiftyFive",
-      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 152547,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Afterimage (feat. Ian Kenny, Karnivool)",
         "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 219330,
       "name": "Villain Arc",
       "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "Killshot",
-        "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 152547,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "What I'll Leave Behind",
+        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
+      },
+      "artists": [
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Invisible Rain",
         "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 230733,
       "name": "Endless Hollow",
       "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "What I'll Leave Behind",
-        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
-      },
-      "artists": [
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "The Worst in Me",
-        "url": "https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ"
-      },
-      "artists": [
-        {
-          "name": "Our Hollow, Our Home",
-          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
-        }
-      ],
-      "duration_ms": 221932,
-      "name": "The Worst in Me",
-      "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 244254,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "The Worst in Me",
+        "url": "https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        }
+      ],
+      "duration_ms": 221932,
+      "name": "The Worst in Me",
+      "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Phenomena II",
-        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
-      },
-      "artists": [
-        {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Demon Killer",
-      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 260820,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Phenomena II",
+        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Demon Killer",
+      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
     },
     {
       "added_at": "2024-09-20 14:56:45",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
-        "name": "Blood $oda",
-        "url": "https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH"
-      },
-      "artists": [
-        {
-          "name": "SWARM6IX",
-          "url": "https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp"
-        }
-      ],
-      "duration_ms": 184370,
-      "name": "Blood $oda",
-      "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
       },
@@ -1703,6 +1687,42 @@
     {
       "added_at": "2024-09-20 14:56:45",
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        },
+        {
+          "name": "Elwood Stray",
+          "url": "https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr"
+        }
+      ],
+      "duration_ms": 164916,
+      "name": "No Answer",
+      "url": "https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
+        "name": "Blood $oda",
+        "url": "https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH"
+      },
+      "artists": [
+        {
+          "name": "SWARM6IX",
+          "url": "https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp"
+        }
+      ],
+      "duration_ms": 184370,
+      "name": "Blood $oda",
+      "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
+    },
+    {
+      "added_at": "2024-09-20 14:56:45",
+      "album": {
         "name": "Dead But So Alive",
         "url": "https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL"
       },
@@ -1715,22 +1735,6 @@
       "duration_ms": 207545,
       "name": "Dead But So Alive",
       "url": "https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q"
-    },
-    {
-      "added_at": "2024-09-20 14:56:45",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     }
   ],
   "unique_name": "The Core",

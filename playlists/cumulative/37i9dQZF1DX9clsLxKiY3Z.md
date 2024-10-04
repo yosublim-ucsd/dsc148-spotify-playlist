@@ -4,7 +4,7 @@
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-56 songs - 3 hr 47 min
+57 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ham](https://open.spotify.com/track/3evD3QNXduuMAg1SLhfNtg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [朗らかな皮膚とて不服](https://open.spotify.com/album/68Le8TUyoltYlglVrURia1) | 3:40 | 2023-06-06 |  |
 | [JK BOMBER](https://open.spotify.com/track/4lPNK6nBUsRqXyIMeRWZ11) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [朗らかな皮膚とて不服](https://open.spotify.com/album/68Le8TUyoltYlglVrURia1) | 3:55 | 2023-06-06 |  |
 | [MILABO](https://open.spotify.com/track/22EZUYCJYay1h8YSyO5BPd) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:29 | 2023-06-06 |  |
+| [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-03 |  |
 | [ZUTOMAYO \- 終 \- End](https://open.spotify.com/episode/7jQyHW5p1RdNf15BtH0fJf) | [ZUTOMAYO \- 終 \- End](https://open.spotify.com/show/4b5EsFPMyku4YaKCYQDcqp) | [ZUTOMAYO \- 終 \- End](https://open.spotify.com/album/4b5EsFPMyku4YaKCYQDcqp) | 1:01 | 2023-06-06 |  |
 | [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2023-06-06 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-06-06 |  |

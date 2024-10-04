@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Greta Stanley",
+  "description": "New and local indie noise. Cover: The Grogans",
   "name": "Local Noise",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "MAGIC MOUNTAIN (1996\u20142022)",
+        "url": "https://open.spotify.com/album/7awMIOpvAIkdlsjOeIt092"
+      },
+      "artists": [
+        {
+          "name": "Ceres",
+          "url": "https://open.spotify.com/artist/6ignu1FESsoUapE3EnbCFL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "666",
+      "url": "https://open.spotify.com/track/5Scl2ZinZWlsHVaAk2BAws"
+    },
+    {
+      "album": {
         "name": "Dead-end Rodeo",
         "url": "https://open.spotify.com/album/4q7uK6eP7CXcfH96FqBiVD"
       },
@@ -78,6 +96,24 @@
       "duration_ms": 200132,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N"
+    },
+    {
+      "album": {
+        "name": "something new",
+        "url": "https://open.spotify.com/album/5EFpw3SE9AxjyEOc2KGmcX"
+      },
+      "artists": [
+        {
+          "name": "Belle Haven",
+          "url": "https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "a hypothetical exit",
+      "url": "https://open.spotify.com/track/1CFqQAUqfI7opxQOYeY3RU"
     },
     {
       "album": {
@@ -128,7 +164,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 224849,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
@@ -182,7 +218,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172657,
       "name": "Amnesia Everybody",
       "url": "https://open.spotify.com/track/4yD2i9U3gQCPXRnaHl6iV6"
@@ -611,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7lJ3RlQNP8odCCpOqpGabl"
+      },
+      "artists": [
+        {
+          "name": "Floodlights",
+          "url": "https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235710,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/0ambxC18GFKAWt9uygHuP9"
+    },
+    {
+      "album": {
         "name": "Can't Do That / Morph",
         "url": "https://open.spotify.com/album/2ixbSN3x8PSa3vbsX8dQFR"
       },
@@ -784,7 +838,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 200240,
       "name": "Chewing Gum",
       "url": "https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg"
@@ -802,7 +856,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 187946,
       "name": "Cold Pizza",
       "url": "https://open.spotify.com/track/5CL3XC37EiSz3ncadmbNZC"
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172261,
       "name": "DASHCAM",
       "url": "https://open.spotify.com/track/0Gx36lcDcYj74kGk5yZLDy"
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 248061,
       "name": "eleveneleven - short",
       "url": "https://open.spotify.com/track/6ouZRw6LHIVWtxs44QNazP"
@@ -1426,7 +1480,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 138278,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/0nHrj5MP26P8IZaY1cUnaF"
@@ -1498,7 +1552,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 200654,
       "name": "FISHSACK",
       "url": "https://open.spotify.com/track/52NiXjaFL8Bvbovwdbqlds"
@@ -1628,6 +1682,24 @@
       "duration_ms": 154800,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/2xCZ5XGZypH7rIlrvf4UCz"
+    },
+    {
+      "album": {
+        "name": "I Like You A Lot Getting Older",
+        "url": "https://open.spotify.com/album/05VTJViTczcIg2wN6APifk"
+      },
+      "artists": [
+        {
+          "name": "Hard-Ons",
+          "url": "https://open.spotify.com/artist/6zqlA0w5k0Al6QJFyvRrHB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199195,
+      "name": "Getting Older",
+      "url": "https://open.spotify.com/track/1umrJKhA1BLrIl51H1VQ8W"
     },
     {
       "album": {
@@ -1848,6 +1920,24 @@
       "duration_ms": 185337,
       "name": "Hey...",
       "url": "https://open.spotify.com/track/5kEyWXpQE5hYbqmKHhehkp"
+    },
+    {
+      "album": {
+        "name": "High Beaming",
+        "url": "https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "High Beaming",
+      "url": "https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH"
     },
     {
       "album": {
@@ -2305,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Keep Falling",
+        "url": "https://open.spotify.com/album/5M6eyxZE83DA6xL1jL5m6W"
+      },
+      "artists": [
+        {
+          "name": "Kurilpa Reach",
+          "url": "https://open.spotify.com/artist/1jzmc3LFXXqaxsCInJm0oN"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Keep Falling",
+      "url": "https://open.spotify.com/track/6zSutfSvyxSKezddCTisfr"
+    },
+    {
+      "album": {
         "name": "l8tely",
         "url": "https://open.spotify.com/album/2m8IBDHZaJXiJbMxgCAaYM"
       },
@@ -2396,7 +2504,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
@@ -2414,7 +2522,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 258782,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/0burTuQTc7p2ir2fdygEOU"
@@ -2522,7 +2630,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 180723,
       "name": "Loser",
       "url": "https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO"
@@ -2987,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/2oYOEFgUFZbic7TyJ2gbyv"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220194,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/0xhjLlekKpHwiVuhoLPEzb"
+    },
+    {
+      "album": {
         "name": "Old Or Young",
         "url": "https://open.spotify.com/album/0pSpQRPA14bq0jdJr94bF2"
       },
@@ -3308,6 +3434,24 @@
       "duration_ms": 267553,
       "name": "Pink Smoke",
       "url": "https://open.spotify.com/track/7qJswKoIImLc8pPN8LtEJb"
+    },
+    {
+      "album": {
+        "name": "Pinkies",
+        "url": "https://open.spotify.com/album/6BSOTF3SxggoLOhAUXWodK"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197499,
+      "name": "Pinkies",
+      "url": "https://open.spotify.com/track/0jQNOTN94rrP2FJm5Q6mo7"
     },
     {
       "album": {
@@ -3636,7 +3780,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 163375,
       "name": "Ride To The Station",
       "url": "https://open.spotify.com/track/1zB8ZBkHzSrRyha8inUbpw"
@@ -3658,6 +3802,24 @@
       "duration_ms": 196666,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/6OEB0zCmP1sZPCmphvqbxH"
+    },
+    {
+      "album": {
+        "name": "RWTD",
+        "url": "https://open.spotify.com/album/2QcWBeis2xGd5jbIH9m2ns"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250688,
+      "name": "Rwtd",
+      "url": "https://open.spotify.com/track/3XjtkHip7CxsC6LS1kzsnq"
     },
     {
       "album": {
@@ -4169,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Stupid Dave",
+        "url": "https://open.spotify.com/album/1s1bPpkiksHtOnM5ENcmCT"
+      },
+      "artists": [
+        {
+          "name": "Chutney",
+          "url": "https://open.spotify.com/artist/0x6G9fepCzjn26EtxocZDQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214804,
+      "name": "Stupid Dave",
+      "url": "https://open.spotify.com/track/2uHReoVJX8nYlkzBWfRqhJ"
+    },
+    {
+      "album": {
         "name": "Subject A",
         "url": "https://open.spotify.com/album/0jR4UjNMiTlnhpEa7haW6a"
       },
@@ -4277,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "TANTRUM",
+        "url": "https://open.spotify.com/album/4iaROZXjnQxL5MFKeMjdgT"
+      },
+      "artists": [
+        {
+          "name": "TOWNS",
+          "url": "https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183642,
+      "name": "TANTRUM",
+      "url": "https://open.spotify.com/track/3F1MKtNYeOrBF4oXfn6D7r"
+    },
+    {
+      "album": {
         "name": "Tappin Into Magic",
         "url": "https://open.spotify.com/album/7FIB4UHbH1X3ICrMDgKfeK"
       },
@@ -4328,6 +4526,24 @@
       "duration_ms": 194893,
       "name": "Tell You All The Time",
       "url": "https://open.spotify.com/track/7G712DgSQCRPs4wVVwB7ZF"
+    },
+    {
+      "album": {
+        "name": "Ten Feet Tall",
+        "url": "https://open.spotify.com/album/1yNigjrK2up1FDIR0zrENe"
+      },
+      "artists": [
+        {
+          "name": "Chasing Ghosts",
+          "url": "https://open.spotify.com/artist/5MoQy2vfGU7mfbrwLeE7FZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173394,
+      "name": "Ten Feet Tall",
+      "url": "https://open.spotify.com/track/6D0o7Xxgry0inlMcFii7CP"
     },
     {
       "album": {
@@ -4396,10 +4612,28 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181600,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6ChEyRFhfN4EpSszR0LBRo"
+    },
+    {
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/3CNiAffIqa5h08JY5rSefX"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188074,
+      "name": "The Price Of Fun",
+      "url": "https://open.spotify.com/track/7adZDfpvIgx2mLDe2zcMMP"
     },
     {
       "album": {

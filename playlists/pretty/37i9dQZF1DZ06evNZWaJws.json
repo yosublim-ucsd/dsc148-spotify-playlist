@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 312243,
+  "num_followers": 312304,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAACK6SpcL4bsjZ8k8c0DhXf1",
+  "snapshot_id": "ZvyNAAAAAAA1KeY60CMtJYSv1q4g8s3Y",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00c1guila Blanca",
         "url": "https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 135882,
       "name": "El \u00c1guila Blanca",
       "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,

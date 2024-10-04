@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148365,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
+    },
+    {
+      "album": {
         "name": "Transcendental Youth",
         "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
       },

@@ -1,13 +1,33 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Shakira",
-  "num_followers": 53645,
+  "num_followers": 53642,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAASutQ9Cv+KSzh9tAmkI45ZBg9Ua07M",
+  "snapshot_id": "AAASxGPL4PapqiOXHFLCWI38TWF3+s8d",
   "tracks": [
+    {
+      "added_at": "2024-10-04 00:57:09",
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
     {
       "added_at": "2024-09-26 00:16:14",
       "album": {
@@ -43,6 +63,42 @@
       "duration_ms": 266787,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
+    },
+    {
+      "added_at": "2024-10-04 01:26:14",
+      "album": {
+        "name": "Espacio en Tu Coraz\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 179271,
+      "name": "Espacio en Tu Coraz\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
+    },
+    {
+      "added_at": "2024-10-04 01:12:55",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/2r2VdYUDH1cIWEPggrmfrR"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 225832,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/3QIEzU6q0zRAYT5RmbZFIF"
     },
     {
       "added_at": "2024-09-20 13:00:33",

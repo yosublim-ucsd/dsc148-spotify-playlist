@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 152727,
       "name": "AMOK",
       "url": "https://open.spotify.com/track/59gAdzb3hNuA10KQPzLnql"
@@ -548,6 +548,28 @@
       "duration_ms": 158117,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW"
+    },
+    {
+      "album": {
+        "name": "Book of ra",
+        "url": "https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112300,
+      "name": "Book of ra",
+      "url": "https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m"
     },
     {
       "album": {
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 115200,
       "name": "GHETTO BABY",
       "url": "https://open.spotify.com/track/1AJWct6oyz8TG4dwzELfA3"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 102866,
       "name": "Kanye West",
       "url": "https://open.spotify.com/track/6LTrJT1jmr44r8TsRK37AK"
@@ -2068,6 +2090,32 @@
       "duration_ms": 184000,
       "name": "LOGIA",
       "url": "https://open.spotify.com/track/1Yz4HZyfi8U1yxvGEghicp"
+    },
+    {
+      "album": {
+        "name": "LORA",
+        "url": "https://open.spotify.com/album/66WeetjlKjA3o4JgLSCli8"
+      },
+      "artists": [
+        {
+          "name": "Feisty",
+          "url": "https://open.spotify.com/artist/7wasuXDWKXAOq7jQvxEK3E"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167242,
+      "name": "LORA",
+      "url": "https://open.spotify.com/track/2rlkf3HTKwY9UcbvhlUyiW"
     },
     {
       "album": {
@@ -2788,7 +2836,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 219774,
       "name": "Pellegrino",
       "url": "https://open.spotify.com/track/78jTlEGnXYGgGo8rAG8aDJ"
@@ -2902,6 +2950,32 @@
       "duration_ms": 120009,
       "name": "Prishtina",
       "url": "https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x"
+    },
+    {
+      "album": {
+        "name": "EYE OF THE TIGER",
+        "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150484,
+      "name": "PULVO",
+      "url": "https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR"
     },
     {
       "album": {
@@ -3144,7 +3218,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 136800,
       "name": "SEKUSHI",
       "url": "https://open.spotify.com/track/0GYX0KUkK846w6tWYiFJMV"
@@ -3170,6 +3244,32 @@
       "duration_ms": 189183,
       "name": "SERVICE",
       "url": "https://open.spotify.com/track/5WCUggpYwkiTOAqu4b92FJ"
+    },
+    {
+      "album": {
+        "name": "EYE OF THE TIGER",
+        "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170821,
+      "name": "SILLY BOY",
+      "url": "https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK"
     },
     {
       "album": {
@@ -3222,6 +3322,28 @@
       "duration_ms": 160210,
       "name": "SOUKOU",
       "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
+    },
+    {
+      "album": {
+        "name": "Sto telos",
+        "url": "https://open.spotify.com/album/31yohvXelB8vZXvPm8HS20"
+      },
+      "artists": [
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/4YLQod77tdVkjNRFL47JsI"
+        },
+        {
+          "name": "Kazal",
+          "url": "https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Sto telos",
+      "url": "https://open.spotify.com/track/18FXt9Cm9h16e02nyozL8o"
     },
     {
       "album": {
@@ -3340,7 +3462,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151000,
       "name": "TARTUFO",
       "url": "https://open.spotify.com/track/2tPsXUfPwXbQtHbHl2McA4"
@@ -3501,6 +3623,50 @@
     },
     {
       "album": {
+        "name": "Trelos",
+        "url": "https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Trelos",
+      "url": "https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc"
+    },
+    {
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/4azmL5qm7njwTHJZmxOx5S"
+      },
+      "artists": [
+        {
+          "name": "KSF",
+          "url": "https://open.spotify.com/artist/6PR7GwuKj5ZCuHsNslHcC9"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158204,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/7nqgLwE4IdKVQs6XrFBZU0"
+    },
+    {
+      "album": {
         "name": "TTG",
         "url": "https://open.spotify.com/album/1gq0igzktvaGSza3o872s6"
       },
@@ -3638,7 +3804,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 195398,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY"

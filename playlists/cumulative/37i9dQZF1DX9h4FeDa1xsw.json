@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Carbonne",
+  "description": "Photo : And\u00e9ol",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 193200,
       "name": "Bene",
       "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
+    },
+    {
+      "album": {
+        "name": "Bisou sur la bouche",
+        "url": "https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Bisou sur la bouche",
+      "url": "https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV"
     },
     {
       "album": {
@@ -482,7 +500,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 201562,
       "name": "La suite",
       "url": "https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT"

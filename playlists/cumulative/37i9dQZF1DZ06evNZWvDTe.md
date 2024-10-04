@@ -2,9 +2,9 @@
 
 ### [This Is Sarkodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWvDTe)
 
-> This Is Sarkodie\. Los temas esenciales, todos en una lista.
+> This is Sarkodie\. The essential tracks, all in one playlist.
 
-174 songs - 10 hr 28 min
+175 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Broken Heart \(feat\. Sista Afia\)](https://open.spotify.com/track/5bIPYtfEgg221LdTSXaRls) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:31 | 2022-02-14 | 2023-05-12 |
 | [Brown Paper Bag](https://open.spotify.com/track/0dv9sJ7KIpm6pCOZBvnme0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Brown Paper Bag](https://open.spotify.com/album/6NktDKjIhhDej9lrYc4u3d) | 4:45 | 2022-01-03 | 2022-02-05 |
 | [Bumper](https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bumper](https://open.spotify.com/album/7Cbxz4Z0qDSP4Vgbtajtya) | 2:58 | 2021-12-28 | 2022-10-13 |
-| [Burn My Cable II](https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 2:51 | 2024-05-07 |  |
+| [Burn My Cable II](https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 2:51 | 2024-05-07 | 2024-10-04 |
 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 | 2021-12-28 |  |
+| [Can't Stop \(feat\. Sarkodie\)](https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 3:22 | 2024-10-04 |  |
 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-09-10 |  |
 | [CEO FLOW](https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [CEO FLOW](https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P) | 3:42 | 2021-12-29 | 2023-07-22 |
 | [Check My Zingo](https://open.spotify.com/track/6FXsUcro2Lcje0JJIzeliz) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Check My Zingo](https://open.spotify.com/album/7IlhASuywpVLYMWHvDvCn4) | 3:33 | 2023-08-10 | 2023-09-03 |

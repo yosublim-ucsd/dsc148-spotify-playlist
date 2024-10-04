@@ -1,18 +1,50 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : La Femme",
-  "num_followers": 46064,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Aime Simone",
+  "num_followers": 46068,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAABmhW+iU6OrQeL2oKlIkhxh",
+  "snapshot_id": "Zv8T4AAAAADZoymrpNY19laNm3roBXI1",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Love Is Over",
-        "url": "https://open.spotify.com/album/5rh5B327itAEamamcEZSIS"
+        "name": "TAKING MY DISTANCE",
+        "url": "https://open.spotify.com/album/11o2nfD30PapyYXd00imh8"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "TAKING MY DISTANCE",
+      "url": "https://open.spotify.com/track/4OSnWq7hDostU8EhYlkyVL"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 234162,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Clover Paradise",
+        "url": "https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui"
       },
       "artists": [
         {
@@ -20,12 +52,12 @@
           "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Love Is Over",
-      "url": "https://open.spotify.com/track/46luU5vXFosW3zOR13taED"
+      "duration_ms": 309160,
+      "name": "Clover Paradise",
+      "url": "https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "PTSMR",
         "url": "https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J"
@@ -49,39 +81,7 @@
       "url": "https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 234162,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Clover Paradise",
-        "url": "https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 309160,
-      "name": "Clover Paradise",
-      "url": "https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Je t'emm\u00e8nerai",
         "url": "https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB"
@@ -97,23 +97,23 @@
       "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
+        "name": "HOPECORE",
+        "url": "https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw"
       },
       "artists": [
         {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Rahim C Redcar",
+          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
         }
       ],
-      "duration_ms": 201000,
-      "name": "ALED",
-      "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
+      "duration_ms": 286874,
+      "name": "DEEP HOLES",
+      "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "The Mouse Song",
         "url": "https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "petit escargot",
         "url": "https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Trois, Deux, Un",
-        "url": "https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Monumental",
-      "url": "https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Amour Scandaleux",
         "url": "https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF"
@@ -177,10 +161,26 @@
       "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Baisodrome",
-        "url": "https://open.spotify.com/album/3PydxWkYJxebd7ILDVbPT5"
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "ALED",
+      "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "La pression",
+        "url": "https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk"
       },
       "artists": [
         {
@@ -188,28 +188,60 @@
           "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
         }
       ],
-      "duration_ms": 260496,
-      "name": "Baisodrome",
-      "url": "https://open.spotify.com/track/2KVBVw9MhDP4KSGhjvBSap"
+      "duration_ms": 249575,
+      "name": "La pression",
+      "url": "https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "SUICIDE",
-        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
+        "name": "C'est \u00e0 moi \u00e7a",
+        "url": "https://open.spotify.com/album/4iLRvl9FFLhnXfXDSRITNj"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Gwendoline",
+          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
         }
       ],
-      "duration_ms": 204484,
-      "name": "SUICIDE",
-      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
+      "duration_ms": 203878,
+      "name": "Le sang de papa et maman",
+      "url": "https://open.spotify.com/track/3ylbP2pqUzfm1j2mPwERmi"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Love Is Over",
+        "url": "https://open.spotify.com/album/5rh5B327itAEamamcEZSIS"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Love Is Over",
+      "url": "https://open.spotify.com/track/46luU5vXFosW3zOR13taED"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "duration_ms": 202988,
+      "name": "Call Me - Single Edit",
+      "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16"
@@ -225,23 +257,107 @@
       "url": "https://open.spotify.com/track/16t191oUr541iQTZrbqYuM"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Wreckin' My Soul (Dance Around The Fire)",
-        "url": "https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54"
+        "name": "Baisodrome",
+        "url": "https://open.spotify.com/album/3PydxWkYJxebd7ILDVbPT5"
       },
       "artists": [
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2"
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
         }
       ],
-      "duration_ms": 219431,
-      "name": "Wreckin' My Soul (Dance Around The Fire)",
-      "url": "https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK"
+      "duration_ms": 260496,
+      "name": "Baisodrome",
+      "url": "https://open.spotify.com/track/2KVBVw9MhDP4KSGhjvBSap"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "duration_ms": 179007,
+      "name": "Z",
+      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "SUICIDE",
+        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 204484,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "M\u00e9chant gar\u00e7on",
+        "url": "https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        },
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "duration_ms": 176088,
+      "name": "M\u00e9chant gar\u00e7on",
+      "url": "https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Le Plus Grand Spectacle De La Terre",
+        "url": "https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY"
+      },
+      "artists": [
+        {
+          "name": "ascendant vierge",
+          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Le Plus Grand Spectacle De La Terre",
+      "url": "https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Posthume",
+        "url": "https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Apprends-moi",
+      "url": "https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Sourire \u00e0 la mort",
         "url": "https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8"
@@ -265,123 +381,7 @@
       "url": "https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Lune",
-        "url": "https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Rien ne m'attend",
-        "url": "https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn"
-      },
-      "artists": [
-        {
-          "name": "Thx4Crying",
-          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
-        }
-      ],
-      "duration_ms": 200709,
-      "name": "Rien ne m'attend",
-      "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
-      },
-      "artists": [
-        {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
-        }
-      ],
-      "duration_ms": 179007,
-      "name": "Z",
-      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "x 1000",
-        "url": "https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5"
-      },
-      "artists": [
-        {
-          "name": "Magenta Club",
-          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "G\u00e9ant",
-      "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Hardcore",
-        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
-      },
-      "artists": [
-        {
-          "name": "Max Baby",
-          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
-        }
-      ],
-      "duration_ms": 235239,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "M\u00e9chant gar\u00e7on",
-        "url": "https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        },
-        {
-          "name": "chien noir",
-          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
-        }
-      ],
-      "duration_ms": 176088,
-      "name": "M\u00e9chant gar\u00e7on",
-      "url": "https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi"
-      },
-      "artists": [
-        {
-          "name": "ELOI",
-          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
-        }
-      ],
-      "duration_ms": 202988,
-      "name": "Call Me - Single Edit",
-      "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Dannazione",
         "url": "https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Comme Un Animal",
         "url": "https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd"
@@ -413,119 +413,39 @@
       "url": "https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Le silence",
-        "url": "https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU"
+        "name": "Primitivism",
+        "url": "https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj"
       },
       "artists": [
         {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
         }
       ],
-      "duration_ms": 205697,
-      "name": "Le silence",
-      "url": "https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P"
+      "duration_ms": 214951,
+      "name": "Primitivism",
+      "url": "https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "SAHA",
-        "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
+        "name": "Lune",
+        "url": "https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC"
       },
       "artists": [
         {
-          "name": "Liv Oddman",
-          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
         }
       ],
-      "duration_ms": 229533,
-      "name": "LUX",
-      "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
+      "duration_ms": 225625,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Comme tout le monde",
-        "url": "https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS"
-      },
-      "artists": [
-        {
-          "name": "Herv\u00e9",
-          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
-        }
-      ],
-      "duration_ms": 159160,
-      "name": "Comme tout le monde",
-      "url": "https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "babyBB",
-        "url": "https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD"
-      },
-      "artists": [
-        {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "babyBB",
-      "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "garder le sourire",
-        "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
-      },
-      "artists": [
-        {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "garder le sourire",
-      "url": "https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Un Autre Nom",
-        "url": "https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8"
-      },
-      "artists": [
-        {
-          "name": "Allo Christine",
-          "url": "https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3"
-        }
-      ],
-      "duration_ms": 231199,
-      "name": "Un Autre Nom",
-      "url": "https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Posthume",
-        "url": "https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Apprends-moi",
-      "url": "https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Premier Baiser",
         "url": "https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt"
@@ -545,23 +465,55 @@
       "url": "https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Rock 2000",
-        "url": "https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV"
+        "name": "x 1000",
+        "url": "https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5"
       },
       "artists": [
         {
-          "name": "Gwendoline",
-          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
+          "name": "Magenta Club",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
         }
       ],
-      "duration_ms": 223213,
-      "name": "Rock 2000",
-      "url": "https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt"
+      "duration_ms": 251146,
+      "name": "G\u00e9ant",
+      "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "babyBB",
+        "url": "https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "babyBB",
+      "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Rien ne m'attend",
+        "url": "https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn"
+      },
+      "artists": [
+        {
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        }
+      ],
+      "duration_ms": 200709,
+      "name": "Rien ne m'attend",
+      "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Poudri\u00e8re",
         "url": "https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA"
@@ -577,7 +529,39 @@
       "url": "https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Le silence",
+        "url": "https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 205697,
+      "name": "Le silence",
+      "url": "https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "garder le sourire",
+        "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
+      },
+      "artists": [
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "garder le sourire",
+      "url": "https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Rebellion",
         "url": "https://open.spotify.com/album/5nqk9i9CdV6WIQerpo5FbC"
@@ -593,135 +577,7 @@
       "url": "https://open.spotify.com/track/6bDKIEnUYni24jV6ZR4ipt"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Primitivism",
-        "url": "https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj"
-      },
-      "artists": [
-        {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
-        }
-      ],
-      "duration_ms": 214951,
-      "name": "Primitivism",
-      "url": "https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "GROTSUNAMI",
-        "url": "https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9niche",
-          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
-        }
-      ],
-      "duration_ms": 123533,
-      "name": "GROTSUNAMI",
-      "url": "https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Revoir le monde",
-        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
-      },
-      "artists": [
-        {
-          "name": "Michelle & Les Gar\u00e7ons",
-          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Revoir le monde",
-      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf"
-      },
-      "artists": [
-        {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "La pression",
-        "url": "https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
-        }
-      ],
-      "duration_ms": 249575,
-      "name": "La pression",
-      "url": "https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Le Plus Grand Spectacle De La Terre",
-        "url": "https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY"
-      },
-      "artists": [
-        {
-          "name": "ascendant vierge",
-          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Le Plus Grand Spectacle De La Terre",
-      "url": "https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "du matin au matin",
-        "url": "https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7"
-      },
-      "artists": [
-        {
-          "name": "L'enfant",
-          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "du matin au matin",
-      "url": "https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Irr\u00e9versible Part II",
-        "url": "https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN"
-      },
-      "artists": [
-        {
-          "name": "Train Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "D\u00e9rive",
-      "url": "https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Que la biche soit en nous",
         "url": "https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd"
@@ -737,75 +593,171 @@
       "url": "https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "ORUMA",
-        "url": "https://open.spotify.com/album/7nnGjWjxmXLZNaiMZ0LfDi"
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
       },
       "artists": [
         {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
         }
       ],
-      "duration_ms": 128479,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
+      "duration_ms": 235239,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "More Love",
-        "url": "https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH"
+        "name": "Un Autre Nom",
+        "url": "https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8"
       },
       "artists": [
         {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+          "name": "Allo Christine",
+          "url": "https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3"
         }
       ],
-      "duration_ms": 160160,
-      "name": "More Love",
-      "url": "https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL"
+      "duration_ms": 231199,
+      "name": "Un Autre Nom",
+      "url": "https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "BITCH YOU COULD NEVER",
-        "url": "https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0"
+        "name": "Revoir le monde",
+        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Michelle & Les Gar\u00e7ons",
+          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
         }
       ],
-      "duration_ms": 148206,
-      "name": "BITCH YOU COULD NEVER",
-      "url": "https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3"
+      "duration_ms": 168680,
+      "name": "Revoir le monde",
+      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Shrek Is a Lesbian",
-        "url": "https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn"
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf"
       },
       "artists": [
         {
-          "name": "Maddy Street",
-          "url": "https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ"
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "tellement que jmen fiche :)",
+        "url": "https://open.spotify.com/album/4OSewRcz07w6ToOAT6pXiu"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "tellement que jmen fiche :)",
+      "url": "https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6oooLK3isJx1l8MXk1Af68"
+      },
+      "artists": [
+        {
+          "name": "WOOD WOUNDS",
+          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
         },
         {
-          "name": "Juda La Vidange",
-          "url": "https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3"
+          "name": "Phil Spectro",
+          "url": "https://open.spotify.com/artist/6jryLxQvE2EnUc5MMPxqMR"
         }
       ],
-      "duration_ms": 111978,
-      "name": "Shrek Is a Lesbian",
-      "url": "https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm"
+      "duration_ms": 154583,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/0ViD4gC65RtONgFoOu24g1"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Wreckin' My Soul (Dance Around The Fire)",
+        "url": "https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2"
+        }
+      ],
+      "duration_ms": 219431,
+      "name": "Wreckin' My Soul (Dance Around The Fire)",
+      "url": "https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "du matin au matin",
+        "url": "https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "du matin au matin",
+      "url": "https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Irr\u00e9versible Part II",
+        "url": "https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN"
+      },
+      "artists": [
+        {
+          "name": "Train Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "D\u00e9rive",
+      "url": "https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "SAHA",
+        "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
+      },
+      "artists": [
+        {
+          "name": "Liv Oddman",
+          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "LUX",
+      "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "DANS SES YEUX",
         "url": "https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w"
@@ -821,20 +773,68 @@
       "url": "https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "tellement que jmen fiche :)",
-        "url": "https://open.spotify.com/album/4OSewRcz07w6ToOAT6pXiu"
+        "name": "Trois, Deux, Un",
+        "url": "https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng"
       },
       "artists": [
         {
-          "name": "Liv del Estal",
-          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
         }
       ],
-      "duration_ms": 147186,
-      "name": "tellement que jmen fiche :)",
-      "url": "https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG"
+      "duration_ms": 191440,
+      "name": "Monumental",
+      "url": "https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Comme tout le monde",
+        "url": "https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9",
+          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
+        }
+      ],
+      "duration_ms": 159160,
+      "name": "Comme tout le monde",
+      "url": "https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "More Love",
+        "url": "https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "ORUMA",
+        "url": "https://open.spotify.com/album/7nnGjWjxmXLZNaiMZ0LfDi"
+      },
+      "artists": [
+        {
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+        }
+      ],
+      "duration_ms": 128479,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
     }
   ],
   "unique_name": "Courant Alternatif",

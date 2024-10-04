@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Marcelo Rossi, Jo\u00e3o Gomes",
-  "num_followers": 334643,
+  "num_followers": 334755,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Grande Rei",
-        "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
+        "name": "Mensagens e Can\u00e7\u00f5es Que Transformam Vidas",
+        "url": "https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47"
       },
       "artists": [
-        {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
-        },
         {
           "name": "Eugenio Jorge",
           "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
         },
         {
-          "name": "Cassiano Meirelles",
-          "url": "https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd"
+          "name": "Miss\u00e3o Mensagem Brasil",
+          "url": "https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F"
         }
       ],
-      "duration_ms": 240188,
-      "name": "Grande Rei",
-      "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+      "duration_ms": 268160,
+      "name": "Fa\u00e7o Novas Todas As Coisas",
+      "url": "https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1019,26 +1015,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Mensagens e Can\u00e7\u00f5es Que Transformam Vidas",
-        "url": "https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Jorge",
-          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
-        },
-        {
-          "name": "Miss\u00e3o Mensagem Brasil",
-          "url": "https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Fa\u00e7o Novas Todas As Coisas",
-      "url": "https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Romanos 12",
         "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 288402,
       "name": "Romanos 12",
       "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Grande Rei",
+        "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+        },
+        {
+          "name": "Eugenio Jorge",
+          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
+        },
+        {
+          "name": "Cassiano Meirelles",
+          "url": "https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd"
+        }
+      ],
+      "duration_ms": 240188,
+      "name": "Grande Rei",
+      "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
     },
     {
       "added_at": "2024-09-27 03:01:00",

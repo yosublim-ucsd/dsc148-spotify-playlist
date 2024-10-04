@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65868,
+  "num_followers": 65866,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Rise Like A Phoenix",
+        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "duration_ms": 181989,
+      "name": "Rise Like A Phoenix",
+      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 97896,
       "name": "Jaja Ding Dong",
       "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Rise Like A Phoenix",
-        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
-      },
-      "artists": [
-        {
-          "name": "Conchita Wurst",
-          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
-        }
-      ],
-      "duration_ms": 181989,
-      "name": "Rise Like A Phoenix",
-      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/3z1b8cnvUTzTIvyEExYB9s"
+        "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
+        "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
       },
       "artists": [
         {
-          "name": "Nadav Guedj",
-          "url": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+          "name": "Ani Lorak",
+          "url": "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
         }
       ],
-      "duration_ms": 180585,
-      "name": "Golden Boy",
-      "url": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+      "duration_ms": 178880,
+      "name": "Shady Lady",
+      "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
     }
   ],
   "unique_name": "Eurovision Party",

@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-80 songs - 4 hr 49 min
+82 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Far Above](https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm) | 3:36 | 2022-04-13 | 2024-04-19 |
 | [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 | 2022-04-13 |  |
 | [Find Me Here \(Blessings Find Me\) \- Afropop Remix](https://open.spotify.com/track/7tXZWxisWNZ0f0oTqjsvpK) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Find Me Here \(Blessings Find Me\) \[Afropop Remix\]](https://open.spotify.com/album/6VDOkiaNd2gUGN7IuBjYMz) | 2:44 | 2024-06-14 |  |
+| [FOR YOU](https://open.spotify.com/track/4AoxEgV7vkrAKpJZDwycgV) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [FOR YOU](https://open.spotify.com/album/0PzaWYzLZI2oAPZrCiHi71) | 2:46 | 2024-10-04 |  |
 | [Fundi Wa Mbao](https://open.spotify.com/track/0bDMecbVcSax1k9yz1j8yi) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Fundi Wa Mbao](https://open.spotify.com/album/4ZJzh5CyMF3pMI2Fz71PmK) | 3:24 | 2022-04-13 | 2023-10-13 |
 | [Halellujah](https://open.spotify.com/track/5i27XFa7rMos44qN7fq7lu) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/5uEEHX4hsZiwZnpqZVtvvm) | 3:04 | 2023-10-12 |  |
 | [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB), [Yrah DJ](https://open.spotify.com/artist/3toakk7UeO2W0msJkvdcK0) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 | 2022-04-13 | 2024-04-19 |
@@ -74,6 +75,7 @@
 | [Rada!](https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu) | [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Rada!](https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu) | 3:09 | 2022-04-13 |  |
 | [Sai Sai](https://open.spotify.com/track/2F0tznyLelKeeMWZ56srtS) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Sai Sai](https://open.spotify.com/album/1SYiz7Byni0BIZjkrFbssj) | 3:35 | 2022-04-13 | 2024-06-14 |
 | [Secret Agenda](https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Secret Agenda](https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j) | 3:39 | 2023-02-06 |  |
+| [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 |  |
 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 | 2022-04-13 |  |
 | [Tembea](https://open.spotify.com/track/6UrjlQls3bB7lXtfsMLnb7) | [HopeKid](https://open.spotify.com/artist/3MZDn7MH1suAOBBp9VioKG), [Phyllis Mbuthia](https://open.spotify.com/artist/2Gmusr1VjYGXRYJ7uib6Ii) | [Tembea](https://open.spotify.com/album/2ydl5E3CtrBhi0dAInUiCt) | 3:07 | 2022-04-13 |  |
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 |  |

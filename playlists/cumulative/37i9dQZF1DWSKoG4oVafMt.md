@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-930 songs - 2 day 2 hr 18 min
+931 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2022-07-15 | 2023-02-04 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |
 | [Gaani](https://open.spotify.com/track/03uNC6xp1LUJCa7CEomzva) | [Guri](https://open.spotify.com/artist/7AzzWJUcEEKVTOijy4OeX3) | [Gaani](https://open.spotify.com/album/5mX6dHWudwwmUXaL2LRgha) | 2:43 | 2022-03-07 | 2022-04-06 |
-| [Gaani](https://open.spotify.com/track/7to5uQYaj4DJ1MiS8mOsQn) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Sifr](https://open.spotify.com/artist/6E63egfod0sEqODbbrPvvS), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Gaani](https://open.spotify.com/album/7ySlkzOFcHqO9UsQt2atQZ) | 2:14 | 2024-09-20 |  |
+| [Gaani](https://open.spotify.com/track/7to5uQYaj4DJ1MiS8mOsQn) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Sifr](https://open.spotify.com/artist/6E63egfod0sEqODbbrPvvS), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Gaani](https://open.spotify.com/album/7ySlkzOFcHqO9UsQt2atQZ) | 2:14 | 2024-09-20 | 2024-10-04 |
 | [Gaani](https://open.spotify.com/track/4q1ESZkZKH3D4K89G6Kjfm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Gaani](https://open.spotify.com/album/772wLGKJbEF0WeClAQ4g40) | 1:00 | 2022-01-12 | 2022-02-01 |
 | [Gabru Di Jaan](https://open.spotify.com/track/4apGS4ldFAEb4fDnkO1eWy) | [Mann Dhami](https://open.spotify.com/artist/56AGQhzutHSeoBy1kiWgET), [Kamal Khangura](https://open.spotify.com/artist/5pb4Hwfu5ykoQy94XHrOqT) | [Gabru Di Jaan](https://open.spotify.com/album/1JjswonXPB6XWFY4cS99Q5) | 2:57 | 2022-09-15 | 2022-09-23 |
 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [Sunny Kahlon](https://open.spotify.com/artist/1H5i29nyKuLuvowaqkYDLF), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 | 2022-09-21 | 2022-12-16 |
@@ -260,6 +260,7 @@
 | [Gal Sun Ke](https://open.spotify.com/track/5B1lbZYUPga3sZgD87um0W) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Lovey Akhtar](https://open.spotify.com/artist/5baJF3Zd6EDt4njVMaqhoD) | [Gal Sun Ke](https://open.spotify.com/album/31lU2rJSfpFZjKWPUhMxM8) | 3:14 | 2022-02-28 | 2022-03-11 |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2022-03-02 | 2022-04-06 |
 | [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 | 2022-11-21 | 2023-08-22 |
+| [Gallaan](https://open.spotify.com/track/1633YNvqC54lFmD2kJ05Ou) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Bob](https://open.spotify.com/artist/69TcMkhvenAeokIhBGIUCQ), [Maninder Kailey](https://open.spotify.com/artist/3pkSY4dPiyXvWvX8flcQnr) | [Gallaan](https://open.spotify.com/album/2Z6BTMlxKeii6pRhYNJRPN) | 3:49 | 2024-10-03 |  |
 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 | 2022-11-06 | 2024-08-31 |
 | [Gallan Baatan](https://open.spotify.com/track/1GS3cGSTsGOIkPh8WvgCm4) | [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq), [Jaya](https://open.spotify.com/artist/3Z3RmuFa0nCgwCQfjAmFUb) | [Gallan Baatan](https://open.spotify.com/album/0PxRLUKODqDGCLB9aJBDbX) | 2:50 | 2022-01-08 | 2022-02-01 |
 | [Gallan Changian](https://open.spotify.com/track/7CEOyYKB42jZVdOGOkQDBN) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0) | [Gallan Changian](https://open.spotify.com/album/4C1CCvGOLVodYT3h8O0zZL) | 3:58 | 2022-07-15 | 2022-08-18 |

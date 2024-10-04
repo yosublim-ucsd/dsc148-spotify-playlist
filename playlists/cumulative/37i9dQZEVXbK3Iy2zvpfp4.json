@@ -9522,7 +9522,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -10636,7 +10636,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 168856,
       "name": "do i ever cross your mind",
       "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
@@ -14740,6 +14740,24 @@
       "duration_ms": 167314,
       "name": "Fun in the Sun",
       "url": "https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1"
+    },
+    {
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "album": {
@@ -19481,6 +19499,32 @@
     },
     {
       "album": {
+        "name": "BAD BOY CELEBRATES DIDDY: The Artist",
+        "url": "https://open.spotify.com/album/5teQmdNz9VQF9IktSssfWF"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "I'll Be Missing You",
+      "url": "https://open.spotify.com/track/25tsnA5lDP4UctAQOoa8Ks"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting (Sad At Christmas)",
         "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
@@ -20708,7 +20752,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
@@ -28134,7 +28178,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150993,
       "name": "Mr.Magic",
       "url": "https://open.spotify.com/track/1mWeNL66I2MVh4JoBeEGCa"
@@ -32012,7 +32056,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 215172,
       "name": "Ostrava",
       "url": "https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV"
@@ -45274,7 +45318,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -47870,6 +47914,24 @@
     {
       "album": {
         "name": "Woops",
+        "url": "https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5"
+      },
+      "artists": [
+        {
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
+    },
+    {
+      "album": {
+        "name": "Woops",
         "url": "https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU"
       },
       "artists": [
@@ -47880,7 +47942,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 256822,
       "name": "Woops - Original Remastered Mix",
       "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"

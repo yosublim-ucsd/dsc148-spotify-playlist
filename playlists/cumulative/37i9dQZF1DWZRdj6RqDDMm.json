@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "BLSNS",
+        "url": "https://open.spotify.com/album/1LYEgwhTX6Awym2ykMnyjt"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "BLSNS",
+      "url": "https://open.spotify.com/track/2DH2IPLJUcfu0NZaAY1YyZ"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 225493,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2iXTnvraE7ECXJUNwyUeGZ"
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5cjSZ9mwRBhQlPIjgJH6NU"
@@ -3072,7 +3094,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156029,
       "name": "JO JO II",
       "url": "https://open.spotify.com/track/6lq91ltgPdWFxVBacC8Kfp"
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 243332,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/0xSpwjKjzT2RccxUmZBfrw"
@@ -4007,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "MY DADDY",
+        "url": "https://open.spotify.com/album/6vqFXA9wiTuFr5cSLfezI5"
+      },
+      "artists": [
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "MY DADDY",
+      "url": "https://open.spotify.com/track/3narzykdKeRFKDiro2tVqN"
+    },
+    {
+      "album": {
         "name": "My God",
         "url": "https://open.spotify.com/album/5hORp9mTcI86b8trPRmaVU"
       },
@@ -4070,7 +4118,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174157,
       "name": "My Life",
       "url": "https://open.spotify.com/track/5k3S8w74XsbNBDUHdiFiwz"
@@ -5158,7 +5206,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168000,
       "name": "RAPAPAM (BLESSINGS) - UNVL' 24",
       "url": "https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f"
@@ -5426,7 +5474,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181894,
       "name": "Rock, Paper, Scissors",
       "url": "https://open.spotify.com/track/1W82bqiPv8MmRbHFPESPi5"
@@ -6086,7 +6134,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 165473,
       "name": "The Life",
       "url": "https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS"

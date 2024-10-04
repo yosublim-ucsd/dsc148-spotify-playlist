@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Simba La Rue in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Fedez e Niky Savage in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 134347,
       "name": "00",
       "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
@@ -821,6 +821,36 @@
     },
     {
       "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/579OpjO7wqx6uJOWclCmlY"
+      },
+      "artists": [
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/39B0ENqezVhqQNBY6zdXGl"
+    },
+    {
+      "album": {
         "name": "RAP ITALIANO OLD SCHOOL HITS",
         "url": "https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe"
       },
@@ -942,7 +972,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164177,
       "name": "Ancora Qua (feat. Tedua)",
       "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
@@ -3249,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 2",
+        "url": "https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Come mi guardi",
+      "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
+    },
+    {
+      "album": {
         "name": "Come Te",
         "url": "https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX"
       },
@@ -3926,6 +3974,32 @@
       "duration_ms": 210000,
       "name": "DRILLMOON (feat. thasup)",
       "url": "https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2"
+    },
+    {
+      "album": {
+        "name": "DRIP (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "DRIP (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
     },
     {
       "album": {
@@ -5688,6 +5762,32 @@
       "duration_ms": 156447,
       "name": "HOODRICH",
       "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+    },
+    {
+      "album": {
+        "name": "Hope (feat. Izi, Joshua)",
+        "url": "https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Hope (feat. Izi, Joshua)",
+      "url": "https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM"
     },
     {
       "album": {
@@ -9436,7 +9536,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209438,
-      "name": "Palm Angels (feat. Artie 5ive)",
+      "name": "PALM ANGELS (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6giqG8OVQjOAcRxyr9nUBn"
     },
     {
@@ -10182,6 +10282,28 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+    },
+    {
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "PIUUuuuuuUuuuUu (feat. Ghali)",
+      "url": "https://open.spotify.com/track/3SRvMkxdbQS9gNTHiLaa8v"
     },
     {
       "album": {
@@ -10976,7 +11098,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155200,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
@@ -11268,7 +11390,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 273600,
       "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) - Original Soundtrack",
       "url": "https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7"
@@ -11564,6 +11686,24 @@
       "duration_ms": 136666,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg"
+    },
+    {
+      "album": {
+        "name": "Sex Appeal",
+        "url": "https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "Sex Appeal",
+      "url": "https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG"
     },
     {
       "album": {
@@ -12008,7 +12148,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173653,
       "name": "SOS (feat. Don Pero)",
       "url": "https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5"
@@ -13484,7 +13624,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 122666,
       "name": "WEEKEND (feat. Ghali, Artie 5ive)",
       "url": "https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6"

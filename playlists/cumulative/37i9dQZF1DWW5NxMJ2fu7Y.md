@@ -4,13 +4,14 @@
 
 > mood:  😎✈️
 
-106 songs - 5 hr 59 min
+109 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 ans](https://open.spotify.com/track/2nGecH2N2DlaEc4kzYrBJK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Tonton](https://open.spotify.com/album/09uWdV7dmXNgyMcNgB1JWB) | 4:41 | 2024-07-22 |  |
 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 | 2024-02-29 |  |
 | [7alabach](https://open.spotify.com/track/1zFpY7StGgMbDIoAgjzLEc) | [Liris](https://open.spotify.com/artist/63a2RJnKSa2po7VDshJFiA) | [CasaBlanche](https://open.spotify.com/album/3wqxLm5QrnDXwlHDAies2R) | 3:32 | 2024-02-29 | 2024-07-23 |
+| [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 | 2024-10-03 |  |
 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 | 2024-07-22 |  |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2024-02-29 |  |
 | [Ana W Rassi](https://open.spotify.com/track/0vyV3joyy1lWJoZ7QWJVew) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ana W Rassi](https://open.spotify.com/album/2W4as3s5ueGHrBjkqfjT4A) | 3:49 | 2024-02-29 | 2024-08-02 |
@@ -36,6 +37,7 @@
 | [Fink](https://open.spotify.com/track/4vmmaBXaplcAyGVlQiPRuf) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Atlas](https://open.spotify.com/album/6I8s8s1g77v6fBYImKv1yz) | 3:10 | 2024-08-28 |  |
 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 | 2024-08-02 |  |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-02-29 |  |
+| [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2024-07-22 |  |
 | [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 | 2024-07-23 |
 | [I can't move](https://open.spotify.com/track/3kJIFkOkNcPDMz62IZ1Kfm) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I can't move](https://open.spotify.com/album/7ovNUOai7APoKSBBup0lCK) | 3:21 | 2024-02-29 | 2024-07-23 |
@@ -53,7 +55,8 @@
 | [Light](https://open.spotify.com/track/7B81kYMqsw0gMWtghdo7Q6) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:28 | 2024-07-22 |  |
 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 | 2024-08-02 |  |
 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2024-02-29 | 2024-07-23 |
-| [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 | 2024-08-02 |  |
+| [LOTSOFLOVE](https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7) | 2:16 | 2024-10-03 |  |
+| [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 | 2024-08-02 | 2024-10-04 |
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-07-22 |  |
 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 | 2024-07-22 | 2024-08-02 |
 | [Memo](https://open.spotify.com/track/6czrSxEQpR1oiw5U6vQVUF) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Memo](https://open.spotify.com/album/2SRe9hjJjJ1kRwQE1PBzSZ) | 3:32 | 2024-08-02 |  |
@@ -94,10 +97,10 @@
 | [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 | 2024-08-02 |  |
 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 | 2024-02-29 |  |
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2024-02-29 |  |
-| [Slow down](https://open.spotify.com/track/5Cn6Z5fjOowWlmGsaw1nDm) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB), [DAOX](https://open.spotify.com/artist/05EKqePxUjw7agh2gReaDM) | [Apollo](https://open.spotify.com/album/0mt64GxT85IDFW2DWeGu3u) | 2:08 | 2024-09-18 |  |
+| [Slow down](https://open.spotify.com/track/5Cn6Z5fjOowWlmGsaw1nDm) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB), [DAOX](https://open.spotify.com/artist/05EKqePxUjw7agh2gReaDM) | [Apollo](https://open.spotify.com/album/0mt64GxT85IDFW2DWeGu3u) | 2:08 | 2024-09-18 | 2024-10-04 |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2024-02-29 | 2024-07-23 |
 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 | 2024-02-29 |  |
-| [The Devil](https://open.spotify.com/track/68BJ3uVtup8CkFUOAVda9e) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:12 | 2024-08-02 |  |
+| [The Devil](https://open.spotify.com/track/68BJ3uVtup8CkFUOAVda9e) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:12 | 2024-08-02 | 2024-10-04 |
 | [They Don't Know](https://open.spotify.com/track/679ykxeKderKuhhwdivEQL) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [They Don't Know](https://open.spotify.com/album/6n13ILV7Lt0WkyHmjP7pxa) | 4:52 | 2024-08-02 | 2024-09-19 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2024-02-29 | 2024-07-23 |
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-08-02 | 2024-08-29 |

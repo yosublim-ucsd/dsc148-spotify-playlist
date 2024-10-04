@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAOS2grLG53x0OnkoQPtvH0Nyh7wVn",
+  "snapshot_id": "AAAAO/yUO8nt1/2+IjNacJfxQujLUZvl",
   "tracks": [
     {
       "added_at": "2022-09-07 19:01:08",
@@ -735,6 +735,38 @@
       "duration_ms": 241920,
       "name": "Knowing Me, Knowing You",
       "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+    },
+    {
+      "added_at": "2024-10-03 02:39:23",
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 132236,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
+    },
+    {
+      "added_at": "2024-10-03 06:28:39",
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Jerk",
+      "url": "https://open.spotify.com/track/4XGYDoDDSvKKbczMtiI25O"
     }
   ],
   "unique_name": "Gender Neutral Love and Hate",

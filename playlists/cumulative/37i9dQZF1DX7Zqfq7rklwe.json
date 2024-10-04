@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
+    },
+    {
+      "album": {
         "name": "Cannibal (feat. Anders Frid\u00e9n)",
         "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
       },
@@ -525,6 +543,46 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/7kgMscUKrc0QSOCEBXd22m"
+      },
+      "artists": [
+        {
+          "name": "Crashing Castles",
+          "url": "https://open.spotify.com/artist/0nroJgHthRqDrGdfWivte6"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196067,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q"
+    },
+    {
+      "album": {
+        "name": "El\u00e4m\u00e4lt\u00e4 kaiken saat I",
+        "url": "https://open.spotify.com/album/57mWYXGNYoJEV7UTfJwNuN"
+      },
+      "artists": [
+        {
+          "name": "L\u00c4HI\u00d6BOTOX",
+          "url": "https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg"
+        },
+        {
+          "name": "ROSLUV",
+          "url": "https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157031,
+      "name": "El\u00e4m\u00e4lt\u00e4 kaiken saat I",
+      "url": "https://open.spotify.com/track/1MkJwuI3ppInquv44QnBSd"
+    },
+    {
+      "album": {
         "name": "EVERYBODY (BLOODBROS BACK)",
         "url": "https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm"
       },
@@ -572,7 +630,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 206200,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/1zmIyaChZZ6vv1wMkiJbo6"
@@ -698,7 +756,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184716,
       "name": "Hurry Hurry",
       "url": "https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d"
@@ -752,7 +810,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217120,
       "name": "Keep That Mother Down",
       "url": "https://open.spotify.com/track/5LwFa31Em0Lp7fqTabNgro"
@@ -896,7 +954,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 252316,
       "name": "Made Of Metal",
       "url": "https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI"
@@ -1197,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Pulssi",
+        "url": "https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219805,
+      "name": "Pulssi",
+      "url": "https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX"
+    },
+    {
+      "album": {
         "name": "Sorrowbreaker",
         "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
       },
@@ -1341,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "slay ur enemies",
+        "url": "https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3"
+      },
+      "artists": [
+        {
+          "name": "LUNA KILLS",
+          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168282,
+      "name": "slay ur enemies",
+      "url": "https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk"
+    },
+    {
+      "album": {
         "name": "Good Clean Family Entertainment You Can Trust",
         "url": "https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R"
       },
@@ -1399,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Speed of Darkness",
+        "url": "https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG"
+      },
+      "artists": [
+        {
+          "name": "D-A-D",
+          "url": "https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249109,
+      "name": "Speed of Darkness",
+      "url": "https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR"
+    },
+    {
+      "album": {
         "name": "Starlings",
         "url": "https://open.spotify.com/album/7uM3uGyL7gQG9nQ0Plf2TL"
       },
@@ -1446,7 +1558,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186988,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3ZOI8IEuw2Kz5PH1hT1ZuJ"

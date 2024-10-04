@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "den st\u00f8rste dk rap lige nu \ud83c\udf0a\ud83c\udf0a",
+  "description": "dk rap men det er mere en vibe \ud83c\udf0a\ud83c\udf0a",
   "name": "100 DK",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 160615,
       "name": "2 Kanoner",
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC"
+      },
+      "artists": [
+        {
+          "name": "ATYPISK",
+          "url": "https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS"
+        },
+        {
+          "name": "Vince Keys",
+          "url": "https://open.spotify.com/artist/4udv1bgrUxxKrVg566urM6"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "33",
+      "url": "https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d"
     },
     {
       "album": {
@@ -454,7 +476,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 149750,
       "name": "Balaclava",
       "url": "https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp"
@@ -707,6 +729,24 @@
     },
     {
       "album": {
+        "name": "C Bodi",
+        "url": "https://open.spotify.com/album/7g8kJJBSLApupZbh1a8pfH"
+      },
+      "artists": [
+        {
+          "name": "Zay",
+          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158552,
+      "name": "C Bodi",
+      "url": "https://open.spotify.com/track/6602TH8Nvv1dzLVotxfo9x"
+    },
+    {
+      "album": {
         "name": "AFRO DANSKER II",
         "url": "https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW"
       },
@@ -806,6 +846,24 @@
       "duration_ms": 132989,
       "name": "Chocola",
       "url": "https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC"
+    },
+    {
+      "album": {
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
     },
     {
       "album": {
@@ -1136,7 +1194,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173913,
       "name": "Distance (feat. Jamaika)",
       "url": "https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4"
@@ -1608,7 +1666,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 166352,
       "name": "FEAR NOBODY",
       "url": "https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu"
@@ -1674,6 +1732,24 @@
       "duration_ms": 125538,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU"
+    },
+    {
+      "album": {
+        "name": "For God Til Mig",
+        "url": "https://open.spotify.com/album/5UsYwZWBwYGdtNyFQMv0l1"
+      },
+      "artists": [
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167099,
+      "name": "For God Til Mig",
+      "url": "https://open.spotify.com/track/38Fl7rQYidn2LeaSg6hMRi"
     },
     {
       "album": {
@@ -1794,7 +1870,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 149462,
       "name": "F\u00f8lelser (feat. Jamaika)",
       "url": "https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX"
@@ -2448,7 +2524,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174888,
       "name": "Intet Nyt (feat. Gilli)",
       "url": "https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH"
@@ -3525,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Samme side",
+        "url": "https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Samme side",
+      "url": "https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5"
+    },
+    {
+      "album": {
         "name": "BABA BUSINESS 3",
         "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
       },
@@ -3834,7 +3928,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 135595,
       "name": "Sprite & Vodka (feat. Gilli & KESI)",
       "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
@@ -3906,7 +4000,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147485,
       "name": "Stemmer",
       "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
@@ -4258,7 +4352,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 163545,
       "name": "Ud Af Hovedet (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
@@ -4454,7 +4548,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 135146,
       "name": "Vi Har Den",
       "url": "https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6"
@@ -4548,7 +4642,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 163561,
       "name": "winwin",
       "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"

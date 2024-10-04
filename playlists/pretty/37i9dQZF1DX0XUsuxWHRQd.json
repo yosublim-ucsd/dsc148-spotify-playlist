@@ -1,12 +1,12 @@
 {
   "description": "Music from Playboi Carti, Future and Drake. ",
-  "num_followers": 16083942,
+  "num_followers": 16084042,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZviVHQAAAAC9l/CmAWbw4PZr24+FXHHd",
+  "snapshot_id": "Zv4WwAAAAAC+mn6o+4aV0Ge6r48UKlvy",
   "tracks": [
     {
       "added_at": "2024-09-28 23:45:33",
@@ -159,6 +159,26 @@
       "duration_ms": 92133,
       "name": "Dope Boy (with Nigo)",
       "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
+    },
+    {
+      "added_at": "2024-10-03 04:00:00",
+      "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2024-09-28 23:45:33",

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-280 songs - 15 hr 38 min
+282 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aguila](https://open.spotify.com/track/3iZGBhU96lWp6pZSpiisIr) | [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX), [Kick Therapy](https://open.spotify.com/artist/2xy8VXCyJDdFYUxYGXbfpf) | [Aguila](https://open.spotify.com/album/5aixm3KEOdtOaTXgW3Bs5C) | 3:19 | 2022-12-15 | 2023-02-19 |
 | [ALLERLAATSTE FEESTJE](https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [ALLERLAATSTE FEESTJE](https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3) | 3:03 | 2023-10-06 |  |
 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 | 2023-09-01 | 2023-10-07 |
+| [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 | 2024-10-03 |  |
 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 | 2022-12-08 | 2023-12-22 |
 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 | 2024-05-17 | 2024-06-28 |
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 | 2023-12-22 |
@@ -158,7 +159,7 @@
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 | 2023-12-21 | 2024-09-10 |
-| [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 |  |
+| [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 | 2024-10-04 |
 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-13 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
@@ -261,7 +262,7 @@
 | [The Sound Flow](https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [The Sound Flow](https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH) | 4:25 | 2022-12-08 | 2023-06-02 |
 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 | 2023-02-09 |  |
 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 | 2023-12-21 |  |
-| [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 | 2023-07-27 |  |
+| [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 | 2023-07-27 | 2024-10-04 |
 | [Trip to Defqon.1](https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [Trip to Defqon.1](https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu) | 3:42 | 2024-06-27 |  |
 | [Trip to España](https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Trip to España](https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o) | 3:42 | 2024-08-02 |  |
 | [Trip to Greece](https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Trip to Greece](https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ) | 3:06 | 2024-07-18 |  |
@@ -288,5 +289,6 @@
 | [Xtreme Audio \- Official Thunderdome 2023 Anthem](https://open.spotify.com/track/6dSWJAPcVBn8TPrKqla5LA) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Xtreme Audio \(Official Thunderdome 2023 Anthem\)](https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG) | 3:51 | 2023-10-25 |  |
 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 | 2023-04-11 |
 | [You Can't Stop Me](https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [You Can't Stop Me](https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ) | 3:19 | 2022-12-08 | 2023-12-22 |
+| [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 | 2024-10-03 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

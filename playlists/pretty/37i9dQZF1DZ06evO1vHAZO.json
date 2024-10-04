@@ -1,12 +1,12 @@
 {
-  "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 3055,
+  "description": "This is Oasis. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3150,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAADAH1IwEcHU/MM71AVBJF3m",
+  "snapshot_id": "ZvyNAAAAAAAgpF7+YePbkDPmCG7OoZTw",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "Live Forever - Remastered",
-      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 303133,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Supersonic - Remastered",
-      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 127600,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Half The World Away - Remastered",
-      "url": "https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 292853,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Half The World Away - Remastered",
+      "url": "https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Married With Children - Remastered",
-      "url": "https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Masterplan",
         "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 322640,
       "name": "The Masterplan",
       "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Married With Children - Remastered",
+      "url": "https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 392306,
-      "name": "Slide Away - Remastered",
-      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 310440,
       "name": "Lyla",
       "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig Out Your Soul",
         "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 250013,
       "name": "I'm Outta Time",
       "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "added_at": null,

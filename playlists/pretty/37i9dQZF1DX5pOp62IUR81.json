@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 179887,
+  "num_followers": 179909,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAACgKhYG6mST8KLBsaXpzHMK",
+  "snapshot_id": "Zv8e+AAAAAA68B8i/vRKt2Mh+kOg858h",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -275,6 +275,46 @@
       "duration_ms": 135347,
       "name": "I Love You Guys",
       "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
+    },
+    {
+      "added_at": "2024-10-03 22:47:20",
+      "album": {
+        "name": "Songs from Agatha All Along (Episode 4)",
+        "url": "https://open.spotify.com/album/3ZYIL6aXJ9xsUIgzAS7pCQ"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Aubrey Plaza",
+          "url": "https://open.spotify.com/artist/4uGJwxYq27jcwJv2PDSsDs"
+        },
+        {
+          "name": "Joe Locke",
+          "url": "https://open.spotify.com/artist/069uPv10UPCGukbtGRUkJk"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+        }
+      ],
+      "duration_ms": 279522,
+      "name": "The Ballad of the Witches' Road (Cover Version)",
+      "url": "https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8"
     },
     {
       "added_at": "2024-01-05 18:09:37",

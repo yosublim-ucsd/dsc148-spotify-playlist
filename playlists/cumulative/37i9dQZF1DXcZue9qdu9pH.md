@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-105 songs - 6 hr 0 min
+107 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 |  |
 | [find a way \(dusk\)](https://open.spotify.com/track/3uziTtMALrYxzKUUs09ezj) | [SHLM](https://open.spotify.com/artist/7zG9V7FPRowfauISu9Dy2U), [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [Find A Way](https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs) | 3:56 | 2024-05-30 |  |
 | [Find Your Way \- Acoustic](https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 3:39 | 2023-06-30 | 2023-09-02 |
-| [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 | 2024-09-26 |  |
+| [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 | 2024-09-26 | 2024-10-04 |
 | [Fuego](https://open.spotify.com/track/7EDyotg14mU02A92I7MIkF) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:29 | 2023-06-30 | 2024-05-04 |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-06-30 | 2024-06-01 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-22 |  |
@@ -84,6 +84,7 @@
 | [Same Page](https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:06 | 2023-06-30 | 2024-06-01 |
 | [Same Page](https://open.spotify.com/track/5brjcFMaDdlpW5bU8tf2LG) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/7ey1j5jjFdfDgRQoDFmpc6) | 4:06 | 2024-03-15 | 2024-04-19 |
 | [Sare Jokes](https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sare Jokes](https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9) | 2:02 | 2024-01-26 | 2024-06-14 |
+| [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 | 2024-10-03 |  |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 | 2023-12-09 |
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 |  |
@@ -96,6 +97,7 @@
 | [Sunny Everyday](https://open.spotify.com/track/7r8z2NTBdx2euV2pSJkhOW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [mphilo](https://open.spotify.com/artist/5CJTRMHq8aukAtFyoleRIF) | [Whispers of the Soul](https://open.spotify.com/album/4XZaOuCDoQ5igRDBnxqD71) | 1:39 | 2024-02-22 |  |
 | [Superhuman](https://open.spotify.com/track/5IjmDEuIPnGuZlAjJVnsPV) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [The Awakening](https://open.spotify.com/album/6WnV2kPJou5mPZpmnSLvx0) | 3:03 | 2023-06-30 | 2023-10-24 |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-15 |  |
+| [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 | 2024-10-03 |  |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-06-30 |  |
 | [The Sun, The Grass & The River](https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 4:08 | 2023-06-30 | 2024-01-27 |
 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 | 2023-09-01 |  |
@@ -112,6 +114,6 @@
 | [What They Heard](https://open.spotify.com/track/5p0kXDP56ztkjc0AtaWLSI) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [TIHANE](https://open.spotify.com/artist/5JTJtMCQcHtL2JbOVnyI0B) | [What They Heard](https://open.spotify.com/album/1DXa0J0noqp6f4ntFehsmZ) | 3:30 | 2024-04-12 |  |
 | [Would You Mind](https://open.spotify.com/track/0GdY20C8oDprKmrIwDeNNc) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 3:42 | 2023-06-30 | 2024-02-23 |
 | [You're Gone](https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Echoes of Farewell](https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc) | 2:49 | 2024-04-26 | 2024-09-27 |
-| [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2023-06-30 |  |
+| [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2023-06-30 | 2024-10-04 |
 
 \*This playlist was first scraped on 2023-07-04. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4TL8qvr7XAFz333BtR3FyO?si=6VBxWpLpTfOdCjsWkb1Txw\">D[NOWHERE]J</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv?si=EPsWCsX3Qba1NT3wMj5G9Q\">Still That Combo</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 216216,
       "name": "Donderweer",
       "url": "https://open.spotify.com/track/1EQSZd81gflUdDJmlMdXiY"
@@ -2059,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "Bazoshaa Extended Play 2.0",
+        "url": "https://open.spotify.com/album/2kifFGRerxsGGVmWrCPZEo"
+      },
+      "artists": [
+        {
+          "name": "Gino Uzokdlalela",
+          "url": "https://open.spotify.com/artist/6WXjpenGz8rKRBcI9fJtyb"
+        },
+        {
+          "name": "Chustar",
+          "url": "https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287059,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/6rXnrNd6oS7LpSTmHnpoR1"
+    },
+    {
+      "album": {
         "name": "Tronics Land Series 2",
         "url": "https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I"
       },
@@ -2620,7 +2642,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 337972,
       "name": "Noyana (feat. Professor & Lasoulmates)",
       "url": "https://open.spotify.com/track/3amtOic2gDqmTvrKKVwlN4"
@@ -3618,6 +3640,28 @@
       "duration_ms": 254210,
       "name": "Susa",
       "url": "https://open.spotify.com/track/1zLkx0V1cSpQWM9AvEbfGh"
+    },
+    {
+      "album": {
+        "name": "Swenka",
+        "url": "https://open.spotify.com/album/08yVKlEhf6oyaY32p1rqxM"
+      },
+      "artists": [
+        {
+          "name": "Still That Combo",
+          "url": "https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv"
+        },
+        {
+          "name": "Worst Behaviours",
+          "url": "https://open.spotify.com/artist/418RnCs39ZAOpahmEEcgMU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302362,
+      "name": "Swenka",
+      "url": "https://open.spotify.com/track/3iEWK5YIY835Q4T6jt9ko5"
     },
     {
       "album": {

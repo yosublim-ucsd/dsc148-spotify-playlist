@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 228674,
       "name": "Learn to Earn",
       "url": "https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4"
@@ -2039,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Rally 'N'",
+        "url": "https://open.spotify.com/album/3NefSIbvFdppSNc1PsEi3Z"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        },
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280640,
+      "name": "Rally 'N'",
+      "url": "https://open.spotify.com/track/2kPD293eLmYfHgV49u9h2U"
+    },
+    {
+      "album": {
         "name": "Welcome To The Game",
         "url": "https://open.spotify.com/album/5RUtDILSiQz96aSdNM1a1o"
       },
@@ -2764,7 +2786,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 233426,
       "name": "Understand (if I)",
       "url": "https://open.spotify.com/track/3lm6bZvg9LnZ8HtWz3YxJe"

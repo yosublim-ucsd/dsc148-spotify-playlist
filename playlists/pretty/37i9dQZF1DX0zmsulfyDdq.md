@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,953 likes - 198 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,211 likes - 198 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

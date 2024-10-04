@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAACtEdHYO3r0tL0u//aItcunf3rjY5",
+  "snapshot_id": "AAAAC7cEgecyBh7bjqum25IDhk2F4Fjv",
   "tracks": [
     {
       "added_at": "2023-08-16 06:42:06",
@@ -103,6 +103,22 @@
       "duration_ms": 146240,
       "name": "Jenny III",
       "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
+    },
+    {
+      "added_at": "2024-10-03 08:30:42",
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 148365,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
     }
   ],
   "unique_name": "(Dying Wrestler)core",

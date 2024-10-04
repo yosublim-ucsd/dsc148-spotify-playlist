@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Oscar Anton
+> The best French indie tracks right now\. Cover : Emma Hoet
 
-532 songs - 1 day 5 hr 4 min
+534 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Décla](https://open.spotify.com/track/05LxLrui38KJAD1Ui1yGqN) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Décla](https://open.spotify.com/album/0EzXEOwPCp4gbdh9WKdzHe) | 3:38 | 2023-01-12 | 2023-09-15 |
 | [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 | 2022-09-23 |
 | [Désamour](https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy) | [Rêve Blanc](https://open.spotify.com/artist/6bQE7tlwfDdiBAAdo4EKyL) | [Désamour](https://open.spotify.com/album/4dIh0BBJ9ODCLY2Sy3pK7x) | 3:44 | 2022-11-17 | 2022-12-24 |
+| [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 |  |
 | [Empathie](https://open.spotify.com/track/738mF4MLie3fFqTrWIP4RC) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Empathie](https://open.spotify.com/album/6ih5L57o7ap7pEamgPKwI3) | 3:20 | 2022-12-08 | 2023-01-20 |
 | [En ce moment](https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En ce moment](https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D) | 2:16 | 2022-09-15 | 2023-01-13 |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
@@ -175,9 +176,10 @@
 | [Get to Me](https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Leo Fifty Five](https://open.spotify.com/artist/1ytH8uFCe1l9mxfqUUnYMF) | [Get to Me](https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp) | 3:08 | 2021-12-16 | 2022-01-21 |
 | [Ghost story](https://open.spotify.com/track/1rYLirLvSfSo5jbbl7wHE5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Ghost story](https://open.spotify.com/album/0NH6qv94SMwDOCyMoO9V6P) | 2:30 | 2023-02-23 | 2023-03-10 |
 | [GOBACK](https://open.spotify.com/track/7BiCR2KFuppkMQdxsYmSvT) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [GOBACK](https://open.spotify.com/album/5920FnXcvVNVrk9npCJa4X) | 2:06 | 2023-11-30 | 2024-01-19 |
+| [Golden Bay](https://open.spotify.com/track/7hB9Efd9KkapvHfjpzPUu8) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Golden Bay](https://open.spotify.com/album/0VQBTgExKApYJMMOE3tufu) | 3:10 | 2024-10-03 |  |
 | [Grande Vitesse](https://open.spotify.com/track/6NYeUwjXuC87QmqS6ymZe2) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Grande Vitesse](https://open.spotify.com/album/2Xe7EhztOvwHzuUWvl6Xlk) | 3:21 | 2022-11-10 | 2022-12-02 |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 | 2022-04-08 |
-| [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 | 2024-06-27 |  |
+| [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 | 2024-06-27 | 2024-10-04 |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-04-27 | 2023-05-26 |
 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-06 | 2023-04-30 |
 | [Hard to be a girl](https://open.spotify.com/track/6YSU1sOKhpGYtWL8m90Wwo) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Moping in style : A tribute to Adam Green](https://open.spotify.com/album/4jGsgNYVVLiWCoavpK5ye4) | 2:39 | 2023-11-30 | 2024-03-08 |
@@ -404,7 +406,7 @@
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 | 2023-09-29 |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
-| [Romantisme](https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Romantisme](https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl) | 3:49 | 2024-04-04 |  |
+| [Romantisme](https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Romantisme](https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl) | 3:49 | 2024-04-04 | 2024-10-04 |
 | [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 | 2024-02-23 | 2024-09-20 |
 | [Sacha](https://open.spotify.com/track/4Iw28yS7pa8k4pcMF9R3YR) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 3:11 | 2024-04-04 | 2024-05-03 |
 | [Saint\-Germain](https://open.spotify.com/track/0xjRkSgHG8A14Z2q5TdEiy) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Saint\-Germain](https://open.spotify.com/album/5v60CETbGHisBr29z93w3S) | 3:10 | 2024-04-04 | 2024-05-17 |

@@ -6268,7 +6268,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172380,
       "name": "Fame",
       "url": "https://open.spotify.com/track/0GdfN7SCNlHza8VZgW3DY2"
@@ -6844,7 +6844,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186940,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/0cleJMuGKGeA65qYypc6Ch"
@@ -7576,7 +7576,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 198400,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/3AcT4pRaCvKj6sDW57sgIS"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217777,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/3KOHtBp24aLqLoXucduWX2"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 228750,
       "name": "Good Space",
       "url": "https://open.spotify.com/track/5iwivgqwL9rNH9TDcbhMgT"
@@ -8538,7 +8538,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 254882,
       "name": "Heart Of Mine",
       "url": "https://open.spotify.com/track/04Q6e0CD1b143Nt1T2Nwtt"
@@ -13134,7 +13134,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 317480,
       "name": "Made Me Like This",
       "url": "https://open.spotify.com/track/1qBIfUAXid02RlvGh6DtzG"
@@ -14254,6 +14254,24 @@
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
+    },
+    {
+      "album": {
+        "name": "Murder on the Dancefloor",
+        "url": "https://open.spotify.com/album/6lZDRD4m5CO9Yv3mig5yVo"
+      },
+      "artists": [
+        {
+          "name": "S_Zer0",
+          "url": "https://open.spotify.com/artist/31GuTgVUgrn3X1gV39IGjr"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Murder on the Dancefloor",
+      "url": "https://open.spotify.com/track/7zY2LRRa4z8TWMv7mB4yn3"
     },
     {
       "album": {
@@ -18766,7 +18784,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 171000,
       "name": "Shout",
       "url": "https://open.spotify.com/track/4mLVzgymnxlTZ9ymwgX4v3"
@@ -22950,7 +22968,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155375,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/48jfowhGrYD4DbA90Yk5kD"

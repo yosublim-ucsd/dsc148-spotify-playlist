@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 
 > Fugitive flavored trauma
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 10 songs - 37 min 44 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 11 songs - 40 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,6 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 | 8 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 |
 | 9 | [Hast Thou Considered the Tetrapod](https://open.spotify.com/track/5Kv0LeQ30umm7qvjNAoLck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:22 |
 | 10 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 |
+| 11 | [Wasteland](https://open.spotify.com/track/24Qd5OZoCPLkGUrsLcJ3CW) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 3:12 |
 
-Snapshot ID: `AAAADcc+5wd+8eDPQGkkC0eYxWW1gnCS`
+Snapshot ID: `AAAADkLk6Y9lAAfoIzbIBIjrs+VqpYdw`

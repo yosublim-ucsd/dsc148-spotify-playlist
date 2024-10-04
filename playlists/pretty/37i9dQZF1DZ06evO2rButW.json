@@ -1,12 +1,12 @@
 {
   "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 690974,
+  "num_followers": 691094,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAABSY32zx38r9We+4t/agyFX",
+  "snapshot_id": "ZvyNAAAAAAA4a4Xx6ALGnkq09lrPTzZ/",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "Yo Te Qui",
-      "url": "https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 214573,
       "name": "Supermercado",
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "Yo Te Qui",
+      "url": "https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7"
     },
     {
       "added_at": null,

@@ -5109,6 +5109,28 @@
     },
     {
       "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/4sbyMFGjrzJroFJxtOyqTV"
+      },
+      "artists": [
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "Gabriel Eli",
+          "url": "https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW"
+    },
+    {
+      "album": {
         "name": "Hate You",
         "url": "https://open.spotify.com/album/0sZSZcxLGBQVPfsWvVyRVO"
       },
@@ -7253,7 +7275,7 @@
     },
     {
       "album": {
-        "name": "Mortals - Sped Up/Slowed",
+        "name": "Mortals (Sped Up/Slowed)",
         "url": "https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL"
       },
       "artists": [

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAACzwPKBYTdtNvjTTFrbohDc",
+  "snapshot_id": "ZvyNAAAAAACnjE5yw3kj7rG5hpVfGCfP",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ERA Mi destino",
-        "url": "https://open.spotify.com/album/2euxkkWCWtxfuvbCLbwByP"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 252821,
-      "name": "ERA Mi destino",
-      "url": "https://open.spotify.com/track/0HqqGn94ykvvsy3Qn4vQln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ERA Mi destino",
+        "url": "https://open.spotify.com/album/2euxkkWCWtxfuvbCLbwByP"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 252821,
+      "name": "ERA Mi destino",
+      "url": "https://open.spotify.com/track/0HqqGn94ykvvsy3Qn4vQln"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUETOS \"Made In Usa\" - En Vivo",
-        "url": "https://open.spotify.com/album/4s5QyZNURcm6U5jKii3KQ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 216483,
-      "name": "Paso Firme - En Vivo",
-      "url": "https://open.spotify.com/track/3rQpxXtTUcbm7v2YijjAYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uno Nueve",
         "url": "https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg"
       },
@@ -495,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Grupo Viada",
-          "url": "https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Equipo Cannabis",
-      "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -531,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Grupo Viada",
+          "url": "https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix"
         }
       ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+      "duration_ms": 168960,
+      "name": "Equipo Cannabis",
+      "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
     },
     {
       "added_at": null,
@@ -599,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "PISO FIRME",
-      "url": "https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -631,6 +595,22 @@
       "duration_ms": 206856,
       "name": "Me Dicen E",
       "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "PISO FIRME",
+      "url": "https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg"
     },
     {
       "added_at": null,
@@ -671,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 181710,
-      "name": "AHORA NOS VEN",
-      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -707,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
+        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
       },
       "artists": [
         {
@@ -716,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 109344,
-      "name": "Humilde y Sencillo (En Vivo)",
-      "url": "https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT"
+      "duration_ms": 181710,
+      "name": "AHORA NOS VEN",
+      "url": "https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL"
     },
     {
       "added_at": null,
@@ -735,6 +699,22 @@
       "duration_ms": 240378,
       "name": "Ultimamente Tapando Bocas",
       "url": "https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 109344,
+      "name": "Humilde y Sencillo (En Vivo)",
+      "url": "https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT"
     },
     {
       "added_at": null,
@@ -831,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra de Guitarras Vol. 1",
-        "url": "https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3"
+        "name": "DUETOS \"Made In Usa\" - En Vivo",
+        "url": "https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t"
       },
       "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 185816,
-      "name": "Al Ver Te Vas",
-      "url": "https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX"
+      "duration_ms": 216483,
+      "name": "Paso Firme - En Vivo",
+      "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 155991,
       "name": "EL TERMINATOR",
       "url": "https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra de Guitarras Vol. 1",
+        "url": "https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 185816,
+      "name": "Al Ver Te Vas",
+      "url": "https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX"
     },
     {
       "added_at": null,

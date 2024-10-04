@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 173 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,650 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 148 | [Baby Please](https://open.spotify.com/track/262gXx6MW4bsDa43iLGvbI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 4:27 |
 | 149 | [Today](https://open.spotify.com/track/5K1IONXASzQEPEZIrUevdN) | [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U), [New Kingston](https://open.spotify.com/artist/5J0pBS9IColmrJqVD9BzvC) | [Better Run Riddim](https://open.spotify.com/album/4Cer6iwjE8YJ0Pm9BzppbJ) | 4:00 |
 | 150 | [I Fell In Love](https://open.spotify.com/track/6RIjvK6FoCWcsNtjYsPVtn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Hello My Apple](https://open.spotify.com/album/2LnBYjNaTXBdR2IymbB2wQ) | 2:49 |
-| 151 | [Fixing My Hair](https://open.spotify.com/track/66DuVihRdAHZihgcnyIqQR) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 4:23 |
-| 152 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 151 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 152 | [Fixing My Hair](https://open.spotify.com/track/66DuVihRdAHZihgcnyIqQR) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 4:23 |
 | 153 | [Memphis](https://open.spotify.com/track/7fNGhNtw7J3SAFmLLVNamt) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 2:57 |
 | 154 | [Here I Am](https://open.spotify.com/track/0Ze3DNoRUnVUDRVz4w3yCt) | [Ham](https://open.spotify.com/artist/0SaKau45p7bLauh7j5zDTd), [Demo](https://open.spotify.com/artist/4vTzIgESXBg3CQe66wP2MZ), [Justin Time](https://open.spotify.com/artist/6E5oEfHx4YykNuNPf8F8oP), [Becks](https://open.spotify.com/artist/69SHiDXyL4yzjxTJfRmO9t) | [Here I Am](https://open.spotify.com/album/6dK9g57TBlpc9zOGtTiL9m) | 5:19 |
 | 155 | [Thank You](https://open.spotify.com/track/6NwL6OsMbxT2JQPW8zegAW) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [1 of 1](https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj) | 4:33 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 172 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 173 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbdvKAAAAAAUc9E4qPN8UAsmIXUSXfGi`
+Snapshot ID: `Abd0yAAAAAAPp8HDoNa7mZL9ZbZRAInl`

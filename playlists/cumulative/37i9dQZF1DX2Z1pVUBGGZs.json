@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring charlotte plank  \u2601\ufe0f  art: @doolittleillustrations",
+  "description": "a playlist without boundaries, featuring rachel chinouriri and cat burns  \u2601\ufe0f  art: @doolittleillustrations",
   "name": "Our Generation",
   "tracks": [
     {
@@ -96,10 +96,46 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 135172,
       "name": "99%",
       "url": "https://open.spotify.com/track/0je8BipjAnFnO1PVVpPPPO"
+    },
+    {
+      "album": {
+        "name": "ALL MY GIRLS ARE TOMBOYS",
+        "url": "https://open.spotify.com/album/0sqr8Z6obltglzGSeeFjYr"
+      },
+      "artists": [
+        {
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192109,
+      "name": "ALL MY GIRLS ARE TOMBOYS",
+      "url": "https://open.spotify.com/track/4yiOJSF1pkw1MCcTom9VFT"
+    },
+    {
+      "album": {
+        "name": "Always Like This",
+        "url": "https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Always Like This",
+      "url": "https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e"
     },
     {
       "album": {
@@ -187,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
+    },
+    {
+      "album": {
         "name": "BAD 4 MY HEALTH",
         "url": "https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359"
       },
@@ -234,10 +288,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 159473,
       "name": "BAD!",
       "url": "https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k"
+    },
+    {
+      "album": {
+        "name": "bbydoll",
+        "url": "https://open.spotify.com/album/5U69I8URn5ZJZVR2lpB5XO"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134962,
+      "name": "bbydoll",
+      "url": "https://open.spotify.com/track/2gnLLrNnITq04tguy716dt"
     },
     {
       "album": {
@@ -382,7 +454,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186405,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
@@ -400,7 +472,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 216250,
       "name": "Blue",
       "url": "https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ"
@@ -822,7 +894,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 142906,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
@@ -840,7 +912,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 207348,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/5q8lO9GDY33DvVH4gkkPNa"
@@ -992,7 +1064,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 201708,
       "name": "Don't Do Well Alone",
       "url": "https://open.spotify.com/track/1E3l1pjDVsdVmyHcbBwvB5"
@@ -1053,6 +1125,28 @@
     },
     {
       "album": {
+        "name": "Even (with Cat Burns)",
+        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "Even (with Cat Burns)",
+      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "album": {
         "name": "Ever Seen",
         "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
       },
@@ -1064,7 +1158,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
@@ -1446,7 +1540,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172458,
       "name": "HEADSPIN",
       "url": "https://open.spotify.com/track/6Q9IDjXL9XRy7TXY1oTjHF"
@@ -1836,7 +1930,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 207719,
       "name": "knitting song",
       "url": "https://open.spotify.com/track/55q7JTM5IkHnHcVXou0bJZ"
@@ -1916,6 +2010,24 @@
       "duration_ms": 230346,
       "name": "Light",
       "url": "https://open.spotify.com/track/6I6DpmYoLOk6i6AYHw4BWk"
+    },
+    {
+      "album": {
+        "name": "Like Honey",
+        "url": "https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F"
+      },
+      "artists": [
+        {
+          "name": "Yuneki",
+          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208998,
+      "name": "Like Honey",
+      "url": "https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz"
     },
     {
       "album": {
@@ -2429,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Numb 2 U",
+        "url": "https://open.spotify.com/album/5tsGjQanwxFS0rnE3l2oXt"
+      },
+      "artists": [
+        {
+          "name": "Henjila",
+          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160584,
+      "name": "Numb 2 U",
+      "url": "https://open.spotify.com/track/3siV0NUBy7HpYyL0MfuTU1"
+    },
+    {
+      "album": {
         "name": "age tape 14",
         "url": "https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD"
       },
@@ -2476,7 +2606,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 220156,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/2aQ7Q3JIzrYLlmdUivaUUk"
@@ -2656,7 +2786,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 160461,
       "name": "Sage",
       "url": "https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp"
@@ -2728,7 +2858,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174903,
       "name": "Scotch of St. James",
       "url": "https://open.spotify.com/track/4owudhylhdEDmUt7xggVK1"
@@ -2818,7 +2948,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 214066,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/11Qe0MH9WwFiaQZ8dtBBdS"
@@ -2915,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "album": {
         "name": "stargirl",
         "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
       },
@@ -2944,7 +3092,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 205442,
       "name": "Stay For Good",
       "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
@@ -3164,7 +3312,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 130243,
       "name": "The Go Down",
       "url": "https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh"
@@ -3218,7 +3366,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
@@ -3258,6 +3406,24 @@
       "duration_ms": 141406,
       "name": "Thumb War",
       "url": "https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml"
+    },
+    {
+      "album": {
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
     },
     {
       "album": {
@@ -3471,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171731,
+      "name": "Weekend Boy",
+      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
+    },
+    {
+      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/1b9ubXjaWE0ODYPrwFyFVM"
       },
@@ -3522,6 +3706,24 @@
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
+    },
+    {
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Yard",
+      "url": "https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor"
     },
     {
       "album": {

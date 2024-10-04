@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV"
+    },
+    {
+      "album": {
         "name": "in case you miss me",
         "url": "https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m"
       },
@@ -1032,6 +1050,24 @@
       "duration_ms": 170601,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3OmU1R6xEVCkuokKHtOfOl"
+    },
+    {
+      "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Ghost Of Us",
+      "url": "https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u"
     },
     {
       "album": {
@@ -1403,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Hurry Up and Let Me Down",
+        "url": "https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk"
+      },
+      "artists": [
+        {
+          "name": "David Alexander",
+          "url": "https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156462,
+      "name": "Hurry Up and Let Me Down",
+      "url": "https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -1641,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Invisible (feat. ROSIE)",
+        "url": "https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197716,
+      "name": "Invisible (feat. ROSIE)",
+      "url": "https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b"
+    },
+    {
+      "album": {
         "name": "dear amelia",
         "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
       },
@@ -1656,6 +1732,24 @@
       "duration_ms": 128851,
       "name": "Julian, king of manhattan",
       "url": "https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE"
+    },
+    {
+      "album": {
+        "name": "The Magazine",
+        "url": "https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213297,
+      "name": "Knock The Wind",
+      "url": "https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC"
     },
     {
       "album": {
@@ -2315,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Lunch EP",
+        "url": "https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169407,
+      "name": "Sober Up",
+      "url": "https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3"
+    },
+    {
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
@@ -2806,6 +2918,24 @@
       "duration_ms": 177200,
       "name": "What A Shame",
       "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
+    },
+    {
+      "album": {
+        "name": "What They Say",
+        "url": "https://open.spotify.com/album/6ODwSrvPYR3Y9sSFSzL3t8"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176329,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/7aWfmi3wJocJJAvyEkG60Y"
     },
     {
       "album": {

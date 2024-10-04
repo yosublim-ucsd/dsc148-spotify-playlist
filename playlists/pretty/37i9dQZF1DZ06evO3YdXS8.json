@@ -1,12 +1,12 @@
 {
   "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 623397,
+  "num_followers": 623432,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAAkvWg27gIlTdkZj9xD13LJ",
+  "snapshot_id": "ZvyNAAAAAACDNrMezh24nZdv/SLcWEWN",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 253733,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Yo Me Voy",
-      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
     },
     {
       "added_at": null,

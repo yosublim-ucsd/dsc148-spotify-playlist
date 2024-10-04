@@ -4,7 +4,7 @@
 
 > Mental illness
 
-37 songs - 2 hr 3 min
+38 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Me And I](https://open.spotify.com/track/4JzJihuvIlhaYqSUNNJGBl) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 | 2024-09-20 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2024-09-16 |  |
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2024-09-17 |  |
+| [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 | 2024-10-03 |  |
 | [Problems](https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Problems](https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee) | 3:22 | 2024-02-19 |  |
 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 | 2023-12-05 |  |
 | [Skeleton Appreciation Day in Vestal, NY \(Bones\)](https://open.spotify.com/track/0YP2c4aqvZehpngSGScVkn) | [Will Wood and the Tapeworms](https://open.spotify.com/artist/13pwqHspIhcy1IcAooefso) | [Everything Is a Lot](https://open.spotify.com/album/3mXf3xH8ODKxWUOsSe7joK) | 4:04 | 2023-03-31 |  |

@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 206164,
       "name": "Darling Jesus - Special Version",
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Ebezina (Remix)",
+        "url": "https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd"
+      },
+      "artists": [
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        },
+        {
+          "name": "Promise Effiong",
+          "url": "https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Ebezina - Remix",
+      "url": "https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV"
+    },
+    {
+      "album": {
         "name": "El-Roi",
         "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
       },
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 375723,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 152608,
       "name": "Favour",
       "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 202854,
       "name": "OVER DO",
       "url": "https://open.spotify.com/track/4cyksctWzRxoCfD39sqD3b"
@@ -3592,7 +3614,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 391489,
       "name": "Take all the Praise",
       "url": "https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E"

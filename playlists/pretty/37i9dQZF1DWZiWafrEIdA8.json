@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9328,
+  "num_followers": 9327,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-09-24 09:07:19",
       "album": {
+        "name": "LOVE me",
+        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "LOVE me",
+      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+    },
+    {
+      "added_at": "2024-09-24 09:07:19",
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 177413,
       "name": "Somebody!",
       "url": "https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5"
-    },
-    {
-      "added_at": "2024-09-24 09:07:19",
-      "album": {
-        "name": "LOVE me",
-        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "LOVE me",
-      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
     },
     {
       "added_at": "2024-09-24 09:07:19",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-09-24 09:07:19",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165700,
-      "name": "Goodbye (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
-    },
-    {
-      "added_at": "2024-09-24 09:07:19",
-      "album": {
         "name": "TO DIE FOR",
         "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 175716,
       "name": "Dare to Love (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
+    },
+    {
+      "added_at": "2024-09-24 09:07:19",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165700,
+      "name": "Goodbye (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
     },
     {
       "added_at": "2024-09-24 09:07:19",

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18012,
+  "num_followers": 18039,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvX1vAAAAABvFIoogm3WTxsXjHYH68AT",
+  "snapshot_id": "Zv8wPAAAAACU2HXxKkBgVe2bqNmicFP6",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -897,6 +897,26 @@
       "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
     },
     {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        },
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "duration_ms": 220714,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Only God Can Save Me",
@@ -963,26 +983,6 @@
       "duration_ms": 218973,
       "name": "Elee - Studio Remix Bonus",
       "url": "https://open.spotify.com/track/1DndbwRsfmBzFeEol1dDIc"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
-        }
-      ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     }
   ],
   "unique_name": "Higher",

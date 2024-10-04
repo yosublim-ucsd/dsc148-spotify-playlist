@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Maisak
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,244 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,293 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 29 | [Los Fin De](https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Los Fin De](https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84) | 2:42 |
 | 30 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
 | 31 | [Oney1 // Round 12](https://open.spotify.com/track/4NXZNAuLO6JsPUVXYryvgv) | [Room41](https://open.spotify.com/artist/06y9BCJYP2wpYn61S4USLy), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Oney1 // Round 12](https://open.spotify.com/album/7p1ePNcBa12t02t4Gn5f6d) | 2:12 |
-| 32 | [For Life](https://open.spotify.com/track/0MOYSYYEjaVjbbSFiTCo80) | [25stack](https://open.spotify.com/artist/4xnxLczmG4CpRbi9lQiEyR) | [For Life](https://open.spotify.com/album/7cu3Z8JYFgZ8CNP7FqEshV) | 2:46 |
+| 32 | [For Life](https://open.spotify.com/track/0MOYSYYEjaVjbbSFiTCo80) | [25stack](https://open.spotify.com/artist/4xnxLczmG4CpRbi9lQiEyR), [YO POPPY](https://open.spotify.com/artist/2VPYeIQ6eZDJvnCqpjXq7V) | [For Life](https://open.spotify.com/album/7cu3Z8JYFgZ8CNP7FqEshV) | 2:46 |
 | 33 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \- W Sound 01](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 |
 | 34 | [TRAQUETO](https://open.spotify.com/track/6jfp0rIQSdBoijRTR7TC9l) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [TRAQUETO](https://open.spotify.com/album/4bhbFsqH3xWEpn5dt2GJC7) | 3:22 |
 | 35 | [Nada Formal](https://open.spotify.com/track/6Su6xxvfW0NQJh2TbhczqJ) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Erios](https://open.spotify.com/artist/5UiJUzUOIGxS735KFEjo70) | [Nada Formal](https://open.spotify.com/album/5pDaKhgOlzAsUz8EijcAFW) | 3:43 |

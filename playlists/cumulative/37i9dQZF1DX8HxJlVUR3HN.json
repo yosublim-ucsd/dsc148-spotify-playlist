@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/6cCkzd1ASCgZWLLSxhMcwF"
+      },
+      "artists": [
+        {
+          "name": "Opinion",
+          "url": "https://open.spotify.com/artist/3K0sSzYbcJdN3FXAtjTXpm"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "19",
+      "url": "https://open.spotify.com/track/4lB101ERakGrODXAN1nubF"
+    },
+    {
+      "album": {
         "name": "Welcome To My Funeral",
         "url": "https://open.spotify.com/album/215thklqXyGatQqQjt8RoH"
       },
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 208608,
       "name": "Dance",
       "url": "https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 215120,
       "name": "Isabella Bird's Last Journey",
       "url": "https://open.spotify.com/track/2QGBWtn7Bt0EsicCZlguhd"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 222920,
       "name": "Koda",
       "url": "https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ"
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 222937,
       "name": "One Face And A Hundred Souls",
       "url": "https://open.spotify.com/track/393hKvpbS4ZFJyXX1JKdcy"
@@ -2974,6 +2992,24 @@
       "duration_ms": 210810,
       "name": "Oxyg\u00e8ne Pur",
       "url": "https://open.spotify.com/track/1kSz44REfDAljyMl25XnC3"
+    },
+    {
+      "album": {
+        "name": "Party Time",
+        "url": "https://open.spotify.com/album/1nwvMYKPLiFwaDpT18Qm1q"
+      },
+      "artists": [
+        {
+          "name": "Uncut",
+          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222931,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/6yTVEdPeuypPkREZCOF9RJ"
     },
     {
       "album": {
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 178986,
       "name": "Pyromane",
       "url": "https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO"
@@ -3323,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "11:11 - Extended Version",
+        "url": "https://open.spotify.com/album/0FJXUxO8ywrNtSCfdS1Ts3"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162305,
+      "name": "Samedi soir",
+      "url": "https://open.spotify.com/track/0n46jeZvXG4wJ0gxtGJrrc"
+    },
+    {
+      "album": {
         "name": "Sassy Sunday",
         "url": "https://open.spotify.com/album/7tVtlnZ2lVOter8U8gJmcy"
       },
@@ -3464,6 +3518,24 @@
       "duration_ms": 249197,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5orwwYcf7dNnRe3l0D5xJc"
+    },
+    {
+      "album": {
+        "name": "God Doesn't Exist",
+        "url": "https://open.spotify.com/album/4DcWmN0SIQKrwvnpOAxexy"
+      },
+      "artists": [
+        {
+          "name": "SEX SHOP MUSHROOMS",
+          "url": "https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244743,
+      "name": "She Doesn't Exist",
+      "url": "https://open.spotify.com/track/72R40hkHkJ315gUqMhndxd"
     },
     {
       "album": {
@@ -3622,7 +3694,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 228571,
       "name": "So Sadly",
       "url": "https://open.spotify.com/track/4WbmIh2FGxiuxut350IT39"
@@ -4083,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/2BsGWyY0USekBwL5mnG3XY"
+      },
+      "artists": [
+        {
+          "name": "SCH\u00d8\u00d8L",
+          "url": "https://open.spotify.com/artist/4av2qG2kDSGxWcDe2HpmiP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0fzpx8fAbq71kGMVkVJ8kb"
+    },
+    {
+      "album": {
         "name": "Born to Win",
         "url": "https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH"
       },
@@ -4462,6 +4552,24 @@
       "duration_ms": 208800,
       "name": "Tu Nous M\u00e9rites Pas",
       "url": "https://open.spotify.com/track/2MxvNkqDGtJCvNhcQmvjN7"
+    },
+    {
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/2cfL9hogKg1cjiEB813v8r"
+      },
+      "artists": [
+        {
+          "name": "Swirls",
+          "url": "https://open.spotify.com/artist/1bb9SZzljhwWmNlRTAeN71"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Unavailable",
+      "url": "https://open.spotify.com/track/4K5hs1jQ3uaqZPtXRfFNFz"
     },
     {
       "album": {

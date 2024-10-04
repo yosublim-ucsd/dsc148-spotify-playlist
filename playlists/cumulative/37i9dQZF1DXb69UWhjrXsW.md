@@ -2,7 +2,7 @@
 
 ### [Hits From The Movies](https://open.spotify.com/playlist/37i9dQZF1DXb69UWhjrXsW)
 
-> The greatest songs in the history of cinema\. Cover: Cruel Intentions
+> The greatest songs in the history of cinema\. Cover: Hocus Pocus
 
 146 songs - 9 hr 35 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,736 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,737 likes - 50 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 44 | [You're Everything](https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:17 |
 | 45 | [You Won't Change \(Yahweh the Same\) \[feat\. Tamela Hairston & Mav City Gospel Choir\]](https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tamela Hairston](https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:00 |
 | 46 | [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 |
-| 47 | [Agnus Dei \- Live](https://open.spotify.com/track/17IqtGPC2rIwBl65FJh8zc) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 3:29 |
-| 48 | [Close To You \(feat\. Minon Sarten\)](https://open.spotify.com/track/0hO1Ohhg6TdMGtKRsvTsgn) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Minon Sarten](https://open.spotify.com/artist/1T2g4e6hcGf6bKR5WUe771) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:00 |
+| 47 | [The Great I Am \- Live](https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittney Wright](https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt), [Trina Hairston](https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 10:43 |
+| 48 | [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 |
 | 49 | [Miracle is You \(feat\. Kymberli Joye\)](https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 8:54 |
 | 50 | [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 |
 
-Snapshot ID: `Zvs7gAAAAACxn9hY+mhEXWKPeTcSMWM7`
+Snapshot ID: `ZvyNAAAAAAC1Uw29C/4Vvr/AW2VULFGK`

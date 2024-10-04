@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <LINKIN PARK : From Zero World Tour> 2024년 9월 28일\(토\) 오후 7시 30분 @인스파이어 아레나
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,735 likes - 26 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,060 likes - 26 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

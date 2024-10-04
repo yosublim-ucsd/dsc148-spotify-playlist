@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB9tXtRQKFQONP39FsOpwL1",
+  "snapshot_id": "AAAAAAAAAABm9YGP7MxBijlZVOAGgsJ/",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "From Your Own Eyes",
+        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "From Your Own Eyes",
+      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Bumblebee Tuna (with Andy Frasco)",
         "url": "https://open.spotify.com/album/0xOXAk7QKVFqKq2LneMIFb"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 101626,
       "name": "Bumblebee Tuna (with Andy Frasco)",
       "url": "https://open.spotify.com/track/3AHz579I1l0csbP89u5B70"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "From Your Own Eyes",
-        "url": "https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "From Your Own Eyes",
-      "url": "https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -375,30 +375,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Big Body Bes",
-          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Minnesota Fats",
-      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
       },
@@ -423,6 +399,30 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
         "url": "https://open.spotify.com/album/3ANdGEVavDd9YK2V0abBiC"
       },
@@ -435,26 +435,6 @@
       "duration_ms": 534130,
       "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/2tCb63qwibZi8EbkkNuv8g"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Just Dreams",
-        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Just Dreams",
-      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -483,6 +463,26 @@
       "duration_ms": 171241,
       "name": "Hello L.A.",
       "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Just Dreams",
+        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Just Dreams",
+      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 586291,
-      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Still Infinite (Redux)",
         "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 215173,
       "name": "Still Infinite (Redux)",
       "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 586291,
+      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -775,34 +775,6 @@
       "duration_ms": 172855,
       "name": "Hate Me If You Want",
       "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Perchance to Dream Concept Album",
-        "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
-      },
-      "artists": [
-        {
-          "name": "Perchance to Dream",
-          "url": "https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu"
-        },
-        {
-          "name": "Sarah Dooley",
-          "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
-        },
-        {
-          "name": "Travis Harmon",
-          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
-        },
-        {
-          "name": "Kate Ly Johnston",
-          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
-        }
-      ],
-      "duration_ms": 269361,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/5RVcl0ORBdrHxBCCr3737j"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

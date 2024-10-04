@@ -2,9 +2,9 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Indira Paganotto
+> 😈 welcome to the rave 😈  Cover: Sara Landry
 
-175 songs - 14 hr 8 min
+176 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
+| [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
-| [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 |  |
+| [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 | 2024-06-17 |
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 |  |

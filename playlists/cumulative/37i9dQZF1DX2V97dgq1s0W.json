@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Sasha Keable, 6LACK",
+  "description": "The best voices in R&B. Cover: Leon Thomas",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/637AZlOAncgk471qGUVCvP"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et"
+    },
+    {
+      "album": {
         "name": "When I Hear Your Name",
         "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 269853,
       "name": "Avant l'hiver",
       "url": "https://open.spotify.com/track/3hR5jexZmKeAFwtNfzlTzt"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
@@ -1517,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Love's Letter (Deluxe)",
+        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195404,
+      "name": "Ebbs & Flows",
+      "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
+    },
+    {
+      "album": {
         "name": "ego talkin' - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2wUFlliD9fEXVectpt3xXK"
       },
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 215249,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
@@ -2162,7 +2198,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 159493,
       "name": "Give Up The Fear",
       "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
@@ -2278,7 +2314,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 301022,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/4DceZ7xpWHNsqdhT4M3jtY"
@@ -3181,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Lay Down On Me",
+        "url": "https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lay Down On Me",
+      "url": "https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u"
+    },
+    {
+      "album": {
         "name": "Sadboy, Vol. 1",
         "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
@@ -3257,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/4onIaWbChJYDd3mbUON3FO"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165637,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/3kcep0cejbxbScTUQsQMCG"
+    },
+    {
+      "album": {
         "name": "Like Her Too",
         "url": "https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe"
       },
@@ -3326,7 +3398,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177760,
       "name": "LOML",
       "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
@@ -3416,7 +3488,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 185800,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
@@ -3772,7 +3844,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 160941,
       "name": "MET YOU AT A BAR",
       "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
@@ -3859,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -3892,7 +3982,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186870,
       "name": "My Eyes Will Dry",
       "url": "https://open.spotify.com/track/4YxOdOIpybIBjtN29LQZpO"
@@ -3928,7 +4018,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 127802,
       "name": "My Man",
       "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
@@ -4020,7 +4110,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 149538,
       "name": "NICE GIRLS",
       "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
@@ -4224,7 +4314,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 250462,
       "name": "Oh, Wait...",
       "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
@@ -4278,7 +4368,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 256924,
       "name": "One Night Stand",
       "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
@@ -4540,6 +4630,28 @@
       "duration_ms": 96860,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/0l3Q2N0Rn1Gzqc38KQvToO"
+    },
+    {
+      "album": {
+        "name": "PARADIGM",
+        "url": "https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        },
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31"
     },
     {
       "album": {
@@ -4830,6 +4942,28 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        },
+        {
+          "name": "Rai Anvio",
+          "url": "https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "RECKLESS",
+      "url": "https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e"
     },
     {
       "album": {
@@ -5193,6 +5327,32 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
+    },
+    {
+      "album": {
         "name": "Say What U Mean",
         "url": "https://open.spotify.com/album/0uAiFV7gQXyntZRXX71zZp"
       },
@@ -5332,6 +5492,28 @@
       "duration_ms": 165980,
       "name": "SIDE OF YOU",
       "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
+    },
+    {
+      "album": {
+        "name": "Silky Feels",
+        "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
+      },
+      "artists": [
+        {
+          "name": "Simona",
+          "url": "https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB"
+        },
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165423,
+      "name": "Silky Feels",
+      "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
     },
     {
       "album": {
@@ -6144,7 +6326,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 198000,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur"

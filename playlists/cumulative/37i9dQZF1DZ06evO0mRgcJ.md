@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 46 min
+70 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 | 2024-03-23 |  |
 | [NOS ACOPLAMOS MACIZO](https://open.spotify.com/track/6uCvstfQgLatfcz8y87W2x) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:46 | 2024-04-30 | 2024-05-22 |
 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 | 2024-01-29 |  |
-| [Paso Firme \- En Vivo](https://open.spotify.com/track/3rQpxXtTUcbm7v2YijjAYf) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [DUETOS "Made In Usa" \- En Vivo](https://open.spotify.com/album/4s5QyZNURcm6U5jKii3KQ0) | 3:36 | 2024-04-15 |  |
+| [Paso Firme \- En Vivo](https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [DUETOS "Made In Usa" \- En Vivo](https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t) | 3:36 | 2024-10-04 |  |
+| [Paso Firme \- En Vivo](https://open.spotify.com/track/3rQpxXtTUcbm7v2YijjAYf) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [DUETOS "Made In Usa" \- En Vivo](https://open.spotify.com/album/4s5QyZNURcm6U5jKii3KQ0) | 3:36 | 2024-04-15 | 2024-10-04 |
 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 | 2024-01-29 |  |
 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 | 2024-04-07 |  |
 | [Pistas Clandestinas](https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Edgar Quintero](https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr) | [Pistas Clandestinas](https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo) | 2:09 | 2024-03-18 |  |

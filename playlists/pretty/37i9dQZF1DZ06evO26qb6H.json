@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAAJqKVlkbb4blTfruLZAN1Z",
+  "snapshot_id": "ZvyNAAAAAACeTqinJEYZWjFRG4AmFuug",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 138680,
-      "name": "Same Niggas",
-      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+      "duration_ms": 61600,
+      "name": "Ride With Shordie",
+      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 61600,
-      "name": "Ride With Shordie",
-      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
+      "duration_ms": 138680,
+      "name": "Same Niggas",
+      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Offline III",
-        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
-      },
-      "artists": [
-        {
-          "name": "Chrystian Lehr",
-          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
-        },
-        {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 145210,
-      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
-      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 193000,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Offline III",
+        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
+      },
+      "artists": [
+        {
+          "name": "Chrystian Lehr",
+          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
+      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
     },
     {
       "added_at": null,

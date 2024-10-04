@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 276625,
       "name": "Beautiful Sunday",
       "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
@@ -5352,6 +5352,24 @@
       "duration_ms": 280586,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
+    },
+    {
+      "album": {
+        "name": "In The Void of All Things",
+        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
+      },
+      "artists": [
+        {
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200009,
+      "name": "In The Void of All Things",
+      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
     },
     {
       "album": {

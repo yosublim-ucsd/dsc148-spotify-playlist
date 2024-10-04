@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5nwxAowdUQSK1tuyVHD5lJ">Lisha G</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,720 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,813 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 54 | [MIRACLE](https://open.spotify.com/track/1nbSmoNfZU6CkAnWVnconN) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MIRACLE](https://open.spotify.com/album/0q1ixJGx0IsQgVj02EW2Sc) | 2:33 |
 | 55 | [Team Tomodachi](https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [Team Tomodachi](https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj) | 2:32 |
 | 56 | [FLU GAME](https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1) | [Rome HSB](https://open.spotify.com/artist/5cJixE9JvtFOwilPT0Soro) | [FLU GAME](https://open.spotify.com/album/5YZyhuui2Cd6fQRKlZ1feY) | 2:10 |
-| 57 | [Peaches and Herb](https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0BYalJxAfqJnKCX34Mw4e5) | [The Color Chocolate, Vol\. 1](https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr) | 3:01 |
+| 57 | [Peaches and Herb](https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/2laCU3QdOCsMbPKkRNiFTi) | [The Color Chocolate, Vol\. 1](https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr) | 3:01 |
 | 58 | [ICE COLD](https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev) | [Opal OD](https://open.spotify.com/artist/6t9ljQX4QGp8kwH7llR2dw) | [ICE COLD](https://open.spotify.com/album/0kY11UduFEWltlwEzsAov1) | 2:27 |
 | 59 | [Yukon Gold](https://open.spotify.com/track/4AhznCPwJC1rtmi5uHR9Km) | [Ché](https://open.spotify.com/artist/5T7ee6VL2z54vMk5MYxNNk) | [Yukon Gold](https://open.spotify.com/album/2SUnlUazK4vsJBOAwwE3Ia) | 3:23 |
 | 60 | [NOVEMBER 30TH](https://open.spotify.com/track/5BmlZGUu8Jq5tjZagXO3ff) | [Geechy](https://open.spotify.com/artist/5fmeR9y2YakPD9lb6bfIHW) | [ALWAYS REMEMBER GEECHY](https://open.spotify.com/album/5sH14ARnIaW9TADkEbDMNi) | 3:38 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 70 | [Cartoned Milk](https://open.spotify.com/track/6I4UFN0FjQgAiZqxySk7rw) | [RRoxket](https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS) | [Cartoned Milk](https://open.spotify.com/album/6ltZvbDPjEp5KUDeg6ZWfN) | 3:00 |
 | 71 | [You Look Good](https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [You Look Good](https://open.spotify.com/album/7jlwccXiTUzBAeg3n339Ic) | 2:26 |
 | 72 | [Bougie Hoes](https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [A Reaper's Ceremony](https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw) | 2:48 |
-| 73 | [Two 15's](https://open.spotify.com/track/6wJ1aBcC5GLh5ZwYwLCzHD) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Two 15's](https://open.spotify.com/album/5jfszowQGSObMIhHOoOAGV) | 3:25 |
+| 73 | [Two 15's \(feat\. Raq baby\)](https://open.spotify.com/track/6wJ1aBcC5GLh5ZwYwLCzHD) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Two 15's \(feat\. Raq baby\)](https://open.spotify.com/album/5jfszowQGSObMIhHOoOAGV) | 3:25 |
 | 74 | [Metamorphosis](https://open.spotify.com/track/7dZ6blFv8nY9zBCzusS8uA) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Metamorphosis](https://open.spotify.com/album/3wlXdkFn2Sx8XKZJxhsKdH) | 3:40 |
 | 75 | [Time Machine](https://open.spotify.com/track/7HMWkY3Zg7hRnUVTv8P474) | [saveaj](https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv) | [Out Of Control](https://open.spotify.com/album/2xk5ecVjWpKxeqcQi8zzaY) | 2:08 |
 

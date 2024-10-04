@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Cover: Achille Lauro
+> I brani italiani che abbiamo on repeat! 🔁 Cover: Cesare Cremonini
 
-92 songs - 4 hr 40 min
+95 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Festa Totale](https://open.spotify.com/track/4iNEQbRbTupwcg6rq7GuuU) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Festa Totale](https://open.spotify.com/album/1pFeLYpEpwFbseYoQwA7QT) | 2:31 | 2024-07-01 | 2024-09-13 |
 | [Fino al Blackout](https://open.spotify.com/track/3wcwQwRNqdSmQwmgXYFFQb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Fino al Blackout](https://open.spotify.com/album/07IMbmQoLqaTH4zgLi4Fof) | 2:40 | 2024-07-01 | 2024-07-05 |
 | [FUOCO DI PAGLIA ঌ \(con Marco Mengoni, Frah Quintale, Gemitaiz\)](https://open.spotify.com/track/3ybXr8SkOEVUhtKFb8lYwe) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:24 | 2024-07-01 | 2024-09-03 |
-| [Galassie](https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Galassie](https://open.spotify.com/album/0ZRjzNH0qbMEC5KHCODt27) | 3:39 | 2024-07-01 |  |
+| [Galassie](https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Galassie](https://open.spotify.com/album/0ZRjzNH0qbMEC5KHCODt27) | 3:39 | 2024-07-01 | 2024-10-04 |
 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 | 2024-09-26 |  |
 | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/track/0VHXkwgvHRKOc7OF2l8mLo) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/album/3LKO4DYCqGjhVcrhH6949F) | 2:51 | 2024-09-19 |  |
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 |  |
@@ -51,10 +51,10 @@
 | [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 | 2024-08-02 |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-07-18 | 2024-08-02 |
 | [LINGERIE](https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [LINGERIE](https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0) | 2:23 | 2024-09-12 |  |
-| [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 | 2024-08-22 |  |
+| [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 | 2024-08-22 | 2024-10-04 |
 | [LOVE U / HATE U](https://open.spotify.com/track/4fRBih3IcHURUrTTgSbkEU) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [LOVE U / HATE U](https://open.spotify.com/album/0Tu7GjmRagzlelhnLXLtZz) | 3:03 | 2024-07-01 | 2024-09-27 |
 | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/track/21NYfIzdx54csIcKIYHKaW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/album/2WgFP0w2qFvkJJUfhFhDKS) | 3:06 | 2024-07-01 | 2024-07-05 |
-| [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-07-01 |  |
+| [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-07-01 | 2024-10-04 |
 | [MALE DA VENDERE](https://open.spotify.com/track/0upKqTnhLIUUafluo1Hdm4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:06 | 2024-09-19 |  |
 | [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-07-01 | 2024-09-20 |
 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 | 2024-07-01 | 2024-09-13 |
@@ -94,11 +94,14 @@
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 | 2024-09-27 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-07-01 |  |
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
+| [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 |  |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-07-01 |  |
+| [Tornado](https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tornado](https://open.spotify.com/album/0L6R6QRvA7TjB9XA53aMUu) | 2:43 | 2024-10-03 |  |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-07-01 | 2024-07-27 |
 | [uguale a me \(feat\. Marco Mengoni\)](https://open.spotify.com/track/3eabpzStQsPOmhcrUjVkNq) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 3:04 | 2024-07-01 | 2024-08-20 |
 | [Una Notte](https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ) | [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Una Notte](https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S) | 2:50 | 2024-07-18 | 2024-08-20 |
 | [Vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-07-01 |  |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-07-01 | 2024-09-06 |
+| [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

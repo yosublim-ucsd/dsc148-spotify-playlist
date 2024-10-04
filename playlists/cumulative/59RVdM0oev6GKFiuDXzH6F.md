@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-731 songs - 1 day 12 hr 39 min
+732 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 |  |
 | [Free](https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo) | [Wildcard \(US\)](https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr) | [Free](https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ) | 3:30 | 2024-05-24 | 2024-09-26 |
 | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [DAIJAH](https://open.spotify.com/artist/1slMspXp4UdnAyQbkbgJJ9) | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO) | 2:48 | 2023-02-12 | 2023-04-13 |
+| [Free Your Mind](https://open.spotify.com/track/2kYWI4tyVrFvh3XIXTHVhd) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w) | [Free Your Mind](https://open.spotify.com/album/4hub8pUiQAnKLXIHQ60wtU) | 2:44 | 2024-10-03 |  |
 | [Fuego](https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Fuego](https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc) | 2:17 | 2024-04-03 | 2024-04-13 |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-01-26 | 2024-09-26 |
 | [Get Get Down](https://open.spotify.com/track/3TMb7QD4W1mN5UD41zLurG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6) | [Get Get Down](https://open.spotify.com/album/1Qs4DpLrl9Wdpgzykr6esW) | 2:43 | 2023-04-14 | 2023-12-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Side Baby in cover della playlist con il top dello street rap italiano \ud83d\udd25 ",
+  "description": "Tony Boy in cover della playlist con il top dello street rap italiano \ud83d\udd25 ",
   "name": "Street Culto",
   "tracks": [
     {
@@ -933,6 +933,36 @@
     },
     {
       "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/579OpjO7wqx6uJOWclCmlY"
+      },
+      "artists": [
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/39B0ENqezVhqQNBY6zdXGl"
+    },
+    {
+      "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
@@ -1508,7 +1538,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 139200,
       "name": "AVVOCATO (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
@@ -3667,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "CONNESSIONI",
+        "url": "https://open.spotify.com/album/3QkywTts6ZTydkQb0ckFnQ"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136614,
+      "name": "CONNESSIONI",
+      "url": "https://open.spotify.com/track/3226Ic03UZOn0B6tpIdkHV"
+    },
+    {
+      "album": {
         "name": "Connexion",
         "url": "https://open.spotify.com/album/3bPPFbT0uMsq5Ma3IoeCUI"
       },
@@ -4046,7 +4094,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 143406,
       "name": "Denaro (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/2SEAbXqFtdTwkzgAb5Ci80"
@@ -7582,7 +7630,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 149411,
       "name": "Malade (feat. Rhove)",
       "url": "https://open.spotify.com/track/7cLObn8PopM3fAD7NqEo6v"
@@ -7947,6 +7995,28 @@
     },
     {
       "album": {
+        "name": "9K",
+        "url": "https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137957,
+      "name": "Mercedes (feat. Papa V)",
+      "url": "https://open.spotify.com/track/4xLBViRSAqsg0zK8xUl23o"
+    },
+    {
+      "album": {
         "name": "Messina Denaro (feat. Sapobully)",
         "url": "https://open.spotify.com/album/1ax9vzC4s5alEjiZCseYh8"
       },
@@ -8284,6 +8354,36 @@
       "duration_ms": 194250,
       "name": "Mocro Mafia (feat. Maes)",
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
+    },
+    {
+      "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Hani",
+          "url": "https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277647,
+      "name": "MOCRO SCHOOL (feat. Yunes LaGrintaa, Hani, Kassimi)",
+      "url": "https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4"
     },
     {
       "album": {
@@ -8858,7 +8958,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147599,
       "name": "NO EX (feat. Paky)",
       "url": "https://open.spotify.com/track/3QPlXypNboN7q32K1IuQ9v"
@@ -9118,7 +9218,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 134306,
       "name": "NU PARL, NU SENT, NU VEC",
       "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
@@ -11600,6 +11700,28 @@
       "duration_ms": 156479,
       "name": "Spedizione punitiva",
       "url": "https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF"
+    },
+    {
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "SPENDERE (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
     },
     {
       "album": {

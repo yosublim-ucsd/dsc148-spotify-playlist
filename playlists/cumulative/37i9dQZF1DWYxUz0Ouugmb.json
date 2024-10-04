@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Satine Zaneta",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Rizwan Fadilah",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -3652,6 +3652,24 @@
       "duration_ms": 212205,
       "name": "Tanpa Bicara",
       "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
+    },
+    {
+      "album": {
+        "name": "Tanpa Bicara (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6k86SYxKHyaPsnB0gRv8ll"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Tanpa Bicara - Acoustic Version",
+      "url": "https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP"
     },
     {
       "album": {

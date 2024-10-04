@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Clairo ",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Ganso",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168124,
       "name": "BAZAR PARA CASA",
       "url": "https://open.spotify.com/track/0jxVhnDDxEVujTVPKxNphe"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
@@ -334,6 +334,24 @@
       "duration_ms": 250973,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00e3o de \u00e1guas mil",
+        "url": "https://open.spotify.com/album/2mf1hnQvz6QWP3pfcfTFZU"
+      },
+      "artists": [
+        {
+          "name": "Samuel \u00daria",
+          "url": "https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238055,
+      "name": "Can\u00e7\u00e3o de \u00e1guas mil",
+      "url": "https://open.spotify.com/track/6aBlpwwH4QK1val0g6FDUe"
     },
     {
       "album": {
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 143318,
       "name": "ESTA SENSA\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/6tF8V6cyGqFLj3FCBzHQ3O"
@@ -680,6 +698,28 @@
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "album": {
+        "name": "Fetiche Fon\u00e9tico",
+        "url": "https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy"
+      },
+      "artists": [
+        {
+          "name": "Ganso",
+          "url": "https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E"
+        },
+        {
+          "name": "Le Feste Antonacci",
+          "url": "https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268613,
+      "name": "Fetiche Fon\u00e9tico",
+      "url": "https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV"
     },
     {
       "album": {
@@ -919,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -1024,7 +1082,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
@@ -1285,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Lotus Eater",
+        "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -1336,10 +1412,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 197666,
       "name": "Marcha \u00e0 R\u00e9",
       "url": "https://open.spotify.com/track/4bgGTpJob4tkIq6SOfBdXL"
+    },
+    {
+      "album": {
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "album": {
@@ -1563,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Off Guard",
+        "url": "https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Off Guard",
+      "url": "https://open.spotify.com/track/4vXbgOoOD7svV1A7f8Levf"
+    },
+    {
+      "album": {
         "name": "Oji \u00e9 Oji",
         "url": "https://open.spotify.com/album/0DKT9xaRe0hniEsTX1nDlV"
       },
@@ -1632,7 +1752,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 159914,
       "name": "Porque N\u00e3o Dan\u00e7as",
       "url": "https://open.spotify.com/track/3MwPeBmUfcyjDDCaiKBTrN"
@@ -2172,7 +2292,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 170466,
       "name": "Time Well Wasted",
       "url": "https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS"
@@ -2278,7 +2398,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
@@ -2334,6 +2454,24 @@
       "duration_ms": 179374,
       "name": "Vem",
       "url": "https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop"
+    },
+    {
+      "album": {
+        "name": "VEM C\u00c1",
+        "url": "https://open.spotify.com/album/0h4tfuL7Eo5KWk4oOngYB8"
+      },
+      "artists": [
+        {
+          "name": "IN\u00caS APENAS",
+          "url": "https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163868,
+      "name": "VEM C\u00c1",
+      "url": "https://open.spotify.com/track/4U2BWOlHeTSgfNL4xFpt6B"
     },
     {
       "album": {
@@ -2406,7 +2544,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 198073,
       "name": "\u00c9 da Cabe\u00e7a",
       "url": "https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Achille Lauro",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Cesare Cremonini",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 219660,
       "name": "Galassie",
       "url": "https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 260927,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 166725,
       "name": "MALAVITA",
       "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Tacchi (fra le dita)",
+        "url": "https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Tacchi (fra le dita)",
+      "url": "https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488"
+    },
+    {
+      "album": {
         "name": "Torcida",
         "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
       },
@@ -1768,6 +1786,24 @@
       "duration_ms": 174628,
       "name": "Torcida",
       "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/0L6R6QRvA7TjB9XA53aMUu"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv"
     },
     {
       "album": {
@@ -1870,6 +1906,24 @@
       "duration_ms": 198740,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi"
+    },
+    {
+      "album": {
+        "name": "SOUVENIR (Extended Edition)",
+        "url": "https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130521,
+      "name": "VITA LENTA",
+      "url": "https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b"

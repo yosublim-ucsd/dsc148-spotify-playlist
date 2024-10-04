@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 20677,
+  "num_followers": 20702,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAA7l3rMDRreHNgcNcNyXGYf",
+  "snapshot_id": "ZvyNAAAAAACFEI49XLsTNAQbwa6D7UDS",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "I\u2019m The Shit",
+      "url": "https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "I\u2019m The Shit",
-      "url": "https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "U Kno What To Do (UKWTD)",
+        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 117097,
+      "name": "Clouted Up",
+      "url": "https://open.spotify.com/track/0L4ar279c2jy2bPg9WAcsi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bow Bow Bow (F My Baby Dad)",
         "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 84768,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U Kno What To Do (UKWTD)",
-        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 117097,
-      "name": "Clouted Up",
-      "url": "https://open.spotify.com/track/0L4ar279c2jy2bPg9WAcsi"
     },
     {
       "added_at": null,

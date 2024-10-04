@@ -1,12 +1,12 @@
 {
-  "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 82230,
+  "description": "This Is Zona Ganjah. Los temas esenciales, todos en una lista.",
+  "num_followers": 82246,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAALQY8oZNFnuwn3VsI0t7LT",
+  "snapshot_id": "ZvyNAAAAAAC3zjiNN7SWesH7PAJ0PGZj",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 260746,
-      "name": "Qu\u00e9 pasa contigo",
-      "url": "https://open.spotify.com/track/4HkR0w45bfzE8ueycZMhCG"
+      "duration_ms": 183080,
+      "name": "Todo comenz\u00f3",
+      "url": "https://open.spotify.com/track/4TEERAyxacIcXGaEinMEco"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Todo comenz\u00f3",
-      "url": "https://open.spotify.com/track/4TEERAyxacIcXGaEinMEco"
+      "duration_ms": 260746,
+      "name": "Qu\u00e9 pasa contigo",
+      "url": "https://open.spotify.com/track/4HkR0w45bfzE8ueycZMhCG"
     },
     {
       "added_at": null,

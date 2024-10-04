@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-583 songs - 1 day 1 hr 30 min
+584 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [What Is Love](https://open.spotify.com/track/1tmXZJaq0HlT17l4SWPlKY) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [What Is Love](https://open.spotify.com/album/4HrhnO5TAZrbbuIwX1bxVP) | 2:26 | 2024-06-24 |  |
 | [What We Found](https://open.spotify.com/track/7zyIeme5grGkInU0nizU0i) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [What We Found](https://open.spotify.com/album/7rYGBAwBSE2LIcTH0mpPqx) | 3:08 | 2024-02-02 | 2024-05-13 |
 | [What We Started](https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [What We Started](https://open.spotify.com/album/4uq0IbSNNaY2IbPE9oatns) | 2:31 | 2024-09-05 |  |
+| [When The Beat Drops Out](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [When The Beat Drops Out](https://open.spotify.com/album/5BLj4vYsELaoM95lOU2Ogg) | 2:24 | 2024-10-03 |  |
 | [When Tomorrow Comes](https://open.spotify.com/track/5yHxG2tJuvjhp9OLodQI8k) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [When Tomorrow Comes](https://open.spotify.com/album/1VHPLsguIyg5fQSiD4P0o3) | 2:28 | 2024-06-30 | 2024-08-05 |
 | [When You Say Nothing At All](https://open.spotify.com/track/0QHaoHqQjO5mOnQS0J4Siq) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [When You Say Nothing At All](https://open.spotify.com/album/67zfrviWrmvLtJYSv78qAd) | 2:28 | 2024-07-13 | 2024-08-08 |
 | [Where Did You Go](https://open.spotify.com/track/7IgtNA3fFMnTHD0ZluzBOi) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Where Did You Go](https://open.spotify.com/album/2i7RzsHlqxeOg9am4xUYzg) | 2:31 | 2024-09-29 |  |

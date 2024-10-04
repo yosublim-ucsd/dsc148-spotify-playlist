@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 192000,
       "name": "Angel Aura",
       "url": "https://open.spotify.com/track/1n8HTuYxZ7h31ks4LCUvCN"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 139836,
       "name": "Before I Let You Go (feat. MarcLo)",
       "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
@@ -3277,6 +3277,32 @@
     },
     {
       "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },
@@ -3374,6 +3400,28 @@
       "duration_ms": 226614,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/40kDqFtIbdnl5gkJTax0EY"
+    },
+    {
+      "album": {
+        "name": "Break The House Down",
+        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "Break The House Down",
+      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
       "album": {
@@ -5146,7 +5194,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -6324,6 +6372,24 @@
       "duration_ms": 119252,
       "name": "Do You Ever Think Of Me",
       "url": "https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK"
+    },
+    {
+      "album": {
+        "name": "do you mind",
+        "url": "https://open.spotify.com/album/3j3msVEcebruIS881vYsy1"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227590,
+      "name": "do you mind",
+      "url": "https://open.spotify.com/track/6ZJntmvH0y8JV1KkzDmLRe"
     },
     {
       "album": {
@@ -7656,7 +7722,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 264960,
       "name": "Ethernal",
       "url": "https://open.spotify.com/track/67UOBhv3Ak7FUCHLZ4nSeg"
@@ -7716,6 +7782,24 @@
       "duration_ms": 212812,
       "name": "Everglow",
       "url": "https://open.spotify.com/track/5xvfOWlRqjY2GyDo7Vl7sT"
+    },
+    {
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 33 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4FsporRoDDvNkuv1jbMfTV"
+      },
+      "artists": [
+        {
+          "name": "Newmode",
+          "url": "https://open.spotify.com/artist/3v1ZN24fzav4YCwT0mYFQc"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Everybody Else",
+      "url": "https://open.spotify.com/track/53SAL2QQRiKo5pdY9fTZFz"
     },
     {
       "album": {
@@ -8992,7 +9076,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 237160,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
@@ -9786,6 +9870,24 @@
       "duration_ms": 208680,
       "name": "Friday",
       "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "album": {
@@ -11164,6 +11266,24 @@
       "duration_ms": 182886,
       "name": "Heaven Help Us Now",
       "url": "https://open.spotify.com/track/2SgpJTMzbnYJTTY5eF7e7z"
+    },
+    {
+      "album": {
+        "name": "Heaven Is Calling",
+        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
     },
     {
       "album": {
@@ -15292,7 +15412,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210000,
       "name": "Live In It",
       "url": "https://open.spotify.com/track/4EkUQ6nX6jXq8XcWwBf4CL"
@@ -18635,6 +18755,36 @@
     },
     {
       "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/1dCh75iEZxUHLrXH5TH8D5"
+      },
+      "artists": [
+        {
+          "name": "TIANBO",
+          "url": "https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv"
+        },
+        {
+          "name": "Lind",
+          "url": "https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf"
+        },
+        {
+          "name": "Indicate",
+          "url": "https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv"
+        },
+        {
+          "name": "Melissa Lamm",
+          "url": "https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164628,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/5CkBf0VwcR2cqfmoJuPAUE"
+    },
+    {
+      "album": {
         "name": "Nitelife",
         "url": "https://open.spotify.com/album/3Rbuv00fXIX1WoDk0T7V5N"
       },
@@ -20211,6 +20361,28 @@
     },
     {
       "album": {
+        "name": "Only At 4 AM",
+        "url": "https://open.spotify.com/album/7lmJhc0eIMvfMG4NF0zc5b"
+      },
+      "artists": [
+        {
+          "name": "MarshallYU",
+          "url": "https://open.spotify.com/artist/68wVN92QinmN9C7c07BzXq"
+        },
+        {
+          "name": "Uncle Ciao",
+          "url": "https://open.spotify.com/artist/7EOdI3hqzSbiq00OHH3JX4"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128085,
+      "name": "Only At 4 AM",
+      "url": "https://open.spotify.com/track/2sYl9Wemi9VGIQ9rhGDc7d"
+    },
+    {
+      "album": {
         "name": "Only God Knows",
         "url": "https://open.spotify.com/album/6B6o64fBRzC3IiIfJdzs8I"
       },
@@ -20966,7 +21138,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 138773,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw"
@@ -25716,7 +25888,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 133333,
       "name": "Teenage Crime",
       "url": "https://open.spotify.com/track/5fusHmFCPhaiGcEVigKGL4"
@@ -26238,7 +26410,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155147,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
@@ -27654,6 +27826,46 @@
       "duration_ms": 154349,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/7azjoajTBeaRYTB27wohJm"
+      },
+      "artists": [
+        {
+          "name": "Ola Martin",
+          "url": "https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b"
+        },
+        {
+          "name": "Takaya Saito",
+          "url": "https://open.spotify.com/artist/69UtrekhEiweOuL0xF7LHn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160952,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3XytShaC2dvW0FkEstYh9Q"
+    },
+    {
+      "album": {
+        "name": "Uproar in Heaven",
+        "url": "https://open.spotify.com/album/0ZaabdxzZo9lqxQTJhzdvm"
+      },
+      "artists": [
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Uproar in Heaven",
+      "url": "https://open.spotify.com/track/2ngVR8Sws5hXptI3VqJmn8"
     },
     {
       "album": {
@@ -29764,7 +29976,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155500,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16"
@@ -30318,6 +30530,28 @@
       "duration_ms": 211875,
       "name": "You Are My Home",
       "url": "https://open.spotify.com/track/3KXLcrnmME6CvUlegIoCkC"
+    },
+    {
+      "album": {
+        "name": "You Are The Reason",
+        "url": "https://open.spotify.com/album/28s1DHh7j37MH1h4cRNtAt"
+      },
+      "artists": [
+        {
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+        },
+        {
+          "name": "Daniel Sid",
+          "url": "https://open.spotify.com/artist/3I4pxD6ShB0V3yiyORZh1J"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/6bstvloxQrT6zF4Yhv2ERu"
     },
     {
       "album": {

@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 147399,
-      "name": "carta a mi pap\u00e1",
-      "url": "https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7"
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 150902,
-      "name": "para siempre(\uff61>\ufe4f<)",
-      "url": "https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K"
+      "duration_ms": 147399,
+      "name": "carta a mi pap\u00e1",
+      "url": "https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 192244,
+      "name": "Centenas De Miles De A\u00f1os",
+      "url": "https://open.spotify.com/track/6o6CC4MPOoU9WXN1zEoX4A"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
         "name": "Queena",
         "url": "https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 245454,
       "name": "Queena",
       "url": "https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "Centenas De Miles De A\u00f1os",
-      "url": "https://open.spotify.com/track/6o6CC4MPOoU9WXN1zEoX4A"
     },
     {
       "added_at": "2024-09-04 03:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-04 03:00:00",
       "album": {
-        "name": "Un Recuerdo",
-        "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
-      },
-      "artists": [
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        }
-      ],
-      "duration_ms": 196624,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
-    },
-    {
-      "added_at": "2024-09-04 03:00:00",
-      "album": {
         "name": "...M\u00e1s Canciones De Amor",
         "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 184104,
       "name": "Te Solt\u00e9",
       "url": "https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO"
+    },
+    {
+      "added_at": "2024-09-04 03:00:00",
+      "album": {
+        "name": "Un Recuerdo",
+        "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        }
+      ],
+      "duration_ms": 196624,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
     }
   ],
   "unique_name": "EQUAL Chile",

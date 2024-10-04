@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "For your daily dosis of music with an Indie twist. Cover: Bon Iver",
+  "description": "All new music with an Indie twist. Cover: Pitou, LUWTEN & Naaz",
   "name": "A Shot Of Indie",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 153637,
       "name": "2008",
       "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
     },
     {
       "album": {
@@ -74,6 +92,24 @@
       "duration_ms": 205263,
       "name": "Add Up My Love",
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 244733,
       "name": "Baby Blue Movie",
       "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
@@ -222,6 +258,24 @@
       "duration_ms": 197000,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/4cOoQ3HjF2bwnDOJvhxOKg"
+    },
+    {
+      "album": {
+        "name": "Wolves EP",
+        "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
+      },
+      "artists": [
+        {
+          "name": "Hydrogen Sea",
+          "url": "https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146786,
+      "name": "Birds Of Paradise",
+      "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
     },
     {
       "album": {
@@ -274,6 +328,24 @@
       "duration_ms": 260980,
       "name": "BREAK FREE",
       "url": "https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo"
+    },
+    {
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "Brick Houses",
+      "url": "https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho"
     },
     {
       "album": {
@@ -472,6 +544,32 @@
       "duration_ms": 195120,
       "name": "Dancing in the Dirt",
       "url": "https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik"
+    },
+    {
+      "album": {
+        "name": "Deep Pockets",
+        "url": "https://open.spotify.com/album/6XSDmUnYftSODl4jmx4NZ1"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        },
+        {
+          "name": "LUWTEN",
+          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184096,
+      "name": "Deep Pockets",
+      "url": "https://open.spotify.com/track/3BEm7hQH2B7gnz8Utcu2L2"
     },
     {
       "album": {
@@ -717,6 +815,24 @@
     },
     {
       "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "album": {
         "name": "Give It Back to Me",
         "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
       },
@@ -912,7 +1028,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 138952,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/5V8vO1h5HJAcwt1INaK4LA"
@@ -1002,7 +1118,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 229737,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/1v8ciwOzwSSaZYDW5jXgEr"
@@ -1042,6 +1158,24 @@
       "duration_ms": 342680,
       "name": "Into Gold",
       "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
+    },
+    {
+      "album": {
+        "name": "It Happens Either Way",
+        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212522,
+      "name": "It Happens Either Way",
+      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
     },
     {
       "album": {
@@ -1128,7 +1262,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 248344,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
@@ -1164,7 +1298,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188478,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
@@ -1207,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Lose Myself",
+        "url": "https://open.spotify.com/album/6pSh0WsivEGbF1utMlDBSN"
+      },
+      "artists": [
+        {
+          "name": "\u00c1slaug",
+          "url": "https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0NgxNRkuEfytKKf89f12h9"
+    },
+    {
+      "album": {
         "name": "Lost in Some Dream",
         "url": "https://open.spotify.com/album/0qpe8DnGxrth4rWMeMcMs1"
       },
@@ -1218,7 +1370,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 207070,
       "name": "Lost in Some Dream",
       "url": "https://open.spotify.com/track/5800FfpvzRObVCdIYOrDtJ"
@@ -1366,7 +1518,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 191000,
       "name": "Musings",
       "url": "https://open.spotify.com/track/2SOjODF7m0dUSJy8cDpfX5"
@@ -1456,7 +1608,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 312464,
       "name": "No Boat No Aeroplane",
       "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
@@ -1496,6 +1648,24 @@
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
+    },
+    {
+      "album": {
+        "name": "Peaceful Now",
+        "url": "https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN"
+      },
+      "artists": [
+        {
+          "name": "Shishani",
+          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Peaceful Now",
+      "url": "https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE"
     },
     {
       "album": {
@@ -1838,7 +2008,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174586,
       "name": "Stuff I Don't Need",
       "url": "https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq"
@@ -1986,7 +2156,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 196990,
       "name": "Tall Now",
       "url": "https://open.spotify.com/track/6IHjhm7Rxoe5iErq7yUbQ4"
@@ -2105,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "The Rules",
+        "url": "https://open.spotify.com/album/6ixQBPjQSxlp1ITpzyzTHj"
+      },
+      "artists": [
+        {
+          "name": "Plume",
+          "url": "https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209823,
+      "name": "The Rules",
+      "url": "https://open.spotify.com/track/7KaxdBwLy3WaZHOaZQwaw2"
+    },
+    {
+      "album": {
         "name": "The Word Love",
         "url": "https://open.spotify.com/album/4hRb6avbpjaTGRmMEKQHvY"
       },
@@ -2170,7 +2358,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154958,
       "name": "tired",
       "url": "https://open.spotify.com/track/7fTN1weFWy0iOSat8nILIs"
@@ -2192,6 +2380,24 @@
       "duration_ms": 184312,
       "name": "Underground",
       "url": "https://open.spotify.com/track/34NlD5bQB7Z7UgGHiI4lZh"
+    },
+    {
+      "album": {
+        "name": "Wake Up With You (WUWU)",
+        "url": "https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU"
+      },
+      "artists": [
+        {
+          "name": "Mood Bored",
+          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189489,
+      "name": "Wake Up With You (WUWU)",
+      "url": "https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC"
     },
     {
       "album": {

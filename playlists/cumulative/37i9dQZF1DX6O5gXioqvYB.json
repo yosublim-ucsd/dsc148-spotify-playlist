@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Rondine",
+  "description": "La nuova scena indie italiana! Cover: Delicatoni",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "ATTACCHI DI PANICO",
+        "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
+      },
+      "artists": [
+        {
+          "name": "Ciliari",
+          "url": "https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "ATTACCHI DI PANICO",
+      "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75"
       },
@@ -294,6 +312,24 @@
       "duration_ms": 193219,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6"
+    },
+    {
+      "album": {
+        "name": "Bagno",
+        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
+      },
+      "artists": [
+        {
+          "name": "Tutto Piange",
+          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276521,
+      "name": "Bagno",
+      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
     },
     {
       "album": {
@@ -380,7 +416,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
@@ -1991,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Pennette alla vodka",
+        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+      },
+      "artists": [
+        {
+          "name": "L'operazione Camarillo",
+          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181191,
+      "name": "Pennette alla vodka",
+      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+    },
+    {
+      "album": {
         "name": "ROCCASECCA",
         "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 212000,
       "name": "Raccontarsi favole",
       "url": "https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah"
@@ -2403,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Se non passasse aria",
+        "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202793,
+      "name": "Se non passasse aria",
+      "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
+    },
+    {
+      "album": {
         "name": "Se voglio salvarmi la vita",
         "url": "https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd"
       },
@@ -2537,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Sott'acqua",
+        "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
+      },
+      "artists": [
+        {
+          "name": "FREN\u00c8SYA",
+          "url": "https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW"
+        },
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Sott'acqua",
+      "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
+    },
+    {
+      "album": {
         "name": "SOTTOCASSA",
         "url": "https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi"
       },
@@ -2610,7 +2704,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 183555,
       "name": "Sto impazzendo (piangi) (feat. Atarde)",
       "url": "https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC"
@@ -2938,7 +3032,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184687,
       "name": "Vocine",
       "url": "https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq"

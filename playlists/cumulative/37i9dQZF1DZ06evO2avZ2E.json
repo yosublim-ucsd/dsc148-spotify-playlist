@@ -894,6 +894,32 @@
     {
       "album": {
         "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
+      },
+      "artists": [
+        {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
+    },
+    {
+      "album": {
+        "name": "RESISTOL +",
         "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
       },
       "artists": [

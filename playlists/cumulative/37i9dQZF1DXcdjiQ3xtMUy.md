@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Elena Tsagrinou
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: LILA
 
-78 songs - 4 hr 3 min
+79 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Eimai Gunaika](https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Eimai Gunaika](https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu) | 2:42 | 2024-07-11 | 2024-09-27 |
 | [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 | 2024-06-27 |  |
 | [Eisai Arrostia Megali](https://open.spotify.com/track/2B6VyDw2eA81pHbAeaGDcl) | [Titos](https://open.spotify.com/artist/6aY3YOhrxa0IvDoRhta5oJ), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Eisai Arrostia Megali](https://open.spotify.com/album/5zjGTOt4Zi7yZRS4lO5tFn) | 3:04 | 2024-06-27 | 2024-07-12 |
-| [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 | 2024-06-27 |  |
+| [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 | 2024-06-27 | 2024-10-04 |
 | [Exeis Ta Matia 2024](https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0) | [Thelxi](https://open.spotify.com/artist/7s6h5FkIxQL153eAozGzM7), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Exeis Ta Matia 2024](https://open.spotify.com/album/7lXjuneALZsQQfsfaKdiwH) | 2:46 | 2024-07-11 |  |
 | [Fila Me](https://open.spotify.com/track/6EWfSOVJHs4Jv5V2wgFK6v) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Fila Me](https://open.spotify.com/album/3JhnLN305EH7tFbHCvwIwE) | 3:29 | 2024-06-27 |  |
 | [FLX](https://open.spotify.com/track/5BGsV1OzGDMvtu15TC0fFU) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [FLX](https://open.spotify.com/album/7uLuTUvHNihuuKhZd7yGdO) | 2:24 | 2024-06-27 | 2024-09-27 |
@@ -60,6 +60,7 @@
 | [Oute Ligo](https://open.spotify.com/track/70p1lyvyuFmWtX2ia1SxJJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Oute Ligo](https://open.spotify.com/album/2eNJFF5e7TT1ZVnxZIB6EB) | 2:33 | 2024-07-18 |  |
 | [OXI \- 2024 Edition](https://open.spotify.com/track/22ZJ6ckRr5G0EaMt5gwwUC) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [OXI \(2024 Edition\)](https://open.spotify.com/album/7FWNkIXb1Am6oXzs82cH3X) | 3:45 | 2024-06-27 |  |
 | [Panselinos](https://open.spotify.com/track/230Aews21zrVVeaebAndZG) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Panselinos](https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32) | 2:51 | 2024-06-27 |  |
+| [Paramilas](https://open.spotify.com/track/1lsGFSLF0dwnxUxCprXenV) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD) | [Paramilas](https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx) | 3:37 | 2024-10-03 |  |
 | [Party](https://open.spotify.com/track/3E5i4Ys2tHx1WxjvCaVu4K) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Party](https://open.spotify.com/album/6e2lLFF8WN5gjiRJUku0Kf) | 3:19 | 2024-07-04 |  |
 | [Pername Kala](https://open.spotify.com/track/6ejWG2DmnyS3EVMN3UPzCB) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Pername Kala](https://open.spotify.com/album/3vfD6Z5qDjZF8n341CxRoS) | 3:21 | 2024-06-27 |  |
 | [Pirotehnimata \- Playmen Remix](https://open.spotify.com/track/0MCyMfoKFcYfyguoKGiQsM) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c) | [Party All The Time](https://open.spotify.com/album/1kKUHmU1lLQTerGmxyA04Z) | 4:47 | 2024-07-04 |  |

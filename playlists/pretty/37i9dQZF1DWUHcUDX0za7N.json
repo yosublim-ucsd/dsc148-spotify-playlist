@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ladipoe",
-  "num_followers": 55272,
+  "num_followers": 55313,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
-      },
-      "artists": [
-        {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 167142,
       "name": "Showcase (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
     },
     {
       "added_at": "2024-09-27 05:12:15",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
         "name": "Lifestyle (feat. Pheelz)",
         "url": "https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 175689,
       "name": "Lifestyle (feat. Pheelz)",
       "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
       "added_at": "2024-09-27 05:12:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-09-27 05:12:15",
       "album": {
-        "name": "Jumpin Bumpin",
-        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Jumpin Bumpin",
-      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
-    },
-    {
-      "added_at": "2024-09-27 05:12:15",
-      "album": {
         "name": "Belong to You",
         "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+    },
+    {
+      "added_at": "2024-09-27 05:12:15",
+      "album": {
+        "name": "Jumpin Bumpin",
+        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Jumpin Bumpin",
+      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
     },
     {
       "added_at": "2024-09-27 05:12:15",

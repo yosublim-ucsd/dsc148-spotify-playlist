@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Olly, Angelina Mango",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Anzj",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 169476,
       "name": "3 Metri Sopra Il Cielo",
       "url": "https://open.spotify.com/track/4nrB8mq4yLFIq7aQ5JmP6x"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 191688,
       "name": "Autostrada",
       "url": "https://open.spotify.com/track/3kQ1IyFY6LEjjoLCl9rInQ"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 148775,
       "name": "Converse / Nike (feat.Tancredi)",
       "url": "https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174666,
       "name": "DESNUDA",
       "url": "https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188000,
       "name": "GLI ZOMBIE DELLA NOTTE",
       "url": "https://open.spotify.com/track/0zwovJ1ZxCaIkAGil34QiD"
@@ -4552,7 +4552,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 191500,
       "name": "LA VITA NON UCCIDE",
       "url": "https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC"
@@ -4842,7 +4842,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164000,
       "name": "luci dell'autostrada",
       "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
@@ -6056,7 +6056,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168000,
       "name": "Nonostante te",
       "url": "https://open.spotify.com/track/38ZeOiXbQJsmuTBTLyOfH6"
@@ -6400,7 +6400,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 166950,
       "name": "OSSIDIANA",
       "url": "https://open.spotify.com/track/2ll9xrio2Xg0xoyDqDj8zX"
@@ -6740,6 +6740,24 @@
       "duration_ms": 216000,
       "name": "Per starci in due",
       "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "album": {
+        "name": "illumina",
+        "url": "https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156189,
+      "name": "PER UN ATTIMO CON TE",
+      "url": "https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI"
     },
     {
       "album": {
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164733,
       "name": "QUE PASA",
       "url": "https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO"
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 170322,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh"
@@ -7774,7 +7792,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 130666,
       "name": "se ti amo in teoria",
       "url": "https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa"
@@ -8145,6 +8163,28 @@
     },
     {
       "album": {
+        "name": "Sole",
+        "url": "https://open.spotify.com/album/0rVmsYmpxbll1uJxseRpFH"
+      },
+      "artists": [
+        {
+          "name": "Tess",
+          "url": "https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM"
+        },
+        {
+          "name": "nlyfive",
+          "url": "https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153811,
+      "name": "Sole",
+      "url": "https://open.spotify.com/track/1jc2mpGtz7UDbIzHfePpbi"
+    },
+    {
+      "album": {
         "name": "SOLO GUAI",
         "url": "https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY"
       },
@@ -8200,6 +8240,32 @@
       "duration_ms": 180094,
       "name": "Soraya",
       "url": "https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo"
+    },
+    {
+      "album": {
+        "name": "tutti i colori del buio",
+        "url": "https://open.spotify.com/album/25q60nNytACtJUStVbphJX"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153294,
+      "name": "sottosopra (feat. bnkr44)",
+      "url": "https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB"
     },
     {
       "album": {
@@ -8483,6 +8549,24 @@
     },
     {
       "album": {
+        "name": "Tacchi (fra le dita)",
+        "url": "https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Tacchi (fra le dita)",
+      "url": "https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488"
+    },
+    {
+      "album": {
         "name": "TAKE THAT",
         "url": "https://open.spotify.com/album/54d21v6KBpRK2Ogd2ezPuh"
       },
@@ -8602,7 +8686,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 169287,
       "name": "TEMPO (all the things she said)",
       "url": "https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv"
@@ -8710,7 +8794,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151071,
       "name": "TOOTHGEM (4ever)",
       "url": "https://open.spotify.com/track/6FTcWxKTqQZFhkl3g3v5Oe"
@@ -8754,6 +8838,24 @@
       "duration_ms": 166725,
       "name": "TORNA DA ME",
       "url": "https://open.spotify.com/track/5UtkpmA9E1DzIGfGC0lWH1"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/0L6R6QRvA7TjB9XA53aMUu"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv"
     },
     {
       "album": {
@@ -9782,7 +9884,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155560,
       "name": "zero drammi",
       "url": "https://open.spotify.com/track/1PqHtI7J2AqnxUCcLdOniv"

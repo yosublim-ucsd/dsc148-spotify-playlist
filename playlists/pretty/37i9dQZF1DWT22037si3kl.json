@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Caio Luccas",
-  "num_followers": 144046,
+  "num_followers": 144081,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "BENJAMIN FRANKLIN",
+        "url": "https://open.spotify.com/album/6WnwfIMJRhfQQoYHmdVe2V"
+      },
+      "artists": [
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "CARGA NOVA ENT.",
+          "url": "https://open.spotify.com/artist/0XHprxPhQLzqArqobXh4ql"
+        }
+      ],
+      "duration_ms": 125664,
+      "name": "BENJAMIN FRANKLIN",
+      "url": "https://open.spotify.com/track/3eguPUjuyAllZ3UwYdsMmq"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "Esqueceu seu brinco",
         "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 284138,
       "name": "Esqueceu seu brinco",
       "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "BENJAMIN FRANKLIN",
-        "url": "https://open.spotify.com/album/6WnwfIMJRhfQQoYHmdVe2V"
-      },
-      "artists": [
-        {
-          "name": "Putodiparis",
-          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
-        },
-        {
-          "name": "CARGA NOVA ENT.",
-          "url": "https://open.spotify.com/artist/0XHprxPhQLzqArqobXh4ql"
-        }
-      ],
-      "duration_ms": 125664,
-      "name": "BENJAMIN FRANKLIN",
-      "url": "https://open.spotify.com/track/3eguPUjuyAllZ3UwYdsMmq"
     },
     {
       "added_at": "2024-09-27 03:01:00",

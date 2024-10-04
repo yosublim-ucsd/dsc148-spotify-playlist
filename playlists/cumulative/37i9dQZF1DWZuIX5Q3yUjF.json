@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Bianelle",
+  "description": "Il meglio dell'R&B italiano. Cover: Viscardi",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151414,
       "name": "CENTRALE ELETTRICA (feat. Not Good)",
       "url": "https://open.spotify.com/track/3jBe7yZjYmWF2Vuvh8ByhE"
@@ -4665,6 +4665,32 @@
     },
     {
       "album": {
+        "name": "Hope (feat. Izi, Joshua)",
+        "url": "https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Hope (feat. Izi, Joshua)",
+      "url": "https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM"
+    },
+    {
+      "album": {
         "name": "Hot Thing",
         "url": "https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF"
       },
@@ -4966,6 +4992,24 @@
       "duration_ms": 152474,
       "name": "IMPRONTE SUI VETRI (feat. Evra)",
       "url": "https://open.spotify.com/track/1EiEeNQ3IxF1YtWenbB2KN"
+    },
+    {
+      "album": {
+        "name": "In Crisi",
+        "url": "https://open.spotify.com/album/37RaM9bqXfkDosHWCALn7r"
+      },
+      "artists": [
+        {
+          "name": "sadbrodino",
+          "url": "https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "In Crisi",
+      "url": "https://open.spotify.com/track/4Hl2fMRgrV3V3w7uDCFPmC"
     },
     {
       "album": {
@@ -7040,7 +7084,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 163917,
       "name": "MY LADY",
       "url": "https://open.spotify.com/track/4huOHlHNobk81EPRFehQ5R"
@@ -8644,7 +8688,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 152941,
       "name": "Paura di Me",
       "url": "https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I"
@@ -8864,7 +8908,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 192943,
       "name": "Poeta",
       "url": "https://open.spotify.com/track/2oD2CQEW4vtstzdFIia2S2"
@@ -10060,7 +10104,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 199559,
       "name": "se mi guardi",
       "url": "https://open.spotify.com/track/3i0fGZp3EBBd5tOXdS3C0l"
@@ -11629,6 +11673,32 @@
     },
     {
       "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/0jusNBJdfvqfnNCKMBLLpH"
+      },
+      "artists": [
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        },
+        {
+          "name": "Giada De Prisco",
+          "url": "https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150681,
+      "name": "TOY BOY",
+      "url": "https://open.spotify.com/track/0ZQ8gIvMdKYLWlq2SS7BC4"
+    },
+    {
+      "album": {
         "name": "Tra di noi",
         "url": "https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO"
       },
@@ -11716,7 +11786,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 176000,
       "name": "troppo presto",
       "url": "https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk"
@@ -12228,7 +12298,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 142277,
       "name": "UNA NOTTE ANCORA",
       "url": "https://open.spotify.com/track/1EJjT0KxQnpbXZcdpBPbvb"
@@ -12562,7 +12632,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155446,
       "name": "Voglio di pi\u00f9",
       "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"

@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-297 songs - 17 hr 21 min
+298 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Heya Ghalta](https://open.spotify.com/track/66OSm9VA64mWnW5y4TtxKa) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 3:57 | 2021-12-23 | 2022-03-12 |
 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 | 2022-01-20 | 2022-06-07 |
 | [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 | 2024-05-09 |  |
+| [Hob Asharah](https://open.spotify.com/track/0DSDesDMWWQxi433jsBdQ4) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Asharah](https://open.spotify.com/album/5nWfksGOppPDh650Lqgz1W) | 3:47 | 2024-10-03 |  |
 | [Hobbak Dar](https://open.spotify.com/track/2AIUJ9QAtwzP6wfLP9L1Ye) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Hobbak Dar](https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ) | 3:09 | 2023-05-01 | 2023-09-22 |
 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 | 2022-11-01 | 2023-05-23 |
 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-31 | 2023-03-01 |
@@ -252,7 +253,7 @@
 | [Tejbrni](https://open.spotify.com/track/6GtORpXVbiyLiUBFkRkH4P) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Tejbrni](https://open.spotify.com/album/3QU4bV2dxK3F4lyIINpWDy) | 3:55 | 2023-04-22 | 2023-12-30 |
 | [Tektbli W Aktblk](https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Tektbli W Aktblk](https://open.spotify.com/album/0vcGkTrQqdI2Zdb6PaJGyw) | 3:36 | 2022-06-03 | 2023-01-11 |
 | [Teqharni](https://open.spotify.com/track/4h9CNuscmTV86HN8tSHvqL) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Teqharni](https://open.spotify.com/album/4uFC4ZwPpCvWn6N1g4CNk9) | 3:32 | 2023-01-31 | 2023-07-13 |
-| [Tezalzelha](https://open.spotify.com/track/2lqk5xO1TWmd35ygR2ebAH) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Tezalzelha](https://open.spotify.com/album/6VUhlLQr1uHxDQM4yxrtn9) | 3:24 | 2023-08-25 |  |
+| [Tezalzelha](https://open.spotify.com/track/2lqk5xO1TWmd35ygR2ebAH) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Tezalzelha](https://open.spotify.com/album/6VUhlLQr1uHxDQM4yxrtn9) | 3:24 | 2023-08-25 | 2024-10-04 |
 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 | 2022-07-04 | 2023-04-23 |
 | [Thawab Al Marajil](https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Thawab Al Marajil](https://open.spotify.com/album/336eJsYiToritUo974G0wr) | 2:25 | 2022-10-10 | 2023-05-05 |
 | [Tjy](https://open.spotify.com/track/0MUtxXORQKtmG4uV2v7hJ0) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g), [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Tjy](https://open.spotify.com/album/0Dn0iMxW58HAEnmxXPG64q) | 2:52 | 2022-11-03 | 2023-05-23 |

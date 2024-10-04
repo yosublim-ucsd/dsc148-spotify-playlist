@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 家入レオ
 
-2,671 songs - 7 day 3 hr 24 min
+2,672 songs - 7 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1390,6 +1390,7 @@
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 |  |
 | [Turn the Page](https://open.spotify.com/track/2ph7AUXKmXlv8OcISSCwxs) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Ray of Light](https://open.spotify.com/album/4X8CU6m309XnquexWCkWx9) | 3:45 | 2024-02-06 | 2024-02-14 |
 | [Turning Point](https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [Jaded](https://open.spotify.com/album/1TH2eZsAL864QvCL1o7xuv) | 3:09 | 2023-12-07 | 2023-12-13 |
+| [Twin Fates](https://open.spotify.com/track/6jR4l7mOKxiOOQ8c8RDfQV) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Twin Fates](https://open.spotify.com/album/3ZEzNh9z0j4bEesbpO5kr8) | 3:20 | 2024-10-01 |  |
 | [TWO HANDS](https://open.spotify.com/track/0A4YsyGeKycMLInrCBwsGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/6Ye9bLX5bekU0FlUsGBJhv) | 3:58 | 2023-12-19 | 2023-12-27 |
 | [TWO HANDS](https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z) | 3:58 | 2023-12-19 | 2023-12-21 |
 | [U Complete Me](https://open.spotify.com/track/5SiBpyGbgWTMOd2umJoD5I) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [faveur](https://open.spotify.com/album/1yo1HNltioZFkpkR0UDD65) | 2:09 | 2022-06-14 | 2022-06-17 |
@@ -1955,7 +1956,7 @@
 | [プレイリスト](https://open.spotify.com/track/2lf3Olh5EgMPBQQ744PjYR) | [KOKONA](https://open.spotify.com/artist/6tBcaQjumOUb3hld4awMk4) | [プレイリスト](https://open.spotify.com/album/43Ryr5fsBAlm5WeJe4VDGA) | 3:48 | 2024-07-25 | 2024-07-31 |
 | [プレイリスト](https://open.spotify.com/track/4ckVseuJeCfzi0vUXlTDta) | [川西奈月](https://open.spotify.com/artist/2HMIvzlbbpkt8KaEKOgLCE) | [ミッドナイトブルー](https://open.spotify.com/album/10kDiSprNhKrkZgDJxgmZS) | 3:03 | 2022-06-21 | 2022-06-29 |
 | [プレミアム](https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [わかりあえないことから](https://open.spotify.com/album/5K4clS7mfedD25a6w615VG) | 3:54 | 2024-08-06 | 2024-09-04 |
-| [プレロマンス](https://open.spotify.com/track/7zwBsjM35nm1k44paHHJym) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [プレロマンス](https://open.spotify.com/album/2CH1T0Or6qnBXy37xr8CnN) | 3:12 | 2022-08-23 |  |
+| [プレロマンス](https://open.spotify.com/track/7zwBsjM35nm1k44paHHJym) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [プレロマンス](https://open.spotify.com/album/2CH1T0Or6qnBXy37xr8CnN) | 3:12 | 2022-08-23 | 2024-10-04 |
 | [プロポーズ](https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [プロポーズ](https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P) | 3:54 | 2024-08-28 |  |
 | [ペルソナの記憶](https://open.spotify.com/track/3RxXuOv8Ek9ugFFRxxNc5J) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:20 | 2022-08-18 | 2022-08-20 |
 | [ペーパードライバー](https://open.spotify.com/track/6YpYRWZCGjdhxKM1txkfmK) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [ペーパードライバー](https://open.spotify.com/album/1xJSe3DIBkewet7dXPSV19) | 2:59 | 2022-10-25 | 2022-12-21 |

@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: No Doubt",
-  "num_followers": 389760,
+  "num_followers": 389839,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
         "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "A Good Day for the Damned",
         "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 206523,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Love, Lies & Alibis",
-        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+        "name": "Cold in the City",
+        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
       },
       "artists": [
         {
-          "name": "The Calamatix",
-          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 128317,
-      "name": "Love, Lies & Alibis",
-      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
+      "duration_ms": 206163,
+      "name": "Cold in the City",
+      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Love, Lies & Alibis",
+        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+      },
+      "artists": [
+        {
+          "name": "The Calamatix",
+          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+        }
+      ],
+      "duration_ms": 128317,
+      "name": "Love, Lies & Alibis",
+      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Life Sucks... Let's Dance!",
         "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 164552,
       "name": "You Can't Have All of Me",
       "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Cold in the City",
-        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 206163,
-      "name": "Cold in the City",
-      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "I'd Do Anything (If I Could)",
-      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 164092,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "I'd Do Anything (If I Could)",
+      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "No One is Illegal",
+        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
+      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "There's a Lot of It About",
         "url": "https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 152369,
       "name": "Dippy Egg",
       "url": "https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "The Godfather Of Ska Anthology",
-        "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Skinhead",
-      "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
     }
   ],
   "unique_name": "The Essential Ska",

@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46619,
+  "num_followers": 46621,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Volevo dirti",
+        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 181953,
+      "name": "Volevo dirti",
+      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "SPECCHIO",
         "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 112000,
       "name": "Mancati",
       "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Volevo dirti",
-        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 181953,
-      "name": "Volevo dirti",
-      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Tatuaggi",
-        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tatuaggi",
-      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "Per starci in due",
         "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 171641,
       "name": "Dentro di Te",
       "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+        "name": "MALA VITA",
+        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
         }
       ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+      "duration_ms": 179087,
+      "name": "Ti maledir\u00f2",
+      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "MALA VITA",
-        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
       },
       "artists": [
         {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 179087,
-      "name": "Ti maledir\u00f2",
-      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+      },
+      "artists": [
+        {
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "DIE",
         "url": "https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D"
       },
@@ -1675,42 +1691,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
-      },
-      "artists": [
-        {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1735,22 +1727,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1767,6 +1743,30 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     }
   ],
   "unique_name": "ragazzo triste",

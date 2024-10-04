@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Post Nebbia in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Guinevere in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 182503,
       "name": "A casa dei miei",
       "url": "https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8"
+    },
+    {
+      "album": {
+        "name": "A Diosa (Non potho reposare)",
+        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
+      },
+      "artists": [
+        {
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600010,
+      "name": "A Diosa (Non potho reposare)",
+      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
     },
     {
       "album": {
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Per sempre... e poi ancora",
+        "url": "https://open.spotify.com/album/209gRRGUJi4x8XG4iXentc"
+      },
+      "artists": [
+        {
+          "name": "Red Blood Hands",
+          "url": "https://open.spotify.com/artist/7bobN8Di0s5mnX3Vtkoo50"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/3WXoaGK59MFJqZUlnvTmt1"
+    },
+    {
+      "album": {
         "name": "Fammi Male",
         "url": "https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi"
       },
@@ -1483,6 +1519,46 @@
     },
     {
       "album": {
+        "name": "bad 4ever",
+        "url": "https://open.spotify.com/album/343wFaooEhkayCxQeBdUhe"
+      },
+      "artists": [
+        {
+          "name": "FANTASMA DI ME",
+          "url": "https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l"
+        },
+        {
+          "name": "YANG ROT",
+          "url": "https://open.spotify.com/artist/3d01ugFXlcrtlWQg0JXgY7"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "bad 4ever",
+      "url": "https://open.spotify.com/track/2JjPe4bFnwIUO5hQNASY44"
+    },
+    {
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/47Hienl6JkN2Py4uU4JQVM"
+      },
+      "artists": [
+        {
+          "name": "Giungla",
+          "url": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198432,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/4fWZ4hKpsuImPV5QI73EAY"
+    },
+    {
+      "album": {
         "name": "Los de afuera son de palo",
         "url": "https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3"
       },
@@ -1520,6 +1596,24 @@
       "duration_ms": 205120,
       "name": "Badman (Ting) (feat. Flowdan)",
       "url": "https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d"
+    },
+    {
+      "album": {
+        "name": "Bagno",
+        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
+      },
+      "artists": [
+        {
+          "name": "Tutto Piange",
+          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276521,
+      "name": "Bagno",
+      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
     },
     {
       "album": {
@@ -1802,6 +1896,24 @@
       "duration_ms": 193190,
       "name": "Berlino",
       "url": "https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ"
+    },
+    {
+      "album": {
+        "name": "questo amore mortale",
+        "url": "https://open.spotify.com/album/0HMZJSvPUzZdsntatqm7As"
+      },
+      "artists": [
+        {
+          "name": "dada sutra",
+          "url": "https://open.spotify.com/artist/63C9ac3xoEnqK3heo0GVQN"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Berlino Est",
+      "url": "https://open.spotify.com/track/2jKg41vkRjJGi8XIgzbkKo"
     },
     {
       "album": {
@@ -4556,7 +4668,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 234117,
       "name": "Dentro Lilia",
       "url": "https://open.spotify.com/track/60V30b7hcOgO5Ud50L7OBk"
@@ -4870,6 +4982,24 @@
       "duration_ms": 198840,
       "name": "Distratto",
       "url": "https://open.spotify.com/track/2ouuJSUIduWYoqQVulT4yk"
+    },
+    {
+      "album": {
+        "name": "Dita",
+        "url": "https://open.spotify.com/album/7L4nu4LXtZWmNyqOGddHxp"
+      },
+      "artists": [
+        {
+          "name": "Atlante",
+          "url": "https://open.spotify.com/artist/0xLBGvXZZt5vhuTOtqXrvY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202744,
+      "name": "Dita",
+      "url": "https://open.spotify.com/track/04IQgj7j590MYJMDZmCmEH"
     },
     {
       "album": {
@@ -5720,7 +5850,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 183325,
       "name": "ESTATE HORROR (feat. SPINABELLA)",
       "url": "https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal"
@@ -6973,6 +7103,24 @@
     },
     {
       "album": {
+        "name": "Numero Zero",
+        "url": "https://open.spotify.com/album/0R9S8DA7AsUB9tOddrq6au"
+      },
+      "artists": [
+        {
+          "name": "Manitoba",
+          "url": "https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/2dhwtyvHhDPXmnF2JHtBng"
+    },
+    {
+      "album": {
         "name": "Gagarin",
         "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
       },
@@ -7320,7 +7468,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161934,
       "name": "Globuli Rossi",
       "url": "https://open.spotify.com/track/03qG1nmLmKUrgY1ZnTpECZ"
@@ -7714,7 +7862,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 269655,
       "name": "Height of Feeling",
       "url": "https://open.spotify.com/track/19xGfhFFA6p9DFOWTt6qiq"
@@ -7750,7 +7898,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 137880,
       "name": "Hey listen",
       "url": "https://open.spotify.com/track/6AIvOHMK6ce3Ws7Zlph2GA"
@@ -8800,7 +8948,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 275306,
       "name": "Indigo (feat. Giovanna Cacciola)",
       "url": "https://open.spotify.com/track/2XD6ZRoRyHI9A0hoIp9OwP"
@@ -8858,6 +9006,24 @@
       "duration_ms": 188692,
       "name": "Internet",
       "url": "https://open.spotify.com/track/6M6MjfgxhWDnBJaJdeCJVb"
+    },
+    {
+      "album": {
+        "name": "Bellissimo",
+        "url": "https://open.spotify.com/album/2cMx57lE3A6GYMOpUnUJtm"
+      },
+      "artists": [
+        {
+          "name": "I Segreti",
+          "url": "https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194027,
+      "name": "Invisibile",
+      "url": "https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN"
     },
     {
       "album": {
@@ -9375,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/5ev3wQOzCYvKZhdh2oTYQA"
+      },
+      "artists": [
+        {
+          "name": "nukesoverlastsummer",
+          "url": "https://open.spotify.com/artist/2v930TH520hRb7ecTk49dI"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108562,
+      "name": "Knife, Nails & Teeth (Kiss the Ghost)",
+      "url": "https://open.spotify.com/track/31im5EEQMplXyCkbl1KqJ1"
+    },
+    {
+      "album": {
         "name": "Raha",
         "url": "https://open.spotify.com/album/1iVsCkuxr9KfCX1vf2ECZI"
       },
@@ -9762,6 +9946,24 @@
       "duration_ms": 206394,
       "name": "La nuit des \u00e9toiles filantes",
       "url": "https://open.spotify.com/track/6V3zDLMjjWfbDlCDfa6hGg"
+    },
+    {
+      "album": {
+        "name": "La nuova canzone per me",
+        "url": "https://open.spotify.com/album/2MI0HTZtuc5qX0m2ejywxZ"
+      },
+      "artists": [
+        {
+          "name": "Tre Allegri Ragazzi Morti",
+          "url": "https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233233,
+      "name": "La nuova canzone per me",
+      "url": "https://open.spotify.com/track/44Gq4xUpibuO7S0DLfpGOh"
     },
     {
       "album": {
@@ -10871,6 +11073,24 @@
     },
     {
       "album": {
+        "name": "Malemilano",
+        "url": "https://open.spotify.com/album/0CL4YqHDvZCIoVeG4RgBDQ"
+      },
+      "artists": [
+        {
+          "name": "Milla",
+          "url": "https://open.spotify.com/artist/6VS0CBjediG8wHrHdi2FMy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Malemilano",
+      "url": "https://open.spotify.com/track/309MlYNlsIlj2mJHiWoXWm"
+    },
+    {
+      "album": {
         "name": "Un glorioso disastro",
         "url": "https://open.spotify.com/album/6xtMwAvJOmf1Fryi6r1wfa"
       },
@@ -11188,7 +11408,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188888,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/5bbQStJ7LpVNffQ7wwZ3qa"
@@ -11322,7 +11542,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 230887,
       "name": "Mi chiedo perch\u00e9",
       "url": "https://open.spotify.com/track/6BkS8wTcsg0rOEhjGYb1V9"
@@ -11694,6 +11914,24 @@
       "duration_ms": 155036,
       "name": "Mosche",
       "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "album": {
+        "name": "Mostri",
+        "url": "https://open.spotify.com/album/0vWdqiWZfixeXONNMKfXYY"
+      },
+      "artists": [
+        {
+          "name": "Carousel 47",
+          "url": "https://open.spotify.com/artist/5FIUD3VRU4oAOGFZyA8mDp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Mostri",
+      "url": "https://open.spotify.com/track/4jfNcaMxb2jps2F1bQEodW"
     },
     {
       "album": {
@@ -12842,7 +13080,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155713,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/7rWdEypK1O7V9oU8xm9Pxc"
@@ -13146,7 +13384,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154666,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2mvmpAHmVLtBdScwZWqAXE"
@@ -13290,7 +13528,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150223,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1huV0ZHHl6swbFdvj8lG0y"
@@ -14968,7 +15206,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 291245,
       "name": "Rapide",
       "url": "https://open.spotify.com/track/0u1dTvTc1HGMOOFw1chrj6"
@@ -15058,7 +15296,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 195186,
       "name": "Relax I'm Fine",
       "url": "https://open.spotify.com/track/5tiopmXV8OjUIZo7Fhxqaf"
@@ -15910,6 +16148,42 @@
       "duration_ms": 192631,
       "name": "Scrivere",
       "url": "https://open.spotify.com/track/6A4gpoXjKnQC0IpBqJRxAL"
+    },
+    {
+      "album": {
+        "name": "Se Andr\u00f2 All'Inferno Tu Verrai Con Me",
+        "url": "https://open.spotify.com/album/5IEn9v6GYnIN2EXf412Giu"
+      },
+      "artists": [
+        {
+          "name": "Isoladellerose",
+          "url": "https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183713,
+      "name": "Se Andr\u00f2 All'Inferno Tu Verrai Con Me",
+      "url": "https://open.spotify.com/track/7mnrl7qEtpHoI5Dd6nxYZc"
+    },
+    {
+      "album": {
+        "name": "Se non passasse aria",
+        "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202793,
+      "name": "Se non passasse aria",
+      "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
     },
     {
       "album": {
@@ -18536,7 +18810,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 202758,
       "name": "Tribeca",
       "url": "https://open.spotify.com/track/4IVDsp30yjLXXfnpCGo4Gs"
@@ -20152,7 +20426,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 148493,
       "name": "You'll Never Be Mine Again",
       "url": "https://open.spotify.com/track/6A7DpjdrPKQfc4kC5gugpn"

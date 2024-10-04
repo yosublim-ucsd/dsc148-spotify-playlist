@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 132923,
       "name": "INTERNET LOVE",
       "url": "https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb"
@@ -4114,6 +4114,28 @@
       "duration_ms": 176133,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/7bTspr2AlXH0siZ4Ib61t4"
+      },
+      "artists": [
+        {
+          "name": "MAXPVNK",
+          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
+        },
+        {
+          "name": "Limbee",
+          "url": "https://open.spotify.com/artist/0B8HZIAjVkwfJkweHlJlGJ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/0slfJpxjuarx8317R1CBhS"
     },
     {
       "album": {
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -6738,7 +6760,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -7210,7 +7232,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 112405,
       "name": "So Good",
       "url": "https://open.spotify.com/track/20EziCj9xQGgQHeHiRXaL6"
@@ -8520,7 +8542,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 87818,
       "name": "warm welcome",
       "url": "https://open.spotify.com/track/1I6way4zg9vYNcR3VHkMSO"
@@ -8542,6 +8564,24 @@
       "duration_ms": 154331,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/49JTCQ1pv7BKWiE3xZvTWf"
+    },
+    {
+      "album": {
+        "name": "Dinner in America Soundtrack",
+        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
+      },
+      "artists": [
+        {
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
     },
     {
       "album": {
@@ -8916,6 +8956,24 @@
     {
       "album": {
         "name": "Woops",
+        "url": "https://open.spotify.com/album/5EzsDOIBR4P3uLchihopx5"
+      },
+      "artists": [
+        {
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
+    },
+    {
+      "album": {
+        "name": "Woops",
         "url": "https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU"
       },
       "artists": [
@@ -8926,7 +8984,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 256822,
       "name": "Woops - Original Remastered Mix",
       "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
@@ -10078,7 +10136,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 149223,
       "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/7I2oOB6kiHsOE0jsMY56sb"
@@ -11432,7 +11490,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 198964,
       "name": "\u0417\u0432\u043e\u043d\u043a\u0438",
       "url": "https://open.spotify.com/track/1y3KKRjEewvPFvgeR37YjJ"
@@ -13664,7 +13722,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172745,
       "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
       "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"

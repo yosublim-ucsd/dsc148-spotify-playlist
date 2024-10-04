@@ -1,6 +1,6 @@
 {
   "description": "Taking it down a notch and keeping the vibes on ice...",
-  "num_followers": 369668,
+  "num_followers": 369663,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-09-13 11:12:45",
       "album": {
+        "name": "30 Degrees",
+        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 188164,
+      "name": "30 Degrees",
+      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
+    },
+    {
+      "added_at": "2024-09-13 11:12:45",
+      "album": {
         "name": "Don't Look at Me Like That",
         "url": "https://open.spotify.com/album/2mq4pktC9b6z1CCCJdcvpZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 153600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
-    },
-    {
-      "added_at": "2024-09-13 11:12:45",
-      "album": {
-        "name": "30 Degrees",
-        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 188164,
-      "name": "30 Degrees",
-      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
     },
     {
       "added_at": "2024-09-13 11:12:45",

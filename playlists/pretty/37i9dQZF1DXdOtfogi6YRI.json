@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Micha\u0142 Anio\u0142",
-  "num_followers": 17923,
+  "num_followers": 17955,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
+        "name": "#omg",
+        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
+      },
+      "artists": [
+        {
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+        }
+      ],
+      "duration_ms": 126427,
+      "name": "#omg",
+      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
         "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
         "url": "https://open.spotify.com/album/2Py8PzlFuuz7442rAfUzCE"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 209918,
       "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
       "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
-        "name": "#omg",
-        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
-      },
-      "artists": [
-        {
-          "name": "hubithekid",
-          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
-        }
-      ],
-      "duration_ms": 126427,
-      "name": "#omg",
-      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1035,30 +1035,26 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "EMPIRIA EP",
-        "url": "https://open.spotify.com/album/1yRiIQ02prmgehliMV7nup"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
         },
         {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
         },
         {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        },
-        {
-          "name": "Hubi",
-          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
+          "name": "Marchew",
+          "url": "https://open.spotify.com/artist/5a8ogQC6QmFKO8O00C18mm"
         }
       ],
-      "duration_ms": 155076,
-      "name": "NOC ZAMIENIASZ W DZIE\u0143",
-      "url": "https://open.spotify.com/track/3Sb94SGpjsSJF0ZyiO8IBY"
+      "duration_ms": 253604,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1087,26 +1083,30 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
+        "name": "EMPIRIA EP",
+        "url": "https://open.spotify.com/album/1yRiIQ02prmgehliMV7nup"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
         },
         {
-          "name": "BRK",
-          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
         },
         {
-          "name": "Marchew",
-          "url": "https://open.spotify.com/artist/5a8ogQC6QmFKO8O00C18mm"
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        },
+        {
+          "name": "Hubi",
+          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
         }
       ],
-      "duration_ms": 253604,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
+      "duration_ms": 155076,
+      "name": "NOC ZAMIENIASZ W DZIE\u0143",
+      "url": "https://open.spotify.com/track/3Sb94SGpjsSJF0ZyiO8IBY"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
-      },
-      "artists": [
-        {
-          "name": "Gverilla",
-          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
-        },
-        {
-          "name": "Symer",
-          "url": "https://open.spotify.com/artist/6G5nxzFqdqx0Rb3g7dK4Yf"
-        }
-      ],
-      "duration_ms": 235793,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        },
+        {
+          "name": "Symer",
+          "url": "https://open.spotify.com/artist/6G5nxzFqdqx0Rb3g7dK4Yf"
+        }
+      ],
+      "duration_ms": 235793,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "WHOOP WHOOP",
-        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
-      },
-      "artists": [
-        {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
-        }
-      ],
-      "duration_ms": 117015,
-      "name": "WHOOP WHOOP",
-      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
+        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
+      },
+      "artists": [
+        {
+          "name": "Blue Vegas",
+          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
         "name": "KAM-RAP-POL",
         "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
-      },
-      "artists": [
-        {
-          "name": "Blue Vegas",
-          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
         "name": "Za P\u00f3\u017ano",
         "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
       },
@@ -1483,30 +1483,6 @@
       "duration_ms": 234000,
       "name": "Za P\u00f3\u017ano",
       "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
-        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
-        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
-      },
-      "artists": [
-        {
-          "name": "Biak",
-          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        },
-        {
-          "name": "Dizkret",
-          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "RMLJHF",
-      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1535,6 +1511,30 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
+        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
+        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
+      },
+      "artists": [
+        {
+          "name": "Biak",
+          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        },
+        {
+          "name": "Dizkret",
+          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "RMLJHF",
+      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
         "name": "GRUUVSTEP",
         "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
       },
@@ -1555,30 +1555,6 @@
       "duration_ms": 195555,
       "name": "GRUUVSTEP",
       "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/38U8N2rwuwYJ5uImS6ZrvW"
-      },
-      "artists": [
-        {
-          "name": "bartek koko",
-          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
-        },
-        {
-          "name": "Si\u00f3dmy",
-          "url": "https://open.spotify.com/artist/1Z1F0qGAue2gCt3KZdqyby"
-        },
-        {
-          "name": "DJ Cutahead",
-          "url": "https://open.spotify.com/artist/6MovydASW2zl87TtIH3BXz"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0fdujokZXDAGjjRZahZalz"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1607,26 +1583,6 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
-        "name": "KAM-CAR",
-        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "KAM-CAR",
-      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
         "name": "WEMBY",
         "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
       },
@@ -1643,6 +1599,46 @@
     {
       "added_at": "2024-09-27 10:32:08",
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/38U8N2rwuwYJ5uImS6ZrvW"
+      },
+      "artists": [
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "Si\u00f3dmy",
+          "url": "https://open.spotify.com/artist/1Z1F0qGAue2gCt3KZdqyby"
+        },
+        {
+          "name": "DJ Cutahead",
+          "url": "https://open.spotify.com/artist/6MovydASW2zl87TtIH3BXz"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0fdujokZXDAGjjRZahZalz"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
+        "name": "\u015blepa kuchnia.",
+        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
+      },
+      "artists": [
+        {
+          "name": "\u2022 ukeboy \u2022",
+          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
+        }
+      ],
+      "duration_ms": 271445,
+      "name": "KLARA",
+      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
         "name": "Pozdrawiam S\u0105siad\u00f3w",
         "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
       },
@@ -1655,6 +1651,46 @@
       "duration_ms": 205969,
       "name": "Pozdrawiam S\u0105siad\u00f3w",
       "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
+        "name": "Par\u0119 S\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/0YJFHPpEnzEqAo57mjvyF7"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        }
+      ],
+      "duration_ms": 231846,
+      "name": "Par\u0119 S\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/3QVJppchxDLnbx52on7RKb"
+    },
+    {
+      "added_at": "2024-09-27 10:32:08",
+      "album": {
+        "name": "KAM-CAR",
+        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "KAM-CAR",
+      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1703,22 +1739,6 @@
       "duration_ms": 138857,
       "name": "Niech zgina si\u0119 blok",
       "url": "https://open.spotify.com/track/3j4XPg70PPv91xbyoiiESo"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
-        "name": "\u015blepa kuchnia.",
-        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
-      },
-      "artists": [
-        {
-          "name": "\u2022 ukeboy \u2022",
-          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
-        }
-      ],
-      "duration_ms": 271445,
-      "name": "KLARA",
-      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
       "added_at": "2024-09-27 10:32:08",
@@ -1807,26 +1827,6 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
-    },
-    {
-      "added_at": "2024-09-27 10:32:08",
-      "album": {
-        "name": "Par\u0119 S\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/0YJFHPpEnzEqAo57mjvyF7"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        }
-      ],
-      "duration_ms": 231846,
-      "name": "Par\u0119 S\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/3QVJppchxDLnbx52on7RKb"
     },
     {
       "added_at": "2024-09-27 10:32:08",

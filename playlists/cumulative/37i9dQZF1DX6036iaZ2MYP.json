@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Oxlade",
+  "description": "Tracks popping off in the Afro scene. Cover: THEODORT",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Chacun son chacun",
+        "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153618,
+      "name": "Chacun son chacun",
+      "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
+    },
+    {
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od"
       },
@@ -1752,6 +1770,28 @@
       "duration_ms": 156831,
       "name": "Close To Me (feat. Bnxn)",
       "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+    },
+    {
+      "album": {
+        "name": "Cocoa Butter",
+        "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "The Majeek",
+          "url": "https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "Cocoa Butter",
+      "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
     },
     {
       "album": {
@@ -2530,7 +2570,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174962,
       "name": "Dilemme",
       "url": "https://open.spotify.com/track/6PQ3d9t40lvzVIExwCGL8E"
@@ -3940,7 +3980,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 208471,
       "name": "GIRLS WANNA HAVE FUN",
       "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
@@ -4104,6 +4144,24 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "album": {
+        "name": "Happy People",
+        "url": "https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Happy People",
+      "url": "https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11"
     },
     {
       "album": {
@@ -4787,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Joana",
+        "url": "https://open.spotify.com/album/1H20uINWCBJkufTPJJloU0"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127270,
+      "name": "Joana",
+      "url": "https://open.spotify.com/track/0MScfQnhubObn4aeNSMzIs"
+    },
+    {
+      "album": {
         "name": "Jogo",
         "url": "https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8"
       },
@@ -5430,7 +5506,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 162000,
       "name": "Lifobo",
       "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
@@ -5592,6 +5668,50 @@
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "album": {
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164472,
+      "name": "lon3ly",
+      "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
+    },
+    {
+      "album": {
+        "name": "LONDON 2 PANAME (feat. Liim's)",
+        "url": "https://open.spotify.com/album/5LJlUJ9qkeidqP8aCSqxKW"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        },
+        {
+          "name": "Liim\u2019s",
+          "url": "https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "LONDON 2 PANAME (feat. Liim's)",
+      "url": "https://open.spotify.com/track/27R8gQAfvh2fpd5Tx9HND9"
     },
     {
       "album": {
@@ -5900,7 +6020,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172941,
       "name": "Ma Cherie (Remix)",
       "url": "https://open.spotify.com/track/4Rv6zpv0GZvlwynha2iLTN"
@@ -6363,6 +6483,32 @@
     },
     {
       "album": {
+        "name": "Moi \u00e7a va",
+        "url": "https://open.spotify.com/album/1h8KnKgDfE2jkD0ChejCHN"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "Iselena",
+          "url": "https://open.spotify.com/artist/3WGPnBwubp4ERQFAQIEium"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Moi \u00e7a va",
+      "url": "https://open.spotify.com/track/7mr82s5mlAtVAuuZNiwgXr"
+    },
+    {
+      "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
@@ -6400,6 +6546,28 @@
       "duration_ms": 141829,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2FtGKTF64tiJozJqtMME0X"
+    },
+    {
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/0HcsmCipLf78idaLFz9eo3"
+      },
+      "artists": [
+        {
+          "name": "Souf",
+          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206620,
+      "name": "Mon b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/6xCEcTtnWzkI6V1NEXJg0u"
     },
     {
       "album": {
@@ -6756,6 +6924,24 @@
       "duration_ms": 186484,
       "name": "M\u00e9lodie c\u00e9leste",
       "url": "https://open.spotify.com/track/218nzWjXyhtYlAlUXT329G"
+    },
+    {
+      "album": {
+        "name": "NAIJA MAN",
+        "url": "https://open.spotify.com/album/5tMFWa4T1ruMlCVYNhsUzd"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "NAIJA MAN",
+      "url": "https://open.spotify.com/track/7pg0rj6EdyjTtMLJNnkLer"
     },
     {
       "album": {
@@ -7214,6 +7400,36 @@
       "duration_ms": 193805,
       "name": "ODG",
       "url": "https://open.spotify.com/track/4PgMRk7oJmRzJOngQlONBa"
+    },
+    {
+      "album": {
+        "name": "Ogechi (feat. Davido) - Remix",
+        "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192262,
+      "name": "Ogechi (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
     },
     {
       "album": {
@@ -7920,7 +8136,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 195880,
       "name": "Pio Pio",
       "url": "https://open.spotify.com/track/0jxhvVriAJfkqskjN5nL9h"
@@ -8294,7 +8510,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 158769,
       "name": "REVU OH (feat. Jungeli)",
       "url": "https://open.spotify.com/track/2GbgmXifJhSkonSTGXb8OE"
@@ -8922,7 +9138,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
@@ -9060,7 +9276,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 152211,
       "name": "SOWETO",
       "url": "https://open.spotify.com/track/1OZP6Q2O8ybMyDHwoXOSEz"
@@ -9458,7 +9674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"

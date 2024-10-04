@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > 🫧 ₊˚⊹♡ Fousheé on repeeeeat ‧₊˚ 🎐✩
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,143 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,131 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=73lpcNPWRm6asUag9RWULQ">Israel Mbonyi</a>
 
-429 songs - 1 day 13 hr 21 min
+430 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Protect Me](https://open.spotify.com/track/4OPZAh3YBNGHstO7jKV0iP) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 2:44 | 2023-08-25 | 2023-09-01 |
 | [Protect Me \- Remix](https://open.spotify.com/track/20th9lVZbXyTiTDbZiSUFg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Protect Me \(Remix\)](https://open.spotify.com/album/20AYZPowMzmL2D6Cuev0I9) | 2:44 | 2023-06-16 | 2023-06-21 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-07 |  |
+| [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-10-04 |  |
 | [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 | 2023-06-23 | 2023-09-08 |
 | [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 | 2023-06-23 | 2023-07-16 |
 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-04-14 | 2023-06-23 |
@@ -395,7 +396,7 @@
 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2023-08-04 | 2024-07-27 |
 | [We Raise A Sound](https://open.spotify.com/track/40GqiANrV567E5vyDvHlos) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise A Sound](https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg) | 7:12 | 2021-01-22 | 2022-09-09 |
 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 | 2021-01-22 | 2022-07-29 |
-| [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2021-01-22 |  |
+| [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2021-01-22 | 2024-10-04 |
 | [We the Forgiven](https://open.spotify.com/track/6w59Zrfji9fpDBacn1ltlQ) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:54 | 2023-06-30 | 2023-07-14 |
 | [WETIN I GAIN](https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [WETIN I GAIN](https://open.spotify.com/album/0nfZJtb8Utj8YufZVMNG6O) | 3:52 | 2019-11-06 | 2023-04-14 |
 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 | 2023-05-12 | 2023-06-23 |

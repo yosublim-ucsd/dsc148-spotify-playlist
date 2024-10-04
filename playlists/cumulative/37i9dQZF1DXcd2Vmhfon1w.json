@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax y Prok",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Hard GZ",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154285,
       "name": "ASAP Rocky",
       "url": "https://open.spotify.com/track/03FuBtRZLrgabfTsatNRDU"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189456,
       "name": "Calent\u00f3n",
       "url": "https://open.spotify.com/track/0dQZKhN6wYXSCtzzZLqlqs"
@@ -1736,6 +1736,28 @@
       "duration_ms": 186562,
       "name": "CASANOVA",
       "url": "https://open.spotify.com/track/2YNtUj9qvvmaSe4DIvJedT"
+    },
+    {
+      "album": {
+        "name": "CASAS ROSAS",
+        "url": "https://open.spotify.com/album/2HQd9y8Zun9wmPh6EL2fxA"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "CASAS ROSAS",
+      "url": "https://open.spotify.com/track/6miOyimBD4VN4xlPUlNhMs"
     },
     {
       "album": {
@@ -2027,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "MASTERCASTER",
+        "url": "https://open.spotify.com/album/2GTwVzWYGOxTLCmkxunYbQ"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Condor",
+      "url": "https://open.spotify.com/track/0ZVluqY6fAP621DwuBcPHJ"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/4LEvGrDYVOXwoHU5oKK6Hj"
       },
@@ -2178,6 +2222,24 @@
       "duration_ms": 254000,
       "name": "Cruella",
       "url": "https://open.spotify.com/track/2WR7QewHfRBViJJkDzoX3H"
+    },
+    {
+      "album": {
+        "name": "CSV (Intro)",
+        "url": "https://open.spotify.com/album/0ptmykfjOlbnE2r5PZZpqY"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "CSV - Intro",
+      "url": "https://open.spotify.com/track/2KW6PCNFjHVKBmO9J16UeE"
     },
     {
       "album": {
@@ -3127,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/7hb9WKRVA1ZrIfRTz6tL0e"
+      },
+      "artists": [
+        {
+          "name": "Sosad.97",
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160774,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/0sJUls92TrhHvXrNeyMzxo"
+    },
+    {
+      "album": {
         "name": "Fauna",
         "url": "https://open.spotify.com/album/0IgWFhlwvBtFsQCEZ9G1dG"
       },
@@ -3212,7 +3292,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 207818,
       "name": "Filet Mignon",
       "url": "https://open.spotify.com/track/52aeNDpSzQwXcsgLPcxoJm"
@@ -3767,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "H\u00c9ROE",
+        "url": "https://open.spotify.com/album/2tpLywGk6yPjpYBcU4BCbg"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215795,
+      "name": "H\u00c9ROE",
+      "url": "https://open.spotify.com/track/7nqsHeFyt3sKMelaE2Itfe"
+    },
+    {
+      "album": {
         "name": "Impecable",
         "url": "https://open.spotify.com/album/7hYk1vU5BWq52aHvj1wl9V"
       },
@@ -3870,6 +3968,28 @@
       "duration_ms": 166730,
       "name": "Israel B - Selecta Motorseries #05",
       "url": "https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ"
+    },
+    {
+      "album": {
+        "name": "j Battle - Fugitivo, Vol. 26",
+        "url": "https://open.spotify.com/album/6kTjb88WwnMXIFtvW7f75M"
+      },
+      "artists": [
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
+        },
+        {
+          "name": "j Battle",
+          "url": "https://open.spotify.com/artist/5uF777dYSnQDexEj3g3fcY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "j Battle - Fugitivo, Vol. 26",
+      "url": "https://open.spotify.com/track/3H6rDy0T4nuXRkFQHog3Mf"
     },
     {
       "album": {
@@ -4624,7 +4744,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210424,
       "name": "Lo Que Habr\u00edamos Sido",
       "url": "https://open.spotify.com/track/48neDzsVED4jZ5w181cyFK"
@@ -4836,7 +4956,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211866,
       "name": "Mal Ag\u00fcero",
       "url": "https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa"
@@ -5250,6 +5370,28 @@
       "duration_ms": 152514,
       "name": "Me Encanta Tu Encanto",
       "url": "https://open.spotify.com/track/6Jq1PlZ9SlBYWVszBcR8Ja"
+    },
+    {
+      "album": {
+        "name": "ME ESTOY MURIENDO",
+        "url": "https://open.spotify.com/album/5aIVGHL06CytdZVO13QTvQ"
+      },
+      "artists": [
+        {
+          "name": "SWIT EME",
+          "url": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+        },
+        {
+          "name": "MarlonAkaLM",
+          "url": "https://open.spotify.com/artist/3ltaovXrbjCFXApG39Fu0r"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "ME ESTOY MURIENDO",
+      "url": "https://open.spotify.com/track/4IJXhfJwv4VAdmJNFmsFYt"
     },
     {
       "album": {
@@ -6244,7 +6386,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 180000,
       "name": "O CABALO",
       "url": "https://open.spotify.com/track/6D0CqCZh3B2V4OLYTt4KLk"
@@ -8652,7 +8794,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 208483,
       "name": "Uh Baby",
       "url": "https://open.spotify.com/track/5M6h4yxSOXEswiUEUSCVqd"

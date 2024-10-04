@@ -1,13 +1,101 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Blasterjaxx &amp; Timmy Trumpet",
-  "num_followers": 120214,
+  "num_followers": 120216,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAeLnh6kOaIfdS5cjCsCYYrWHvFKiCy",
+  "snapshot_id": "AAAePmCtpi2sHpXPqF2Gej8l1kKaRyhA",
   "tracks": [
+    {
+      "added_at": "2024-10-03 10:46:00",
+      "album": {
+        "name": "Quit That Love (feat. Glacier Baby)",
+        "url": "https://open.spotify.com/album/3N3T4X1IZ4625VZ6GgAH76"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Glacier Baby",
+          "url": "https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES"
+        }
+      ],
+      "duration_ms": 124900,
+      "name": "Quit That Love (feat. Glacier Baby)",
+      "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
+    },
+    {
+      "added_at": "2024-10-03 13:48:57",
+      "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2024-10-03 10:46:00",
+      "album": {
+        "name": "Dudada",
+        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Dudada",
+      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
+    },
+    {
+      "added_at": "2024-10-03 10:46:00",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 159577,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+    },
     {
       "added_at": "2024-09-27 14:26:38",
       "album": {
@@ -27,38 +115,6 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
-    },
-    {
-      "added_at": "2024-09-27 14:27:28",
-      "album": {
-        "name": "Love You Inside Out",
-        "url": "https://open.spotify.com/album/0TyE77s9mLdwGuhuRxxIqv"
-      },
-      "artists": [
-        {
-          "name": "MainCourse",
-          "url": "https://open.spotify.com/artist/6Hu3UsndIq1qxAF8KhSFL2"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Love You Inside Out",
-      "url": "https://open.spotify.com/track/5Jdhi3inKqfpBuo7Im293T"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 155748,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
     },
     {
       "added_at": "2024-09-27 14:26:38",
@@ -87,6 +143,38 @@
     {
       "added_at": "2024-09-27 14:26:38",
       "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 155748,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
+    },
+    {
+      "added_at": "2024-09-27 14:27:28",
+      "album": {
+        "name": "Love You Inside Out",
+        "url": "https://open.spotify.com/album/0TyE77s9mLdwGuhuRxxIqv"
+      },
+      "artists": [
+        {
+          "name": "MainCourse",
+          "url": "https://open.spotify.com/artist/6Hu3UsndIq1qxAF8KhSFL2"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Love You Inside Out",
+      "url": "https://open.spotify.com/track/5Jdhi3inKqfpBuo7Im293T"
+    },
+    {
+      "added_at": "2024-09-27 14:26:38",
+      "album": {
         "name": "Never Leave You (Uh Oooh, Uh Oooh)",
         "url": "https://open.spotify.com/album/4VXJXevslm1e6dndc6tD5k"
       },
@@ -105,48 +193,60 @@
       "url": "https://open.spotify.com/track/03bA59As8j2ODRyZRE3X7X"
     },
     {
-      "added_at": "2024-09-27 14:26:38",
+      "added_at": "2024-10-03 12:53:28",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
+        "name": "FOREIGN",
+        "url": "https://open.spotify.com/album/5jrKedsVRq5yQFIRq7m6Jc"
       },
       "artists": [
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
         }
       ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+      "duration_ms": 191739,
+      "name": "FOREIGN",
+      "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
     },
     {
-      "added_at": "2024-09-27 14:26:38",
+      "added_at": "2024-10-03 10:46:00",
       "album": {
-        "name": "The Chant (feat. Savage) - Anderex Remix",
-        "url": "https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz"
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/1h3Yj4y5ImmCOpDagP7JYe"
       },
       "artists": [
         {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        },
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
         }
       ],
-      "duration_ms": 153036,
-      "name": "The Chant (feat. Savage) - Anderex Remix",
-      "url": "https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ"
+      "duration_ms": 179815,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe"
+    },
+    {
+      "added_at": "2024-10-03 10:46:00",
+      "album": {
+        "name": "Toccata",
+        "url": "https://open.spotify.com/album/3H53Y8XFX5XdomiCJ31Wzu"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        }
+      ],
+      "duration_ms": 179777,
+      "name": "Toccata",
+      "url": "https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL"
     },
     {
       "added_at": "2024-09-27 14:26:38",
@@ -231,90 +331,6 @@
       "duration_ms": 241080,
       "name": "I'm Too Sexy (Eric Kupper Remix)",
       "url": "https://open.spotify.com/track/79luzgoRfJUmHakzks602J"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a"
-      },
-      "artists": [
-        {
-          "name": "Lion",
-          "url": "https://open.spotify.com/artist/047UnCFE2OuyfRR2kx0o5j"
-        },
-        {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
-        },
-        {
-          "name": "Crasca",
-          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
-        }
-      ],
-      "duration_ms": 158015,
-      "name": "Knock",
-      "url": "https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Dominvs",
-        "url": "https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R"
-      },
-      "artists": [
-        {
-          "name": "Raffaele Del Zingaro",
-          "url": "https://open.spotify.com/artist/7H5kcgVjOBdswviEpDMNgF"
-        },
-        {
-          "name": "Jumphertz",
-          "url": "https://open.spotify.com/artist/0I91neoDzmKeuzbXTJwCW5"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "Dominvs",
-      "url": "https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Monaco (Live Acoustic)",
-        "url": "https://open.spotify.com/album/1KRdnsgZNQnqDV9Agt4bEG"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Monaco (Live Acoustic)",
-      "url": "https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Favorite Mistakes (feat. Victoria Nadine) [VIP Mixes]",
-        "url": "https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 150444,
-      "name": "Favorite Mistakes (feat. Victoria Nadine) [HEDEGAARD VIP Mix]",
-      "url": "https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Zaho de Sagazan",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Clara Luciani",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154125,
       "name": "Bande annonce",
       "url": "https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP"
@@ -114,6 +114,24 @@
       "duration_ms": 137650,
       "name": "c'\u00e9tait mieux avant",
       "url": "https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu"
+    },
+    {
+      "album": {
+        "name": "Couleur",
+        "url": "https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fi Celma",
+          "url": "https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163613,
+      "name": "Couleur",
+      "url": "https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 225662,
       "name": "FVL",
       "url": "https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 157281,
       "name": "Le Lapin",
       "url": "https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA"
@@ -807,6 +825,28 @@
     },
     {
       "album": {
+        "name": "Les ann\u00e9es lumi\u00e8re",
+        "url": "https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pite",
+          "url": "https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63"
+        },
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306535,
+      "name": "Les ann\u00e9es lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1"
+    },
+    {
+      "album": {
         "name": "Les astres",
         "url": "https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg"
       },
@@ -822,6 +862,24 @@
       "duration_ms": 240064,
       "name": "Les astres",
       "url": "https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G"
+    },
+    {
+      "album": {
+        "name": "Les derniers jours de pluies (Edit version)",
+        "url": "https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177261,
+      "name": "Les derniers jours de pluies - Edit Version",
+      "url": "https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ"
     },
     {
       "album": {
@@ -1042,6 +1100,24 @@
       "duration_ms": 203133,
       "name": "Perdre la t\u00eate",
       "url": "https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3"
+    },
+    {
+      "album": {
+        "name": "\u00c0 TRAVERS",
+        "url": "https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x"
+      },
+      "artists": [
+        {
+          "name": "L (Rapha\u00eble Lannad\u00e8re)",
+          "url": "https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "PEUR DE RIEN",
+      "url": "https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2"
     },
     {
       "album": {

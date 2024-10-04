@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 167332,
       "name": "Don't Kno",
       "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
@@ -2538,6 +2538,32 @@
       "duration_ms": 177986,
       "name": "WIG (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
+    },
+    {
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21kuKR"

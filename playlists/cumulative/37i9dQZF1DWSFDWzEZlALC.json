@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO, Nina Chuba",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kasi, antonius",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1359,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Haut wie Pelz",
+        "url": "https://open.spotify.com/album/4T2qkNdnj5uhGhE73vTL4p"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182163,
+      "name": "Augen in der Nacht",
+      "url": "https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf"
+    },
+    {
+      "album": {
         "name": "CRAZY HORSE CLUB MIXTAPE, VOL. 1",
         "url": "https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ"
       },
@@ -1934,6 +1956,24 @@
       "duration_ms": 172700,
       "name": "Blau",
       "url": "https://open.spotify.com/track/0lxkCY9FTzfwx6Lyl3OzO4"
+    },
+    {
+      "album": {
+        "name": "Blaue Schilder",
+        "url": "https://open.spotify.com/album/354ra1V864BaudsQ0xMmG0"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183908,
+      "name": "Blaue Schilder",
+      "url": "https://open.spotify.com/track/19CoaxctorzsIV6YuP3Vf0"
     },
     {
       "album": {
@@ -2764,7 +2804,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 131226,
       "name": "Das machst du",
       "url": "https://open.spotify.com/track/5lciq0OUwDc3ZVg4Y2IJth"
@@ -6776,7 +6816,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 158437,
       "name": "In Der Zeit Verlieren",
       "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
@@ -8208,6 +8248,28 @@
       "duration_ms": 143722,
       "name": "Leergetanzt",
       "url": "https://open.spotify.com/track/19XTfACt5ydlm3pF2g0F7h"
+    },
+    {
+      "album": {
+        "name": "leicht beschwipst_demo2",
+        "url": "https://open.spotify.com/album/0txKSl2BX7Rfnzlo8cKAqi"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109829,
+      "name": "leicht beschwipst_demo2",
+      "url": "https://open.spotify.com/track/5PEGV3HAYmM6Irk9Vnx32M"
     },
     {
       "album": {
@@ -10036,7 +10098,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168926,
       "name": "Nur f\u00fcr eine Nacht",
       "url": "https://open.spotify.com/track/6KJZ2dTHNUzm4rAdcR41tD"
@@ -10214,6 +10276,24 @@
       "duration_ms": 150520,
       "name": "Ohne uns",
       "url": "https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK"
+    },
+    {
+      "album": {
+        "name": "Vielleicht EP",
+        "url": "https://open.spotify.com/album/4i3a981CPMyD27vOXLbmoB"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/0yGqdN7pzKF7kjH3mIkGKi"
     },
     {
       "album": {
@@ -10936,6 +11016,24 @@
       "duration_ms": 174283,
       "name": "Regenbogen",
       "url": "https://open.spotify.com/track/6FTtryKq4A4j3Ic92Dhvw9"
+    },
+    {
+      "album": {
+        "name": "Regensommerwinterwald",
+        "url": "https://open.spotify.com/album/01xigBopL1SsmuKPZWJ4ej"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Regensommerwinterwald",
+      "url": "https://open.spotify.com/track/2iq96OV4gLo5FkNpv2irJV"
     },
     {
       "album": {
@@ -12128,7 +12226,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164420,
       "name": "So leicht",
       "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
@@ -12709,6 +12807,24 @@
     },
     {
       "album": {
+        "name": "Sterne",
+        "url": "https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf"
+      },
+      "artists": [
+        {
+          "name": "ottomatisch",
+          "url": "https://open.spotify.com/artist/1y8g1oiY6pspWscjrZsSjH"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Sterne",
+      "url": "https://open.spotify.com/track/1kWQuTOWK2Sii2SuGaHCPS"
+    },
+    {
+      "album": {
         "name": "Sterne Sehen",
         "url": "https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx"
       },
@@ -12988,7 +13104,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 197503,
       "name": "tausend tattoos",
       "url": "https://open.spotify.com/track/5eCnPac0iRJG9tPS3IG8Bg"
@@ -13720,7 +13836,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 143154,
       "name": "Vergessen",
       "url": "https://open.spotify.com/track/4m4hXm2iOa5fNIEpvIiXye"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: TOMMY RICHMAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,056 likes - 209 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,104 likes - 209 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

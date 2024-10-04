@@ -5442,7 +5442,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW"
@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 237916,
       "name": "Dokimasia",
       "url": "https://open.spotify.com/track/2wbBqDHV8Lv4XyBhBnakNx"
@@ -11294,7 +11294,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 159340,
       "name": "Euro Gangsta",
       "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
@@ -26722,8 +26722,8 @@
           "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
-          "name": "Arab",
-          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+          "name": "AR-AB",
+          "url": "https://open.spotify.com/artist/22PN8q6f33B3WpZI7u6CbG"
         }
       ],
       "date_added": "2024-07-12",
@@ -26794,7 +26794,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"

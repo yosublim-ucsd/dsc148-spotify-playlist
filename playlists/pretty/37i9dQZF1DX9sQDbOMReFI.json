@@ -1,6 +1,6 @@
 {
   "description": "The best side! Cover: 213",
-  "num_followers": 886362,
+  "num_followers": 886887,
   "original_name": "West Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2024-08-09 20:34:38",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "O.G.L.B.",
+          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
         }
       ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
+      "duration_ms": 203026,
+      "name": "This D.J.",
+      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
     },
     {
       "added_at": "2024-08-09 20:34:38",
@@ -367,22 +371,18 @@
     {
       "added_at": "2024-08-09 20:34:38",
       "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
       "artists": [
         {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "O.G.L.B.",
-          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 203026,
-      "name": "This D.J.",
-      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
     },
     {
       "added_at": "2024-08-09 20:34:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-09 20:34:38",
       "album": {
-        "name": "Hispanic Causing Panic",
-        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
-      },
-      "artists": [
-        {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "La Raza",
-      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
-    },
-    {
-      "added_at": "2024-08-09 20:34:38",
-      "album": {
         "name": "This Is The Shack",
         "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 238800,
       "name": "Summertime In The LBC",
       "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
+    },
+    {
+      "added_at": "2024-08-09 20:34:38",
+      "album": {
+        "name": "Hispanic Causing Panic",
+        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
+      },
+      "artists": [
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "La Raza",
+      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
     },
     {
       "added_at": "2024-08-09 20:34:38",

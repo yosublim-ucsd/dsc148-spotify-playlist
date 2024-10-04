@@ -2,7 +2,7 @@
 
 ### [This Is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
 
-> This is Marcos Witt\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Marcos Witt\. Los temas esenciales, todos en una lista.
 
 72 songs - 6 hr 1 min
 

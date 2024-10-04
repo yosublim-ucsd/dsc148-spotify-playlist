@@ -1,15 +1,15 @@
 {
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa?si=hcmU6Fa_TySDBwk48HCCPQ\">Internet Athi</a>",
-  "num_followers": 8660,
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt?si=5x3tFQTzQ7acIMkaTkBBqA\">Nomfundo Xaluva</a>",
+  "num_followers": 8668,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvuxKAAAAADMpa3BUtVyVUg2+mzyj7Kg",
+  "snapshot_id": "Zv8vxwAAAABiOdaRt/MMVT3G/1+kARsQ",
   "tracks": [
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Light Cycle / Vang Gou Die Strandloper - Live",
         "url": "https://open.spotify.com/album/3tVoyRG5DZwoJ7i0mDROCr"
@@ -61,23 +61,23 @@
       "url": "https://open.spotify.com/track/6i6zDNV7uXaJ8Xx6MAZgh0"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
-        "name": "Order My Steps",
-        "url": "https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC"
+        "name": "Ndilapha",
+        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
       "artists": [
         {
-          "name": "Gabi Motuba",
-          "url": "https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC"
+          "name": "Nomfundo Xaluva",
+          "url": "https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt"
         }
       ],
-      "duration_ms": 375523,
-      "name": "Order My Steps",
-      "url": "https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w"
+      "duration_ms": 398530,
+      "name": "Wendile",
+      "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Hamba No Malume",
         "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
@@ -93,23 +93,23 @@
       "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+        "name": "Order My Steps",
+        "url": "https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC"
       },
       "artists": [
         {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+          "name": "Gabi Motuba",
+          "url": "https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC"
         }
       ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+      "duration_ms": 375523,
+      "name": "Order My Steps",
+      "url": "https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "TRUE STORY",
         "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
+      "album": {
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+    },
+    {
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Idabi Labantu",
         "url": "https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Come Home (feat. Filah Lah Lah)",
         "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Azania",
         "url": "https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "God Bless iKapa. God Bless Mzantsi.",
         "url": "https://open.spotify.com/album/5c3uu1hEvY29Q5kWsmwzSN"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/6t86xpHg2FbUA4kQbAxjnl"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Reawakening",
         "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Water Spirits: Izinkonjana",
         "url": "https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "nomthandazo",
         "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Enhlizweni - song stories from my heartland",
         "url": "https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Inkehli",
         "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "We Have Been Here Before",
         "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Lullaby For Khayoyo",
         "url": "https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "In The Wake",
         "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Ndinethemba Uzobuya",
         "url": "https://open.spotify.com/album/1mKcLEqEcDIyRhJC8sqDa2"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/4tbsIcC72CzATUKdRqkK3u"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "P (x) J",
         "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Hold the Stars",
         "url": "https://open.spotify.com/album/6j3fXlcMFcY3DeQYBhDROO"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/21buPEKxr5cOPlJCOI1SpZ"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Born Coloured, not Born-Free",
         "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Another Side with Another Time Ensemble (Live in Cairo)",
         "url": "https://open.spotify.com/album/0gy0z1wYbwr1FEkCG9tvTA"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/6HIMyflR3HeKFHuH9iOw3w"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Find the Path",
         "url": "https://open.spotify.com/album/3KoFbcGb4hjuT50jC25s7M"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/3zVCTPOk874tBgmUN6ee3m"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Rites",
         "url": "https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Rainbow Revisited",
         "url": "https://open.spotify.com/album/1dCytQDx5VX09Hl3q2oinS"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "African Bass (Remastered 2024)",
         "url": "https://open.spotify.com/album/3bh4LWHLqPS5CWKdz3ZYvz"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/6BP0MPz3UVk8s7Aixy2hs5"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Wrapped in Rhythm, Vol. 1",
         "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Bela Bela (Live Studio)",
         "url": "https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Jazz Standards, Vol. 2",
         "url": "https://open.spotify.com/album/3R9XrjbSAcOmR9hof5uP0W"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/1qKVKQskVy3TbHPZDfM9iy"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Hymn For Hani",
         "url": "https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/1dyINry7aQw296piLxPzUB"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Champagne Kisses",
         "url": "https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Light Cycle / Vang Gou Die Strandloper",
         "url": "https://open.spotify.com/album/0AbupBIps2UaQWWQjIWmTt"
@@ -693,23 +709,7 @@
       "url": "https://open.spotify.com/track/2Qr7PCmshXAAOUvP3bwotE"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
-      "album": {
-        "name": "Tiya Mowa",
-        "url": "https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd"
-      },
-      "artists": [
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        }
-      ],
-      "duration_ms": 275925,
-      "name": "Tiya Mowa",
-      "url": "https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud"
-    },
-    {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "MaBrrrrrrrrr",
         "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Lesedi",
         "url": "https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "IZIBONGO",
         "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Convergence Bekezela Siyeza",
         "url": "https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "What Is Wrong With Groovin'",
         "url": "https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Mindif",
         "url": "https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Maswitsi",
         "url": "https://open.spotify.com/album/42wwNyvnXH1ic9WXoDMPih"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/2BbZxaStk8il8epewh9Dbp"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "Siparia to Soweto",
         "url": "https://open.spotify.com/album/0kTFinupZwLN67sWCXvhGp"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/3dKkSKgUL8MHjqqzPJZF0a"
     },
     {
-      "added_at": "2024-10-01 08:22:00",
+      "added_at": "2024-10-03 23:59:03",
       "album": {
         "name": "South African Jam",
         "url": "https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC"

@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-95 songs - 5 hr 46 min
+97 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Love is waiting \(999\)](https://open.spotify.com/track/0Rnng5KiuJ68YZ8Sb5hPi9) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [SHIRO’S SONGBOOK BLEACH盤解！](https://open.spotify.com/album/51FzDMXWGUyVUUmsFKaLs2) | 4:04 | 2022-12-13 |  |
 | [Mad Surfer \(album ver.\)](https://open.spotify.com/track/5lDDJCkjSRkTUmDyhr70pC) | [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [Sphinx Rose](https://open.spotify.com/album/4MB6yzftKiHqTBgyWpNXDP) | 3:22 | 2022-10-06 |  |
 | [MASK](https://open.spotify.com/track/3YZjXndB9qLFFGlBbEJXO1) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [MASK](https://open.spotify.com/album/1s7u0rzbvJMmSt9bXbPhqT) | 4:53 | 2022-10-06 |  |
+| [MONOCHROME](https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [MONOCHROME](https://open.spotify.com/album/04zfcQnPmaUnxJGNUkVW1o) | 3:01 | 2024-10-03 |  |
 | [MOVIN!!](https://open.spotify.com/track/1SgMd9fX8zDxbqdFowP94N) | [タカチャ](https://open.spotify.com/artist/28CivLhZyBoYf7s0G5enGB) | [MOVIN!!](https://open.spotify.com/album/3QqvwRWkJsRliEMgq0ZB4N) | 4:19 | 2022-10-06 |  |
 | [never meant to belong](https://open.spotify.com/track/0CCt7uzp4MBYR85wugmkGa) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 5:26 | 2022-10-06 |  |
 | [Nothing Can Be Explained \(vocal ver.\)](https://open.spotify.com/track/0XZV1dLrhHyWGFuv87U9ZZ) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 3:27 | 2022-10-06 |  |
@@ -102,6 +103,7 @@
 | [橙](https://open.spotify.com/track/6OWJHb4xcFoDtsIPn7eUXi) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [橙](https://open.spotify.com/album/10HOtqMUc3B8o8p0XBgluc) | 3:22 | 2022-10-06 |  |
 | [爪先](https://open.spotify.com/track/3UYMGyBW0HUK6Hsik5Ytci) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 3:55 | 2022-10-06 |  |
 | [種をまく日々](https://open.spotify.com/track/7bcoRv64q9scHXBpwnXw7j) | [Kousuke Atari](https://open.spotify.com/artist/7b8ldacdKpE3AtFaXQu1AG) | [種をまく日々](https://open.spotify.com/album/1KPH9Dyo72FqqHuBaJqa4o) | 5:37 | 2022-10-06 |  |
+| [言葉にせずとも](https://open.spotify.com/track/4NqQsjG9k9tCChdp51jX8V) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [言葉にせずとも](https://open.spotify.com/album/2I6gEniIx6d4bJ2ozNcnpc) | 3:13 | 2024-10-03 |  |
 | [＊〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [＊〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 | 2022-10-06 |  |
 
 \*This playlist was first scraped on 2022-10-07. Prior content cannot be recovered.

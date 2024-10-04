@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vettaiyan
 
-134 songs - 8 hr 2 min
+135 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 | 2022-09-13 |  |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-27 |  |
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 | 2023-11-09 |
+| [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 | 2024-10-03 |  |
 | [Meherezylaa](https://open.spotify.com/track/2HPVvTJ5BZGLOXTyrPH3wy) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 4:19 | 2021-11-27 | 2022-08-04 |
 | [Minikki Minikki](https://open.spotify.com/track/48SUyK7lpQElCnhFjP3qPc) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Thangalaan \(Original Motion Picture Soundtrack\) \- Tamil](https://open.spotify.com/album/7BQyrySqccnKrr1dfxTW7R) | 3:22 | 2024-08-31 |  |
 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 | 2022-02-09 | 2024-09-10 |

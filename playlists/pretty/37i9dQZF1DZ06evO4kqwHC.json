@@ -1,12 +1,12 @@
 {
-  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1077800,
+  "description": "This Is Foo Fighters. Los temas esenciales, todos en una lista.",
+  "num_followers": 1077827,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAABj1mpJc3n27bHq/hfV7vBI",
+  "snapshot_id": "ZvyNAAAAAABjwiMMtbktRLUz+CwO/wKm",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 267560,
-      "name": "Arlandria",
-      "url": "https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS"
+      "duration_ms": 259026,
+      "name": "Rope",
+      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 259026,
-      "name": "Rope",
-      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
+      "duration_ms": 267560,
+      "name": "Arlandria",
+      "url": "https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS"
     },
     {
       "added_at": null,

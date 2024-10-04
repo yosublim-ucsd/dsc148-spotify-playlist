@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Savage Toddy",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : GS",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 256000,
       "name": "2ECOND",
       "url": "https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW"
+    },
+    {
+      "album": {
+        "name": "2NIGHT",
+        "url": "https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O"
+      },
+      "artists": [
+        {
+          "name": "JaySoCold",
+          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120027,
+      "name": "2NIGHT",
+      "url": "https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh"
     },
     {
       "album": {
@@ -1664,6 +1682,28 @@
       "duration_ms": 152000,
       "name": "Coeur noir",
       "url": "https://open.spotify.com/track/1sbo7jQxRWdRgtCOgC56zY"
+    },
+    {
+      "album": {
+        "name": "Coeur trop petit pour deux",
+        "url": "https://open.spotify.com/album/6Dgq9UHso7w1M412cmoe4x"
+      },
+      "artists": [
+        {
+          "name": "Nina Rossell",
+          "url": "https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw"
+        },
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187445,
+      "name": "Coeur trop petit pour deux",
+      "url": "https://open.spotify.com/track/5rseoSZlvuhGn9RAVRYbv8"
     },
     {
       "album": {
@@ -3822,7 +3862,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184000,
       "name": "Katrina",
       "url": "https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF"
@@ -5636,7 +5676,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173346,
       "name": "Ourania",
       "url": "https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3"

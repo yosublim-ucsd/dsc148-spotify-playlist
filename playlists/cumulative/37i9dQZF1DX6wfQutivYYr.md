@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Lazza sulla cover della più grande playlist in Italia! 🏆
+> Pinguini Tattici Nucleari sulla cover della più grande playlist in Italia! 🏆
 
 88 songs - 4 hr 29 min
 

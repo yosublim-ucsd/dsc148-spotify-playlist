@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "6AM",
+        "url": "https://open.spotify.com/album/726l6FtQNTSHtE5vOegISU"
+      },
+      "artists": [
+        {
+          "name": "Puar",
+          "url": "https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108169,
+      "name": "6AM",
+      "url": "https://open.spotify.com/track/3bCQKTqf87bl08T1mRQSa9"
+    },
+    {
+      "album": {
         "name": "73 Spaceloop",
         "url": "https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj"
       },
@@ -35383,6 +35401,24 @@
     },
     {
       "album": {
+        "name": "empty beach",
+        "url": "https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx"
+      },
+      "artists": [
+        {
+          "name": "Nitta' Gritta'",
+          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "empty beach",
+      "url": "https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB"
+    },
+    {
+      "album": {
         "name": "Empty Beach",
         "url": "https://open.spotify.com/album/2aG7MXUTXsHxcbv6FvdT5u"
       },
@@ -38936,7 +38972,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 118944,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/58uy3CHRJaCg8fzxqpuibp"
@@ -41252,7 +41288,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 117337,
       "name": "Floor 5",
       "url": "https://open.spotify.com/track/2IEJDnXmqa2QEkcUureE1p"
@@ -45346,6 +45382,28 @@
       "duration_ms": 150361,
       "name": "Getting Higher",
       "url": "https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA"
+    },
+    {
+      "album": {
+        "name": "Getting Married",
+        "url": "https://open.spotify.com/album/4B0xncyzXBpw4FPAy23V3M"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        },
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137616,
+      "name": "Getting Married",
+      "url": "https://open.spotify.com/track/2640vLhigFlqFwsXFPYSQH"
     },
     {
       "album": {
@@ -52268,6 +52326,24 @@
       "duration_ms": 137142,
       "name": "Home_",
       "url": "https://open.spotify.com/track/1xtGl9Bz444K4f7mvyYTKm"
+    },
+    {
+      "album": {
+        "name": "Homealone",
+        "url": "https://open.spotify.com/album/14539fC4lriCSZx0fLbaw9"
+      },
+      "artists": [
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Homealone",
+      "url": "https://open.spotify.com/track/2fOsQYqYQ2FUFx6mZgvBtU"
     },
     {
       "album": {
@@ -59669,7 +59745,7 @@
     },
     {
       "album": {
-        "name": "Jetty",
+        "name": "jetty",
         "url": "https://open.spotify.com/album/3G4KpeSficpNohQd8qG1Zi"
       },
       "artists": [
@@ -59686,7 +59762,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 113087,
-      "name": "Jetty",
+      "name": "jetty",
       "url": "https://open.spotify.com/track/3k6Hq6Yjiv8GXTewJmWg3B"
     },
     {
@@ -105198,7 +105274,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 143140,
       "name": "slow countryside days",
       "url": "https://open.spotify.com/track/2Fjk06lh3qCrBZZy47krbO"
@@ -124868,7 +124944,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 130774,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/62ZcMbemNH5zIhx0hrLUWf"

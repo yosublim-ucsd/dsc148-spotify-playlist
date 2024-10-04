@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: CC:Disco",
+  "description": "A new world of alternative electronic music. \nCover: Anna Lunoe",
   "name": "Portal",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 336120,
       "name": "Accessory",
       "url": "https://open.spotify.com/track/0dOrtICT7qfnvtluSFOI0Q"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 171208,
       "name": "back 2 love",
       "url": "https://open.spotify.com/track/6ihpgFagnilliKyz2gTqik"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186426,
       "name": "Blowfish - Single Version",
       "url": "https://open.spotify.com/track/0TOQlcNu2fZjSdwy8SeiIq"
@@ -3803,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Don't Touch Me Baby",
+      "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "album": {
         "name": "Done",
         "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
@@ -4144,7 +4166,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 180000,
       "name": "ELECTRIC BLUE",
       "url": "https://open.spotify.com/track/33lekkAv8vy5DIf2oRNdPU"
@@ -4655,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Feel the Generation",
+        "url": "https://open.spotify.com/album/765PPYB9VYnCNQNbGjUMaZ"
+      },
+      "artists": [
+        {
+          "name": "James Pepper",
+          "url": "https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Feel the Generation",
+      "url": "https://open.spotify.com/track/4c3uXUEo1EtkYU2ct953lO"
+    },
+    {
+      "album": {
         "name": "Feeling Alive",
         "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
       },
@@ -4768,7 +4808,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 357120,
       "name": "Ferality",
       "url": "https://open.spotify.com/track/7CXNVRwglVVjPVC4Aiv2A5"
@@ -4852,7 +4892,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 182098,
       "name": "Find A Way (feat. Suli Breaks)",
       "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
@@ -5325,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
+    },
+    {
+      "album": {
         "name": "Fuck what u heard",
         "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
       },
@@ -5406,6 +5464,28 @@
       "duration_ms": 207000,
       "name": "Gangster Time",
       "url": "https://open.spotify.com/track/4LEU14gZpGPwjbdJm58fz4"
+    },
+    {
+      "album": {
+        "name": "Gem Lingo (ovr now)",
+        "url": "https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "Gem Lingo (ovr now)",
+      "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
     },
     {
       "album": {
@@ -5638,6 +5718,24 @@
       "duration_ms": 237288,
       "name": "Got The Love",
       "url": "https://open.spotify.com/track/7DAwKG0lJlzkBuP4EfAk0v"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Got to Change",
+      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
     },
     {
       "album": {
@@ -6068,6 +6166,24 @@
       "duration_ms": 212463,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk"
+    },
+    {
+      "album": {
+        "name": "Higher (Prozak Remix)",
+        "url": "https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212463,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6BPRJB3sHcqcent8i9CVUc"
     },
     {
       "album": {
@@ -6821,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "in2minds",
+        "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "in2minds",
+      "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
+    },
+    {
+      "album": {
         "name": "Indisputable",
         "url": "https://open.spotify.com/album/4THxIwxiPJYHC0mq80z21g"
       },
@@ -7274,7 +7412,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 236764,
       "name": "Key103 [a56 edit]",
       "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
@@ -8016,7 +8154,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 314505,
       "name": "Lost Wiv U",
       "url": "https://open.spotify.com/track/1an9nRcgsMCgcZf7mI8Wyz"
@@ -8042,6 +8180,24 @@
       "duration_ms": 387123,
       "name": "Love Divide - Bubble Love Remix",
       "url": "https://open.spotify.com/track/77xrEjHvl3b8MEiUU5aMSn"
+    },
+    {
+      "album": {
+        "name": "Love Enemy",
+        "url": "https://open.spotify.com/album/0Y6IBIvBKUMfKCttOh0cbL"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222969,
+      "name": "Love Enemy",
+      "url": "https://open.spotify.com/track/3Z73duCokUklMs0JQBF83i"
     },
     {
       "album": {
@@ -8594,7 +8750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 267889,
       "name": "Minted",
       "url": "https://open.spotify.com/track/685odRcL8rBozukVstTHjK"
@@ -9196,6 +9352,28 @@
       "duration_ms": 220393,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6"
+    },
+    {
+      "album": {
+        "name": "No Chance Where I Come From (Garden City Movement Remix)",
+        "url": "https://open.spotify.com/album/1OU5TF06TYaEYl4Murq03D"
+      },
+      "artists": [
+        {
+          "name": "Marko East",
+          "url": "https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi"
+        },
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358608,
+      "name": "No Chance Where I Come From - Garden City Movement Remix",
+      "url": "https://open.spotify.com/track/4XJUoUAxNlP7a2eO3h5RaS"
     },
     {
       "album": {
@@ -10189,6 +10367,28 @@
     },
     {
       "album": {
+        "name": "Polite",
+        "url": "https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Shanique Marie",
+          "url": "https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226836,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv"
+    },
+    {
+      "album": {
         "name": "Positive Vibe Tribe",
         "url": "https://open.spotify.com/album/202dQdfSfijkDi8joBcYL8"
       },
@@ -10522,6 +10722,28 @@
       "duration_ms": 376346,
       "name": "Raving Lunatic",
       "url": "https://open.spotify.com/track/6BKdI34pLES1vjKmX9qpww"
+    },
+    {
+      "album": {
+        "name": "RB3",
+        "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239890,
+      "name": "RB3",
+      "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
     },
     {
       "album": {
@@ -11542,7 +11764,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 231349,
       "name": "Show You",
       "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
@@ -12928,7 +13150,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190624,
       "name": "Tell Me What's In Your Head - Charlie Shell Remix",
       "url": "https://open.spotify.com/track/51JUabNeL65vI6HiarXsQ5"
@@ -14034,7 +14256,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211014,
       "name": "Want U",
       "url": "https://open.spotify.com/track/5Ua8VQMSog6p5li52ntAnJ"

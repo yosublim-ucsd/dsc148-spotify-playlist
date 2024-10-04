@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 228000,
       "name": "Because of You, I Shine",
       "url": "https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6"
@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "JELLO",
+        "url": "https://open.spotify.com/album/5hHX38Rnogq7fwLgScNCmi"
+      },
+      "artists": [
+        {
+          "name": "Sugar 'N Spice",
+          "url": "https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "JELLO",
+      "url": "https://open.spotify.com/track/5uzwwLPiCwkBNHRuMyIdVn"
+    },
+    {
+      "album": {
         "name": "JUST DANCE",
         "url": "https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs"
       },
@@ -1832,6 +1850,24 @@
       "duration_ms": 190725,
       "name": "Not Romantic",
       "url": "https://open.spotify.com/track/09whSxd83dqNcsKZvmmwko"
+    },
+    {
+      "album": {
+        "name": "OH MY!",
+        "url": "https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157009,
+      "name": "OH MY!",
+      "url": "https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu"
     },
     {
       "album": {
@@ -4932,7 +4968,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 196896,
       "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
@@ -5532,7 +5568,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 225085,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
       "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
@@ -6428,6 +6464,28 @@
       "duration_ms": 222519,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e25\u0e32 (jasmine)",
       "url": "https://open.spotify.com/track/42kVAXHScwppQdPPGsygb2"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e37\u0e19\u0e07\u0e07\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e2b\u0e25\u0e07\u0e40\u0e18\u0e2d (GPS)",
+        "url": "https://open.spotify.com/album/2a7k4bhIrpcEDq5pgtUcnw"
+      },
+      "artists": [
+        {
+          "name": "Image Suthita",
+          "url": "https://open.spotify.com/artist/3BJnzsdoO0qbpDS8QNE5wJ"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "\u0e22\u0e37\u0e19\u0e07\u0e07\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e2b\u0e25\u0e07\u0e40\u0e18\u0e2d (GPS)",
+      "url": "https://open.spotify.com/track/4kPsiDBsPUWDhyrMXZBXvO"
     },
     {
       "album": {
@@ -7384,7 +7442,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 213913,
       "name": "\u0e2a\u0e19\u0e17\u0e19\u0e32 (Deep Talk)",
       "url": "https://open.spotify.com/track/18g2qDpPj6BMk0co4vuDRt"
@@ -8050,10 +8108,46 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 225428,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32",
       "url": "https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9"
+    },
+    {
+      "album": {
+        "name": "Emotional Rollercoaster",
+        "url": "https://open.spotify.com/album/7x6Rqd74OhtmCkipVZ31FM"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35\u0e46\u0e01\u0e47\u0e2d\u0e48\u0e2d\u0e19\u0e41\u0e2d (My Weakness is You)",
+      "url": "https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e35\u0e49\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e44\u0e2b\u0e21 (Not too close)",
+        "url": "https://open.spotify.com/album/0CIMFN6hXEe7bgIKvzegdy"
+      },
+      "artists": [
+        {
+          "name": "MANIACT",
+          "url": "https://open.spotify.com/artist/4vwzfpFBKNWO5wSikwFm8j"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e35\u0e49\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e44\u0e2b\u0e21 (Not too close)",
+      "url": "https://open.spotify.com/track/79b1jvvma41fVEycWddFgO"
     },
     {
       "album": {
@@ -8432,7 +8526,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 200526,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19 (Lovefool)",
       "url": "https://open.spotify.com/track/2vmEX5b6qbFfLNvD8EvULb"
@@ -10286,6 +10380,24 @@
       "duration_ms": 189830,
       "name": "\u0e44\u0e1b\u0e25\u0e49\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e44\u0e01\u0e25\u0e46 (Not Kidding)",
       "url": "https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP"
+    },
+    {
+      "album": {
+        "name": "SWEET AND SOUR",
+        "url": "https://open.spotify.com/album/7eKgeHEzVE1kJ22WLTigYh"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "\u0e44\u0e21\u0e48\u0e01\u0e49\u0e32\u0e27\u0e1c\u0e48\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/3OEd6Z88K4jv0G9aeHGhGN"
     },
     {
       "album": {

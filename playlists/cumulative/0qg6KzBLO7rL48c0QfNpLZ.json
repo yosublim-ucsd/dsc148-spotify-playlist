@@ -9111,6 +9111,24 @@
     },
     {
       "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/0TTkwLSkaU5nYsqNH5SXbL"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/2mI3ZYo3JogblyOx6zDXAZ"
+    },
+    {
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
       },
@@ -14432,6 +14450,24 @@
       "duration_ms": 196721,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA"
+    },
+    {
+      "album": {
+        "name": "Why You Lie",
+        "url": "https://open.spotify.com/album/3iwKrtHMgS9S8aFehqAWAo"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Why You Lie",
+      "url": "https://open.spotify.com/track/1ulrCTLaTiKa61FRGaAO0F"
     },
     {
       "album": {

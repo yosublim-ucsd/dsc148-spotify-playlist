@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: giring ganesha",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Rizwan Fadilah",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 261707,
       "name": "Asumsi",
       "url": "https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT"
+    },
+    {
+      "album": {
+        "name": "At Least We Tried",
+        "url": "https://open.spotify.com/album/39Udvsu01UpF8W4f2A9h2s"
+      },
+      "artists": [
+        {
+          "name": "Agatha Chelsea",
+          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "At Least We Tried",
+      "url": "https://open.spotify.com/track/4HevrR9k6qc3glD3q9Ru5O"
     },
     {
       "album": {
@@ -2505,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Nasib Suami Di Akhir Bulan",
+        "url": "https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn"
+      },
+      "artists": [
+        {
+          "name": "Five Minutes",
+          "url": "https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "Nasib Suami Di Akhir Bulan",
+      "url": "https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi"
+    },
+    {
+      "album": {
         "name": "Nomor Satu",
         "url": "https://open.spotify.com/album/0iSGNSqSYEokAF47QbcU3Q"
       },
@@ -2960,6 +2996,24 @@
       "duration_ms": 274506,
       "name": "Salam Perpisahan",
       "url": "https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg"
+    },
+    {
+      "album": {
+        "name": "Sampai Maut Memisahkan",
+        "url": "https://open.spotify.com/album/7ytaTaCl4HhEL0xRGi7SyI"
+      },
+      "artists": [
+        {
+          "name": "Dadali",
+          "url": "https://open.spotify.com/artist/4J4X9maePktDRDgRBI004W"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Sampai Maut Memisahkan",
+      "url": "https://open.spotify.com/track/22QrL4LbndxkgEUCv3rQJ2"
     },
     {
       "album": {
@@ -3564,6 +3618,24 @@
       "duration_ms": 212205,
       "name": "Tanpa Bicara",
       "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
+    },
+    {
+      "album": {
+        "name": "Tanpa Bicara (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6k86SYxKHyaPsnB0gRv8ll"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Tanpa Bicara - Acoustic Version",
+      "url": "https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP"
     },
     {
       "album": {

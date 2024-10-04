@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Pepy, Sami G",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Guess Who",
   "name": "Suflet + Sunet",
   "tracks": [
+    {
+      "album": {
+        "name": "*exemplu",
+        "url": "https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy"
+      },
+      "artists": [
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241632,
+      "name": "*exemplu",
+      "url": "https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD"
+    },
     {
       "album": {
         "name": "0 contact",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150000,
       "name": "0 contact",
       "url": "https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 238762,
       "name": "Banii Vin, Banii Pleaca",
       "url": "https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz"
@@ -416,6 +434,32 @@
       "duration_ms": 168571,
       "name": "Bucure\u0219ti",
       "url": "https://open.spotify.com/track/4EcRuuGCmMEhNsBstYdeUs"
+    },
+    {
+      "album": {
+        "name": "Cand Nimeni Nu Te Vede",
+        "url": "https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz"
+      },
+      "artists": [
+        {
+          "name": "Stres",
+          "url": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "DJ Wicked",
+          "url": "https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168158,
+      "name": "Cand Nimeni Nu Te Vede",
+      "url": "https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze"
     },
     {
       "album": {
@@ -758,7 +802,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 266206,
       "name": "Gr\u0103dina interioar\u0103",
       "url": "https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx"
@@ -871,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Aproape TOT",
+        "url": "https://open.spotify.com/album/1Qb2fUJIgv2xKKYGo1WWl7"
+      },
+      "artists": [
+        {
+          "name": "DOC",
+          "url": "https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA"
+        },
+        {
+          "name": "Hardplay",
+          "url": "https://open.spotify.com/artist/5oNOqzbZ0wPu4tn0mM5vmH"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111617,
+      "name": "Joac\u0103",
+      "url": "https://open.spotify.com/track/2P4d947MikKNSQw5I3lHSv"
+    },
+    {
+      "album": {
         "name": "Legenda",
         "url": "https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP"
       },
@@ -882,7 +948,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 159000,
       "name": "Legenda",
       "url": "https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S"
@@ -1020,6 +1086,24 @@
       "duration_ms": 149000,
       "name": "Merit mai mult",
       "url": "https://open.spotify.com/track/6er5fC7StXq4wJa8QwKYxB"
+    },
+    {
+      "album": {
+        "name": "Oameni putini",
+        "url": "https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY"
+      },
+      "artists": [
+        {
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186224,
+      "name": "Oameni putini",
+      "url": "https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e"
     },
     {
       "album": {

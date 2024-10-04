@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 285715,
       "name": "Dekho Saiya",
       "url": "https://open.spotify.com/track/66Mls8TEgZlsAQiEC4uRuP"
@@ -5466,6 +5466,32 @@
       "duration_ms": 200396,
       "name": "Rutho Na",
       "url": "https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv"
+    },
+    {
+      "album": {
+        "name": "Saajan",
+        "url": "https://open.spotify.com/album/6WCSmcdBShRPCO3uKjvihh"
+      },
+      "artists": [
+        {
+          "name": "Shahid Khan",
+          "url": "https://open.spotify.com/artist/5NCYHU9bcrR0DaOBWgIn0G"
+        },
+        {
+          "name": "Arjun Sarkar",
+          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Saajan",
+      "url": "https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA"
     },
     {
       "album": {

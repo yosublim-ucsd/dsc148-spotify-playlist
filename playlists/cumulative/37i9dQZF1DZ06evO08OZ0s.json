@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "This is Kelli-Leigh. The essential tracks, all in one playlist.",
+  "description": "This Is Kelli-Leigh. Los temas esenciales, todos en una lista.",
   "name": "This Is Kelli-Leigh",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 175000,
       "name": "Motherland (Women's Six Nations Anthem)",
       "url": "https://open.spotify.com/track/2qCpOVndPKJNyxA1162ztO"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 193748,
       "name": "The Reason (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/3YxhYfKcAHMrczJRUXCe5O"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Unwrap My Heart",
+        "url": "https://open.spotify.com/album/0NNFk8ELkHpYQXodDvMSiC"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194310,
+      "name": "Unwrap My Heart",
+      "url": "https://open.spotify.com/track/1gMLmlEVJvJKS3EOKdCpdp"
+    },
+    {
+      "album": {
         "name": "Waiting (VIP)",
         "url": "https://open.spotify.com/album/06jgxM51n1uKPRnV0pFHBm"
       },
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 207562,
       "name": "Without You - Dissent Remix",
       "url": "https://open.spotify.com/track/0Wa9QbZRhwGPVAqYdJMzLD"

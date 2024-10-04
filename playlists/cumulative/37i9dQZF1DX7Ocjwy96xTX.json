@@ -5183,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL"
+      },
+      "artists": [
+        {
+          "name": "Chakra Efendi",
+          "url": "https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G"
+    },
+    {
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -5364,6 +5382,24 @@
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
+    },
+    {
+      "album": {
+        "name": "what's true?",
+        "url": "https://open.spotify.com/album/3fydnNsm5IL1LEVZ4rGBaP"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "what's true?",
+      "url": "https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd"
     },
     {
       "album": {

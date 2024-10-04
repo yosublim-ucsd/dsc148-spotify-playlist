@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-181 songs - 10 hr 13 min
+183 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [For Life](https://open.spotify.com/track/76Iicmgf804bRnQDFHeCr1) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [For Life](https://open.spotify.com/album/2Kk3WcDTY8yEDH3ZK50XMr) | 4:08 | 2024-05-20 |  |
 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 | 2024-05-20 |  |
 | [Gangsta Lean](https://open.spotify.com/track/6cCUTFJ2uRzTO205PGTkhS) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Gangsta Lean](https://open.spotify.com/album/0hgmt43uuaYXt5xcd3vBmF) | 3:23 | 2024-05-20 |  |
-| [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2024-05-20 |  |
+| [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2024-05-20 | 2024-10-04 |
 | [Ghost](https://open.spotify.com/track/5kHdsgUGfFEQRgxSHybWss) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Ghost](https://open.spotify.com/album/02ZquFod2IdjAxRJRIk3Sv) | 2:49 | 2024-05-20 | 2024-08-16 |
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-05-20 |  |
 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 |  |
@@ -133,9 +133,10 @@
 | [One More Chance \(feat\. Savage\)](https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [One More Chance \(feat\. Savage\)](https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS) | 3:16 | 2024-08-15 |  |
 | [One True Love](https://open.spotify.com/track/43FQqxSy16OabeFD0X2cgj) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Sheldon Palmer](https://open.spotify.com/artist/0VNnu9f86UN5ATrAuDKu64) | [One True Love](https://open.spotify.com/album/5tJylxYHIt86FGsLNNTRF5) | 3:37 | 2024-05-20 |  |
 | [Painting My Roof Again](https://open.spotify.com/track/5hzO1rv7G7oYVWuLN7VUsl) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Painting My Roof Again](https://open.spotify.com/album/5KRo3jirSE4UEq2m2432No) | 4:08 | 2024-08-15 |  |
-| [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2024-05-20 |  |
+| [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2024-05-20 | 2024-10-04 |
 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 |  |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 |  |
+| [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 |  |
 | [Porcelain](https://open.spotify.com/track/2b8HXdCOw96FHzRAIx8Kps) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Porcelain](https://open.spotify.com/album/2pEMwAZNzrG1LP66stCLQH) | 2:09 | 2024-05-20 | 2024-08-16 |
 | [POSTAL](https://open.spotify.com/track/7aK38P1i3t9OuvQelbDffo) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [POSTAL](https://open.spotify.com/album/4vcokRs3TMvHwLUWo1OXsG) | 2:35 | 2024-05-20 | 2024-08-16 |
 | [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 |  |
@@ -173,6 +174,7 @@
 | [Tief Im Wald](https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Tief Im Wald](https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy) | 3:38 | 2024-05-20 |  |
 | [Time Of My Life](https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Time Of My Life](https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw) | 2:29 | 2024-08-15 |  |
 | [Timezones](https://open.spotify.com/track/0MWNEeM8S6PnP13xuJet12) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 4:02 | 2024-05-20 |  |
+| [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 |  |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 |  |
 | [Unchained](https://open.spotify.com/track/2JI6dU3fpanCwPMDDzX79K) | [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Not Your Cupid](https://open.spotify.com/album/48Ccju0seSWWB3ybbrVn6I) | 3:58 | 2024-05-20 |  |
 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 |  |

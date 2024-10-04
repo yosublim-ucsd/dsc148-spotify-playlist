@@ -4,7 +4,7 @@
 
 > featuring HARU NEMURI and Frost Children
 
-2,158 songs - 4 day 2 hr 14 min
+2,160 songs - 4 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [an0ther](https://open.spotify.com/track/4p1W4JGVHYUkDMjQqezAof) | [Young Finn](https://open.spotify.com/artist/1uV2xgEOx1BmW2j0oj1obY), [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [an0ther](https://open.spotify.com/album/3ssElHKsuv0YbQmwKia2Sb) | 2:07 | 2021-07-01 | 2021-09-16 |
 | [angel](https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [aysi](https://open.spotify.com/artist/4vuJBJ1Hsn9bY73gyGo8FO) | [angel](https://open.spotify.com/album/04pv7EjiVxLz3hyGCBrTZt) | 2:19 | 2023-04-28 | 2023-09-23 |
 | [angel \(so bad\)](https://open.spotify.com/track/4vvIWQCVGcUxK1jJl0Q1pR) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [angel \(so bad\)](https://open.spotify.com/album/5CElCHppgWDsKWH4bNSOQV) | 2:52 | 2021-05-15 | 2021-12-20 |
-| [Angel Music](https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Angel Music](https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X) | 2:07 | 2024-09-06 |  |
+| [Angel Music](https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Angel Music](https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X) | 2:07 | 2024-09-06 | 2024-10-04 |
 | [Angel Music](https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [girl EDM \- disc 1](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 2:07 | 2024-09-20 |  |
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2021-11-05 | 2022-01-13 |
 | [aNgEl taTToo](https://open.spotify.com/track/7uP0rQAhoZiMzaNIDBdz8d) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [aNgEl taTToo](https://open.spotify.com/album/17bqx3eI7999RsdJHmlbGc) | 3:09 | 2021-11-12 | 2022-03-05 |
@@ -603,6 +603,7 @@
 | [Exchange](https://open.spotify.com/track/7dtlUdDRvojEdSA8XQirwH) | [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [\*Organic Silhouette](https://open.spotify.com/album/2t67YOPjPRb3Nwgu64hIUe) | 1:40 | 2021-05-08 | 2021-05-15 |
 | [excuses](https://open.spotify.com/track/607hPDzX4BtD81bUbJYGui) | [goji!](https://open.spotify.com/artist/5XTHnCuWupK1FwiFouRJK4), [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV), [bitwhale](https://open.spotify.com/artist/4QUZ33RcXhzQL9GmRkNZWY) | [excuses](https://open.spotify.com/album/40iD9PAzN9QFBZW4pgbIrS) | 3:29 | 2021-08-27 | 2021-09-21 |
 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2hRxMeM5JeYjHLjGRrQ3lL) | 4:23 | 2024-08-31 |  |
+| [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/7jS24PfeU5Wkd4ieCZZMMu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:23 | 2024-10-03 |  |
 | [exit life](https://open.spotify.com/track/1YKq9aptgpNiyfoMSWXIFr) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [exit life](https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3) | 1:50 | 2022-09-16 | 2023-03-11 |
 | [EXOTIC](https://open.spotify.com/track/6JdnYtBt9Sm7JhH9OJVLvJ) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [\#KIDTRASHETERNAL](https://open.spotify.com/album/67ILXkInMVcsPIwtDZscCW) | 2:04 | 2020-10-13\* | 2021-02-10 |
 | [exulansis](https://open.spotify.com/track/5xcnGHVSWWaPK1nn4QuN6P) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [exulansis](https://open.spotify.com/album/2j4dSdxMOgttevg8D0MB9e) | 1:41 | 2024-02-23 | 2024-04-13 |
@@ -1286,6 +1287,7 @@
 | [My Brain is Lasers](https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [SPRINKLES!: A.M\. Block](https://open.spotify.com/album/3ky1eVuWvfAbx4s9pPPfcV) | 2:32 | 2023-04-14 | 2023-09-23 |
 | [My Burrito](https://open.spotify.com/track/6nslmhWS46wJTa3Aq8eizG) | [Tiko](https://open.spotify.com/artist/0iv7RfSxMSAvCzCVnxys6g) | [My Burrito](https://open.spotify.com/album/2Yjk2iFbDgTTBbaYcEsSnx) | 2:11 | 2021-05-16 | 2021-05-28 |
 | [My Chakras Are Fast and Hype](https://open.spotify.com/track/740qK9hU4tbBQ51Gvn7fNd) | [Drainpuppet](https://open.spotify.com/artist/60GkTzyWHBrgEqJqw9FqAD) | [My Chakras Are Fast and Hype](https://open.spotify.com/album/7rWOAx9oDGHy4PtJk4GwYQ) | 2:55 | 2021-01-08 | 2021-02-10 |
+| [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:04 | 2024-10-03 |  |
 | [My guy \(Corporate shuffle\)](https://open.spotify.com/track/66cB7DbtscHeh1yZDkzJNL) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [My guy \(Corporate shuffle\)](https://open.spotify.com/album/6qKcex8YSlUdBbbMEutuC5) | 3:34 | 2024-05-30 |  |
 | [My Last Ego Death](https://open.spotify.com/track/4L2eotzQjQwVPDlbzXjsVk) | [To Oscar](https://open.spotify.com/artist/6LNNnLy26u0dMlmU29Kgqq), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [My Last Ego Death](https://open.spotify.com/album/1oDcjQ04RJ0ViiuLF3k9z6) | 3:09 | 2022-04-08 | 2022-06-04 |
 | [MY LIL PONY](https://open.spotify.com/track/1aDv3rPaNbUsqsmKyQ0I6C) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [MY LIL PONY](https://open.spotify.com/album/1Mso2OzBVya3QKb7J3U7qD) | 2:24 | 2022-09-03 | 2022-10-22 |

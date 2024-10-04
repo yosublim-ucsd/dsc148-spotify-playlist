@@ -4,7 +4,7 @@
 
 > RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:1hqxH66i1ZwEBAkzORVRPW">Berre</a> \(cover\), Sylvie Kreusch, The Vices, The Indien & Roxy Dekker
 
-196 songs - 10 hr 21 min
+197 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2022-08-25 | 2023-06-24 |
 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 | 2021-12-10 | 2022-10-18 |
 | [Bagage](https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 3:01 | 2022-12-09 | 2023-10-06 |
-| [Be Yours](https://open.spotify.com/track/1OcYyWuUfXPgSCmx5xykTc) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-04-10 |  |
+| [Be Yours](https://open.spotify.com/track/1OcYyWuUfXPgSCmx5xykTc) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-04-10 | 2024-10-04 |
 | [Beef Met Mezelf](https://open.spotify.com/track/6XRENEEHLT8cE15VkccJZW) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/5a8T2MTqMj9HVPdTqjW36y) | 3:20 | 2022-11-03 |  |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-05-09 | 2023-09-15 |
 | [Before Your Birth](https://open.spotify.com/track/5TsRbdH1kqK7wjVITG2j1k) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Talk the Talk](https://open.spotify.com/album/7bXOx5DSCaBsWvNpX4FoRo) | 3:37 | 2024-09-26 |  |
@@ -45,6 +45,7 @@
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 | 2022-06-17 |
 | [Da Beat](https://open.spotify.com/track/3e14Ja9tXO89jkWZMA6kaB) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Mavdio](https://open.spotify.com/artist/5J0cC0p052pYiMDiMASsk4) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:15 | 2022-10-17 | 2023-05-10 |
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2021-12-10 | 2022-06-17 |
+| [Dancing On My Feelings](https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Dancing On My Feelings](https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE) | 3:28 | 2024-10-03 |  |
 | [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 | 2022-07-07 | 2023-05-23 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-09-14 | 2024-04-11 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-03 | 2022-07-08 |

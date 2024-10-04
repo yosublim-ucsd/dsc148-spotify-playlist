@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Poppy",
-  "num_followers": 508674,
+  "num_followers": 508657,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191666,
       "name": "Fuse",
       "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 212329,
-      "name": "In The Silence",
-      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "Blinding Faith",
         "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
+        "name": "ONLY ONE MODE",
+        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
+      "duration_ms": 172949,
+      "name": "NO LOVE BUT FOR OUR OWN",
+      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "ONLY ONE MODE",
-        "url": "https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 172949,
-      "name": "NO LOVE BUT FOR OUR OWN",
-      "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1051,6 +1051,22 @@
       "duration_ms": 178097,
       "name": "Her Wings",
       "url": "https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "What I'll Leave Behind",
+        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
+      },
+      "artists": [
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1087,22 +1103,6 @@
       "duration_ms": 305203,
       "name": "TO THE FLOWERS",
       "url": "https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
-        "name": "What I'll Leave Behind",
-        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
-      },
-      "artists": [
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+        "name": "When She Told Me",
+        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Ipecac",
-      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
+      "duration_ms": 281800,
+      "name": "When She Told Me",
+      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "When She Told Me",
-        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 281800,
-      "name": "When She Told Me",
-      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
+      "duration_ms": 138973,
+      "name": "Ipecac",
+      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Girls Gone Wild",
-        "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        },
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
         "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Is It Better?",
-        "url": "https://open.spotify.com/album/0mxgKZZtziz6rHTZBJREz9"
-      },
-      "artists": [
-        {
-          "name": "Crows",
-          "url": "https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Is It Better?",
-      "url": "https://open.spotify.com/track/435lBHmsgFWTNLZm1Pd9Qz"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "Horizon Of Spikes",
         "url": "https://open.spotify.com/album/5KUno95fDG555aIRIt7mC7"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 236373,
       "name": "Horizon Of Spikes",
       "url": "https://open.spotify.com/track/1VNm5rSLXOGBXKP5i2A09O"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Is It Better?",
+        "url": "https://open.spotify.com/album/0mxgKZZtziz6rHTZBJREz9"
+      },
+      "artists": [
+        {
+          "name": "Crows",
+          "url": "https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Is It Better?",
+      "url": "https://open.spotify.com/track/435lBHmsgFWTNLZm1Pd9Qz"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Stillpoint",
-        "url": "https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN"
-      },
-      "artists": [
-        {
-          "name": "Higher Power",
-          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
-        },
-        {
-          "name": "Never Ending Game",
-          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
-        }
-      ],
-      "duration_ms": 217944,
-      "name": "Stillpoint",
-      "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -1931,18 +1911,22 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Love, Lies & Alibis",
-        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+        "name": "Stillpoint",
+        "url": "https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN"
       },
       "artists": [
         {
-          "name": "The Calamatix",
-          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        },
+        {
+          "name": "Never Ending Game",
+          "url": "https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp"
         }
       ],
-      "duration_ms": 128317,
-      "name": "Love, Lies & Alibis",
-      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
+      "duration_ms": 217944,
+      "name": "Stillpoint",
+      "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -1975,6 +1959,22 @@
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Love, Lies & Alibis",
+        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+      },
+      "artists": [
+        {
+          "name": "The Calamatix",
+          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+        }
+      ],
+      "duration_ms": 128317,
+      "name": "Love, Lies & Alibis",
+      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
+        "name": "smother",
+        "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "smother",
+      "url": "https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
         "name": "THE FIRST TEST",
         "url": "https://open.spotify.com/album/2ilkDYJbV6OdxVkf6eAFOU"
       },
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "smother",
-        "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
       },
       "artists": [
         {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 201265,
-      "name": "smother",
-      "url": "https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2"
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -2103,22 +2119,6 @@
       "duration_ms": 196045,
       "name": "UNLOVED",
       "url": "https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
-        "name": "SILYMI",
-        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
-      },
-      "artists": [
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 149388,
-      "name": "SILYMI",
-      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -2179,6 +2179,30 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
+        "name": "Losing My Grip",
+        "url": "https://open.spotify.com/album/2osQNt480aZ9v9UEDLWPCA"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 167861,
+      "name": "Losing My Grip",
+      "url": "https://open.spotify.com/track/1h29QJe8e4TzlhdpXIue4U"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
         "name": "Go Tobann",
         "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
       },
@@ -2207,30 +2231,6 @@
       "duration_ms": 189170,
       "name": "Cowboy Milk",
       "url": "https://open.spotify.com/track/4u3v4FhMii7GqEsxBUBhiJ"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
-        "name": "Losing My Grip",
-        "url": "https://open.spotify.com/album/2osQNt480aZ9v9UEDLWPCA"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 167861,
-      "name": "Losing My Grip",
-      "url": "https://open.spotify.com/track/1h29QJe8e4TzlhdpXIue4U"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 212821,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
         "name": "Straycations",
         "url": "https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5"
       },
@@ -2331,38 +2347,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Kersed",
-        "url": "https://open.spotify.com/album/1J3fVPmmCWJhovkDRxQKRc"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
-        }
-      ],
-      "duration_ms": 113022,
-      "name": "Kersed",
-      "url": "https://open.spotify.com/track/75Op3sFsxnCOOGSZiYyb81"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 212821,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "Rest Assured",
         "url": "https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 205644,
       "name": "Things I Don't Feel",
       "url": "https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Kersed",
+        "url": "https://open.spotify.com/album/1J3fVPmmCWJhovkDRxQKRc"
+      },
+      "artists": [
+        {
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+        }
+      ],
+      "duration_ms": 113022,
+      "name": "Kersed",
+      "url": "https://open.spotify.com/track/75Op3sFsxnCOOGSZiYyb81"
     },
     {
       "added_at": "2024-09-20 11:15:39",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2024-09-20 11:15:39",
       "album": {
-        "name": "Poison Pill",
-        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Poison Pill",
-      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
-    },
-    {
-      "added_at": "2024-09-20 11:15:39",
-      "album": {
         "name": "Pathetic Apathetic",
         "url": "https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 215967,
       "name": "Pathetic Apathetic",
       "url": "https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y"
+    },
+    {
+      "added_at": "2024-09-20 11:15:39",
+      "album": {
+        "name": "Poison Pill",
+        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Poison Pill",
+      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
     },
     {
       "added_at": "2024-09-20 11:15:39",

@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149216,
+      "name": "Suitcase Full of Cash",
+      "url": "https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr"
+    },
+    {
+      "album": {
         "name": "The Jordan Lake Sessions: Volume 5",
         "url": "https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Olivia Addams",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: MIRA, Florian Rus",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 166703,
       "name": "Dansezi",
       "url": "https://open.spotify.com/track/10MsQJOOsx8CfA13zDNoDe"
@@ -568,6 +568,24 @@
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+    },
+    {
+      "album": {
+        "name": "Dis-Moi",
+        "url": "https://open.spotify.com/album/1QFLN6x5nSvsLHoTLvGVsh"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137491,
+      "name": "Dis-Moi",
+      "url": "https://open.spotify.com/track/32s8ACQKnQVci7c5hpIv5R"
     },
     {
       "album": {
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154285,
       "name": "Hanorac",
       "url": "https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt"
@@ -862,6 +880,24 @@
       "duration_ms": 181224,
       "name": "Inca O Noapte",
       "url": "https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx"
+    },
+    {
+      "album": {
+        "name": "INTERSTELAR",
+        "url": "https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "INTERSTELAR",
+      "url": "https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q"
     },
     {
       "album": {
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 165949,
       "name": "M\u0103 \u00eentorc acas\u0103",
       "url": "https://open.spotify.com/track/1JMncfAtFYW1CO1LMk0sUE"
@@ -1890,6 +1926,24 @@
       "duration_ms": 201600,
       "name": "Tu n-ai avut curaj - Roton 3.0 / Sessions",
       "url": "https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk"
+    },
+    {
+      "album": {
+        "name": "Ultima Balad\u0103",
+        "url": "https://open.spotify.com/album/3X7P65KaLa4IgYe4eTTNT5"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182110,
+      "name": "Ultima Balad\u0103",
+      "url": "https://open.spotify.com/track/3Y58pJSJZOCfKENlSSJfL9"
     },
     {
       "album": {

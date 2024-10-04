@@ -2975,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167716,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex"
+    },
+    {
+      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
       },
@@ -9930,7 +9952,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"

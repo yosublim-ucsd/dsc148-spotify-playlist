@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This Is Terry Riley\. Los temas esenciales, todos en una lista.
+> This is Terry Riley\. The essential tracks, all in one playlist.
 
 183 songs - 1 day 2 hr 40 min
 
@@ -28,7 +28,7 @@
 | [Archangels; II\. Protection Vigil](https://open.spotify.com/track/2UMMLazyq8TzvA5Qr4RQsm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [NOVUS NY Cellists](https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g) | [Archangels](https://open.spotify.com/album/75fGDmfK5XoJU8uWEBI7DT) | 13:02 | 2023-01-31 | 2023-04-14 |
 | [Arica](https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 11:43 | 2022-06-03 | 2022-10-13 |
 | [Ascencion](https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 13:35 | 2022-06-15 | 2022-10-08 |
-| [Barabas](https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:53 | 2022-06-03 |  |
+| [Barabas](https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:53 | 2022-06-03 | 2024-10-04 |
 | [Bird of Paradise: Part 1](https://open.spotify.com/track/7ozjAzViP4PTJxKuvIVpjE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:01 | 2023-01-05 | 2023-01-13 |
 | [Bird of Paradise: Part 2](https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:34 | 2023-12-16 | 2024-01-02 |
 | [Black Woman](https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 4:15 | 2022-10-12 | 2024-10-02 |
@@ -93,7 +93,7 @@
 | [Land's End](https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [An Introduction To Amiata's New Music Series Vol1](https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3) | 4:18 | 2022-12-20 | 2024-08-30 |
 | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Stefano Scodanibbio](https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3) | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs) | 5:52 | 2022-06-05 | 2023-07-22 |
 | [Lion's Throne](https://open.spotify.com/track/7j5vLn78PSJaXritwcDgXN) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Amelia Cuni](https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW) | [The Lion's Throne](https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP) | 10:58 | 2022-06-06 | 2022-09-03 |
-| [Llanto](https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:36 | 2022-05-29 |  |
+| [Llanto](https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:36 | 2022-05-29 | 2024-10-04 |
 | [Long Bus Ride](https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 1:42 | 2022-06-02 |  |
 | [M \- Music I \- Inside C \- Curved E\-Entrances](https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 2:11 | 2022-05-29 |  |
 | [Madrigal](https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [Choir of Trinity Wall Street](https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B) | [Archangels](https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC) | 9:04 | 2024-04-19 | 2024-09-04 |
@@ -189,7 +189,7 @@
 | [Untitled Organ](https://open.spotify.com/track/6MHzbrNqD3Eug0RMlHpDXq) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Reed Streams](https://open.spotify.com/album/1gpm3DIj8irskyRyDCJbbS) | 20:07 | 2022-05-29 | 2023-06-21 |
 | [Wedding Song](https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 2:12 | 2022-07-13 | 2023-11-11 |
 | [You're Nogood](https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [You're Nogood](https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ) | 20:30 | 2022-05-31 | 2024-09-23 |
-| [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 | 2022-05-29 | 2024-10-01 |
-| [Zucchini](https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 3:00 | 2022-10-12 | 2024-10-03 |
+| [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 | 2022-05-29 |  |
+| [Zucchini](https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 3:00 | 2022-10-12 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

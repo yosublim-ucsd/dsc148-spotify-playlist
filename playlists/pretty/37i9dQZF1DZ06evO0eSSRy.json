@@ -1,12 +1,12 @@
 {
-  "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
+  "description": "This is P\u00c6RISH. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 687,
   "original_name": "This Is P\u00c6RISH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAAAY664eIbb0EAUfClbzgjp",
+  "snapshot_id": "ZvyNAAAAAAB4/UHsV0S7fejmUqVfF/Zr",
   "tracks": [
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 154122,
-      "name": "Sailplane",
-      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+      "duration_ms": 177658,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y"
     },
     {
       "added_at": null,
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 177658,
-      "name": "Adriatic",
-      "url": "https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y"
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
     },
     {
       "added_at": null,

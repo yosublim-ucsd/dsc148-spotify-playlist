@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Leslie x Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Instable",
+        "url": "https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Instable",
+      "url": "https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV"
+    },
+    {
+      "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
       },
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 153703,
       "name": "Passionn\u00e9",
       "url": "https://open.spotify.com/track/1rd6wE2cYNkudR3CSXTCpW"

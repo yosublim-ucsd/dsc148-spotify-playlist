@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> David Guetta, Alesso, Madison Love au top des bangers dance/electro du moment !
+> Sound Of Legend au top des bangers dance/electro du moment !
 
 193 songs - 8 hr 53 min
 

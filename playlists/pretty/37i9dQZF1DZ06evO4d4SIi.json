@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 38053,
+  "num_followers": 38105,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAB8/mOpcm3jaPjOTAkr37cu",
+  "snapshot_id": "ZvyNAAAAAAD+9Myi6/s68wspKws4QzQR",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Detours",
+        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 211229,
+      "name": "Detours",
+      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Beer",
         "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detours",
-        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 211229,
-      "name": "Detours",
-      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
     },
     {
       "added_at": null,

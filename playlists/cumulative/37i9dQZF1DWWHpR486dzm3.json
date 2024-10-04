@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Alma Alanko.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Aksel Kankaanranta.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Toinen N\u00e4yt\u00f6s",
+        "url": "https://open.spotify.com/album/6L7JBoeuSEqzXCXk2oLPqH"
+      },
+      "artists": [
+        {
+          "name": "AkDK",
+          "url": "https://open.spotify.com/artist/6WGt9hU7LwYQ3wkKxrzPRi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214288,
+      "name": "Dialogi",
+      "url": "https://open.spotify.com/track/5RU8B1BqzuMbGs6hFsuecQ"
+    },
+    {
+      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 140483,
       "name": "hometown",
       "url": "https://open.spotify.com/track/3jdieYfpnjMGe3cDULBQmT"
@@ -1422,6 +1440,24 @@
       "duration_ms": 181000,
       "name": "Horisontin takana",
       "url": "https://open.spotify.com/track/09Nau2rvRcWWr8ejmH9uRH"
+    },
+    {
+      "album": {
+        "name": "How Far To Completely Lose Touch? (Dressed For Destruction, Pt. III)",
+        "url": "https://open.spotify.com/album/7HTOQKhOmJOCH2RDxW4A0o"
+      },
+      "artists": [
+        {
+          "name": "Solemn Golem",
+          "url": "https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225631,
+      "name": "How Far To Completely Lose Touch? (Dressed For Destruction, Pt. III)",
+      "url": "https://open.spotify.com/track/69G1yyehcnB5J4JIPDTPdI"
     },
     {
       "album": {
@@ -1541,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be A Hipster",
+        "url": "https://open.spotify.com/album/4l741xRZWN8QHJDxHpgQjw"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Raid",
+          "url": "https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "I Wanna Be A Hipster",
+      "url": "https://open.spotify.com/track/6LHx6CvOAuwc90XcGjAxCv"
+    },
+    {
+      "album": {
         "name": "Ay, I'm Frankin 'ere!",
         "url": "https://open.spotify.com/album/4x0nxlJyQmBZgV8phpuz0z"
       },
@@ -1595,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5aTKOukhLPVXwvJtyLJ8nx"
+      },
+      "artists": [
+        {
+          "name": "BENN",
+          "url": "https://open.spotify.com/artist/39ChlVzK2W25FHJ6x8wZIv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1PZPz8ZGHCVoM1dLBXqyjy"
+    },
+    {
+      "album": {
         "name": "In the Snow I Look Dead But I Just Pretend",
         "url": "https://open.spotify.com/album/7cuosFx0nhwRqzVvTfbjEa"
       },
@@ -1628,7 +1700,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 253500,
       "name": "Irrallisii",
       "url": "https://open.spotify.com/track/1vkEXhvXmIHtBtEa63bW4x"
@@ -1646,7 +1718,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 203000,
       "name": "I\u00e4t\u00f6n Aion",
       "url": "https://open.spotify.com/track/1fEpQx2ROZNmFU7yL4HcTv"
@@ -1664,7 +1736,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 209500,
       "name": "Joku \u00e4ij\u00e4 vei mun kangaskassin",
       "url": "https://open.spotify.com/track/71f4qBrT3chsVi4k8yWNLS"
@@ -1924,7 +1996,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 223750,
       "name": "Kes\u00e4n Paras Hetki",
       "url": "https://open.spotify.com/track/2nqTbfu1cmpLL5jzBsEahn"
@@ -2162,6 +2234,28 @@
       "duration_ms": 161536,
       "name": "Kottaraiset",
       "url": "https://open.spotify.com/track/1MHExwYiikHKpuC5Qcplqx"
+    },
+    {
+      "album": {
+        "name": "T\u00e4hdet palaavat paikoilleen",
+        "url": "https://open.spotify.com/album/72aIF0sqxUMRlIpxjAlW89"
+      },
+      "artists": [
+        {
+          "name": "Joose Keskitalo",
+          "url": "https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je"
+        },
+        {
+          "name": "The Mystic Revelation of Teppo Repo",
+          "url": "https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182417,
+      "name": "Kun t\u00e4hdet palaavat paikoilleen",
+      "url": "https://open.spotify.com/track/6dlCWGKcop1i3AZGpANuzX"
     },
     {
       "album": {
@@ -2606,7 +2700,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 157193,
       "name": "Martta",
       "url": "https://open.spotify.com/track/0mwCslcmUU4KMf3FbXXfjK"
@@ -2624,7 +2718,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 131000,
       "name": "Matkalla Johannan luo",
       "url": "https://open.spotify.com/track/0vQRhe6EmgSi5NcnysFWVj"
@@ -2793,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Muovipussi kummittelee",
+        "url": "https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt"
+      },
+      "artists": [
+        {
+          "name": "Arppa",
+          "url": "https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Miss\u00e4 s\u00e4 oot",
+      "url": "https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ"
+    },
+    {
+      "album": {
         "name": "Miten P\u00e4\u00e4st\u00e4\u00e4 Irti?",
         "url": "https://open.spotify.com/album/4JHKCVQApEd6LhYRdjsHAB"
       },
@@ -2934,7 +3046,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 419855,
       "name": "Muovipussi",
       "url": "https://open.spotify.com/track/7IrzxQLNp0pi3XARUFY3n0"
@@ -2970,7 +3082,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 192629,
       "name": "Muuttoilmoitus",
       "url": "https://open.spotify.com/track/2Rvu6LjFioXHjuJxRcQNaC"
@@ -3269,6 +3381,28 @@
     },
     {
       "album": {
+        "name": "Paranoid Inc.",
+        "url": "https://open.spotify.com/album/2MZSKQtZ7NVW7bhx2wruYg"
+      },
+      "artists": [
+        {
+          "name": "Velvetcut",
+          "url": "https://open.spotify.com/artist/5I4dHTktG9F9eYt3I9kVz4"
+        },
+        {
+          "name": "Marcus Hietanen",
+          "url": "https://open.spotify.com/artist/4qrxcLvuw92QlmgA4ZGa8Z"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Paranoid Inc.",
+      "url": "https://open.spotify.com/track/6QaCKN4zWzF5nt9s8FpJco"
+    },
+    {
+      "album": {
         "name": "Parempia miehi\u00e4",
         "url": "https://open.spotify.com/album/4FxHepYB7ASHtYTrqDjMGW"
       },
@@ -3284,6 +3418,24 @@
       "duration_ms": 204308,
       "name": "Parempia miehi\u00e4",
       "url": "https://open.spotify.com/track/5YZ1OGj3RQu7p7ybKhYkop"
+    },
+    {
+      "album": {
+        "name": "Party Freak",
+        "url": "https://open.spotify.com/album/6LarYwJRaDD8fCzGa6OJa4"
+      },
+      "artists": [
+        {
+          "name": "Zangoma",
+          "url": "https://open.spotify.com/artist/41uVQ1Nd3TJIpdllRdea7s"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Party Freak",
+      "url": "https://open.spotify.com/track/3azCLHtmdQNNk2fJBO2yC6"
     },
     {
       "album": {
@@ -3680,6 +3832,24 @@
       "duration_ms": 216874,
       "name": "Rakkaudesta tai linnuista - Studiolive",
       "url": "https://open.spotify.com/track/2HhN0ROkg3CSAa4mJPTkbO"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7x9S4srTZwfNhzM4fNrR1t"
+      },
+      "artists": [
+        {
+          "name": "Nightrain Express",
+          "url": "https://open.spotify.com/artist/7s0j3YY0FWaLCB6U0PNV6n"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279426,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5o1VFI9pkftoG25k2M8j0Q"
     },
     {
       "album": {
@@ -4143,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4 et kuule mun sanoja",
+        "url": "https://open.spotify.com/album/4x2xl64Et7IzFYabb0UEVk"
+      },
+      "artists": [
+        {
+          "name": "Sonia",
+          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185747,
+      "name": "S\u00e4 et kuule mun sanoja",
+      "url": "https://open.spotify.com/track/0YYQDA0Xu8NOrvVZ92K6VP"
+    },
+    {
+      "album": {
         "name": "S\u00e4b\u00e4",
         "url": "https://open.spotify.com/album/1JPtgbY5YPW1Eygld5fDIJ"
       },
@@ -4154,7 +4342,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 310187,
       "name": "S\u00e4b\u00e4",
       "url": "https://open.spotify.com/track/2eYg6t5LTNwwL9g9hGSDBS"
@@ -4194,6 +4382,28 @@
       "duration_ms": 250562,
       "name": "Takaisin kotiin",
       "url": "https://open.spotify.com/track/4tuph92sQPUpQ12G0glAj7"
+    },
+    {
+      "album": {
+        "name": "Tarinoita",
+        "url": "https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt"
+      },
+      "artists": [
+        {
+          "name": "Juhlat",
+          "url": "https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el"
+        },
+        {
+          "name": "Ty Roxy",
+          "url": "https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178843,
+      "name": "Tarinoita",
+      "url": "https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg"
     },
     {
       "album": {
@@ -4302,6 +4512,28 @@
       "duration_ms": 280000,
       "name": "Time To Eat The Rich Is Long Gone (Dressed For Destruction, Pt. II)",
       "url": "https://open.spotify.com/track/0bp69DGPmqUCcQehZqGgaZ"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/0YAQTUO3cu1D3WUn7uGv4C"
+      },
+      "artists": [
+        {
+          "name": "Emilia Sisco",
+          "url": "https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234611,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7ECXrlAO0WYz9cVzCbc0dh"
     },
     {
       "album": {
@@ -4472,10 +4704,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 244000,
       "name": "T\u00e4hdenlento",
       "url": "https://open.spotify.com/track/0gxddhBgm14q2T7Q4p65YB"
+    },
+    {
+      "album": {
+        "name": "T\u00e4n\u00e4\u00e4n ei tarvii murehtia",
+        "url": "https://open.spotify.com/album/1Vm4U6Oq1BjqwQd4jydFLp"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/7DILUJ6moRLWJ0ayV5VQCD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313125,
+      "name": "T\u00e4n\u00e4\u00e4n ei tarvii murehtia",
+      "url": "https://open.spotify.com/track/0xNJ53tbQTsM5UYChlvrey"
     },
     {
       "album": {
@@ -4902,7 +5152,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164038,
       "name": "V\u00e4riympyr\u00e4",
       "url": "https://open.spotify.com/track/3uz4ZPxPgss1zqI7htj1yE"
@@ -4938,7 +5188,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 182155,
       "name": "watercolour",
       "url": "https://open.spotify.com/track/6ZIiG6mQqYXSXLhQHirNL8"
@@ -4996,6 +5246,24 @@
       "duration_ms": 204454,
       "name": "What Would Jesus Do?",
       "url": "https://open.spotify.com/track/79T4wZs2lmo4zTqbFp4y9Q"
+    },
+    {
+      "album": {
+        "name": "What You Seem To Know",
+        "url": "https://open.spotify.com/album/3CbIHRdbaoj3Fb2UGoXEcp"
+      },
+      "artists": [
+        {
+          "name": "Cassette Fortuna",
+          "url": "https://open.spotify.com/artist/7rGoQvuxMhL5hxlk0CZZyH"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236562,
+      "name": "What You Seem To Know",
+      "url": "https://open.spotify.com/track/4zTxaccohdnVgDODQYlxGA"
     },
     {
       "album": {

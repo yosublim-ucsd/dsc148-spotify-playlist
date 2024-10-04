@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 183260,
       "name": "Fight",
       "url": "https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax"
@@ -5131,6 +5131,32 @@
     },
     {
       "album": {
+        "name": "Jazbaat",
+        "url": "https://open.spotify.com/album/64qpkJf1ndfxiSDXpykzxi"
+      },
+      "artists": [
+        {
+          "name": "Jaz Dhami",
+          "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+        },
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217115,
+      "name": "Jazbaat",
+      "url": "https://open.spotify.com/track/1U0u9WZIshSJoUxxtBfdat"
+    },
+    {
+      "album": {
         "name": "Jeona Maurh Te Saathi (From \"Maurh\")",
         "url": "https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ"
       },
@@ -5330,7 +5356,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188433,
       "name": "Kafan",
       "url": "https://open.spotify.com/track/5yT7AStUNevohRn6X0gdIV"
@@ -7588,6 +7614,28 @@
       "duration_ms": 189767,
       "name": "Panj Satt",
       "url": "https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY"
+    },
+    {
+      "album": {
+        "name": "Parlour Te (From \"Mittran Da Challeya Truck Ni\")",
+        "url": "https://open.spotify.com/album/56cYJVho9lTXVjgrXOlEWh"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        },
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191598,
+      "name": "Parlour Te (From \"Mittran Da Challeya Truck Ni\")",
+      "url": "https://open.spotify.com/track/5duOS2aldMXIdxxPF660KF"
     },
     {
       "album": {

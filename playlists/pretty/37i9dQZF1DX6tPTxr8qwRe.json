@@ -1,6 +1,6 @@
 {
   "description": "Dark, hard hitting pop. Cover: Slayyyter",
-  "num_followers": 419754,
+  "num_followers": 419733,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZvYtwAAAAACN2jRNFYOuKxzmyx03y9og",
   "tracks": [
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/78Ji0FAkPNoEiXmryrDyhK"
+      },
+      "artists": [
+        {
+          "name": "ILUKA",
+          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
+        }
+      ],
+      "duration_ms": 185370,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1HpwlMAZx46pCOoJkqKFRA"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {

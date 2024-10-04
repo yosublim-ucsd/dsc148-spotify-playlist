@@ -4,7 +4,7 @@
 
 > Here comes the Maestro with his best of 90s!
 
-224 songs - 18 hr 53 min
+226 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dillu Baru Jaane](https://open.spotify.com/track/31mU8xvL02SyYJRqj7uwCg) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kalaingnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0kN2FCxROfQHtFEDRG1NO2) | 5:41 | 2021-11-13 | 2023-05-14 |
 | [Dillu Baru Jaane](https://open.spotify.com/track/7kQrsVvOOqByc27Cmc0MSx) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kalaingnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ccurosuesgD0gxno0avKV) | 5:41 | 2021-11-13 | 2024-04-19 |
 | [Empattu Empaattu](https://open.spotify.com/track/10Z9xMJdBp51pnh2dWmlXY) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/7yeIQhEiZAA62WOI8QzRvP) | 4:44 | 2021-11-13 | 2024-06-20 |
+| [Empattu Empaattu](https://open.spotify.com/track/6bggBHnFAGyDb6Bk7bgAmU) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/1DIwoEGNwIOslzt45TpTVB) | 4:44 | 2024-10-03 |  |
 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 | 2021-11-13 |  |
 | [En Thaayenum Koil](https://open.spotify.com/track/2tb0MlQKLNoxJ11pJwvJv7) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ponnadiyaan](https://open.spotify.com/artist/09elVjBmgc6C1aDjUPAWgu) | [Aranmanai Kili \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2sHMIgg8chthLAkOpW01W1) | 4:52 | 2021-11-13 | 2024-04-19 |
 | [En Thayenum](https://open.spotify.com/track/3e687geovlI3eFvht3xJ5B) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Aranmanai Kili](https://open.spotify.com/album/5lUPvuunyjYcaTnBaL2fY6) | 4:52 | 2021-11-13 |  |
@@ -221,6 +222,7 @@
 | [Thendral Vanthu Theendumbothu](https://open.spotify.com/track/69Q2LXoskGHY5NVyrHyMlh) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Manivannan](https://open.spotify.com/artist/0sWVkYCBcVosSRBGmODRqH) | [Avatharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3sIGxJ8SoGtUFH1raBJjen) | 5:18 | 2021-11-13 | 2023-05-14 |
 | [Thendral Vanthu Theendumbothu](https://open.spotify.com/track/3w0k0x8ZGTgfR5OU2jrBCX) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Avatharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ycYHBmebRjIpiXr96Wv9E) | 5:18 | 2021-11-13 | 2024-04-19 |
 | [Tholmele Tholmele](https://open.spotify.com/track/1aUB8zjZIwj55vceymaMH1) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/7yeIQhEiZAA62WOI8QzRvP) | 5:14 | 2021-11-13 |  |
+| [Tholmele Tholmele](https://open.spotify.com/track/3EqlBcFbxS55uNBe0BzFna) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/1DIwoEGNwIOslzt45TpTVB) | 5:14 | 2024-10-03 |  |
 | [Thooliyile Ada Vantha \- Male Version](https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:41 | 2021-11-13 |  |
 | [Uzhaippali Illatha](https://open.spotify.com/track/1F8piukXgi70ShDis8bYhV) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Uzhaippali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EC21LB2UDYmnBsvtPSG4F) | 5:07 | 2021-11-13 | 2023-11-04 |
 | [Uzhaippali Illatha](https://open.spotify.com/track/5HfG9a36iMAWmp5eooHPKn) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Uzhaippali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/36OqS1xA62emo3ouwYHZqh) | 5:07 | 2021-11-13 | 2023-05-14 |

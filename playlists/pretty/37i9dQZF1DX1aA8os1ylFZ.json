@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243423,
+  "num_followers": 243419,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-09-27 07:24:16",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
-    },
-    {
-      "added_at": "2024-09-27 07:24:16",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 186493,
       "name": "Luv 4 U",
       "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+    },
+    {
+      "added_at": "2024-09-27 07:24:16",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
     },
     {
       "added_at": "2024-09-27 07:24:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-27 07:24:16",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
-    },
-    {
-      "added_at": "2024-09-27 07:24:16",
-      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+    },
+    {
+      "added_at": "2024-09-27 07:24:16",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-09-27 07:24:16",
@@ -923,6 +923,22 @@
       "duration_ms": 165520,
       "name": "Double Tragedy",
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
+    },
+    {
+      "added_at": "2024-09-27 07:24:16",
+      "album": {
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-09-27 07:24:16",
@@ -987,22 +1003,6 @@
       "duration_ms": 177760,
       "name": "LOML",
       "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
-    },
-    {
-      "added_at": "2024-09-27 07:24:16",
-      "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-09-27 07:24:16",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-09-27 07:24:16",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH"
-      },
-      "artists": [
-        {
-          "name": "Giefa Sparkle",
-          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
-        },
-        {
-          "name": "Miss Angel",
-          "url": "https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi"
-        }
-      ],
-      "duration_ms": 205461,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV"
-    },
-    {
-      "added_at": "2024-09-27 07:24:16",
-      "album": {
         "name": "speed up",
         "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 149989,
       "name": "speed up",
       "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
+    },
+    {
+      "added_at": "2024-09-27 07:24:16",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH"
+      },
+      "artists": [
+        {
+          "name": "Giefa Sparkle",
+          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
+        },
+        {
+          "name": "Miss Angel",
+          "url": "https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi"
+        }
+      ],
+      "duration_ms": 205461,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV"
     },
     {
       "added_at": "2024-09-27 07:24:16",

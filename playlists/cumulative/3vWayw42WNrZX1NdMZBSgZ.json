@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/2r2VdYUDH1cIWEPggrmfrR"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225832,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/3QIEzU6q0zRAYT5RmbZFIF"
+    },
+    {
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -5442,6 +5460,28 @@
       "duration_ms": 178849,
       "name": "Espacio en Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
+    },
+    {
+      "album": {
+        "name": "Espacio en Tu Coraz\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179271,
+      "name": "Espacio en Tu Coraz\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
     },
     {
       "album": {
@@ -12894,6 +12934,28 @@
       "duration_ms": 205120,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3GmCcVI6ahFNLvF0izvmFP"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
       "album": {

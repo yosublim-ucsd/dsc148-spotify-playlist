@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-611 songs - 1 day 6 hr 59 min
+612 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |
+| [Happier Now](https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Happier Now](https://open.spotify.com/album/4sbyMFGjrzJroFJxtOyqTV) | 3:00 | 2024-10-03 |  |
 | [Hate You](https://open.spotify.com/track/70t5RX4CuclyMt0ocbsUik) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/0sZSZcxLGBQVPfsWvVyRVO) | 3:00 | 2023-08-08 | 2024-02-03 |
 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 | 2023-08-08 | 2024-04-06 |
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 | 2023-08-10 |
@@ -354,7 +355,7 @@
 | [More](https://open.spotify.com/track/01eUcUUfmt69IpEGGVZCAH) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [More](https://open.spotify.com/album/3N3hF12L5Jo51eZulkniES) | 2:29 | 2023-08-25 | 2023-12-14 |
 | [Morning Drift](https://open.spotify.com/track/7ysODkt3SLz9zLfo9yy2LJ) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Morning Drift](https://open.spotify.com/album/42XNg9HHKO2XlsJ503JELj) | 3:55 | 2023-12-26 | 2024-07-19 |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2023-08-08 |  |
-| [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \- Sped Up/Slowed](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
+| [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \(Sped Up/Slowed\)](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
 | [Move Your Body](https://open.spotify.com/track/1E0PKMOhTg2nWK7ifIbmen) | [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM) | [Move Your Body](https://open.spotify.com/album/55H4HshD6Jw9r5N1323b7J) | 1:55 | 2024-02-29 | 2024-09-29 |
 | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/2RpT6tu1l0TxoWqxT4auQl) | 4:26 | 2023-08-08 | 2023-12-14 |
 | [my heart is broken](https://open.spotify.com/track/5nsipPb0ex6kKTTcnTmjcU) | [Neyvo](https://open.spotify.com/artist/2hoNqBOIPGztCNSNZEwMQE) | [my heart is broken](https://open.spotify.com/album/44avVnEbkqE3x1oS038Mvt) | 3:30 | 2024-07-30 |  |

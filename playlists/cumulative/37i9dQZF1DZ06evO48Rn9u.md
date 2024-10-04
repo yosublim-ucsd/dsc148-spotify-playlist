@@ -2,7 +2,7 @@
 
 ### [This Is Kacey Musgraves](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Rn9u)
 
-> This is Kacey Musgraves\. The essential tracks, all in one playlist.
+> This is Kacey Musgraves\. Todos os maiores hits em uma só playlist.
 
 82 songs - 4 hr 21 min
 

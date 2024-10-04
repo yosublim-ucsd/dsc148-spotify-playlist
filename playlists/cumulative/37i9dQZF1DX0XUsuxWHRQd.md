@@ -4,7 +4,7 @@
 
 > Music from Playboi Carti, Future and Drake.
 
-2,174 songs - 4 day 16 hr 46 min
+2,175 songs - 4 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [CYBER TRUCK](https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [CYBER TRUCK](https://open.spotify.com/album/0Dgwe0jOh7fehZAQzZDIpv) | 2:36 | 2024-09-20 | 2024-09-28 |
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-06 | 2022-07-30 |
 | [D.T.N.](https://open.spotify.com/track/2BVhDSkTX5YUIsgnAtoWsI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [ALONE](https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H) | 2:46 | 2024-04-26 | 2024-05-04 |
+| [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 | 2024-10-03 |  |
 | [Da Truth](https://open.spotify.com/track/58IOkob5edt0XpME43EcCo) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Da Truth](https://open.spotify.com/album/1v7M1aB2iDs170wmCmu7me) | 2:47 | 2021-10-16 | 2021-10-23 |
 | [Daddy \(feat\. Rich The Kid\)](https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Dirt Bag](https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt) | 2:31 | 2019-09-27 | 2019-10-04 |
 | [Daddy \(feat\. Rich The Kid\)](https://open.spotify.com/track/6XkLPzkKzPhpr3hrvl1TUq) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Daddy](https://open.spotify.com/album/5Fw2YiYO8raRGUdtuLogfj) | 2:31 | 2019-07-06 | 2019-09-27 |

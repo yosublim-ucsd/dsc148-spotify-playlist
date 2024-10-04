@@ -1,71 +1,111 @@
 {
-  "description": "The best jazz new releases. Cover: Lady Gaga",
-  "num_followers": 144565,
+  "description": "The best jazz new releases. Cover: Melody Gardot",
+  "num_followers": 144598,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvXZYAAAAAA3UWIDn592eCowc4y7KwoR",
+  "snapshot_id": "Zv8T4AAAAADpxjgdsqMYt/B8gfYNx41N",
   "tracks": [
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 184497,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+        "name": "The Smile of Rita",
+        "url": "https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 262306,
-      "name": "No One's Watching Me (feat. Olivia Dean)",
-      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
+      "duration_ms": 301000,
+      "name": "The Smile of Rita",
+      "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Luned\u00ec Cinema",
-        "url": "https://open.spotify.com/album/7FppMFSh52y4EsaPE5oI5c"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/4NSDfQZFfOcEXd844BfSjl"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        },
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+          "name": "Kimberose",
+          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
         }
       ],
-      "duration_ms": 116226,
-      "name": "Luned\u00ec Cinema",
-      "url": "https://open.spotify.com/track/69Me4kAmiwMxyqarz4zZVW"
+      "duration_ms": 215693,
+      "name": "Du rose ou rien",
+      "url": "https://open.spotify.com/track/7stEmmDdoPmMFPeutgMmS1"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Voicemail Blues",
+        "url": "https://open.spotify.com/album/6aDPNDlJbT3aKe1eW9Dt8R"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Voicemail Blues",
+      "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Take It Higher",
+        "url": "https://open.spotify.com/album/1v39mabJGNjblUNcqcwL0M"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 255234,
+      "name": "Take It Higher",
+      "url": "https://open.spotify.com/track/6LwlCtA2lARQe2Atz6v6Ly"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Saturday Night (Original Score)",
+        "url": "https://open.spotify.com/album/2U0xxgEpclqdq4dUZ1M7uf"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 211888,
+      "name": "Welcome to 8H",
+      "url": "https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd"
@@ -85,7 +125,27 @@
       "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Joueurs de Blues",
+        "url": "https://open.spotify.com/album/57VvNZxCeOJBlggCNeZcX9"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        },
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Joueurs de Blues",
+      "url": "https://open.spotify.com/track/0EQ1qbMWNqHKx65xI7SK0a"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Kids Are",
         "url": "https://open.spotify.com/album/6AaxzyieUG8t057Bjl5wNx"
@@ -101,7 +161,39 @@
       "url": "https://open.spotify.com/track/1rnVGF6k4bZG6svG4DwpSf"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "No Pain, No Champagne",
+        "url": "https://open.spotify.com/album/56KPUa9IzTTnUeY0PwvIBN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Healthy Ground",
+      "url": "https://open.spotify.com/track/6AlXUgMf0TemcZ2RKE9gtb"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Brightlight",
         "url": "https://open.spotify.com/album/2DzL99zIgTZEyc4w78sJZS"
@@ -125,7 +217,75 @@
       "url": "https://open.spotify.com/track/6bbrT0pWJJXgyDnQQN0064"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 184497,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Shaking Body",
+      "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Luned\u00ec Cinema",
+        "url": "https://open.spotify.com/album/7FppMFSh52y4EsaPE5oI5c"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        },
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 116226,
+      "name": "Luned\u00ec Cinema",
+      "url": "https://open.spotify.com/track/69Me4kAmiwMxyqarz4zZVW"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Kickin' Your Ass",
         "url": "https://open.spotify.com/album/78YdDTPyoliWBvJ0mqcPWX"
@@ -141,59 +301,7 @@
       "url": "https://open.spotify.com/track/1qJcz6jKktqsLMZNuertZf"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Joueurs de Blues",
-        "url": "https://open.spotify.com/album/57VvNZxCeOJBlggCNeZcX9"
-      },
-      "artists": [
-        {
-          "name": "Michel Jonasz",
-          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
-        },
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Joueurs de Blues",
-      "url": "https://open.spotify.com/track/0EQ1qbMWNqHKx65xI7SK0a"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "The Smile of Rita",
-        "url": "https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "The Smile of Rita",
-      "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Lover + Tattoo",
         "url": "https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV"
@@ -213,71 +321,27 @@
       "url": "https://open.spotify.com/track/7pYL98wrOlPg9rElkNTn5t"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/4NSDfQZFfOcEXd844BfSjl"
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
       "artists": [
         {
-          "name": "Kimberose",
-          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Du rose ou rien",
-      "url": "https://open.spotify.com/track/7stEmmDdoPmMFPeutgMmS1"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Take It Higher",
-        "url": "https://open.spotify.com/album/1v39mabJGNjblUNcqcwL0M"
-      },
-      "artists": [
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
         {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
         }
       ],
-      "duration_ms": 255234,
-      "name": "Take It Higher",
-      "url": "https://open.spotify.com/track/6LwlCtA2lARQe2Atz6v6Ly"
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/6aM6XpnBNC4kXwOykJyTN5"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/1dUeRLYl72p4G3pfE4c8Qc"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Morning Song",
         "url": "https://open.spotify.com/album/2b50IRXHjpNA23g74a7I3V"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/2I7NgypzBFRj5tIa2Q4YTu"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
@@ -333,75 +397,7 @@
       "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Butterflies (feat. Tim Bernardes)",
-      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Theuykhong",
-        "url": "https://open.spotify.com/album/65BI7WfPWAx3N9S8xHDqad"
-      },
-      "artists": [
-        {
-          "name": "Samy Thi\u00e9bault",
-          "url": "https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih"
-        },
-        {
-          "name": "Cynthia Abraham",
-          "url": "https://open.spotify.com/artist/0t2bkQctGNc4uafhIWypxu"
-        },
-        {
-          "name": "Somsouda Thepsouvanh",
-          "url": "https://open.spotify.com/artist/3hQJsA7NF3QhkYHLFcyVxO"
-        },
-        {
-          "name": "Khamsouan Vongthongkham",
-          "url": "https://open.spotify.com/artist/5nfcYvUSrKKDIh5wQCrGQM"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Theuykhong",
-      "url": "https://open.spotify.com/track/4dKb4pmzItfPe3ESCI1YYg"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Chop Chop",
-        "url": "https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za"
-      },
-      "artists": [
-        {
-          "name": "Peter Somuah",
-          "url": "https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU"
-        },
-        {
-          "name": "Gyedu-Blay Ambolley",
-          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "Chop Chop",
-      "url": "https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Dumplings For Dinner",
         "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
@@ -421,23 +417,7 @@
       "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Selma Ya Salama",
-        "url": "https://open.spotify.com/album/5Uf2MlHHkesnWRHuk4yzC3"
-      },
-      "artists": [
-        {
-          "name": "Nesrine",
-          "url": "https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Selma Ya Salama",
-      "url": "https://open.spotify.com/track/4gNOOYD7qMtHFn3G4mFNHn"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Delusions",
         "url": "https://open.spotify.com/album/5BWlMrfoZrYFwGugVUO85k"
@@ -453,7 +433,7 @@
       "url": "https://open.spotify.com/track/3Oa2mEs79hevoyO8z2taA3"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Sen\u00e9",
         "url": "https://open.spotify.com/album/4CdJPdAgjzwMnx4L0bOhBV"
@@ -477,10 +457,166 @@
       "url": "https://open.spotify.com/track/2CkKvzu4AmiZipQGRqxWy6"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+        "name": "Trumpets of Michel-Ange",
+        "url": "https://open.spotify.com/album/6DG1fFlFCKOfwijUzTjGeZ"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Capitals",
+      "url": "https://open.spotify.com/track/0NOH86zJJPRShN5ShondVZ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "And Just Keep Playing",
+        "url": "https://open.spotify.com/album/129XBUfdwfMBd7pB7eqEh8"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 166237,
+      "name": "And Just Keep Playing",
+      "url": "https://open.spotify.com/track/6bvI6NfhE9iFQ0hPx8mTVi"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "SOUL",
+        "url": "https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        }
+      ],
+      "duration_ms": 321386,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "We Want Stars",
+        "url": "https://open.spotify.com/album/0DnkWoVSqwKmdqQrJ1RV1S"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "duration_ms": 275720,
+      "name": "M\u01cem\u01ceh\u016bh\u016b",
+      "url": "https://open.spotify.com/track/4qPOf0XDjEu4BFWECfRayK"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "We Are The Millennials",
+        "url": "https://open.spotify.com/album/6Wn31whzxsWuLGotQUv0sP"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "We Are The Millennials",
+      "url": "https://open.spotify.com/track/0dxhXG1wmLHp59Z0gLmabC"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "NAVEGA - Live at Union Chapel",
+        "url": "https://open.spotify.com/album/6ukCtzAgBbxTwJqUvW2WEJ"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 228097,
+      "name": "NAVEGA - Live at Union Chapel",
+      "url": "https://open.spotify.com/track/62GylEoHLledwT6JkFn3Mx"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Chop Chop",
+        "url": "https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za"
+      },
+      "artists": [
+        {
+          "name": "Peter Somuah",
+          "url": "https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU"
+        },
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "Chop Chop",
+      "url": "https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Selma Ya Salama",
+        "url": "https://open.spotify.com/album/5Uf2MlHHkesnWRHuk4yzC3"
+      },
+      "artists": [
+        {
+          "name": "Nesrine",
+          "url": "https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Selma Ya Salama",
+      "url": "https://open.spotify.com/track/4gNOOYD7qMtHFn3G4mFNHn"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
       },
       "artists": [
         {
@@ -488,16 +624,16 @@
           "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
@@ -513,7 +649,7 @@
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I"
@@ -537,43 +673,7 @@
       "url": "https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Trumpets of Michel-Ange",
-        "url": "https://open.spotify.com/album/6DG1fFlFCKOfwijUzTjGeZ"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Capitals",
-      "url": "https://open.spotify.com/track/0NOH86zJJPRShN5ShondVZ"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "NAVEGA - Live at Union Chapel",
-        "url": "https://open.spotify.com/album/6ukCtzAgBbxTwJqUvW2WEJ"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 228097,
-      "name": "NAVEGA - Live at Union Chapel",
-      "url": "https://open.spotify.com/track/62GylEoHLledwT6JkFn3Mx"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Stella Cole",
         "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
@@ -589,55 +689,7 @@
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "And Just Keep Playing",
-        "url": "https://open.spotify.com/album/129XBUfdwfMBd7pB7eqEh8"
-      },
-      "artists": [
-        {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 166237,
-      "name": "And Just Keep Playing",
-      "url": "https://open.spotify.com/track/6bvI6NfhE9iFQ0hPx8mTVi"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "We Are The Millennials",
-        "url": "https://open.spotify.com/album/6Wn31whzxsWuLGotQUv0sP"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "We Are The Millennials",
-      "url": "https://open.spotify.com/track/0dxhXG1wmLHp59Z0gLmabC"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "We Want Stars",
-        "url": "https://open.spotify.com/album/0DnkWoVSqwKmdqQrJ1RV1S"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Rifflet",
-          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
-        }
-      ],
-      "duration_ms": 275720,
-      "name": "M\u01cem\u01ceh\u016bh\u016b",
-      "url": "https://open.spotify.com/track/4qPOf0XDjEu4BFWECfRayK"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Live at Montreux Jazz Festival",
         "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Frankie & Johnny",
         "url": "https://open.spotify.com/album/7esD05FOaDgDHro3auSsBU"
@@ -669,47 +721,7 @@
       "url": "https://open.spotify.com/track/2vlcJff1ZToSqL1BiOF5k5"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Shaped By Water",
-        "url": "https://open.spotify.com/album/0mPOzgJWbnvAKEgs2aKPTG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Shaped By Water",
-      "url": "https://open.spotify.com/track/3r4IwIKPzgCTqo3nhoRHXq"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "La javanaise",
-        "url": "https://open.spotify.com/album/4i3K5vEnyHDGNQlIqfl3AO"
-      },
-      "artists": [
-        {
-          "name": "Pierre G\u00e9nisson",
-          "url": "https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        },
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/5ViznvnYZBURd5hjnxsyQD"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Live Apart",
         "url": "https://open.spotify.com/album/1U82CHlzsOh8YPoW4eEH26"
@@ -725,23 +737,7 @@
       "url": "https://open.spotify.com/track/69ijCnLmC5LIefYwgjGRj8"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "Nothing Sweeter",
-        "url": "https://open.spotify.com/album/0WhE3o3yfAJ1OzIM1TFWUR"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Lautaro",
-          "url": "https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M"
-        }
-      ],
-      "duration_ms": 157417,
-      "name": "Nothing Sweeter",
-      "url": "https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Gates to the Land of Wonders",
         "url": "https://open.spotify.com/album/29LNN44mvwJChF92hrWymc"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/7tFWJoE326MkctMlRHHzvT"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Walk In The Sun",
         "url": "https://open.spotify.com/album/0srnsYI5Fa7wiB6efttfPI"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/29PUWKH8SVvm0mgV2f5eub"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/2MgzrpQ2YqHJm2qegQy40F"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/3rm5SyIyyYMkDsQwKLTGtx"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Bamako Stomp",
         "url": "https://open.spotify.com/album/4mca0dH8i0w6S93bGpFdNg"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/2J5TeUYjGB3bixMN9V804f"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/2HnoWqPijqF74BSAB3PeE7"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/2xce6kP4q1FLWzOBs2NAJN"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "J.T.",
         "url": "https://open.spotify.com/album/6OVzFyTiT2RLo27OJALYt1"
@@ -865,7 +861,7 @@
       "url": "https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Tatomania",
         "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
@@ -885,7 +881,7 @@
       "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Le Jazz et la Java",
         "url": "https://open.spotify.com/album/30SX0VDxCKARSh45mN4rMX"
@@ -909,23 +905,7 @@
       "url": "https://open.spotify.com/track/7h3V1pJ0a1JbgTZ1Z6gxO4"
     },
     {
-      "added_at": "2024-09-26 22:00:00",
-      "album": {
-        "name": "open this wall",
-        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 156688,
-      "name": "open this wall",
-      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
-    },
-    {
-      "added_at": "2024-09-26 22:00:00",
+      "added_at": "2024-10-03 22:00:00",
       "album": {
         "name": "Fly Baby",
         "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"

@@ -2913,6 +2913,48 @@
     },
     {
       "album": {
+        "name": "Songs from Agatha All Along (Episode 4)",
+        "url": "https://open.spotify.com/album/3ZYIL6aXJ9xsUIgzAS7pCQ"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Aubrey Plaza",
+          "url": "https://open.spotify.com/artist/4uGJwxYq27jcwJv2PDSsDs"
+        },
+        {
+          "name": "Joe Locke",
+          "url": "https://open.spotify.com/artist/069uPv10UPCGukbtGRUkJk"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279522,
+      "name": "The Ballad of the Witches' Road (Cover Version)",
+      "url": "https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8"
+    },
+    {
+      "album": {
         "name": "Songs from Agatha All Along (Episodes 1 & 2)",
         "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
       },

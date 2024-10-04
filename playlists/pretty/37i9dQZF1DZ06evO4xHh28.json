@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 571970,
+  "num_followers": 572041,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAABgRFr4gvVprQPAkEPoY0sn",
+  "snapshot_id": "ZvyNAAAAAAAeXbbUhZnVUv7yt88sBIbZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Surrender the Night",
-      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Surrender the Night",
+      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Burn Bright",
-      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188906,
       "name": "Kiss the Ring",
       "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Burn Bright",
+      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
     },
     {
       "added_at": null,

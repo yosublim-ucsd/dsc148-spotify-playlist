@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lydia K\u00e9pinski, Simon Proulx",
-  "num_followers": 42010,
+  "num_followers": 42014,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,26 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
       },
       "artists": [
         {
           "name": "Tiakola",
           "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
         }
       ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+      "duration_ms": 246978,
+      "name": "PONA NINI",
+      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -335,26 +343,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
       "artists": [
         {
           "name": "Tiakola",
           "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Prototype",
-          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
         }
       ],
-      "duration_ms": 246978,
-      "name": "PONA NINI",
-      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Tout pour moi",
-        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Tout pour moi",
-      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
         "name": "Dans les veines",
         "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "Petit chaton",
-        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+        "name": "Tout pour moi",
+        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 144985,
-      "name": "Petit chaton",
-      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
+      "duration_ms": 214400,
+      "name": "Tout pour moi",
+      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -739,6 +723,22 @@
       "duration_ms": 239684,
       "name": "Apr\u00e8s l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Petit chaton",
+        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Petit chaton",
+      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
-        "name": "7 Vie L\u00e0",
-        "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
-      },
-      "artists": [
-        {
-          "name": "Frank'emcy",
-          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
-        },
-        {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        }
-      ],
-      "duration_ms": 215796,
-      "name": "7 Vie L\u00e0",
-      "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 172080,
       "name": "On s'\u00e9crira",
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "7 Vie L\u00e0",
+        "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
+      },
+      "artists": [
+        {
+          "name": "Frank'emcy",
+          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
+        },
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "duration_ms": 215796,
+      "name": "7 Vie L\u00e0",
+      "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

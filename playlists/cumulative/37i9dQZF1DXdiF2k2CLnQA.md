@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-148 songs - 9 hr 28 min
+151 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-06-27 | 2024-08-30 |
 | [By Design](https://open.spotify.com/track/19mCBWbK2QUL7vNVx8gRYV) | [Amongst Liars](https://open.spotify.com/artist/3ZwxX5XIpWy4E7xzf9ZqMu), [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [By Design](https://open.spotify.com/album/6vq49SapId7PB5sQcgETud) | 3:37 | 2024-06-27 |  |
 | [Call of the Wild](https://open.spotify.com/track/5Cy6DbexweGRwp3AfKOP1U) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Call Of The Wild](https://open.spotify.com/album/29XfzrtqwBuZiGZg0TpTpN) | 4:12 | 2024-09-06 |  |
+| [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-03 |  |
 | [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-19 |  |
 | [Caroline](https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Caroline](https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y) | 4:56 | 2024-06-27 | 2024-08-02 |
 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 | 2024-08-29 |  |
@@ -44,7 +45,7 @@
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 | 2024-09-20 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 |  |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
-| [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 |  |
+| [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 |  |
 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 | 2024-08-01 |  |
 | [Empire](https://open.spotify.com/track/0kbdnyL1f91rMM0eSyjqMm) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Empire](https://open.spotify.com/album/4AWRm5AIt0KJoo7RIH0dVp) | 4:20 | 2024-06-27 | 2024-08-02 |
@@ -98,6 +99,7 @@
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-29 |  |
 | [Metal Gods](https://open.spotify.com/track/5HvXKqvNY52gHBHDSw4O2r) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Metal Gods](https://open.spotify.com/album/2hrqCYReiJDEU3Q6T5oMNR) | 3:30 | 2024-06-27 | 2024-08-02 |
 | [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 | 2024-09-20 |
+| [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 | 2024-10-03 |  |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 |  |
 | [On the line](https://open.spotify.com/track/5HghTFSHeik29SrM2i48f5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [On the line](https://open.spotify.com/album/7rzMWjREqgIPLFbgFJclWO) | 3:16 | 2024-06-27 | 2024-09-07 |
 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 | 2024-06-27 | 2024-09-07 |
@@ -119,6 +121,7 @@
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-06-27 |  |
 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-06 |  |
 | [Speaking of the Devil](https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Speaking of the Devil](https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX) | 3:45 | 2024-06-27 | 2024-09-07 |
+| [Speed of Darkness](https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed of Darkness](https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG) | 4:09 | 2024-10-03 |  |
 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 | 2024-06-27 |  |
 | [Still My Hero](https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Still My Hero](https://open.spotify.com/album/1cLa4VMrT73UlrjSW52lvw) | 3:43 | 2024-08-22 | 2024-09-20 |
 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 | 2024-06-27 | 2024-08-30 |

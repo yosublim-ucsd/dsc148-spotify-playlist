@@ -4345,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/4hub8pUiQAnKLXIHQ60wtU"
+      },
+      "artists": [
+        {
+          "name": "ELYX",
+          "url": "https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2kYWI4tyVrFvh3XIXTHVhd"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc"
       },

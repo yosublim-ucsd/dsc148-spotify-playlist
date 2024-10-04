@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,668 songs - 3 day 18 hr 59 min
+1,669 songs - 3 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [bootycall](https://open.spotify.com/track/7obibJSl1Dlcr2vHpO99Z5) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [bootycall](https://open.spotify.com/album/4ddGPrHs0PB1aJgt0ReAgj) | 2:28 | 2024-04-19 | 2024-08-31 |
 | [Born To Lose](https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Born To Lose](https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW) | 3:00 | 2024-02-02 | 2024-07-27 |
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-08-02 |
+| [Bossy](https://open.spotify.com/track/0Xa178cLLO8OMGoZWGje8P) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Bossy](https://open.spotify.com/album/57EyuWqjZnFtpUpONrCVWK) | 3:03 | 2024-09-27 |  |
 | [BOW](https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BOW](https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8) | 3:02 | 2024-01-12 | 2024-01-27 |
 | [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 | 2024-08-30 |  |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 |  |
@@ -458,7 +459,7 @@
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-24 | 2024-07-27 |
 | [Fake Love](https://open.spotify.com/track/1XR7JW85VGvDqbtcDBMuXf) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fake Love](https://open.spotify.com/album/2O2yvHrN3CNNNaeUj7b8AG) | 3:34 | 2022-02-10 | 2022-06-15 |
 | [Fantastico](https://open.spotify.com/track/4LbY1Dq75IbisKMJQk8Y02) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [Fantastico](https://open.spotify.com/album/4HG8syq9Ir32gTbLpdYC8P) | 2:36 | 2024-06-07 |  |
-| [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 | 2024-05-17 |  |
+| [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 | 2024-05-17 | 2024-10-04 |
 | [Fantasy](https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Fantasy](https://open.spotify.com/album/7ylSy5FAToYyzkH36QBHSQ) | 3:54 | 2022-03-24 | 2022-08-02 |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2022-06-29 | 2022-11-19 |
 | [Favorite Kind Of Lonely](https://open.spotify.com/track/38dBz3okkrzx62DPYqRo8u) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Favorite Kind Of Lonely](https://open.spotify.com/album/0JcdAP9yv2TEDI2twbFzT0) | 2:58 | 2024-05-31 | 2024-06-30 |

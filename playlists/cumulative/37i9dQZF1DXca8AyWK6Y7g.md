@@ -4,7 +4,7 @@
 
 > Livin' life! cover: Remy Bond
 
-2,189 songs - 4 day 14 hr 5 min
+2,190 songs - 4 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1996,6 +1996,7 @@
 | [Touch](https://open.spotify.com/track/0XYvHhtD8ONs8Kqzx7D1On) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Touch](https://open.spotify.com/album/6LtLFeeMJ8mKUfXXIytQ3g) | 3:38 | 2019-05-26\* | 2019-08-13 |
 | [Touch Therapy](https://open.spotify.com/track/26121YtyDrlazXPzMxmJx7) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Touch Therapy](https://open.spotify.com/album/5opyM4qE5y3xM6etvgBzzF) | 2:29 | 2024-05-31 | 2024-07-09 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 | 2023-07-01 |
+| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-09-27 |  |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 | 2023-12-09 |
 | [Treading Water](https://open.spotify.com/track/0Ed0auEaK9ATsnzFsUZ5AZ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Treading Water](https://open.spotify.com/album/3NkCc8osMfZB59KQhm7nLS) | 3:56 | 2019-05-26\* | 2019-08-13 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 | 2024-09-14 |

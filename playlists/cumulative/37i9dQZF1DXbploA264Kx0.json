@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko (\u67ef\u667a\u68e0)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: L\u00dcCY",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -786,6 +786,24 @@
       "duration_ms": 245299,
       "name": "Cult Film Club",
       "url": "https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt"
+    },
+    {
+      "album": {
+        "name": "Dance on the Shoreline",
+        "url": "https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260088,
+      "name": "Dance on the Shoreline",
+      "url": "https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi"
     },
     {
       "album": {
@@ -2731,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Retro Petrol",
+        "url": "https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Retro Petrol",
+      "url": "https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv"
+    },
+    {
+      "album": {
         "name": "Right Here Right Now",
         "url": "https://open.spotify.com/album/6BVySNnOxduh2tm6DQwe2i"
       },
@@ -2997,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "Snow in Osaka",
+        "url": "https://open.spotify.com/album/09opa4FglxamwYEJi8XST4"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        },
+        {
+          "name": "ASOBOiSM",
+          "url": "https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203019,
+      "name": "Snow in Osaka",
+      "url": "https://open.spotify.com/track/2w1WT7UnIvYT5jtBaEWXeC"
+    },
+    {
+      "album": {
         "name": "Jocelyn 9.4.0",
         "url": "https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI"
       },
@@ -3012,6 +3070,24 @@
       "duration_ms": 223285,
       "name": "So Sad",
       "url": "https://open.spotify.com/track/5nt9BLESWBWRjENMN0PIfN"
+    },
+    {
+      "album": {
+        "name": "Sparkling Wine",
+        "url": "https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Sparkling Wine",
+      "url": "https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8"
     },
     {
       "album": {
@@ -3455,9 +3531,31 @@
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 282706,
+      "duration_ms": 281880,
       "name": "This is My World",
       "url": "https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz"
+    },
+    {
+      "album": {
+        "name": "June's MENU",
+        "url": "https://open.spotify.com/album/7qQyA6FeouGYqFfnHdV4QX"
+      },
+      "artists": [
+        {
+          "name": "June Pan",
+          "url": "https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "Tiramisu (feat. BRADD)",
+      "url": "https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS"
     },
     {
       "album": {

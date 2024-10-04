@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Hob Asharah",
+        "url": "https://open.spotify.com/album/5nWfksGOppPDh650Lqgz1W"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Al Marsoomi",
+          "url": "https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Hob Asharah",
+      "url": "https://open.spotify.com/track/0DSDesDMWWQxi433jsBdQ4"
+    },
+    {
+      "album": {
         "name": "Hobbak Dar",
         "url": "https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ"
       },
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 204000,
       "name": "Tezalzelha",
       "url": "https://open.spotify.com/track/2lqk5xO1TWmd35ygR2ebAH"

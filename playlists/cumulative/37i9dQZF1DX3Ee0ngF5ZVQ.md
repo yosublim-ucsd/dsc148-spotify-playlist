@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-663 songs - 1 day 15 hr 32 min
+664 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2023-11-05 |
 | [Breaking News](https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:40 | 2023-11-03 | 2024-04-19 |
 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 | 2023-09-22 | 2023-11-10 |
-| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 |  |
+| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 | 2024-10-04 |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
 | [Buckle of the Bible Belt](https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Buckle of the Bible Belt](https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD) | 3:00 | 2022-08-12 | 2023-03-25 |
 | [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |
@@ -194,6 +194,7 @@
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-12-17 | 2022-03-19 |
 | [Family Affair](https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Family Affair](https://open.spotify.com/album/0zUXeQ5pqqy0FBCAiK4qWx) | 3:57 | 2023-06-09 | 2023-09-09 |
 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 | 2024-06-07 |
+| [Fast Horse](https://open.spotify.com/track/4YljDe3g4jed583mu2XyaJ) | [Blake Wood](https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox) | [Fast Horse](https://open.spotify.com/album/5rzJOOitdymAh0vjArSSUz) | 3:01 | 2024-09-27 |  |
 | [Feels Right](https://open.spotify.com/track/7tEvD2vzhu8FnZ2i4EdPsU) | [Logan Samford](https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz) | [Feels Right](https://open.spotify.com/album/40jOCf6bWDCLNsLSzEBvuX) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Fences](https://open.spotify.com/track/37TQSRXPacyRqVmnLT1QVi) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [Fences](https://open.spotify.com/album/7oka0HTuXQiLUo51Ai621C) | 4:06 | 2022-04-08 | 2022-07-28 |
 | [Fine & Dandy](https://open.spotify.com/track/0HRBAbJgZuQM3Ku66svJFZ) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Fine & Dandy](https://open.spotify.com/album/4SJS7Bx8c2eYe5mcBTHgw3) | 3:39 | 2023-09-29 | 2024-02-24 |

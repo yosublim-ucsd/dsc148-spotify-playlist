@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372208,
+  "num_followers": 372219,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Pelo Avesso",
+      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Vira E Mexe",
         "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pelo Avesso",
-      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1099,30 +1099,6 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Nem Me Convidou",
-        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "Nem Me Convidou",
-      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1155,26 +1131,26 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Vibezinha",
-        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
+        "name": "Nem Me Convidou",
+        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
       "artists": [
         {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
         },
         {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
         },
         {
-          "name": "Cabrera",
-          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
         }
       ],
-      "duration_ms": 148325,
-      "name": "Vibezinha",
-      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
+      "duration_ms": 127433,
+      "name": "Nem Me Convidou",
+      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1199,6 +1175,30 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Vibezinha",
+        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        }
+      ],
+      "duration_ms": 148325,
+      "name": "Vibezinha",
+      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "PROFESSORA",
         "url": "https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 158321,
       "name": "PROFESSORA",
       "url": "https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Futura Rica",
-        "url": "https://open.spotify.com/album/4YWf5HGQD3eePBJtT5Vi56"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Futura Rica",
-      "url": "https://open.spotify.com/track/2vjPVtkNWxfG2BB6cnPbeo"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1275,6 +1255,26 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Futura Rica",
+        "url": "https://open.spotify.com/album/4YWf5HGQD3eePBJtT5Vi56"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Futura Rica",
+      "url": "https://open.spotify.com/track/2vjPVtkNWxfG2BB6cnPbeo"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
+        "name": "Medo De Beijar",
+        "url": "https://open.spotify.com/album/7JazG2fpXueGkzXZj6rkSN"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Medo De Beijar",
+      "url": "https://open.spotify.com/track/3EDvrf8q0U53TAbT9O2TCE"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
         "name": "Segredos da Vida",
         "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
       },
@@ -1351,18 +1367,34 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Medo De Beijar",
-        "url": "https://open.spotify.com/album/7JazG2fpXueGkzXZj6rkSN"
+        "name": "SE EU FOSSE UMA GAROTA BRANCA",
+        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
       },
       "artists": [
         {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Medo De Beijar",
-      "url": "https://open.spotify.com/track/3EDvrf8q0U53TAbT9O2TCE"
+      "duration_ms": 161666,
+      "name": "SE EU FOSSE UMA GAROTA BRANCA",
+      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
+    },
+    {
+      "added_at": "2024-09-27 13:18:03",
+      "album": {
+        "name": "Me Leia",
+        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 228644,
+      "name": "Me Leia",
+      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1391,22 +1423,6 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "SE EU FOSSE UMA GAROTA BRANCA",
-        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
-      },
-      "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "SE EU FOSSE UMA GAROTA BRANCA",
-      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
         "name": "Fim",
         "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2024-09-27 13:18:03",
       "album": {
-        "name": "Me Leia",
-        "url": "https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE"
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
       },
       "artists": [
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
         }
       ],
-      "duration_ms": 228644,
-      "name": "Me Leia",
-      "url": "https://open.spotify.com/track/4gFIABjzeZao470hQEa5di"
+      "duration_ms": 148873,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
     },
     {
       "added_at": "2024-09-27 13:18:03",
@@ -1479,22 +1495,6 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
-    },
-    {
-      "added_at": "2024-09-27 13:18:03",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 148873,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
     },
     {
       "added_at": "2024-09-27 13:18:03",

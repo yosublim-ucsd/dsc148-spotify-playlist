@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative du moment\. Photo : The Cure
 
-300 songs - 18 hr 5 min
+303 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-06-28 | 2024-09-20 |
 | [Ahead of Myself](https://open.spotify.com/track/0iSppEday3KI8mmLSM5IUo) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/2YhIWlLm5732Oz1Spon1ss) | 3:44 | 2024-07-18 |  |
 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-28 | 2023-11-03 |
-| [All I've Heard \- Single Edit](https://open.spotify.com/track/3QcyheDyLa6SZrIOpZbwIF) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [All I've Heard](https://open.spotify.com/album/6mCrD0zcwI58rwB8CRbT5z) | 3:19 | 2024-06-06 |  |
+| [All I've Heard \- Single Edit](https://open.spotify.com/track/3QcyheDyLa6SZrIOpZbwIF) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [All I've Heard](https://open.spotify.com/album/6mCrD0zcwI58rwB8CRbT5z) | 3:19 | 2024-06-06 | 2024-10-04 |
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-07-27 |
 | [All Strings Attached](https://open.spotify.com/track/4ghQwuaV14Xgiz5t4Vmq8G) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [All Strings Attached](https://open.spotify.com/album/01PcHLGJAQrbXuaoqa7fOX) | 2:55 | 2024-08-01 |  |
 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 | 2024-01-11 | 2024-01-19 |
@@ -31,7 +31,7 @@
 | [Beautiful Everything](https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Beautiful Everything](https://open.spotify.com/album/6h6vVbN20Moi61HDllYhR9) | 4:18 | 2024-01-18 | 2024-06-07 |
 | [Beautiful Everything](https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 4:18 | 2024-02-22 | 2024-04-19 |
 | [Beautiful Girl](https://open.spotify.com/track/1Inle1Zm97MzQXParrb0aP) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Beautiful Girl](https://open.spotify.com/album/3F8u0bz8k1cxPpOttU3yDH) | 2:32 | 2024-02-15 | 2024-03-08 |
-| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 |  |
+| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-10-04 |
 | [Big Cat Tattoos](https://open.spotify.com/track/33KqCiKK7FhRJ3MDfbn1C2) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Big Cat Tattoos](https://open.spotify.com/album/72mgfR4Y20kV5pqzffrLJ9) | 3:11 | 2024-05-02 | 2024-05-24 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-05-03 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-05-23 | 2024-06-01 |
@@ -168,6 +168,7 @@
 | [Make it good](https://open.spotify.com/track/6ojM9gN2YbWTuDUKNmjT5Y) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Make it good](https://open.spotify.com/album/0TXsahJIHtf9pKlvsFxnmV) | 3:01 | 2023-12-08 | 2023-12-22 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-09 | 2023-12-01 |
 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-02 | 2024-06-21 |
+| [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-03 |  |
 | [Miami Baby](https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Miami Baby](https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF) | 4:53 | 2023-09-28 | 2023-10-20 |
 | [Monaco](https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P) | 4:15 | 2024-03-14 | 2024-04-01 |
 | [Monaco](https://open.spotify.com/track/2gxeIxrZIGCnzFGxg39Yrh) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Monaco](https://open.spotify.com/album/65QfF3vpktiYYcNHwthYWG) | 4:15 | 2024-04-18 | 2024-07-05 |
@@ -205,7 +206,7 @@
 | [OVERDOSE](https://open.spotify.com/track/3WHXTJqITJ68CgKBD05rMg) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [OVERDOSE](https://open.spotify.com/album/79v8F7efrdJAZNQXxuYgaZ) | 3:57 | 2023-11-02 | 2023-12-01 |
 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 | 2024-01-11 | 2024-04-05 |
 | [People In The Streets](https://open.spotify.com/track/2IxhaFpj0pMwL7Z3hatWWi) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Loss Of Life](https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa) | 5:36 | 2024-02-29 | 2024-05-03 |
-| [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-13 |  |
+| [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-13 | 2024-10-04 |
 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 | 2024-08-22 |  |
 | [Pink Cactus Café](https://open.spotify.com/track/7wG9eW4Gdhrvnw1b3r0shg) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Pink Cactus Café](https://open.spotify.com/album/0tX1nXVVy096AzQfQApY4s) | 3:25 | 2024-09-12 | 2024-10-01 |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-02-01 | 2024-04-19 |
@@ -273,6 +274,7 @@
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-13 | 2024-07-19 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-09-28 | 2024-05-15 |
 | [The Only Queer In The Van](https://open.spotify.com/track/1FETtTEZz6dU7HlXCTchgW) | [G.H.Francis](https://open.spotify.com/artist/7yE3xJBNN5XCFjARdmP2i1) | [The Only Queer In The Van](https://open.spotify.com/album/0ob7URTgqAPp0m7rPvUt65) | 3:02 | 2024-05-02 | 2024-05-17 |
+| [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-03 |  |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-01-25 | 2024-06-01 |
 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-10-26 | 2024-02-09 |
 | [The Whole Story](https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 2:32 | 2024-02-08 | 2024-02-16 |
@@ -293,6 +295,7 @@
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 | 2023-11-24 |
 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-26 | 2024-03-01 |
 | [Watercooler](https://open.spotify.com/track/1CLHh77zFhvmgbOG27JyRR) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Watercooler](https://open.spotify.com/album/4Y9ZaRX2aRN1JSKOxj7zcc) | 4:26 | 2023-11-02 | 2024-01-12 |
+| [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-10-03 |  |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-22 |  |
 | [Who Would You Be For Me](https://open.spotify.com/track/10QMwOs8ichrT1LIzDnlXD) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Who Would You Be For Me](https://open.spotify.com/album/1PedVMTwt52VHigoA1eqac) | 5:01 | 2023-09-28 | 2024-01-12 |
 | [Wild God](https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp) | 5:19 | 2024-03-07 | 2024-06-14 |

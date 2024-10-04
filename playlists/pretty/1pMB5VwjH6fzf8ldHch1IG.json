@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.",
-  "num_followers": 45364,
+  "num_followers": 45363,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABHOfdZckBKuMAsGZ/m9M+Zraohx3A0",
+  "snapshot_id": "AABHO8uVQ21I5ekH6w9RK3AxcBG+Gn5p",
   "tracks": [
     {
       "added_at": "2024-09-27 17:54:28",
@@ -175,6 +175,26 @@
       "duration_ms": 136779,
       "name": "Talk About Me",
       "url": "https://open.spotify.com/track/5p2E22Aqu1POm8UgoX6gdg"
+    },
+    {
+      "added_at": "2024-10-03 17:10:09",
+      "album": {
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "duration_ms": 266787,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
     },
     {
       "added_at": "2024-09-27 17:54:28",

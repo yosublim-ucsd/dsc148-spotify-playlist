@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 
 > In memory of \[removed for privacy\]
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 15 songs - 57 min 36 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 16 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 | 13 | [Lazarus](https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 6:24 |
 | 14 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
 | 15 | [Jenny III](https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:26 |
+| 16 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 |
 
-Snapshot ID: `AAAAFiIfNm9y+2Dgz9HVzsDD02iE97k0`
+Snapshot ID: `AAAAF1IPzsdzV89xTTBoeN58Tj/jRUBG`

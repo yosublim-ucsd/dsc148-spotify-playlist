@@ -9680,7 +9680,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 107586,
       "name": "i hate edm",
       "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
@@ -19390,6 +19390,32 @@
       "duration_ms": 140142,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
+    },
+    {
+      "album": {
+        "name": "Tick Tock",
+        "url": "https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        },
+        {
+          "name": "ILLAMAN",
+          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU"
     },
     {
       "album": {

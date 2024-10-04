@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 245670,
+  "num_followers": 245771,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Deja V\u00fa",
         "url": "https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 233626,
       "name": "El Pais De Las Maravillas",
       "url": "https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        }
-      ],
-      "duration_ms": 452278,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "La Plaga (Digitally Remastered Remix)",
         "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 266946,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        }
+      ],
+      "duration_ms": 452278,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
     },
     {
       "added_at": "2024-07-12 18:14:48",

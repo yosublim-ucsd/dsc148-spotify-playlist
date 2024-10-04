@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Dyna V
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LyHan
 
-1,831 songs - 4 day 11 hr 16 min
+1,832 songs - 4 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [70 Đường 30 Đá](https://open.spotify.com/track/1O76Hce05DedwWQmlD3xbg) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz) | [70 Đường 30 Đá](https://open.spotify.com/album/1CRnbzlRJasuRigSFjXj9h) | 2:46 | 2023-07-18 | 2023-08-11 |
 | [99db](https://open.spotify.com/track/5nCeBQzWQUeHgh4nTLtjpr) | [Thống](https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX), [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [99db](https://open.spotify.com/album/5MnZXPBFflIEIEW16BaOcj) | 3:58 | 2023-12-14 | 2024-03-23 |
 | [A GIFT FROM "DAD"](https://open.spotify.com/track/7qOZTK2aEmyAtG6dXAf8Jg) | [Midwayy](https://open.spotify.com/artist/65vPZgKXFWcDKDvDMUEg4x), [JO](https://open.spotify.com/artist/264XKPxpdurEuWIL21UgvK) | [A GIFT FROM "DAD"](https://open.spotify.com/album/1acow2ptcXIcqUXcyr4Hea) | 3:02 | 2022-11-17 | 2023-04-06 |
+| [A New Harley Quinn](https://open.spotify.com/track/4BaWhzy74W32m5EZSmKMGF) | [LyHan](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [A New Harley Quinn](https://open.spotify.com/album/63L2uQCTVJuW36aNUDAVKB) | 2:44 | 2024-10-03 |  |
 | [Adrenaline](https://open.spotify.com/track/4fol1mRfChVQotmqksmytV) | [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [Ozee Kxng](https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A) | [Adrenaline](https://open.spotify.com/album/2l9z4aAx7R3K3KQWru1tvw) | 3:28 | 2022-10-10 | 2022-10-21 |
 | [Ai Bít Gì Đâu ?](https://open.spotify.com/track/6MBdY1SUmxdKLpPco9smID) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Ai Bít Gì Đâu ?](https://open.spotify.com/album/6tMu17fkHI4wFKnBpK2bzU) | 3:20 | 2023-12-14 | 2024-01-12 |
 | [ai dau can anh...?](https://open.spotify.com/track/5XCwP3NH8XiqukfUSh8Pjr) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [ai dau can anh...?](https://open.spotify.com/album/4xLv7DVlNFKiaz5BeqIE4F) | 5:20 | 2023-04-13 | 2023-05-18 |

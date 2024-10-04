@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Heaven Is Calling",
+        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
+    },
+    {
+      "album": {
         "name": "Hikikomori",
         "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211506,
       "name": "Manic Pixie Dream",
       "url": "https://open.spotify.com/track/6Tc4FcAwioZOazAmzcZtqr"

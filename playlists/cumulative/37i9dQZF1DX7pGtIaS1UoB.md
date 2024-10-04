@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-366 songs - 21 hr 39 min
+367 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [余生都是妳](https://open.spotify.com/track/2QlQ3Pjd5wtYefrnAiHxzl) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [余生都是妳](https://open.spotify.com/album/1BK4cdw3TyPvsh3QOYw9Os) | 3:00 | 2022-06-13 | 2022-08-22 |
 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 | 2023-05-08 | 2024-04-19 |
 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 | 2022-08-08 | 2023-05-01 |
-| [你是我的](https://open.spotify.com/track/4dMEzt1ZkFJfHBwcnsHFFi) | [楊勝賢](https://open.spotify.com/artist/1eItrtndbxAuqzQozWCcx0) | [你是我的](https://open.spotify.com/album/3vi6ZO0VmjAiwuyqfkWC6q) | 3:06 | 2024-09-26 |  |
+| [你是我的](https://open.spotify.com/track/4dMEzt1ZkFJfHBwcnsHFFi) | [楊勝賢](https://open.spotify.com/artist/1eItrtndbxAuqzQozWCcx0) | [你是我的](https://open.spotify.com/album/3vi6ZO0VmjAiwuyqfkWC6q) | 3:06 | 2024-09-26 | 2024-10-04 |
 | [你是我的情人节](https://open.spotify.com/track/27g6VKUqcEtEnKHehO4TYT) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [你是我的情人节](https://open.spotify.com/album/3dWZG7EcJTU3T7qka9Zpgu) | 2:43 | 2023-02-13 | 2023-03-05 |
 | [你是我的水 \- 電影<花甲大人轉男孩>插曲](https://open.spotify.com/track/6K95j4rov7rzTljwWXVibx) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:38 | 2024-05-06 | 2024-06-02 |
 | [你的名字像一首詩 \(feat\. 彭佳慧\)](https://open.spotify.com/track/5xRNYVNIMzHjXmpD6tHhmf) | [羅文裕](https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo), [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [當太陽升起時](https://open.spotify.com/album/6HzMccbSHgnKP3MEeULCg5) | 3:40 | 2022-06-06 | 2022-07-19 |
@@ -268,6 +268,7 @@
 | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD) | 3:07 | 2024-06-20 | 2024-08-01 |
 | [橘子汽水](https://open.spotify.com/track/66EHqFhy2Gvgj7HOFYQesg) | [张星特](https://open.spotify.com/artist/412qCxKDZeQ1zOw8IZShGk) | [橘子汽水 \(青春重置计划6 特调汽水\)](https://open.spotify.com/album/4lz4amhRyl96UMrN2Jh7AC) | 3:40 | 2022-10-24 | 2022-11-08 |
 | [欢迎光临](https://open.spotify.com/track/65TuztwYKl9Ka0Y17OczHx) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3), [盧俊傑](https://open.spotify.com/artist/2yET7cDQpHNdprCQW5zcx9) | [欢迎光临](https://open.spotify.com/album/2jvHOTPUzcfTgfRBQ4fRCP) | 3:53 | 2022-06-06 | 2022-07-28 |
+| [歪理](https://open.spotify.com/track/4eiWnMSWU3X0hIqh5FZbmH) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY), [張黎](https://open.spotify.com/artist/3dSg4h7ulGhvcsddGd7SnY) | [歪理](https://open.spotify.com/album/75dtt3qftCBT0f87pgPqRb) | 3:01 | 2024-10-03 |  |
 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 | 2022-07-04 |  |
 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 | 2022-06-06 | 2022-10-01 |
 | [每天一樣想你](https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5) | [Sun Day Night.](https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD), [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [每天一樣想你](https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa) | 3:47 | 2023-03-20 | 2023-05-12 |

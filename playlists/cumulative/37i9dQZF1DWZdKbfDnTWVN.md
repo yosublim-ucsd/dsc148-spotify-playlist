@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ"> Nyashinski</a>
 
-266 songs - 13 hr 49 min
+267 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Hustle Figure](https://open.spotify.com/track/04jbJq2AuE35VuAe55gVuI) | [Double Trouble](https://open.spotify.com/artist/16bv2xG6TA7IgSjLJFPRCa), [AshRough](https://open.spotify.com/artist/3S5G8Jm88WUAdwgvZCtuvV), [Stunna TNG](https://open.spotify.com/artist/3YI0gln186OWxuOAzkScJq) | [Hustle Figure](https://open.spotify.com/album/6alcBRUSvyt5ozw98gD5is) | 2:41 | 2024-05-23 | 2024-07-27 |
 | [I Got It Like That](https://open.spotify.com/track/3gRNqT8tEfVMIYZn31zTCw) | [Stella Mwangi](https://open.spotify.com/artist/0ypwPd6ZLWkYuNVRnRFor2) | [Reborn](https://open.spotify.com/album/5l2X20T2eUOcnqTe0QjiNV) | 2:18 | 2024-03-07 | 2024-07-27 |
 | [I know](https://open.spotify.com/track/6p7FuImwcfRX5FcrSPpU73) | [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [I know](https://open.spotify.com/album/6HSxA2loAse8bClFWUpxWe) | 2:14 | 2024-06-13 |  |
+| [IF I DO, IF I DON'T](https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [VISION 2020](https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy) | 3:14 | 2024-10-03 |  |
 | [Iko Top](https://open.spotify.com/track/4CvQplM8LsqUTY0YbDohBH) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Iko Top](https://open.spotify.com/album/2pwOODrDsMPeUfommbixIU) | 3:33 | 2023-06-02 | 2024-06-14 |
 | [In The End](https://open.spotify.com/track/6oLe2HrrJQ3BBIyq2TTqIm) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Lorrdreal](https://open.spotify.com/artist/7nRPXBDL1XWxB76tWRg2wP) | [In The End](https://open.spotify.com/album/2QY8FAFs5PBzTwzyAkElwY) | 3:08 | 2022-08-11 | 2022-10-28 |
 | [Induction settings](https://open.spotify.com/track/4R72Lx5vcEWOvQQjD9dyQD) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm), [GTB Emzee](https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv) | [Induction settings](https://open.spotify.com/album/6jLMX9s7gxUhtDglnpyLmE) | 2:33 | 2024-02-22 | 2024-06-14 |
@@ -225,7 +226,7 @@
 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 | 2023-04-20 | 2024-01-20 |
 | [Staki Kubonga Mob](https://open.spotify.com/track/2pNfV9uuYNSXAuW1FG2Vou) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Staki Kubonga Mob](https://open.spotify.com/album/00RqPEmbdfzMfDEpoZjZdC) | 2:02 | 2022-10-21 | 2023-01-11 |
 | [STAKI KUBONGA MOB](https://open.spotify.com/track/3Al64p5TiG2KsDMRbaTdLC) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:02 | 2022-10-21 | 2023-08-18 |
-| [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 | 2023-08-17 |  |
+| [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 | 2023-08-17 | 2024-10-04 |
 | [Straight](https://open.spotify.com/track/3x7cttdh0E6vixwK9H1TFR) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [The Groovy Way \(Deluxe Edition\)](https://open.spotify.com/album/5nL0qU3S4qqYkIoZeyl4m9) | 2:33 | 2022-06-30 | 2022-10-14 |
 | [Stupid](https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Stupid](https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a) | 3:48 | 2023-09-07 |  |
 | [Sue me](https://open.spotify.com/track/3DgYLpiHk6MYE8PET6VlJB) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr), [Korb$](https://open.spotify.com/artist/5cG5xPX9IGkJqah9F3IFC5) | [Uptown Chokoraa](https://open.spotify.com/album/6HA8OwSGgnbqhr0Hiy6zZm) | 2:50 | 2023-07-07 | 2024-03-01 |

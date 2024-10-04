@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Leslie x Franglish
+> Le R&B français, nouvelle ère\. Photo : Tiakola
 
-355 songs - 16 hr 57 min
+356 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Insomnie](https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant \(Réedition\)](https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy) | 3:04 | 2023-12-08 | 2024-04-05 |
 | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB) | [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa) | 2:59 | 2023-09-14 | 2023-12-08 |
+| [Instable](https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Instable](https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH) | 2:27 | 2024-10-03 |  |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2023-01-19 | 2023-03-31 |
 | [J'ai cru en toi](https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [J'ai cru en toi](https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn) | 2:27 | 2023-03-09 | 2023-04-14 |
 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 | 2024-03-07 | 2024-06-14 |
@@ -258,7 +259,7 @@
 | [Pas Les Mots](https://open.spotify.com/track/12WqCvcP9QJl4PpmSYDIyt) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Pas Les Mots](https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt) | 2:12 | 2023-09-14 | 2024-01-05 |
 | [PAS LÀ](https://open.spotify.com/track/593rLZfwh40YutczjPvbwD) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF) | [PAS LÀ](https://open.spotify.com/album/2Al8CFaYs6K4RPY0XVvCl4) | 2:51 | 2022-12-08 | 2023-01-20 |
 | [PAS LÀ](https://open.spotify.com/track/5GIRSbbvKHSmY4p2pEnZke) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [PAS LÀ](https://open.spotify.com/album/5EzYNyHB5oRjRpB1zcUdnc) | 2:27 | 2023-04-27 | 2023-06-23 |
-| [Passionné](https://open.spotify.com/track/1rd6wE2cYNkudR3CSXTCpW) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Passionné](https://open.spotify.com/album/5jLAtJNOtIRTOfe0DEPjyX) | 2:33 | 2024-08-29 |  |
+| [Passionné](https://open.spotify.com/track/1rd6wE2cYNkudR3CSXTCpW) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Passionné](https://open.spotify.com/album/5jLAtJNOtIRTOfe0DEPjyX) | 2:33 | 2024-08-29 | 2024-10-04 |
 | [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-02 |  |
 | [Pervers narcissique](https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Pervers narcissique](https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B) | 4:17 | 2022-11-24 | 2023-02-10 |
 | [Pic au cœur](https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Pic au cœur](https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu) | 2:40 | 2022-12-01 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 364 songs - 17 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 364 songs - 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 225 | [Imunidade Baixa \- Ao Vivo](https://open.spotify.com/track/2D0qOIQrglsvrtkNKvZx48) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Imunidade Baixa \(Ao Vivo\)](https://open.spotify.com/album/6lksX0Elu9qK26lzOZDqu6) | 2:54 |
 | 226 | [Lado Bom \- Ao Vivo](https://open.spotify.com/track/6u0rhQWzH2PoinGrMuinm6) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA), [Léo Moreira](https://open.spotify.com/artist/1wUxFuBWym6vKgn1akEUY9) | [Ao Vivo em Goiânia](https://open.spotify.com/album/3zjKPkYelG8ItxX9yMNOTo) | 2:44 |
 | 227 | [Usa Eu Bebê \- Ao Vivo](https://open.spotify.com/track/34Q4o1u2FtAHn9uzhQK9aE) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 3:11 |
-| 228 | [Espera Aí](https://open.spotify.com/track/4FAOK8cHHx57Dfjns4l9A5) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:16 |
-| 229 | [Falta de Mim](https://open.spotify.com/track/3874QV0KoY54WP9ZoRUKnO) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/1a4wzlVLvxqkEHarpaG8M6) | 2:28 |
+| 228 | [Falta de Mim](https://open.spotify.com/track/3874QV0KoY54WP9ZoRUKnO) | [Kaelzinho Ferraz](https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie) | [Só Pancada 2.0](https://open.spotify.com/album/1a4wzlVLvxqkEHarpaG8M6) | 2:28 |
+| 229 | [Espera Aí](https://open.spotify.com/track/4FAOK8cHHx57Dfjns4l9A5) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:16 |
 | 230 | [Planejei Reticências \- Ao Vivo](https://open.spotify.com/track/48sbvBm7nccfMjx05OJBVA) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \- Ao Vivo](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 2:56 |
 | 231 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/4fQbFGnbCLQJO9HCUHJtp5) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \- Ao Vivo](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 2:46 |
 | 232 | [Meia Luz \- Ao Vivo](https://open.spotify.com/track/6cWUslHGnxKrGtWpKOFQNl) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \- Ao Vivo](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 2:33 |
@@ -367,10 +367,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 357 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
 | 358 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 359 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 360 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 361 | [Mordida e Carinho](https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5) | [Christian Lins](https://open.spotify.com/artist/12BeE8Kf5XftekKcUADdol) | [Ativando Sentimento 2.0](https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w) | 2:15 |
+| 360 | [Mordida e Carinho](https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5) | [Christian Lins](https://open.spotify.com/artist/12BeE8Kf5XftekKcUADdol) | [Ativando Sentimento 2.0](https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w) | 2:15 |
+| 361 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 362 | [Apaga Apaga Apaga](https://open.spotify.com/track/0dg6dHxOMrzcCHzPFQDAem) | [Maxwell Silva](https://open.spotify.com/artist/3WrwWddj5TB3Nt94EVnA20) | [Pra Tomar Cachaça](https://open.spotify.com/album/5oNHOJOscRnW1GXibylCYb) | 3:40 |
 | 363 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 364 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 
-Snapshot ID: `AbdvHgAAAAAnVF/NkZlQcF9ymJvyRlzs`
+Snapshot ID: `Abd0vgAAAAA1zuCJaLpXEZt8EEYWhmSN`

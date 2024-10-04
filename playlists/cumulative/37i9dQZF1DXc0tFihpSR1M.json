@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "En Gang Til",
+        "url": "https://open.spotify.com/album/75C0zuG3i2dmsLawhkbb2Q"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lgen",
+          "url": "https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163443,
+      "name": "En Gang Til",
+      "url": "https://open.spotify.com/track/4hGjS5M1zyic7rGTzMIXNa"
+    },
+    {
+      "album": {
         "name": "En sista chans",
         "url": "https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u"
       },
@@ -672,7 +690,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
+      "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
@@ -688,7 +706,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
@@ -1280,6 +1298,24 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
+        "name": "Jeg hater deg",
+        "url": "https://open.spotify.com/album/6B30YfLbkpAP6NlHisd4Ds"
+      },
+      "artists": [
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142712,
+      "name": "Jeg hater deg",
+      "url": "https://open.spotify.com/track/5Q2cbjla7Ix468vl7SRoUk"
     },
     {
       "album": {
@@ -2060,7 +2096,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,228 likes - 148 songs - 7 hr 33 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,228 likes - 149 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 146 | [Play This Rhythm](https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Play This Rhythm](https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA) | 2:54 |
 | 147 | [Play This Rhythm](https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Play This Rhythm](https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA) | 2:54 |
 | 148 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 |
+| 149 | [Free Your Mind](https://open.spotify.com/track/2kYWI4tyVrFvh3XIXTHVhd) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w) | [Free Your Mind](https://open.spotify.com/album/4hub8pUiQAnKLXIHQ60wtU) | 2:44 |
 
-Snapshot ID: `AAAPaOFV4lODJEDwGBmRcryGrc9N7Z72`
+Snapshot ID: `AAAPacAIJPcTr1N8es5o/WT+X+lMq19u`

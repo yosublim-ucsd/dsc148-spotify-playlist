@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Solomun, Novaa",
+  "description": "New music off the beaten track. Cover: \u00c2me, Curses",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "album": {
         "name": "Broken (Remixes)",
         "url": "https://open.spotify.com/album/6ggsZZrmUNFR7NxPC8X9sN"
       },
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 247875,
       "name": "Corridor Of Dreams",
       "url": "https://open.spotify.com/track/61PTczPAI8LDLTj9YOUbQ8"
@@ -3094,6 +3112,50 @@
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0aszq9ponUCS7NnOILVmaM"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230332,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/3k62BXRVlhvQj46wLxiWDv"
+    },
+    {
+      "album": {
+        "name": "Das Blaue Licht",
+        "url": "https://open.spotify.com/album/2001x3BZeK5H4Q0QralxTA"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Katabtu",
+          "url": "https://open.spotify.com/artist/6eBgDlzzIggMTBTlhlRarp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414757,
+      "name": "Das Blaue Licht",
+      "url": "https://open.spotify.com/track/33TcgksXudHzO8aPXv8vK4"
     },
     {
       "album": {
@@ -4176,6 +4238,24 @@
       "duration_ms": 192078,
       "name": "Elevation - Paul Woolford Remix Edit",
       "url": "https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN"
+    },
+    {
+      "album": {
+        "name": "Eleven Months",
+        "url": "https://open.spotify.com/album/5qW1OEHZYNwhZ94ckpc5TN"
+      },
+      "artists": [
+        {
+          "name": "IXIK",
+          "url": "https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166112,
+      "name": "Eleven Months",
+      "url": "https://open.spotify.com/track/1KHQaBn4MPosNqk7TpRHKp"
     },
     {
       "album": {
@@ -5491,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Fountains",
+        "url": "https://open.spotify.com/album/5AXUjAAmv87IyPUNSUgjvY"
+      },
+      "artists": [
+        {
+          "name": "Dim Fumes",
+          "url": "https://open.spotify.com/artist/7vzXoJW5oHOUcDMNRljSEt"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Fountains",
+      "url": "https://open.spotify.com/track/2Wad9o1bhsymJNsPxXgkDt"
+    },
+    {
+      "album": {
         "name": "Foxx",
         "url": "https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173"
       },
@@ -6164,7 +6262,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
@@ -6930,7 +7028,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190859,
       "name": "House",
       "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
@@ -10872,7 +10970,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 354891,
       "name": "Neue Realit\u00e4t",
       "url": "https://open.spotify.com/track/5gIJIXK4ehecpyHUrh5sbL"
@@ -11645,6 +11743,28 @@
     },
     {
       "album": {
+        "name": "Adult Contemporary (Deluxe)",
+        "url": "https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "On the Move (feat. Cannons)",
+      "url": "https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY"
+    },
+    {
+      "album": {
         "name": "Once You Laugh",
         "url": "https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY"
       },
@@ -11656,7 +11776,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 137059,
       "name": "Once You Laugh",
       "url": "https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K"
@@ -11894,6 +12014,28 @@
       "duration_ms": 325706,
       "name": "Ordinary Love - Folamour Remix",
       "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233211,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
     },
     {
       "album": {
@@ -13509,6 +13651,28 @@
     },
     {
       "album": {
+        "name": "Shadow Of Love",
+        "url": "https://open.spotify.com/album/252w3rS0s0z3HoD42MG1fX"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "Shadow Of Love",
+      "url": "https://open.spotify.com/track/5vpWgoN0ekCvFitRUw9cZO"
+    },
+    {
+      "album": {
         "name": "She Is Coming (Jean Tonique Remix)",
         "url": "https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP"
       },
@@ -13918,7 +14082,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 247883,
       "name": "Smalltown Boy - Planningtorock's 'The Love That You Need' Rework",
       "url": "https://open.spotify.com/track/4V6VyAxLxWfmnWlaJuVVRV"
@@ -15010,7 +15174,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 214997,
       "name": "Tangerine - Roosevelt Remix",
       "url": "https://open.spotify.com/track/68fhzaqXQtEr0IGApJdLgf"
@@ -15923,6 +16087,32 @@
     },
     {
       "album": {
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254395,
+      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
+    },
+    {
+      "album": {
         "name": "Too Much Too Little",
         "url": "https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl"
       },
@@ -16314,7 +16504,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 152253,
       "name": "UMPA",
       "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
@@ -17746,7 +17936,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 218929,
       "name": "You Belong To No-One",
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"

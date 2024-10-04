@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa?si=hcmU6Fa\_TySDBwk48HCCPQ">Internet Athi</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt?si=5x3tFQTzQ7acIMkaTkBBqA">Nomfundo Xaluva</a>
 
-233 songs - 1 day 0 hr 50 min
+234 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Theme From "Proof Of The Man"](https://open.spotify.com/track/11MvAJkEOi1PfO2pxLjoGJ) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Duet](https://open.spotify.com/album/3L5DqasQ3XCMfIiaxz4r6x) | 8:17 | 2023-11-01 | 2023-11-17 |
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 | 2023-08-26 |
 | [Thongo Lam \(Iyeza\)](https://open.spotify.com/track/2udpeFRqsPPWLpWqXP7hW0) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 4:38 | 2023-11-01 | 2023-11-17 |
-| [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 | 2023-03-17 |  |
+| [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 | 2023-03-17 | 2024-10-04 |
 | [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 | 2024-03-14 |  |
 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 | 2024-04-05 |  |
 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 | 2023-05-26 |
@@ -229,6 +229,7 @@
 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-02 |  |
 | [We Have Been Here Before](https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [We Have Been Here Before](https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE) | 4:50 | 2024-08-15 |  |
 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 | 2024-10-01 |  |
+| [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 | 2024-10-03 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 | 2024-01-26 |
 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 | 2023-08-25 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 | 2024-03-22 |

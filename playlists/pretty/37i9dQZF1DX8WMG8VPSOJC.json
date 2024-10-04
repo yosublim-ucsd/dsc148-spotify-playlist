@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1746386,
+  "num_followers": 1746438,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-09-19 14:56:51",
       "album": {
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Ain't Nothin' to It",
+      "url": "https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds"
+    },
+    {
+      "added_at": "2024-09-19 14:56:51",
+      "album": {
         "name": "Dolly",
         "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 249360,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
-    },
-    {
-      "added_at": "2024-09-19 14:56:51",
-      "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Ain't Nothin' to It",
-      "url": "https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds"
     },
     {
       "added_at": "2024-09-19 14:56:51",

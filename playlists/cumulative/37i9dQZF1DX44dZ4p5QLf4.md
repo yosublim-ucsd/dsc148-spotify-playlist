@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Joya Mooi
 
-452 songs - 1 day 2 hr 28 min
+455 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-14 |  |
 | [Cycle](https://open.spotify.com/track/56Uah45lBpN5CcUtksDv8o) | [Strama](https://open.spotify.com/artist/09PM8Vw3f7uJySKt1KZLk0) | [Cycle](https://open.spotify.com/album/35bEP7iJX3JJhRdG5jWuvT) | 3:09 | 2022-04-08 | 2022-07-07 |
 | [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-08-15 | 2024-08-30 |
+| [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 | 2024-10-03 |  |
 | [Dangerous Thing](https://open.spotify.com/track/2GoLjbOvkBlKxLXLiA4Vst) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Dangerous Thing](https://open.spotify.com/album/1OajkNiDeH1jVZV6lOYwOI) | 3:34 | 2021-12-16 | 2022-01-26 |
 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 | 2021-12-16 | 2022-10-15 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 | 2023-12-12 |
@@ -111,6 +112,7 @@
 | [DREAMIN'](https://open.spotify.com/track/36EJBK8P9jFTpvMyxJPaJZ) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Sorvina](https://open.spotify.com/artist/4V2qsPwa4YBmNW53v4rC1P), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [DREAMIN'](https://open.spotify.com/album/0VJby3FhUkYMi7DV5ouJAx) | 2:33 | 2024-05-23 |  |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-16 | 2023-02-18 |
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-01-18 |  |
+| [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 | 2024-10-03 |  |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-28 | 2024-01-18 |
 | [Ego](https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 5:50 | 2022-04-08 | 2023-03-31 |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-05-19 | 2023-07-08 |
@@ -459,6 +461,7 @@
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-29 | 2024-02-10 |
 | [YouMe](https://open.spotify.com/track/2Ny3pgsRBoHuxA1GO8G9BQ) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw) | [YouMe](https://open.spotify.com/album/1yoZHPHhjX3vQHKI4xtRvq) | 3:05 | 2021-12-16 | 2022-12-03 |
 | [Your Mind](https://open.spotify.com/track/1HtQWBViM05CjUOaA4AloV) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Your Mind](https://open.spotify.com/album/3W83hrUuMsRyva2PHUVDGs) | 4:19 | 2022-03-10 | 2022-09-23 |
+| [Yours Truly](https://open.spotify.com/track/1xouhdKvDkzlIUX0o8odGl) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Yours Truly](https://open.spotify.com/album/545kEpAsKnylJ8BZ5QNDQI) | 2:53 | 2024-10-03 |  |
 | [YoYo](https://open.spotify.com/track/04fM1KOXn3p5hbPwNtDSaG) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES](https://open.spotify.com/album/0j55fKR1TUL5qGH5AeQxn8) | 3:05 | 2021-12-16 | 2022-07-07 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

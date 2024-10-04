@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Black K
+> African dance party music from the continent to Paris\. Photo : Ayanne
 
-202 songs - 11 hr 26 min
+203 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 | 2024-04-19 |
 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 |  |
-| [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 |  |
+| [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
 | [Bio](https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [Bio](https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5) | 3:05 | 2024-05-16 |  |
@@ -105,6 +105,7 @@
 | [Il est La](https://open.spotify.com/track/6zblCpRhFYqF3yP9HBdMKq) | [Indira](https://open.spotify.com/artist/3CJLLE7BahDjeTeHVtdRdP), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Il est La](https://open.spotify.com/album/6Y6MoYzQ5addwNF2LbrND1) | 3:41 | 2022-08-25 | 2022-12-02 |
 | [Ils n'ont pas cru](https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Ils n'ont pas cru](https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd) | 3:58 | 2023-01-26 | 2023-05-05 |
 | [Ils Sont Où?](https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Ils Sont Où?](https://open.spotify.com/album/03HpoLkthTOHlr8pLLD42l) | 3:32 | 2023-04-27 | 2023-11-24 |
+| [J'aime ça](https://open.spotify.com/track/0ddBz53fWZEmCT4LcBQZhE) | [KBMI Jamax](https://open.spotify.com/artist/1x1jDaqV7a7DPSA0RdRP8b), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [J'aime ça](https://open.spotify.com/album/0d36TPaXqra7McNYecKZnZ) | 2:49 | 2024-10-03 |  |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |

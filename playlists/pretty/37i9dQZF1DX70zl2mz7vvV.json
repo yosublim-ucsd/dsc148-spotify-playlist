@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 56260,
+  "num_followers": 56289,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Differentology",
-        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Differentology (Ready for the Road)",
-      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 203392,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Extra Raw: The First Lady Of Dancehall",
         "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge"
+        "name": "Differentology",
+        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
       },
       "artists": [
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 203392,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
+      "duration_ms": 260000,
+      "name": "Differentology (Ready for the Road)",
+      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
     },
     {
       "added_at": "2020-10-19 09:02:25",

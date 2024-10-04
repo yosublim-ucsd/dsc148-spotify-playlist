@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,179 likes - 96 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,182 likes - 96 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Four Flights to Fibs](https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Four Flights to Fibs](https://open.spotify.com/album/0EY2T0dzaS7NdBGY0qmAQ3) | 3:48 |
 | 2 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 |
 | 3 | [Tanya](https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Perasa](https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i) | 4:16 |
-| 4 | [Satu Dunia](https://open.spotify.com/track/3JwN2rU6xyirTUUyAx1dqj) | [Avalokiteshvara](https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2), [Tanya Ditaputri](https://open.spotify.com/artist/48ucHKspMenY9DgUjCVbdb) | [Satu Dunia](https://open.spotify.com/album/32jtPwoLQuehtlWkBKa6pC) | 3:41 |
-| 5 | [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 |
-| 6 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 |
+| 4 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 |
+| 5 | [Satu Dunia](https://open.spotify.com/track/3JwN2rU6xyirTUUyAx1dqj) | [Avalokiteshvara](https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2), [Tanya Ditaputri](https://open.spotify.com/artist/48ucHKspMenY9DgUjCVbdb) | [Satu Dunia](https://open.spotify.com/album/32jtPwoLQuehtlWkBKa6pC) | 3:41 |
+| 6 | [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 |
 | 7 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 |
 | 8 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 |
 | 9 | [Asmara](https://open.spotify.com/track/7a3eTduVogqs3nBnMJ41es) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W) | [Asmara](https://open.spotify.com/album/061Mg16yhNGO78Sf1PVBHI) | 2:57 |
 | 10 | [Sudahlah](https://open.spotify.com/track/7y47EKi0erMGIBWh7YrJj8) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Sudahlah](https://open.spotify.com/album/62UIRGXligEluRl9u4H9Tx) | 3:12 |
-| 11 | [Donny](https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Dengarkanlah Radio](https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4) | 2:19 |
-| 12 | [Koji](https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Koji](https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG) | 3:48 |
-| 13 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 |
-| 14 | [Sembilan](https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9) | [Sembilan](https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6) | 2:53 |
-| 15 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 |
+| 11 | [Sembilan](https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9) | [Sembilan](https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6) | 2:53 |
+| 12 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 |
+| 13 | [Donny](https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Dengarkanlah Radio](https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4) | 2:19 |
+| 14 | [Koji](https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Koji](https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG) | 3:48 |
+| 15 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 |
 | 16 | [Keriput](https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Bercerita](https://open.spotify.com/album/7iGjEOAwvBJvGncuVQNo2Z) | 3:28 |
 | 17 | [Sandman](https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O) | [Valentine](https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k) | [Sandman](https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh) | 1:43 |
 | 18 | [Music To My Soul \(Special\)](https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF) | [Heyru](https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH), [Fabiolous](https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz) | [Music To My Soul \(Special\)](https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G) | 4:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 95 | [Waktuku Hampa](https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Detik Waktu Quartet](https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK) | [Waktuku Hampa](https://open.spotify.com/album/367KtX1YYymKFcjfN847nC) | 3:17 |
 | 96 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `ZvWTEAAAAAAHb0eUYP5ELZoQ/UDp4uIH`
+Snapshot ID: `Zv8wAAAAAACMFmHBhPYUvNl5zx2s+5eK`

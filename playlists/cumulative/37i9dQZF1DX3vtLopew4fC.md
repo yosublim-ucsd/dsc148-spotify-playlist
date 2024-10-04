@@ -2,7 +2,7 @@
 
 ### [EQUAL Canada](https://open.spotify.com/playlist/37i9dQZF1DX3vtLopew4fC)
 
-> Listen to women in Canada, at full volume\. Cover: REZZ
+> Listen to women in Canada, at full volume\. Cover: Rezz
 
 1,562 songs - 3 day 9 hr 17 min
 

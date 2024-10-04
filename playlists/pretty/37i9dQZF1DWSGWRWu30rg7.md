@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Marizka Juwita
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,603 likes - 93 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,605 likes - 93 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

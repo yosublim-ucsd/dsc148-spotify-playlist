@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 陳明憙 Jocelyn Chan
+> 感受超級女聲力量。Cover: 方皓玟
 
-378 songs - 22 hr 42 min
+381 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
 | [Nothing](https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [The Cloud](https://open.spotify.com/album/73AHz9Ih9eiRutHdvq1Zrr) | 3:21 | 2024-06-27 |  |
+| [NOW](https://open.spotify.com/track/0KrR4Lk6WeGj3oZFq94JHt) | [UNI](https://open.spotify.com/artist/6RsSt1g3GiD3Svzf4DUPYR) | [NOW](https://open.spotify.com/album/7zWGB6nY6AnK8pKfSLuWFf) | 2:52 | 2024-10-03 |  |
 | [On My Way](https://open.spotify.com/track/0h3SKxxvHNH3qtFUMtu1dk) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [On My Way](https://open.spotify.com/album/6HbD9kVjMDCqgsEVOxNJmX) | 3:05 | 2024-08-08 |  |
 | [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 | 2024-07-18 |  |
 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 | 2024-06-27 |  |
@@ -322,6 +323,7 @@
 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 | 2024-06-27 |  |
 | [現在](https://open.spotify.com/track/4CTVrNDMw4XSHOcJfrJEAA) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [現在](https://open.spotify.com/album/0YNkXpH1oD9NE2aWKyKzrX) | 3:48 | 2024-06-27 |  |
 | [甜蜜在十點五十九分前](https://open.spotify.com/track/3cbv2A9wr4n5100gxnHmUO) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [甜蜜在十點五十九分前](https://open.spotify.com/album/17Qb9AM8uSoKcvIWyOffGb) | 2:29 | 2024-06-27 |  |
+| [痴根鐵粉](https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [痴根鐵粉](https://open.spotify.com/album/2K2fG8bNgZws9A266d6Uue) | 2:48 | 2024-10-03 |  |
 | [白髮齊眉](https://open.spotify.com/track/6qTqCB50JejUbmv2HFTVUP) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [白髮齊眉](https://open.spotify.com/album/12ZDGifLDgCZLEzGRBbdfQ) | 3:39 | 2024-06-27 |  |
 | [百妖夜行的修行](https://open.spotify.com/track/7nhmSdSknuP2OB1fnGdREj) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [百妖夜行的修行](https://open.spotify.com/album/0UjpB9oCfLW0UArVf2h3Jv) | 2:59 | 2024-06-27 |  |
 | [盲盒](https://open.spotify.com/track/7yl5iw9PR3sX4cR3m85Q5h) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [盲盒](https://open.spotify.com/album/6hhy6e1lq8gtgAGCVTogU0) | 4:44 | 2024-07-04 |  |
@@ -378,6 +380,7 @@
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 |  |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 |  |
+| [靈魂奇異點](https://open.spotify.com/track/7hTvTrwnO9JWCFXFUF1Or0) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [靈魂奇異點](https://open.spotify.com/album/3lqBazVg4z4NQoqYreNCbu) | 6:35 | 2024-10-03 |  |
 | [靈魂有路](https://open.spotify.com/track/6YhyH78Zvda6ynofvJSJB5) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [靈魂有路](https://open.spotify.com/album/0yrJL34mQkRhq8AdSzyN6i) | 3:19 | 2024-06-27 |  |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 |  |
 | [面對後悔的各種方法](https://open.spotify.com/track/22H8nkDVSblurw8BcLHr4G) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [面對後悔的各種方法](https://open.spotify.com/album/2XKKzNAzzeBLNhgk9p1bLs) | 4:15 | 2024-06-27 |  |

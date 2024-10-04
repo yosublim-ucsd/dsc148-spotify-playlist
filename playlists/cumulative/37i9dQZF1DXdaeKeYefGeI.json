@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161760,
       "name": "Brugwachter",
       "url": "https://open.spotify.com/track/1nycat5wdlgvoHHl3Up4cv"
@@ -784,6 +784,24 @@
       "duration_ms": 199760,
       "name": "De Weg",
       "url": "https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Tangarine)",
+        "url": "https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225343,
+      "name": "De Wind Draait",
+      "url": "https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi"
     },
     {
       "album": {
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 235265,
       "name": "Het Komt Wel Goed",
       "url": "https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ"
@@ -2736,6 +2754,24 @@
       "duration_ms": 198186,
       "name": "Troostliedje",
       "url": "https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii"
+    },
+    {
+      "album": {
+        "name": "Vaderdag (deel 2)",
+        "url": "https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198329,
+      "name": "Vaderdag (deel 2)",
+      "url": "https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF"
     },
     {
       "album": {

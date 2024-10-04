@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -14097,6 +14097,24 @@
     },
     {
       "album": {
+        "name": "Feeling My Mind",
+        "url": "https://open.spotify.com/album/0WfI1jaUbJKuhqgHCaepmm"
+      },
+      "artists": [
+        {
+          "name": "Joe Mesmar",
+          "url": "https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268064,
+      "name": "Feeling My Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/54GIpKWCbM8qNRp0DVk7U0"
+    },
+    {
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -19734,7 +19752,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -21634,6 +21652,24 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
+        "name": "KUNG FU",
+        "url": "https://open.spotify.com/album/2jZqUI44Jwpgoa6QFXbWnK"
+      },
+      "artists": [
+        {
+          "name": "UZ4Y",
+          "url": "https://open.spotify.com/artist/6u01CCedMmzWrjTyeup4mf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "KUNG FU",
+      "url": "https://open.spotify.com/track/24hOyYdxmTp3ERdwOhTiqg"
     },
     {
       "album": {
@@ -24062,7 +24098,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211860,
       "name": "Luxemburgo",
       "url": "https://open.spotify.com/track/1sD1YXeS4R9xPCjc0ze0md"
@@ -38048,7 +38084,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38066,7 +38102,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

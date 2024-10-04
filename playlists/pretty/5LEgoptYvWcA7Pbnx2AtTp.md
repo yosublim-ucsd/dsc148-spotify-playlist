@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 114 songs - 6 hr 43 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 115 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 112 | [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 |
 | 113 | [Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:12 |
 | 114 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 |
+| 115 | [Let Me Down](https://open.spotify.com/track/2PRTHS48pwcs1VMm6DxiXX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 1:51 |
 
-Snapshot ID: `AAAAnMUL+olm27dh9VEtGicfcBJPFonp`
+Snapshot ID: `AAAAnRzENfeSf154FKGLsmPGYRZ5QaK/`

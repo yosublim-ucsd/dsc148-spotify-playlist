@@ -1,13 +1,33 @@
 {
   "description": "featuring HARU NEMURI and Frost Children",
-  "num_followers": 463403,
+  "num_followers": 463474,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu35PgAAAABlGI7eF/qjhA/7Ouj9JCMC",
+  "snapshot_id": "Zv7kPQAAAACavi0H1SjrgMKYYonmhjVD",
   "tracks": [
+    {
+      "added_at": "2024-10-03 18:36:45",
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 244839,
+      "name": "My Forever (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -45,6 +65,26 @@
       "url": "https://open.spotify.com/track/7oSpZgUtuqjGlCOckaPZI2"
     },
     {
+      "added_at": "2024-10-03 18:36:45",
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "duration_ms": 263122,
+      "name": "Exhilarate (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/7jS24PfeU5Wkd4ieCZZMMu"
+    },
+    {
       "added_at": "2024-09-20 22:37:50",
       "album": {
         "name": "girl EDM - disc 1",
@@ -79,6 +119,26 @@
       "duration_ms": 117611,
       "name": "search & destroy",
       "url": "https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "disappear",
+        "url": "https://open.spotify.com/album/2EqoCT71kjey7k2B3HSPGk"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        },
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        }
+      ],
+      "duration_ms": 116818,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/01JWBNFFeULob6w6SrDSAn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -159,6 +219,22 @@
     {
       "added_at": "2024-09-20 22:37:50",
       "album": {
+        "name": "NEW JEANS +",
+        "url": "https://open.spotify.com/album/2f6UpBqxOqzU7n69cU24UN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "NEW JEANS +",
+      "url": "https://open.spotify.com/track/69TL4z2sV2xS0TAxuxttSF"
+    },
+    {
+      "added_at": "2024-09-20 22:37:50",
+      "album": {
         "name": "What's Wrong With New York?",
         "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
       },
@@ -199,42 +275,6 @@
       "duration_ms": 164519,
       "name": "<3 Korean Girls (feat. Mega Mongoliad)",
       "url": "https://open.spotify.com/track/2kJU9c7wKfwE2wdGE7D2As"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "disappear",
-        "url": "https://open.spotify.com/album/2EqoCT71kjey7k2B3HSPGk"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        }
-      ],
-      "duration_ms": 116818,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/01JWBNFFeULob6w6SrDSAn"
-    },
-    {
-      "added_at": "2024-09-20 22:37:50",
-      "album": {
-        "name": "NEW JEANS +",
-        "url": "https://open.spotify.com/album/2f6UpBqxOqzU7n69cU24UN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 124444,
-      "name": "NEW JEANS +",
-      "url": "https://open.spotify.com/track/69TL4z2sV2xS0TAxuxttSF"
     },
     {
       "added_at": "2024-09-20 22:37:50",
@@ -467,26 +507,6 @@
       "duration_ms": 170000,
       "name": "laced up",
       "url": "https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z"
-    },
-    {
-      "added_at": "2024-09-06 19:24:31",
-      "album": {
-        "name": "Angel Music",
-        "url": "https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "Angel Music",
-      "url": "https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa"
     },
     {
       "added_at": "2024-08-31 20:58:29",

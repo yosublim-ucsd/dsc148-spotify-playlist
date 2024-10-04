@@ -2,7 +2,7 @@
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. De mest populære numre i én playliste.
+> This is Alexander Stewart\. The essential tracks, all in one playlist.
 
 59 songs - 2 hr 44 min
 

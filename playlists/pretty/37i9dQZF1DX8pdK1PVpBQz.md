@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Jaal
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,789 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,805 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 71 | [Revolver](https://open.spotify.com/track/6ttsI3Rqjx8Rf2yuqENUla) | [Selfish Sons](https://open.spotify.com/artist/5Fqu2dYwt7GFleLcxCEYKE) | [Revolver](https://open.spotify.com/album/6ulYkXq17P6GYGo88JKC2P) | 3:29 |
 | 72 | [Getting Older](https://open.spotify.com/track/0NeIfXldQGGHhpbKNfeJcS) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Getting Older](https://open.spotify.com/album/5abo2OwuN3GmxTWG7ITJ8Y) | 3:22 |
 | 73 | [Daisy](https://open.spotify.com/track/0d0sxxRow1LkA00gJroUTk) | [Phoebe Rings](https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf) | [Daisy](https://open.spotify.com/album/2J6dx7DOKfMh32yUmpcv52) | 3:25 |
-| 74 | [Garden](https://open.spotify.com/track/1YUllv2MIB5PVTnRF4WlMY) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4), [Han](https://open.spotify.com/artist/1pFGnrMXdnZKVuRWxtFRu2) | [Garden](https://open.spotify.com/album/1rokZo0OmnLREslFAIRHXC) | 3:09 |
+| 74 | [Garden](https://open.spotify.com/track/1YUllv2MIB5PVTnRF4WlMY) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4), [Hannah Steiner](https://open.spotify.com/artist/4KoNkdEl8GvpF3cBVY7D9T) | [Garden](https://open.spotify.com/album/1rokZo0OmnLREslFAIRHXC) | 3:09 |
 | 75 | [Birds](https://open.spotify.com/track/6lTmjnqBQYyqiu7EAbxVtE) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Birds](https://open.spotify.com/album/02IubQRHTCQ7QbDawkqeqR) | 2:44 |
 | 76 | [Moves](https://open.spotify.com/track/09Zu9x1dbfPHoxBW9rfolQ) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [Moves](https://open.spotify.com/album/1G0A3YqVUMgAt8fGrlAeMq) | 2:47 |
 | 77 | [all you ever wanted](https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [all you ever wanted](https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db) | 3:42 |

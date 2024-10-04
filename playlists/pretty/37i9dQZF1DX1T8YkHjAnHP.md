@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,482 likes - 78 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,506 likes - 78 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 13 | [Places & Faces](https://open.spotify.com/track/08oNJOCqaZNUTYp6VzRS6d) | [Filippos](https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT), [Dimp](https://open.spotify.com/artist/2RlHPqeP6PaOAIgHCu6oM6) | [Stray Man](https://open.spotify.com/album/68DaViJtOktyyAHn1q3MJv) | 5:54 |
 | 14 | [Dream Sequence](https://open.spotify.com/track/0gasOXRZGk4yjr0DiSFvAj) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Run With Me](https://open.spotify.com/album/0DiliY2i20M8DGjbcMEfwj) | 3:17 |
 | 15 | [Move](https://open.spotify.com/track/5Fqjs7ZInBmy7fkRWOQ94i) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Move](https://open.spotify.com/album/5cWpr0E5DEEv81ZkxfqriZ) | 3:13 |
-| 16 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
+| 16 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
 | 17 | [Jorniel](https://open.spotify.com/track/2QBMxByChhXHhlzFLz58Ys) | [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Mabruk EP](https://open.spotify.com/album/7Bv7AHT3lqCNkQSmZOWFhJ) | 7:01 |
 | 18 | [Morena](https://open.spotify.com/track/20i0eXGWmtUTpPkxEvdZkM) | [Mili](https://open.spotify.com/artist/1j6koOpTHnrf3MMIn9cKHm), [Hoomance](https://open.spotify.com/artist/3oBdBbIlqhRiha9P6QVQG0) | [Morena](https://open.spotify.com/album/1l0oPocEeM9zxLFVJ5wjwI) | 3:21 |
 | 19 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 |

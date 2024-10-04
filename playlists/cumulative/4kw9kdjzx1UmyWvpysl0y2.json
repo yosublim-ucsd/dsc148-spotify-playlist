@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 193953,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5dqSozImkn085i3ljNKVLH"
@@ -13528,6 +13528,24 @@
       "duration_ms": 188181,
       "name": "So Lost",
       "url": "https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik"
+    },
+    {
+      "album": {
+        "name": "Somebody With You",
+        "url": "https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Somebody With You",
+      "url": "https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC"
     },
     {
       "album": {

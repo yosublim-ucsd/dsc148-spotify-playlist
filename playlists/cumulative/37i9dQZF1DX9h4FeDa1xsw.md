@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Carbonne
+> Photo : Andéol
 
-53 songs - 2 hr 35 min
+54 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 | 2024-06-20 |  |
 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-12 |  |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-11 |  |
+| [Bisou sur la bouche](https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz) | 2:45 | 2024-10-03 |  |
 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 | 2024-06-20 | 2024-09-27 |
 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
@@ -33,7 +34,7 @@
 | [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 |  |
 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 | 2024-07-04 |  |
 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 | 2024-07-18 |  |
-| [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 |  |
+| [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 | 2024-10-04 |
 | [La tempête approche](https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [La tempête approche](https://open.spotify.com/album/2O79oOmN6J7uaRjx8V2Ux9) | 2:22 | 2024-06-20 |  |
 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 | 2024-08-30 |
 | [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 | 2024-08-29 |  |

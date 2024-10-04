@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30481,
+  "num_followers": 30496,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
         "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+        "name": "Fidate Correnti",
+        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
       "artists": [
         {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+      "duration_ms": 231920,
+      "name": "Vola lontano",
+      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -707,22 +723,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Fidate Correnti",
-        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Vola lontano",
-      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Petali",
         "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 217872,
       "name": "Lei balla sola",
       "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
+      },
+      "artists": [
+        {
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        },
+        {
+          "name": "Paolo Di Sabatino Trio",
+          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
+        }
+      ],
+      "duration_ms": 434413,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
-      },
-      "artists": [
-        {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        },
-        {
-          "name": "Paolo Di Sabatino Trio",
-          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
-        }
-      ],
-      "duration_ms": 434413,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Over and again",
         "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 210494,
       "name": "Over and again",
       "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Pinocchio e altri racconti",
-        "url": "https://open.spotify.com/album/7cXmGBHyTP2o8BaqWIktSu"
-      },
-      "artists": [
-        {
-          "name": "Antonio Zambrini",
-          "url": "https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Martin Andersen",
-          "url": "https://open.spotify.com/artist/1zIiVkc3gVwgGJLL2ZC2jE"
-        }
-      ],
-      "duration_ms": 388693,
-      "name": "Lucignolo",
-      "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Tati",
         "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 392266,
       "name": "Cornettology",
       "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Pinocchio e altri racconti",
+        "url": "https://open.spotify.com/album/7cXmGBHyTP2o8BaqWIktSu"
+      },
+      "artists": [
+        {
+          "name": "Antonio Zambrini",
+          "url": "https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Martin Andersen",
+          "url": "https://open.spotify.com/artist/1zIiVkc3gVwgGJLL2ZC2jE"
+        }
+      ],
+      "duration_ms": 388693,
+      "name": "Lucignolo",
+      "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "QMQS / Cannel\u00e9",
-        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
-      },
-      "artists": [
-        {
-          "name": "Allez Kiki Fermentation",
-          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
-        }
-      ],
-      "duration_ms": 270081,
-      "name": "QMQS",
-      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -1955,26 +1939,34 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Brasita",
-        "url": "https://open.spotify.com/album/5z78fFp4kacMx9EORj0Xat"
+        "name": "QMQS / Cannel\u00e9",
+        "url": "https://open.spotify.com/album/0TYLIzitRWHPw1ELnpTpmJ"
       },
       "artists": [
         {
-          "name": "Stefania Tallini",
-          "url": "https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb"
-        },
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+          "name": "Allez Kiki Fermentation",
+          "url": "https://open.spotify.com/artist/7M56nxBuga54hAus5FBZ9Q"
         }
       ],
-      "duration_ms": 211093,
-      "name": "A veva",
-      "url": "https://open.spotify.com/track/5XnwJkqWV65YQq2VvCLkjD"
+      "duration_ms": 270081,
+      "name": "QMQS",
+      "url": "https://open.spotify.com/track/1bHf80TBUprSwpQzM2l4jd"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Cratere Centrale",
+        "url": "https://open.spotify.com/album/5VdV9S4HoedNeuLPTOxyhX"
+      },
+      "artists": [
+        {
+          "name": "Cratere Centrale",
+          "url": "https://open.spotify.com/artist/6OOqYmtw4mK6PQd20NyddO"
+        }
+      ],
+      "duration_ms": 340093,
+      "name": "Catania Experiment",
+      "url": "https://open.spotify.com/track/4EZNflW5g6YyicH1yZmtZL"
     }
   ],
   "unique_name": "Jazz Italia",

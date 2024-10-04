@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Indira Paganotto",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -2309,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
+    },
+    {
+      "album": {
         "name": "Various Artists 2 - EP 1",
         "url": "https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un"
       },
@@ -2368,7 +2390,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 308642,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66"

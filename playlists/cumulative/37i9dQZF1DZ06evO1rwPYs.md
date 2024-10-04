@@ -2,7 +2,7 @@
 
 ### [This Is Celia Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rwPYs)
 
-> This is Celia Cruz\. The essential tracks, all in one playlist.
+> This Is Celia Cruz\. Los temas esenciales, todos en una lista.
 
 128 songs - 7 hr 59 min
 
@@ -75,7 +75,7 @@
 | [Latinos En Estados Unidos](https://open.spotify.com/track/6m4RgKTzd05DMgRgTQrruG) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 5:55 | 2022-01-16 | 2022-01-22 |
 | [Lo Tuyo Es Mental](https://open.spotify.com/track/3iKC12zY7EJoXuJXDH7E71) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 | 2023-04-26 | 2024-04-05 |
 | [Lágrimas Negras](https://open.spotify.com/track/7r8oKyCzJFWEZj2QsVxqkr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Dios Disfrute a la Reina](https://open.spotify.com/album/37WqhadV6rhhlq5nGk0GTW) | 4:40 | 2022-09-27 | 2022-10-14 |
-| [Lágrimas Negras](https://open.spotify.com/track/4frRPag9czFRfNuQAiMiY7) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lágrimas Negras](https://open.spotify.com/album/5F1JlKPnfviPfOPYnNLgpS) | 3:57 | 2024-05-07 |  |
+| [Lágrimas Negras](https://open.spotify.com/track/4frRPag9czFRfNuQAiMiY7) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lágrimas Negras](https://open.spotify.com/album/5F1JlKPnfviPfOPYnNLgpS) | 3:57 | 2024-05-07 | 2024-10-04 |
 | [Mani Tostao](https://open.spotify.com/track/66GvCOCii9of2Lz8m06Eri) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:50 | 2021-12-28 | 2022-01-30 |
 | [Me Acuerdo De Ti](https://open.spotify.com/track/0SjUCvMlksiRFZPdQyrsrM) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 4:03 | 2022-07-07 | 2022-07-09 |
 | [Me Voy A Pinar Del Rio](https://open.spotify.com/track/1MEPy1v2mx52JPLsOUnpEH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:44 | 2021-12-31 | 2022-07-29 |
@@ -113,7 +113,7 @@
 | [Ritmo, Tambor y Flores](https://open.spotify.com/track/4Bxb0lDyBqAa9sPJbTEQEL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [A Lady And Her Music: ¡Azucar!](https://open.spotify.com/album/1F3qHr71rMRdqZbME3Esh3) | 5:32 | 2022-01-30 | 2022-08-25 |
 | [Rock And Roll](https://open.spotify.com/track/6lcU1mpbQHV3iRj4XJDr87) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 2:28 | 2023-01-31 | 2024-03-08 |
 | [Salsa De Tomate](https://open.spotify.com/track/0jGWFStm4atPgcodDP1x7S) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [A Lady And Her Music: ¡Azucar!](https://open.spotify.com/album/1F3qHr71rMRdqZbME3Esh3) | 3:14 | 2022-05-09 | 2022-05-23 |
-| [Saludo A Elegua](https://open.spotify.com/track/3DeL13PLmBIFORVV3riJHN) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Homenaje A Los Santos](https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl) | 3:17 | 2021-12-28 | 2022-06-22 |
+| [Saludo A Elegua](https://open.spotify.com/track/3DeL13PLmBIFORVV3riJHN) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Homenaje A Los Santos](https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl) | 3:17 | 2021-12-28 |  |
 | [Sazón](https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:51 | 2021-12-30 |  |
 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 | 2021-12-28 |  |
 | [Te Solté La Rienda](https://open.spotify.com/track/54A0B0VsVCWnpUIllI4J7q) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Nuevos Éxitos](https://open.spotify.com/album/4TGHtoMyBrDMrT16se1K40) | 2:42 | 2023-12-29 | 2023-12-31 |

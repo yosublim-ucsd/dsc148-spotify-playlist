@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 92944,
+  "num_followers": 93018,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "La Fiesta De Los Perrones",
+      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Nieves De Enero",
         "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 208956,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "La Fiesta De Los Perrones",
-      "url": "https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -767,18 +767,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 300440,
-      "name": "Entre Perico Y Perico",
-      "url": "https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd"
+      "duration_ms": 175891,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -799,6 +803,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 300440,
+      "name": "Entre Perico Y Perico",
+      "url": "https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "El Hijo Del Viejo",
         "url": "https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 202733,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 175891,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Contrabando En Los Huevos",
-        "url": "https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Contrabando En Los Huevos",
-      "url": "https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "Quince Madrazos Con Sus Compas",
         "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
       },
@@ -895,22 +879,6 @@
       "duration_ms": 209773,
       "name": "Chingon De Chingones",
       "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "14 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "El More\u00f1o",
-      "url": "https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -931,6 +899,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "14 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "El More\u00f1o",
+      "url": "https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Misa De Cuerpo Presente",
         "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 168360,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "Contrabando En Los Huevos",
+        "url": "https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Contrabando En Los Huevos",
+      "url": "https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -991,6 +991,22 @@
       "duration_ms": 144200,
       "name": "Pakas De A Kilo",
       "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "El Corrido De La Amapola",
+      "url": "https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "El Corrido De La Amapola",
-      "url": "https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "El Cartel de Los Cielos",
         "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
         "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 145360,
       "name": "Sucedio en el Aguaje",
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p"
     },
     {
       "added_at": "2023-08-21 17:43:47",

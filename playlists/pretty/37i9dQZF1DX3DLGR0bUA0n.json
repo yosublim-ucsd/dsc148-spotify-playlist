@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 64964,
+  "num_followers": 65024,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "Mi Presencia Cuenta",
+        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 148122,
+      "name": "Mi Presencia Cuenta",
+      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Aceptalo Ya !",
         "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 181360,
       "name": "No Se Vivir",
       "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Preso Me Llevan",
-      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Mi Presencia Cuenta",
-        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
+        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
       },
       "artists": [
         {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
         }
       ],
-      "duration_ms": 148122,
-      "name": "Mi Presencia Cuenta",
-      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
+      "duration_ms": 208133,
+      "name": "Preso Me Llevan",
+      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
       "added_at": "2024-08-23 06:00:00",

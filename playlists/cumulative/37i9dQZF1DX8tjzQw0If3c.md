@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Cover: Amir Hasan
+> Unearthing trailblazers\. Cover: Haven
 
-79 songs - 4 hr 15 min
+81 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,14 @@
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 |  |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2024-06-27 |  |
 | [GONE](https://open.spotify.com/track/5GD4Ua3avWtbj8g78j1kys) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [C.H.Q.Y](https://open.spotify.com/artist/6MpU9MJtZ8NWFO4Z0oCWY9) | [GONE](https://open.spotify.com/album/3dd6kX7BEgS4Fjm6G9cwJM) | 2:30 | 2024-06-27 |  |
+| [Good With That](https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Good With That](https://open.spotify.com/album/5QPaLW7l4vqGjz6eVAU0un) | 1:55 | 2024-10-03 |  |
 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 |  |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 |  |
 | [heartache frenzy](https://open.spotify.com/track/79Ic3LNMS0SDBcJPyihu14) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/3yygTbYVIVZgZ70E2Y3dd0) | 3:40 | 2024-06-27 |  |
 | [high school boy](https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [high school boy](https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB) | 2:54 | 2024-06-27 |  |
 | [His Way](https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [His Way](https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8) | 3:53 | 2024-06-27 |  |
 | [Hours](https://open.spotify.com/track/4aaeCfnNc21IRpL7SsQexE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Hours](https://open.spotify.com/album/0VibEYS0NHzR76zvg7c5w1) | 2:43 | 2024-06-27 |  |
+| [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 |  |
 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 | 2024-06-27 |  |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 |  |
 | [Jauh \- From "Malang Si Puteri"](https://open.spotify.com/track/0bmR1XPsuMXJ1snTrVjx7B) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Jauh \(From "Malang Si Puteri"\)](https://open.spotify.com/album/1FbTgkQm4mJQ0xPw9p9mfM) | 3:40 | 2024-06-27 |  |

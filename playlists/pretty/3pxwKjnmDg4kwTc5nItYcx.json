@@ -1,13 +1,45 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5736,
+  "num_followers": 5735,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHJZTtNL8tatfUS9HgUYHk6lfR9Exb",
+  "snapshot_id": "AAAHKPWZ7dUzL4Cm/BKCrP0hfHkavneK",
   "tracks": [
+    {
+      "added_at": "2024-10-03 23:09:16",
+      "album": {
+        "name": "Halfway to Paradise",
+        "url": "https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "duration_ms": 213955,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY"
+    },
+    {
+      "added_at": "2024-10-04 00:22:59",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
     {
       "added_at": "2024-08-30 05:37:39",
       "album": {
@@ -85,7 +117,7 @@
         }
       ],
       "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
+      "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {

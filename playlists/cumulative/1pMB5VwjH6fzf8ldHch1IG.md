@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-648 songs - 1 day 9 hr 55 min
+649 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 | 2024-01-26 | 2024-03-09 |
 | [PANIC ATTACK](https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [PANIC ATTACK](https://open.spotify.com/album/6S0ICRskr52yiEGuLKounG) | 2:27 | 2023-11-03 | 2023-11-25 |
 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 | 2024-04-01 | 2024-04-20 |
+| [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-10-03 |  |
 | [Passionate](https://open.spotify.com/track/5TrEgRKwwmmfNx4KN8usfU) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Passionate](https://open.spotify.com/album/0HRDrAf6GrC3yzIrsDTTaF) | 2:43 | 2023-12-15 | 2024-01-20 |
 | [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-09-20 |  |
 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 | 2024-01-19 | 2024-02-17 |

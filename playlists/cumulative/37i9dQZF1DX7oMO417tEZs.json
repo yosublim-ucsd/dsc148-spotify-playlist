@@ -26407,6 +26407,24 @@
     },
     {
       "album": {
+        "name": "YUGEN",
+        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223018,
+      "name": "YUGEN",
+      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
+    },
+    {
+      "album": {
         "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
         "url": "https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN"
       },

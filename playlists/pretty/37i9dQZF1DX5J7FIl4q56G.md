@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: The Black Dahlia Murder
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,271 likes - 57 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,351 likes - 57 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1066309,
+  "num_followers": 1066280,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Edge of the Ocean",
-        "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 295867,
-      "name": "Edge of the Ocean",
-      "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 214933,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Edge of the Ocean",
+        "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 295867,
+      "name": "Edge of the Ocean",
+      "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "If That's Ok",
+        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
+      },
+      "artists": [
+        {
+          "name": "Bo Napoleon",
+          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "If That's Ok",
+      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "If That's Ok",
-        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
-      },
-      "artists": [
-        {
-          "name": "Bo Napoleon",
-          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "If That's Ok",
-      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+      },
+      "artists": [
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+        }
+      ],
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
         "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 125880,
       "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
       "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
-      },
-      "artists": [
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Everyday People (Remix with B-Real & G. Love)",
         "url": "https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 296719,
       "name": "Round n Round (feat. Pepper & Kaleo Wassman)",
       "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203672,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
       "artists": [
         {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
       "artists": [
         {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
         }
       ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ancient Blood",
-        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        },
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dance My Stress Away (with Stephen Marley)",
         "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 214122,
       "name": "Dance My Stress Away (with Stephen Marley)",
       "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ancient Blood",
+        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 204000,
       "name": "Respect",
       "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: LUNA",
+  "description": "De nieuwste Nederlandse pop! Cover: Bente",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174339,
       "name": "Adem Even",
       "url": "https://open.spotify.com/track/3RNyU1d1mnVPjE5iALSogJ"
@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "De Laatste Keer Dat Ik Huil",
+        "url": "https://open.spotify.com/album/15iLSYMaBjgL0PxcO6DIxS"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174957,
+      "name": "De Laatste Keer Dat Ik Huil",
+      "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
+    },
+    {
+      "album": {
         "name": "De Liefde Van Je Vrienden",
         "url": "https://open.spotify.com/album/3qcZqPV8HeQeL0VhJ3bXgV"
       },
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154445,
       "name": "Even Tussen Ons",
       "url": "https://open.spotify.com/track/7isWCoenO2e3HudiE4nq0g"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217173,
       "name": "Geen Kind Meer",
       "url": "https://open.spotify.com/track/5KVNPxLX6YVwmmHVjo2idf"
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 203439,
       "name": "Het Is Voorbij",
       "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
@@ -5220,6 +5238,24 @@
       "duration_ms": 183968,
       "name": "Hoodiedate",
       "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
+    },
+    {
+      "album": {
+        "name": "Hoofdpijn",
+        "url": "https://open.spotify.com/album/6iwphcjJzFStZBOk3pMy8e"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146393,
+      "name": "Hoofdpijn",
+      "url": "https://open.spotify.com/track/75rVydp41sqyqMgCK2EPFR"
     },
     {
       "album": {
@@ -6024,6 +6060,24 @@
       "duration_ms": 137444,
       "name": "Is Dit Geluk?",
       "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
+        "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Je Draagt Het Niet Alleen",
+      "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
     },
     {
       "album": {
@@ -7136,7 +7190,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
@@ -7266,6 +7320,24 @@
       "duration_ms": 125294,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/7An8syerbMM9c3a4rOwCOx"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
+        "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166015,
+      "name": "Littekens",
+      "url": "https://open.spotify.com/track/5tcmKbwnW0wKWbxDlcI4Mv"
     },
     {
       "album": {
@@ -7422,6 +7494,24 @@
       "duration_ms": 181951,
       "name": "Maar Niet Met Jou Erbij",
       "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
+    },
+    {
+      "album": {
+        "name": "Mag Ik Vrij Zijn?",
+        "url": "https://open.spotify.com/album/4nQYQ7Bz0X1XJ6l3r6Or7p"
+      },
+      "artists": [
+        {
+          "name": "Guusje",
+          "url": "https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "Mag Ik Vrij Zijn?",
+      "url": "https://open.spotify.com/track/3pWn13u4Tdb8Mgxfm2TrHM"
     },
     {
       "album": {
@@ -8560,7 +8650,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 171904,
       "name": "Nog \u00c9\u00e9n Laatste Dans",
       "url": "https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE"
@@ -9713,6 +9803,24 @@
     },
     {
       "album": {
+        "name": "Naar De Haaien & Weer Terug",
+        "url": "https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262554,
+      "name": "Salmari & Kreeft",
+      "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
+    },
+    {
+      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/55XhyytN7FTEHoNiGphKRe"
       },
@@ -10686,6 +10794,24 @@
       "duration_ms": 184080,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/3rPZCGFa9DHIPppYZwiLXX"
+    },
+    {
+      "album": {
+        "name": "Tafel Voor 2",
+        "url": "https://open.spotify.com/album/4AFsBtnKpI01QmlfWXSAZX"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152615,
+      "name": "Tafel Voor 2",
+      "url": "https://open.spotify.com/track/0bAy8gfIx54HKQIsIiRju8"
     },
     {
       "album": {
@@ -12707,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "Wie Ik Ben",
+        "url": "https://open.spotify.com/album/610ULNsmEtIaDVnHZru9vS"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199258,
+      "name": "Wie Ik Ben",
+      "url": "https://open.spotify.com/track/07B6KYHiFPUYTUC5dK2LDN"
+    },
+    {
+      "album": {
         "name": "Wie is zij",
         "url": "https://open.spotify.com/album/7qM0YRpQDSYHVFmcb6bpvr"
       },
@@ -13248,6 +13392,24 @@
       "duration_ms": 167116,
       "name": "Zonder",
       "url": "https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w"
+    },
+    {
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Zonder handen rijden",
+      "url": "https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl"
     },
     {
       "album": {

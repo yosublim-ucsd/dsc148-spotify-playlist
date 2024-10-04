@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,767 likes - 300 songs - 10 hr 57 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,762 likes - 300 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 9 | [Smooth Sailing](https://open.spotify.com/track/6uTHq5k9bO16vPJisx7wL4) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Smooth Sailing](https://open.spotify.com/album/1B4FZEI8gPkoGx28geMsH2) | 2:17 |
 | 10 | [Conclusion](https://open.spotify.com/track/7kTj84gLobrrtYGimJHAmn) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Conclusion](https://open.spotify.com/album/6Czei1gFJNu8G5raGXd5We) | 2:15 |
 | 11 | [synergy](https://open.spotify.com/track/2mobc4qTowSU1xom2svdwr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [synergy](https://open.spotify.com/album/2pVgWKlYMy76JdQ2thPsDg) | 2:35 |
-| 12 | [Jetty](https://open.spotify.com/track/3k6Hq6Yjiv8GXTewJmWg3B) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Jetty](https://open.spotify.com/album/3G4KpeSficpNohQd8qG1Zi) | 1:53 |
+| 12 | [jetty](https://open.spotify.com/track/3k6Hq6Yjiv8GXTewJmWg3B) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [jetty](https://open.spotify.com/album/3G4KpeSficpNohQd8qG1Zi) | 1:53 |
 | 13 | [Endless Blue Skies](https://open.spotify.com/track/6k9pqL0llWkWqOfM1Gelxj) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Endless Blue Skies](https://open.spotify.com/album/6R1rAjt4wdeIRmFvWFmpyv) | 2:29 |
 | 14 | [Sativa Sunshine](https://open.spotify.com/track/2OekQ2lGXV0U6hTprUf1cG) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Sativa Sunshine](https://open.spotify.com/album/3PsuchmGfCFc2tspNPKcrL) | 1:50 |
 | 15 | [Pocket Duty](https://open.spotify.com/track/4BElPg3LuBqVfXtrE4RzFd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Pocket Duty](https://open.spotify.com/album/2f2KrjufAwMIdxSTE10GzT) | 2:23 |

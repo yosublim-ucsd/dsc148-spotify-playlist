@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : La Femme
+> La scène française branchée sur courant alternatif\. Photo : Aime Simone
 
-198 songs - 10 hr 42 min
+202 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 | 2024-01-27 |
 | [Baisodrome](https://open.spotify.com/track/2KVBVw9MhDP4KSGhjvBSap) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [Baisodrome](https://open.spotify.com/album/3PydxWkYJxebd7ILDVbPT5) | 4:20 | 2024-09-05 |  |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
-| [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 |  |
+| [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 | 2024-10-04 |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:13 | 2023-12-08 | 2024-06-01 |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 | 2024-06-21 |
 | [BROKEN BONES](https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId), [LIL Moine](https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq) | [BROKEN BONES](https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk) | 2:30 | 2024-06-13 | 2024-06-28 |
@@ -54,6 +54,7 @@
 | [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 | 2024-01-26 |  |
 | [DANS SES YEUX](https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [DANS SES YEUX](https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w) | 2:09 | 2024-06-06 |  |
 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 | 2023-09-28 | 2023-11-10 |
+| [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 | 2024-10-03 |  |
 | [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 | 2023-12-15 |
 | [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 | 2024-02-02 |
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 | 2023-11-03 |
@@ -71,7 +72,7 @@
 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 | 2023-11-16 | 2024-04-05 |
 | [Ghost Dog](https://open.spotify.com/track/0tzgjp6M0CHBNaxpU8KZm0) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Ghost Dog](https://open.spotify.com/album/1CWo1ANrkR4YQkFWM0FTVe) | 2:30 | 2024-03-14 | 2024-03-22 |
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
-| [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 |  |
+| [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 | 2024-10-04 |
 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 | 2024-04-18 |  |
 | [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 | 2024-06-27 |  |
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
@@ -104,6 +105,7 @@
 | [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 | 2023-12-08 |
 | [Le Pigeon](https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Pigeon](https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55) | 2:43 | 2023-10-05 | 2024-03-01 |
 | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY) | 4:12 | 2024-09-12 |  |
+| [Le sang de papa et maman](https://open.spotify.com/track/3ylbP2pqUzfm1j2mPwERmi) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [C'est à moi ça](https://open.spotify.com/album/4iLRvl9FFLhnXfXDSRITNj) | 3:23 | 2024-10-03 |  |
 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 | 2024-03-28 | 2024-04-26 |
 | [Le silence](https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Le silence](https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU) | 3:25 | 2024-04-04 |  |
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
@@ -159,7 +161,7 @@
 | [Resto Basket](https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Resto Basket](https://open.spotify.com/album/6Tg1oD0Qo1hmVytzqvd96i) | 2:58 | 2023-11-23 | 2024-06-14 |
 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 | 2024-03-28 |  |
 | [Rien ne m'attend](https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9) | [Rien ne m'attend](https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn) | 3:20 | 2024-05-30 |  |
-| [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 |  |
+| [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 | 2024-10-04 |
 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 | 2023-11-23 | 2024-04-26 |
 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
 | [SANS MOI](https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [SANS MOI](https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3) | 2:22 | 2024-05-02 | 2024-07-05 |
@@ -168,7 +170,7 @@
 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 | 2023-10-26 | 2024-04-20 |
 | [Shake It](https://open.spotify.com/track/71UX9MrQd3iCROyiWgUIuE) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Shake It](https://open.spotify.com/album/3RBuzCHdEXspCfVkuyc7er) | 3:51 | 2024-02-08 | 2024-03-15 |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 | 2023-11-17 |
-| [Shrek Is a Lesbian](https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm) | [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ), [Juda La Vidange](https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3) | [Shrek Is a Lesbian](https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn) | 1:51 | 2024-06-13 |  |
+| [Shrek Is a Lesbian](https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm) | [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ), [Juda La Vidange](https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3) | [Shrek Is a Lesbian](https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn) | 1:51 | 2024-06-13 | 2024-10-04 |
 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 | 2023-09-28 | 2023-11-24 |
 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 | 2024-02-01 | 2024-06-07 |
 | [Sosies](https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Le Mal Partout](https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D) | 2:06 | 2024-01-26 | 2024-03-15 |
@@ -179,8 +181,10 @@
 | [Stream Roller](https://open.spotify.com/track/6no1ETaFSFnyGHWtki50zI) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Stream Roller](https://open.spotify.com/album/4QBPUw0lhdW6rg7zau4YLy) | 4:32 | 2024-09-12 | 2024-09-18 |
 | [Strike](https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Strike](https://open.spotify.com/album/7j2K75QimzNjpbc316cCxr) | 1:00 | 2023-10-05 | 2024-03-22 |
 | [STUPID CUNT IN THE MALL](https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [STUPID CUNT IN THE MALL](https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg) | 4:04 | 2024-03-21 | 2024-03-29 |
+| [Substance](https://open.spotify.com/track/0ViD4gC65RtONgFoOu24g1) | [WOOD WOUNDS](https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm), [Phil Spectro](https://open.spotify.com/artist/6jryLxQvE2EnUc5MMPxqMR) | [Substance](https://open.spotify.com/album/6oooLK3isJx1l8MXk1Af68) | 2:34 | 2024-10-03 |  |
 | [SUICIDE](https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [SUICIDE](https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve) | 3:24 | 2024-04-11 |  |
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 | 2023-11-03 |
+| [TAKING MY DISTANCE](https://open.spotify.com/track/4OSnWq7hDostU8EhYlkyVL) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [TAKING MY DISTANCE](https://open.spotify.com/album/11o2nfD30PapyYXd00imh8) | 2:54 | 2024-10-03 |  |
 | [tellement que jmen fiche :\)](https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [tellement que jmen fiche :\)](https://open.spotify.com/album/4OSewRcz07w6ToOAT6pXiu) | 2:27 | 2024-09-17 |  |
 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 | 2023-11-02 | 2024-01-12 |

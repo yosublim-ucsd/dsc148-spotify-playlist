@@ -1,12 +1,12 @@
 {
-  "description": "This is Engel Montaz. The essential tracks, all in one playlist.",
-  "num_followers": 3719,
+  "description": "This Is Engel Montaz. Los temas esenciales, todos en una lista.",
+  "num_followers": 3757,
   "original_name": "This Is Engel Montaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAACkVQNPAfXv9T4Hr/3BkT/Y",
+  "snapshot_id": "ZvyNAAAAAAAWLnF6tVsm468fhdi0gPU7",
   "tracks": [
     {
       "added_at": null,
@@ -23,50 +23,6 @@
       "duration_ms": 102592,
       "name": "Party Prendio",
       "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olvidando el pasado",
-        "url": "https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "Olvidando el pasado",
-      "url": "https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamono Lejos",
-        "url": "https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Sacra Mr Melody",
-          "url": "https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y"
-        }
-      ],
-      "duration_ms": 187694,
-      "name": "Vamono Lejos",
-      "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"
     },
     {
       "added_at": null,
@@ -95,24 +51,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Si Estoy Contigo - Bachata",
-      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrando en Calor",
-        "url": "https://open.spotify.com/album/6ZGUlyY426GSGnSl5b2QZn"
+        "name": "Vamono Lejos",
+        "url": "https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg"
       },
       "artists": [
         {
@@ -120,37 +60,13 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Jinzus",
-          "url": "https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg"
+          "name": "Sacra Mr Melody",
+          "url": "https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y"
         }
       ],
-      "duration_ms": 192078,
-      "name": "Entrando en calor",
-      "url": "https://open.spotify.com/track/45WbLW4x0SeyIcwTI658Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "irango",
-        "url": "https://open.spotify.com/album/0jhnxcTyfl83RaAN85lLDE"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Dj Astilo",
-          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
-        },
-        {
-          "name": "El Bloonel",
-          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
-        }
-      ],
-      "duration_ms": 178369,
-      "name": "irango",
-      "url": "https://open.spotify.com/track/0LCPpwbmIC5zrlnAqqEKiS"
+      "duration_ms": 187694,
+      "name": "Vamono Lejos",
+      "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"
     },
     {
       "added_at": null,
@@ -184,15 +100,15 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Vibrador",
-      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
+      "duration_ms": 216827,
+      "name": "Si Estoy Contigo - Bachata",
+      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Una Como Tu",
-        "url": "https://open.spotify.com/album/1GIwm31UNDaeYIIBDeSzvI"
+        "name": "Billetes Verdes (Live)",
+        "url": "https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx"
       },
       "artists": [
         {
@@ -200,9 +116,289 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 200045,
-      "name": "Una como tu",
-      "url": "https://open.spotify.com/track/2tzMh5gYCYKwYiQgHYxbrK"
+      "duration_ms": 119043,
+      "name": "Billetes Verdes - Live",
+      "url": "https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actua",
+        "url": "https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nota de Pasion (feat. Arcangel)",
+        "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "Nota de Pasion (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Puto Amo",
+        "url": "https://open.spotify.com/album/4ngKdCMeTk0YiwvN0AF73F"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "DJ 22",
+          "url": "https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT"
+        }
+      ],
+      "duration_ms": 126205,
+      "name": "El Puto Amo",
+      "url": "https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olvidando el pasado",
+        "url": "https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "Olvidando el pasado",
+      "url": "https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tan Tan Brazil (Remix)",
+        "url": "https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh"
+      },
+      "artists": [
+        {
+          "name": "Breykon",
+          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "MC DG",
+          "url": "https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez"
+        },
+        {
+          "name": "Xoko",
+          "url": "https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81"
+        }
+      ],
+      "duration_ms": 337846,
+      "name": "Tan Tan Brazil - Remix",
+      "url": "https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "El Mangry",
+          "url": "https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ"
+        },
+        {
+          "name": "Dj Astilo",
+          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
+        }
+      ],
+      "duration_ms": 186737,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/0HDlIJj210agV16lELqz63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu No Me Conoces",
+        "url": "https://open.spotify.com/album/2EmPWhcBbQdNowYWHGe1pE"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tu No Me Conoces",
+      "url": "https://open.spotify.com/track/3IzGU1A2PM6F9RBLAQ2sf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "duration_ms": 171860,
+      "name": "Culiacan",
+      "url": "https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrando en Calor",
+        "url": "https://open.spotify.com/album/6ZGUlyY426GSGnSl5b2QZn"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Jinzus",
+          "url": "https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Entrando en calor",
+      "url": "https://open.spotify.com/track/45WbLW4x0SeyIcwTI658Ab"
     },
     {
       "added_at": null,
@@ -252,23 +448,19 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
           "name": "Latinnites Music",
           "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
-      "duration_ms": 171860,
-      "name": "Culiacan",
-      "url": "https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7"
+      "duration_ms": 167659,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Billetes Verdes (Live)",
-        "url": "https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx"
+        "name": "Una Como Tu",
+        "url": "https://open.spotify.com/album/1GIwm31UNDaeYIIBDeSzvI"
       },
       "artists": [
         {
@@ -276,15 +468,15 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 119043,
-      "name": "Billetes Verdes - Live",
-      "url": "https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa"
+      "duration_ms": 200045,
+      "name": "Una como tu",
+      "url": "https://open.spotify.com/track/2tzMh5gYCYKwYiQgHYxbrK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nota de Pasion (feat. Arcangel)",
-        "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
+        "name": "irango",
+        "url": "https://open.spotify.com/album/0jhnxcTyfl83RaAN85lLDE"
       },
       "artists": [
         {
@@ -292,19 +484,23 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Dj Astilo",
+          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
+        },
+        {
+          "name": "El Bloonel",
+          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
         }
       ],
-      "duration_ms": 212064,
-      "name": "Nota de Pasion (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX"
+      "duration_ms": 178369,
+      "name": "irango",
+      "url": "https://open.spotify.com/track/0LCPpwbmIC5zrlnAqqEKiS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Actua",
-        "url": "https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn"
+        "name": "Quedate (feat. King Jeff) [Discoteca]",
+        "url": "https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a"
       },
       "artists": [
         {
@@ -312,71 +508,19 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "King Jeff",
+          "url": "https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Actua",
-      "url": "https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP"
+      "duration_ms": 200306,
+      "name": "Quedate (feat. King Jeff) - Discoteca",
+      "url": "https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Puto Amo",
-        "url": "https://open.spotify.com/album/4ngKdCMeTk0YiwvN0AF73F"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "DJ 22",
-          "url": "https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT"
-        }
-      ],
-      "duration_ms": 126205,
-      "name": "El Puto Amo",
-      "url": "https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruta",
-        "url": "https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw"
+        "name": "A 120 (discoteca)",
+        "url": "https://open.spotify.com/album/15ewhwJhFea1l3tqzUx6lx"
       },
       "artists": [
         {
@@ -384,9 +528,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 150508,
-      "name": "Ruta",
-      "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"
+      "duration_ms": 144640,
+      "name": "A 120 - Discoteca",
+      "url": "https://open.spotify.com/track/1dfTVY4CU5yCDxdpQlpTNY"
     },
     {
       "added_at": null,
@@ -411,150 +555,6 @@
       "duration_ms": 195056,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0jzKk6dyyPXCddoXEuKVYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        }
-      ],
-      "duration_ms": 167659,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu No Me Conoces",
-        "url": "https://open.spotify.com/album/2EmPWhcBbQdNowYWHGe1pE"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tu No Me Conoces",
-      "url": "https://open.spotify.com/track/3IzGU1A2PM6F9RBLAQ2sf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tan Tan Brazil (Remix)",
-        "url": "https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh"
-      },
-      "artists": [
-        {
-          "name": "Breykon",
-          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Badguychapo",
-          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "MC DG",
-          "url": "https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez"
-        },
-        {
-          "name": "Xoko",
-          "url": "https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81"
-        }
-      ],
-      "duration_ms": 337846,
-      "name": "Tan Tan Brazil - Remix",
-      "url": "https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "El Mangry",
-          "url": "https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ"
-        },
-        {
-          "name": "Dj Astilo",
-          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
-        }
-      ],
-      "duration_ms": 186737,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/0HDlIJj210agV16lELqz63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Diablo Soy Yo",
-        "url": "https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR"
-      },
-      "artists": [
-        {
-          "name": "Breykon",
-          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Mas Diablo Soy Yo",
-      "url": "https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A 120 (discoteca)",
-        "url": "https://open.spotify.com/album/15ewhwJhFea1l3tqzUx6lx"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 144640,
-      "name": "A 120 - Discoteca",
-      "url": "https://open.spotify.com/track/1dfTVY4CU5yCDxdpQlpTNY"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quedate (feat. King Jeff) [Discoteca]",
-        "url": "https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a"
+        "name": "Mas Diablo Soy Yo",
+        "url": "https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR"
       },
       "artists": [
         {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+          "name": "Breykon",
+          "url": "https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk"
         },
         {
-          "name": "King Jeff",
-          "url": "https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d"
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Quedate (feat. King Jeff) - Discoteca",
-      "url": "https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0"
+      "duration_ms": 220734,
+      "name": "Mas Diablo Soy Yo",
+      "url": "https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk"
     },
     {
       "added_at": null,

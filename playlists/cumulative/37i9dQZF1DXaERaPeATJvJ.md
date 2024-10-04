@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Zeke and the Popo
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Tigapagi
 
-173 songs - 12 hr 4 min
+175 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dis\-Allowed](https://open.spotify.com/track/2uPLiOmSs4YDJdxFskuQ1Z) | [Drs\. F\. Achmar](https://open.spotify.com/artist/58bjKFsimBsOP8JxPLI0JP) | [Dis\-Allowed](https://open.spotify.com/album/4mEmDc4S00ih3CRYHChXkB) | 4:00 | 2024-03-22 | 2024-04-05 |
 | [Elora](https://open.spotify.com/track/6ds0LKhAFoylsVqTCFRIFD) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Elora](https://open.spotify.com/album/2lkjT831tn2hgtZKqXkUZM) | 5:01 | 2024-04-04 |  |
 | [Elusif](https://open.spotify.com/track/3c17kkq4HSyJheHur70gnU) | [Shadowplay](https://open.spotify.com/artist/2kvN7s4MbzDIYY0aqqHEwB), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Hyaline](https://open.spotify.com/album/34Hnw3Er0BPxiUtTxIOjBy) | 4:17 | 2024-03-22 | 2024-04-05 |
+| [Erika](https://open.spotify.com/track/3iLdld7OiCgNcBf7jSC2HH) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp), [Ida Ayu Made Paramita Saraswati](https://open.spotify.com/artist/5wVXlPJ9zRthPcy1TSgUVo) | [Roekmana's Repertoire \(Remastered\)](https://open.spotify.com/album/115rswXhVTkKcQ9DFFfgii) | 4:56 | 2024-10-03 |  |
 | [Ernestito](https://open.spotify.com/track/6KJMo4cHIDuuzw3cgfaDYM) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Ports Of Lima](https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE) | 4:53 | 2024-03-24 | 2024-04-05 |
 | [Essensimo](https://open.spotify.com/track/5bnaKO2Z9mDRLGjqK7RXDl) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Ports Of Lima](https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE) | 4:12 | 2024-03-24 | 2024-04-05 |
 | [Etalase](https://open.spotify.com/track/5TmBVcWadjsHGgAqxYZDwn) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 6:55 | 2024-03-22 | 2024-04-05 |
@@ -98,6 +99,7 @@
 | [Matahari](https://open.spotify.com/track/3gdqotXTAfRcBgCMP9fQ0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Album Vakansi](https://open.spotify.com/album/6pwO0FlmvK6Ny1zXJpYv6P) | 4:11 | 2023-08-30 |  |
 | [Matraman](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY) | [The Upstairs](https://open.spotify.com/artist/0EyRRRjkb75NnZx3G0JXul) | [Matraman](https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p) | 5:25 | 2021-11-25 |  |
 | [Memento Mori](https://open.spotify.com/track/4h1V3EVBYFin06loiFlWfK) | [Everybody Loves Irene](https://open.spotify.com/artist/2P7CyetvRetf7Lp4unDRoY) | [The Very First Thing You Must Learn About Flying Is Gravity](https://open.spotify.com/album/3AlH5nivhVfwEQxrZeAmS7) | 3:10 | 2021-11-25 |  |
+| [Menangisi Akhir Pekan](https://open.spotify.com/track/5IqEcSpcNQ8Mb3XEe1s2iw) | [Jenny](https://open.spotify.com/artist/0iUrBcDmfc4PL0bsbLDqcq) | [Manifesto](https://open.spotify.com/album/1i6B1vIx6lgv9R7xQhs6l0) | 4:30 | 2024-10-03 |  |
 | [Menjadi Dewasa](https://open.spotify.com/track/0GesyQ4yRafkQoXuA1VMcT) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 4:22 | 2021-11-25 |  |
 | [Merah](https://open.spotify.com/track/3lJJDeALwWMVn5KzOBuFue) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 3:52 | 2022-05-12 |  |
 | [Mesin Penenun Hujan](https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 3:26 | 2021-11-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 204754,
+  "num_followers": 204767,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 251640,
       "name": "Don't Deserve You",
       "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Songs from the Cloud",
-        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Route 777",
-      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Heartland",
         "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 223445,
       "name": "Midwest Magic",
       "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Songs from the Cloud",
+        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Route 777",
+      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1333,28 +1333,12 @@
       "artists": [
         {
           "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/4RnE8XArc3eoGoBM1vRUE5"
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
         }
       ],
       "duration_ms": 190000,
       "name": "I do",
       "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Me + You = Pi",
-        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Me + You = Pi",
-      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1371,6 +1355,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Me + You = Pi",
+        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Me + You = Pi",
+      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
     },
     {
       "added_at": "2024-07-17 04:46:48",

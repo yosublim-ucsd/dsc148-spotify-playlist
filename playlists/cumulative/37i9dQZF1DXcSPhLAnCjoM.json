@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Si seulement...\" de Kendji Girac est le Grand Hit de la semaine.",
+  "description": "\"Je pense \u00e0 vous\" de Linh est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177870,
       "name": "Ce soir (feat. Gazo)",
       "url": "https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09"
@@ -560,6 +560,24 @@
       "duration_ms": 180213,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj"
+    },
+    {
+      "album": {
+        "name": "SOR4",
+        "url": "https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us"
+      },
+      "artists": [
+        {
+          "name": "SOR4",
+          "url": "https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167273,
+      "name": "Comment on s'aime",
+      "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
     },
     {
       "album": {
@@ -958,7 +976,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177440,
       "name": "Eau de javel",
       "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
@@ -1386,6 +1404,24 @@
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "album": {
+        "name": "Moi c'est Jeck",
+        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Immortel",
+      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
     },
     {
       "album": {
@@ -2114,7 +2150,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 171960,
       "name": "Les bonbons",
       "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
@@ -3318,6 +3354,24 @@
       "duration_ms": 214400,
       "name": "Tout pour moi",
       "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
+    },
+    {
+      "album": {
+        "name": "Toutes les femmes de ta vie",
+        "url": "https://open.spotify.com/album/6ssnzGVbWrn8zssfMS3Aol"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "Toutes les femmes de ta vie",
+      "url": "https://open.spotify.com/track/4FCPmgBL7GBcSmhC2cxKEb"
     },
     {
       "album": {

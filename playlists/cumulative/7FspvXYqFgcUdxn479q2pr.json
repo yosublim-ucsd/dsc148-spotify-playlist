@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Ian Asher ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Mollie Collins",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -628,6 +628,32 @@
       "duration_ms": 181787,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
+    },
+    {
+      "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
     },
     {
       "album": {
@@ -1601,6 +1627,32 @@
     },
     {
       "album": {
+        "name": "Dudada",
+        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Dudada",
+      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
+    },
+    {
+      "album": {
         "name": "D\u00e9senchant\u00e9e",
         "url": "https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL"
       },
@@ -2022,6 +2074,32 @@
       "duration_ms": 214884,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi"
+    },
+    {
+      "album": {
+        "name": "FOREIGN",
+        "url": "https://open.spotify.com/album/5jrKedsVRq5yQFIRq7m6Jc"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191739,
+      "name": "FOREIGN",
+      "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
     },
     {
       "album": {
@@ -3364,7 +3442,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172867,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
@@ -3412,6 +3490,28 @@
       "duration_ms": 240774,
       "name": "Let's Get Raving",
       "url": "https://open.spotify.com/track/0P3OfKdNWsQqID2LgDJmDU"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159577,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
     },
     {
       "album": {
@@ -3618,6 +3718,24 @@
       "duration_ms": 157927,
       "name": "Love",
       "url": "https://open.spotify.com/track/04aCkDB3YtAdqA45rLXkUT"
+    },
+    {
+      "album": {
+        "name": "Love You Inside Out",
+        "url": "https://open.spotify.com/album/0TyE77s9mLdwGuhuRxxIqv"
+      },
+      "artists": [
+        {
+          "name": "MainCourse",
+          "url": "https://open.spotify.com/artist/6Hu3UsndIq1qxAF8KhSFL2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Love You Inside Out",
+      "url": "https://open.spotify.com/track/5Jdhi3inKqfpBuo7Im293T"
     },
     {
       "album": {
@@ -3970,7 +4088,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189750,
       "name": "Monaco (Live Acoustic)",
       "url": "https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd"
@@ -4124,6 +4242,24 @@
       "duration_ms": 149047,
       "name": "Move On Up (Mark Knight Remix)",
       "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+    },
+    {
+      "album": {
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/1h3Yj4y5ImmCOpDagP7JYe"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe"
     },
     {
       "album": {
@@ -4892,6 +5028,28 @@
       "duration_ms": 125729,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/4tFPsq6ZxrCH1pgz2XIYP2"
+    },
+    {
+      "album": {
+        "name": "Quit That Love (feat. Glacier Baby)",
+        "url": "https://open.spotify.com/album/3N3T4X1IZ4625VZ6GgAH76"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Glacier Baby",
+          "url": "https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124900,
+      "name": "Quit That Love (feat. Glacier Baby)",
+      "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
     },
     {
       "album": {
@@ -6014,6 +6172,24 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "album": {
+        "name": "Toccata",
+        "url": "https://open.spotify.com/album/3H53Y8XFX5XdomiCJ31Wzu"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179777,
+      "name": "Toccata",
+      "url": "https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL"
     },
     {
       "album": {

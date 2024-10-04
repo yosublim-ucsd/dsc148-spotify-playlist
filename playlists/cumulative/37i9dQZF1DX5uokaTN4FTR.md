@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Obskür & Tomike
+> The UK's biggest dance playlist! Cover: Lost Frequencies, Tom Odell
 
 619 songs - 1 day 8 hr 26 min
 

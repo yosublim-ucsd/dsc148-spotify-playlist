@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:4gepV1NXit1T15YxX0Bv27\">Bette</a>",
+  "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:0Qb0B1f0uVNSiNbT4SAwGi\">Julie Ellinor</a>",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 128616,
       "name": "Coast II Coast (feat. USSEL)",
       "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
+    },
+    {
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314708,
+      "name": "Cursing and Lying!",
+      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
     },
     {
       "album": {
@@ -794,7 +812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151062,
       "name": "Kender Du F\u00f8lelsen",
       "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
@@ -1328,6 +1346,24 @@
       "duration_ms": 159539,
       "name": "Mig Og Min Mund",
       "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "album": {
+        "name": "Neon Glow",
+        "url": "https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4"
+      },
+      "artists": [
+        {
+          "name": "Julie Ellinor",
+          "url": "https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180545,
+      "name": "Neon Glow",
+      "url": "https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9"
     },
     {
       "album": {

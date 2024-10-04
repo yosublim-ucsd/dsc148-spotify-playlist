@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Indigenous Australian Storytellers. Curator: Rhianna Patrick. \nAboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away. Cover: MONGEEYA",
+  "description": "Indigenous Australian Storytellers. Curator: Rhianna Patrick. \nAboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away. Cover: Jada Weazel",
   "name": "Original Storytellers",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 212062,
       "name": "Acolytes",
       "url": "https://open.spotify.com/track/2ZP6A9so1fvd7BGn8NTJAL"
@@ -125,6 +125,42 @@
     },
     {
       "album": {
+        "name": "All Life Connected",
+        "url": "https://open.spotify.com/album/1d4L7wsXPCCB5ZPeaffBHp"
+      },
+      "artists": [
+        {
+          "name": "Boorook",
+          "url": "https://open.spotify.com/artist/5EUMJiwAoKYtXZRHVfgdUA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228344,
+      "name": "All Life Connected",
+      "url": "https://open.spotify.com/track/3qjOG3w4tkaoszfA1OslOj"
+    },
+    {
+      "album": {
+        "name": "All On My Own",
+        "url": "https://open.spotify.com/album/01pxZDw8t5XCQxbNQU0Hdj"
+      },
+      "artists": [
+        {
+          "name": "Billy Woodley",
+          "url": "https://open.spotify.com/artist/0OunGjtgTVTYfGYCeHg9WG"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244332,
+      "name": "All On My Own",
+      "url": "https://open.spotify.com/track/3tyCNG9tNfbyrw6oBwoPjh"
+    },
+    {
+      "album": {
         "name": "Ancestor",
         "url": "https://open.spotify.com/album/5Mw7WIukuA4EI99clsT2qo"
       },
@@ -143,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Animal Instinct",
+        "url": "https://open.spotify.com/album/4NLsFerBeoD9mongR2jhMi"
+      },
+      "artists": [
+        {
+          "name": "Sunny Luwe",
+          "url": "https://open.spotify.com/artist/5T4AYvkpJMRXzixDfcaQJL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157788,
+      "name": "Animal Instinct",
+      "url": "https://open.spotify.com/track/54pcJ6D3H6mRVZ2ZcUvGHk"
+    },
+    {
+      "album": {
         "name": "Live Acoustic",
         "url": "https://open.spotify.com/album/0tQDWpkSw5Tv9S9LN3M0fG"
       },
@@ -154,10 +208,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 209066,
       "name": "Art",
       "url": "https://open.spotify.com/track/4bWdmlMCEbxIwUorCjAzbH"
+    },
+    {
+      "album": {
+        "name": "Banbirrngu (Orchestral Version)",
+        "url": "https://open.spotify.com/album/4c4lvwAjXlhV5677rMTTNi"
+      },
+      "artists": [
+        {
+          "name": "Gurrumul",
+          "url": "https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321551,
+      "name": "Banbirrngu - Orchestral Version",
+      "url": "https://open.spotify.com/track/2hAIgoi1ajbyAZbwISAqEy"
     },
     {
       "album": {
@@ -172,7 +244,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 243607,
       "name": "Best Bits",
       "url": "https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah"
@@ -190,10 +262,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 295226,
       "name": "Between the Fires",
       "url": "https://open.spotify.com/track/2enb0yKz8gR3Rg0tdmd3Ed"
+    },
+    {
+      "album": {
+        "name": "Big Container",
+        "url": "https://open.spotify.com/album/6n9PKuzQoj7nm06ufvlL3u"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Big Container",
+      "url": "https://open.spotify.com/track/503ywcs9xScpjglf40YNPZ"
     },
     {
       "album": {
@@ -266,7 +356,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211786,
       "name": "Blood Red Moon",
       "url": "https://open.spotify.com/track/5op3paUNNkGnG3GKXac6dM"
@@ -338,7 +428,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 204961,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1qGjYk4znma2luFo9r5gtk"
@@ -374,10 +464,46 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 284002,
       "name": "Butcher Paper Texta Blackboard and Chalk",
       "url": "https://open.spotify.com/track/4uwJsUBhuXiOTbCKYZwJC4"
+    },
+    {
+      "album": {
+        "name": "Cat 5 (Cyclone)",
+        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222154,
+      "name": "Cat 5 (Cyclone)",
+      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
+    },
+    {
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3DRRcEVEeBx1LwVjVQzD2j"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175494,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/5ue8Hl1P3vfAq3aZR396PN"
     },
     {
       "album": {
@@ -500,7 +626,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 232875,
       "name": "Crash - Acoustic",
       "url": "https://open.spotify.com/track/6RhpzF4IyAlzp0eZmeBDNr"
@@ -543,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6P64JYkQ7m1Xfsx1mj4UQL"
+      },
+      "artists": [
+        {
+          "name": "Carissa Nyalu",
+          "url": "https://open.spotify.com/artist/6uuCRMcD78fo9d17zqrPfA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0577Zog6t4WyfQJwcDlYRn"
+    },
+    {
+      "album": {
         "name": "DARKEST DAYS",
         "url": "https://open.spotify.com/album/2N3efj7sqDIjqrGcSI38vQ"
       },
@@ -576,7 +720,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 263945,
       "name": "Decolonise",
       "url": "https://open.spotify.com/track/47Ji5lDHUAd06jdKvoX3bW"
@@ -594,7 +738,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 218000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/3SU0GdbgnulJy7XVWICn45"
@@ -612,7 +756,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 224634,
       "name": "Don't Run Away From Hurt",
       "url": "https://open.spotify.com/track/4a2lOWOBuXHGsCk34fmZnO"
@@ -637,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Dyarrubin",
+        "url": "https://open.spotify.com/album/4CzgYKHT1wzMip5sLmayHl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Needs Braces",
+          "url": "https://open.spotify.com/artist/0fZXikVT0SFLWxfLBNQ9Tb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Dyarrubin",
+      "url": "https://open.spotify.com/track/4nySBjMYubUvX4JgkTRtnT"
+    },
+    {
+      "album": {
         "name": "Fair Warning",
         "url": "https://open.spotify.com/album/4TuXfXDMI8QmjDMXi1L8qa"
       },
@@ -648,10 +810,32 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210996,
       "name": "Fair Warning",
       "url": "https://open.spotify.com/track/0TOejVUFAMEmjdGrg7yi5x"
+    },
+    {
+      "album": {
+        "name": "Find My Way Back",
+        "url": "https://open.spotify.com/album/5oQpe6F4CgkrDzn8gS5yZT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Gaskin",
+          "url": "https://open.spotify.com/artist/62jOrXKkMYfGAhXajZ20Cm"
+        },
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238993,
+      "name": "Find My Way Back",
+      "url": "https://open.spotify.com/track/5QCtreSpE9qvYy8Ioo1qzh"
     },
     {
       "album": {
@@ -684,10 +868,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 201991,
       "name": "Flaming Star",
       "url": "https://open.spotify.com/track/2lRG1jYFyZ1v9SbaNYB5hP"
+    },
+    {
+      "album": {
+        "name": "Freckles",
+        "url": "https://open.spotify.com/album/3qBdcWx8e9slG982z16f47"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179741,
+      "name": "Freckles",
+      "url": "https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV"
     },
     {
       "album": {
@@ -709,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Gabalandhurra - Catalunya Version",
+        "url": "https://open.spotify.com/album/4EuFVdzmL0MqRqsj4Tuyxw"
+      },
+      "artists": [
+        {
+          "name": "Ngulmiya",
+          "url": "https://open.spotify.com/artist/33RGbkZKz62Yb6Rv1wGvQT"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247896,
+      "name": "Gabalandhurra - Catalunya Version",
+      "url": "https://open.spotify.com/track/5EFcnh0kyGHZCKCZLLSc3f"
+    },
+    {
+      "album": {
         "name": "Yirinda",
         "url": "https://open.spotify.com/album/7EG4UMHloO3c61O349zJyN"
       },
@@ -727,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Garra",
+        "url": "https://open.spotify.com/album/1aATsSxZzBiDX0GXGVjp80"
+      },
+      "artists": [
+        {
+          "name": "Drmngnow",
+          "url": "https://open.spotify.com/artist/18IB1ryPcOlseJCtYmthDg"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193632,
+      "name": "Garra",
+      "url": "https://open.spotify.com/track/5MXN5HjcH3KuHBPiadR7cy"
+    },
+    {
+      "album": {
         "name": "Sing Your Own Song",
         "url": "https://open.spotify.com/album/5vLZGmCcZaSgeyX2Z52g9M"
       },
@@ -738,7 +980,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 237858,
       "name": "Gatjumak (Dance Battlefield)",
       "url": "https://open.spotify.com/track/7M3ldwcEZ97KD8kqbmJepA"
@@ -774,7 +1016,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 219500,
       "name": "Givin' It Up - Live & Acoustic From Gage Roads",
       "url": "https://open.spotify.com/track/1Q43dl2iyuMNSforAC7K1X"
@@ -799,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/6ll8Q68LyiKO7NIZk5zzqe"
+      },
+      "artists": [
+        {
+          "name": "Jalgany",
+          "url": "https://open.spotify.com/artist/1u3gPO9IkWgcqyGmZGgGhe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Grandmother",
+      "url": "https://open.spotify.com/track/0MCr1m9IZlU53kCIG4OwBi"
+    },
+    {
+      "album": {
         "name": "Gummy Bamarra",
         "url": "https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B"
       },
@@ -810,7 +1070,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 283464,
       "name": "Gummy Bamarra",
       "url": "https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow"
@@ -850,7 +1110,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 226254,
       "name": "Guwaag (Rainbird)",
       "url": "https://open.spotify.com/track/4RgBR4No4i6MiE2Clmf3M6"
@@ -886,7 +1146,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 211503,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1G58lkMBgojetG4OdmfUkD"
@@ -922,10 +1182,36 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190081,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn"
+    },
+    {
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/2y9o2i5sief448om0bi0uI"
+      },
+      "artists": [
+        {
+          "name": "Mr Alford",
+          "url": "https://open.spotify.com/artist/6Jy1XvHOWnSw8Jn3QdiLLJ"
+        },
+        {
+          "name": "Woodie McClean",
+          "url": "https://open.spotify.com/artist/4fAMTHGWjfSyHaPIdl5e2N"
+        },
+        {
+          "name": "Sue Ray",
+          "url": "https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Hold Your Hand - Radio Edit",
+      "url": "https://open.spotify.com/track/6QpO7Dli8ACiExeBoP9fg9"
     },
     {
       "album": {
@@ -998,7 +1284,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 246319,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/0at5hkjMAFk4sfZHsnoXW6"
@@ -1041,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "I Don't Live Here Anymore",
+        "url": "https://open.spotify.com/album/0uoBiGvOAM2DwGfr1cbQbG"
+      },
+      "artists": [
+        {
+          "name": "Alter Boy",
+          "url": "https://open.spotify.com/artist/3HGs3Tg2kXax8Q4tBPzybY"
+        },
+        {
+          "name": "Boox Kid",
+          "url": "https://open.spotify.com/artist/5XJ5KmNIiZk1osArMaqY11"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "If I Don't See You",
+      "url": "https://open.spotify.com/track/5dp3yN5cm2V5OYgltl5SWb"
+    },
+    {
+      "album": {
         "name": "Inlove Again",
         "url": "https://open.spotify.com/album/6hyROhcr2ZYvth61xoMY7R"
       },
@@ -1052,7 +1360,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 175072,
       "name": "Inlove Again",
       "url": "https://open.spotify.com/track/0zgj4xyhs6zi6MJ0lflzjW"
@@ -1077,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "It's Been So Long",
+        "url": "https://open.spotify.com/album/6T0e1znrcPogHNvDYNPpVQ"
+      },
+      "artists": [
+        {
+          "name": "Pirra",
+          "url": "https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "It's Been So Long",
+      "url": "https://open.spotify.com/track/0SfIrw2lkOUpWqvE5kzzXV"
+    },
+    {
+      "album": {
         "name": "Just Friends (Acoustic)",
         "url": "https://open.spotify.com/album/5gi4iK8hdjGPEfwzzxqVFY"
       },
@@ -1088,10 +1414,82 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 184624,
       "name": "Just Friends - Acoustic",
       "url": "https://open.spotify.com/track/4v78hkPGHrH0LJJCFNBEt9"
+    },
+    {
+      "album": {
+        "name": "Kid Buu",
+        "url": "https://open.spotify.com/album/1KeJj8fkQO1IAKrh5BCD1k"
+      },
+      "artists": [
+        {
+          "name": "Selve",
+          "url": "https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223696,
+      "name": "Kid Buu",
+      "url": "https://open.spotify.com/track/6wjDEKBhkxi4iyT9Cybxpj"
+    },
+    {
+      "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/5w5i4W7IDdDA4fvPTDjEyV"
+      },
+      "artists": [
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "KING",
+      "url": "https://open.spotify.com/track/1EJZHdYWwlZvbe3CwScZIQ"
+    },
+    {
+      "album": {
+        "name": "Waku - Minaral A Minalay",
+        "url": "https://open.spotify.com/album/1gs1fnpSuzms1SBc4FWWp3"
+      },
+      "artists": [
+        {
+          "name": "Christine Anu",
+          "url": "https://open.spotify.com/artist/0VyhYyWWF5yYomHQR4hCMl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134694,
+      "name": "Koey Dhoerim",
+      "url": "https://open.spotify.com/track/1ScNqh5EMVZw9c8bHrdRIP"
+    },
+    {
+      "album": {
+        "name": "Meet Your Maker - The Era's Soundtrack",
+        "url": "https://open.spotify.com/album/4COEsyDYzZ424xGETOS8lv"
+      },
+      "artists": [
+        {
+          "name": "ALETHEA",
+          "url": "https://open.spotify.com/artist/51wPGOkikIJ7WY1U2DTbIp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Land Back Era",
+      "url": "https://open.spotify.com/track/7EdGwVcsgAijq5wcqZcU5e"
     },
     {
       "album": {
@@ -1106,7 +1504,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 308202,
       "name": "Language Is In The Land",
       "url": "https://open.spotify.com/track/2nKmxIpFM0iNTZahmQPOdz"
@@ -1140,7 +1538,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 327600,
       "name": "LIVE LAUGH DECOLONISE",
       "url": "https://open.spotify.com/track/4TQwyQ12ojSbs8tdLyLYRJ"
@@ -1198,6 +1596,24 @@
       "duration_ms": 214258,
       "name": "Mayangan",
       "url": "https://open.spotify.com/track/29ftJmVOnA3BKoC2NLAUQE"
+    },
+    {
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
     },
     {
       "album": {
@@ -1382,10 +1798,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 155322,
       "name": "Nobody's Baby",
       "url": "https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/0Rer5ZMslozTUK2Xs1RTkZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gurruwiwi Band",
+          "url": "https://open.spotify.com/artist/3x9e5OEp2LsRu59lWPHYhS"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217851,
+      "name": "Once Upon A Time",
+      "url": "https://open.spotify.com/track/0hQgxXEPTN21xbzC43njw4"
     },
     {
       "album": {
@@ -1404,6 +1838,42 @@
       "duration_ms": 146181,
       "name": "One More Dance",
       "url": "https://open.spotify.com/track/0lP4f9WrvKXjaYJyS46nwn"
+    },
+    {
+      "album": {
+        "name": "MAYDAY (Acoustics)",
+        "url": "https://open.spotify.com/album/1c2Ru5ffhKgP3npfCddFyd"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "One of One - Acoustic",
+      "url": "https://open.spotify.com/track/4IBIfKlnw1lC6pJ7P2waSf"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/1RcEocGrM4T9RzfVWa7q1Y"
+      },
+      "artists": [
+        {
+          "name": "Jada Weazel",
+          "url": "https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176719,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5MUsw3Syj0fs7dyn9cZYXp"
     },
     {
       "album": {
@@ -1436,7 +1906,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181305,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/08zvZ2g06u9uIgW8PpPKYi"
@@ -1483,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/5h0Z3beOX87oTkaAYRcEFh"
+      },
+      "artists": [
+        {
+          "name": "Jay Gonsalves",
+          "url": "https://open.spotify.com/artist/5FMfQ8DlFYmKzAoGrgIo3F"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/1cYQ33MIY93ygOwbqQFY2m"
+    },
+    {
+      "album": {
         "name": "SACRED WAY (Rawcreye Bonus Track)",
         "url": "https://open.spotify.com/album/6LjGpBeLWUIdQ55SKkU4FQ"
       },
@@ -1494,10 +1982,28 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 363861,
       "name": "SACRED WAY - Rawcreye Bonus Track",
       "url": "https://open.spotify.com/track/6fSSr9zZegK5pZXVtPsHKh"
+    },
+    {
+      "album": {
+        "name": "Say It Loud",
+        "url": "https://open.spotify.com/album/721bCwCtkwVeSwtWQO6qJJ"
+      },
+      "artists": [
+        {
+          "name": "Royston Noell",
+          "url": "https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213465,
+      "name": "Say It Loud",
+      "url": "https://open.spotify.com/track/2lTtBmOvcltVtyzVgnrC6B"
     },
     {
       "album": {
@@ -1530,7 +2036,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 243940,
       "name": "Shame",
       "url": "https://open.spotify.com/track/72RO963zwrxsxH6i6ISsoI"
@@ -1570,6 +2076,24 @@
       "duration_ms": 232292,
       "name": "Sing Me Back Home",
       "url": "https://open.spotify.com/track/4mZYZzR5EVRYxaWepdEBQ8"
+    },
+    {
+      "album": {
+        "name": "Some Days",
+        "url": "https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Some Days",
+      "url": "https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9"
     },
     {
       "album": {
@@ -1620,7 +2144,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 180157,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/1yZmHipKOL0zDpkxzt8QHr"
@@ -1645,6 +2169,28 @@
     },
     {
       "album": {
+        "name": "NARA",
+        "url": "https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        },
+        {
+          "name": "Arringarri",
+          "url": "https://open.spotify.com/artist/1hhytzEX1fvHBNqB1JKfu1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241917,
+      "name": "STFAFM",
+      "url": "https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd"
+    },
+    {
+      "album": {
         "name": "Still Yours (From The Doc)",
         "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
@@ -1656,7 +2202,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 158008,
       "name": "Still Yours (From The Doc)",
       "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
@@ -1753,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Sweet Sugar",
+        "url": "https://open.spotify.com/album/3CqQ2EYaeRAW1ocoY9oj3v"
+      },
+      "artists": [
+        {
+          "name": "Joey Leigh Wagtail",
+          "url": "https://open.spotify.com/artist/03j44LiVdyeW7iEgW4WWGg"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228959,
+      "name": "Sweet Sugar",
+      "url": "https://open.spotify.com/track/4UJBWQkhmwaOr1onYEHi6K"
+    },
+    {
+      "album": {
         "name": "Sweet Yarrie Bay",
         "url": "https://open.spotify.com/album/4nXiS7JUigHzT67LVZHfaM"
       },
@@ -1789,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Ten Feet Tall",
+        "url": "https://open.spotify.com/album/1yNigjrK2up1FDIR0zrENe"
+      },
+      "artists": [
+        {
+          "name": "Chasing Ghosts",
+          "url": "https://open.spotify.com/artist/5MoQy2vfGU7mfbrwLeE7FZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173394,
+      "name": "Ten Feet Tall",
+      "url": "https://open.spotify.com/track/6D0o7Xxgry0inlMcFii7CP"
+    },
+    {
+      "album": {
         "name": "Texas Ain't That Far, Is It Dear?",
         "url": "https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII"
       },
@@ -1818,7 +2400,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 196397,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/6ArOjbK7U3J8WG9gVyRp8H"
@@ -1836,10 +2418,46 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 229007,
       "name": "The Coming Monsoon",
       "url": "https://open.spotify.com/track/0q3xS3nEFPi6xVsX6kwa4G"
+    },
+    {
+      "album": {
+        "name": "Yours Forever Tour Live",
+        "url": "https://open.spotify.com/album/5evmMtUu72ToGPgumSUnIq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182831,
+      "name": "The Loneliest I Ever Was (Live)",
+      "url": "https://open.spotify.com/track/2RfcTotwhh0NstJbdPHexi"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/62h5DsLG4DaQ88C2oPg1zC"
+      },
+      "artists": [
+        {
+          "name": "Kiwat Kennell",
+          "url": "https://open.spotify.com/artist/2UrO4tzaH1QWzYSNzvzRdX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/6sFQ5UaOQJhbhQ8L8GZRwB"
     },
     {
       "album": {
@@ -1872,10 +2490,32 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 306498,
       "name": "Together Afar",
       "url": "https://open.spotify.com/track/7bC6HIMzTQ0DQvUhRHUBkW"
+    },
+    {
+      "album": {
+        "name": "Hurting With You",
+        "url": "https://open.spotify.com/album/4GGe2QLTPT4zNXLfhgonCn"
+      },
+      "artists": [
+        {
+          "name": "precISe",
+          "url": "https://open.spotify.com/artist/0tqBWimh75ZR9i2OVDHDBI"
+        },
+        {
+          "name": "HARTCOLE",
+          "url": "https://open.spotify.com/artist/7027zGFvr9ilbcL48I6rJ8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136578,
+      "name": "too good to deserve this...",
+      "url": "https://open.spotify.com/track/7940vN5g7jrKf0EHPSF838"
     },
     {
       "album": {
@@ -1890,7 +2530,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 296575,
       "name": "Too Sweet - triple j Like A Version",
       "url": "https://open.spotify.com/track/6UifNaJefoVcIelEjuoNM3"
@@ -1908,7 +2548,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 196808,
       "name": "Touching and Talking",
       "url": "https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk"
@@ -1995,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Wasting Days",
+        "url": "https://open.spotify.com/album/2J38i8Kyx9QMIFMI24fyv7"
+      },
+      "artists": [
+        {
+          "name": "Tia Gostelow",
+          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223976,
+      "name": "Wasting Days",
+      "url": "https://open.spotify.com/track/1GTxUZBOsesRhlYRmujQH2"
+    },
+    {
+      "album": {
         "name": "We've Got The Power",
         "url": "https://open.spotify.com/album/0DiDTq3RUGpibJpsPlxL1t"
       },
@@ -2006,10 +2664,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150530,
       "name": "We've Got The Power",
       "url": "https://open.spotify.com/track/6NiDEIZ9iAnksVxilTlZQM"
+    },
+    {
+      "album": {
+        "name": "WILT",
+        "url": "https://open.spotify.com/album/1p30M2VvgcNR3wsWFLT9mM"
+      },
+      "artists": [
+        {
+          "name": "WAARI",
+          "url": "https://open.spotify.com/artist/5YC51L8fENs1lGjuDKW8bX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271774,
+      "name": "WILT",
+      "url": "https://open.spotify.com/track/07RqQPcWDup4TKocMeu3kI"
     },
     {
       "album": {
@@ -2049,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Yagarri",
+        "url": "https://open.spotify.com/album/73Gw5t3RfZoRB1LD7VmbET"
+      },
+      "artists": [
+        {
+          "name": "Maanyung",
+          "url": "https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Yagarri",
+      "url": "https://open.spotify.com/track/1WlVoXe5Lnv7i9zJ8vd7Hi"
+    },
+    {
+      "album": {
         "name": "Til My Song Is Done",
         "url": "https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc"
       },
@@ -2082,7 +2776,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 261802,
       "name": "Yolngu",
       "url": "https://open.spotify.com/track/0ZB18m7ocTgoBraQpE6Cpy"

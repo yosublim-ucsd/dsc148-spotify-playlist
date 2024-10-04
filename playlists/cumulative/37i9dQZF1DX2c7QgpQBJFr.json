@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "La ricompensa della mangusta",
+        "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
+      },
+      "artists": [
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La ricompensa",
+      "url": "https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe"
+    },
+    {
+      "album": {
         "name": "Alter Echo",
         "url": "https://open.spotify.com/album/1Fi6Swlb8LCsTk7E5szO1Z"
       },
@@ -2241,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "mandarino",
+        "url": "https://open.spotify.com/album/6y45yPRr7jY6cvvKZSRVhg"
+      },
+      "artists": [
+        {
+          "name": "paolo.alneon",
+          "url": "https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207407,
+      "name": "mandarino",
+      "url": "https://open.spotify.com/track/6Aur1GBVsuyfh7wM1YHttM"
+    },
+    {
+      "album": {
         "name": "Maracaibo",
         "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
       },
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 174720,
       "name": "Mi piace",
       "url": "https://open.spotify.com/track/6L1Vn4Sylnvm1aWDVyM5HA"
@@ -2781,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Ondeggiando",
+        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154046,
+      "name": "Ondeggiando",
+      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
+    },
+    {
+      "album": {
         "name": "Ottovolanti",
         "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
       },
@@ -2836,6 +2890,24 @@
       "duration_ms": 166899,
       "name": "PAGINE BIANCHE (feat. EDONiCO)",
       "url": "https://open.spotify.com/track/0nNplNrSFfg3aHBpKxTtnb"
+    },
+    {
+      "album": {
+        "name": "Passi da me",
+        "url": "https://open.spotify.com/album/3qjZidZDnFMargdwXPeNkc"
+      },
+      "artists": [
+        {
+          "name": "Claire",
+          "url": "https://open.spotify.com/artist/0OsJZC3xowxZQkqTLEQknf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209941,
+      "name": "Passi da me",
+      "url": "https://open.spotify.com/track/3Rg3LFsloXZFEhaksSlwJd"
     },
     {
       "album": {
@@ -2920,6 +2992,24 @@
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
+    },
+    {
+      "album": {
+        "name": "illumina",
+        "url": "https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156189,
+      "name": "PER UN ATTIMO CON TE",
+      "url": "https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI"
     },
     {
       "album": {
@@ -3151,6 +3241,28 @@
     },
     {
       "album": {
+        "name": "Rey Mysterio",
+        "url": "https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo"
+      },
+      "artists": [
+        {
+          "name": "Lil Busso",
+          "url": "https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051"
+        },
+        {
+          "name": "PAOLO SANTO",
+          "url": "https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Rey Mysterio",
+      "url": "https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU"
+    },
+    {
+      "album": {
         "name": "Ricchezza",
         "url": "https://open.spotify.com/album/2NUXQ9xiroThHs1Cz6Hqe4"
       },
@@ -3259,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "Scaglie di nuvole",
+        "url": "https://open.spotify.com/album/2pSxhpT2w5nxe466id70Gn"
+      },
+      "artists": [
+        {
+          "name": "5070",
+          "url": "https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt"
+        },
+        {
+          "name": "Luca Notaro",
+          "url": "https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191453,
+      "name": "Scaglie di nuvole",
+      "url": "https://open.spotify.com/track/1KaXolTv7IhNTxD5eyftuz"
+    },
+    {
+      "album": {
         "name": "scarpe slacciate",
         "url": "https://open.spotify.com/album/4PE7391macqTVvca7wKqZY"
       },
@@ -3346,7 +3480,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186644,
       "name": "Se Rimani",
       "url": "https://open.spotify.com/track/5YZcqaB36XOX867kYP7sn8"
@@ -3447,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "Sole",
+        "url": "https://open.spotify.com/album/0rVmsYmpxbll1uJxseRpFH"
+      },
+      "artists": [
+        {
+          "name": "Tess",
+          "url": "https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM"
+        },
+        {
+          "name": "nlyfive",
+          "url": "https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153811,
+      "name": "Sole",
+      "url": "https://open.spotify.com/track/1jc2mpGtz7UDbIzHfePpbi"
+    },
+    {
+      "album": {
         "name": "soli soli",
         "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
       },
@@ -3541,6 +3697,28 @@
     },
     {
       "album": {
+        "name": "Sott'acqua",
+        "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
+      },
+      "artists": [
+        {
+          "name": "FREN\u00c8SYA",
+          "url": "https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW"
+        },
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Sott'acqua",
+      "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
+    },
+    {
+      "album": {
         "name": "Sotto Effetto",
         "url": "https://open.spotify.com/album/4O32SggIcVIFHoRIzTPtdB"
       },
@@ -3574,6 +3752,32 @@
       "duration_ms": 188106,
       "name": "Sottobraccio",
       "url": "https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil"
+    },
+    {
+      "album": {
+        "name": "tutti i colori del buio",
+        "url": "https://open.spotify.com/album/25q60nNytACtJUStVbphJX"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153294,
+      "name": "sottosopra (feat. bnkr44)",
+      "url": "https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB"
     },
     {
       "album": {
@@ -3769,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Tram 83",
+        "url": "https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143378,
+      "name": "Tram 83",
+      "url": "https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr"
+    },
+    {
+      "album": {
         "name": "Tutta La Notte",
         "url": "https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg"
       },
@@ -3914,6 +4136,28 @@
       "duration_ms": 165500,
       "name": "Vodka fragola (feat. Atipica)",
       "url": "https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs"
+    },
+    {
+      "album": {
+        "name": "Wemmino",
+        "url": "https://open.spotify.com/album/0fcHdWn9kmHhsDukLp3vSu"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Wemmino",
+      "url": "https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR"
     },
     {
       "album": {

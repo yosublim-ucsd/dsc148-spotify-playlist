@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 154455,
       "name": "Design",
       "url": "https://open.spotify.com/track/2sRh4c16w9ouLKDsxST41G"
@@ -713,6 +713,48 @@
     },
     {
       "album": {
+        "name": "God Ye Buddy",
+        "url": "https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Swangz All-Star",
+          "url": "https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        },
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Zafaran",
+          "url": "https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw"
+        },
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263860,
+      "name": "God Ye Buddy",
+      "url": "https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h"
+    },
+    {
+      "album": {
         "name": "Hafanani",
         "url": "https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg"
       },
@@ -728,6 +770,24 @@
       "duration_ms": 208000,
       "name": "Hafanani",
       "url": "https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX"
+    },
+    {
+      "album": {
+        "name": "Utukufu wa Nyumba Hii",
+        "url": "https://open.spotify.com/album/0hgFtUKr3UU41K8DYZP6BQ"
+      },
+      "artists": [
+        {
+          "name": "PRAISE TEAM TAG FOREST YA KWANZA",
+          "url": "https://open.spotify.com/artist/50hp2iuwBlYltAQboCN8k3"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533500,
+      "name": "Hakuna Kama Wewe",
+      "url": "https://open.spotify.com/track/66xyIlcQ2OkouvA8XtzpVG"
     },
     {
       "album": {
@@ -2719,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Shukrani",
+        "url": "https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237531,
+      "name": "Shukrani",
+      "url": "https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk"
+    },
+    {
+      "album": {
         "name": "Shukurani",
         "url": "https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97"
       },
@@ -3414,7 +3492,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 248399,
       "name": "Unitembeze",
       "url": "https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL"

@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-175 songs - 9 hr 57 min
+176 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [How Come](https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Orginal Hound Dog](https://open.spotify.com/album/658zaQmPASrqYsobMOMJaq) | 2:36 | 2022-08-07 | 2024-02-01 |
 | [I Ain'T No Fool Either](https://open.spotify.com/track/0MxbxO6TfmPqZ0VOKcbzFU) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:23 | 2024-02-08 | 2024-06-18 |
 | [I Ain't No Fool Either](https://open.spotify.com/track/7531kRO4g6zJHiMlYVYOy6) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:23 | 2022-08-18 | 2022-08-26 |
-| [I Ain't No Fool Either](https://open.spotify.com/track/4YjwPC23k6Pu2YYmhESLp5) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:21 | 2024-09-30 |  |
+| [I Ain't No Fool Either](https://open.spotify.com/track/4YjwPC23k6Pu2YYmhESLp5) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:21 | 2024-09-30 | 2024-10-04 |
 | [I Ain't No Fool Either](https://open.spotify.com/track/2cm4GcjBJXcuPIZYTblyDL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:25 | 2023-05-09 | 2023-11-11 |
 | [I Ain't No Fool Either](https://open.spotify.com/track/4iTrXAA31RrdTSmWTeZHkZ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:25 | 2023-12-23 | 2024-01-15 |
 | [I Feel the Way I Feel](https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 5:05 | 2022-08-05 | 2024-07-23 |
@@ -160,6 +160,7 @@
 | [The Fish](https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:42 | 2024-02-02 | 2024-06-19 |
 | [The Fish](https://open.spotify.com/track/6kENCwBc90nLx35YKSarEA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:42 | 2024-06-21 | 2024-07-19 |
 | [The Fish](https://open.spotify.com/track/6JQlGL1g5oIB29YOEyFyaA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:45 | 2023-12-15 | 2023-12-17 |
+| [The Fish](https://open.spotify.com/track/4ZS7RhuXXxbNxdJvmnLnqK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:45 | 2024-10-04 |  |
 | [The Place](https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 2:35 | 2022-08-05 |  |
 | [They Call Me Big Mama](https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:04 | 2022-08-06 | 2023-03-22 |
 | [They Call Me Big Mama](https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:04 | 2023-03-25 |  |

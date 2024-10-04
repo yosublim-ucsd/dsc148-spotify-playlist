@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,281 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,276 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,7 +252,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 242 | [Re\-Wild](https://open.spotify.com/track/3LIckgqzRWLAgB1YKKxyF0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 3:42 |
 | 243 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
 | 244 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 |
-| 245 | [Dance Boys \(Feat\. Paulita Demaíz\)](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 |
+| 245 | [Dance Boys](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Paulita Demaíz](https://open.spotify.com/artist/30yXpgJSQGnALNcZF5HxkD) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 |
 | 246 | [Knife](https://open.spotify.com/track/7zJez9dgwuDp2K0SodHXqE) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [Knife](https://open.spotify.com/album/3zwswJSHvyf20opVthp5vc) | 4:23 |
 | 247 | [Oh Honey Sweet](https://open.spotify.com/track/2OvMmVWX5NAVvUquz8cNS8) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Oh Honey Sweet](https://open.spotify.com/album/1OnjWrx45ha6sz9gnqPCZN) | 2:44 |
 | 248 | [You Ain't Takin' My Man](https://open.spotify.com/track/0zAQd8HPcb720jtBnU4YMF) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/6pEg6rRDGKqsrQjCiY5AUc) | 4:14 |

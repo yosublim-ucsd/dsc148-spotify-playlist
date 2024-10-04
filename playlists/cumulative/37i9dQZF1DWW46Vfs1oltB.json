@@ -22517,6 +22517,24 @@
     },
     {
       "album": {
+        "name": "SEE YOU",
+        "url": "https://open.spotify.com/album/7EqRUYreKshmE3AfwZvoCs"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148226,
+      "name": "SEE YOU",
+      "url": "https://open.spotify.com/track/5gYvymKWCq0o4lkGW2c36Q"
+    },
+    {
+      "album": {
         "name": "POP A LOT",
         "url": "https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf"
       },

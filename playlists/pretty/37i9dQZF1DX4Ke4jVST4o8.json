@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 124968,
+  "num_followers": 125040,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "The Veldt",
+        "url": "https://open.spotify.com/album/0pJJgBzj26qnE1nSQUxaB0"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 170059,
+      "name": "The Veldt - Radio Edit",
+      "url": "https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Dirty Bass (Spotify International Version)",
         "url": "https://open.spotify.com/album/7L4wBF41PvzPCQbPoXNfPs"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 237106,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/35w3imkurxO8IVBhQv1FVR"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "The Veldt",
-        "url": "https://open.spotify.com/album/0pJJgBzj26qnE1nSQUxaB0"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 170059,
-      "name": "The Veldt - Radio Edit",
-      "url": "https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn"
     },
     {
       "added_at": "2022-10-14 00:00:00",

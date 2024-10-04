@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko \(柯智棠\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LÜCY
 
-268 songs - 16 hr 20 min
+273 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 | 2024-02-15 | 2024-04-26 |
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
 | [Cult Film Club](https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4) | [姿態](https://open.spotify.com/album/7qV4doZ5ML6hqwxalH0VHF) | 4:05 | 2024-01-25 | 2024-04-26 |
+| [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 | 2024-10-03 |  |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2024-09-19 |  |
 | [Disneyland](https://open.spotify.com/track/6fVMbf2gHADlE4rstGL1O9) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [The Make](https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr) | 4:38 | 2024-08-01 | 2024-08-23 |
 | [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 | 2024-07-04 | 2024-08-02 |
@@ -147,6 +148,7 @@
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ) | 3:50 | 2024-01-25 |  |
 | [Real World](https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Real World](https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh) | 4:19 | 2024-01-25 | 2024-09-27 |
+| [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 |  |
 | [Right Here Right Now](https://open.spotify.com/track/7mHahJViSbDSyj2UcxvNFl) | [Lukas MAX](https://open.spotify.com/artist/4wT5Qb0wFcb2G0K0iQUnHG), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE) | [Right Here Right Now](https://open.spotify.com/album/6BVySNnOxduh2tm6DQwe2i) | 2:46 | 2024-01-25 | 2024-08-30 |
 | [Rocketship](https://open.spotify.com/track/0vVwAEgX33PCDarOayP25w) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [把水開著](https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3) | 4:23 | 2024-06-13 | 2024-07-01 |
 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 | 2024-09-12 |  |
@@ -160,7 +162,9 @@
 | [Silent Choir](https://open.spotify.com/track/2cB4qOucH67drKz1W5U4Dk) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Silent Choir](https://open.spotify.com/album/2UAIWUD7MNBn6WW5G3tTmE) | 3:09 | 2024-06-30 |  |
 | [Sleepwalking](https://open.spotify.com/track/0JaEw62n5uyNZRT29SrkdW) | [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sleepwalking](https://open.spotify.com/album/4sLOmpKrjyvbPs3X1k961F) | 4:13 | 2024-03-21 | 2024-07-12 |
 | [smoky room](https://open.spotify.com/track/7B3p5Cm9avnzwKUDAEBWnV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [smoky room](https://open.spotify.com/album/54qUi4zKKDG3Qs2oa0zwQa) | 1:44 | 2024-03-21 | 2024-04-12 |
+| [Snow in Osaka](https://open.spotify.com/track/2w1WT7UnIvYT5jtBaEWXeC) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [Snow in Osaka](https://open.spotify.com/album/09opa4FglxamwYEJi8XST4) | 3:23 | 2024-10-03 |  |
 | [So Sad](https://open.spotify.com/track/5nt9BLESWBWRjENMN0PIfN) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:43 | 2024-06-13 | 2024-07-01 |
+| [Sparkling Wine](https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Sparkling Wine](https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s) | 3:23 | 2024-10-03 |  |
 | [Split Personality](https://open.spotify.com/track/4pPN21vwQWAvKPdV8Ek08s) | [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe) | [Split Personality](https://open.spotify.com/album/3QEdZhrousPRLWQhC4MKVt) | 3:58 | 2024-02-15 | 2024-03-29 |
 | [SPRING DREAM](https://open.spotify.com/track/2kKg265KRgHvXJ1jsN6RgN) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [SPRING DREAM](https://open.spotify.com/album/6tOshCGKx8ri8WINU6xh9J) | 3:27 | 2024-06-13 | 2024-07-01 |
 | [Spring Summer Autumn \(Winter \- I Mean Us Remix](https://open.spotify.com/track/3QUmuOHWeHVExgkqT26Ogf) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Spring Summer Autumn \(Winter \[I Mean Us Remix\]](https://open.spotify.com/album/6VF0KKzVuA69bHBjKupyXn) | 2:24 | 2024-01-25 | 2024-05-11 |
@@ -181,7 +185,8 @@
 | [The Same Title 狗血](https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [1Majin Nation](https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ) | 2:53 | 2024-02-29 | 2024-03-15 |
 | [The Way We Were \- Remix](https://open.spotify.com/track/4mBjUaCp1tituvl2n9azzE) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Way We Were \(Remix\)](https://open.spotify.com/album/3mZj6uUirkPHRde458W9R2) | 3:49 | 2024-01-25 | 2024-03-29 |
 | [Thinking About You](https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Thinking About You](https://open.spotify.com/album/4m1mEGiXCzSqOm4l7Caroe) | 3:16 | 2024-01-25 | 2024-08-09 |
-| [This is My World](https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [This is My World](https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX) | 4:42 | 2024-09-26 |  |
+| [This is My World](https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [This is My World](https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX) | 4:41 | 2024-09-26 |  |
+| [Tiramisu \(feat\. BRADD\)](https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [June's MENU](https://open.spotify.com/album/7qQyA6FeouGYqFfnHdV4QX) | 4:04 | 2024-10-03 |  |
 | [To My Audience](https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x) | [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ) | [Be My Guest](https://open.spotify.com/album/6RFsBhZK7IWIZirIU2oS3X) | 3:11 | 2024-01-25 |  |
 | [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-25 | 2024-02-04 |
 | [To The Beat](https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7) | 2:34 | 2024-02-01 | 2024-02-16 |

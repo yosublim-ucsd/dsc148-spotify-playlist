@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: THUS LOVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,758 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,815 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 16 | [Top Of The Bill](https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Top Of The Bill](https://open.spotify.com/album/30mkZmbGPyvicNPNjC8xyz) | 3:53 |
 | 17 | [0%](https://open.spotify.com/track/5On63WZYDvgFsRA5jPTEo9) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Emita Ox](https://open.spotify.com/album/13eIbvtsIMuTfvN7v3nK4X) | 2:56 |
 | 18 | [More Heat!](https://open.spotify.com/track/3uhQR8N9zIW9BGDXqflShE) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Hysterical Strength](https://open.spotify.com/album/5BHIfFeQdKQIPtQMREfHjZ) | 2:23 |
-| 19 | [Panic Attack](https://open.spotify.com/track/3YX4BJ5pijLueth2TDT0Du) | [Certainly So](https://open.spotify.com/artist/0VmYiMeoVRP5bSkfBs0PSR) | [Panic Attack](https://open.spotify.com/album/6mPOpzMcEJB8BSEY3f2Yg4) | 3:43 |
+| 19 | [Panic Attack](https://open.spotify.com/track/3YX4BJ5pijLueth2TDT0Du) | [Certainly So](https://open.spotify.com/artist/0VmYiMeoVRP5bSkfBs0PSR) | [Panic Attack](https://open.spotify.com/album/6mPOpzMcEJB8BSEY3f2Yg4) | 3:44 |
 | 20 | [Slow Motion](https://open.spotify.com/track/6KakH2WZYsLPFKHuGIRVi0) | [Never Ending Fall](https://open.spotify.com/artist/3xc0dLvxU2nAYefEJdDVBw) | [Slow Motion](https://open.spotify.com/album/7Mw1a72pvjX6SgnN7i1GkY) | 3:17 |
 | 21 | [For Your Love](https://open.spotify.com/track/6cV95Kl7vPsNOrCbRsZ9AD) | [Child Of The Parish](https://open.spotify.com/artist/0Ts7cCLH53aCD2WE3PHdMn) | [Sweet Surrender](https://open.spotify.com/album/09GwrbNTLdpBZvOpKLsJlZ) | 3:15 |
 | 22 | [Later](https://open.spotify.com/track/3TrnJe4PR4xRtrY6vElta3) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Later](https://open.spotify.com/album/73qPQ90oHCO3CN00GkEyRE) | 4:27 |

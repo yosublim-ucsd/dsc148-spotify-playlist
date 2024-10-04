@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Platform",
+  "description": "What is your love language? Say it in Swahili.  Cover: Mbosso",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 212155,
       "name": "Dharau",
       "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
@@ -906,6 +906,24 @@
       "duration_ms": 191007,
       "name": "Everybody (feat. Nadia Mukami)",
       "url": "https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD"
+    },
+    {
+      "album": {
+        "name": "Ex Mpya",
+        "url": "https://open.spotify.com/album/5DnaaqL5KQqcJR3H6hR7Gn"
+      },
+      "artists": [
+        {
+          "name": "Gramie",
+          "url": "https://open.spotify.com/artist/5dfLTuEIOBSTkgV9JRzkjS"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Ex Mpya",
+      "url": "https://open.spotify.com/track/0ZleYBcgetkVk2LMiLAIaE"
     },
     {
       "album": {
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 256644,
       "name": "Je T Aime",
       "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 263999,
       "name": "Na Nusu",
       "url": "https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV"
@@ -3272,6 +3290,24 @@
       "duration_ms": 201975,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh"
+    },
+    {
+      "album": {
+        "name": "Ova",
+        "url": "https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208207,
+      "name": "Ova",
+      "url": "https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo"
     },
     {
       "album": {
@@ -4228,6 +4264,24 @@
       "duration_ms": 181176,
       "name": "Usiongee (feat. Phina)",
       "url": "https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP"
+    },
+    {
+      "album": {
+        "name": "Utaniua",
+        "url": "https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo"
+      },
+      "artists": [
+        {
+          "name": "Christian Bella",
+          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Utaniua",
+      "url": "https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP"
     },
     {
       "album": {

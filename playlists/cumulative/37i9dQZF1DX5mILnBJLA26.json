@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY?si=ulA3Bl9ZTJCO2232z1lDfw\">CeekaRSA</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=lMe2GOXCQKuIEcwAMn6WZg\">Pabi Cooper</a>, <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=SvbSAlbMTBO7l3Q7f4aJIg\">Focalistic</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -238,6 +238,56 @@
       "duration_ms": 352215,
       "name": "25 Tao",
       "url": "https://open.spotify.com/track/5SGR2GjHKy0V75xLwSsfWj"
+    },
+    {
+      "album": {
+        "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Tranqullio, Rivalz & Tshepo Keyz)",
+        "url": "https://open.spotify.com/album/5lzVpG86JEnvgLUAyRQevw"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "LutroDaMusic",
+          "url": "https://open.spotify.com/artist/6WhcQZDoP5Q39LWWgth3QH"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        },
+        {
+          "name": "Marcus MC",
+          "url": "https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf"
+        },
+        {
+          "name": "Tranqullio",
+          "url": "https://open.spotify.com/artist/4jbYAjaaqViNEe7sbfLv9q"
+        },
+        {
+          "name": "RIVALZ",
+          "url": "https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y"
+        },
+        {
+          "name": "Tshepo Keyz",
+          "url": "https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437142,
+      "name": "2k'thele (feat. Nandipha808, Visca, Marcus MC, Tranqullio, Rivalz & Tshepo Keyz)",
+      "url": "https://open.spotify.com/track/3r6OJWuLgGNYGE9kHTlScO"
     },
     {
       "album": {
@@ -22937,6 +22987,40 @@
     },
     {
       "album": {
+        "name": "Pabi Jo (feat. Lajere man & Dadaman)",
+        "url": "https://open.spotify.com/album/13c5bl6tw6GHLgEGdkqU8L"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Thebuu",
+          "url": "https://open.spotify.com/artist/71sePyklre8L4YJuE9Qf7D"
+        },
+        {
+          "name": "Lajere man",
+          "url": "https://open.spotify.com/artist/5H7UcHG42hqQZzkGJ8QqIt"
+        },
+        {
+          "name": "Dadaman",
+          "url": "https://open.spotify.com/artist/3zzbYWZl1B3iYKXWR4BjFQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352081,
+      "name": "Pabi Jo (feat. Lajere man & Dadaman)",
+      "url": "https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR"
+    },
+    {
+      "album": {
         "name": "Papapu",
         "url": "https://open.spotify.com/album/5vdqcmLs5OOvJzv0vilk09"
       },
@@ -24232,7 +24316,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 386880,
       "name": "Rough Dance",
       "url": "https://open.spotify.com/track/2B1vzkxI7Zv5ofC92CgH2Q"
@@ -29246,7 +29330,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 365348,
       "name": "Tholukuthi (feat. Myztro & Scotts Maphuma)",
       "url": "https://open.spotify.com/track/1boQUQKfIEIegXOmcBxyHv"
@@ -30010,6 +30094,28 @@
       "duration_ms": 416052,
       "name": "Touch the sky",
       "url": "https://open.spotify.com/track/3k9XIjfagDDvgltYAdT9Yd"
+    },
+    {
+      "album": {
+        "name": "POSE",
+        "url": "https://open.spotify.com/album/0Sd6Zih5auu6xJDD0cingR"
+      },
+      "artists": [
+        {
+          "name": "Kamo_ww",
+          "url": "https://open.spotify.com/artist/1y9XCmAZmZdUbkAyIqwxjg"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382394,
+      "name": "Touched by me",
+      "url": "https://open.spotify.com/track/2r87PZsCQ7j0By4scRbGcf"
     },
     {
       "album": {
@@ -32927,6 +33033,40 @@
     },
     {
       "album": {
+        "name": "Vimba (feat. Scotts Maphuma, ShaunMusiq & Ftears, Stady K & Mbuxx)",
+        "url": "https://open.spotify.com/album/6Y6ruFvsDfGRWj0L4bSZu6"
+      },
+      "artists": [
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
+        },
+        {
+          "name": "Stady K",
+          "url": "https://open.spotify.com/artist/6mNM33QXrWDSPE1VDlN6ze"
+        },
+        {
+          "name": "Mbuxx",
+          "url": "https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390851,
+      "name": "Vimba (feat. Scotts Maphuma, ShaunMusiq & Ftears, Stady K & Mbuxx)",
+      "url": "https://open.spotify.com/track/7ljsXQZM9xa1wfEZ4MRANM"
+    },
+    {
+      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/1pv6mG21Hu4cWWnaYkNnAZ"
       },
@@ -33680,7 +33820,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 376702,
       "name": "Weh Weh (feat. Scotts Maphuma, Kamo Mphela, TOSS & Kamo_ww)",
       "url": "https://open.spotify.com/track/3iLo2bgekJi6YsRyVs75B3"
@@ -34774,7 +34914,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 310132,
       "name": "Yeyee 2.0 (feat. Mr JazziQ)",
       "url": "https://open.spotify.com/track/337QY4adNvUNlGuMAXnN5L"

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 61976,
+  "num_followers": 62033,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+        "name": "Morrendo de Prazer",
+        "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "Malu Magri",
+          "url": "https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+      "duration_ms": 259008,
+      "name": "Minha Casa",
+      "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -711,22 +727,6 @@
       "duration_ms": 199333,
       "name": "Tra\u00e7os",
       "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Morrendo de Prazer",
-        "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
-      },
-      "artists": [
-        {
-          "name": "Malu Magri",
-          "url": "https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7"
-        }
-      ],
-      "duration_ms": 259008,
-      "name": "Minha Casa",
-      "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
-      },
-      "artists": [
-        {
-          "name": "DROKI",
-          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
-        }
-      ],
-      "duration_ms": 154958,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Quando acordar",
         "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Filho do Soul",
-        "url": "https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI"
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
       },
       "artists": [
         {
-          "name": "Augus7o",
-          "url": "https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz"
-        },
-        {
-          "name": "Lovro",
-          "url": "https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF"
+          "name": "DROKI",
+          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Filho do Soul",
-      "url": "https://open.spotify.com/track/0GyYORKftax285LSmzF2oA"
+      "duration_ms": 154958,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -835,6 +815,26 @@
       "duration_ms": 205511,
       "name": "Codinome Exagerado",
       "url": "https://open.spotify.com/track/7DP5sAaCeg3hO46mVIKgCK"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "Filho do Soul",
+        "url": "https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI"
+      },
+      "artists": [
+        {
+          "name": "Augus7o",
+          "url": "https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz"
+        },
+        {
+          "name": "Lovro",
+          "url": "https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Filho do Soul",
+      "url": "https://open.spotify.com/track/0GyYORKftax285LSmzF2oA"
     },
     {
       "added_at": "2024-09-27 03:01:00",

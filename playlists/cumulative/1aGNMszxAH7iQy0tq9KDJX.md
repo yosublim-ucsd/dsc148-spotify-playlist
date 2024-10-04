@@ -4,7 +4,7 @@
 
 > 
 
-23 songs - 1 hr 26 min
+24 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 | 2023-08-16 |  |
 | [Isle Of Flightless Birds](https://open.spotify.com/track/6cwemXIKrAQeP7TMErGwM3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 5:45 | 2023-10-30 |  |
 | [Mr\. Shoes Tied](https://open.spotify.com/track/6S8PlPI7JiZcEshVEwo0fi) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 3:12 | 2023-07-09 |  |
+| [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 | 2024-10-03 |  |
 | [Planetary \(GO!\)](https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 | 2023-11-22 |  |
 | [Promiseland \- Bonus Track](https://open.spotify.com/track/6bwnvOChQORbBh8DO6DRpD) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven](https://open.spotify.com/album/19N3nhHlow4Lc4uiN8IUeA) | 2:59 | 2022-06-13 |  |
 | [Rule \#4 \- Fish in a Birdcage](https://open.spotify.com/track/3CwIYemTONwWpSZwMAmlu7) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Fish in a Birdcage](https://open.spotify.com/album/3JT5Riw2oTx8W6ZnLim5i2) | 3:01 | 2022-06-27 |  |

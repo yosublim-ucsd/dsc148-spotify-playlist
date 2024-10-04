@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Kgf Chapter 2",
+        "url": "https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212351,
+      "name": "Mehabooba",
+      "url": "https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY"
+    },
+    {
+      "album": {
         "name": "Maanaadu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq"
       },

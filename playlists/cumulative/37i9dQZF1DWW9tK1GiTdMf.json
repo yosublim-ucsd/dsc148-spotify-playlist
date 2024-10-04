@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: Ottobre",
+  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: Sethu, bnkr44",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 159958,
       "name": "**** (Bravi A Perderci)",
       "url": "https://open.spotify.com/track/0t7C6JJjqfNPtxZ1KbpaoB"
+    },
+    {
+      "album": {
+        "name": "+ SIMILI",
+        "url": "https://open.spotify.com/album/4deQoD2iJluGIWgr30LjSN"
+      },
+      "artists": [
+        {
+          "name": "Supernino",
+          "url": "https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138300,
+      "name": "+ SIMILI",
+      "url": "https://open.spotify.com/track/4Rkd5hVL1Ho54ql65qKXnQ"
     },
     {
       "album": {
@@ -908,7 +926,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 157420,
       "name": "adhd",
       "url": "https://open.spotify.com/track/0ybonCC1Sn6V8j72t775FP"
@@ -2114,6 +2132,28 @@
       "duration_ms": 111235,
       "name": "Backrooms",
       "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
+    },
+    {
+      "album": {
+        "name": "bad 4ever",
+        "url": "https://open.spotify.com/album/343wFaooEhkayCxQeBdUhe"
+      },
+      "artists": [
+        {
+          "name": "FANTASMA DI ME",
+          "url": "https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l"
+        },
+        {
+          "name": "YANG ROT",
+          "url": "https://open.spotify.com/artist/3d01ugFXlcrtlWQg0JXgY7"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "bad 4ever",
+      "url": "https://open.spotify.com/track/2JjPe4bFnwIUO5hQNASY44"
     },
     {
       "album": {
@@ -3656,7 +3696,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 136642,
       "name": "cineblog01",
       "url": "https://open.spotify.com/track/2BZKFWd2DUtIxTs9nNlvcp"
@@ -5261,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Di cuore",
+        "url": "https://open.spotify.com/album/3bR4HXsGdijQOslNWRpLbX"
+      },
+      "artists": [
+        {
+          "name": "Giulia Deligia",
+          "url": "https://open.spotify.com/artist/4NYe71lFBqbckQMw5hzoFf"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "Di cuore",
+      "url": "https://open.spotify.com/track/2MJTUtlHkWrGSEZPah1Yk4"
+    },
+    {
+      "album": {
         "name": "DICIANNOVE",
         "url": "https://open.spotify.com/album/5MrkfELi0uvHFWqkVtS3Gc"
       },
@@ -5368,7 +5426,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172534,
       "name": "DIFETTO",
       "url": "https://open.spotify.com/track/43lPwYEbZ0AAxwCdMpXv1M"
@@ -7678,7 +7736,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 163081,
       "name": "Fuori Di Testa",
       "url": "https://open.spotify.com/track/2hR6AxmydkKinUxq0efyzU"
@@ -11424,7 +11482,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164000,
       "name": "luci dell'autostrada",
       "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
@@ -14172,7 +14230,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 138406,
       "name": "Pagine vuote",
       "url": "https://open.spotify.com/track/3waeGJeHycGKpjmGZkhyLN"
@@ -14618,7 +14676,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161724,
       "name": "PERDERAI TUTTO SE CONTINUI",
       "url": "https://open.spotify.com/track/3vk66NwzPu5zI6IprAfmGk"
@@ -15898,7 +15956,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 150236,
       "name": "questa \u00e8 la fine",
       "url": "https://open.spotify.com/track/1HOeGxm6vyv2nsyoLRoIBQ"
@@ -16948,7 +17006,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 162352,
       "name": "Sei Fidanzata ?",
       "url": "https://open.spotify.com/track/5XeRpId3TEyhNICs6QVWxL"
@@ -17903,6 +17961,32 @@
     },
     {
       "album": {
+        "name": "tutti i colori del buio",
+        "url": "https://open.spotify.com/album/25q60nNytACtJUStVbphJX"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153294,
+      "name": "sottosopra (feat. bnkr44)",
+      "url": "https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB"
+    },
+    {
+      "album": {
         "name": "SOTTOTERRA//",
         "url": "https://open.spotify.com/album/160CqdV8jR90WFvl0jbMDs"
       },
@@ -18388,7 +18472,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 176358,
       "name": "Stare male con te",
       "url": "https://open.spotify.com/track/3oE9xAVtiAw5xY6Dt0cXor"
@@ -19076,7 +19160,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -20241,6 +20325,24 @@
     },
     {
       "album": {
+        "name": "tuttok",
+        "url": "https://open.spotify.com/album/0Ns5rhufYrh31nZqsvDNxG"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "tuttok",
+      "url": "https://open.spotify.com/track/3tStessbibuMvpBq4tgPMA"
+    },
+    {
+      "album": {
         "name": "Twin Peaks",
         "url": "https://open.spotify.com/album/4vAE9JsaZRb68Pba6NrIoV"
       },
@@ -21162,6 +21264,24 @@
       "duration_ms": 174230,
       "name": "Vorrei Scappare",
       "url": "https://open.spotify.com/track/7wAi9OXL55SAIQPsz4tkH7"
+    },
+    {
+      "album": {
+        "name": "Vuoto",
+        "url": "https://open.spotify.com/album/1DFDZdbt0eQWQbic0AJSSY"
+      },
+      "artists": [
+        {
+          "name": "Emmeffe",
+          "url": "https://open.spotify.com/artist/1ysP3azGK2mKVXFdZr3BtK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164589,
+      "name": "Vuoto",
+      "url": "https://open.spotify.com/track/3mrFP65nfPrmlYrdZh3fIf"
     },
     {
       "album": {

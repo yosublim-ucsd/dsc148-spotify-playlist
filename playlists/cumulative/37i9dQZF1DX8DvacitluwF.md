@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Gemma Fassie
+> The best in South African and international R&B\. Cover: MAUIMØON
 
-379 songs - 19 hr 58 min
+384 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-23 | 2024-09-03 |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-11-23 | 2024-03-22 |
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-10-12 | 2024-01-13 |
+| [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-03 |  |
 | [Hvte Me More!](https://open.spotify.com/track/4gQbrS55OA14Tx9QOXyGrP) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Hvte Me More!](https://open.spotify.com/album/1KBZoMuFYD99E5ILessl9J) | 2:19 | 2024-01-11 | 2024-02-09 |
 | [I Hope](https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope](https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9) | 2:33 | 2024-02-14 | 2024-02-23 |
 | [I Know What I Want](https://open.spotify.com/track/4t6lJovfXhtW2eKaWfc41S) | [Rudy Chalmers](https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC) | [I Know What I Want](https://open.spotify.com/album/6D0lAoiHXI05IWw1YAULb9) | 3:58 | 2023-11-23 | 2024-01-26 |
@@ -165,6 +166,7 @@
 | [I Waited](https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Lifetimes](https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf) | 3:37 | 2023-12-01 | 2023-12-23 |
 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 | 2024-04-18 | 2024-07-12 |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-22 | 2024-05-10 |
+| [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2024-10-03 |  |
 | [Impatient](https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Impatient](https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28) | 2:49 | 2024-04-25 | 2024-09-03 |
 | [In The Moment](https://open.spotify.com/track/2cyVJ0iYwUuBGIOiOtxCAU) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Things We Feel](https://open.spotify.com/album/1OSJjMs1WGeQYj9syquxGO) | 3:44 | 2023-11-30 | 2023-12-20 |
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-12 | 2024-03-15 |
@@ -192,6 +194,7 @@
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 | 2024-09-03 |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
 | [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 | 2024-07-27 |
+| [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-03 |  |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 | 2024-09-03 |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [LOVE](https://open.spotify.com/track/0AmtY9FdJE0x5WcP1WeAX3) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [HOLDING/EVOLVING](https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33) | 2:55 | 2024-09-02 | 2024-09-12 |
@@ -217,6 +220,7 @@
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-02-08 | 2024-08-17 |
 | [Me Ever After \- Radio Edit](https://open.spotify.com/track/4PEk5cLBvSZ3WYFemESNB3) | [MOE.](https://open.spotify.com/artist/0OKOM7jY8TkrnCO9lU9U9m) | [Me Ever After \(Radio Edit\)](https://open.spotify.com/album/4UrkVTgWFpfVQZ7YMZtxSK) | 4:22 | 2023-10-12 | 2023-10-20 |
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-12 | 2024-01-26 |
+| [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 | 2024-10-03 |  |
 | [MICELLAR WATER](https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd), [Tyson Sybateli](https://open.spotify.com/artist/7Ea3plMenK7eJQjjTXTfDC) | [VESPER](https://open.spotify.com/album/2oxqAqodD8LNvRdowCYDLN) | 3:09 | 2023-10-12 | 2024-02-09 |
 | [Misscomplicationship \- Yolophonik Remix](https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ) | [Retro Vibe](https://open.spotify.com/artist/6YwTq9An1a91MBtsBMVC4d), [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf) | [Misscomplicationship \(Yolophonik Remix\)](https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq) | 3:34 | 2024-08-30 | 2024-09-03 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2024-02-08 | 2024-04-26 |
@@ -307,6 +311,7 @@
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-11 |  |
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-26 |  |
 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-05-03 | 2024-09-03 |
+| [SPEEDING](https://open.spotify.com/track/54F5bovArC81dBT3YikEmt) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [ALT\-BOY](https://open.spotify.com/album/2NykPpomaq15Nbj5R0U4Os) | 3:57 | 2024-10-03 |  |
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 | 2024-07-27 |
 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-09-02 |  |

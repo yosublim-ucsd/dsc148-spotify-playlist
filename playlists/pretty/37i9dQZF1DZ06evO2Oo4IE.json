@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 181336,
+  "num_followers": 181343,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAADOAz59tzxbDPE+/IAEM9Gg",
+  "snapshot_id": "ZvyNAAAAAABr0LkCndsfAYI3lM10qWSu",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Livin' Is Easy (Live 1969)",
-        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 110984,
-      "name": "Me - Live 1969",
-      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin: The Woodstock Experience",
-        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+        "name": "Livin' Is Easy (Live 1969)",
+        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 297066,
-      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+      "duration_ms": 110984,
+      "name": "Me - Live 1969",
+      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
     },
     {
       "added_at": null,

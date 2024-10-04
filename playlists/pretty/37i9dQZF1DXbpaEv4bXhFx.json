@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 15173,
+  "num_followers": 15196,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Oh Rosy",
+      "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "Foggy",
-        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Oh Rosy",
-      "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
     },
     {
       "added_at": "2024-08-09 09:24:09",

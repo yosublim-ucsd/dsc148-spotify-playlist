@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Mason Moy
 
-1,174 songs - 2 day 18 hr 32 min
+1,178 songs - 2 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [5949mi](https://open.spotify.com/track/3rgDed1aygTvUKwvWETfZq) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [5949mi](https://open.spotify.com/album/2zZ2Q3jY0k6XD0fsd1bdWj) | 3:07 | 2023-08-03 | 2023-11-03 |
 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 | 2024-05-16 |  |
 | [5PM Down The Shore](https://open.spotify.com/track/7wMY5Z0bk65R2J9OKFxFTV) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [5PM Down The Shore](https://open.spotify.com/album/7Ee9WcmLWgckp43rgGYgi7) | 4:06 | 2024-06-06 |  |
+| [805](https://open.spotify.com/track/1J1tbpSjsd9XQ2945fcI8P) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [805](https://open.spotify.com/album/1K348SiQNjVzcDGSiSLhIj) | 2:33 | 2024-10-03 |  |
 | [96930羅瓦涅米](https://open.spotify.com/track/1gE9ZZdEKULhuzAIk70C68) | [薛德勇 Monkey](https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS) | [96930羅瓦涅米](https://open.spotify.com/album/1uRs5Z84RzvNZRnGGQ9gWn) | 3:02 | 2022-12-29 | 2023-03-18 |
 | [98](https://open.spotify.com/track/4qIy3sKkt76I2cmEK5hiCf) | [良少](https://open.spotify.com/artist/5TqXIlySNYaCoM0WjmBnXK), [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [98](https://open.spotify.com/album/2IGE9t13fb36RNAZxgRbbV) | 5:01 | 2024-03-07 | 2024-06-07 |
 | [9AM IN LONDON](https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [9AM IN LONDON](https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G) | 3:22 | 2023-12-21 | 2024-05-10 |
@@ -185,6 +186,7 @@
 | [Edge Of Love](https://open.spotify.com/track/0PYEwggCSglDBIY42WOkcq) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Edge Of Love](https://open.spotify.com/album/0rMZvIIkOYpvMtpVtCBtGZ) | 3:47 | 2022-05-26 | 2022-07-29 |
 | [End it now](https://open.spotify.com/track/1XfTCENmXbktwmgN2fQTKt) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [End it now](https://open.spotify.com/album/6zdqxPTNrRrArO6oQ24n6c) | 3:20 | 2023-08-24 | 2023-11-03 |
 | [End Of The World](https://open.spotify.com/track/7nkzGVZGaGFNUZ2zWzoNfn) | [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [End Of The World](https://open.spotify.com/album/5RGNYkWk40vwsczytNOU5a) | 3:56 | 2024-04-04 |  |
+| [Escaping Encirclements 出重圍](https://open.spotify.com/track/5ZjYlBTBhDFYKWwX509NqQ) | [Gong Gong Gong 工工工](https://open.spotify.com/artist/0amkRUGmrpprSUUMlSuISB), [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mongkok Duel 旺角龍虎鬥](https://open.spotify.com/album/0J2IaZ1Vb0KRkPGKVe6Ok1) | 5:33 | 2024-10-03 |  |
 | [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 | 2024-02-08 | 2024-05-10 |
 | [Escaping Light](https://open.spotify.com/track/4N1mbP0JJxkqK1iFc3eyQj) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/5QFxrLYt1HKfeCc1nl0pps) | 3:59 | 2024-02-08 | 2024-04-19 |
 | [ETISÜ](https://open.spotify.com/track/1N4jZQZgvZMNMmZgYyUHJK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ETISÜ](https://open.spotify.com/album/67hOhiiOu0snIYLmU8GjW4) | 2:44 | 2022-07-21 | 2022-11-04 |
@@ -460,6 +462,7 @@
 | [More I Know](https://open.spotify.com/track/5ybNApdieMirwLYQG6r7zW) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [More I Know](https://open.spotify.com/album/43iq31cloLsshhWfZWE7Oy) | 2:46 | 2023-02-23 | 2023-07-14 |
 | [Mornington](https://open.spotify.com/track/4bUvTxxbvzYJZZT39aDz0l) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [lifas viator](https://open.spotify.com/album/1xT4oytxLQwcNnuG6XRKJy) | 4:02 | 2023-04-13 | 2023-07-14 |
 | [mountain](https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [mountain](https://open.spotify.com/album/2PHjceB7h7ABJ4dWkkUkHS) | 1:42 | 2023-05-25 | 2023-09-01 |
+| [Moutain](https://open.spotify.com/track/5RhsH3BHAvywdKbypyr91Z) | [Mason Moy](https://open.spotify.com/artist/4rH3h4EdK7qC9xUDXQJYAZ) | [I Don't Like to Be Tamed](https://open.spotify.com/album/1WoXNjwpPwaYKAdkg5mmtY) | 3:33 | 2024-10-03 |  |
 | [Move, Hey\~](https://open.spotify.com/track/2zeitqsxLoRiObAOinFCuD) | [Daansaan](https://open.spotify.com/artist/1tMN3BmgBlzTsh0JDcrAUT) | [Move, Hey\~](https://open.spotify.com/album/10VQT5awwfmezdpGeLVJg3) | 3:21 | 2023-02-16 | 2023-03-18 |
 | [Mr\. Nobody](https://open.spotify.com/track/4BLLabgvIOkn6nJF0flywa) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [Mr\. Nobody](https://open.spotify.com/album/4BHmoJJ6w2fZOXiXgtZWmd) | 2:56 | 2024-01-05 | 2024-05-10 |
 | [MUSE](https://open.spotify.com/track/15qpQyPhyBoF8GwgRteLdG) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [MUSE](https://open.spotify.com/album/7Jl8yNEOB8wcn2u7q72hYX) | 3:08 | 2023-01-05 | 2023-05-26 |
@@ -523,6 +526,7 @@
 | [outrun](https://open.spotify.com/track/6xYJ0n8OBSbYxJ746skLnf) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [outrun](https://open.spotify.com/album/5mLWUEjcJzpbY9TQIqvkrP) | 4:00 | 2023-04-13 | 2023-07-14 |
 | [overthinking](https://open.spotify.com/track/4WSID4u69gGKFwCeOP1lLk) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [overthinking](https://open.spotify.com/album/28ZQdT8zN4AvVF5qGcDlzp) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [overthinking](https://open.spotify.com/track/1jCbIFQyPDiJ1cW2LBSxUx) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [overthinking](https://open.spotify.com/album/0MrwbhIr37SlyUDMw3ly8m) | 3:22 | 2022-05-26 | 2022-09-09 |
+| [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-03 |  |
 | [Paranoid](https://open.spotify.com/track/5p386vqrXRc5nwLFj17lZW) | [Squarehead](https://open.spotify.com/artist/2WK00atpKQCYHAEReN2nD2), [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy) | [Paranoid](https://open.spotify.com/album/2ex4x3YbrlsJbiv7QoMG76) | 3:14 | 2022-11-03 | 2023-02-03 |
 | [passer\-by](https://open.spotify.com/track/50oewNmbKYbV4vvPmYghEK) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [passer\-by](https://open.spotify.com/album/4bOUhtPOQhcg27k8brc6gi) | 2:03 | 2023-07-27 | 2023-11-03 |
 | [Pastries](https://open.spotify.com/track/3aZxmDaau281Xp5KKcPYy0) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Pastries](https://open.spotify.com/album/19dAFsG3fN6iitlCpxoFA5) | 3:11 | 2022-07-21 | 2022-11-04 |

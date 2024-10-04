@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Levity
 
-997 songs - 2 day 8 hr 11 min
+998 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [I Am Here](https://open.spotify.com/track/25JwRq7ahtwS2seUFnGZDv) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Colleen D'agostino](https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ) | [I Am Here](https://open.spotify.com/album/0mYjkKoHW3RrIjq5QNo6Ew) | 3:40 | 2024-05-10 | 2024-07-13 |
 | [I Believe \- Nemesy Remix](https://open.spotify.com/track/0rSuUyfsBHm9x93QjK6dvI) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D), [Nemesy](https://open.spotify.com/artist/6Ha6XgaRrFiCKXLtRi2iwk) | [I Believe \(Nemesy Remix\)](https://open.spotify.com/album/3uDwwQ3uieTjtJgpypL3Yn) | 2:58 | 2023-06-02 | 2023-08-19 |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-12 | 2024-07-13 |
-| [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 | 2024-04-05 |  |
+| [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 | 2024-04-05 | 2024-10-04 |
 | [I Like It When You Move](https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [I Like It When You Move](https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3) | 3:02 | 2023-09-08 | 2023-10-28 |
 | [I'll Wait For You](https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I'll Wait For You](https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V) | 3:25 | 2024-08-23 |  |
 | [I'm Delighted](https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [I'm Delighted](https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h) | 5:39 | 2022-09-30 | 2023-07-15 |
@@ -894,6 +894,7 @@
 | [Thrill](https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Cheap Thrills](https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll) | 4:48 | 2023-09-08 | 2023-10-21 |
 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 | 2024-03-01 | 2024-05-16 |
 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 | 2024-03-22 |  |
+| [Tick Tock](https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Tick Tock](https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl) | 2:42 | 2024-09-27 |  |
 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 | 2024-07-12 | 2024-07-27 |
 | [Tides](https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Tides](https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj) | 4:27 | 2022-02-04 | 2022-07-16 |
 | [Tie\-Dye Sky](https://open.spotify.com/track/2YZSTgWXEyDPUeKop4eiWo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Tie\-Dye Sky](https://open.spotify.com/album/5veIMv6CqzYckH7bILgDJ6) | 3:08 | 2021-12-17 | 2022-02-19 |

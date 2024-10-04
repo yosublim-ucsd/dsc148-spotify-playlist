@@ -12355,6 +12355,32 @@
     },
     {
       "album": {
+        "name": "When The Beat Drops Out",
+        "url": "https://open.spotify.com/album/5BLj4vYsELaoM95lOU2Ogg"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144571,
+      "name": "When The Beat Drops Out",
+      "url": "https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg"
+    },
+    {
+      "album": {
         "name": "When Tomorrow Comes",
         "url": "https://open.spotify.com/album/1VHPLsguIyg5fQSiD4P0o3"
       },

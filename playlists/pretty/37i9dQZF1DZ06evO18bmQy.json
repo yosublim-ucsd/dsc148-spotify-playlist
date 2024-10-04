@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 199985,
+  "description": "This Is Djonga. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 199995,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAADqOveeqp+RlLdwi7Mo/cJq",
+  "snapshot_id": "ZvyNAAAAAACcaR3/ngQ7tFw0ZSFSGbz7",
   "tracks": [
     {
       "added_at": null,
@@ -747,38 +747,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
-        "url": "https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH"
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
       },
       "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        },
-        {
-          "name": "DJ BETIM ATL",
-          "url": "https://open.spotify.com/artist/1MSe9dn8Q5rGo2vJxkuw9J"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Mc Pedrin do Engenha",
-          "url": "https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG"
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
         },
         {
-          "name": "MC M\u00c3E",
-          "url": "https://open.spotify.com/artist/1ZWv3uODosj5pH5BmmGisF"
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
-      "url": "https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n"
+      "duration_ms": 238080,
+      "name": "Olho de Tigre",
+      "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
     },
     {
       "added_at": null,
@@ -819,30 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olho de Tigre",
-        "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
+        "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
+        "url": "https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH"
       },
       "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "DJ BETIM ATL",
+          "url": "https://open.spotify.com/artist/1MSe9dn8Q5rGo2vJxkuw9J"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+          "name": "Mc Pedrin do Engenha",
+          "url": "https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG"
         },
         {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "MC M\u00c3E",
+          "url": "https://open.spotify.com/artist/1ZWv3uODosj5pH5BmmGisF"
         }
       ],
-      "duration_ms": 238080,
-      "name": "Olho de Tigre",
-      "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
+      "duration_ms": 184615,
+      "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
+      "url": "https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n"
     },
     {
       "added_at": null,

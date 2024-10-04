@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the talented songwriters behind your favorite country songs\. Cover: Nicolle Galyon
+> Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
 
-261 songs - 15 hr 15 min
+262 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Southern Soul](https://open.spotify.com/track/4Mp3u4Eawj9RUbcp8PgAh7) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Southern Soul](https://open.spotify.com/album/5YItoXImsusUsEHDLbj1sM) | 3:32 | 2022-01-01 | 2024-08-31 |
 | [Still Not over You](https://open.spotify.com/track/733l03FgEyPyOORfxExyyN) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Still Not over You](https://open.spotify.com/album/1fdvxTdyKVqhBj1dDa8Pl7) | 3:07 | 2022-02-28 |  |
 | [Stuck in High School](https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:11 | 2022-01-01 |  |
+| [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:30 | 2024-10-04 |  |
 | [Sunrise, Sunburn, Sunset](https://open.spotify.com/track/0kNlf24bhUUKvJ2jkBsH3I) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:31 | 2022-01-01 | 2024-08-31 |
 | [Suwannee](https://open.spotify.com/track/5rTVK41PWQcD1w3yFf58qG) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 3:26 | 2022-10-14 |  |
 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 | 2022-01-01 |  |

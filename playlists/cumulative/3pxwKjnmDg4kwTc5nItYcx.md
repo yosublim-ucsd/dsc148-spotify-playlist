@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-807 songs - 1 day 19 hr 18 min
+809 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 | 2023-09-22 |  |
 | [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-05-17 |  |
 | [All My Friends](https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [All My Friends](https://open.spotify.com/album/2vIpHxPa1g5KQvIlrR1FGK) | 2:48 | 2020-05-22 | 2021-05-12 |
+| [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-11-10 |  |
 | [And It Breaks My Heart](https://open.spotify.com/track/658x3phIzux5VYryVBOET4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [And It Breaks My Heart / Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5aTeJSdirpRjxl9IIpWx8v) | 4:06 | 2020-07-01 | 2021-05-12 |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-10 |  |
@@ -56,6 +57,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-26 |  |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-18 |  |
 | [Bad Tattoo](https://open.spotify.com/track/79VJHtRYfW6UQ2drtnozV0) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Bad Tattoo](https://open.spotify.com/album/3gKSl42Qz9Kwv9LKyPffrx) | 3:14 | 2021-01-23 |  |
+| [Balance](https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Halfway to Paradise](https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI) | 3:33 | 2024-10-03 |  |
 | [Ballroom Bop](https://open.spotify.com/track/2N2cB0q7KoZIix3hUGsJ05) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Ballroom Bop](https://open.spotify.com/album/2PPB081sKZPjhVakuQmpzE) | 2:07 | 2022-05-13 |  |
 | [Be Alone](https://open.spotify.com/track/7e7RHOQUTfEhNzJ7wkWaXP) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Two Sides](https://open.spotify.com/album/5DBpggyo5rvfmJMv1eOrT9) | 4:07 | 2020-12-04 |  |
 | [Be Alright](https://open.spotify.com/track/2H4gf1wLxvYreMj1jcaN0k) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/1mRtVjwGgBvLiaJhPGHZ8M) | 3:16 | 2019-08-27\* | 2019-11-11 |
@@ -223,7 +225,7 @@
 | [Feel Good](https://open.spotify.com/track/3B9ieKCdzdULYHSETdNsKR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Feel Good](https://open.spotify.com/album/3wZr593OP80fb5PoNHtkqN) | 3:04 | 2021-06-12 |  |
 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 | 2021-05-08 |  |
 | [Feel Too Much](https://open.spotify.com/track/58Hhav7Sh9KlVH5svg9wPh) | [Hartley](https://open.spotify.com/artist/7DpaPZ3DnHnTUl5mtFKv4U) | [Feel Too Much](https://open.spotify.com/album/2pXw6Ltm8zSfQsUn7uTEhX) | 2:48 | 2020-05-01 | 2021-05-12 |
-| [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-21 |  |
+| [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-21 |  |
 | [Find Someone](https://open.spotify.com/track/654BH5npNnfbFZyHD4c2RC) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Find Someone](https://open.spotify.com/album/7izguBApUn5lBJO7bDwzvV) | 3:08 | 2019-08-27\* | 2019-11-11 |
 | [Flashback](https://open.spotify.com/track/3BxbsHLfJsmV2QwyS71eFj) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Flashback](https://open.spotify.com/album/4FkHKRWk43zBW657uoHgB0) | 2:57 | 2023-11-10 |  |
 | [FLIGHT PATH](https://open.spotify.com/track/2uWImLJDHfQXzCOMzGCEOY) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FLIGHT PATH](https://open.spotify.com/album/6e3xCLDiPcEutcXnjzaNkh) | 2:45 | 2019-12-20 | 2021-05-12 |

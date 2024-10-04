@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: MPHO.WAV",
+  "description": "The best dance hits in South Africa and across the globe. Cover: TNS",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -2954,6 +2954,36 @@
       "duration_ms": 441875,
       "name": "Benjamin's Bridge",
       "url": "https://open.spotify.com/track/7eKMhLssS2sj9TgQ5zooHA"
+    },
+    {
+      "album": {
+        "name": "Besa (House Mix)",
+        "url": "https://open.spotify.com/album/3nDonPBkQj9rEIyTviw9DQ"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "Besa - House Mix",
+      "url": "https://open.spotify.com/track/3DENuqVRPac4Jj0O6FRkNm"
     },
     {
       "album": {
@@ -11332,7 +11362,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 422998,
       "name": "Khumbaya",
       "url": "https://open.spotify.com/track/5Vs5kjcC3XFSS8FElfJjlE"
@@ -12390,7 +12420,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
@@ -15260,6 +15290,28 @@
       "duration_ms": 306131,
       "name": "Nipe Penzi (feat. BATUNDI)",
       "url": "https://open.spotify.com/track/1GnFzIi2u9M7t5jeeOYRAo"
+    },
+    {
+      "album": {
+        "name": "Njalo",
+        "url": "https://open.spotify.com/album/3vQTRdT20zloJ9ZDCiGWim"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360997,
+      "name": "Njalo",
+      "url": "https://open.spotify.com/track/7d5mCjXNlMmNz9SlBWR9F4"
     },
     {
       "album": {
@@ -20408,7 +20460,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"

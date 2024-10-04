@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
 
-161 songs - 11 hr 29 min
+162 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Feliz Aniversario](https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Feliz Aniversario](https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12) | 4:20 | 2022-09-02 | 2022-12-17 |
 | [Ganas Locas](https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Ganas Locas](https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf) | 3:55 | 2022-09-02 |  |
 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 | 2022-09-02 |  |
+| [INALCANZABLE](https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [INALCANZABLE](https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl) | 3:38 | 2024-10-03 |  |
 | [La Chica de la Disco](https://open.spotify.com/track/1Rldg5PGFa1LscsLdvsK0u) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [La Bomba](https://open.spotify.com/album/1CfCK4Nx0nnccwueJfp9Hm) | 3:30 | 2022-09-02 | 2023-04-06 |
 | [La Eléctrica](https://open.spotify.com/track/0tHzhHxk1ykK6Sa5t6bSYa) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Sin Límites](https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK) | 3:38 | 2024-05-22 | 2024-08-31 |
 | [La Escena](https://open.spotify.com/track/6vjp1tZHzZT6omls4lNeER) | [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Camilo Carvajal](https://open.spotify.com/artist/42jbySe4fUtjS3JpprvmVK) | [Tridimensional](https://open.spotify.com/album/61wlC4yxl7qBUPi9vsT1gP) | 3:20 | 2023-04-05 | 2023-08-26 |
@@ -151,7 +152,7 @@
 | [TANTO](https://open.spotify.com/track/0P9q6nGIk454XvAiOkgJ7u) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [TANTO](https://open.spotify.com/album/4Km124x41bRqMWINz5A6vK) | 4:03 | 2023-04-05 | 2023-08-26 |
 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:53 | 2024-05-22 | 2024-08-31 |
 | [TBT](https://open.spotify.com/track/0Vy0zLbeULv6NAVlT3t0rf) | [Traviesos Del Vallenato](https://open.spotify.com/artist/3J2T0PYtMr3IqIGlPgJjAD) | [TBT](https://open.spotify.com/album/5rFEUePpaXiOT4XHBSmm89) | 3:52 | 2023-04-14 | 2023-08-26 |
-| [Te Lo Dije](https://open.spotify.com/track/3sLUnp9oaefpYVDeVLooCs) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/2gb8zKId5nHSza56IJbpLb) | 4:19 | 2024-01-26 |  |
+| [Te Lo Dije](https://open.spotify.com/track/3sLUnp9oaefpYVDeVLooCs) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/2gb8zKId5nHSza56IJbpLb) | 4:19 | 2024-01-26 | 2024-10-04 |
 | [Te Lo Dije](https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh) | 4:19 | 2022-09-02 | 2024-04-19 |
 | [Te Recomiendo](https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Más Gigantes Que Nunca](https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498) | 3:22 | 2022-09-02 | 2022-10-15 |
 | [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 | 2023-09-15 | 2024-01-27 |

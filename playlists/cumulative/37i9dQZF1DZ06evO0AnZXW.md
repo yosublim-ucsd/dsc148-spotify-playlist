@@ -2,7 +2,7 @@
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This is XXXTENTACION\. De mest populære numre i én playliste.
+> This Is XXXTENTACION\. Los temas esenciales, todos en una lista.
 
 69 songs - 2 hr 44 min
 

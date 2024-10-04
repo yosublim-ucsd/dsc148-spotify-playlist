@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Primos del Este. Los temas esenciales, todos en una lista.",
-  "num_followers": 6140,
+  "num_followers": 6152,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAADAqxx0HxMW+nszF3aiophv",
+  "snapshot_id": "ZvyNAAAAAABhIm91njiog87NnNxNTAjl",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 145471,
+      "name": "Voy por Ti",
+      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 145471,
-      "name": "Voy por Ti",
-      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+      "duration_ms": 176359,
+      "name": "Solita Bailando",
+      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 176359,
-      "name": "Solita Bailando",
-      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
+      "duration_ms": 200250,
+      "name": "Yaki",
+      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 225462,
       "name": "Otra Ronda",
       "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ferragamo",
-        "url": "https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 142880,
-      "name": "Ferragamo",
-      "url": "https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 164000,
       "name": "Me Enamoras",
       "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ferragamo",
+        "url": "https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 142880,
+      "name": "Ferragamo",
+      "url": "https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs"
     },
     {
       "added_at": null,

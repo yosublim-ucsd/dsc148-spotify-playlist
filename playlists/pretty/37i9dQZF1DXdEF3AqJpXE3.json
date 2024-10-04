@@ -1,12 +1,12 @@
 {
   "description": "The best tracks from the world of music. Cover: Regina Song",
-  "num_followers": 173691,
+  "num_followers": 173689,
   "original_name": "Hot Hits Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv0SfAAAAABBYKBUc1A16nYWNIAqSUe2",
+  "snapshot_id": "Zv8wAAAAAADnKh2E9fQrLQ9CtmueonDk",
   "tracks": [
     {
       "added_at": "2024-10-02 09:29:32",
@@ -155,6 +155,22 @@
       "duration_ms": 171243,
       "name": "BABY I'M BACK",
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "added_at": "2024-10-04 00:00:00",
+      "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-10-02 09:29:32",

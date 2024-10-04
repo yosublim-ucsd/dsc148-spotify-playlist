@@ -2,7 +2,7 @@
 
 ### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
-> music to get fly to ft\. Cardi B
+> music to get fly to ft\. Zendaya at Paris Fashion Week
 
 676 songs - 1 day 12 hr 28 min
 

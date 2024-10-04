@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks.
 
-1,318 songs - 2 day 23 hr 28 min
+1,319 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [Screen Time \(Feat\. Hoshi of SEVENTEEN\)](https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Screen Time](https://open.spotify.com/album/5E5xpayOlNMK28OxS7deDq) | 3:53 | 2023-11-02 | 2024-03-09 |
 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [다이나믹 듀오](https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 | 2022-06-18 | 2022-08-13 |
 | [Seatbelt](https://open.spotify.com/track/0VPmzoUEtmi8Xc9x71VDYG) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [REDRUM](https://open.spotify.com/album/3vJNnISlrqGjpROegP4bpo) | 3:27 | 2023-09-07 | 2024-01-06 |
+| [SEE YOU](https://open.spotify.com/track/5gYvymKWCq0o4lkGW2c36Q) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [SEE YOU](https://open.spotify.com/album/7EqRUYreKshmE3AfwZvoCs) | 2:28 | 2024-10-03 |  |
 | [See You In Every Party](https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:01 | 2023-08-09 | 2024-03-09 |
 | [Self Isolation \(feat\. Paloalto\)](https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Self Isolation](https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c) | 3:37 | 2022-04-28 | 2022-07-06 |
 | [Selfie \(Feat\. Los, Street Baby\)](https://open.spotify.com/track/26cPMPlizQk6jmVIZzfl2z) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 2:06 | 2024-07-01 |  |

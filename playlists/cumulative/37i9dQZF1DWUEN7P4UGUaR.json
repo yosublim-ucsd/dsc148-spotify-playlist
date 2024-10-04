@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
+  "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
   "name": "Aseda",
   "tracks": [
     {
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "He Reigns",
+        "url": "https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341400,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S"
+    },
+    {
+      "album": {
         "name": "Lifted High",
         "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 217077,
       "name": "Mindaboshi (Remix)",
       "url": "https://open.spotify.com/track/1V1nSsVwTPkspdVfiiyRG8"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 226017,
       "name": "Unconditional Love (feat. Niiella)",
       "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
@@ -2180,6 +2198,24 @@
       "duration_ms": 512659,
       "name": "Wo Ye (Live)",
       "url": "https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL"
+    },
+    {
+      "album": {
+        "name": "Songs of the Spirit",
+        "url": "https://open.spotify.com/album/5MgNmvdoouYvbg05neKNkv"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307921,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2XEnKPHU13Jyz95z8rETwv"
     },
     {
       "album": {

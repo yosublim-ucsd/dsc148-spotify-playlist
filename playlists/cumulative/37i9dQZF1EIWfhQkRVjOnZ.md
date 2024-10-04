@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 |  |
+| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 | 2024-10-04 |
 | [94 Hours](https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:10 | 2024-05-02 | 2024-08-18 |
 | [A Bag Of Marbles](https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:00 | 2024-04-23 |  |
 | [A Banquet For Traitors](https://open.spotify.com/track/6Ampu27DQCqG7e2pPWwFKc) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:13 | 2024-05-25 |  |
@@ -150,7 +150,7 @@
 | [Vacant Room](https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:32 | 2024-04-24 |  |
 | [Vices Like Vipers](https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [When I Am God](https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41) | 4:18 | 2024-05-16 |  |
 | [We Stand](https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:47 | 2024-04-23 | 2024-09-13 |
-| [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 | 2024-04-23 | 2024-10-02 |
+| [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 | 2024-04-23 |  |
 | [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 | 2024-09-20 |
 | [White Light](https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 4:50 | 2024-04-23 | 2024-05-16 |
 | [With A Thousand Words To Say But One](https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Undoing Ruin](https://open.spotify.com/album/3CpqdDHKPxCakKYu5XP2SU) | 4:22 | 2024-04-23 | 2024-05-25 |

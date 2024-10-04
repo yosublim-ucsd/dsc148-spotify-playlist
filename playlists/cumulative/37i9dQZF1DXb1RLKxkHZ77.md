@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Aina Abdul, Fabio Asher
 
-541 songs - 1 day 10 hr 3 min
+542 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-05-25 | 2022-09-22 |
 | [Luarbiasa](https://open.spotify.com/track/35gZphaBnnB6DuEtpKVK5g) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Luarbiasa](https://open.spotify.com/album/1KZaQnfO2XgQRj75cMtEej) | 3:34 | 2023-07-19 | 2023-09-21 |
 | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/track/1sAKfmljlUdzXAQWVaZrQu) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/album/4HrkoTSYeJ6xigRys3tGV5) | 3:46 | 2022-10-20 | 2022-12-15 |
+| [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 | 2024-10-03 |  |
 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 | 2023-02-16 | 2023-03-09 |
 | [Mahal](https://open.spotify.com/track/6jApe6bgRfAOYRsiaQ4Bxg) | [Sophia Liana](https://open.spotify.com/artist/4Xmv5ukMoLnot3CkVwP4tK) | [Mahal](https://open.spotify.com/album/7HmhjRmY94VdQBgvHy5ylc) | 2:36 | 2024-05-15 | 2024-06-13 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-29 | 2024-07-18 |
@@ -465,7 +466,7 @@
 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/5ZJmUtcIlpIdxiruIENBO7) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/album/1GkBzveJ8lNLXTgnJzHr8W) | 3:45 | 2022-08-10 | 2023-02-16 |
 | [Seribu Tahun](https://open.spotify.com/track/1Wo3RhG2UJ9dSUXBdh1e9p) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Seribu Tahun](https://open.spotify.com/album/0EnV3HENUUFrA4958YWDCv) | 3:35 | 2023-11-29 | 2024-01-25 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-02-01 | 2024-06-13 |
-| [Sesal Tak Bermakna](https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Sesal Tak Bermakna](https://open.spotify.com/album/2RfYAJP8TlLV5TIN5Rr60I) | 3:54 | 2024-08-28 |  |
+| [Sesal Tak Bermakna](https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Sesal Tak Bermakna](https://open.spotify.com/album/2RfYAJP8TlLV5TIN5Rr60I) | 3:54 | 2024-08-28 | 2024-10-04 |
 | [sesuatu](https://open.spotify.com/track/60ohcWMOVwGmOxhDsrf1Xx) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [sesuatu](https://open.spotify.com/album/6V1qgjtkeQcggssG80wkpL) | 3:36 | 2024-06-04 | 2024-06-20 |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-27 | 2024-02-15 |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-08 | 2023-10-01 |

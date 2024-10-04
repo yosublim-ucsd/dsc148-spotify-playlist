@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=2LwdgClJSy-LWkCQY29eeg\">Ivan Roux</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe?si=Ui9RM25sQ3quVOKlNu9xhQ\">Ruhan Du Toit</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 230163,
       "name": "Boer In My Hart",
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
@@ -1864,6 +1864,24 @@
       "duration_ms": 202348,
       "name": "Kalahari Ferrari",
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
+    },
+    {
+      "album": {
+        "name": "Kan 'N Man",
+        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169164,
+      "name": "Kan 'N Man",
+      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
     },
     {
       "album": {

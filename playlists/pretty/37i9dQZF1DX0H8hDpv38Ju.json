@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 827968,
+  "num_followers": 828027,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 239026,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
+      "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "Don't Disturb This Groove",
+        "url": "https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ"
       },
       "artists": [
         {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
         }
       ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+      "duration_ms": 317874,
+      "name": "Don't Disturb This Groove",
+      "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "Don't Disturb This Groove",
-        "url": "https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ"
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
       "artists": [
         {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 317874,
-      "name": "Don't Disturb This Groove",
-      "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
     },
     {
       "added_at": "2021-04-01 19:37:56",

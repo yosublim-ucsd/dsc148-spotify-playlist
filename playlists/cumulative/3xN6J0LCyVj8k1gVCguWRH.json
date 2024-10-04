@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 226499,
       "name": "All You Are (Atharva Iyer Remix)",
       "url": "https://open.spotify.com/track/7Io6TttF0Azr4lS6Kw1hp2"
@@ -4306,6 +4306,24 @@
     {
       "album": {
         "name": "Anything",
+        "url": "https://open.spotify.com/album/4wD5wHjGmC2OmReYsALMLO"
+      },
+      "artists": [
+        {
+          "name": "Gray Hawken",
+          "url": "https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137756,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/2kGkt05RoVzZEK9vfAUhKN"
+    },
+    {
+      "album": {
+        "name": "Anything",
         "url": "https://open.spotify.com/album/1TTeDQLsUdfZGOPwtAejFx"
       },
       "artists": [
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181666,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi"
@@ -32458,7 +32476,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190495,
       "name": "If Love Is A Feeling",
       "url": "https://open.spotify.com/track/47e2Qns1ODgJ78uuu3IwOL"
@@ -48819,6 +48837,24 @@
     },
     {
       "album": {
+        "name": "One More Change",
+        "url": "https://open.spotify.com/album/1EaDcTXc8A4bFxk91lyBXm"
+      },
+      "artists": [
+        {
+          "name": "James Tonic",
+          "url": "https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140633,
+      "name": "One More Change",
+      "url": "https://open.spotify.com/track/7KOOTo9OlBH9DuN6rYbOVL"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j"
       },
@@ -49812,6 +49848,24 @@
       "duration_ms": 213930,
       "name": "OVERTAKE",
       "url": "https://open.spotify.com/track/1NovfWWLFMVrj8ie4NnsWR"
+    },
+    {
+      "album": {
+        "name": "Overthinker",
+        "url": "https://open.spotify.com/album/649JaaO61K5jFB8KlSDBUS"
+      },
+      "artists": [
+        {
+          "name": "Robine",
+          "url": "https://open.spotify.com/artist/3aOOs1Fpat1irkpL0o2weU"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171850,
+      "name": "Overthinker",
+      "url": "https://open.spotify.com/track/0HewxPGtFmZIeoCsyyK2na"
     },
     {
       "album": {
@@ -61920,7 +61974,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 238168,
       "name": "Summer Girl (Redux)",
       "url": "https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr"
@@ -74818,7 +74872,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 255999,
       "name": "Yellow & Blue",
       "url": "https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu"

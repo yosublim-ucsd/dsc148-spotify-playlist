@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8196,
+  "num_followers": 8198,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAAARkvf8/dWkkHpfWBe1L7YT",
+  "snapshot_id": "ZvyNAAAAAABZUZaF1EerVA1M2FD6FYaT",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Sum",
-        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
-      "url": "https://open.spotify.com/track/1YPgVZ3eAZeTG2gmtPjAjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosmic Intoxication",
         "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218506,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Sum",
+        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
+      "url": "https://open.spotify.com/track/1YPgVZ3eAZeTG2gmtPjAjg"
     },
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homegrown (Deluxe)",
+        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Say Yes (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Sum",
         "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/0QWvAEwk9l5MNJtyjAygmP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homegrown (Deluxe)",
-        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Say Yes (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
     },
     {
       "added_at": null,

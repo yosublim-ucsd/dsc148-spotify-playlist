@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Levity",
-  "num_followers": 978243,
+  "num_followers": 978247,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
       "added_at": "2024-04-05 04:00:45",
       "album": {
         "name": "Waves",
@@ -1655,6 +1639,22 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1917,6 +1917,30 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Tick Tock",
+        "url": "https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        },
+        {
+          "name": "ILLAMAN",
+          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/6Ial5CnsybgyeA5NN9UPyU"
+    },
+    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -1935,22 +1959,6 @@
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Young Majestic",
-        "url": "https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "Young Majestic",
-      "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1975,6 +1983,22 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Young Majestic",
+        "url": "https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "Young Majestic",
+      "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
     },
     {
       "added_at": "2024-07-05 04:16:33",
@@ -2011,22 +2035,6 @@
       "duration_ms": 187586,
       "name": "Danger - REAPER Remix",
       "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 176145,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2113,20 +2121,20 @@
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
-      "added_at": "2024-04-05 04:00:45",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "i hate edm",
-        "url": "https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
       },
       "artists": [
         {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 107586,
-      "name": "i hate edm",
-      "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
+      "duration_ms": 176145,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,294 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,296 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 32 | [Christmas Groove](https://open.spotify.com/track/0H925kYkEofwvF8g2oIos1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:28 |
 | 33 | [Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3BYHK4VjNEVZtxe515Lmo1) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Additional Singles & Rarities](https://open.spotify.com/album/7E8r5mQVnxBuidh27r4VRC) | 2:40 |
 | 34 | [Someday At Christmas](https://open.spotify.com/track/4FJscysNlC9Z7zXYWSTZ01) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 3:06 |
-| 35 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \- Expanded Edition](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
+| 35 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
 | 36 | [Christmas Love](https://open.spotify.com/track/2vETTjXh0QRlkUETTlcbOg) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Peace](https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW) | 3:11 |
 | 37 | [Please Come Home For Christmas](https://open.spotify.com/track/4HUdkm40HF71UoI9vEcUvb) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Moonlight, Mistletoe & You](https://open.spotify.com/album/4WHOuSpXAyUDIAseXOA0jc) | 2:58 |
 | 38 | [I'll Be Your Santa Baby](https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:35 |

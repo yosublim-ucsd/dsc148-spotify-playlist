@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 27 | [The Devil To Pay](https://open.spotify.com/track/4z6uU6l22n0c9Vdgc9A7IQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:27 |
 | 28 | [Sugar Man](https://open.spotify.com/track/3pPtn3xSC0qwiWr8rx1YzZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs) | 4:00 |
 | 29 | [Broken Freedom Song](https://open.spotify.com/track/7nCpQib8FfMnkFPJ28H7Hr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 5:23 |
-| 30 | [The Loving Gift](https://open.spotify.com/track/2mo1Nfgp4MV88f90tVkv2e) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Any Old Wind That Blows](https://open.spotify.com/album/2ySyO481ooJMsdhPUu2Gsq) | 2:14 |
-| 31 | [Who's to Bless and Who's to Blame](https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 3:29 |
+| 30 | [Who's to Bless and Who's to Blame](https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 3:29 |
+| 31 | [The Loving Gift](https://open.spotify.com/track/2mo1Nfgp4MV88f90tVkv2e) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Any Old Wind That Blows](https://open.spotify.com/album/2ySyO481ooJMsdhPUu2Gsq) | 2:14 |
 | 32 | [The Junkie and the Juicehead, Minus Me](https://open.spotify.com/track/4hBbG1jBxKKhvqyZUhnyjW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:21 |
 | 33 | [The Law Is for Protection of the People](https://open.spotify.com/track/6im9fu4Vf7SsIbGBwCjFSP) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:37 |
 | 34 | [Shadows of Her Mind](https://open.spotify.com/track/0pInGbWIuPLQLJ7NgUQ3K2) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 45 | [Epitaph \(Black and Blue\)](https://open.spotify.com/track/4VB6c87xWGGEE77ezRYm2X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:25 |
 | 46 | [I Believe That I Believe \- Demo](https://open.spotify.com/track/5FNUsw4nfbHS2KOcfyRV0s) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:41 |
 | 47 | [Duvalier's Dream](https://open.spotify.com/track/18AMFmyINonaT125BWmUth) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:55 |
-| 48 | [A Song I'd Like To Sing](https://open.spotify.com/track/53aAtPr0aC6xZzLYBULWwm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Full Moon \- Expanded Edition](https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF) | 4:01 |
-| 49 | [Somebody Nobody Knows](https://open.spotify.com/track/4CWwfDfiMfZjcIhOC7CywH) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:35 |
+| 48 | [Somebody Nobody Knows](https://open.spotify.com/track/4CWwfDfiMfZjcIhOC7CywH) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:35 |
+| 49 | [A Song I'd Like To Sing](https://open.spotify.com/track/53aAtPr0aC6xZzLYBULWwm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Full Moon \- Expanded Edition](https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF) | 4:01 |
 | 50 | [Jesse Younger](https://open.spotify.com/track/0N0B5BV4S5DoutfXlPVzWr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs) | 2:41 |
 | 51 | [I May Smoke Too Much](https://open.spotify.com/track/6ZJBCK9kOHZWuYWu4npuzE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:08 |
 | 52 | [Stagger Mountain Tragedy](https://open.spotify.com/track/5yDmUIJuOPv0n23XZfJHnK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 61 | [Lonesome Way of Dying \- Demo](https://open.spotify.com/track/4YgUSFWgKoqL248dwPyD0b) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:42 |
 | 62 | [I Can Be Had \- Demo](https://open.spotify.com/track/5iSNTwfMgmSu2C977Zr8Ly) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:29 |
 | 63 | [No One's Gonna Miss Me \- Demo](https://open.spotify.com/track/0bCzMmdJfIfK3nKR7BKbds) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:55 |
-| 64 | [File It Under Sick and Wrong \- Demo](https://open.spotify.com/track/30miSJsqmdmIPxG5s8hvgb) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:21 |
-| 65 | [Golden Idol](https://open.spotify.com/track/2c665yi9hjsQdBOOpm1Iod) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:20 |
+| 64 | [Golden Idol](https://open.spotify.com/track/2c665yi9hjsQdBOOpm1Iod) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:20 |
+| 65 | [File It Under Sick and Wrong \- Demo](https://open.spotify.com/track/30miSJsqmdmIPxG5s8hvgb) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:21 |
 | 66 | [Where She Stops Nobody Knows \- Demo](https://open.spotify.com/track/6niVdMDAFBLfPFrNva1QTb) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 3:19 |
 | 67 | [Killing Time \- Single Version](https://open.spotify.com/track/4W1EITJUQpJzAI0rTHlZR0) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:28 |
 | 68 | [Shake Hands With the Devil](https://open.spotify.com/track/0fFMQYs2PAqJ6i21S0GYHk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:29 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AbdvHgAAAABbp14q8/t4zKRE5omKh9OY`
+Snapshot ID: `Abd0tAAAAAA93jEu85JNBJ+nmHtJ9Xbm`

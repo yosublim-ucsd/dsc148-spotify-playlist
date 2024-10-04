@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "VISION 2020",
+        "url": "https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy"
+      },
+      "artists": [
+        {
+          "name": "Vallerie Muthoni",
+          "url": "https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194969,
+      "name": "IF I DO, IF I DON'T",
+      "url": "https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat"
+    },
+    {
+      "album": {
         "name": "Iko Top",
         "url": "https://open.spotify.com/album/2pwOODrDsMPeUfommbixIU"
       },
@@ -4754,7 +4772,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 186462,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF"

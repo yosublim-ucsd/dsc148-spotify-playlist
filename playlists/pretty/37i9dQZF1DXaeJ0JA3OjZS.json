@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 140820,
+  "num_followers": 140964,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Cuadra los Parientes - En Vivo",
-      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos De Caballos Famosos",
         "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 233613,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Cuadra los Parientes - En Vivo",
+      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Corrido Del Payaso",
-      "url": "https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 186720,
       "name": "El Demonio",
       "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Corrido Del Payaso",
+      "url": "https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Oak Tree Special",
-      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Oak Tree Special",
+      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
         }
       ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
       "artists": [
         {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
         }
       ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -751,38 +751,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "El Caballo Robado",
         "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
@@ -807,18 +775,34 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
       "artists": [
         {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+      },
+      "artists": [
+        {
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Joan Sebastian Con Tambora (Vol. 3)",
         "url": "https://open.spotify.com/album/7L7ikrl8D5MM1xfi76KI2q"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 278058,
       "name": "Manuel Juarez",
       "url": "https://open.spotify.com/track/42RbwgUrgljhwMM3ZWMYJn"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Las Tres Tumbas",
-        "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Eran Cuatro de a Caballo",
-      "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 211199,
       "name": "Carrera a Muerte",
       "url": "https://open.spotify.com/track/1uQ3jnkTvAnObnBgsv8m8U"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
     },
     {
       "added_at": "2024-09-20 06:00:00",

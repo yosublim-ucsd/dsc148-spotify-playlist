@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-258 songs - 17 hr 7 min
+259 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blues for Robin](https://open.spotify.com/track/1amEsAgR9loL4QfCogIfrN) | [Mr PC Ska Jazz](https://open.spotify.com/artist/1PyQqHVbuB2SQwc96QjjsC) | [Blues for Robin](https://open.spotify.com/album/79hknAqGjYgjs5g8pNBYVX) | 5:31 | 2022-05-06 | 2022-07-22 |
 | [Buen Día](https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Buen Día](https://open.spotify.com/album/3qmxnjvgxIJ6b7Q4lt7r2B) | 3:39 | 2022-05-06 | 2022-07-24 |
 | [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 | 2022-05-06 |  |
+| [Busca el Poder](https://open.spotify.com/track/480GtPpNqz2crSxW91USAT) | [Skunk Dojo](https://open.spotify.com/artist/3DyHw2EIdDDW0XpW5EjGAd) | [Busca el Poder](https://open.spotify.com/album/2SOaTxDTXwO98rpYR2y85p) | 3:37 | 2024-10-03 |  |
 | [Camino](https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Riddim](https://open.spotify.com/artist/5nisdlB1NfT6t8WI0ZMdMD), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL) | [Camino](https://open.spotify.com/album/0hXVulgHCX0EmJ8JUssR8E) | 3:41 | 2022-05-06 | 2022-07-29 |
 | [Campo Fértil](https://open.spotify.com/track/76eprM2bmafflgXekoYVdZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Alquímica](https://open.spotify.com/album/5IFNiViGeutEPzqWq0M0LY) | 4:09 | 2022-05-06 | 2022-07-25 |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2022-05-06 |  |
@@ -252,7 +253,7 @@
 | [Vibra Positiva](https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:19 | 2022-07-01 | 2023-03-03 |
 | [Vida Tu Eres Toda La Verdad](https://open.spotify.com/track/42fW6LZoL7gV0UkVrcN4D6) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Vida Tu Eres Toda La Verdad](https://open.spotify.com/album/5gRFrrYcSx0ZjgeamHjmXU) | 2:42 | 2022-05-06 | 2022-07-10 |
 | [Você Me Encantou Demais \- Ao Vivo](https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:31 | 2022-05-06 |  |
-| [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 | 2022-05-06 |  |
+| [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 | 2022-05-06 | 2024-10-04 |
 | [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-06 |  |
 | [Voy a Empezar \- En Vivo](https://open.spotify.com/track/3GDVlphGz67WZCrAIqhWAQ) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Vivo en Waikiki Roots](https://open.spotify.com/album/6oByxRETNsn0aeskrfd02q) | 4:19 | 2022-07-01 | 2022-07-15 |
 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 | 2022-05-06 | 2023-08-19 |

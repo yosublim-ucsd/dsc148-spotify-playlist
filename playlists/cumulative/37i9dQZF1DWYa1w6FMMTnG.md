@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-114 songs - 5 hr 30 min
+115 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Prince Ali \(Reprise\)](https://open.spotify.com/track/5BEItY9of9nR4zj51JO0jU) | [Jonathan Freeman](https://open.spotify.com/artist/2970T0VJFpIWMA2aZi6Lpi), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 1:07 | 2022-10-07 |  |
 | [Red](https://open.spotify.com/track/2SIq8DBT8ezjxarFag8Sf8) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Alex Boniello](https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:08 | 2024-08-02 |  |
 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 | 2022-10-07 |  |
+| [Remember Me \(Reunion\)](https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 | 2024-10-03 |  |
 | [Rest in Peace](https://open.spotify.com/track/3KH9W2vmr8uap6KTBDEFUO) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 1:52 | 2022-10-07 |  |
 | [Rotten to the Core](https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \- Original TV Movie Soundtrack](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:42 | 2022-10-07 |  |
 | [Sally's Song](https://open.spotify.com/track/0Zj3Ihs4nn3G3xZ2LKLEbP) | [Catherine O'Hara](https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 1:47 | 2022-10-07 |  |

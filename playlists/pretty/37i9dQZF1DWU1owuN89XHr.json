@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 278676,
+  "num_followers": 278719,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -977,26 +977,6 @@
       "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
-        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
-      },
-      "artists": [
-        {
-          "name": "Noel Nicola",
-          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
-        },
-        {
-          "name": "Santiago Feli\u00fa",
-          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Para una Imaginaria Mar\u00eda del Carmen",
-      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -1015,6 +995,26 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
+        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
+      },
+      "artists": [
+        {
+          "name": "Noel Nicola",
+          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
+        },
+        {
+          "name": "Santiago Feli\u00fa",
+          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Para una Imaginaria Mar\u00eda del Carmen",
+      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
     },
     {
       "added_at": "2021-07-29 16:46:05",

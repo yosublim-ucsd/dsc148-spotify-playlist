@@ -4,7 +4,7 @@
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-34 songs - 2 hr 14 min
+37 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,15 @@
 | [Boys Don’t Cry](https://open.spotify.com/track/2QxUePxZqeoBynXxt093Ts) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:15 | 2022-09-07 |  |
 | [Car Radio](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2022-05-06 |  |
 | [Cotton \- Jordan Lake Sessions Volume 2](https://open.spotify.com/track/0dFBG1Oau5620glIoIhhNn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 1 and 2](https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX) | 4:20 | 2023-03-03 |  |
+| [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 | 2024-10-03 |  |
+| [Cowboys Don’t Cry](https://open.spotify.com/track/04WxFTgT3bEvX1WOYzT5Ky) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 3:09 | 2024-10-03 |  |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |
 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 | 2023-01-03 |  |
 | [Home](https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Home](https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg) | 4:29 | 2022-05-06 |  |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2023-03-23 |  |
 | [I'll Make Cereal](https://open.spotify.com/track/7cZhrCKZRUPsDEK8PWR727) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:00 | 2022-05-06 |  |
 | [Jimmy](https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:43 | 2022-09-07 |  |
+| [Joke's On You!](https://open.spotify.com/track/6cJVMKdLr4vFGQmhl2Upyj) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:11 | 2024-10-03 |  |
 | [Lakeside View Apartments Suite](https://open.spotify.com/track/5Y7kurWaiHa8xqqF7NYI9t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 3:58 | 2023-03-23 |  |
 | [Matthew 25:21](https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Life Of The World To Come](https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS) | 5:50 | 2023-03-23 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2024-09-16 |  |

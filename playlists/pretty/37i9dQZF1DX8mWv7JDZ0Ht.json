@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem",
-  "num_followers": 435230,
+  "num_followers": 435314,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
+        "name": "ARRASTO",
+        "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
+      },
+      "artists": [
+        {
+          "name": "Rubia Divino",
+          "url": "https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 186700,
+      "name": "ARRASTO",
+      "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
@@ -579,6 +599,22 @@
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -619,42 +655,6 @@
       "duration_ms": 200315,
       "name": "CARAMELO E FLOR DE SAL",
       "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "ARRASTO",
-        "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
-      },
-      "artists": [
-        {
-          "name": "Rubia Divino",
-          "url": "https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 186700,
-      "name": "ARRASTO",
-      "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
         "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
         "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Com Acento ou Sem",
+        "url": "https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 248347,
+      "name": "Com Acento ou Sem",
+      "url": "https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -815,6 +831,26 @@
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Noites De Monza",
+        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 171311,
+      "name": "Noites De Monza",
+      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -871,22 +907,6 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "PAPA GOIABA",
-        "url": "https://open.spotify.com/album/6I9o8v26drBEujwqjriAl5"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 162915,
-      "name": "\u00c9 Paix\u00e3o",
-      "url": "https://open.spotify.com/track/2PK2LPKwdLDJDF0v30XhXT"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -899,6 +919,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "PAPA GOIABA",
+        "url": "https://open.spotify.com/album/6I9o8v26drBEujwqjriAl5"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 162915,
+      "name": "\u00c9 Paix\u00e3o",
+      "url": "https://open.spotify.com/track/2PK2LPKwdLDJDF0v30XhXT"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -919,8 +955,24 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
+      },
+      "artists": [
+        {
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
+        }
+      ],
+      "duration_ms": 205961,
+      "name": "S\u00f3 Sinto",
+      "url": "https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
@@ -928,29 +980,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Noites De Monza",
-        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 171311,
-      "name": "Noites De Monza",
-      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -971,38 +1003,6 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "Com Acento ou Sem",
-        "url": "https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "Com Acento ou Sem",
-      "url": "https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "S\u00f3 Sinto",
-        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
-      },
-      "artists": [
-        {
-          "name": "Cac\u00e1 Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
-        }
-      ],
-      "duration_ms": 205961,
-      "name": "S\u00f3 Sinto",
-      "url": "https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 172760,
       "name": "Embeleza o Meu Dia",
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1035,18 +1055,22 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1087,26 +1111,6 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
         "name": "Vis\u00edvel",
         "url": "https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO"
       },
@@ -1119,6 +1123,22 @@
       "duration_ms": 145371,
       "name": "Vis\u00edvel",
       "url": "https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1175,22 +1195,18 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+        "name": "Pq Vc Me Odeia Assim?",
+        "url": "https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm"
       },
       "artists": [
         {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
         }
       ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+      "duration_ms": 177077,
+      "name": "Pq Vc Me Odeia Assim?",
+      "url": "https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1207,106 +1223,6 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Bhangzwn",
-        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 205132,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "o que seria se...",
-        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 146339,
-      "name": "o que seria se...",
-      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Caetano",
-        "url": "https://open.spotify.com/album/2sXrM5agNPq05PLg8JaiKM"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Caetano",
-      "url": "https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1331,22 +1247,6 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "Pq Vc Me Odeia Assim?",
-        "url": "https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 177077,
-      "name": "Pq Vc Me Odeia Assim?",
-      "url": "https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5"
-    },
-    {
-      "added_at": "2024-09-27 13:21:03",
-      "album": {
         "name": "TUDO VAI SER COMO DEVE SER",
         "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
       },
@@ -1359,6 +1259,90 @@
       "duration_ms": 190026,
       "name": "Ficar de Leve",
       "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "o que seria se...",
+        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 146339,
+      "name": "o que seria se...",
+      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Bhangzwn",
+        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 205132,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Caetano",
+        "url": "https://open.spotify.com/album/2sXrM5agNPq05PLg8JaiKM"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Caetano",
+      "url": "https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-09-27 13:21:03",
       "album": {
-        "name": "\u00c1gua",
-        "url": "https://open.spotify.com/album/0OMwIxrERrlImmRrXlR2De"
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
         }
       ],
-      "duration_ms": 211917,
-      "name": "\u00c1gua",
-      "url": "https://open.spotify.com/track/2ocxIcVILdzLjK4DVKOORR"
+      "duration_ms": 155192,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
     },
     {
       "added_at": "2024-09-27 13:21:03",
@@ -1423,6 +1407,22 @@
       "duration_ms": 183529,
       "name": "Esfriou",
       "url": "https://open.spotify.com/track/1eMRfCKfPVEcgpBE6DtDmQ"
+    },
+    {
+      "added_at": "2024-09-27 13:21:03",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1G5ob1rdtY4ISrGVpV9qFm"
     },
     {
       "added_at": "2024-09-27 13:21:03",

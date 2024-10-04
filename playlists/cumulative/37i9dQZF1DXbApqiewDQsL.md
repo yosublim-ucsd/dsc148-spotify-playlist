@@ -4,7 +4,7 @@
 
 > Fresh new music by independent artists and labels, featuring ENANO  Updates every Wednesday.
 
-262 songs - 13 hr 57 min
+263 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-03-10 | 2024-04-24 |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-12-01 | 2024-04-24 |
 | [El Mañas](https://open.spotify.com/track/6GCJ6s6AODlHYpAGYNRW4c) | [Grupo MVP](https://open.spotify.com/artist/1xfr7QVmJN7w3xpjeT2ndd) | [El Mañas](https://open.spotify.com/album/7uh85cOMhKIOeZd6fgrwpP) | 2:44 | 2024-08-07 | 2024-10-03 |
-| [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-28 |  |
+| [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-28 |  |
 | [El Peine](https://open.spotify.com/track/3iRvVMHgagZIHfnclCqBUJ) | [Daniel De la H](https://open.spotify.com/artist/4kADDt5bRxbPOty8EcApCS), [Juan Olivas](https://open.spotify.com/artist/4hMvVAl5Fd1Cct3sIfBpjS) | [El Peine](https://open.spotify.com/album/1XeKe4JCD4YoYygFnYahWb) | 2:59 | 2024-08-14 |  |
 | [El Perro](https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Perro](https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp) | 2:04 | 2024-04-24 | 2024-08-08 |
 | [El Tocayo](https://open.spotify.com/track/0dXSBVh8fO4U15rWz7A77I) | [Clave Exclusiva](https://open.spotify.com/artist/3djmqRcaEmEqYM3pMLsXod) | [El Tocayo](https://open.spotify.com/album/3DDaPqcmknhqrTfUc3OSVI) | 3:29 | 2024-08-07 |  |
@@ -187,6 +187,7 @@
 | [Pariente](https://open.spotify.com/track/6iqJbVamMn0NbwuZksgd87) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pariente \(feat\. Myke Towers\)](https://open.spotify.com/album/6IMsNvJL8JDEBrhZqjzO8U) | 3:04 | 2023-05-05 | 2024-04-24 |
 | [PARIS A TULUM](https://open.spotify.com/track/0VdoBqPKVOUZgFPAWhz8Ll) | [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0) | [BEVERLY](https://open.spotify.com/album/7CjYSoEiBZ7fQyzNXAyMat) | 3:25 | 2024-09-18 |  |
 | [Pensar en Ti \(Remix\)](https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pensar en Ti \(Remix\)](https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK) | 4:02 | 2022-06-24 | 2024-04-24 |
+| [Perdon](https://open.spotify.com/track/3d7UBmE0KV3RV0Ak6l7I9J) | [Jay Primera](https://open.spotify.com/artist/72nZ9Zjt795lmIuu3sg4IT) | [Perdon](https://open.spotify.com/album/7tMoCci4tAM3lHhp2HVb98) | 2:53 | 2024-10-02 |  |
 | [Perdóname](https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:20 | 2024-04-24 | 2024-08-08 |
 | [Phantom](https://open.spotify.com/track/7BzapBrltAxadCwlj9uZke) | [Ian Ojeda](https://open.spotify.com/artist/3vCDzBP1fanLfEruKv9jtf) | [Phantom](https://open.spotify.com/album/6AvCG00VKzpSITzXm1LNoS) | 3:02 | 2024-09-18 |  |
 | [Pharrel](https://open.spotify.com/track/4OIVWgXFkFU0mKBmOculnm) | [Danny Talavera](https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV) | [Pharrel](https://open.spotify.com/album/0pmanb2jccrOzcOVSKSlzq) | 3:23 | 2024-08-07 |  |

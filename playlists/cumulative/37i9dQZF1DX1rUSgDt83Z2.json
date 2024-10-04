@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Dansen In Gedachten",
+        "url": "https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175495,
+      "name": "Dansen In Gedachten",
+      "url": "https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV"
+    },
+    {
+      "album": {
         "name": "Dansen Om Het Vuur",
         "url": "https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147226,
       "name": "Huil maar niet om mij",
       "url": "https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa"
@@ -774,10 +792,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 221822,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
+    },
+    {
+      "album": {
+        "name": "Nooit Meer",
+        "url": "https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Borelli",
+          "url": "https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179740,
+      "name": "Nooit Meer",
+      "url": "https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is De Saloon. Los temas esenciales, todos en una lista.",
-  "num_followers": 17381,
+  "num_followers": 17388,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAABesIe3AmCfTIqcR3xILrKZ",
+  "snapshot_id": "ZvyNAAAAAAAKpbzPSePAwWhI3Hh54n3d",
   "tracks": [
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 231986,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6"
+      "duration_ms": 315986,
+      "name": "Te Mueres",
+      "url": "https://open.spotify.com/track/5fbpZGY5TZ3bRhkQqTOSj0"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 315986,
-      "name": "Te Mueres",
-      "url": "https://open.spotify.com/track/5fbpZGY5TZ3bRhkQqTOSj0"
+      "duration_ms": 231986,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6"
     },
     {
       "added_at": null,

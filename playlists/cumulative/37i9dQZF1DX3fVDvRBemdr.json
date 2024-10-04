@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Django Wagner",
+  "description": "De nieuwste Hollandse hits. Cover: Yves Berendse & Emma Heesters",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -204,10 +204,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 167204,
       "name": "Beest Van De Nacht",
       "url": "https://open.spotify.com/track/5YO1IkuNsOvyJsrtAQyWJK"
+    },
+    {
+      "album": {
+        "name": "Beest Van De Stad",
+        "url": "https://open.spotify.com/album/0Fq9rLbfLO2wTXXk5ZtW01"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158430,
+      "name": "Beest Van De Stad",
+      "url": "https://open.spotify.com/track/7wb8rCZUJjrSTRY3eJytyq"
     },
     {
       "album": {
@@ -244,6 +262,24 @@
       "duration_ms": 186110,
       "name": "Bella Ciao, Mi Amor",
       "url": "https://open.spotify.com/track/2dbmRqI1LocIYRLiTk4SiD"
+    },
+    {
+      "album": {
+        "name": "Beter Af Alleen",
+        "url": "https://open.spotify.com/album/5nW6DK4CfTp6Z5vUj8TQKp"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "Beter Af Alleen",
+      "url": "https://open.spotify.com/track/095QobOSVFoh2sg3cZRhRa"
     },
     {
       "album": {
@@ -302,6 +338,24 @@
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
+    },
+    {
+      "album": {
+        "name": "Breng Mij Haar Terug 2.0",
+        "url": "https://open.spotify.com/album/3VlyoTh18zv550jRfFolNy"
+      },
+      "artists": [
+        {
+          "name": "Mannes",
+          "url": "https://open.spotify.com/artist/19YKFbXG9Gj6RwcUyEyRI5"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193644,
+      "name": "Breng Mij Haar Terug 2.0",
+      "url": "https://open.spotify.com/track/5FTJMcXucbckFw56yFwcWA"
     },
     {
       "album": {
@@ -570,7 +624,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173684,
       "name": "Frans Thuis",
       "url": "https://open.spotify.com/track/2Hd5d3K74UMj0GGcrIousD"
@@ -960,7 +1014,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 128386,
       "name": "Insta Live",
       "url": "https://open.spotify.com/track/7sfwT3gehKU9LmdWw6iZGd"
@@ -1036,7 +1090,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189739,
       "name": "Jij en Ik",
       "url": "https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7"
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 176575,
       "name": "Jij en Ik met Z'n Twee",
       "url": "https://open.spotify.com/track/6XvkdaXGluguBki0kBkXAK"
@@ -1391,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136133,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
+    },
+    {
+      "album": {
         "name": "Maandag",
         "url": "https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW"
       },
@@ -1550,7 +1622,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 179740,
       "name": "Nooit Meer",
       "url": "https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P"
@@ -1604,7 +1676,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 161282,
       "name": "O Ya L\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/02PkufbhBgxhNO5Su1Z7Qu"
@@ -1658,7 +1730,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 151723,
       "name": "Oh Wat Een Leven",
       "url": "https://open.spotify.com/track/3gdUWJ3TfuxtsJJ3DOYa6T"
@@ -1738,7 +1810,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147656,
       "name": "Op Een Dag (Gaan We Allemaal Naar De Hemel)",
       "url": "https://open.spotify.com/track/40a6NAAIlG33ZmKdI1JSxO"
@@ -1760,6 +1832,24 @@
       "duration_ms": 156249,
       "name": "Op E\u00e9n Been",
       "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+    },
+    {
+      "album": {
+        "name": "Pak me vast",
+        "url": "https://open.spotify.com/album/74xxchSozwAV6nzQy6kTxX"
+      },
+      "artists": [
+        {
+          "name": "Henk Bernard",
+          "url": "https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177627,
+      "name": "Pak me vast",
+      "url": "https://open.spotify.com/track/6juG98n2oIp704jO1N4vqT"
     },
     {
       "album": {
@@ -2006,7 +2096,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 179533,
       "name": "Tranen Zijn Niet Alleen Om Te Huilen",
       "url": "https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6"

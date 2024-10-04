@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 217296,
+  "num_followers": 217336,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LpC0yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LpIGSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
         "url": "https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5tK3SkH5DfO24oo9Iw2Fq3"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "S\u00e5 l\u00e6nge jeg er sexy.",
         "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -157,7 +157,47 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "4 LIFE",
+        "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "4 LIFE",
+      "url": "https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "B\u00f8rn Af Natten (Hola Bonita)",
         "url": "https://open.spotify.com/album/7jE9aP0aQYJXVHmBOs1vdv"
@@ -181,63 +221,7 @@
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "4 LIFE",
-        "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "4 LIFE",
-      "url": "https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "CLEOPATRA",
-        "url": "https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -253,7 +237,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -273,7 +257,23 @@
       "url": "https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "CLEOPATRA",
+        "url": "https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Dark Room (feat. ICEKIID)",
         "url": "https://open.spotify.com/album/7wwyWVyOkb8KVIp32Ocd4u"
@@ -293,27 +293,7 @@
       "url": "https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Hvor Solen Ik' Skinner",
-        "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        },
-        {
-          "name": "Svea S",
-          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
-        }
-      ],
-      "duration_ms": 164054,
-      "name": "Hvor Solen Ik' Skinner",
-      "url": "https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
@@ -333,27 +313,27 @@
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "KENNY",
-        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+        "name": "Hvor Solen Ik' Skinner",
+        "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
       },
       "artists": [
         {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
         },
         {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
         }
       ],
-      "duration_ms": 123628,
-      "name": "Booty Up",
-      "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
+      "duration_ms": 164054,
+      "name": "Hvor Solen Ik' Skinner",
+      "url": "https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Signaler",
         "url": "https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e"
@@ -373,7 +353,7 @@
       "url": "https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Rick Ross Pt. 2",
         "url": "https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE"
@@ -393,7 +373,27 @@
       "url": "https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "KENNY",
+        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 123628,
+      "name": "Booty Up",
+      "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -429,23 +429,7 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Ik T\u00e6nk",
-        "url": "https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
-        }
-      ],
-      "duration_ms": 153907,
-      "name": "Ik T\u00e6nk",
-      "url": "https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -461,103 +445,23 @@
       "url": "https://open.spotify.com/track/0JNId7jvCkTxcDBP30oO72"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "SkyLL",
-        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+        "name": "Ik T\u00e6nk",
+        "url": "https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
         }
       ],
-      "duration_ms": 157396,
-      "name": "Enzym",
-      "url": "https://open.spotify.com/track/3si7UZZOexWouq557iyRyD"
+      "duration_ms": 153907,
+      "name": "Ik T\u00e6nk",
+      "url": "https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Jylland",
-        "url": "https://open.spotify.com/album/1g9JFulc8UWHOAzL6dy22d"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Jylland",
-      "url": "https://open.spotify.com/track/2CsNcwVW6fUabGB0E4ASjF"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "En Sammen",
-        "url": "https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 165153,
-      "name": "En Sammen",
-      "url": "https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Elsker Dig S\u00e5 Meget",
         "url": "https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR"
@@ -573,23 +477,87 @@
       "url": "https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "Dopamin",
-        "url": "https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs"
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 148758,
-      "name": "Dopamin",
-      "url": "https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Jylland",
+        "url": "https://open.spotify.com/album/1g9JFulc8UWHOAzL6dy22d"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Jylland",
+      "url": "https://open.spotify.com/track/2CsNcwVW6fUabGB0E4ASjF"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "SkyLL",
+        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 157396,
+      "name": "Enzym",
+      "url": "https://open.spotify.com/track/3si7UZZOexWouq557iyRyD"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "K\u00f8benhavn (feat. Suspekt & Benjamin Hav)",
         "url": "https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o"
@@ -617,23 +585,23 @@
       "url": "https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "Alt Ved Dig",
-        "url": "https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY"
+        "name": "Dopamin",
+        "url": "https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
         }
       ],
-      "duration_ms": 141910,
-      "name": "Alt Ved Dig",
-      "url": "https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj"
+      "duration_ms": 148758,
+      "name": "Dopamin",
+      "url": "https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
@@ -649,43 +617,23 @@
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
+        "name": "En Sammen",
+        "url": "https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV"
       },
       "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Bellevue (feat. D1MA)",
-        "url": "https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
         {
           "name": "D1MA",
           "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
         }
       ],
-      "duration_ms": 154611,
-      "name": "Bellevue (feat. D1MA)",
-      "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
+      "duration_ms": 165153,
+      "name": "En Sammen",
+      "url": "https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
@@ -705,23 +653,59 @@
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+        "name": "Du og jeg",
+        "url": "https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
         }
       ],
-      "duration_ms": 155511,
-      "name": "Tak For Sidst",
-      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
+      "duration_ms": 235621,
+      "name": "Du og jeg",
+      "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Bellevue (feat. D1MA)",
+        "url": "https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 154611,
+      "name": "Bellevue (feat. D1MA)",
+      "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -737,7 +721,23 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Alt Ved Dig",
+        "url": "https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 141910,
+      "name": "Alt Ved Dig",
+      "url": "https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/73zOFtYHgdFMk25Y0B9gbB"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -773,23 +773,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Du og jeg",
-        "url": "https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 235621,
-      "name": "Du og jeg",
-      "url": "https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -805,39 +789,23 @@
       "url": "https://open.spotify.com/track/1jLhTnPNrMrEbQy3MIo2pR"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         }
       ],
-      "duration_ms": 208934,
-      "name": "De Her Timer",
-      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
+      "duration_ms": 155511,
+      "name": "Tak For Sidst",
+      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
-      "album": {
-        "name": "Giv Mig Alt",
-        "url": "https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 202571,
-      "name": "Giv Mig Alt",
-      "url": "https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d"
-    },
-    {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -873,7 +841,39 @@
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "Giv Mig Alt",
+        "url": "https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 202571,
+      "name": "Giv Mig Alt",
+      "url": "https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
+      "album": {
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "De Her Timer",
+      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
+    },
+    {
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
@@ -893,23 +893,23 @@
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
-        "name": "SkyLL",
-        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+        "name": "DIN D***",
+        "url": "https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
         }
       ],
-      "duration_ms": 256540,
-      "name": "AtG\u00f8reEtBarnTilEnVinder",
-      "url": "https://open.spotify.com/track/4JxwrkET83FW3AbmSJXgJd"
+      "duration_ms": 150013,
+      "name": "DIN D***",
+      "url": "https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR"
     },
     {
-      "added_at": "2024-10-02 15:30:33",
+      "added_at": "2024-10-03 12:48:13",
       "album": {
         "name": "Hej",
         "url": "https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S"

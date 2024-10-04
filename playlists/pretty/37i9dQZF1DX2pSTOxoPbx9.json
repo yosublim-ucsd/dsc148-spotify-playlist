@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 831509,
+  "num_followers": 831617,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -511,8 +511,8 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "Take Me to Church EP",
+        "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+      "duration_ms": 218986,
+      "name": "Angel of Small Death and the Codeine Scene",
+      "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -607,8 +607,8 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Take Me to Church EP",
-        "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 218986,
-      "name": "Angel of Small Death and the Codeine Scene",
-      "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "When You're Ready",
-        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 162673,
-      "name": "Take The Journey",
-      "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "When You're Ready",
+        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "Take The Journey",
+      "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Marked for Death",
         "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Glass Balloon",
-        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
-      },
-      "artists": [
-        {
-          "name": "Twin Caverns",
-          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
-        }
-      ],
-      "duration_ms": 243667,
-      "name": "Swell",
-      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Coming of Age (demo)",
         "url": "https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Glass Balloon",
+        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
+      },
+      "artists": [
+        {
+          "name": "Twin Caverns",
+          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/1XbUCqvbc6RVvnk8as2U6H"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/4qFh1e9S1WjklXE1TKAPU7"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/1XbUCqvbc6RVvnk8as2U6H"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/4qFh1e9S1WjklXE1TKAPU7"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 311025,
+      "name": "Stakes",
+      "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
         "name": "Appointments",
         "url": "https://open.spotify.com/album/1ZExlkzIzjd2FbcCvkTi0J"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 262533,
       "name": "Byegone",
       "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE"
     }
   ],
   "unique_name": "Dark & Stormy",

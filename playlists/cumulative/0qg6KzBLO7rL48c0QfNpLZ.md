@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-693 songs - 1 day 6 hr 51 min
+695 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Murder on the Dancefloor](https://open.spotify.com/track/0unH8JCzUGSmsFRJToa1XN) | [Vic Laos](https://open.spotify.com/artist/2AfOxybw9BWMYy0PqvQwYF), [Emilie McDade](https://open.spotify.com/artist/00oNxjpUQRUVaym7qTUvrt) | [Murder on the Dancefloor](https://open.spotify.com/album/7DkCkfMtF9T8YKZUQAhRYT) | 2:09 | 2024-09-27 |  |
 | [Mwaki](https://open.spotify.com/track/5bH36Z6xgdVpDNLPUjDFVS) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 3:28 | 2024-09-02 |  |
 | [My Forever Home](https://open.spotify.com/track/0doJSKDaAIO0vNCKZzThfi) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [My Forever Home](https://open.spotify.com/album/6tShRkoIOHuqKOX2L5z1tl) | 2:03 | 2024-02-02 | 2024-03-02 |
+| [My Lover](https://open.spotify.com/track/2mI3ZYo3JogblyOx6zDXAZ) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [My Lover](https://open.spotify.com/album/0TTkwLSkaU5nYsqNH5SXbL) | 2:40 | 2024-10-03 |  |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2024-01-08 | 2024-06-29 |
 | [Mélancolie d'été](https://open.spotify.com/track/2WJ87I8rZkXV4l2lh7oR86) | [Cordeliers](https://open.spotify.com/artist/7iuN1ZZCvhoHfnWOyjDxQw) | [Mélancolie d'été](https://open.spotify.com/album/2RdaNke1ZWWRxcGNOk9kvS) | 2:40 | 2024-08-30 | 2024-09-15 |
 | [Need](https://open.spotify.com/track/2a12zAH8K7OtI8KisWwUmy) | [SMVACK](https://open.spotify.com/artist/60TSzfEUarI9rCar7ByuRf) | [Need](https://open.spotify.com/album/27rraCIyLElRsZtVPF5t15) | 2:42 | 2024-05-02 |  |
@@ -681,6 +682,7 @@
 | [Wherever You Go](https://open.spotify.com/track/1a9Wg1Rtoj6flD9fMkIkVp) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [SAMI](https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara) | [Wherever You Go](https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE) | 2:29 | 2024-02-02 |  |
 | [While We're Young](https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [While We're Young](https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ) | 2:26 | 2024-07-05 |  |
 | [Who Do You Love](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA) | [Fedders](https://open.spotify.com/artist/3855hpvqzbzC5a2aESi23g), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Who Do You Love](https://open.spotify.com/album/3Wji1VJEurO045eJ4H92ea) | 3:16 | 2024-08-30 |  |
+| [Why You Lie](https://open.spotify.com/track/1ulrCTLaTiKa61FRGaAO0F) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [Why You Lie](https://open.spotify.com/album/3iwKrtHMgS9S8aFehqAWAo) | 3:00 | 2024-10-03 |  |
 | [Wicked Game](https://open.spotify.com/track/3GUTO72xMmBI05cHKion9x) | [Fabio Vee](https://open.spotify.com/artist/1KtT51ksm6OrjbhVOUyXMu), [Valentina Mey](https://open.spotify.com/artist/6JbK5mFNIMPcUIfsauhQ4q) | [Wicked Game](https://open.spotify.com/album/5CKOjmssOAhRWr2NzkCkYA) | 2:54 | 2024-08-16 |  |
 | [Wilder Woods](https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo) | [Wilder Woods](https://open.spotify.com/album/2wnToIZpxqYWIBscgjvlIO) | 2:50 | 2024-04-19 | 2024-08-10 |
 | [Wish You All the Best](https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Wish You All the Best](https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j) | 2:13 | 2024-01-18 | 2024-09-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This Is Sarkodie. Los temas esenciales, todos en una lista.",
+  "description": "This is Sarkodie. The essential tracks, all in one playlist.",
   "name": "This Is Sarkodie",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 171428,
       "name": "Burn My Cable II",
       "url": "https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7"
@@ -626,6 +626,28 @@
       "duration_ms": 223166,
       "name": "Can't Let You Go (feat. King Promise)",
       "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "album": {
+        "name": "Young & Matured",
+        "url": "https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202896,
+      "name": "Can't Stop (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym"
     },
     {
       "album": {

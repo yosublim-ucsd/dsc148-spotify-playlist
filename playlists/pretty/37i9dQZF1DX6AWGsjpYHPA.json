@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 155367,
+  "num_followers": 155421,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
       "artists": [
         {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "London. Paris. Berlin.",
+        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+      },
+      "artists": [
+        {
+          "name": "Shire T",
+          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "London. Paris. Berlin.",
+      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Akofa Akoussah",
-        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
-      },
-      "artists": [
-        {
-          "name": "Akofa Akoussah",
-          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
-        }
-      ],
-      "duration_ms": 233892,
-      "name": "I Tcho Tchass",
-      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Akofa Akoussah",
+        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
+      },
+      "artists": [
+        {
+          "name": "Akofa Akoussah",
+          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
+        }
+      ],
+      "duration_ms": 233892,
+      "name": "I Tcho Tchass",
+      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
     },
     {
       "added_at": "2024-07-26 04:00:00",

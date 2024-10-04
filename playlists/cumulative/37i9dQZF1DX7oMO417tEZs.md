@@ -4,7 +4,7 @@
 
 > gems from artists carving their own path\. cover: Hildegard
 
-1,350 songs - 3 day 2 hr 2 min
+1,351 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1347,6 +1347,7 @@
 | [Your Life](https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Your Life](https://open.spotify.com/album/6BGRw9Kw9IJ67A5CLUJc5o) | 5:00 | 2023-09-29 | 2024-01-13 |
 | [Your Love](https://open.spotify.com/track/0dEuMtJf1Ye9K1w50o1jaZ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Your Love](https://open.spotify.com/album/43hBts3RQ07RMDmlc83VLU) | 4:39 | 2022-03-04 | 2022-05-20 |
 | [Your Mom](https://open.spotify.com/track/5AgB4tWHgFBhVeYrZO7zUi) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 3:16 | 2022-05-06 | 2022-06-11 |
+| [YUGEN](https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [YUGEN](https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs) | 3:43 | 2024-09-27 |  |
 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 | 2023-03-31 | 2023-05-06 |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-04 |
 | [Zodiac](https://open.spotify.com/track/1WccyarZJvnRXMiwMrHRct) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL), [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Zodiac](https://open.spotify.com/album/4oNnLwtjoiaXDmxEaHkDlb) | 7:26 | 2022-06-17 | 2022-09-24 |

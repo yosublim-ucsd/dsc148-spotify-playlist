@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 5 hr 50 min
+124 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fede](https://open.spotify.com/track/2WYL6etkzaNnQUxvQ7KyYC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:42 | 2024-04-29 |  |
 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 | 2024-04-29 |  |
 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 | 2024-04-29 |  |
-| [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-05-04 |  |
+| [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-05-04 | 2024-10-04 |
+| [Forza](https://open.spotify.com/track/6pBQcX1h2HV1xTQWSM5uoF) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/5D1l4lOq3fOD1ONUCsuFZ5) | 3:12 | 2024-10-03 |  |
 | [Fossi come te](https://open.spotify.com/track/1Nj0Wf44yzoBUDfOxinMPV) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/2MzeGfG0UOrNnQ44igTAWO) | 3:03 | 2024-07-17 | 2024-09-15 |
 | [Fossi come te](https://open.spotify.com/track/4z9uPOAzOmvrvK2myXTBvx) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Fossi come te](https://open.spotify.com/album/2lxg3drmCXXmZxVcDKRr1P) | 3:03 | 2024-04-29 | 2024-05-13 |
 | [Fossi come te](https://open.spotify.com/track/5pafOHmAwdomCxamPvH4Rv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/3JzyaYeVAQhbiq3ALmlneb) | 3:03 | 2024-05-12 | 2024-07-18 |

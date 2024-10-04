@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "ART IS DEAD",
+        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214670,
+      "name": "ART IS DEAD",
+      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+    },
+    {
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 169512,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
@@ -5278,7 +5296,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
@@ -5830,6 +5848,28 @@
       "duration_ms": 199200,
       "name": "You Can't Stop Me",
       "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "album": {
+        "name": "Zware Jongens",
+        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
+      },
+      "artists": [
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Zware Jongens",
+      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ND264N08pv"

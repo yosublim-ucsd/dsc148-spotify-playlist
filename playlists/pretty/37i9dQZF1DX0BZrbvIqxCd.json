@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544247,
+  "num_followers": 544242,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Camp Kill Yourself, Vol.1",
         "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 201920,
       "name": "96 Quite Bitter Beings",
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Hello Exile",
         "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Thoughts and Prayers",
-        "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
+        "name": "Nothing Grows Here",
+        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
       },
       "artists": [
         {
-          "name": "Good Riddance",
-          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
         }
       ],
-      "duration_ms": 149591,
-      "name": "Precariat",
-      "url": "https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ"
+      "duration_ms": 256700,
+      "name": "Fools Gold",
+      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
     }
   ],
   "unique_name": "Punk Rock Workout",

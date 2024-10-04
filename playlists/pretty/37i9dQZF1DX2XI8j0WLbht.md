@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Caloncho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,169 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,176 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 71 | [Apasionadamente](https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Apasionadamente](https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl) | 3:00 |
 | 72 | [Por Los Caminos Del Sur](https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Vania Fortuna](https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF) | [Por Los Caminos Del Sur](https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689) | 2:38 |
 | 73 | [Hoy Vine Aquí](https://open.spotify.com/track/2apPcRsJaMNm8Bbsr9qDZP) | [Ramita de Cedro](https://open.spotify.com/artist/4QWlbXuMrZRkeRIKbsyRpJ), [RC](https://open.spotify.com/artist/6qRRkW7d2ptDGSc50FdxVZ) | [Ramita de Cedro](https://open.spotify.com/album/5VOnaIGOP0PruYLBwu7F0w) | 5:35 |
-| 74 | [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 |
+| 74 | [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 |
 | 75 | [Vas de Salida](https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Vas de Salida](https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN) | 3:02 |
 | 76 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
 | 77 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |

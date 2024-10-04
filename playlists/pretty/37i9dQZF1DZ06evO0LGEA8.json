@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 246575,
+  "num_followers": 246739,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvs7gAAAAABLUPJDYIdb9Sx9vNc07DaW",
+  "snapshot_id": "ZvyNAAAAAAD+KnAQXpjLSHOsej3eoQM+",
   "tracks": [
     {
       "added_at": null,
@@ -599,38 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico 20s",
         "url": "https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 202597,
       "name": "No que no eras fan",
       "url": "https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "added_at": null,
@@ -811,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locofon\u00edas",
-        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
-        {
-          "name": "Duende",
-          "url": "https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Quetzal",
-          "url": "https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        }
-      ],
-      "duration_ms": 360724,
-      "name": "Liga Malandra",
-      "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Fumando",
         "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 294504,
       "name": "Primero Lo Que Deja",
       "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Duende",
+          "url": "https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Quetzal",
+          "url": "https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 360724,
+      "name": "Liga Malandra",
+      "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
     },
     {
       "added_at": null,

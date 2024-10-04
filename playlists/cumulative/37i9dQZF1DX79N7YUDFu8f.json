@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/5ltFw9shfgX60qfErriunE"
@@ -568,6 +568,24 @@
       "duration_ms": 189306,
       "name": "Courtyard Theatre",
       "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
+    },
+    {
+      "album": {
+        "name": "Cover To Cover",
+        "url": "https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I"
+      },
+      "artists": [
+        {
+          "name": "Nathan Ball",
+          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "Cover To Cover",
+      "url": "https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv"
     },
     {
       "album": {
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 192085,
       "name": "I'll Hold On",
       "url": "https://open.spotify.com/track/0I5zRkBLsUQWnUfZad8vOA"
@@ -2696,6 +2714,24 @@
       "duration_ms": 180812,
       "name": "Passport Home",
       "url": "https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf"
+    },
+    {
+      "album": {
+        "name": "Peaceful Now",
+        "url": "https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN"
+      },
+      "artists": [
+        {
+          "name": "Shishani",
+          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Peaceful Now",
+      "url": "https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE"
     },
     {
       "album": {

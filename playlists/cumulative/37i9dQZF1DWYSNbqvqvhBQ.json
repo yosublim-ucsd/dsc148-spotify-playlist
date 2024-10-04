@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De mooiste en nieuwste liedjes van het moment. Cover: Davina Michelle",
-  "name": "Blijf Luisteren!",
+  "description": "De mooiste liedjes van het moment. Cover: HAEVN",
+  "name": "Blijf Luisteren",
   "tracks": [
     {
       "album": {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189966,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 183000,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 195713,
       "name": "Angel By My Side",
       "url": "https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6"
@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "South of Here",
+        "url": "https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "Call Me (Whatever You Like)",
+      "url": "https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu"
+    },
+    {
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -1263,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Time Is A Thief",
+        "url": "https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227058,
+      "name": "Carry My Name",
+      "url": "https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo"
+    },
+    {
+      "album": {
         "name": "Catching Feelings",
         "url": "https://open.spotify.com/album/2sKFy4cK1BJygH0uFdo92M"
       },
@@ -1314,6 +1350,24 @@
       "duration_ms": 173480,
       "name": "Change",
       "url": "https://open.spotify.com/track/6oCkScXYHXf3ErRyYGZfCR"
+    },
+    {
+      "album": {
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4"
+      },
+      "artists": [
+        {
+          "name": "Sloper",
+          "url": "https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Changing Colors",
+      "url": "https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ"
     },
     {
       "album": {
@@ -1512,6 +1566,24 @@
       "duration_ms": 255750,
       "name": "Dance On The Sun",
       "url": "https://open.spotify.com/track/2t2j5rFPmEyNE1ifFHB0fD"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Feelings",
+        "url": "https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208669,
+      "name": "Dancing On My Feelings",
+      "url": "https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT"
     },
     {
       "album": {
@@ -2350,7 +2422,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
+      "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
@@ -3598,7 +3670,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 206506,
       "name": "How to Say I Love You",
       "url": "https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84"
@@ -3851,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "album": {
         "name": "I'd Rather Go",
         "url": "https://open.spotify.com/album/2HwcQQXDe8CP6EcPnapL8b"
       },
@@ -4036,6 +4126,24 @@
       "duration_ms": 174948,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/1WHK0kQxNqsBJySg4E2djx"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229182,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/6PHprgr1SWomux41HzaXIM"
     },
     {
       "album": {
@@ -4234,7 +4342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 219062,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/7CjlUOK0YssYdpztbkoTvS"
@@ -4382,7 +4490,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
@@ -4659,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL"
       },
@@ -4812,7 +4938,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 215976,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
@@ -5731,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
@@ -6002,7 +6146,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -6164,7 +6308,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 224524,
       "name": "Running Straight To You",
       "url": "https://open.spotify.com/track/5IvjnaCpuvgOZ8aBmnk3AK"
@@ -6519,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else's",
+        "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Somebody Else's",
+      "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
+    },
+    {
+      "album": {
         "name": "Somebody New",
         "url": "https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO"
       },
@@ -6736,7 +6898,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -8698,6 +8860,24 @@
       "duration_ms": 190645,
       "name": "What If I Want You Now",
       "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
+    },
+    {
+      "album": {
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "album": {

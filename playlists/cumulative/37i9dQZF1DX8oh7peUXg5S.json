@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4yQ3RraLLPBW4pXpwQPsEs"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129125,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7544xWBdEiTDXNMOslks1N"
+    },
+    {
+      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 340756,
       "name": "El Panadero",
       "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
@@ -1810,6 +1828,24 @@
       "duration_ms": 233651,
       "name": "El \u00faltimo hombre en la tierra",
       "url": "https://open.spotify.com/track/3WoTzTDj5HMfH1LJweA4SZ"
+    },
+    {
+      "album": {
+        "name": "Els Carrers de Filad\u00e8lfia (Streets of Philadelphia)",
+        "url": "https://open.spotify.com/album/50vt64o8h72PdWDxsAeh3K"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "Els Carrers de Filad\u00e8lfia (Streets of Philadelphia)",
+      "url": "https://open.spotify.com/track/4GzBYCQa4UcXkN9UnsmTNG"
     },
     {
       "album": {
@@ -2193,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Historia compartida",
+        "url": "https://open.spotify.com/album/2JsSP393r9H1oluJ5otK6V"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        },
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274068,
+      "name": "Historia compartida",
+      "url": "https://open.spotify.com/track/6zTENE7A75dlTnjvi0VMKu"
+    },
+    {
+      "album": {
         "name": "Honrar la Vida",
         "url": "https://open.spotify.com/album/4cLGB4NfJG9nll9zTPPSb4"
       },
@@ -2334,7 +2392,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 144680,
       "name": "L'estaca",
       "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"
@@ -2370,7 +2428,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 238430,
       "name": "La Cara Amable del Mundo",
       "url": "https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh"
@@ -2606,6 +2664,28 @@
       "duration_ms": 191484,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/5xAuNiEcaOIGQjoxujEMTE"
+    },
+    {
+      "album": {
+        "name": "La Pena Vuela (VMG)",
+        "url": "https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154842,
+      "name": "La Pena Vuela (VMG)",
+      "url": "https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M"
     },
     {
       "album": {
@@ -4288,7 +4368,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 289317,
       "name": "Quer\u00eda Saber",
       "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
@@ -5052,7 +5132,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 264493,
       "name": "Soy un Coraz\u00f3n Tendido al Sol",
       "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
@@ -5684,7 +5764,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"

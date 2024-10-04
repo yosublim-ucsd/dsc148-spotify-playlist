@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lady Gaga, The Weeknd & Playboi Carti, Tommy Richman, Rauw Alejandro, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,224,192 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,224,367 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

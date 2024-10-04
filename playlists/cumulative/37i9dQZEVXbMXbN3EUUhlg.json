@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 204923,
       "name": "4Tal",
       "url": "https://open.spotify.com/track/6OcZP4rUfuxms2r8Mwx5BQ"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 194800,
       "name": "Ficha Limpa - Ao Vivo",
       "url": "https://open.spotify.com/track/17QN5kFprJqHdHLMj7hz4s"
@@ -13822,7 +13822,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 204339,
       "name": "Maria",
       "url": "https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0"
@@ -15194,7 +15194,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
@@ -15428,7 +15428,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 187037,
       "name": "Morar Nesse Motel",
       "url": "https://open.spotify.com/track/6NJzycLHOAh940pcqcUVp6"
@@ -15806,7 +15806,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
@@ -23800,6 +23800,10 @@
         {
           "name": "Mc Laranjinha",
           "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
         }
       ],
       "date_added": "2024-04-30",
@@ -25310,7 +25314,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 140438,
       "name": "Vai L\u00e1 - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V"

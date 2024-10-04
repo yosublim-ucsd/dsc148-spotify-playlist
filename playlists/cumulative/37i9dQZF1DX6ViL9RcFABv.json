@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Ana Moura",
+  "description": "Uma playlist de pura alma pop! Foto: Calema",
   "name": "Pop PT",
   "tracks": [
     {
@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Celebrau",
+        "url": "https://open.spotify.com/album/5QFdJ1MSVXmZx8RNC6kbnQ"
+      },
+      "artists": [
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Celebrau",
+      "url": "https://open.spotify.com/track/7iIEaCUFTU9bPmo5YvS7eT"
+    },
+    {
+      "album": {
         "name": "CHIQUITINHA",
         "url": "https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY"
       },
@@ -442,6 +460,24 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "album": {
+        "name": "Coimbra Tem Mais Encanto",
+        "url": "https://open.spotify.com/album/7dHL0ajSwNf1TrNDOxpqjA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132106,
+      "name": "Coimbra Tem Mais Encanto",
+      "url": "https://open.spotify.com/track/6QG4L3zBD0PBIHsPhGM0Bm"
     },
     {
       "album": {
@@ -751,6 +787,28 @@
     },
     {
       "album": {
+        "name": "O Lobo Um Dia Ir\u00e1 Comer A Lua",
+        "url": "https://open.spotify.com/album/33ebkdg5pqXKTgP0espZVB"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        },
+        {
+          "name": "Jo\u00e3o N\u00e3o",
+          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186162,
+      "name": "Diz-Me Como",
+      "url": "https://open.spotify.com/track/4dc3yCOyQSpH1aSVx5ioUZ"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ"
       },
@@ -762,7 +820,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 205076,
       "name": "Dois",
       "url": "https://open.spotify.com/track/4eYWyX4X4InIx1QnKkv3UI"
@@ -892,7 +950,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 245705,
       "name": "Essa Mi\u00fada",
       "url": "https://open.spotify.com/track/7nr5FQr0t0JhXOxvjkdsHl"
@@ -1180,7 +1238,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156223,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/00rG52fVU3VmAUqRqH4dQA"
@@ -1685,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "album": {
         "name": "TWALA KUMOXI",
         "url": "https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4"
       },
@@ -1794,7 +1874,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 156330,
       "name": "Quero Saber",
       "url": "https://open.spotify.com/track/24YmUICFiMs6f1IG0HXT4M"

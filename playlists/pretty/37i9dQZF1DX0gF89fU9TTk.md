@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,334 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,359 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 57 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 58 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 59 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
-| 60 | [Holding on to Me](https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Holding on to Me](https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI) | 3:51 |
-| 61 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 |
+| 60 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 |
+| 61 | [Holding on to Me](https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Holding on to Me](https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI) | 3:51 |
 | 62 | [So Close \- Studio](https://open.spotify.com/track/5qEDNdBR6WTI8PccUZVGZT) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Yahweh](https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ) | 4:40 |
 | 63 | [Joy](https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Joy](https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10) | 3:33 |
 | 64 | [WE’RE GOING PUBLIC \(Acoustic\)](https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Quarantine Sessions](https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ) | 3:54 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 66 | [No One Else](https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [No One Else](https://open.spotify.com/album/4aOJdzjOMjBQiTOCBVWLUV) | 3:50 |
 | 67 | [Brighter \- Live](https://open.spotify.com/track/2rED5Vu3HINA7kc3paWxJt) | [ARISE Worship](https://open.spotify.com/artist/4Yqk5es0U4Q1A92FpullUi) | [Brighter \(Live\)](https://open.spotify.com/album/5xplj2rt2dXTDWrvXCCPN5) | 3:28 |
 | 68 | [You Got Me \- Radio Version](https://open.spotify.com/track/5JanbpCjPtVo9AK6DfZYjB) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [You Got Me](https://open.spotify.com/album/6uQDtiVknSKRo1QpnFCNoh) | 3:32 |
-| 69 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
-| 70 | [What Else](https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [What Else](https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu) | 3:35 |
+| 69 | [What Else](https://open.spotify.com/track/5omNTlxMUhgLw05noDovfl) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [What Else](https://open.spotify.com/album/5Z85Gw3JnxYzjQCAkreQuu) | 3:35 |
+| 70 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 71 | [You Are Here \(Studio\)](https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [You Are Here](https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa) | 4:36 |
 | 72 | [New Life](https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [A Day In The Life](https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy) | 5:36 |
 | 73 | [Take up My Cross](https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Amanda Riffe](https://open.spotify.com/artist/5HM5gxgsOPrWixDWTHY4q1) | [Take up My Cross](https://open.spotify.com/album/57anwGoRcq8db6qLSp5XB9) | 3:30 |
 | 74 | [Space God \- Live](https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9) | [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Space God \(Live\)](https://open.spotify.com/album/1dKi7MRpG4qcuJXPHEmPVZ) | 3:47 |
-| 75 | [Dancing Through The Fire](https://open.spotify.com/track/6lNqZ2EPOdrBqeM5zrFrpT) | [C3 SYD](https://open.spotify.com/artist/6aK3VmUhTWxLnpoIjXAv1W) | [Dancing Through The Fire](https://open.spotify.com/album/70mUNBqDVM7pQKhEeOAU3i) | 3:11 |
-| 76 | [Holy Spirit Lead](https://open.spotify.com/track/3qjqGhv5KUL9sY8sYKp3fH) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi) | [Holy Spirit Lead](https://open.spotify.com/album/0GjdpYQHhTtVXgq5FAfcAN) | 3:50 |
+| 75 | [Holy Spirit Lead](https://open.spotify.com/track/3qjqGhv5KUL9sY8sYKp3fH) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi) | [Holy Spirit Lead](https://open.spotify.com/album/0GjdpYQHhTtVXgq5FAfcAN) | 3:50 |
+| 76 | [Dancing Through The Fire](https://open.spotify.com/track/6lNqZ2EPOdrBqeM5zrFrpT) | [C3 SYD](https://open.spotify.com/artist/6aK3VmUhTWxLnpoIjXAv1W) | [Dancing Through The Fire](https://open.spotify.com/album/70mUNBqDVM7pQKhEeOAU3i) | 3:11 |
 | 77 | [Already Blessed \(Remix\)](https://open.spotify.com/track/7qVMr7n11xHXe3MmdwWQKJ) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed \(Remix\)](https://open.spotify.com/album/3ZaR6IqHlBkUnAGpIhgbAh) | 3:04 |
 | 78 | [\[welcome to the garden\]](https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[welcome to the garden\]](https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu) | 3:21 |
 | 79 | [My Victory](https://open.spotify.com/track/2aFox42xDA6YeV3nRVQ0AA) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Hope St\. Revival](https://open.spotify.com/album/3EI3NzZ35JfoUZfjMXRmki) | 3:05 |

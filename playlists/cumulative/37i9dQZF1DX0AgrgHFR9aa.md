@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : PLK
+> Les plus belles plumes rap français du moment\. Photo : B.B\. Jacques
 
-64 songs - 3 hr 39 min
+67 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [24 ans](https://open.spotify.com/track/2WoL0xAc3ngFWyMhgI1UV9) | [LMA](https://open.spotify.com/artist/5TkDGv15Vfe7X91xleonsi) | [Petit prince](https://open.spotify.com/album/5tqRZ4Yjk6YpJWQF9GZtXj) | 3:32 | 2024-09-19 |  |
 | [3 lettres](https://open.spotify.com/track/18AgQ8ntZmrEe7ENxrAnhP) | [Will LCK](https://open.spotify.com/artist/1AOmxLQB5Drdf3Yf4NiTzm), [Kanaye](https://open.spotify.com/artist/09mEAA5fI8YLTd2uIliz1X), [Mehsah](https://open.spotify.com/artist/7Ggd4PYENVbfzd9tWC2TN5) | [3 lettres](https://open.spotify.com/album/4eDbnyT6vcIBAC5HHfkTdX) | 3:05 | 2024-06-27 | 2024-09-27 |
 | [7 VIES \(feat\. Sofiane Pamart\) \- Bonus](https://open.spotify.com/track/3Hh3hbbgmDnSbr8kYuvx98) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [7 VIES \(feat\. Sofiane Pamart\) \[Bonus\]](https://open.spotify.com/album/7n7B2br4veokMC1M7mVutH) | 4:33 | 2024-06-27 |  |
-| [93° FAHRENHEIT](https://open.spotify.com/track/0BKWziIDMgFsRzQ8d9DpdU) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [93° FAHRENHEIT](https://open.spotify.com/album/5zEqaT3rnoYwmzahYXNbtb) | 3:12 | 2024-06-27 |  |
+| [93° FAHRENHEIT](https://open.spotify.com/track/0BKWziIDMgFsRzQ8d9DpdU) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [93° FAHRENHEIT](https://open.spotify.com/album/5zEqaT3rnoYwmzahYXNbtb) | 3:12 | 2024-06-27 | 2024-10-04 |
 | [Alain](https://open.spotify.com/track/0ddKHPkFBKA2UqIQu9YMcj) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr) | 3:39 | 2024-06-27 | 2024-09-20 |
 | [Anomalie](https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Anomalie](https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd) | 7:17 | 2024-06-27 |  |
 | [Avec des mots](https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Avec des mots](https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu) | 3:12 | 2024-06-27 |  |
@@ -30,6 +30,7 @@
 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 | 2024-08-30 |
 | [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 | 2024-07-12 |
 | [J'irai pas voir un psy](https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:57 | 2024-07-18 |  |
+| [JAMAIS COMME AVANT](https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [BLACKBIRD](https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ) | 3:29 | 2024-10-03 |  |
 | [Jubilee Year](https://open.spotify.com/track/37xT591ePNYFZiEuz7Bzu8) | [Tito Prince](https://open.spotify.com/artist/0noD1tUbBty2LsLBQncdU8) | [Jubilee Year](https://open.spotify.com/album/5lka9WpJIbeiJiOQ2kl6ML) | 2:42 | 2024-09-12 |  |
 | [Kayano](https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq) | 3:19 | 2024-06-27 |  |
 | [L'Amour](https://open.spotify.com/track/64CEYM2rKpmeNYNKHg3bfC) | [SKRIZ](https://open.spotify.com/artist/59OVD8Vap8QSm5daZ0uw0d), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [SOIZETTE](https://open.spotify.com/album/2fG6WJKoJrQmjE6Suojppw) | 2:02 | 2024-09-19 |  |
@@ -47,7 +48,9 @@
 | [Les vivants qui s'enterrent](https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [PS: J'écris l'album](https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1) | 4:19 | 2024-06-27 | 2024-09-27 |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 |  |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 | 2024-07-27 |
-| [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 |  |
+| [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 | 2024-10-04 |
+| [Olympien](https://open.spotify.com/track/62aBHWpAqVlvXsmKDwVXfp) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 1:47 | 2024-10-03 |  |
+| [Paix](https://open.spotify.com/track/3qWNQvfLnnkg9K3ZvOmYkK) | [Souli](https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn) | [Paix](https://open.spotify.com/album/6EIhSo6iCjDUprlXSYx1Lf) | 2:59 | 2024-10-03 |  |
 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 |  |
 | [Pistol Pit](https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng) | [Mr Kayz](https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Pistol Pit](https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE) | 2:36 | 2024-09-26 |  |
 | [Plaine des Asphodèles](https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Plaine des Asphodèles](https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB) | 2:36 | 2024-08-29 |  |
@@ -70,7 +73,7 @@
 | [Vernissage](https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 3:12 | 2024-06-27 | 2024-08-30 |
 | [Vérité 7](https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité 7](https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1) | 5:54 | 2024-06-27 | 2024-07-19 |
 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2024-06-27 |  |
-| [À long terme](https://open.spotify.com/track/0fPHcL6jj7A1xiL6ylPi42) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Hannibal Part.1](https://open.spotify.com/album/5JZSMkDce7VAR6Lkq8w4IW) | 3:00 | 2024-07-18 |  |
+| [À long terme](https://open.spotify.com/track/0fPHcL6jj7A1xiL6ylPi42) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Hannibal Part.1](https://open.spotify.com/album/5JZSMkDce7VAR6Lkq8w4IW) | 3:00 | 2024-07-18 | 2024-10-04 |
 | [Étoiles et satellites](https://open.spotify.com/track/4rIuseQQZbyvOzkTOJL4Ul) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Dire je t'aime](https://open.spotify.com/album/0UmPcapIPeSln1hGyKL3jb) | 3:04 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1,28 +1,160 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33442,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
+  "num_followers": 33453,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvvw0QAAAADuXFa1avTBwbcRHkSwBcuW",
+  "snapshot_id": "Zv63UgAAAADkxRJeGyHqeIaHhNlDWpK/",
   "tracks": [
     {
-      "added_at": "2024-07-19 14:43:57",
+      "added_at": "2024-10-03 06:15:54",
       "album": {
-        "name": "Maawa Paata",
-        "url": "https://open.spotify.com/album/6thV698YCV2goAO1Jx6oTl"
+        "name": "YOU ARE MINE",
+        "url": "https://open.spotify.com/album/0u1XYaLu8j9hpkKJLiVyxX"
       },
       "artists": [
         {
-          "name": "Jammers",
-          "url": "https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u"
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
         }
       ],
-      "duration_ms": 159896,
-      "name": "Maawa Paata",
-      "url": "https://open.spotify.com/track/6fyg0c8ktTqKjEodSB9QgF"
+      "duration_ms": 192874,
+      "name": "YOU ARE MINE",
+      "url": "https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW"
+    },
+    {
+      "added_at": "2024-01-19 10:41:06",
+      "album": {
+        "name": "Chilaka",
+        "url": "https://open.spotify.com/album/1FmqOLK6uViRA2ciMZFGPd"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Chilaka",
+      "url": "https://open.spotify.com/track/1twQpI67lgEWZvKf8HObSK"
+    },
+    {
+      "added_at": "2024-01-18 12:44:48",
+      "album": {
+        "name": "Teliyadhe",
+        "url": "https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        }
+      ],
+      "duration_ms": 241071,
+      "name": "Teliyadhe",
+      "url": "https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W"
+    },
+    {
+      "added_at": "2024-02-14 08:46:26",
+      "album": {
+        "name": "Ninne Ninne",
+        "url": "https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF"
+      },
+      "artists": [
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        }
+      ],
+      "duration_ms": 256355,
+      "name": "Ninne Ninne",
+      "url": "https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg"
+    },
+    {
+      "added_at": "2022-12-15 05:24:18",
+      "album": {
+        "name": "Chelimidata",
+        "url": "https://open.spotify.com/album/5hbNVbA6Z5rq0XnT7lKcK0"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Kadali",
+          "url": "https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk"
+        },
+        {
+          "name": "Sandilya Pisapati",
+          "url": "https://open.spotify.com/artist/6Dvs7Ln15awHQFR3W6Rrh8"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Chelimidata",
+      "url": "https://open.spotify.com/track/3G1hvYenckuF0w4n27eMwb"
+    },
+    {
+      "added_at": "2024-04-05 05:02:44",
+      "album": {
+        "name": "O Seliya",
+        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Krovvidi",
+          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        },
+        {
+          "name": "Feroz Israel",
+          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "O Seliya",
+      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
+    },
+    {
+      "added_at": "2024-06-29 06:47:19",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Dinker kalvala",
+          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
+        },
+        {
+          "name": "Tushar Budhwani",
+          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
     },
     {
       "added_at": "2024-09-12 04:34:33",
@@ -277,30 +409,6 @@
       "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
     },
     {
-      "added_at": "2024-04-05 05:02:44",
-      "album": {
-        "name": "O Seliya",
-        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
-      },
-      "artists": [
-        {
-          "name": "Ganesh Krovvidi",
-          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
-        },
-        {
-          "name": "Ricky B",
-          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
-        },
-        {
-          "name": "Feroz Israel",
-          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "O Seliya",
-      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
-    },
-    {
       "added_at": "2024-05-25 02:47:53",
       "album": {
         "name": "Thaanu",
@@ -461,30 +569,6 @@
       "url": "https://open.spotify.com/track/3SSAFT9NPbQTTAT8cKCuyD"
     },
     {
-      "added_at": "2024-06-29 06:47:19",
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp"
-      },
-      "artists": [
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Dinker kalvala",
-          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
-        },
-        {
-          "name": "Tushar Budhwani",
-          "url": "https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq"
-        }
-      ],
-      "duration_ms": 207310,
-      "name": "Kala",
-      "url": "https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu"
-    },
-    {
       "added_at": "2024-07-29 06:40:42",
       "album": {
         "name": "Salary Anthem",
@@ -515,22 +599,6 @@
       "duration_ms": 275454,
       "name": "Bujji Pilla",
       "url": "https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou"
-    },
-    {
-      "added_at": "2024-06-21 12:22:47",
-      "album": {
-        "name": "Dating",
-        "url": "https://open.spotify.com/album/4ndscRMyf24KnLjdbsIyRg"
-      },
-      "artists": [
-        {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
-        }
-      ],
-      "duration_ms": 177405,
-      "name": "Dating",
-      "url": "https://open.spotify.com/track/3t0HbbzwR3jw1nDMV7qhVR"
     },
     {
       "added_at": "2024-07-11 10:53:00",
@@ -573,22 +641,6 @@
       "url": "https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce"
     },
     {
-      "added_at": "2024-04-15 10:05:43",
-      "album": {
-        "name": "Kalavarama",
-        "url": "https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N"
-      },
-      "artists": [
-        {
-          "name": "Kishan D'Souza",
-          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
-        }
-      ],
-      "duration_ms": 209996,
-      "name": "Kalavarama",
-      "url": "https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31"
-    },
-    {
       "added_at": "2024-03-17 07:06:34",
       "album": {
         "name": "Cheli Ra!",
@@ -627,22 +679,6 @@
       "duration_ms": 233333,
       "name": "Shahbano - Telugu",
       "url": "https://open.spotify.com/track/6ShmStKOGEONmr439CaoO1"
-    },
-    {
-      "added_at": "2024-04-19 04:59:46",
-      "album": {
-        "name": "Ninna Monnalo",
-        "url": "https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX"
-      },
-      "artists": [
-        {
-          "name": "Nikesh Kumar Dasagrandhi",
-          "url": "https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd"
-        }
-      ],
-      "duration_ms": 194807,
-      "name": "Ninna Monnalo",
-      "url": "https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo"
     },
     {
       "added_at": "2024-02-14 05:38:02",
@@ -685,26 +721,6 @@
       "url": "https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy"
     },
     {
-      "added_at": "2024-01-18 12:44:48",
-      "album": {
-        "name": "Teliyadhe",
-        "url": "https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt"
-      },
-      "artists": [
-        {
-          "name": "KASYAP",
-          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
-        },
-        {
-          "name": "Lipsika Bhashyam",
-          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
-        }
-      ],
-      "duration_ms": 241071,
-      "name": "Teliyadhe",
-      "url": "https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W"
-    },
-    {
       "added_at": "2024-03-05 09:03:28",
       "album": {
         "name": "Ne Kothaga",
@@ -731,22 +747,6 @@
       "duration_ms": 186119,
       "name": "Ne Kothaga",
       "url": "https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe"
-    },
-    {
-      "added_at": "2024-02-14 08:46:26",
-      "album": {
-        "name": "Ninne Ninne",
-        "url": "https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF"
-      },
-      "artists": [
-        {
-          "name": "Satya Yamini",
-          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
-        }
-      ],
-      "duration_ms": 256355,
-      "name": "Ninne Ninne",
-      "url": "https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg"
     },
     {
       "added_at": "2024-03-05 09:13:45",
@@ -911,26 +911,6 @@
       "duration_ms": 167537,
       "name": "Eruvaka Sagalantey",
       "url": "https://open.spotify.com/track/5kMC9Aqzxn5NPCsFqNezIM"
-    },
-    {
-      "added_at": "2024-01-19 10:41:06",
-      "album": {
-        "name": "Chilaka",
-        "url": "https://open.spotify.com/album/1FmqOLK6uViRA2ciMZFGPd"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Chilaka",
-      "url": "https://open.spotify.com/track/1twQpI67lgEWZvKf8HObSK"
     },
     {
       "added_at": "2024-01-29 06:22:51",
@@ -1199,34 +1179,6 @@
       "duration_ms": 328208,
       "name": "Emone",
       "url": "https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh"
-    },
-    {
-      "added_at": "2022-12-15 05:24:18",
-      "album": {
-        "name": "Chelimidata",
-        "url": "https://open.spotify.com/album/5hbNVbA6Z5rq0XnT7lKcK0"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Kadali",
-          "url": "https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk"
-        },
-        {
-          "name": "Sandilya Pisapati",
-          "url": "https://open.spotify.com/artist/6Dvs7Ln15awHQFR3W6Rrh8"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Chelimidata",
-      "url": "https://open.spotify.com/track/3G1hvYenckuF0w4n27eMwb"
     },
     {
       "added_at": "2023-10-04 06:37:49",

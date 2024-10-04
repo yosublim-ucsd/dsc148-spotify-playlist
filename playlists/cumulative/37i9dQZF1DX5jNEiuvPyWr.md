@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Savage Toddy
+> Le meilleur du rap français version cloud\. Photo : GS
 
-428 songs - 20 hr 57 min
+430 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-22 |  |
 | [2ECOND](https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW) | [Rodrigo](https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy), [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [ÉTERNEL SECOND](https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj) | 4:16 | 2024-04-11 | 2024-06-01 |
+| [2NIGHT](https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [2NIGHT](https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O) | 2:00 | 2024-10-03 |  |
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
 | [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 |  |
 | [7](https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [7](https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw) | 2:41 | 2024-02-01 | 2024-06-01 |
@@ -93,6 +94,7 @@
 | [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 | 2022-07-29 |
 | [Coeur abimé](https://open.spotify.com/track/6x40VT2kRXPiM8AiNt3txn) | [Jayel](https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF) | [Coeur abimé](https://open.spotify.com/album/50T8VXZfysf3dcpijH9sPK) | 2:50 | 2022-11-24 | 2023-04-28 |
 | [Coeur noir](https://open.spotify.com/track/1sbo7jQxRWdRgtCOgC56zY) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Coeur noir](https://open.spotify.com/album/6lEke0YNvODr0AnGDvmnmR) | 2:32 | 2023-09-07 | 2023-10-13 |
+| [Coeur trop petit pour deux](https://open.spotify.com/track/5rseoSZlvuhGn9RAVRYbv8) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Coeur trop petit pour deux](https://open.spotify.com/album/6Dgq9UHso7w1M412cmoe4x) | 3:07 | 2024-10-03 |  |
 | [Comme une image](https://open.spotify.com/track/7uEFA39rzt4FoFm9PrS76H) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [Omri](https://open.spotify.com/album/2x4Pa4XLn4r9JrpscZ5uv0) | 2:59 | 2024-05-23 | 2024-06-28 |
 | [Comme ça](https://open.spotify.com/track/1uBJsPHcyDfyg9wewkYUj7) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Comme ça](https://open.spotify.com/album/7GJ0cZpKrkJe8Kv52V2ur9) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Comme ça](https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Sans rancune](https://open.spotify.com/album/5mUSYIz36ISQy7PjJUHB2b) | 2:42 | 2022-07-28 | 2022-10-21 |
@@ -207,7 +209,7 @@
 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 | 2023-11-09 | 2024-02-02 |
 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 | 2023-09-07 | 2023-10-20 |
 | [Juste un moment](https://open.spotify.com/track/4ysL8o0IjoUpby6XslUy4n) | [Donguti](https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf) | [Désolé pour mes doutes](https://open.spotify.com/album/2DnYN2DMzgHVzAfV2OsSTu) | 3:03 | 2024-05-02 | 2024-06-28 |
-| [Katrina](https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Katrina](https://open.spotify.com/album/3pIirpXIcZFjNh3FKeMYny) | 3:04 | 2024-06-27 |  |
+| [Katrina](https://open.spotify.com/track/0H0hEsGMDxX7RjAPhz3LAF) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Katrina](https://open.spotify.com/album/3pIirpXIcZFjNh3FKeMYny) | 3:04 | 2024-06-27 | 2024-10-04 |
 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 | 2024-01-19 |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'Audacieuse](https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [L'Audacieuse](https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6) | 2:34 | 2023-10-26 | 2023-12-01 |
@@ -302,7 +304,7 @@
 | [OMERTÀ](https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [OMERTÀ](https://open.spotify.com/album/4ez5SqQc5JoMUYbVBvbmGj) | 2:51 | 2022-07-14 | 2022-10-14 |
 | [OTREMOND](https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [OTREMOND](https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e) | 3:25 | 2022-10-13 | 2022-11-25 |
 | [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 | 2022-08-26 |
-| [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 | 2024-06-06 |  |
+| [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 | 2024-06-06 | 2024-10-04 |
 | [Para](https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l) | [VERSIONBETA7](https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR) | [Erreurs](https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc) | 2:39 | 2024-02-08 | 2024-04-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 | 2022-12-24 |
 | [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 | 2024-07-18 | 2024-08-30 |

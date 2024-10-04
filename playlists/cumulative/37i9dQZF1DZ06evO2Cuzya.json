@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "i love you, i'm sorry (gracie abrams) [sped up version]",
+        "url": "https://open.spotify.com/album/1CR9fymG325FMJhVfKVpqe"
+      },
+      "artists": [
+        {
+          "name": "sped up viral",
+          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130085,
+      "name": "i love you, i'm sorry (gracie abrams) - sped up version",
+      "url": "https://open.spotify.com/track/3GrmAc2Gi0XMEwi3Scx6w9"
+    },
+    {
+      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },

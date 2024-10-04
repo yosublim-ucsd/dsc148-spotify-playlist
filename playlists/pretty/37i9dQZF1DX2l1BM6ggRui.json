@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6510,
+  "num_followers": 6508,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Be with me",
+      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "KHAMAI",
         "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
@@ -843,34 +859,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
       },
       "artists": [
         {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Be with me",
-      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "Summer Bliss",
-        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
-      },
-      "artists": [
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
         {
-          "name": "JinE",
-          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Summer Bliss",
-      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -895,22 +899,18 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "For you, my sunshine",
-        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
         }
       ],
-      "duration_ms": 226346,
-      "name": "For you, my sunshine",
-      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe"
+      },
+      "artists": [
+        {
+          "name": "Mew",
+          "url": "https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/2pqlJF13zbO268SNONERS4"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "Seoul Check-in OST Part 10",
         "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 201266,
       "name": "FREE SMILE",
       "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe"
-      },
-      "artists": [
-        {
-          "name": "Mew",
-          "url": "https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/2pqlJF13zbO268SNONERS4"
     },
     {
       "added_at": "2024-09-04 08:03:50",

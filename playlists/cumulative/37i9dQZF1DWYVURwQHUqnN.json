@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 164400,
       "name": "ELISA",
       "url": "https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 188717,
       "name": "Mes Lov\u00e9s",
       "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Oh mi Amor",
+        "url": "https://open.spotify.com/album/7bm68Bnbwnk5jEC5Km2y1R"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167730,
+      "name": "Oh mi Amor",
+      "url": "https://open.spotify.com/track/79O6u526DOBHP0IIUxZuxt"
+    },
+    {
+      "album": {
         "name": "Oh qu'elle est belle",
         "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
       },
@@ -2272,6 +2290,24 @@
       "duration_ms": 220013,
       "name": "Oh qu'elle est belle",
       "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
+    },
+    {
+      "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "album": {
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 181275,
       "name": "QU\u00c9 LO QUE",
       "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
@@ -2794,6 +2830,56 @@
       "duration_ms": 156146,
       "name": "Risqu\u00e9",
       "url": "https://open.spotify.com/track/6HCVioNcqAhwl3dkVLBhjE"
+    },
+    {
+      "album": {
+        "name": "13 Organis\u00e9 2",
+        "url": "https://open.spotify.com/album/5ijEA7Uw0jSWlGJcqEqoEs"
+      },
+      "artists": [
+        {
+          "name": "13 Organis\u00e9",
+          "url": "https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Fahar",
+          "url": "https://open.spotify.com/artist/4hpTPFhq6Ok3wGhFqa7pGy"
+        },
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        },
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Jjxh7WmGD0GdX2f9l3FYb"
+        },
+        {
+          "name": "Veazy",
+          "url": "https://open.spotify.com/artist/6iBhhfO297wskZQuZtWnpG"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328933,
+      "name": "Rolex pr\u00e9sidentielle",
+      "url": "https://open.spotify.com/track/2RXQkxvCCkuEPHmlum1Dy1"
     },
     {
       "album": {

@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "P\u00c1JARO AZUL",
+        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "invierno",
+      "url": "https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi"
+    },
+    {
+      "album": {
         "name": "La Estrella del Show",
         "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 215800,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"

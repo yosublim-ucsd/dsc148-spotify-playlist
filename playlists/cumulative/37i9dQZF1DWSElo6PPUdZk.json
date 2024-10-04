@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/2p1NTIbbZU1qTBCyXcKcsm"
+      },
+      "artists": [
+        {
+          "name": "Jenny Johal",
+          "url": "https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        },
+        {
+          "name": "IRIS Music",
+          "url": "https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256084,
+      "name": "Aadat",
+      "url": "https://open.spotify.com/track/5OU0FrRy5ayPf2B0SPa0Mg"
+    },
+    {
+      "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy"
       },
@@ -442,10 +468,32 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 201745,
       "name": "Defaulter",
       "url": "https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz"
+    },
+    {
+      "album": {
+        "name": "Dhill",
+        "url": "https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q"
+      },
+      "artists": [
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Dhill",
+      "url": "https://open.spotify.com/track/0r2wxY718iQRndDklGbt21"
     },
     {
       "album": {
@@ -1396,7 +1444,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 178958,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt"

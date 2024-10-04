@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Murphy\n",
-  "num_followers": 59568,
+  "num_followers": 59584,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvzgYAAAAADBwVwHDqtMdYDQCyKgtBhS",
+  "snapshot_id": "Zv7KAAAAAACApSEmGkBOB0L3uknaQx0m",
   "tracks": [
     {
       "added_at": "2024-09-30 06:43:35",
@@ -31,6 +31,30 @@
       "duration_ms": 238200,
       "name": "Mogachi (From \"Murphy\")",
       "url": "https://open.spotify.com/track/6PD9exSQzp6pz2qPwF8uol"
+    },
+    {
+      "added_at": "2024-10-03 16:43:23",
+      "album": {
+        "name": "Munde Hego Yeno (From \"Araam Aravinda Swamy\")",
+        "url": "https://open.spotify.com/album/2mtf75IpD4AYYOYLXtUE0g"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Munde Hego Yeno (From \"Araam Aravinda Swamy\")",
+      "url": "https://open.spotify.com/track/2Uh5GD7dKuH4X3bHHOizx9"
     },
     {
       "added_at": "2024-09-02 12:05:23",
@@ -107,6 +131,30 @@
       "duration_ms": 298000,
       "name": "Ninna Jhothe (From \"Mr. Celebrity - Kannada\")",
       "url": "https://open.spotify.com/track/4S6E46imKvcVG4S3EUBqOq"
+    },
+    {
+      "added_at": "2024-10-03 16:44:48",
+      "album": {
+        "name": "Do Lucky (From \"Mr. Celebrity - Kannada\")",
+        "url": "https://open.spotify.com/album/0CYnBKoHDW5STNEf9GvapY"
+      },
+      "artists": [
+        {
+          "name": "Vinod Yajamanya",
+          "url": "https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR"
+        },
+        {
+          "name": "Rama Durgam",
+          "url": "https://open.spotify.com/artist/09dYbajCM8q1uSNMukcKsL"
+        },
+        {
+          "name": "Arjun Vijay",
+          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Do Lucky (From \"Mr. Celebrity - Kannada\")",
+      "url": "https://open.spotify.com/track/2lHwZWWopwdLy56ZT59XwH"
     },
     {
       "added_at": "2024-10-02 05:55:44",
@@ -1619,30 +1667,6 @@
       "duration_ms": 206545,
       "name": "Fire Song (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/0BcItvjKv36SRfjgeAZL4A"
-    },
-    {
-      "added_at": "2024-07-19 09:19:17",
-      "album": {
-        "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
-        "url": "https://open.spotify.com/album/27AJjlrPtGLB5UpoJknrC5"
-      },
-      "artists": [
-        {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
-        },
-        {
-          "name": "Suraj Jois",
-          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
-        },
-        {
-          "name": "Sanjay Malavalli",
-          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
-        }
-      ],
-      "duration_ms": 193660,
-      "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
-      "url": "https://open.spotify.com/track/4DXkV2DvUBXdXs8j49oBgF"
     },
     {
       "added_at": "2024-07-23 12:48:55",

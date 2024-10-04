@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,066 likes - 170 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,011 likes - 170 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

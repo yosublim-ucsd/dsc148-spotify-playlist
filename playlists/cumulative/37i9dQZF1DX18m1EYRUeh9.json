@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/3VosNIq1BsvkR9OzDlDoZ3"
+      },
+      "artists": [
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202063,
+      "name": "(re)Turn",
+      "url": "https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI"
+    },
+    {
+      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
       },
@@ -926,6 +944,42 @@
       "duration_ms": 335186,
       "name": "Daddy's Gonna Tell You No Lie",
       "url": "https://open.spotify.com/track/25w1nwtRPI5ozR13AH7E5O"
+    },
+    {
+      "album": {
+        "name": "Lahai - Deluxe",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
+    },
+    {
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/2AsALnfIz6b3mgSKc3cYu1"
+      },
+      "artists": [
+        {
+          "name": "alici",
+          "url": "https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121109,
+      "name": "De Repente",
+      "url": "https://open.spotify.com/track/1hLSM9sQ991v1EAR1h5GyG"
     },
     {
       "album": {
@@ -3381,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132320,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "album": {
         "name": "SEE YOU TRY...",
         "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
       },
@@ -4510,6 +4582,28 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43659,
+  "num_followers": 43669,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Waves (Acoustic)",
+        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248176,
+      "name": "Waves - Acoustic",
+      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Waves (Acoustic)",
-        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248176,
-      "name": "Waves - Acoustic",
-      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Everything Is Easy",
         "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
       },
       "artists": [
         {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Angus & Julia Stone (Deluxe)",
-        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
         }
       ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL"
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sponge Cake",
         "url": "https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 248590,
       "name": "Be About You",
       "url": "https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 203316,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Silence/Win",
         "url": "https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 248733,
       "name": "Window to the Sky",
       "url": "https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 203316,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
       "artists": [
         {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
+      "duration_ms": 217000,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1047,34 +1047,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 286785,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD"
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1091,6 +1075,22 @@
       "duration_ms": 272093,
       "name": "Deeper Water",
       "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 286785,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Recordings Of The Middle East",
-        "url": "https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "My Own Pool of Light",
         "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
       },
@@ -1187,6 +1171,26 @@
       "duration_ms": 223040,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "The Messengers",
+          "url": "https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Leaps And Bounds",
+      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1223,6 +1227,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Recordings Of The Middle East",
+        "url": "https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Gossip",
-        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
       },
       "artists": [
         {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "The Messengers",
-          "url": "https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Leaps And Bounds",
-      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1271,22 +1287,6 @@
       "duration_ms": 200905,
       "name": "Leave That",
       "url": "https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",

@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190641,
       "name": "A Cappella",
       "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 232500,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/3M7HvhoFGJghWokTkAGRUJ"
@@ -1695,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/1LOWYMjMQJxGazjrlpnI6L"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        },
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192934,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/5ludDBASLNjFINkMhMs8Al"
+    },
+    {
+      "album": {
         "name": "Continuum (Moritz Hofbauer Remix)",
         "url": "https://open.spotify.com/album/0CGXqPj2TDdDJxpZU6W8tT"
       },
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 218709,
       "name": "Delete Time",
       "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
@@ -3329,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288115,
+      "name": "Find A Way - Adam Sellouk Remix",
+      "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
+    },
+    {
+      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -3668,7 +3712,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 229959,
       "name": "Freyja",
       "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
@@ -4414,7 +4458,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
@@ -5866,6 +5910,32 @@
       "duration_ms": 344156,
       "name": "Let's Get It Right - Innellea Remix",
       "url": "https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi"
+    },
+    {
+      "album": {
+        "name": "Let's Go Dancing",
+        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228372,
+      "name": "Let's Go Dancing",
+      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
     },
     {
       "album": {
@@ -7406,7 +7476,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 258236,
       "name": "Nothing Ever Changes - Camelphat Remix",
       "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
@@ -9310,7 +9380,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 377288,
       "name": "Seen",
       "url": "https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj"
@@ -9956,6 +10026,28 @@
       "duration_ms": 428908,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/26Yk79sAcZyBZZGTvo1Woi"
+    },
+    {
+      "album": {
+        "name": "Starvation (ANNA Remix)",
+        "url": "https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "Starvation - ANNA Remix",
+      "url": "https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH"
     },
     {
       "album": {
@@ -11163,6 +11255,32 @@
     },
     {
       "album": {
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348458,
+      "name": "Time - Nihil Young Remix",
+      "url": "https://open.spotify.com/track/3DHXEhyUTI7qr9dnWpWThw"
+    },
+    {
+      "album": {
         "name": "Time Keeper",
         "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
       },
@@ -11441,6 +11559,24 @@
     },
     {
       "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/5FkG72VCBcwRxBs5hMUvra"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329523,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn"
+    },
+    {
+      "album": {
         "name": "Try / I Need You Now",
         "url": "https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G"
       },
@@ -11712,6 +11848,24 @@
       "duration_ms": 201657,
       "name": "Under Your Spine",
       "url": "https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid"
+    },
+    {
+      "album": {
+        "name": "Uno Y Cuatro",
+        "url": "https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Uno Y Cuatro",
+      "url": "https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO"
     },
     {
       "album": {

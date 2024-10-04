@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Emily Makis, Deadline",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Koven, Steve Aoki",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -11180,7 +11180,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 170400,
       "name": "Playing With Fire (feat. Zac Pajak)",
       "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
@@ -11298,6 +11298,28 @@
       "duration_ms": 193103,
       "name": "Punching Holes",
       "url": "https://open.spotify.com/track/0IX0Pj2FKvvWrZUz26J3ZB"
+    },
+    {
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/5KRYfMMz8GEFXU1vDt4hiy"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153558,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/729B5zjWEZ1GPow5IzTJhJ"
     },
     {
       "album": {
@@ -12080,6 +12102,28 @@
       "duration_ms": 179015,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF"
+      },
+      "artists": [
+        {
+          "name": "Mia Kirkland",
+          "url": "https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191303,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na"
     },
     {
       "album": {
@@ -13756,7 +13800,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 133793,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
@@ -14096,7 +14140,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 183548,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg"
@@ -15828,6 +15872,32 @@
       "duration_ms": 234827,
       "name": "We All Need Someone",
       "url": "https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP"
+    },
+    {
+      "album": {
+        "name": "We No Care",
+        "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        },
+        {
+          "name": "Sola",
+          "url": "https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "We No Care",
+      "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
     },
     {
       "album": {

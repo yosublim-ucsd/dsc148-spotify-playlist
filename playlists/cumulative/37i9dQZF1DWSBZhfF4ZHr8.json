@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Amir",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Ouidad",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 302200,
       "name": "30",
       "url": "https://open.spotify.com/track/3pC7iN76SIPmxz2zjEEUtn"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 147782,
       "name": "Am\u00e8re",
       "url": "https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 175760,
       "name": "LA DONNE",
       "url": "https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 143331,
       "name": "La vie n'attend pas",
       "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
@@ -898,6 +898,24 @@
       "duration_ms": 183093,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0fONeo4QwEvZHnDxb0NLOJ"
+    },
+    {
+      "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
     },
     {
       "album": {
@@ -1104,6 +1122,24 @@
       "duration_ms": 139681,
       "name": "Mon regard",
       "url": "https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d"
+    },
+    {
+      "album": {
+        "name": "La prison des amoureuses malheureuses",
+        "url": "https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Mute",
+      "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
     },
     {
       "album": {
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Me voil\u00e0.",
+        "url": "https://open.spotify.com/album/3343W4NSJeFjymjgkwsKdY"
+      },
+      "artists": [
+        {
+          "name": "Victorien",
+          "url": "https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169018,
+      "name": "Plus rien",
+      "url": "https://open.spotify.com/track/65bsljUmUwY2n7PPFDXp7N"
+    },
+    {
+      "album": {
         "name": "\u00c9quilibre (Summer \u00c9dition)",
         "url": "https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU"
       },
@@ -1390,10 +1444,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 168960,
       "name": "Qui j'\u00e9tais",
       "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"
+    },
+    {
+      "album": {
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198637,
+      "name": "Quitte",
+      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
     },
     {
       "album": {
@@ -1426,7 +1498,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 190840,
       "name": "R\u00e9sister (What about Peace?)",
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
@@ -1451,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
+      },
+      "artists": [
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214807,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
+    },
+    {
+      "album": {
         "name": "Sentiers de la brume",
         "url": "https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L"
       },
@@ -1466,6 +1556,28 @@
       "duration_ms": 236066,
       "name": "Sentiers de la brume",
       "url": "https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2"
+    },
+    {
+      "album": {
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
     },
     {
       "album": {
@@ -1541,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "T'en aller",
+        "url": "https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191655,
+      "name": "T'en aller",
+      "url": "https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY"
+    },
+    {
+      "album": {
         "name": "Avec un H (Acoustique)",
         "url": "https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY"
       },
@@ -1552,7 +1682,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177119,
       "name": "T'es Partout",
       "url": "https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd"
@@ -1606,7 +1736,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 153266,
       "name": "Ton regard",
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
@@ -1718,7 +1848,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 166253,
       "name": "Vice Versa",
       "url": "https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F"

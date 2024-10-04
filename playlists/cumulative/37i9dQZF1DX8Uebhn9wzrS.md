@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,084 songs - 3 day 7 hr 26 min
+2,085 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-04-15 | 2022-11-12 |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2023-11-17 | 2024-08-10 |
 | [Bulls Eye](https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Bulls Eye](https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s) | 1:46 | 2024-03-22 |  |
-| [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 |  |
+| [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 | 2024-10-04 |
 | [Buoyant Time](https://open.spotify.com/track/10ka1GxK5M8AJxzc21XzeW) | [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj), [Math\-Mic](https://open.spotify.com/artist/5ZtY0L9BEnWtTcPZyNVKV3), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Buoyant Time](https://open.spotify.com/album/2H553rKRXK4SBpXJvOxvC6) | 2:39 | 2022-07-01 | 2022-11-26 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 | 2024-08-31 |
 | [Butterfly Wings](https://open.spotify.com/track/3APXIJxOJapEUUlYE29Dpu) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Solar Body](https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO) | [Butterfly Wings](https://open.spotify.com/album/7BJ0oYYtU7NPWNJtTP9rJt) | 2:24 | 2022-07-29 | 2022-10-01 |
@@ -702,6 +702,7 @@
 | [fullcircle](https://open.spotify.com/track/64sNnWjrj6BKQWTcIvamjX) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [fullcircle](https://open.spotify.com/album/4o8ZfgXhz6fgXGsmTnsWlY) | 1:59 | 2022-06-17 | 2022-08-12 |
 | [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 | 2022-08-12 | 2022-12-09 |
 | [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2022-10-14 |  |
+| [fuzzy felt](https://open.spotify.com/track/6O3xwq4eNvNfNJNMwcOoHv) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [fuzzy felt](https://open.spotify.com/album/0824UYqa5jrkbLzWK1GU6e) | 2:38 | 2024-09-27 |  |
 | [G\-Jazz](https://open.spotify.com/track/1MQHacUW73AKPG9nlf28oZ) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Mvdk](https://open.spotify.com/artist/4o7tRo120tjPGqAVvh15uH) | [G\-Jazz](https://open.spotify.com/album/2oyil3WZ48IFS55oqVGGMS) | 2:12 | 2023-02-06 | 2023-09-29 |
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-04-15 | 2022-09-23 |
@@ -1349,7 +1350,7 @@
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
 | [overused.](https://open.spotify.com/track/0EsSBz7kNvkDOa2JTk7AqZ) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [overused.](https://open.spotify.com/album/0yfcaOnt3yHljzqImWnnAK) | 1:54 | 2024-09-27 |  |
 | [Ovinhos](https://open.spotify.com/track/4EJs8WoephOYOiGcHR7QUQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [handful](https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL) | 2:18 | 2024-07-05 |  |
-| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 | 2024-09-28 |
+| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 |  |
 | [Pacific Highway](https://open.spotify.com/track/6zflxqdtATYTIWGoOQKZZv) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Pacific Highway](https://open.spotify.com/album/5TePX9AcqnHsVlqvS1BWFa) | 2:18 | 2022-11-25 | 2023-09-16 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-04-20 | 2023-09-29 |
 | [Pagans](https://open.spotify.com/track/6OrK4sjjGOvTuqQlx4QHhe) | [Brother Took](https://open.spotify.com/artist/1pZIRdqI2jk41VuxmqS9e1) | [Pagans](https://open.spotify.com/album/4zGcYEFzgMUKyT2lyNlHqP) | 2:13 | 2024-03-01 | 2024-07-19 |
@@ -1586,7 +1587,7 @@
 | [series one](https://open.spotify.com/track/7euY11C8aJF0cCTL4nqJxn) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [series one](https://open.spotify.com/album/2P6V6lLhsY74iDGlhBSYpW) | 2:31 | 2023-01-13 |  |
 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 | 2024-08-16 |  |
 | [seven](https://open.spotify.com/track/0x5lZBgd6EekTwkTGVGE7M) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [seven](https://open.spotify.com/album/2kbVdVtXdNRlDg8gUbOmJ2) | 2:36 | 2023-01-06 |  |
-| [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 |  |
+| [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 | 2024-10-04 |
 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 | 2022-04-15 | 2022-09-02 |
 | [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 | 2024-02-23 |  |
 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 | 2022-04-15 | 2022-10-29 |

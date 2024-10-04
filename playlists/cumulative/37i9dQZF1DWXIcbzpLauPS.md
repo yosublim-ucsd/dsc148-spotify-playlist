@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: 156/Silence
 
-1,017 songs - 2 day 14 hr 59 min
+1,018 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 | 2022-11-24 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-07-23 |
 | [Careless Offering](https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Heavy Pendulum](https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t) | 4:55 | 2022-05-20 | 2022-08-20 |
-| [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 |  |
+| [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 | 2024-10-04 |
 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 | 2024-07-12 | 2024-08-26 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
 | [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 | 2024-07-19 |
@@ -626,6 +626,7 @@
 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 | 2024-03-08 |  |
 | [nights](https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [nights](https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY) | 2:02 | 2024-04-12 | 2024-08-13 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
+| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 |  |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [No Evil](https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [No Evil](https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD) | 2:30 | 2023-03-31 | 2023-09-16 |
 | [No Heaven](https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [No Heaven](https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa) | 3:24 | 2022-10-21 | 2023-08-19 |

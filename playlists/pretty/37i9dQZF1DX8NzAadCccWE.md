@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,869 likes - 160 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,882 likes - 160 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 22 | [Kitty Kitty](https://open.spotify.com/track/6M2QE3PwFSC3kGmqQ0xg4p) | [Red Light](https://open.spotify.com/artist/4ndHkMtVrpNSGBSIvARx76) | [Wake Up EP](https://open.spotify.com/album/4mKShYqjGJouuGOD98NcsS) | 4:34 |
 | 23 | [Living for the Future \- FBD Project Remix](https://open.spotify.com/track/2RbNzK6Ln03Brz4z6XxfiL) | [Omni Trio](https://open.spotify.com/artist/2lWfeg9pEv7nuCkZMbnhai), [FBD Project](https://open.spotify.com/artist/37eMJixxlYDzimtN9PpRvZ) | [The Deepest Cut](https://open.spotify.com/album/1477kJBkwDxOPPBFlXSxq4) | 6:15 |
 | 24 | [Outta Mind](https://open.spotify.com/track/2ewq283CRTf2EcfYPxEmBJ) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Ontology](https://open.spotify.com/artist/4kDkJLxzmgMWm0ze5XSXgD), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [On Sight](https://open.spotify.com/album/0CZ0iMP1X4e7o4GKax4k0y) | 3:45 |
-| 25 | [Divine](https://open.spotify.com/track/29TUThHV69B4W3Rid5cWxi) | [Mantra](https://open.spotify.com/artist/1cv0SzAI5xh7QCFgiUjyAI), [Decibella](https://open.spotify.com/artist/7dgq4diTXTqfB2DhGsO69L), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [FR016](https://open.spotify.com/album/03giJToze4gUsw98COPtMG) | 6:18 |
+| 25 | [Divine](https://open.spotify.com/track/29TUThHV69B4W3Rid5cWxi) | [Mantra](https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy), [Decibella](https://open.spotify.com/artist/7dgq4diTXTqfB2DhGsO69L), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [FR016](https://open.spotify.com/album/03giJToze4gUsw98COPtMG) | 6:18 |
 | 26 | [YOU](https://open.spotify.com/track/6AduSRuuWbGeQYJIM5HE7T) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Eigenwise](https://open.spotify.com/album/5eo4trPhzsVaCrpYsOd9gq) | 3:18 |
 | 27 | [Turn Up](https://open.spotify.com/track/7jcfJqZK4Tz4BwEuYQs54A) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:17 |
 | 28 | [Detroit](https://open.spotify.com/track/3bakmwCGNKApcqyhxGX9tZ) | [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 4:00 |

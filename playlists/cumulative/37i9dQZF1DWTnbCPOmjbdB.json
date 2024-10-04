@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Natalia Szroeder, Mela Koteluk",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 201844,
       "name": "Chory",
       "url": "https://open.spotify.com/track/7jfmUcIxrhJWXyd18rE26L"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 127058,
       "name": "Daj mi wi\u0119cej",
       "url": "https://open.spotify.com/track/3Q1vp15Y12dYTBrAYHhE8G"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Jenga",
+        "url": "https://open.spotify.com/album/6tU2xyoMM6SDb8O2Ava3E6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Kukulska",
+          "url": "https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295382,
+      "name": "Jenga",
+      "url": "https://open.spotify.com/track/5aCcRU0v0oIKiT78KkPwyV"
+    },
+    {
+      "album": {
         "name": "Terminal 3",
         "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
@@ -1366,10 +1384,40 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 160709,
       "name": "kochaj na serio",
       "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
+    },
+    {
+      "album": {
+        "name": "KONFETTI",
+        "url": "https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "KONFETTI",
+      "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
     },
     {
       "album": {
@@ -1545,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Lepiej jest mi bez",
+        "url": "https://open.spotify.com/album/5Bf9I9hLw5qiZnlwip8AkV"
+      },
+      "artists": [
+        {
+          "name": "Questy",
+          "url": "https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Lepiej jest mi bez",
+      "url": "https://open.spotify.com/track/1gcUY7kGDeWBzd3QYhZTvO"
+    },
+    {
+      "album": {
         "name": "Lepiej ni\u017c teraz",
         "url": "https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF"
       },
@@ -1610,7 +1676,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 177000,
       "name": "love song sad",
       "url": "https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp"
@@ -1932,7 +1998,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 210005,
       "name": "Na drodze do wspomnie\u0144",
       "url": "https://open.spotify.com/track/0o47I063bicp11QIF3eY2E"
@@ -2229,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Niebezpieczni",
+        "url": "https://open.spotify.com/album/0el7LOLE5aIVqdSGmg9s7h"
+      },
+      "artists": [
+        {
+          "name": "Ewelina Lisowska",
+          "url": "https://open.spotify.com/artist/30HgsjsOObH4cjFMuQgqkw"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143428,
+      "name": "Niebezpieczni",
+      "url": "https://open.spotify.com/track/51asGNbLAImt58HLJJZBVg"
+    },
+    {
+      "album": {
         "name": "Niepoprawny",
         "url": "https://open.spotify.com/album/0AkH0q0cfo60MjEdgBMiHG"
       },
@@ -2443,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/75cG0ZzLY6XjQamYYHyq18"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253374,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/1VYn5dKMp7iPNB3gwyWZbq"
+    },
+    {
+      "album": {
         "name": "nie wracam",
         "url": "https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1"
       },
@@ -2462,6 +2564,24 @@
       "duration_ms": 162608,
       "name": "pami\u0119tasz?",
       "url": "https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP"
+    },
+    {
+      "album": {
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "Papierowe serca",
+      "url": "https://open.spotify.com/track/5bF0mUdaVqfS4JVMSXzuX5"
     },
     {
       "album": {
@@ -2501,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Pla\u017ca i randka?!",
+        "url": "https://open.spotify.com/album/2anfCazuuvEQzpMpotJrX6"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136130,
+      "name": "Pla\u017ca i randka?!",
+      "url": "https://open.spotify.com/track/6avEd5txXNYYoTGU87b9YJ"
+    },
+    {
+      "album": {
         "name": "Pod niebem",
         "url": "https://open.spotify.com/album/4iGkuhElmJluQ9Qq1SNQVi"
       },
@@ -2512,7 +2650,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 159000,
       "name": "Pod niebem",
       "url": "https://open.spotify.com/track/1Xe7kB9DUEVdnD1pJGHSxP"
@@ -2920,7 +3058,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 167619,
       "name": "Story",
       "url": "https://open.spotify.com/track/4ByFyvkzkGqup81BF1S894"
@@ -3025,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Tak czy siak",
+        "url": "https://open.spotify.com/album/4qk8WffGXUhMLh9xnawJuh"
+      },
+      "artists": [
+        {
+          "name": "WOLSKA",
+          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Tak czy siak",
+      "url": "https://open.spotify.com/track/5AqhFeOXihghh39Vil9snn"
+    },
+    {
+      "album": {
         "name": "Wracam do siebie",
         "url": "https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a"
       },
@@ -3036,7 +3192,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 178947,
       "name": "Tak jak ja",
       "url": "https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg"
@@ -3192,6 +3348,28 @@
       "duration_ms": 192813,
       "name": "To nie powt\u00f3rzy si\u0119",
       "url": "https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik"
+    },
+    {
+      "album": {
+        "name": "Troch\u0119 Za Blisko",
+        "url": "https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149323,
+      "name": "Troch\u0119 Za Blisko",
+      "url": "https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz"
     },
     {
       "album": {
@@ -3672,7 +3850,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 187193,
       "name": "Zdj\u0119cia",
       "url": "https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU"
@@ -3712,7 +3890,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-04",
       "duration_ms": 173333,
       "name": "Znak",
       "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
@@ -3792,6 +3970,86 @@
       "duration_ms": 195649,
       "name": "Z\u0142amane serce jest OK",
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"
+    },
+    {
+      "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/3jg7fWt9ICAS6x4Sbmh99J"
+      },
+      "artists": [
+        {
+          "name": "Rozta\u0144czona Reprezentacja",
+          "url": "https://open.spotify.com/artist/4qcSzDRPEULQx7588K3dlr"
+        },
+        {
+          "name": "Zenon Martyniuk",
+          "url": "https://open.spotify.com/artist/3K5gIlI52RvGBMonWwBmVf"
+        },
+        {
+          "name": "Defis",
+          "url": "https://open.spotify.com/artist/1ADzqaqcbKegWHVOzRecNw"
+        },
+        {
+          "name": "Marcin Miller",
+          "url": "https://open.spotify.com/artist/4Y4Zn09n65QHa8pdtOGCkF"
+        },
+        {
+          "name": "Mi\u0142yPan",
+          "url": "https://open.spotify.com/artist/3QzCLiXmrHKt345V0NovaU"
+        },
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/00ekfPE5ZS3NwF8H8o8GBk"
+        },
+        {
+          "name": "Weekend",
+          "url": "https://open.spotify.com/artist/4jPwc1E9EXPQbryc1YKbjl"
+        },
+        {
+          "name": "S\u0142awomir",
+          "url": "https://open.spotify.com/artist/3HmvAXONzbbfk15Lu0VRw0"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "Magdalena Naro\u017cna",
+          "url": "https://open.spotify.com/artist/2tIId6vYI05J1pjNraKQAs"
+        },
+        {
+          "name": "\u0141obuzy",
+          "url": "https://open.spotify.com/artist/4wJtkZRfieBICxs8onRjy6"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239882,
+      "name": "Z\u0142oto",
+      "url": "https://open.spotify.com/track/4TW4b0Tp7NmJZMEQ1QJ009"
+    },
+    {
+      "album": {
+        "name": "Z\u0142oty piasek / Delay",
+        "url": "https://open.spotify.com/album/4NNWrvqLW1glKy5QHK64Gx"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Z\u0142oty piasek",
+      "url": "https://open.spotify.com/track/0KxGw0LdY2SM0OISevzACW"
     },
     {
       "album": {
